@@ -3229,7 +3229,8 @@ ItemDisplay[UNI !ID 8ws !ETH]:%DOT-0C%%GOLD%@@  %RED%Skull Collector%GOLD%[Rune 
 ItemDisplay[UNI !ID 8ws ETH]:%DOT-0C%%GOLD%@@  %PURPLE%ETH %RED%Skull Collector%GOLD%[Rune Staff] %ORANGE%(EX) %GOLD%@@
 ItemDisplay[UNI !ID nef !ETH]:%DOT-0C%%GOLD%@@  %RED%Darkforce Spawn%GOLD%[Bloodlord Skull] %ORANGE%(EL)  %GOLD%@@
 ItemDisplay[UNI !ID nef ETH]:%DOT-0C%%GOLD%@@  %PURPLE%ETH %RED%Darkforce Spawn%GOLD%[Bloodlord Skull] %ORANGE%(EL)  %GOLD%@@
-
+ItemDisplay[UNI !ID 7ws !ETH]:%DOT-0C%%GOLD%@@  %RED%Astreon's Iron Ward%GOLD%[Caduceus] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7ws ETH]:%DOT-0C%%GOLD%@@  %PURPLE%ETH %RED%Astreon's Iron Ward%GOLD%[Caduceus] %ORANGE%(EL) %GOLD%@@
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%%NAME%    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID jew]:%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%R%ORANGE%a%YELLOW%i%GREEN%n%BLUE%b%PURPLE%o%WHITE%w %GOLD%Facet    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
@@ -3653,8 +3654,6 @@ ItemDisplay[UNI !ID 9ws !ETH]:%ORANGE%@@  %TAN%Hand of Blessed Light%GOLD%[Divin
 ItemDisplay[UNI !ID 9ws ETH]:%ORANGE%@@  %PURPLE%ETH %TAN%Hand of Blessed Light%GOLD%[Divine Scepter] %ORANGE%(EX) %ORANGE%@@
 ItemDisplay[UNI !ID 7sc !ETH]:%ORANGE%@@  %TAN%Heaven's Light or the Redeemer%GOLD%[Mighty Scepter] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID 7sc ETH]:%ORANGE%@@  %PURPLE%ETH %TAN%Heaven's Light or ETH the Redeemer%GOLD%[Mighty Scepter] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID 7ws !ETH]:%ORANGE%@@  %TAN%Astreon's Iron Ward%GOLD%[Caduceus] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID 7ws ETH]:%ORANGE%@@  %PURPLE%ETH %TAN%Astreon's Iron Ward%GOLD%[Caduceus] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID spr !ETH]:%ORANGE%@@  %TAN%The Dragon Chang%GOLD%[Spear] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID spr ETH]:%ORANGE%@@  %PURPLE%ETH %TAN%The Dragon Chang%GOLD%[Spear] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID tri !ETH]:%ORANGE%@@  %TAN%Razortine%GOLD%[Trident] %ORANGE%(N) %ORANGE%@@
