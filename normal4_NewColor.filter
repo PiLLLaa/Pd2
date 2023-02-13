@@ -7322,8 +7322,8 @@ ItemDisplay[(WEAPON OR ARMOR) ID (CRAFT) STAT360=75]:%NAME%%PURPLE%[%YELLOW%MaxD
 ItemDisplay[(WEAPON OR ARMOR) ID (CRAFT) (STAT360>75 OR STAT360=1)]:%NAME% %RED%C{%NAME%}%CONTINUE%
 //Corrupted Marking New+MIRRORED
 //ItemDisplay[(WEAPON OR ARMOR OR cqv OR aqv OR rin OR amu OR ram) ID (MAG OR RARE OR CRAFT OR SET OR UNI OR RW) STAT486>0]:%NAME% %PURPLE%MI*{%NAME%}%CONTINUE%
-ItemDisplay[(WEAPON OR ARMOR OR cqv OR aqv OR rin OR amu OR ram) ID (MAG OR RARE OR CRAFT OR SET OR UNI OR RW) STAT477=4]:%NAME%{%GRAY%Black Mirrored%NL%%NAME%}%CONTINUE%
-ItemDisplay[(WEAPON OR ARMOR OR cqv OR aqv OR rin OR amu OR ram) ID (MAG OR RARE OR CRAFT OR SET OR UNI OR RW) STAT477=21]:%NAME%{%WHITE%White Mirrored%NL%%NAME%}%CONTINUE%
+//ItemDisplay[(WEAPON OR ARMOR OR cqv OR aqv OR rin OR amu OR ram) ID (MAG OR RARE OR CRAFT OR SET OR UNI OR RW) STAT477=4]:%NAME%{%GRAY%Black Mirrored%NL%%NAME%}%CONTINUE%
+//ItemDisplay[(WEAPON OR ARMOR OR cqv OR aqv OR rin OR amu OR ram) ID (MAG OR RARE OR CRAFT OR SET OR UNI OR RW) STAT477=21]:%NAME%{%WHITE%White Mirrored%NL%%NAME%}%CONTINUE%
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                            ITEM RECIPES&GRADE MARKING  FOR CUBING                           //
