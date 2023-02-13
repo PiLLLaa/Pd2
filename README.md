@@ -832,3 +832,7 @@
      1) Normal3 updated for Max damage marking on the item
 ![image](https://user-images.githubusercontent.com/76995697/218284574-db8d087e-a0fa-4be0-a7d2-ff253a296326.png)
      
+  79. 2/13
+   
+     1) Added Armor 1 skil corrupted option marking
+     2) Added Fire aura runeword markig
