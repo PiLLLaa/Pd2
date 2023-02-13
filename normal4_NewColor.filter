@@ -3197,12 +3197,14 @@ ItemDisplay[UNI !ID drd !ETH]:%BORDER-62%%PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%G
 ItemDisplay[UNI !ID drd ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Spirit Keeper%GOLD%[Earth Spirit] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 8ws !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Skull Collector%GOLD%[Rune Staff] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 8ws ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Skull Collector%GOLD%[Rune Staff] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
-ItemDisplay[UNI !ID 9bw !ETH]:%DOT-0C%%ORANGE%@%WHITE%@  %RED%Arm of King Leoric%GOLD%[Tomb Wand] %GRAY%(EX) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID 9bw ETH]:%DOT-0C%%ORANGE%@%WHITE%@  %WHITE%eth %RED%Arm of King Leoric%GOLD%[Tomb Wand] %GRAY%(EX) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID 7lw !ETH]:%DOT-0C%%ORANGE%@%WHITE%@  %RED%Firelizard's Talons%GOLD%[Feral Claws] %GRAY%(EL) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID 7lw ETH]:%DOT-0C%%ORANGE%@%WHITE%@  %WHITE%eth %RED%Firelizard's Talons%GOLD%[Feral Claws] %GRAY%(EL) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID nef !ETH]:%DOT-0C%%ORANGE%@%WHITE%@  %RED%Darkforce Spawn%GOLD%[Bloodlord Skull] %ORANGE%(EL) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID nef ETH]:%DOT-0C%%ORANGE%@%WHITE%@  %PURPLE%ETH %RED%Darkforce Spawn%GOLD%[Bloodlord Skull] %ORANGE%(EL) %ORANGE%@%WHITE%@
+ItemDisplay[UNI !ID 9bw !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Arm of King Leoric%GOLD%[Tomb Wand] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID 9bw ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Arm of King Leoric%GOLD%[Tomb Wand] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID 7lw !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Firelizard's Talons%GOLD%[Feral Claws] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID 7lw ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Firelizard's Talons%GOLD%[Feral Claws] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID nef !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Darkforce Spawn%GOLD%[Bloodlord Skull] %ORANGE%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID nef ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %PURPLE%ETH %RED%Darkforce Spawn%GOLD%[Bloodlord Skull] %ORANGE%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID 7ws !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Astreon's Iron Ward%GOLD%[Caduceus] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID 7ws ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Astreon's Iron Ward%GOLD%[Caduceus] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%BORDER-62%%PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@ %RED%%NAME% %PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@
@@ -3543,8 +3545,6 @@ ItemDisplay[UNI !ID 9ws !ETH]:%ORANGE%@%WHITE%@  %TAN%Hand of Blessed Light%GOLD
 ItemDisplay[UNI !ID 9ws ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Hand of Blessed Light%GOLD%[Divine Scepter] %GRAY%(EX) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID 7sc !ETH]:%ORANGE%@%WHITE%@  %TAN%Heaven's Light or the Redeemer%GOLD%[Mighty Scepter] %GRAY%(EL) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID 7sc ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Heaven's Light or ETH the Redeemer%GOLD%[Mighty Scepter] %GRAY%(EL) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID 7ws !ETH]:%ORANGE%@%WHITE%@  %TAN%Astreon's Iron Ward%GOLD%[Caduceus] %GRAY%(EL) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID 7ws ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Astreon's Iron Ward%GOLD%[Caduceus] %GRAY%(EL) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID spr !ETH]:%ORANGE%@%WHITE%@  %TAN%The Dragon Chang%GOLD%[Spear] %GRAY%(N) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID spr ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%The Dragon Chang%GOLD%[Spear] %GRAY%(N) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID tri !ETH]:%ORANGE%@%WHITE%@  %TAN%Razortine%GOLD%[Trident] %GRAY%(N) %ORANGE%@%WHITE%@
