@@ -3058,6 +3058,13 @@ ItemDisplay[RW MULTI151,119=9]:%NAME% %GREEN%+9 Sanc%CONTINUE%
 ItemDisplay[RW MULTI151,119=8]:%NAME% %GREEN%+8 Sanc%CONTINUE%
 ItemDisplay[RW MULTI151,119=7]:%NAME% %GREEN%+7 Sanc%CONTINUE%
 ItemDisplay[RW MULTI151,119=6]:%NAME% %GREEN%+6 Sanc%CONTINUE%
+
+ItemDisplay[RW MULTI151,100=6]:%NAME% %RED%+6 FAura%CONTINUE%
+ItemDisplay[RW MULTI151,100=5]:%NAME% %RED%+5 FAura%CONTINUE%
+ItemDisplay[RW MULTI151,100=4]:%NAME% %RED%+4 FAura%CONTINUE%
+ItemDisplay[RW MULTI151,100=3]:%NAME% %RED%+3 FAura%CONTINUE%
+ItemDisplay[RW MULTI151,100=2]:%NAME% %RED%+2 FAura%CONTINUE%
+ItemDisplay[RW MULTI151,100=1]:%NAME% %RED%+1 FAura%CONTINUE%
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                           UNIQUE                                            //
 /////////////////////////////////////////////////////////////////////////////////////////////////
