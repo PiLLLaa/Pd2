@@ -3186,12 +3186,14 @@ ItemDisplay[UNI !ID drd !ETH]:%BORDER-62%%PURPLE%O%ORANGE%O%GOLD%O%WHITE%O%GOLD%
 ItemDisplay[UNI !ID drd ETH]:%DOT-0C%%ORANGE%O%GOLD%O%WHITE%O%PURPLE%O %WHITE%eth %RED%Spirit Keeper%GOLD%[Earth Spirit] %GRAY%(EL) %ORANGE%O%GOLD%O%WHITE%O%PURPLE%O
 ItemDisplay[UNI !ID 8ws !ETH]:%DOT-0C%%ORANGE%O%GOLD%O%WHITE%O%PURPLE%O %RED%Skull Collector%GOLD%[Rune Staff] %GRAY%(EX) %ORANGE%O%GOLD%O%WHITE%O%PURPLE%O
 ItemDisplay[UNI !ID 8ws ETH]:%DOT-0C%%ORANGE%O%GOLD%O%WHITE%O%PURPLE%O %WHITE%eth %RED%Skull Collector%GOLD%[Rune Staff] %GRAY%(EX) %ORANGE%O%GOLD%O%WHITE%O%PURPLE%O
-ItemDisplay[UNI !ID 9bw !ETH]:%DOT-0C%%ORANGE%O%WHITE%O  %RED%Arm of King Leoric%GOLD%[Tomb Wand] %GRAY%(EX) %ORANGE%O%WHITE%O
-ItemDisplay[UNI !ID 9bw ETH]:%DOT-0C%%ORANGE%O%WHITE%O  %WHITE%eth %RED%Arm of King Leoric%GOLD%[Tomb Wand] %GRAY%(EX) %ORANGE%O%WHITE%O
-ItemDisplay[UNI !ID 7lw !ETH]:%DOT-0C%%ORANGE%O%WHITE%O  %RED%Firelizard's Talons%GOLD%[Feral Claws] %GRAY%(EL) %ORANGE%O%WHITE%O
-ItemDisplay[UNI !ID 7lw ETH]:%DOT-0C%%ORANGE%O%WHITE%O  %WHITE%eth %RED%Firelizard's Talons%GOLD%[Feral Claws] %GRAY%(EL) %ORANGE%O%WHITE%O
-ItemDisplay[UNI !ID nef !ETH]:%DOT-0C%%ORANGE%O%WHITE%O  %RED%Darkforce Spawn%GOLD%[Bloodlord Skull] %ORANGE%(EL) %ORANGE%O%WHITE%O
-ItemDisplay[UNI !ID nef ETH]:%DOT-0C%%ORANGE%O%WHITE%O  %PURPLE%ETH %RED%Darkforce Spawn%GOLD%[Bloodlord Skull] %ORANGE%(EL) %ORANGE%O%WHITE%O
+ItemDisplay[UNI !ID 9bw !ETH]:%DOT-0C%%ORANGE%O%GOLD%O%WHITE%O%PURPLE%O %RED%Arm of King Leoric%GOLD%[Tomb Wand] %GRAY%(EX) %ORANGE%O%GOLD%O%WHITE%O%PURPLE%O
+ItemDisplay[UNI !ID 9bw ETH]:%DOT-0C%%ORANGE%O%GOLD%O%WHITE%O%PURPLE%O %WHITE%eth %RED%Arm of King Leoric%GOLD%[Tomb Wand] %GRAY%(EX) %ORANGE%O%GOLD%O%WHITE%O%PURPLE%O
+ItemDisplay[UNI !ID 7lw !ETH]:%DOT-0C%%ORANGE%O%GOLD%O%WHITE%O%PURPLE%O %RED%Firelizard's Talons%GOLD%[Feral Claws] %GRAY%(EL) %ORANGE%O%GOLD%O%WHITE%O%PURPLE%O
+ItemDisplay[UNI !ID 7lw ETH]:%DOT-0C%%ORANGE%O%GOLD%O%WHITE%O%PURPLE%O %WHITE%eth %RED%Firelizard's Talons%GOLD%[Feral Claws] %GRAY%(EL) %ORANGE%O%GOLD%O%WHITE%O%PURPLE%O
+ItemDisplay[UNI !ID nef !ETH]:%DOT-0C%%ORANGE%O%GOLD%O%WHITE%O%PURPLE%O %RED%Darkforce Spawn%GOLD%[Bloodlord Skull] %ORANGE%(EL) %ORANGE%O%GOLD%O%WHITE%O%PURPLE%O
+ItemDisplay[UNI !ID nef ETH]:%DOT-0C%%ORANGE%O%GOLD%O%WHITE%O%PURPLE%O %PURPLE%ETH %RED%Darkforce Spawn%GOLD%[Bloodlord Skull] %ORANGE%(EL) %ORANGE%O%GOLD%O%WHITE%O%PURPLE%O
+ItemDisplay[UNI !ID 7ws !ETH]:%DOT-0C%%ORANGE%O%GOLD%O%WHITE%O%PURPLE%O %RED%Astreon's Iron Ward%GOLD%[Caduceus] %GRAY%(EL) %ORANGE%O%GOLD%O%WHITE%O%PURPLE%O
+ItemDisplay[UNI !ID 7ws ETH]:%DOT-0C%%ORANGE%O%GOLD%O%WHITE%O%PURPLE%O %WHITE%eth %RED%Astreon's Iron Ward%GOLD%[Caduceus] %GRAY%(EL) %ORANGE%O%GOLD%O%WHITE%O%PURPLE%O
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%BORDER-62%%PURPLE%O%ORANGE%O%GOLD%O%WHITE%O%GOLD%O%ORANGE%O%PURPLE%O %RED%%NAME% %PURPLE%O%ORANGE%O%GOLD%O%WHITE%O%GOLD%O%ORANGE%O%PURPLE%O
@@ -3532,8 +3534,6 @@ ItemDisplay[UNI !ID 9ws !ETH]:%ORANGE%O%WHITE%O  %TAN%Hand of Blessed Light%GOLD
 ItemDisplay[UNI !ID 9ws ETH]:%ORANGE%O%WHITE%O  %WHITE%eth %TAN%Hand of Blessed Light%GOLD%[Divine Scepter] %GRAY%(EX) %ORANGE%O%WHITE%O
 ItemDisplay[UNI !ID 7sc !ETH]:%ORANGE%O%WHITE%O  %TAN%Heaven's Light or the Redeemer%GOLD%[Mighty Scepter] %GRAY%(EL) %ORANGE%O%WHITE%O
 ItemDisplay[UNI !ID 7sc ETH]:%ORANGE%O%WHITE%O  %WHITE%eth %TAN%Heaven's Light or ETH the Redeemer%GOLD%[Mighty Scepter] %GRAY%(EL) %ORANGE%O%WHITE%O
-ItemDisplay[UNI !ID 7ws !ETH]:%ORANGE%O%WHITE%O  %TAN%Astreon's Iron Ward%GOLD%[Caduceus] %GRAY%(EL) %ORANGE%O%WHITE%O
-ItemDisplay[UNI !ID 7ws ETH]:%ORANGE%O%WHITE%O  %WHITE%eth %TAN%Astreon's Iron Ward%GOLD%[Caduceus] %GRAY%(EL) %ORANGE%O%WHITE%O
 ItemDisplay[UNI !ID spr !ETH]:%ORANGE%O%WHITE%O  %TAN%The Dragon Chang%GOLD%[Spear] %GRAY%(N) %ORANGE%O%WHITE%O
 ItemDisplay[UNI !ID spr ETH]:%ORANGE%O%WHITE%O  %WHITE%eth %TAN%The Dragon Chang%GOLD%[Spear] %GRAY%(N) %ORANGE%O%WHITE%O
 ItemDisplay[UNI !ID tri !ETH]:%ORANGE%O%WHITE%O  %TAN%Razortine%GOLD%[Trident] %GRAY%(N) %ORANGE%O%WHITE%O
