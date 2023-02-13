@@ -2817,18 +2817,18 @@ ItemDisplay[UNI !ID pa9 ETH]: %DOT-0C% %GOLD%@%WHITE%@%BLUE%@%DARK_GREEN%@     %
 //pd2 Enhanced item
 ItemDisplay[UNI !ID uh9 !ETH]:%BORDER-62%%BLUE%@@%WHITE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%RED%@@    %RED%Giant Skull    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID uh9 ETH]:%BORDER-62%%BLUE%@@%WHITE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%RED%@@    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Giant Skull    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID uhm !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%VeilofSteel %TAN%Or %GREEN%NightwingsVeil %GOLD%@@
-ItemDisplay[UNI !ID uhm ETH]:%DOT-0C%%GOLD%+%RED%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%VeilofSteel %TAN%Or %GREEN%NightwingsVeil %GOLD%++
+ItemDisplay[UNI !ID uhm !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%VeilofSteel %TAN%Or %GREEN%NightwingsVeil %GOLD%@%RED%@
+ItemDisplay[UNI !ID uhm ETH]:%DOT-0C%%GOLD%+%RED%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%VeilofSteel %TAN%Or %GREEN%NightwingsVeil %GOLD%+%RED%+
 ItemDisplay[UNI !ID urn !ETH]:%BORDER-62%%BLUE%++%WHITE%++%YELLOW%++%GREEN%++%BLUE%++%RED%++    %RED%Crown of Ages    %RED%++%ORANGE%++%YELLOW%++%GREEN%++%BLUE%++%PURPLE%++
 ItemDisplay[UNI !ID urn ETH]:%DOT-0C%%GOLD%+%RED%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Crown of Ages%TAN%[Corona%PURPLE%] %GRAY%-EL- %GOLD%+%RED%+
-ItemDisplay[UNI !ID rng !ETH]:%DOT-0C%%GOLD%+%RED%+  %RED%Darkglow%TAN%[Ring Mail%PURPLE%] %GRAY%-N-  %GOLD%++
-ItemDisplay[UNI !ID rng ETH]:%DOT-0C%%GOLD%+%RED%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Darkglow%TAN%[Ring Mail%PURPLE%] %GRAY%-N-  %GOLD%++
+ItemDisplay[UNI !ID rng !ETH]:%DOT-0C%%GOLD%+%RED%+  %RED%Darkglow%TAN%[Ring Mail%PURPLE%] %GRAY%-N-  %GOLD%+%RED%+
+ItemDisplay[UNI !ID rng ETH]:%DOT-0C%%GOLD%+%RED%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Darkglow%TAN%[Ring Mail%PURPLE%] %GRAY%-N-  %GOLD%+%RED%+
 ItemDisplay[UNI !ID xth !ETH]:%BORDER-62%%BLUE%++%WHITE%++%YELLOW%++%GREEN%++%BLUE%++%RED%++    %RED%Atma's Wail    %RED%++%ORANGE%++%YELLOW%++%GREEN%++%BLUE%++%PURPLE%++
-ItemDisplay[UNI !ID xth ETH]:%DOT-0C%%GOLD%+%RED%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Atma's Wail%TAN%[Embossed Plate%PURPLE%] %GRAY%-EX-  %GOLD%++
-ItemDisplay[UNI !ID xul !ETH]:%DOT-0C%%GOLD%+%RED%+  %RED%Black Hades%TAN%[Chaos Armor%PURPLE%] %GRAY%-EX-  %GOLD%++
-ItemDisplay[UNI !ID xul ETH]:%DOT-0C%%GOLD%+%RED%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Black Hades%TAN%[Chaos Armor%PURPLE%] %GRAY%-EX-  %GOLD%++
-ItemDisplay[UNI !ID xar !ETH]:%DOT-0C%%GOLD%+%RED%+ %RED%Corpsemourn%TAN%[Ornate Armor%PURPLE%] %GRAY%-EX-  %GOLD%++
-ItemDisplay[UNI !ID xar ETH]:%DOT-0C%%GOLD%+%RED%+ %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Corpsemourn%TAN%[Ornate Armor%PURPLE%] %GRAY%-EX-  %GOLD%++
+ItemDisplay[UNI !ID xth ETH]:%DOT-0C%%GOLD%+%RED%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Atma's Wail%TAN%[Embossed Plate%PURPLE%] %GRAY%-EX-  %GOLD%+%RED%+
+ItemDisplay[UNI !ID xul !ETH]:%DOT-0C%%GOLD%+%RED%+  %RED%Black Hades%TAN%[Chaos Armor%PURPLE%] %GRAY%-EX-  %GOLD%+%RED%+
+ItemDisplay[UNI !ID xul ETH]:%DOT-0C%%GOLD%+%RED%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Black Hades%TAN%[Chaos Armor%PURPLE%] %GRAY%-EX-  %GOLD%+%RED%+
+ItemDisplay[UNI !ID xar !ETH]:%DOT-0C%%GOLD%+%RED%+ %RED%Corpsemourn%TAN%[Ornate Armor%PURPLE%] %GRAY%-EX-  %GOLD%+%RED%+
+ItemDisplay[UNI !ID xar ETH]:%DOT-0C%%GOLD%+%RED%+ %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Corpsemourn%TAN%[Ornate Armor%PURPLE%] %GRAY%-EX-  %GOLD%+%RED%+
 ItemDisplay[UNI !ID uul !ETH]:%DOT-0C%%GOLD%+%RED%+  %RED%Steel Carapace%TAN%[Shadow Plate%PURPLE%] %GRAY%-EL- %GOLD%+%RED%+
 ItemDisplay[UNI !ID uul ETH]:%BORDER-62%%BLUE%++%WHITE%++%YELLOW%++%GREEN%++%BLUE%++%RED%++    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Steel Carapace    %RED%++%ORANGE%++%YELLOW%++%GREEN%++%BLUE%++%PURPLE%++
 ItemDisplay[UNI !ID xow !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%Gerke's Sanctuary%TAN%[Pavise%PURPLE%] %GRAY%-EX-  %RED%@%GOLD%@
@@ -2860,8 +2860,8 @@ ItemDisplay[UNI !ID 7s7 ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BL
 ItemDisplay[UNI !ID 7gl ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Wraith Flight%TAN%[Ghost Glaive%PURPLE%] %GRAY%-EL- %GOLD%O%RED%O
 ItemDisplay[UNI !ID 7ts !ETH]:%DOT-0C%%GOLD%O%RED%O  %RED%Gargoyle's Bite%TAN%[Winged Harpoon%PURPLE%] %GRAY%-EL- %GOLD%O%RED%O
 ItemDisplay[UNI !ID 7ts ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Gargoyle's Bite%TAN%[Winged Harpoon%PURPLE%] %GRAY%-EL- %GOLD%O%RED%O
-ItemDisplay[UNI !ID am9 !ETH]:%DOT-0C%%GOLD%O%RED%O  %RED%Lycander's Flank%TAN%[Ceremonial Pike%PURPLE%] %GRAY%-EX-  %GOLD%OO
-ItemDisplay[UNI !ID am9 ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Lycander's Flank%TAN%[Ceremonial Pike%PURPLE%] %GRAY%-EX-  %GOLD%OO
+ItemDisplay[UNI !ID am9 !ETH]:%DOT-0C%%GOLD%O%RED%O  %RED%Lycander's Flank%TAN%[Ceremonial Pike%PURPLE%] %GRAY%-EX-  %GOLD%O%RED%O
+ItemDisplay[UNI !ID am9 ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Lycander's Flank%TAN%[Ceremonial Pike%PURPLE%] %GRAY%-EX-  %GOLD%O%RED%O
 ItemDisplay[UNI !ID bae !ETH]:%DOT-0C%%GOLD%O%RED%O  %RED%Halaberd's Reign%TAN%[Conqueror Crown%PURPLE%] %GRAY%-EL- %GOLD%O%RED%O
 ItemDisplay[UNI !ID bae ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Halaberd's Reign%TAN%[Conqueror Crown%PURPLE%] %GRAY%-EL- %GOLD%O%RED%O
 ItemDisplay[UNI !ID drb !ETH]:%BORDER-62%%GOLD%OO%ORANGE%OO%YELLOW%OO%GOLD%OO%WHITE%OO%PURPLE%OO    %RED%Cerebus' Bite    %RED%OO%ORANGE%OO%YELLOW%OO%GREEN%OO%BLUE%OO%PURPLE%OO
@@ -2869,15 +2869,15 @@ ItemDisplay[UNI !ID drb ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BL
 ItemDisplay[UNI !ID dre !ETH]:%DOT-0C%%GOLD%O%RED%O  %RED%Ravenlore%TAN%[Sky Spirit%PURPLE%] %GRAY%-EL- %GOLD%O%RED%O
 ItemDisplay[UNI !ID dre ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Ravenlore%TAN%[Sky Spirit%PURPLE%] %GRAY%-EL- %GOLD%O%RED%O
 ItemDisplay[UNI !ID 9wc !ETH]:%BORDER-62%%GOLD%OO%ORANGE%OO%YELLOW%OO%GOLD%OO%WHITE%OO%PURPLE%OO    %RED%Grim's Burning Dead    %RED%OO%ORANGE%OO%YELLOW%OO%GREEN%OO%BLUE%OO%PURPLE%OO
-ItemDisplay[UNI !ID 9wc ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Grim's Burning Dead%TAN%[Grim Scythe%PURPLE%] %GRAY%-EX-  %GOLD%OO
+ItemDisplay[UNI !ID 9wc ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Grim's Burning Dead%TAN%[Grim Scythe%PURPLE%] %GRAY%-EX-  %GOLD%O%RED%O
 ItemDisplay[UNI !ID 7p7 !ETH]:%BORDER-62%%GOLD%OO%ORANGE%OO%YELLOW%OO%GOLD%OO%WHITE%OO%PURPLE%OO    %RED%Steel Pillar    %RED%OO%ORANGE%OO%YELLOW%OO%GREEN%OO%BLUE%OO%PURPLE%OO
 ItemDisplay[UNI !ID 7p7 ETH]:%BORDER-62%%GOLD%OO%ORANGE%OO%YELLOW%OO%GOLD%OO%WHITE%OO%PURPLE%OO    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Steel Pillar    %RED%OO%ORANGE%OO%YELLOW%OO%GREEN%OO%BLUE%OO%PURPLE%OO
-ItemDisplay[UNI !ID ltp !ETH]:%DOT-0C%%GOLD%O%RED%O  %RED%Heavenly Garb%TAN%[Light Plate%PURPLE%] %GRAY%-N-  %GOLD%OO
-ItemDisplay[UNI !ID ltp ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Heavenly Garb%TAN%[Light Plate%PURPLE%] %GRAY%-N-  %GOLD%OO
-ItemDisplay[UNI !ID xhg !ETH]:%DOT-0C%%GOLD%O%RED%O  %RED%Hellmouth%TAN%[War Gauntlets%PURPLE%] %GRAY%-EX-  %GOLD%OO
-ItemDisplay[UNI !ID xhg ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Hellmouth%TAN%[War Gauntlets%PURPLE%] %GRAY%-EX-  %GOLD%OO
-ItemDisplay[UNI !ID 9bl !ETH]:%DOT-0C%%GOLD%O%RED%O  %RED%Stormspike%TAN%[Stilleto%PURPLE%] %GRAY%-EX-  %GOLD%OO
-ItemDisplay[UNI !ID 9bl ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Stormspike%TAN%[Stilleto%PURPLE%] %GRAY%-EX-  %GOLD%OO
+ItemDisplay[UNI !ID ltp !ETH]:%DOT-0C%%GOLD%O%RED%O  %RED%Heavenly Garb%TAN%[Light Plate%PURPLE%] %GRAY%-N-  %GOLD%O%RED%O
+ItemDisplay[UNI !ID ltp ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Heavenly Garb%TAN%[Light Plate%PURPLE%] %GRAY%-N-  %GOLD%O%RED%O
+ItemDisplay[UNI !ID xhg !ETH]:%DOT-0C%%GOLD%O%RED%O  %RED%Hellmouth%TAN%[War Gauntlets%PURPLE%] %GRAY%-EX-  %GOLD%O%RED%O
+ItemDisplay[UNI !ID xhg ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Hellmouth%TAN%[War Gauntlets%PURPLE%] %GRAY%-EX-  %GOLD%O%RED%O
+ItemDisplay[UNI !ID 9bl !ETH]:%DOT-0C%%GOLD%O%RED%O  %RED%Stormspike%TAN%[Stilleto%PURPLE%] %GRAY%-EX-  %GOLD%O%RED%O
+ItemDisplay[UNI !ID 9bl ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Stormspike%TAN%[Stilleto%PURPLE%] %GRAY%-EX-  %GOLD%O%RED%O
 ItemDisplay[UNI !ID 7wc !ETH]:%DOT-0C%%GOLD%O%RED%O  %RED%Stormspire%TAN%[Giant Thresher%PURPLE%] %GRAY%-EL- %GOLD%O%RED%O
 ItemDisplay[UNI !ID 7wc ETH]:%DOT-0C%%GOLD%O%RED%O  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Stormspire%TAN%[Giant Thresher%PURPLE%] %GRAY%-EL- %GOLD%O%RED%O
 ItemDisplay[UNI !ID nee !ETH]:%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Boneflame    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
@@ -2894,8 +2894,8 @@ ItemDisplay[UNI !ID 7bw !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%Boneshade%PURPLE%[%GRA
 ItemDisplay[UNI !ID 7bw ETH]:%DOT-0C%%GOLD%@%RED%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Boneshade%PURPLE%[%GRAY%Lich Wand%PURPLE%] %GRAY%-EL- %GOLD%@%RED%@
 ItemDisplay[UNI !ID 7lw !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%Firelizard's Talons%PURPLE%[%GRAY%Feral Claws%PURPLE%] %GRAY%-EL- %GOLD%@%RED%@
 ItemDisplay[UNI !ID 7lw ETH]:%DOT-0C%%GOLD%@%RED%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Firelizard's Talons%PURPLE%[%GRAY%Feral Claws%PURPLE%] %GRAY%-EL- %GOLD%@%RED%@
-ItemDisplay[UNI !ID nef !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%Darkforce Spawn%PURPLE%[%GRAY%Bloodlord Skull%PURPLE%] %GRAY%-EL-   %GOLD%@@
-ItemDisplay[UNI !ID nef ETH]:%DOT-0C%%GOLD%@%RED%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Darkforce Spawn%PURPLE%[%GRAY%Bloodlord Skull%PURPLE%] %GRAY%-EL-   %GOLD%@@
+ItemDisplay[UNI !ID nef !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%Darkforce Spawn%PURPLE%[%GRAY%Bloodlord Skull%PURPLE%] %GRAY%-EL-   %GOLD%@%RED%@
+ItemDisplay[UNI !ID nef ETH]:%DOT-0C%%GOLD%@%RED%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Darkforce Spawn%PURPLE%[%GRAY%Bloodlord Skull%PURPLE%] %GRAY%-EL-   %GOLD%@%RED%@
 ItemDisplay[UNI !ID 7ws !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%Astreon's Iron Ward%PURPLE%[%GRAY%Caduceus%PURPLE%] %GRAY%-EL-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID 7ws ETH]:%DOT-0C%%GOLD%@%RED%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Astreon's Iron Ward%PURPLE%[%GRAY%Caduceus%PURPLE%] %GRAY%-EL-  %ORANGE%+%WHITE%+
 //Unique Rings Amulets Jewels Charms
