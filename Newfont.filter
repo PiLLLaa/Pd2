@@ -553,6 +553,502 @@ ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) amf]:M a t r i a r c h a l  J a v e l
 ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) aqv]:A r r o w%CONTINUE%
 ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) cqv]:B o l t%CONTINUE%
 
+ItemDisplay[(SET) !ID cap]:C a p%CONTINUE%
+ItemDisplay[(SET) !ID xap]:W a r  H a t%CONTINUE%
+ItemDisplay[(SET) !ID uap]:S h a k o%CONTINUE%
+ItemDisplay[(SET) !ID skp]:S k u l l  C a p%CONTINUE%
+ItemDisplay[(SET) !ID xkp]:S a l l e t%CONTINUE%
+ItemDisplay[(SET) !ID ukp]:H y d r a s k u l l%CONTINUE%
+ItemDisplay[(SET) !ID hlm]:H e l m%CONTINUE%
+ItemDisplay[(SET) !ID xlm]:C a s q u e%CONTINUE%
+ItemDisplay[(SET) !ID ulm]:A r m e t%CONTINUE%
+ItemDisplay[(SET) !ID fhl]:F u l l  H e l m%CONTINUE%
+ItemDisplay[(SET) !ID xhl]:B a s i n e t%CONTINUE%
+ItemDisplay[(SET) !ID uhl]:G i a n t  C o n c h%CONTINUE%
+ItemDisplay[(SET) !ID msk]:M a s k%CONTINUE%
+ItemDisplay[(SET) !ID xsk]:D e a t h  M a s k%CONTINUE%
+ItemDisplay[(SET) !ID usk]:D e m o n h e a d%CONTINUE%
+ItemDisplay[(SET) !ID bhm]:B o n e  H e l m%CONTINUE%
+ItemDisplay[(SET) !ID xh9]:G r i m  H e l m%CONTINUE%
+ItemDisplay[(SET) !ID uh9]:B o n e  V i s a g e%CONTINUE%
+ItemDisplay[(SET) !ID ghm]:G r e a t  H e l m%CONTINUE%
+ItemDisplay[(SET) !ID xhm]:W i n g e d  H e l m%CONTINUE%
+ItemDisplay[(SET) !ID uhm]:S p i r e d  H e l m%CONTINUE%
+ItemDisplay[(SET) !ID crn]:C r o w n%CONTINUE%
+ItemDisplay[(SET) !ID xrn]:G r a n d  C r o w n%CONTINUE%
+ItemDisplay[(SET) !ID urn]:C o r o n a%CONTINUE%
+ItemDisplay[(SET) !ID qui]:Q u i l t e d  A r m o r%CONTINUE%
+ItemDisplay[(SET) !ID xui]:G h o s t  A r m o r%CONTINUE%
+ItemDisplay[(SET) !ID uui]:D u s k  S h r o u d%CONTINUE%
+ItemDisplay[(SET) !ID lea]:L e a t h e r  A r m o r%CONTINUE%
+ItemDisplay[(SET) !ID xea]:S e r p e n t s k i n  A r m o r%CONTINUE%
+ItemDisplay[(SET) !ID uea]:W y r m h i d e%CONTINUE%
+ItemDisplay[(SET) !ID hla]:H a r d  L e a t h e r  A r m o r%CONTINUE%
+ItemDisplay[(SET) !ID xla]:D e m o n h i d e  A r m o r%CONTINUE%
+ItemDisplay[(SET) !ID ula]:S c a r a b  H u s k%CONTINUE%
+ItemDisplay[(SET) !ID stu]:S t u d d e d  L e a t h e r%CONTINUE%
+ItemDisplay[(SET) !ID xtu]:T r e l l i s e d  A r m o r%CONTINUE%
+ItemDisplay[(SET) !ID utu]:W i r e  F l e e c e%CONTINUE%
+ItemDisplay[(SET) !ID rng]:R i n g  M a i l%CONTINUE%
+ItemDisplay[(SET) !ID xng]:L i n k e d  M a i l%CONTINUE%
+ItemDisplay[(SET) !ID ung]:D i a m o n d  M a i l%CONTINUE%
+ItemDisplay[(SET) !ID scl]:S c a l e  M a i l%CONTINUE%
+ItemDisplay[(SET) !ID xcl]:T i g u l a t e d  M a i l%CONTINUE%
+ItemDisplay[(SET) !ID ucl]:L o r i c a t e d  M a i l%CONTINUE%
+ItemDisplay[(SET) !ID chn]:C h a i n  M a i l%CONTINUE%
+ItemDisplay[(SET) !ID xhn]:M e s h  A r m o r%CONTINUE%
+ItemDisplay[(SET) !ID uhn]:B o n e w e a v e%CONTINUE%
+ItemDisplay[(SET) !ID brs]:B r e a s t  P l a t e%CONTINUE%
+ItemDisplay[(SET) !ID xrs]:C u i r a s s%CONTINUE%
+ItemDisplay[(SET) !ID urs]:G r e a t  H a u b e r k%CONTINUE%
+ItemDisplay[(SET) !ID spl]:S p l i n t  M a i l%CONTINUE%
+ItemDisplay[(SET) !ID xpl]:R u s s e t  A r m o r%CONTINUE%
+ItemDisplay[(SET) !ID upl]:B a l r o g  S k i n%CONTINUE%
+ItemDisplay[(SET) !ID plt]:P l a t e  M a i l%CONTINUE%
+ItemDisplay[(SET) !ID xlt]:T e m p l a r  C o a t%CONTINUE%
+ItemDisplay[(SET) !ID ult]:H e l l f o r g e  P l a t e%CONTINUE%
+ItemDisplay[(SET) !ID fld]:F i e l d  P l a t e%CONTINUE%
+ItemDisplay[(SET) !ID xld]:S h a r k t o o t h  A r m o r%CONTINUE%
+ItemDisplay[(SET) !ID uld]:K r a k e n  S h e l l%CONTINUE%
+ItemDisplay[(SET) !ID gth]:G o t h i c  P l a t e%CONTINUE%
+ItemDisplay[(SET) !ID xth]:E m b o s s e d  P l a t e%CONTINUE%
+ItemDisplay[(SET) !ID uth]:L a c q u e r e d  P l a t e%CONTINUE%
+ItemDisplay[(SET) !ID ltp]:L i g h t  P l a t e%CONTINUE%
+ItemDisplay[(SET) !ID xtp]:M a g e  P l a t e%CONTINUE%
+ItemDisplay[(SET) !ID utp]:A r c h o n  P l a t e%CONTINUE%
+ItemDisplay[(SET) !ID ful]:F u l l  P l a t e  M a i l%CONTINUE%
+ItemDisplay[(SET) !ID xul]:C h a o s  A r m o r%CONTINUE%
+ItemDisplay[(SET) !ID uul]:S h a d o w  P l a t e%CONTINUE%
+ItemDisplay[(SET) !ID aar]:A n c i e n t  A r m o r%CONTINUE%
+ItemDisplay[(SET) !ID xar]:O r n a t e  P l a t e%CONTINUE%
+ItemDisplay[(SET) !ID uar]:S a c r e d  A r m o r%CONTINUE%
+ItemDisplay[(SET) !ID buc]:B u c k l e r%CONTINUE%
+ItemDisplay[(SET) !ID xuc]:D e f e n d e r%CONTINUE%
+ItemDisplay[(SET) !ID uuc]:H e a t e r%CONTINUE%
+ItemDisplay[(SET) !ID sml]:S m a l l  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID xml]:R o u n d  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID uml]:L u n a%CONTINUE%
+ItemDisplay[(SET) !ID lrg]:L a r g e  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID xrg]:S c u t u m%CONTINUE%
+ItemDisplay[(SET) !ID urg]:H y p e r i o n%CONTINUE%
+ItemDisplay[(SET) !ID spk]:S p i k e d  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID xpk]:B a r b e d  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID upk]:B l a d e  B a r r i e r%CONTINUE%
+ItemDisplay[(SET) !ID kit]:K i t e  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID xit]:D r a g o n  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID uit]:M o n a r c h%CONTINUE%
+ItemDisplay[(SET) !ID bsh]:B o n e  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID xsh]:G r i m  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID ush]:T r o l l  N e s t%CONTINUE%
+ItemDisplay[(SET) !ID tow]:T o w e r  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID xow]:P a v i s e%CONTINUE%
+ItemDisplay[(SET) !ID uow]:A e g i s%CONTINUE%
+ItemDisplay[(SET) !ID gts]:G o t h i c  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID xts]:A n c i e n t  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID uts]:W a r d%CONTINUE%
+ItemDisplay[(SET) !ID lgl]:L e a t h e r  G l o v e s%CONTINUE%
+ItemDisplay[(SET) !ID xlg]:D e m o n h i d e  G l o v e s%CONTINUE%
+ItemDisplay[(SET) !ID ulg]:B r a m b l e  M i t t s%CONTINUE%
+ItemDisplay[(SET) !ID vgl]:H e a v y  G l o v e s%CONTINUE%
+ItemDisplay[(SET) !ID xvg]:S h a r k s k i n  G l o v e s%CONTINUE%
+ItemDisplay[(SET) !ID uvg]:V a m p i r e b o n e  G l o v e s%CONTINUE%
+ItemDisplay[(SET) !ID mgl]:C h a i n  G l o v e s%CONTINUE%
+ItemDisplay[(SET) !ID xmg]:H e a v y  B r a c e r s%CONTINUE%
+ItemDisplay[(SET) !ID umg]:V a m b r a c e s%CONTINUE%
+ItemDisplay[(SET) !ID tgl]:L i g h t  G a u n t l e t s%CONTINUE%
+ItemDisplay[(SET) !ID xtg]:B a t t l e  G a u n t l e t s%CONTINUE%
+ItemDisplay[(SET) !ID utg]:C r u s a d e r  G a u n t l e t s%CONTINUE%
+ItemDisplay[(SET) !ID hgl]:G a u n t l e t s%CONTINUE%
+ItemDisplay[(SET) !ID xhg]:W a r  G a u n t l e t s%CONTINUE%
+ItemDisplay[(SET) !ID uhg]:O g r e  G a u n t l e t s%CONTINUE%
+ItemDisplay[(SET) !ID lbt]:B o o t s%CONTINUE%
+ItemDisplay[(SET) !ID xlb]:D e m o n h i d e  B o o t s%CONTINUE%
+ItemDisplay[(SET) !ID ulb]:W y r m h i d e  B o o t s%CONTINUE%
+ItemDisplay[(SET) !ID vbt]:H e a v y  B o o t s%CONTINUE%
+ItemDisplay[(SET) !ID xvb]:S h a r k s k i n  B o o t s%CONTINUE%
+ItemDisplay[(SET) !ID uvb]:S c a r a b s h e l l  B o o t s%CONTINUE%
+ItemDisplay[(SET) !ID mbt]:C h a i n  B o o t s%CONTINUE%
+ItemDisplay[(SET) !ID xmb]:M e s h  B o o t s%CONTINUE%
+ItemDisplay[(SET) !ID umb]:B o n e w e a v e  B o o t s%CONTINUE%
+ItemDisplay[(SET) !ID tbt]:L i g h t  P l a t e d  B o o t s%CONTINUE%
+ItemDisplay[(SET) !ID xtb]:B a t t l e  B o o t s%CONTINUE%
+ItemDisplay[(SET) !ID utb]:M i r r o r e d  B o o t s%CONTINUE%
+ItemDisplay[(SET) !ID hbt]:G r e a v e s%CONTINUE%
+ItemDisplay[(SET) !ID xhb]:W a r  B o o t s%CONTINUE%
+ItemDisplay[(SET) !ID uhb]:M y r m i d o n  G r e a v e s%CONTINUE%
+ItemDisplay[(SET) !ID lbl]:S a s h%CONTINUE%
+ItemDisplay[(SET) !ID zlb]:D e m o n h i d e  S a s h%CONTINUE%
+ItemDisplay[(SET) !ID ulc]:S p i d e r w e b  S a s h%CONTINUE%
+ItemDisplay[(SET) !ID vbl]:L i g h t  B e l t%CONTINUE%
+ItemDisplay[(SET) !ID zvb]:S h a r k s k i n  B e l t%CONTINUE%
+ItemDisplay[(SET) !ID uvc]:V a m p i r e f a n g  B e l t%CONTINUE%
+ItemDisplay[(SET) !ID mbl]:B e l t%CONTINUE%
+ItemDisplay[(SET) !ID zmb]:M e s h  B e l t%CONTINUE%
+ItemDisplay[(SET) !ID umc]:M i t h r i l  C o i l%CONTINUE%
+ItemDisplay[(SET) !ID tbl]:H e a v y  B e l t%CONTINUE%
+ItemDisplay[(SET) !ID ztb]:B a t t l e  B e l t%CONTINUE%
+ItemDisplay[(SET) !ID utc]:T r o l l  B e l t%CONTINUE%
+ItemDisplay[(SET) !ID hbl]:P l a t e d  B e l t%CONTINUE%
+ItemDisplay[(SET) !ID zhb]:W a r  B e l t%CONTINUE%
+ItemDisplay[(SET) !ID uhc]:C o l o s s u s  G i r d l e%CONTINUE%
+ItemDisplay[(SET) !ID ci0]:C i r c l e t%CONTINUE%
+ItemDisplay[(SET) !ID ci1]:C o r o n e t%CONTINUE%
+ItemDisplay[(SET) !ID ci2]:T i a r a%CONTINUE%
+ItemDisplay[(SET) !ID ci3]:D i a d e m%CONTINUE%
+ItemDisplay[(SET) !ID dr1]:W o l f  H e a d%CONTINUE%
+ItemDisplay[(SET) !ID dr6]:A l p h a  H e l m%CONTINUE%
+ItemDisplay[(SET) !ID drb]:B l o o d  S p i r i t%CONTINUE%
+ItemDisplay[(SET) !ID dr2]:H a w k  H e l m%CONTINUE%
+ItemDisplay[(SET) !ID dr7]:G r i f f o n  H e a d r e s s%CONTINUE%
+ItemDisplay[(SET) !ID drc]:S u n  S p i r i t%CONTINUE%
+ItemDisplay[(SET) !ID dr3]:A n t l e r s%CONTINUE%
+ItemDisplay[(SET) !ID dr8]:H u n t e r ' s  G u i s e%CONTINUE%
+ItemDisplay[(SET) !ID drd]:E a r t h  S p i r i t%CONTINUE%
+ItemDisplay[(SET) !ID dr4]:F a l c o n  M a s k%CONTINUE%
+ItemDisplay[(SET) !ID dr9]:S a c r e d  F e a t h e r s%CONTINUE%
+ItemDisplay[(SET) !ID dre]:S k y  S p i r i t%CONTINUE%
+ItemDisplay[(SET) !ID dr5]:S p i r i t  M a s k%CONTINUE%
+ItemDisplay[(SET) !ID dra]:T o t e m i c  M a s k%CONTINUE%
+ItemDisplay[(SET) !ID drf]:D r e a m  S p i r i t%CONTINUE%
+ItemDisplay[(SET) !ID ba1]:J a w b o n e  C a p%CONTINUE%
+ItemDisplay[(SET) !ID ba6]:J a w b o n e  V i s o r%CONTINUE%
+ItemDisplay[(SET) !ID bab]:C a r n a g e  H e l m%CONTINUE%
+ItemDisplay[(SET) !ID ba2]:F a n g e d  H e l m%CONTINUE%
+ItemDisplay[(SET) !ID ba7]:L i o n  H e l m%CONTINUE%
+ItemDisplay[(SET) !ID bac]:F u r y  V i s o r%CONTINUE%
+ItemDisplay[(SET) !ID ba3]:H o r n e d  H e l m%CONTINUE%
+ItemDisplay[(SET) !ID ba8]:R a g e  M a s k%CONTINUE%
+ItemDisplay[(SET) !ID bad]:D e s t r o y e r  H e l m%CONTINUE%
+ItemDisplay[(SET) !ID ba4]:A s s a u l t  H e l m e t%CONTINUE%
+ItemDisplay[(SET) !ID ba9]:S a v a g e  H e l m e t%CONTINUE%
+ItemDisplay[(SET) !ID bae]:C o n q u e r o r  C r o w n%CONTINUE%
+ItemDisplay[(SET) !ID ba5]:A v e n g e r  G u a r d%CONTINUE%
+ItemDisplay[(SET) !ID baa]:S l a y e r  G u a r d%CONTINUE%
+ItemDisplay[(SET) !ID baf]:G u a r d i a n  C r o w n%CONTINUE%
+ItemDisplay[(SET) !ID pa1]:T a r g e%CONTINUE%
+ItemDisplay[(SET) !ID pa6]:A k a r a n  T a r g e%CONTINUE%
+ItemDisplay[(SET) !ID pab]:S a c r e d  T a r g e%CONTINUE%
+ItemDisplay[(SET) !ID pa2]:R o n d a c h e%CONTINUE%
+ItemDisplay[(SET) !ID pa7]:A k a r a n  R o n d a c h e%CONTINUE%
+ItemDisplay[(SET) !ID pac]:S a c r e d  R o n d a c h e%CONTINUE%
+ItemDisplay[(SET) !ID pa3]:H e r a l d i c  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID pa8]:P r o t e c t o r  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID pad]:K u r a s t  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID pa4]:A e r i n  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID pa9]:G i l d e d  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID pae]:Z a k a r u m  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID pa5]:C r o w n  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID paa]:R o y a l  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID paf]:V o r t e x  S h i e l d%CONTINUE%
+ItemDisplay[(SET) !ID ne1]:P r e s e r v e d  H e a d%CONTINUE%
+ItemDisplay[(SET) !ID ne6]:M u m m i f i e d  T r o p h y%CONTINUE%
+ItemDisplay[(SET) !ID neb]:M i n i o n  S k u l l%CONTINUE%
+ItemDisplay[(SET) !ID ne2]:Z o m b i e  H e a d%CONTINUE%
+ItemDisplay[(SET) !ID ne7]:F e t i s h  T r o p h y%CONTINUE%
+ItemDisplay[(SET) !ID neg]:H e l l s p a w n  S k u l l%CONTINUE%
+ItemDisplay[(SET) !ID ne3]:U n r a v e l l e r  H e a d%CONTINUE%
+ItemDisplay[(SET) !ID ne8]:S e x t o n  T r o p h y%CONTINUE%
+ItemDisplay[(SET) !ID ned]:O v e r s e e r  S k u l l%CONTINUE%
+ItemDisplay[(SET) !ID ne4]:G a r g o y l e  H e a d%CONTINUE%
+ItemDisplay[(SET) !ID ne9]:C a n t o r  T r o p h y%CONTINUE%
+ItemDisplay[(SET) !ID nee]:S u c c u b u s  S k u l l%CONTINUE%
+ItemDisplay[(SET) !ID ne5]:D e m o n  H e a d%CONTINUE%
+ItemDisplay[(SET) !ID nea]:H i e r o p h a n t  T r o p h y%CONTINUE%
+ItemDisplay[(SET) !ID nef]:B l o o d l o r d  S k u l l%CONTINUE%
+ItemDisplay[(SET) !ID hax]:H a n d  A x e%CONTINUE%
+ItemDisplay[(SET) !ID 9ha]:H a t c h e t%CONTINUE%
+ItemDisplay[(SET) !ID 7ha]:T o m a h a w k%CONTINUE%
+ItemDisplay[(SET) !ID axe]:A x e%CONTINUE%
+ItemDisplay[(SET) !ID 9ax]:C l e a v e r%CONTINUE%
+ItemDisplay[(SET) !ID 7ax]:S m a l l  C r e s c e n t%CONTINUE%
+ItemDisplay[(SET) !ID 2ax]:D o u b l e  A x e%CONTINUE%
+ItemDisplay[(SET) !ID 92a]:T w i n  A x e%CONTINUE%
+ItemDisplay[(SET) !ID 72a]:E t t i n  A x e%CONTINUE%
+ItemDisplay[(SET) !ID mpi]:M i l i t a r y  P i c k%CONTINUE%
+ItemDisplay[(SET) !ID 9mp]:C r o w b i l l%CONTINUE%
+ItemDisplay[(SET) !ID 7mp]:W a r  S p i k e%CONTINUE%
+ItemDisplay[(SET) !ID wax]:W a r  A x e%CONTINUE%
+ItemDisplay[(SET) !ID 9wa]:N a g a%CONTINUE%
+ItemDisplay[(SET) !ID 7wa]:B e r s e r k e r  A x e%CONTINUE%
+ItemDisplay[(SET) !ID lax]:L a r g e  A x e%CONTINUE%
+ItemDisplay[(SET) !ID 9la]:M i l i t a r y  A x e%CONTINUE%
+ItemDisplay[(SET) !ID 7la]:F e r a l  A x e%CONTINUE%
+ItemDisplay[(SET) !ID bax]:B r o a d  A x e%CONTINUE%
+ItemDisplay[(SET) !ID 9ba]:B e a r d e d  A x e%CONTINUE%
+ItemDisplay[(SET) !ID 7ba]:S i l v e r - e d g e d  A x e%CONTINUE%
+ItemDisplay[(SET) !ID btx]:B a t t l e  A x e%CONTINUE%
+ItemDisplay[(SET) !ID 9bt]:T a b a r%CONTINUE%
+ItemDisplay[(SET) !ID 7bt]:D e c a p i t a t o r%CONTINUE%
+ItemDisplay[(SET) !ID gax]:G r e a t  A x e%CONTINUE%
+ItemDisplay[(SET) !ID 9ga]:G o t h i c  A x e%CONTINUE%
+ItemDisplay[(SET) !ID 7ga]:C h a m p i o n  A x e%CONTINUE%
+ItemDisplay[(SET) !ID gix]:G i a n t  A x e%CONTINUE%
+ItemDisplay[(SET) !ID 9gi]:A n c i e n t  A x e%CONTINUE%
+ItemDisplay[(SET) !ID 7gi]:G l o r i o u s  A x e%CONTINUE%
+ItemDisplay[(SET) !ID clb]:C l u b%CONTINUE%
+ItemDisplay[(SET) !ID 9cl]:C u d g e l%CONTINUE%
+ItemDisplay[(SET) !ID 7cl]:T r u n c h e o n%CONTINUE%
+ItemDisplay[(SET) !ID spc]:S p i k e d  C l u b%CONTINUE%
+ItemDisplay[(SET) !ID 9sp]:B a r b e d  C l u b%CONTINUE%
+ItemDisplay[(SET) !ID 7sp]:T y r a n t  C l u b%CONTINUE%
+ItemDisplay[(SET) !ID mac]:M a c e%CONTINUE%
+ItemDisplay[(SET) !ID 9ma]:F l a n g e d  M a c e%CONTINUE%
+ItemDisplay[(SET) !ID 7ma]:R e i n f o r c e d  M a c e%CONTINUE%
+ItemDisplay[(SET) !ID mst]:M o r n i n g  S t a r%CONTINUE%
+ItemDisplay[(SET) !ID 9mt]:J a g g e d  S t a r%CONTINUE%
+ItemDisplay[(SET) !ID 7mt]:D e v i l  S t a r%CONTINUE%
+ItemDisplay[(SET) !ID fla]:F l a i l%CONTINUE%
+ItemDisplay[(SET) !ID 9fl]:K n o u t%CONTINUE%
+ItemDisplay[(SET) !ID 7fl]:S c o u r g e%CONTINUE%
+ItemDisplay[(SET) !ID whm]:W a r  H a m m e r%CONTINUE%
+ItemDisplay[(SET) !ID 9wh]:B a t t l e  H a m m e r%CONTINUE%
+ItemDisplay[(SET) !ID 7wh]:L e g e n d a r y  M a l l e t%CONTINUE%
+ItemDisplay[(SET) !ID mau]:M a u l%CONTINUE%
+ItemDisplay[(SET) !ID 9m9]:W a r  C l u b%CONTINUE%
+ItemDisplay[(SET) !ID 7m7]:O g r e  M a u l%CONTINUE%
+ItemDisplay[(SET) !ID gma]:G r e a t  M a u l%CONTINUE%
+ItemDisplay[(SET) !ID 9gm]:M a r t e l  d e  F e r%CONTINUE%
+ItemDisplay[(SET) !ID 7gm]:T h u n d e r  M a u l%CONTINUE%
+ItemDisplay[(SET) !ID ssd]:S h o r t  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID 9ss]:G l a d i u s%CONTINUE%
+ItemDisplay[(SET) !ID 7ss]:F a l c a t a%CONTINUE%
+ItemDisplay[(SET) !ID scm]:S c i m i t a r%CONTINUE%
+ItemDisplay[(SET) !ID 9sm]:C u t l a s s%CONTINUE%
+ItemDisplay[(SET) !ID 7sm]:A t a g h a n%CONTINUE%
+ItemDisplay[(SET) !ID sbr]:S a b r e%CONTINUE%
+ItemDisplay[(SET) !ID 9sb]:S h a m s h i r%CONTINUE%
+ItemDisplay[(SET) !ID 7sb]:E l e g a n t  B l a d e%CONTINUE%
+ItemDisplay[(SET) !ID flc]:F a l c h i o n%CONTINUE%
+ItemDisplay[(SET) !ID 9fc]:T u l w a r%CONTINUE%
+ItemDisplay[(SET) !ID 7fc]:H y d r a  E d g e%CONTINUE%
+ItemDisplay[(SET) !ID crs]:C r y s t a l  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID 9cr]:D i m e n s i o n a l  B l a d e%CONTINUE%
+ItemDisplay[(SET) !ID 7cr]:P h a s e  B l a d e%CONTINUE%
+ItemDisplay[(SET) !ID bsd]:B r o a d  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID 9bs]:B a t t l e  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID 7bs]:C o n q u e s t  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID lsd]:L o n g  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID 9ls]:R u n e  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID 7ls]:C r y p t i c  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID wsd]:W a r  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID 9wd]:A n c i e n t  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID 7wd]:M y t h i c a l  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID 2hs]:T w o - h a n d e d  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID 92h]:E s p a n d o n%CONTINUE%
+ItemDisplay[(SET) !ID 72h]:L e g e n d  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID clm]:C l a y m o r e%CONTINUE%
+ItemDisplay[(SET) !ID 9cm]:D a c i a n  F a l x%CONTINUE%
+ItemDisplay[(SET) !ID 7cm]:H i g h l a n d  B l a d e%CONTINUE%
+ItemDisplay[(SET) !ID gis]:G i a n t  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID 9gs]:T u s k  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID 7gs]:B a l r o g  B l a d e%CONTINUE%
+ItemDisplay[(SET) !ID bsw]:B a s t a r d  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID 9b9]:G o t h i c  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID 7b7]:C h a m p i o n  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID flb]:F l a m b e r g e%CONTINUE%
+ItemDisplay[(SET) !ID 9fb]:Z w e i h a n d e r%CONTINUE%
+ItemDisplay[(SET) !ID 7fb]:C o l o s s u s  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID gsd]:G r e a t  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID 9gd]:E x e c u t i o n e r  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID 7gd]:C o l o s s u s  B l a d e%CONTINUE%
+ItemDisplay[(SET) !ID dgr]:D a g g e r%CONTINUE%
+ItemDisplay[(SET) !ID 9dg]:P o i g n a r d%CONTINUE%
+ItemDisplay[(SET) !ID 7dg]:B o n e  K n i f e%CONTINUE%
+ItemDisplay[(SET) !ID dir]:D i r k%CONTINUE%
+ItemDisplay[(SET) !ID 9di]:R o n d e l%CONTINUE%
+ItemDisplay[(SET) !ID 7di]:M i t h r i l  P o i n t%CONTINUE%
+ItemDisplay[(SET) !ID kri]:K r i s%CONTINUE%
+ItemDisplay[(SET) !ID 9kr]:C i n q u e d e a s%CONTINUE%
+ItemDisplay[(SET) !ID 7kr]:F a n g e d  K n i f e%CONTINUE%
+ItemDisplay[(SET) !ID bld]:B l a d e%CONTINUE%
+ItemDisplay[(SET) !ID 9bl]:S t i l e t t o%CONTINUE%
+ItemDisplay[(SET) !ID 7bl]:L e g e n d  S p i k e%CONTINUE%
+ItemDisplay[(SET) !ID tkf]:T h r o w i n g  K n i f e%CONTINUE%
+ItemDisplay[(SET) !ID 9tk]:B a t t l e  D a r t%CONTINUE%
+ItemDisplay[(SET) !ID 7tk]:F l y i n g  K n i f e%CONTINUE%
+ItemDisplay[(SET) !ID tax]:T h r o w i n g  A x e%CONTINUE%
+ItemDisplay[(SET) !ID 9ta]:F r a n c i s c a%CONTINUE%
+ItemDisplay[(SET) !ID 7ta]:F l y i n g  A x e%CONTINUE%
+ItemDisplay[(SET) !ID bkf]:B a l a n c e d  K n i f e%CONTINUE%
+ItemDisplay[(SET) !ID 9bk]:W a r  D a r t%CONTINUE%
+ItemDisplay[(SET) !ID 7bk]:W i n g e d  K n i f e%CONTINUE%
+ItemDisplay[(SET) !ID bal]:B a l a n c e d  A x e%CONTINUE%
+ItemDisplay[(SET) !ID 9b8]:H u r l b a t%CONTINUE%
+ItemDisplay[(SET) !ID 7b8]:W i n g e d  A x e%CONTINUE%
+ItemDisplay[(SET) !ID jav]:J a v e l i n%CONTINUE%
+ItemDisplay[(SET) !ID 9ja]:W a r  J a v e l i n%CONTINUE%
+ItemDisplay[(SET) !ID 7ja]:H y p e r i o n  J a v e l i n%CONTINUE%
+ItemDisplay[(SET) !ID pil]:P i l u m%CONTINUE%
+ItemDisplay[(SET) !ID 9pi]:G r e a t  P i l u m%CONTINUE%
+ItemDisplay[(SET) !ID 7pi]:S t y g i a n  P i l u m%CONTINUE%
+ItemDisplay[(SET) !ID ssp]:S h o r t  S p e a r%CONTINUE%
+ItemDisplay[(SET) !ID 9s9]:S i m b i l a n%CONTINUE%
+ItemDisplay[(SET) !ID 7s7]:B a l r o g  S p e a r%CONTINUE%
+ItemDisplay[(SET) !ID glv]:G l a i v e%CONTINUE%
+ItemDisplay[(SET) !ID 9gl]:S p i c u l u m%CONTINUE%
+ItemDisplay[(SET) !ID 7gl]:G h o s t  G l a i v e%CONTINUE%
+ItemDisplay[(SET) !ID tsp]:T h r o w i n g  S p e a r%CONTINUE%
+ItemDisplay[(SET) !ID 9ts]:H a r p o o n%CONTINUE%
+ItemDisplay[(SET) !ID 7ts]:W i n g e d  H a r p o o n%CONTINUE%
+ItemDisplay[(SET) !ID spr]:S p e a r%CONTINUE%
+ItemDisplay[(SET) !ID 9sr]:W a r  S p e a r%CONTINUE%
+ItemDisplay[(SET) !ID 7sr]:H y p e r i o n  S p e a r%CONTINUE%
+ItemDisplay[(SET) !ID tri]:T r i d e n t%CONTINUE%
+ItemDisplay[(SET) !ID 9tr]:F u s c i n a%CONTINUE%
+ItemDisplay[(SET) !ID 7tr]:S t y g i a n  P i k e%CONTINUE%
+ItemDisplay[(SET) !ID brn]:B r a n d i s t o c k%CONTINUE%
+ItemDisplay[(SET) !ID 9br]:W a r  F o r k%CONTINUE%
+ItemDisplay[(SET) !ID 7br]:M a n c a t c h e r%CONTINUE%
+ItemDisplay[(SET) !ID spt]:S p e t u m%CONTINUE%
+ItemDisplay[(SET) !ID 9st]:Y a r i%CONTINUE%
+ItemDisplay[(SET) !ID 7st]:G h o s t  S p e a r%CONTINUE%
+ItemDisplay[(SET) !ID pik]:P i k e%CONTINUE%
+ItemDisplay[(SET) !ID 9p9]:L a n c e%CONTINUE%
+ItemDisplay[(SET) !ID 7p7]:W a r  P i k e%CONTINUE%
+ItemDisplay[(SET) !ID bar]:B a r d i c h e%CONTINUE%
+ItemDisplay[(SET) !ID 9b7]:L o c h a b e r  A x e%CONTINUE%
+ItemDisplay[(SET) !ID 7o7]:O g r e  A x e%CONTINUE%
+ItemDisplay[(SET) !ID vou]:V o u l g e%CONTINUE%
+ItemDisplay[(SET) !ID 9vo]:B i l l%CONTINUE%
+ItemDisplay[(SET) !ID 7vo]:C o l o s s u s  V o u l g e%CONTINUE%
+ItemDisplay[(SET) !ID scy]:S c y t h e%CONTINUE%
+ItemDisplay[(SET) !ID 9s8]:B a t t l e  S c y t h e%CONTINUE%
+ItemDisplay[(SET) !ID 7s8]:T h r e s h e r%CONTINUE%
+ItemDisplay[(SET) !ID pax]:P o l e a x e%CONTINUE%
+ItemDisplay[(SET) !ID 9pa]:P a r t i z a n%CONTINUE%
+ItemDisplay[(SET) !ID 7pa]:C r y p t i c  A x e%CONTINUE%
+ItemDisplay[(SET) !ID hal]:H a l b e r d%CONTINUE%
+ItemDisplay[(SET) !ID 9h9]:B e c - d e - C o r b i n%CONTINUE%
+ItemDisplay[(SET) !ID 7h7]:G r e a t  P o l e a x e%CONTINUE%
+ItemDisplay[(SET) !ID wsc]:W a r  S c y t h e%CONTINUE%
+ItemDisplay[(SET) !ID 9wc]:G r i m  S c y t h e%CONTINUE%
+ItemDisplay[(SET) !ID 7wc]:G i a n t  T h r e s h e r%CONTINUE%
+ItemDisplay[(SET) !ID sbw]:S h o r t  B o w%CONTINUE%
+ItemDisplay[(SET) !ID 8sb]:E d g e  B o w%CONTINUE%
+ItemDisplay[(SET) !ID 6sb]:S p i d e r  B o w%CONTINUE%
+ItemDisplay[(SET) !ID hbw]:H u n t e r s  B o w%CONTINUE%
+ItemDisplay[(SET) !ID 8hb]:R a z o r  B o w%CONTINUE%
+ItemDisplay[(SET) !ID 6hb]:B l a d e  B o w%CONTINUE%
+ItemDisplay[(SET) !ID lbw]:L o n g  B o w%CONTINUE%
+ItemDisplay[(SET) !ID 8lb]:C e d a r  B o w%CONTINUE%
+ItemDisplay[(SET) !ID 6lb]:S h a d o w  B o w%CONTINUE%
+ItemDisplay[(SET) !ID cbw]:C o m p o s i t e  B o w%CONTINUE%
+ItemDisplay[(SET) !ID 8cb]:D o u b l e  B o w%CONTINUE%
+ItemDisplay[(SET) !ID 6cb]:G r e a t  B o w%CONTINUE%
+ItemDisplay[(SET) !ID sbb]:S h o r t  B a t t l e  B o w%CONTINUE%
+ItemDisplay[(SET) !ID 8s8]:S h o r t  S i e g e  B o w%CONTINUE%
+ItemDisplay[(SET) !ID 6s7]:D i a m o n d  B o w%CONTINUE%
+ItemDisplay[(SET) !ID lbb]:L o n g  B a t t l e  B o w%CONTINUE%
+ItemDisplay[(SET) !ID 8l8]:L a r g e  S i e g e  B o w%CONTINUE%
+ItemDisplay[(SET) !ID 6l7]:C r u s a d e r  B o w%CONTINUE%
+ItemDisplay[(SET) !ID swb]:S h o r t  W a r  B o w%CONTINUE%
+ItemDisplay[(SET) !ID 8sw]:R u n e  B o w%CONTINUE%
+ItemDisplay[(SET) !ID 6sw]:W a r d  B o w%CONTINUE%
+ItemDisplay[(SET) !ID lwb]:L o n g  W a r  B o w%CONTINUE%
+ItemDisplay[(SET) !ID 8lw]:G o t h i c  B o w%CONTINUE%
+ItemDisplay[(SET) !ID 6lw]:H y d r a  B o w%CONTINUE%
+ItemDisplay[(SET) !ID lxb]:L i g h t  C r o s s b o w%CONTINUE%
+ItemDisplay[(SET) !ID 8lx]:A r b a l e s t%CONTINUE%
+ItemDisplay[(SET) !ID 6lx]:P e l l e t  B o w%CONTINUE%
+ItemDisplay[(SET) !ID mxb]:C r o s s b o w%CONTINUE%
+ItemDisplay[(SET) !ID 8mx]:S i e g e  C r o s s b o w%CONTINUE%
+ItemDisplay[(SET) !ID 6mx]:G o r g o n  C r o s s b o w%CONTINUE%
+ItemDisplay[(SET) !ID hxb]:H e a v y  C r o s s b o w%CONTINUE%
+ItemDisplay[(SET) !ID 8hx]:B a l l i s t a%CONTINUE%
+ItemDisplay[(SET) !ID 6hx]:C o l o s s u s  C r o s s b o w%CONTINUE%
+ItemDisplay[(SET) !ID rxb]:R e p e a t i n g  C r o s s b o w%CONTINUE%
+ItemDisplay[(SET) !ID 8rx]:C h u - K o - N u%CONTINUE%
+ItemDisplay[(SET) !ID 6rx]:D e m o n  C r o s s b o w%CONTINUE%
+ItemDisplay[(SET) !ID sst]:S h o r t  S t a f f%CONTINUE%
+ItemDisplay[(SET) !ID 8ss]:J o  S t a f f%CONTINUE%
+ItemDisplay[(SET) !ID 6ss]:W a l k i n g  S t i c k%CONTINUE%
+ItemDisplay[(SET) !ID lst]:L o n g  S t a f f%CONTINUE%
+ItemDisplay[(SET) !ID 8ls]:Q u a r t e r s t a f f%CONTINUE%
+ItemDisplay[(SET) !ID 6ls]:S t a l a g m i t e%CONTINUE%
+ItemDisplay[(SET) !ID cst]:G n a r l e d  S t a f f%CONTINUE%
+ItemDisplay[(SET) !ID 8cs]:C e d a r  S t a f f%CONTINUE%
+ItemDisplay[(SET) !ID 6cs]:E l d e r  S t a f f%CONTINUE%
+ItemDisplay[(SET) !ID bst]:B a t t l e  S t a f f%CONTINUE%
+ItemDisplay[(SET) !ID 8bs]:G o t h i c  S t a f f%CONTINUE%
+ItemDisplay[(SET) !ID 6bs]:S h i l l e l a g h%CONTINUE%
+ItemDisplay[(SET) !ID wst]:W a r  S t a f f%CONTINUE%
+ItemDisplay[(SET) !ID 8ws]:R u n e  S t a f f%CONTINUE%
+ItemDisplay[(SET) !ID 6ws]:A r c h o n  S t a f f%CONTINUE%
+ItemDisplay[(SET) !ID wnd]:W a n d%CONTINUE%
+ItemDisplay[(SET) !ID 9wn]:B u r n t  W a n d%CONTINUE%
+ItemDisplay[(SET) !ID 7wn]:P o l i s h e d  W a n d%CONTINUE%
+ItemDisplay[(SET) !ID ywn]:Y e w  W a n d%CONTINUE%
+ItemDisplay[(SET) !ID 9yw]:P e t r i f i e d  W a n d%CONTINUE%
+ItemDisplay[(SET) !ID 7yw]:G h o s t  W a n d%CONTINUE%
+ItemDisplay[(SET) !ID bwn]:B o n e  W a n d%CONTINUE%
+ItemDisplay[(SET) !ID 9bw]:T o m b  W a n d%CONTINUE%
+ItemDisplay[(SET) !ID 7bw]:L i c h  W a n d%CONTINUE%
+ItemDisplay[(SET) !ID gwn]:G r i m  W a n d%CONTINUE%
+ItemDisplay[(SET) !ID 9gw]:G r a v e  W a n d%CONTINUE%
+ItemDisplay[(SET) !ID 7gw]:U n e a r t h e d  W a n d%CONTINUE%
+ItemDisplay[(SET) !ID scp]:S c e p t e r%CONTINUE%
+ItemDisplay[(SET) !ID 9sc]:R u n e  S c e p t e r%CONTINUE%
+ItemDisplay[(SET) !ID 7sc]:M i g h t y  S c e p t e r%CONTINUE%
+ItemDisplay[(SET) !ID gsc]:G r a n d  S c e p t e r%CONTINUE%
+ItemDisplay[(SET) !ID 9qs]:H o l y  W a t e r  S p r i n k l e r%CONTINUE%
+ItemDisplay[(SET) !ID 7qs]:S e r a p h  R o d%CONTINUE%
+ItemDisplay[(SET) !ID wsp]:W a r  S c e p t e r%CONTINUE%
+ItemDisplay[(SET) !ID 9ws]:D i v i n e  S c e p t e r%CONTINUE%
+ItemDisplay[(SET) !ID 7ws]:C a d u c e u s%CONTINUE%
+ItemDisplay[(SET) !ID ktr]:K a t a r%CONTINUE%
+ItemDisplay[(SET) !ID 9ar]:Q u h a b%CONTINUE%
+ItemDisplay[(SET) !ID 7ar]:S u w a y y a h%CONTINUE%
+ItemDisplay[(SET) !ID wrb]:W r i s t  B l a d e%CONTINUE%
+ItemDisplay[(SET) !ID 9wb]:W r i s t  S p i k e%CONTINUE%
+ItemDisplay[(SET) !ID 7wb]:W r i s t  S w o r d%CONTINUE%
+ItemDisplay[(SET) !ID axf]:H a t c h e t  H a n d s%CONTINUE%
+ItemDisplay[(SET) !ID 9xf]:F a s c i a%CONTINUE%
+ItemDisplay[(SET) !ID 7xf]:W a r  F i s t%CONTINUE%
+ItemDisplay[(SET) !ID ces]:C e s t u s%CONTINUE%
+ItemDisplay[(SET) !ID 9cs]:H a n d  S c y t h e%CONTINUE%
+ItemDisplay[(SET) !ID 7cs]:B a t t l e  C e s t u s%CONTINUE%
+ItemDisplay[(SET) !ID clw]:C l a w s%CONTINUE%
+ItemDisplay[(SET) !ID 9lw]:G r e a t e r  C l a w s%CONTINUE%
+ItemDisplay[(SET) !ID 7lw]:F e r a l  C l a w s%CONTINUE%
+ItemDisplay[(SET) !ID btl]:B l a d e  T a l o n s%CONTINUE%
+ItemDisplay[(SET) !ID 9tw]:G r e a t e r  T a l o n s%CONTINUE%
+ItemDisplay[(SET) !ID 7tw]:R u n i c  T a l o n s%CONTINUE%
+ItemDisplay[(SET) !ID skr]:S c i s s o r s  K a t a r%CONTINUE%
+ItemDisplay[(SET) !ID 9qr]:S c i s s o r s  Q u h a b%CONTINUE%
+ItemDisplay[(SET) !ID 7qr]:S c i s s o r s  S u w a y y a h%CONTINUE%
+ItemDisplay[(SET) !ID ob1]:E a g l e  O r b%CONTINUE%
+ItemDisplay[(SET) !ID ob6]:G l o w i n g  O r b%CONTINUE%
+ItemDisplay[(SET) !ID obb]:H e a v e n l y  S t o n e%CONTINUE%
+ItemDisplay[(SET) !ID ob2]:S a c r e d  G l o b e%CONTINUE%
+ItemDisplay[(SET) !ID ob7]:C r y s t a l l i n e  G l o b e%CONTINUE%
+ItemDisplay[(SET) !ID obc]:E l d r i t c h  O r b%CONTINUE%
+ItemDisplay[(SET) !ID ob3]:S m o k e d  S p h e r e%CONTINUE%
+ItemDisplay[(SET) !ID ob8]:C l o u d y  S p h e r e%CONTINUE%
+ItemDisplay[(SET) !ID obd]:D e m o n  H e a r t%CONTINUE%
+ItemDisplay[(SET) !ID ob4]:C l a s p e d  O r b%CONTINUE%
+ItemDisplay[(SET) !ID ob9]:S p a r k l i n g  B a l l%CONTINUE%
+ItemDisplay[(SET) !ID obe]:V o r t e x  O r b%CONTINUE%
+ItemDisplay[(SET) !ID ob5]:J a r e d ' s  S t o n e%CONTINUE%
+ItemDisplay[(SET) !ID oba]:S w i r l i n g  C r y s t a l%CONTINUE%
+ItemDisplay[(SET) !ID obf]:D i m e n s i o n a l  S h a r d%CONTINUE%
+ItemDisplay[(SET) !ID am1]:S t a g  B o w%CONTINUE%
+ItemDisplay[(SET) !ID am6]:A s h w o o d  B o w%CONTINUE%
+ItemDisplay[(SET) !ID amb]:M a t r i a r c h a l  B o w%CONTINUE%
+ItemDisplay[(SET) !ID am2]:R e f l e x  B o w%CONTINUE%
+ItemDisplay[(SET) !ID am7]:C e r e m o n i a l  B o w%CONTINUE%
+ItemDisplay[(SET) !ID amc]:G r a n d  M a t r o n  B o w%CONTINUE%
+ItemDisplay[(SET) !ID am3]:M a i d e n  S p e a r%CONTINUE%
+ItemDisplay[(SET) !ID am8]:C e r e m o n i a l  S p e a r%CONTINUE%
+ItemDisplay[(SET) !ID amd]:M a t r i a r c h a l  S p e a r%CONTINUE%
+ItemDisplay[(SET) !ID am4]:M a i d e n  P i k e%CONTINUE%
+ItemDisplay[(SET) !ID am9]:C e r e m o n i a l  P i k e%CONTINUE%
+ItemDisplay[(SET) !ID ame]:M a t r i a r c h a l  P i k e%CONTINUE%
+ItemDisplay[(SET) !ID am5]:M a i d e n  J a v e l i n%CONTINUE%
+ItemDisplay[(SET) !ID ama]:C e r e m o n i a l  J a v e l i n%CONTINUE%
+ItemDisplay[(SET) !ID amf]:M a t r i a r c h a l  J a v e l i n%CONTINUE%
+ItemDisplay[(SET) !ID aqv]:A r r o w%CONTINUE%
+ItemDisplay[(SET) !ID cqv]:B o l t%CONTINUE%
+
 ItemDisplay[(RARE OR CRAFT) cap]:%NAME%{%ORANGE%Cap}%CONTINUE%
 ItemDisplay[(RARE OR CRAFT) xap]:%NAME%{%ORANGE%War hat}%CONTINUE%
 ItemDisplay[(RARE OR CRAFT) uap]:%NAME%{%ORANGE%Shako}%CONTINUE%
