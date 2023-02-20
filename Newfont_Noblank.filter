@@ -7,7 +7,7 @@ ItemDisplayFilterName[]: ++++No Normal Set
 ItemDisplayFilterName[]: +++++Only GG Base Activation
 ItemDisplayFilterName[]: ++++++No CraftWeapon(Only Active ETH+GMB)
 
-ItemDisplay[(hp5 OR mp5 OR rvs) FILTLVL>1]:
+ItemDisplay[(hp5 OR mp5 OR rvs OR rin) FILTLVL>1]:
 ItemDisplay[MAG (am5 OR ama OR amf) !ID FILTLVL>2]:
 
 ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
@@ -4954,10 +4954,10 @@ ItemDisplay[MAG cm2 !ID]:%DOT-97%%GREEN%O%WHITE%O    %NAME% %ORANGE%[L%ILVL%]   
 ItemDisplay[MAG cm3 !ID]:%DOT-97%%GREEN%O%WHITE%O    %NAME% %ORANGE%[L%ILVL%]    %WHITE%O%GREEN%O
 ItemDisplay[MAG jew !ID]:%DOT-6F%%GREEN%O%ORANGE%O    %NAME% %ORANGE%[L%ILVL%]    %ORANGE%O%GREEN%O
 ItemDisplay[RARE EQ7 !ID]:%DOT-6F%%GREEN%O%BLUE%O    %NAME%    %BLUE%O%GREEN%O
-ItemDisplay[RARE (cqv OR aqv) !ID]:%DOT-6F%%GREEN%O%YELLOW%O    %NAME%    %YELLOW%O%GREEN%O
+ItemDisplay[RARE (cqv OR aqv) !ID]:%DOT-6F%%GREEN%O%ORANGE%O    %NAME%    %ORANGE%O%GREEN%O
 //ItemDisplay[RARE (rin OR amu) !ID]:%DOT-6F%%GREEN%OO    %YELLOW%%NAME%    %GREEN%OO
-ItemDisplay[RARE (amu OR rin OR jew) !ID]: %DOT-6F%%GREEN%O%YELLOW%O    %YELLOW%%NAME%    %YELLOW%O%GREEN%O
-ItemDisplay[RARE (EQ4 OR EQ5 OR am2 OR am7 OR amc OR lwb OR 8lw OR 6lw) !ETH !ID]:%DOT-75%%GREEN%O%YELLOW%O    %NAME%    %YELLOW%O%GREEN%O
+ItemDisplay[RARE (amu OR rin OR jew) !ID]: %DOT-6F%%GREEN%O%ORANGE%O    %YELLOW%%NAME%    %ORANGE%O%GREEN%O
+ItemDisplay[RARE (EQ4 OR EQ5 OR am2 OR am7 OR amc OR lwb OR 8lw OR 6lw) !ETH !ID]:%DOT-75%%GREEN%O%ORANGE%O    %NAME%    %ORANGE%O%GREEN%O
 ItemDisplay[RARE (WEAPON OR ARMOR) !ID]:%YELLOW%%NAME%
 ItemDisplay[(am5 OR ama OR amf) !ID !UNI !RW]:%YELLOW%%NAME%%GRAY%[javelin %WHITE%c%ORANGE%h%RED%e%GREEN%c%PURPLE%k]{%NAME%}
 ItemDisplay[EQ4 MAG !ID]:%NAME%%GRAY%[glove %WHITE%c%ORANGE%h%RED%e%GREEN%c%PURPLE%k]{%NAME%}
