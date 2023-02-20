@@ -3974,13 +3974,13 @@ ItemDisplay[(SET) zvb FRW>19 STAT62>2 ID]:%GREEN%M'avina's %PURPLE%T e %RED%n %O
 ItemDisplay[(SET) uvc FRW>19 STAT62>2 ID]:%GREEN%M'avina's %PURPLE%T e %RED%n %ORANGE%e %GOLD%t{%GREEN%Vampirefang Belt}%CONTINUE%
 //
 ItemDisplay[(SET) vbt FRW>30 DEX>19 MFIND>24 ID]:%GREEN%Cow King's %WHITE%H %GREEN%o o %DARK_GREEN%v e %WHITE%s{%GREEN%Heavy Boots}%CONTINUE%
-ItemDisplay[(SET) vbt FRW>40 STR>4 DEX>9 ID]:%GREEN%Sander's %WHITE%R %DARK_GREEN%i p %WHITE%r a %GREEN%p{%GREEN%Heavy Boots}%CONTINUE%
+ItemDisplay[(SET) vbt FRW>30 STR>4 DEX>9 ID]:%GREEN%Sander's %WHITE%R %DARK_GREEN%i p %WHITE%r a %GREEN%p{%GREEN%Heavy Boots}%CONTINUE%
 
 ItemDisplay[(SET) xvb FRW>30 DEX>19 MFIND>24 ID]:%GREEN%Cow King's %WHITE%H %GREEN%o o %DARK_GREEN%v e %WHITE%s{%GREEN%Sharkskin Boots}%CONTINUE%
-ItemDisplay[(SET) xvb FRW>40 STR>4 DEX>9 ID]:%GREEN%Sander's %WHITE%R %DARK_GREEN%i p %WHITE%r a %GREEN%p{%GREEN%Sharkskin Boots}%CONTINUE%
+ItemDisplay[(SET) xvb FRW>30 STR>4 DEX>9 ID]:%GREEN%Sander's %WHITE%R %DARK_GREEN%i p %WHITE%r a %GREEN%p{%GREEN%Sharkskin Boots}%CONTINUE%
 
 ItemDisplay[(SET) uvb FRW>30 DEX>19 MFIND>24 ID]:%GREEN%Cow King's %WHITE%H %GREEN%o o %DARK_GREEN%v e %WHITE%s{%GREEN%Scarabshell Boots}%CONTINUE%
-ItemDisplay[(SET) uvb FRW>40 STR>4 DEX>9 ID]:%GREEN%Sander's %WHITE%R %DARK_GREEN%i p %WHITE%r a %GREEN%p{%GREEN%Scarabshell Boots}%CONTINUE%
+ItemDisplay[(SET) uvb FRW>30 STR>4 DEX>9 ID]:%GREEN%Sander's %WHITE%R %DARK_GREEN%i p %WHITE%r a %GREEN%p{%GREEN%Scarabshell Boots}%CONTINUE%
 //
 ItemDisplay[(SET) vgl ID]:%GREEN%Sander's %WHITE%T %DARK_GREEN%a b %WHITE%o %GREEN%o{%GREEN%Heavy Gloves}%CONTINUE%
 ItemDisplay[(SET) xvg ID]:%GREEN%Sander's %WHITE%T %DARK_GREEN%a b %WHITE%o %GREEN%o{%GREEN%Sharkskin Gloves}%CONTINUE%
