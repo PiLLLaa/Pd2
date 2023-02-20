@@ -4662,19 +4662,19 @@ ItemDisplay[cm3 (TABSK10>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%T
 
 ItemDisplay[cm3 (TABSK16>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %RED%Curse %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 ItemDisplay[cm3 (TABSK17>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %GREEN%Poison and bone %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
-ItemDisplay[cm3 (TABSK18>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %PURPLE%Summon(nec) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK18>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %PURPLE%Summon%WHITE%(nec) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 
-ItemDisplay[cm3 (TABSK24>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %YELLOW%Combat(pally) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK24>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %YELLOW%Combat%PURPLE%(pally) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 ItemDisplay[cm3 (TABSK25>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %RED%Offensive aura %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 ItemDisplay[cm3 (TABSK26>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %BLUE%Difensive aura %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 
-ItemDisplay[cm3 (TABSK32>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %YELLOW%Combat(bar) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
-ItemDisplay[cm3 (TABSK33>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %ORANGE%Combat masteries(bar) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
-ItemDisplay[cm3 (TABSK34>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %RED%Warcry(bar) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK32>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %YELLOW%Combat%PURPLE%(bar) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK33>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %ORANGE%Combat masteries%PURPLE%(bar) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK34>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %RED%Warcry%PURPLE%(bar) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 
-ItemDisplay[cm3 (TABSK40>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %BLUE%Summon(dru) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK40>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %BLUE%Summon%PURPLE%(dru) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 ItemDisplay[cm3 (TABSK41>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %WHITE%Shafting %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
-ItemDisplay[cm3 (TABSK42>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %RED%Elemental(dru) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK42>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %RED%Elemental%PURPLE%(dru) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 
 ItemDisplay[cm3 (TABSK48>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %RED%Trap %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 ItemDisplay[cm3 (TABSK49>0 AND LIFE>39)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %GREEN%Shadow disciplines %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
@@ -4690,19 +4690,19 @@ ItemDisplay[cm3 (TABSK10>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN
 
 ItemDisplay[cm3 (TABSK16>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %RED%Curse %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 ItemDisplay[cm3 (TABSK17>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %GREEN%Poison and bone %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
-ItemDisplay[cm3 (TABSK18>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %PURPLE%Summon(nec) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK18>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %PURPLE%Summon%WHITE%(nec) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 
-ItemDisplay[cm3 (TABSK24>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %YELLOW%Combat(pally) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK24>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %YELLOW%Combat%PURPLE%(pally) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 ItemDisplay[cm3 (TABSK25>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %RED%Offensive aura %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 ItemDisplay[cm3 (TABSK26>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %BLUE%Difensive aura %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 
-ItemDisplay[cm3 (TABSK32>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %YELLOW%Combat(bar) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
-ItemDisplay[cm3 (TABSK33>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %ORANGE%Combat masteries(bar) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
-ItemDisplay[cm3 (TABSK34>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %RED%Warcry(bar) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK32>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %YELLOW%Combat%PURPLE%(bar) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK33>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %ORANGE%Combat masteries%PURPLE%(bar) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK34>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %RED%Warcry%PURPLE%(bar) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 
-ItemDisplay[cm3 (TABSK40>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %BLUE%Summon(dru) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK40>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %BLUE%Summon%PURPLE%(dru) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 ItemDisplay[cm3 (TABSK41>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %WHITE%Shafting %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
-ItemDisplay[cm3 (TABSK42>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %RED%Elemental(dru) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK42>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %RED%Elemental%PURPLE%(dru) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 
 ItemDisplay[cm3 (TABSK48>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %RED%Trap %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 ItemDisplay[cm3 (TABSK49>0 AND LIFE<40 AND LIFE>34)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%RED%life %GREEN%Shadow disciplines %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
@@ -4717,13 +4717,13 @@ ItemDisplay[cm3 (TABSK9>0 AND STAT99>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%T
 ItemDisplay[cm3 (TABSK10>0 AND STAT99>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%fhr %BLUE%Cold %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 
 ItemDisplay[cm3 (TABSK17>0 AND STAT99>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%fhr %GREEN%Poison and bone %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
-ItemDisplay[cm3 (TABSK18>0 AND STAT99>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%fhr %PURPLE%Summon(nec) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
-ItemDisplay[cm3 (TABSK24>0 AND STAT99>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%fhr %YELLOW%Combat(pally) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
-ItemDisplay[cm3 (TABSK34>0 AND STAT99>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%fhr %RED%Warcry(bar) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK18>0 AND STAT99>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%fhr %PURPLE%Summon%WHITE%(nec) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK24>0 AND STAT99>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%fhr %YELLOW%Combat%PURPLE%(pally) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK34>0 AND STAT99>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%fhr %RED%Warcry%PURPLE%(bar) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 
-ItemDisplay[cm3 (TABSK40>0 AND STAT99>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%fhr %BLUE%Summon(dru) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK40>0 AND STAT99>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%fhr %BLUE%Summon%PURPLE%(dru) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 ItemDisplay[cm3 (TABSK41>0 AND STAT99>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%fhr %WHITE%Shafting %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
-ItemDisplay[cm3 (TABSK42>0 AND STAT99>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%fhr %RED%Elemental(dru) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK42>0 AND STAT99>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%fhr %RED%Elemental%PURPLE%(dru) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 
 ItemDisplay[cm3 (TABSK48>0 AND STAT99>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%fhr %RED%Trap %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 ItemDisplay[cm3 (TABSK49>0 AND STAT99>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%fhr %GREEN%Shadow disciplines %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
@@ -4738,7 +4738,7 @@ ItemDisplay[cm3 (TABSK48>0 AND STAT96>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%
 ItemDisplay[cm3 (TABSK49>0 AND STAT96>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%frw %GREEN%Shadow disciplines %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 ItemDisplay[cm3 (TABSK50>0 AND STAT96>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%frw %ORANGE%Martial arts %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 ItemDisplay[cm3 (TABSK41>0 AND STAT96>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%frw %WHITE%Shafting %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
-ItemDisplay[cm3 (TABSK24>0 AND STAT96>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%frw %YELLOW%Combat(pally) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
+ItemDisplay[cm3 (TABSK24>0 AND STAT96>0)]:%NAME%{%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*%ORANGE%frw %YELLOW%Combat%PURPLE%(pally) %GOLD%skiller%GOLD%*%ORANGE%*%TAN%*%WHITE%*%TAN%*%ORANGE%*%GOLD%*}
 
 ItemDisplay[cm3 MAG ID !UNI]:%NAME%{%TAN%n %BLUE%Grand %WHITE%Charm%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 ItemDisplay[cm2 MAG ID !UNI]:%NAME%{%TAN%n %BLUE%Large %ORANGE%Charm%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
@@ -4754,19 +4754,19 @@ ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK10>0]:%BLUE%C o l d %GOLD%s k i l 
 
 ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK16>0]:%RED%C u r s e %GOLD%s k i l l e r{%TAN%n %RED%Curse %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK17>0]:%GREEN%P o i s o n and b o n e %GOLD%s k i l l e r{%TAN%n %GREEN%Poison and bone %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK18>0]:%PURPLE%S u m m o n(nec) %GOLD%s k i l l e r{%TAN%n %PURPLE%Summon(nec) %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK18>0]:%PURPLE%S u m m o n%WHITE%(nec) %GOLD%s k i l l e r{%TAN%n %PURPLE%Summon%WHITE%(nec) %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 
-ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK24>0]:%YELLOW%C o m b a t(pally) %GOLD%s k i l l e r{%TAN%n %YELLOW%Combat(pally) %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK24>0]:%YELLOW%C o m b a t%PURPLE%(pally) %GOLD%s k i l l e r{%TAN%n %YELLOW%Combat%PURPLE%(pally) %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK25>0]:%RED%O f f e n s i v e aura %GOLD%s k i l l e r{%TAN%n %RED%Offensive aura %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK26>0]:%BLUE%D i f e n s i v e aura %GOLD%s k i l l e r{%TAN%n %BLUE%Difensive aura %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 
-ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK32>0]:%YELLOW%C o m b a t(bar) %GOLD%s k i l l e r{%TAN%n %YELLOW%Combat(bar) %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK33>0]:%ORANGE%C o m b a t masteries(bar) %GOLD%s k i l l e r{%TAN%n %ORANGE%Combat masteries(bar) %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK34>0]:%RED%W a r c r y(bar) %GOLD%s k i l l e r{%TAN%n %RED%Warcry(bar) %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK32>0]:%YELLOW%C o m b a t%PURPLE%(bar) %GOLD%s k i l l e r{%TAN%n %YELLOW%Combat%PURPLE%(bar) %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK33>0]:%ORANGE%C o m b a t masteries%PURPLE%(bar) %GOLD%s k i l l e r{%TAN%n %ORANGE%Combat masteries%PURPLE%(bar) %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK34>0]:%RED%W a r c r y%PURPLE%(bar) %GOLD%s k i l l e r{%TAN%n %RED%Warcry%PURPLE%(bar) %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 
-ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK40>0]:%BLUE%S u m m o n(dru) %GOLD%s k i l l e r{%TAN%n %BLUE%Summon(dru) %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK40>0]:%BLUE%S u m m o n%PURPLE%(dru) %GOLD%s k i l l e r{%TAN%n %BLUE%Summon%PURPLE%(dru) %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK41>0]:%WHITE%S h a f t i n g %GOLD%s k i l l e r{%TAN%n %WHITE%Shafting %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK42>0]:%RED%E l e m e n t a l(dru) %GOLD%s k i l l e r{%TAN%n %RED%Elemental(dru) %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK42>0]:%RED%E l e m e n t a l%PURPLE%(dru) %GOLD%s k i l l e r{%TAN%n %RED%Elemental%PURPLE%(dru) %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 
 ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK48>0]:%RED%T r a p %GOLD%s k i l l e r{%TAN%n %RED%Trap %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) MAG !UNI TABSK49>0]:%GREEN%S h a d o w disciplines %GOLD%s k i l l e r{%TAN%n %GREEN%Shadow disciplines %GOLD%s k i l l e r%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
