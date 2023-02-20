@@ -7,7 +7,8 @@ ItemDisplayFilterName[]: ++++No Normal Set
 ItemDisplayFilterName[]: +++++Only GG Base Activation
 ItemDisplayFilterName[]: ++++++No CraftWeapon(Only Active ETH+GMB)
 
-ItemDisplay[(hp5 OR mp5 OR rvs OR rin) FILTLVL>1]:
+ItemDisplay[(hp5 OR mp5 OR rvs) FILTLVL>1]:
+ItemDisplay[MAG rin FILTLVL>1]:
 ItemDisplay[MAG (am5 OR ama OR amf) !ID FILTLVL>2]:
 
 ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
@@ -5914,20 +5915,20 @@ ItemDisplay[RARE EQ7 !ETH ID (TABSK0=2 AND STAT96>0)]:%NAME%{%GREEN%+2 BOW %ORAN
 ItemDisplay[RARE EQ7 !ETH ID (TABSK0=3 AND STAT96>0)]:%NAME%{%GREEN%+3 BOW %ORANGE%FRW %NAME%}%CONTINUE%
 ItemDisplay[RARE EQ7 !ETH ID]:%NAME%{%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%NL%%NAME%}%CONTINUE%
 
-ItemDisplay[(aqv) RARE (IAS>0 AND STAT127>0)]:%NAME%{ %PURPLE%Ias %RED%Skill %YELLOW%Arrow }%CONTINUE%
-ItemDisplay[(aqv) RARE (IAS>0 AND (TABSK0>0 OR TABSK1>0))]:%NAME%{ %PURPLE%Ias %RED%Skill %YELLOW%Arrow }%CONTINUE%
-ItemDisplay[(aqv) RARE (ED>0 AND STAT127>0)]:%NAME%{ %PURPLE%Ed %RED%Skill %YELLOW%Arrow }%CONTINUE%
-ItemDisplay[(aqv) RARE (ED>0 AND (TABSK0>0 OR TABSK1>0))]:%NAME%{ %PURPLE%Ed %RED%Skill %YELLOW%Arrow }%CONTINUE%
-ItemDisplay[(aqv) RARE (STAT141>0 AND ED>0)]:%NAME%{ %PURPLE%Ed %RED%Deadly %YELLOW%Arrow }%CONTINUE%
-ItemDisplay[(aqv) RARE (IAS>0 AND ED>0)]:%NAME%{ %PURPLE%Ias %RED%Ed %YELLOW%Arrow }%CONTINUE%
+ItemDisplay[(aqv) RARE (IAS>0 AND STAT127>0)]:%PURPLE%Ias %RED%Skill %NAME%{ %PURPLE%Ias %RED%Skill %YELLOW%Arrow }%CONTINUE%
+ItemDisplay[(aqv) RARE (IAS>0 AND (TABSK0>0 OR TABSK1>0))]:%PURPLE%Ias %RED%Skill %NAME%{ %PURPLE%Ias %RED%Skill %YELLOW%Arrow }%CONTINUE%
+ItemDisplay[(aqv) RARE (ED>0 AND STAT127>0)]:%PURPLE%Ed %RED%Skill %NAME%{ %PURPLE%Ed %RED%Skill %YELLOW%Arrow }%CONTINUE%
+ItemDisplay[(aqv) RARE (ED>0 AND (TABSK0>0 OR TABSK1>0))]:%PURPLE%Ed %RED%Skill %NAME%{ %PURPLE%Ed %RED%Skill %YELLOW%Arrow }%CONTINUE%
+ItemDisplay[(aqv) RARE (STAT141>0 AND ED>0)]:%PURPLE%Ed %RED%Deadly %NAME%{ %PURPLE%Ed %RED%Deadly %YELLOW%Arrow }%CONTINUE%
+ItemDisplay[(aqv) RARE (IAS>0 AND ED>0)]:%PURPLE%Ias %RED%Ed %NAME%{ %PURPLE%Ias %RED%Ed %YELLOW%Arrow }%CONTINUE%
 
-ItemDisplay[(aqv) RARE (IAS>0 AND ED>0 AND STAT96>0)]:%NAME%{ %PURPLE%Ias %RED%Ed %ORANGE%Frw %YELLOW%Arrow }%CONTINUE%
-ItemDisplay[(aqv) RARE (IAS>0 AND ED>0 AND STAT62>0)]:%NAME%{ %PURPLE%Ias %RED%Ed %GREEN%Mana %YELLOW%Arrow }%CONTINUE%
-ItemDisplay[(aqv) RARE (IAS>0 AND ED>0 AND STAT127>0)]:%NAME%{ %PURPLE%Ias %RED%Ed %GREEN%Skill %YELLOW%Arrow }%CONTINUE%
-ItemDisplay[(aqv) RARE (IAS>0 AND ED>0 AND (TABSK0>0 OR TABSK1>0))]:%NAME%{ %PURPLE%Ias %RED%Ed %GREEN%Skill %YELLOW%Arrow }%CONTINUE%
-ItemDisplay[(aqv) RARE (IAS>0 AND ED>0 AND STAT80>0)]:%NAME%{ %PURPLE%Ias %RED%Ed %GREEN%Mf %YELLOW%Arrow }%CONTINUE%
-ItemDisplay[(aqv) RARE (IAS>0 AND ED>0 AND STAT240>0)]:%NAME%{ %PURPLE%Ias %RED%Ed %GREEN%Mf %YELLOW%Arrow }%CONTINUE%
-ItemDisplay[(aqv) RARE (IAS>0 AND ED>0 AND STAT141>0)]:%NAME%{ %PURPLE%Ias %RED%Ed %GREEN%Deadly %YELLOW%Arrow }%CONTINUE%
+ItemDisplay[(aqv) RARE (IAS>0 AND ED>0 AND STAT96>0)]:%PURPLE%Ias %RED%Ed %ORANGE%Frw %NAME%{ %PURPLE%Ias %RED%Ed %ORANGE%Frw %YELLOW%Arrow }%CONTINUE%
+ItemDisplay[(aqv) RARE (IAS>0 AND ED>0 AND STAT62>0)]:%PURPLE%Ias %RED%Ed %GREEN%Mana %NAME%{ %PURPLE%Ias %RED%Ed %GREEN%Mana %YELLOW%Arrow }%CONTINUE%
+ItemDisplay[(aqv) RARE (IAS>0 AND ED>0 AND STAT127>0)]:%PURPLE%Ias %RED%Ed %GREEN%Skill %NAME%{ %PURPLE%Ias %RED%Ed %GREEN%Skill %YELLOW%Arrow }%CONTINUE%
+ItemDisplay[(aqv) RARE (IAS>0 AND ED>0 AND (TABSK0>0 OR TABSK1>0))]:%PURPLE%Ias %RED%Ed %GREEN%Skill %NAME%{ %PURPLE%Ias %RED%Ed %GREEN%Skill %YELLOW%Arrow }%CONTINUE%
+ItemDisplay[(aqv) RARE (IAS>0 AND ED>0 AND STAT80>0)]:%PURPLE%Ias %RED%Ed %GREEN%Mf %NAME%{ %PURPLE%Ias %RED%Ed %GREEN%Mf %YELLOW%Arrow }%CONTINUE%
+ItemDisplay[(aqv) RARE (IAS>0 AND ED>0 AND STAT240>0)]:%PURPLE%Ias %RED%Ed %GREEN%Mf %NAME%{ %PURPLE%Ias %RED%Ed %GREEN%Mf %YELLOW%Arrow }%CONTINUE%
+ItemDisplay[(aqv) RARE (IAS>0 AND ED>0 AND STAT141>0)]:%PURPLE%Ias %RED%Ed %GREEN%Deadly %NAME%{ %PURPLE%Ias %RED%Ed %GREEN%Deadly %YELLOW%Arrow }%CONTINUE%
 
 ItemDisplay[(aqv) RARE (IAS>0 AND ED>0 AND STAT96>0 AND RES>0)]:%NAME%{ %PURPLE%Ias %RED%Ed %ORANGE%Frw  %YELLOW%Arrow }%CONTINUE%
 ItemDisplay[(aqv) RARE (IAS>0 AND ED>0 AND STAT62>0 AND RES>0)]:%NAME%{ %PURPLE%Ias %RED%Ed %GREEN%Mana  %YELLOW%Arrow }%CONTINUE%
