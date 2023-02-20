@@ -7,7 +7,8 @@ ItemDisplayFilterName[]: ++++No Normal Set
 ItemDisplayFilterName[]: +++++Only GG Base Activation
 ItemDisplayFilterName[]: ++++++No CraftWeapon(Only Active ETH+GMB)
 
-ItemDisplay[(hp5 OR mp5 OR rvs OR rin) FILTLVL>1]:
+ItemDisplay[(hp5 OR mp5 OR rvs) FILTLVL>1]:
+ItemDisplay[MAG rin FILTLVL>1]:
 ItemDisplay[MAG (am5 OR ama OR amf) !ID FILTLVL>2]:
 
 ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
