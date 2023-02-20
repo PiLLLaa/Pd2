@@ -5157,29 +5157,29 @@ ItemDisplay[box]:%NAME%{%NL%%RED%(uber1)%GOLD%relic of the ancients: %ORANGE%sig
 ItemDisplay[box]:%NAME%{%NL%%RED%(uber2)%GOLD%pandemonium Talisman: %YELLOW%mephisto's brain%WHITE%+%RED%diablo's horn%WHITE%+%BLUE%baal's eye%WHITE%+%GOLD%key%NAME%}%CONTINUE%
 ItemDisplay[box]:%NAME%{%NL%%RED%(uber3)%GOLD%vision of terror:%ORANGE%prime evilsoul%WHITE%+%BLUE%black soulstone%WHITE%+%RED%pure demonicessence%NAME%}%CONTINUE%
 ItemDisplay[box]:%NAME%{%NL%%RED%(uber4)%GOLD%voidstone: %RED%hellfire torch%WHITE%+%YELLOW%splinter of the void%WHITE%+%GREEN%trang-oul's jawbone %NAME%}
-ItemDisplay[bks]:%GOLD%Sc%WHITE%ro%GOLD%ll%TAN% o%GOLD%f %WHITE%In%ORANGE%if%GOLD%uss
-ItemDisplay[bkd]:%GOLD%Ke%WHITE%y %GOLD%to%TAN% t%GOLD%he%WHITE% C%ORANGE%ai%GOLD%rn%WHITE% S%GOLD%to%WHITE%nee
-ItemDisplay[hdm]:%GOLD%Ho%WHITE%ra%GOLD%dr%TAN%ic%GOLD% M%WHITE%al%ORANGE%us
-ItemDisplay[tr1]:%GOLD%Ho%WHITE%ra%GOLD%dr%TAN%ic%GOLD% S%WHITE%cr%ORANGE%ol%GOLD%l
-ItemDisplay[ass]:%GOLD%Bo%WHITE%ok%GOLD% o%TAN%f %GOLD%Sk%WHITE%il%ORANGE%l
-ItemDisplay[box]:%GOLD%Ho%WHITE%ra%GOLD%dr%TAN%ic%GOLD% C%WHITE%ub%ORANGE%e
-ItemDisplay[msf]:%GOLD%St%WHITE%af%GOLD%f %TAN%of%GOLD% K%WHITE%in%ORANGE%gs
-ItemDisplay[vip]:%GOLD%Vi%WHITE%pe%GOLD%r %TAN%Am%GOLD%ul%WHITE%et
-ItemDisplay[hst]:%GOLD%Ho%WHITE%ra%GOLD%dr%TAN%ic%GOLD% S%WHITE%ta%ORANGE%ff
-ItemDisplay[j34]:%GOLD%Ja%WHITE%de%GOLD% F%TAN%ig%GOLD%ur%WHITE%in%ORANGE%e
-ItemDisplay[g34]:%GOLD%Go%WHITE%ld%GOLD%en%TAN% B%GOLD%ir%WHITE%d
-ItemDisplay[xyz]:%GOLD%Po%WHITE%ti%GOLD%on%TAN% o%GOLD%f %WHITE%Li%ORANGE%fe
-ItemDisplay[g33]:%GOLD%Gi%WHITE%db%GOLD%in%TAN%n
-ItemDisplay[bbb]:%GOLD%La%WHITE%m %GOLD%Es%TAN%en%GOLD%'s%WHITE% T%ORANGE%om%GOLD%e
-ItemDisplay[qbr]:%GOLD%Kh%WHITE%al%GOLD%im%TAN%'s%GOLD% B%WHITE%ra%ORANGE%in
-ItemDisplay[qey]:%GOLD%Kh%WHITE%al%GOLD%im%TAN%'s%GOLD% E%WHITE%ye
-ItemDisplay[qhr]:%GOLD%Kh%WHITE%al%GOLD%im%TAN%'s%GOLD% H%WHITE%ea%ORANGE%rt
-ItemDisplay[qf1]:%GOLD%Kh%WHITE%al%GOLD%im%TAN%'s%GOLD% F%WHITE%la%ORANGE%il
-ItemDisplay[qf2]:%GOLD%Kh%WHITE%al%GOLD%im%TAN%'s%GOLD% W%WHITE%il%ORANGE%l
-ItemDisplay[mss]:%GOLD%Me%WHITE%ph%GOLD%is%TAN%to%GOLD%'s%WHITE% S%ORANGE%ou%GOLD%ls%WHITE%to%GOLD%ne
-ItemDisplay[hfh]:%GOLD%He%WHITE%ll%GOLD%fo%TAN%rg%GOLD%e %WHITE%Ha%ORANGE%mm%GOLD%er
-ItemDisplay[ice]:%GOLD%Ma%WHITE%la%GOLD%h'%TAN%s %GOLD%Po%WHITE%ti%ORANGE%on
-ItemDisplay[tr2]:%GOLD%Sc%WHITE%ro%GOLD%ll%TAN% o%GOLD%f %WHITE%Re%ORANGE%si%GOLD%st%WHITE%an%GOLD%ce
+ItemDisplay[bks]:%GOLD%Sc%WHITE%ro%GOLD%ll%TAN% o%GOLD%f %WHITE%In%ORANGE%if%GOLD%uss%RED%(Quest)
+ItemDisplay[bkd]:%GOLD%Ke%WHITE%y %GOLD%to%TAN% t%GOLD%he%WHITE% C%ORANGE%ai%GOLD%rn%WHITE% S%GOLD%to%WHITE%nee%RED%(Quest)
+ItemDisplay[hdm]:%GOLD%Ho%WHITE%ra%GOLD%dr%TAN%ic%GOLD% M%WHITE%al%ORANGE%us%RED%(Quest)
+ItemDisplay[tr1]:%GOLD%Ho%WHITE%ra%GOLD%dr%TAN%ic%GOLD% S%WHITE%cr%ORANGE%ol%GOLD%l%RED%(Quest)
+ItemDisplay[ass]:%GOLD%Bo%WHITE%ok%GOLD% o%TAN%f %GOLD%Sk%WHITE%il%ORANGE%l%RED%(Quest)
+ItemDisplay[box]:%GOLD%Ho%WHITE%ra%GOLD%dr%TAN%ic%GOLD% C%WHITE%ub%ORANGE%e%RED%(Quest)
+ItemDisplay[msf]:%GOLD%St%WHITE%af%GOLD%f %TAN%of%GOLD% K%WHITE%in%ORANGE%gs%RED%(Quest)
+ItemDisplay[vip]:%GOLD%Vi%WHITE%pe%GOLD%r %TAN%Am%GOLD%ul%WHITE%et%RED%(Quest)
+ItemDisplay[hst]:%GOLD%Ho%WHITE%ra%GOLD%dr%TAN%ic%GOLD% S%WHITE%ta%ORANGE%ff%RED%(Quest)
+ItemDisplay[j34]:%GOLD%Ja%WHITE%de%GOLD% F%TAN%ig%GOLD%ur%WHITE%in%ORANGE%e%RED%(Quest)
+ItemDisplay[g34]:%GOLD%Go%WHITE%ld%GOLD%en%TAN% B%GOLD%ir%WHITE%d%RED%(Quest)
+ItemDisplay[xyz]:%GOLD%Po%WHITE%ti%GOLD%on%TAN% o%GOLD%f %WHITE%Li%ORANGE%fe%RED%(Quest)
+ItemDisplay[g33]:%GOLD%Gi%WHITE%db%GOLD%in%TAN%n%RED%(Quest)
+ItemDisplay[bbb]:%GOLD%La%WHITE%m %GOLD%Es%TAN%en%GOLD%'s%WHITE% T%ORANGE%om%GOLD%e%RED%(Quest)
+ItemDisplay[qbr]:%GOLD%Kh%WHITE%al%GOLD%im%TAN%'s%GOLD% B%WHITE%ra%ORANGE%in%RED%(Quest)
+ItemDisplay[qey]:%GOLD%Kh%WHITE%al%GOLD%im%TAN%'s%GOLD% E%WHITE%ye%RED%(Quest)
+ItemDisplay[qhr]:%GOLD%Kh%WHITE%al%GOLD%im%TAN%'s%GOLD% H%WHITE%ea%ORANGE%rt%RED%(Quest)
+ItemDisplay[qf1]:%GOLD%Kh%WHITE%al%GOLD%im%TAN%'s%GOLD% F%WHITE%la%ORANGE%il%RED%(Quest)
+ItemDisplay[qf2]:%GOLD%Kh%WHITE%al%GOLD%im%TAN%'s%GOLD% W%WHITE%il%ORANGE%l%RED%(Quest)
+ItemDisplay[mss]:%GOLD%Me%WHITE%ph%GOLD%is%TAN%to%GOLD%'s%WHITE% S%ORANGE%ou%GOLD%ls%WHITE%to%GOLD%ne%RED%(Quest)
+ItemDisplay[hfh]:%GOLD%He%WHITE%ll%GOLD%fo%TAN%rg%GOLD%e %WHITE%Ha%ORANGE%mm%GOLD%er%RED%(Quest)
+ItemDisplay[ice]:%GOLD%Ma%WHITE%la%GOLD%h'%TAN%s %GOLD%Po%WHITE%ti%ORANGE%on%RED%(Quest)
+ItemDisplay[tr2]:%GOLD%Sc%WHITE%ro%GOLD%ll%TAN% o%GOLD%f %WHITE%Re%ORANGE%si%GOLD%st%WHITE%an%GOLD%ce%RED%(Quest)
 
 ItemDisplay[(bbb OR ass OR bkd OR bks OR box OR g34 OR ice OR j34 OR mss OR qbr OR qey OR qhr OR tr1 OR tr2 OR xyz)]:%TAN%%NAME%
 ItemDisplay[tbk]:%WHITE%Po%GRAY%rt%BLUE%al %ORANGE%Book%WHITE%*%GREEN%%QTY%
