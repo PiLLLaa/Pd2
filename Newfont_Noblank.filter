@@ -4949,21 +4949,21 @@ ItemDisplay[SET !ID rin]: %DOT-84%%PURPLE%OO    %GREEN%%NAME%    %PURPLE%OO
 ItemDisplay[(WEAPON OR ARMOR OR rar OR rbe OR ram) UNI ID]:%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[(WEAPON OR ARMOR) SET ID]:%NAME%{%NAME%}%CONTINUE%
 
-ItemDisplay[MAG cm1 !ID]:%DOT-97%%GREEN%OO    %NAME% %ORANGE%[L%ILVL%]    %GREEN%OO
-ItemDisplay[MAG cm2 !ID]:%DOT-97%%GREEN%OO    %NAME% %ORANGE%[L%ILVL%]    %GREEN%OO
-ItemDisplay[MAG cm3 !ID]:%DOT-97%%GREEN%OO    %NAME% %ORANGE%[L%ILVL%]    %GREEN%OO
-ItemDisplay[MAG jew !ID]:%DOT-6F%%GREEN%OO    %NAME% %ORANGE%[L%ILVL%]    %GREEN%OO
-ItemDisplay[RARE EQ7 !ID]:%DOT-6F%%GREEN%OO    %NAME%    %GREEN%OO
-ItemDisplay[RARE (cqv OR aqv) !ID]:%DOT-6F%%GREEN%OO    %YELLOW%%NAME%    %GREEN%OO
+ItemDisplay[MAG cm1 !ID]:%DOT-97%%GREEN%O%WHITE%O    %NAME% %ORANGE%[L%ILVL%]    %WHITE%O%GREEN%O
+ItemDisplay[MAG cm2 !ID]:%DOT-97%%GREEN%O%WHITE%O    %NAME% %ORANGE%[L%ILVL%]    %WHITE%O%GREEN%O
+ItemDisplay[MAG cm3 !ID]:%DOT-97%%GREEN%O%WHITE%O    %NAME% %ORANGE%[L%ILVL%]    %WHITE%O%GREEN%O
+ItemDisplay[MAG jew !ID]:%DOT-6F%%GREEN%O%ORANGE%O    %NAME% %ORANGE%[L%ILVL%]    %ORANGE%O%GREEN%O
+ItemDisplay[RARE EQ7 !ID]:%DOT-6F%%GREEN%O%BLUE%O    %NAME%    %BLUE%O%GREEN%O
+ItemDisplay[RARE (cqv OR aqv) !ID]:%DOT-6F%%GREEN%O%YELLOW%O    %NAME%    %YELLOW%O%GREEN%O
 //ItemDisplay[RARE (rin OR amu) !ID]:%DOT-6F%%GREEN%OO    %YELLOW%%NAME%    %GREEN%OO
-ItemDisplay[RARE (amu OR rin OR jew) !ID]: %DOT-6F%%GREEN%OO    %YELLOW%%NAME%    %GREEN%OO
-ItemDisplay[RARE (EQ4 OR EQ5 OR am2 OR am7 OR amc OR lwb OR 8lw OR 6lw) !ETH !ID]:%DOT-75%%GREEN%OO    %YELLOW%%NAME%    %GREEN%OO
+ItemDisplay[RARE (amu OR rin OR jew) !ID]: %DOT-6F%%GREEN%O%YELLOW%O    %YELLOW%%NAME%    %YELLOW%O%GREEN%O
+ItemDisplay[RARE (EQ4 OR EQ5 OR am2 OR am7 OR amc OR lwb OR 8lw OR 6lw) !ETH !ID]:%DOT-75%%GREEN%O%YELLOW%O    %NAME%    %YELLOW%O%GREEN%O
 ItemDisplay[RARE (WEAPON OR ARMOR) !ID]:%YELLOW%%NAME%
-ItemDisplay[(am5 OR ama OR amf) !ID !UNI !RW]:%YELLOW%%NAME%%GRAY%[javelin]{%NAME%}
-ItemDisplay[EQ4 MAG !ID]:%NAME%%GRAY%[glove check]{%NAME%}
-ItemDisplay[EQ7 MAG !ID]:%NAME%%GRAY%[circlet check]{%NAME%}
-ItemDisplay[CL4 MAG !ID]:%NAME%%GRAY%[nec shield]{%NAME%}
-ItemDisplay[CL5 MAG !ID]:%NAME%%GRAY%[katar Check]{%NAME%}
+ItemDisplay[(am5 OR ama OR amf) !ID !UNI !RW]:%YELLOW%%NAME%%GRAY%[javelin %WHITE%c%ORANGE%h%RED%e%GREEN%c%PURPLE%k]{%NAME%}
+ItemDisplay[EQ4 MAG !ID]:%NAME%%GRAY%[glove %WHITE%c%ORANGE%h%RED%e%GREEN%c%PURPLE%k]{%NAME%}
+ItemDisplay[EQ7 MAG !ID]:%NAME%%GRAY%[circlet %WHITE%c%ORANGE%h%RED%e%GREEN%c%PURPLE%k]{%NAME%}
+ItemDisplay[CL4 MAG !ID]:%NAME%%GRAY%[nec shield %WHITE%c%ORANGE%h%RED%e%GREEN%c%PURPLE%k]{%NAME%}
+ItemDisplay[CL5 MAG !ID]:%NAME%%GRAY%[katar %WHITE%c%ORANGE%h%RED%e%GREEN%c%PURPLE%k]{%NAME%}
 
 ItemDisplay[(CRAFT) amu FCR>0 STAT27>0 MANA>0]:%PURPLE%Caster %ORANGE%Am%GOLD%ul%ORANGE%et%CONTINUE%
 ItemDisplay[(CRAFT) rin STAT1>0 MANA>0 MAEK>0]:%PURPLE%Caster %ORANGE%Ri%GOLD%ng%CONTINUE%
