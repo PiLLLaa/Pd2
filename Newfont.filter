@@ -6207,40 +6207,40 @@ ItemDisplay[EQ5 CRAFT ID]:%NAME%{%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANG
 ItemDisplay[EQ6 RARE ID]:%NAME%{%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%NL%%NAME%}%CONTINUE%
 ItemDisplay[EQ6 CRAFT ID]:%NAME%{%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%NL%%NAME%}%CONTINUE%
 
-ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft glove]
-ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft helmet]
-ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft helmet(Bar)]
-ItemDisplay[(dr8 OR dra OR drf OR drd OR drb) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft helmet(Dru)]
-ItemDisplay[(xtb OR utb OR xmb OR umb OR xlb OR ulb OR xhb OR uhb) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft boots]
-ItemDisplay[(zmb OR umc OR ztb OR utc OR zvb OR uvc OR zlb OR ulc) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft belt]
-ItemDisplay[(xpk OR upk OR xts OR uts OR xml OR uml OR xit OR uit OR xrg OR urg OR xow OR uow) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft shield]
-ItemDisplay[(xlt OR ult OR xld OR uld OR xtp OR utp OR xrs OR urs) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft chest]
+ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) !ETH MAG !ID]:%NAME%%GRAY%[craft glove]
+ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) !ETH MAG !ID]:%NAME%%GRAY%[craft helmet]
+ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) !ETH MAG !ID]:%NAME%%GRAY%[craft helmet(Bar)]
+ItemDisplay[(dr8 OR dra OR drf OR drd OR drb) !ETH MAG !ID]:%NAME%%GRAY%[craft helmet(Dru)]
+ItemDisplay[(xtb OR utb OR xmb OR umb OR xlb OR ulb OR xhb OR uhb) !ETH MAG !ID]:%NAME%%GRAY%[craft boots]
+ItemDisplay[(zmb OR umc OR ztb OR utc OR zvb OR uvc OR zlb OR ulc) !ETH MAG !ID]:%NAME%%GRAY%[craft belt]
+ItemDisplay[(xpk OR upk OR xts OR uts OR xml OR uml OR xit OR uit OR xrg OR urg OR xow OR uow) !ETH MAG !ID]:%NAME%%GRAY%[craft shield]
+ItemDisplay[(xlt OR ult OR xld OR uld OR xtp OR utp OR xrs OR urs) !ETH MAG !ID]:%NAME%%GRAY%[craft chest]
 
-ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) ETH MAG !ID]: %PURPLE%ETH %BLUE%%BLUE%%NAME%%NL%%GRAY%[craft glove]
-ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) ETH MAG !ID]: %PURPLE%ETH %BLUE%%BLUE%%NAME%%NL%%GRAY%[craft helmet]
-ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) ETH MAG !ID]: %PURPLE%ETH %BLUE%%BLUE%%NAME%%NL%%GRAY%[craft helmet(Bar)]
-ItemDisplay[(dr8 OR dra OR drf OR drd OR drb) ETH MAG !ID]: %PURPLE%ETH %BLUE%%BLUE%%NAME%%NL%%GRAY%[craft helmet(Dru)]
-ItemDisplay[(xtb OR utb OR xmb OR umb OR xlb OR ulb OR xhb OR uhb) ETH MAG !ID]: %PURPLE%ETH %BLUE%%BLUE%%NAME%%NL%%GRAY%[craft boots]
-ItemDisplay[(zmb OR umc OR ztb OR utc OR zvb OR uvc OR zlb OR ulc) ETH MAG !ID]: %PURPLE%ETH %BLUE%%BLUE%%NAME%%NL%%GRAY%[craft belt]
-ItemDisplay[(xpk OR upk OR xts OR uts OR xml OR uml OR xit OR uit OR xrg OR urg OR xow OR uow) ETH MAG !ID]: %PURPLE%ETH %BLUE%%BLUE%%NAME%%NL%%GRAY%[craft shield]
-ItemDisplay[(xlt OR ult OR xld OR uld OR xtp OR utp OR xrs OR urs) ETH MAG !ID]: %PURPLE%ETH %BLUE%%BLUE%%NAME%%NL%%GRAY%[craft chest]
-ItemDisplay[(am2 OR am7 OR amc) !ETH MAG !ID]: %DOT-75%%ORANGE%*%PURPLE%* %BLUE%%NAME%%NL%%GRAY%[craft bow] %PURPLE%*%ORANGE%*
-ItemDisplay[(6lw OR 8lw) !ETH MAG !ID]: %DOT-75%%ORANGE%*%PURPLE%* %BLUE%%NAME%%NL%%GRAY%[craft bow] %PURPLE%*%ORANGE%*
-ItemDisplay[(8rx OR 6rx OR 6mx OR 6hx) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft cbow]
-ItemDisplay[(tsp OR 9ts OR 7ts OR glv OR 9gl OR 7gl) !ETH MAG !ID]: %ORANGE%* %BLUE%%NAME%%NL%%GRAY%[craft glave] %ORANGE%*
-ItemDisplay[(tsp OR 9ts OR 7ts OR glv OR 9gl OR 7gl) ETH MAG !ID]: %ORANGE%*%PURPLE%* %PURPLE%ETH %BLUE%%NAME%%NL%%GRAY%[craft glave] %PURPLE%*%ORANGE%*
-ItemDisplay[(9ta OR 7ta OR 9s9 OR 7s7 OR 9b8 OR 7b8) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft throwing]
-ItemDisplay[(9ta OR 7ta OR 9s9 OR 7s7 OR 9b8 OR 7b8) ETH MAG !ID]: %ORANGE%*%PURPLE%* %PURPLE%ETH %BLUE%%NAME%%NL%%GRAY%[craft throwing] %PURPLE%*%ORANGE%*
-ItemDisplay[(9gm OR 7gm) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft maul]
-ItemDisplay[(gma OR 9gm OR 7gm) ETH MAG !ID]: %ORANGE%*%PURPLE%* %PURPLE%ETH %BLUE%%NAME%%NL%%GRAY%[craft maul] %PURPLE%*%ORANGE%*
-ItemDisplay[(9gd OR 7gd OR 9ls OR 7ls) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft sword]
-ItemDisplay[(9fb OR 7fb OR 9gd OR 7gd OR 9ls OR 7ls) ETH MAG !ID]: %PURPLE%ETH %BLUE%%NAME%%NL%%GRAY%[craft sword]
-ItemDisplay[(9xf OR 7xf OR 9lw OR 7lw OR 9tw OR 7tw OR 9qr OR 7qr) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft claw]
-ItemDisplay[(9xf OR 7xf OR 9lw OR 7lw OR 9tw OR 7tw OR 9qr OR 7qr) ETH MAG !ID]: %PURPLE%ETH %BLUE%%NAME%%NL%%GRAY%[craft claw]
-ItemDisplay[(9ws OR 7ws) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft scepter]
-ItemDisplay[(9ws OR 7ws) ETH MAG !ID]: %PURPLE%ETH %BLUE%%NAME%%NL%%GRAY%[craft scepter]
-ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft spear]
-ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7) ETH MAG !ID]: %PURPLE%ETH %BLUE%%NAME%%NL%%GRAY%[craft spear]
+ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[craft glove]
+ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[craft helmet]
+ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[craft helmet(Bar)]
+ItemDisplay[(dr8 OR dra OR drf OR drd OR drb) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[craft helmet(Dru)]
+ItemDisplay[(xtb OR utb OR xmb OR umb OR xlb OR ulb OR xhb OR uhb) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[craft boots]
+ItemDisplay[(zmb OR umc OR ztb OR utc OR zvb OR uvc OR zlb OR ulc) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[craft belt]
+ItemDisplay[(xpk OR upk OR xts OR uts OR xml OR uml OR xit OR uit OR xrg OR urg OR xow OR uow) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[craft shield]
+ItemDisplay[(xlt OR ult OR xld OR uld OR xtp OR utp OR xrs OR urs) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[craft chest]
+ItemDisplay[(am2 OR am7 OR amc) !ETH MAG !ID]: %DOT-75%%ORANGE%*%PURPLE%*%NAME%%GRAY%[craft bow] %PURPLE%*%ORANGE%*
+ItemDisplay[(6lw OR 8lw) !ETH MAG !ID]: %DOT-75%%ORANGE%*%PURPLE%*%NAME%%GRAY%[craft bow] %PURPLE%*%ORANGE%*
+ItemDisplay[(8rx OR 6rx OR 6mx OR 6hx) !ETH MAG !ID]:%NAME%%GRAY%[craft cbow]
+ItemDisplay[(tsp OR 9ts OR 7ts OR glv OR 9gl OR 7gl) !ETH MAG !ID]: %ORANGE%*%NAME%%GRAY%[craft glave] %ORANGE%*
+ItemDisplay[(tsp OR 9ts OR 7ts OR glv OR 9gl OR 7gl) ETH MAG !ID]: %ORANGE%*%PURPLE%* %NAME%%GRAY%[craft glave] %PURPLE%*%ORANGE%*
+ItemDisplay[(9ta OR 7ta OR 9s9 OR 7s7 OR 9b8 OR 7b8) !ETH MAG !ID]:%NAME%%GRAY%[craft throwing]
+ItemDisplay[(9ta OR 7ta OR 9s9 OR 7s7 OR 9b8 OR 7b8) ETH MAG !ID]: %ORANGE%*%PURPLE%* %NAME%%GRAY%[craft throwing] %PURPLE%*%ORANGE%*
+ItemDisplay[(9gm OR 7gm) !ETH MAG !ID]:%NAME%%GRAY%[craft maul]
+ItemDisplay[(gma OR 9gm OR 7gm) ETH MAG !ID]: %ORANGE%*%PURPLE%* %NAME%%GRAY%[craft maul] %PURPLE%*%ORANGE%*
+ItemDisplay[(9gd OR 7gd OR 9ls OR 7ls) !ETH MAG !ID]:%NAME%%GRAY%[craft sword]
+ItemDisplay[(9fb OR 7fb OR 9gd OR 7gd OR 9ls OR 7ls) ETH MAG !ID]: %NAME%%GRAY%[craft sword]
+ItemDisplay[(9xf OR 7xf OR 9lw OR 7lw OR 9tw OR 7tw OR 9qr OR 7qr) !ETH MAG !ID]:%NAME%%GRAY%[craft claw]
+ItemDisplay[(9xf OR 7xf OR 9lw OR 7lw OR 9tw OR 7tw OR 9qr OR 7qr) ETH MAG !ID]: %NAME%%GRAY%[craft claw]
+ItemDisplay[(9ws OR 7ws) !ETH MAG !ID]:%NAME%%GRAY%[craft scepter]
+ItemDisplay[(9ws OR 7ws) ETH MAG !ID]: %NAME%%GRAY%[craft scepter]
+ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7) !ETH MAG !ID]:%NAME%%GRAY%[craft spear]
+ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7) ETH MAG !ID]: %NAME%%GRAY%[craft spear]
 
 //OPTION
 ItemDisplay[(WEAPON OR ARMOR) NMAG STAT91=10]:%RED%-10Q%PURPLE%* %DARK_GREEN%%NAME%%CONTINUE%
