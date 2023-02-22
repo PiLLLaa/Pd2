@@ -3807,8 +3807,8 @@ ItemDisplay[(SET) lbt ID]:%GREEN%Tancred's %WHITE%H o %DARK_GREEN%b n %WHITE%a i
 ItemDisplay[(SET) xlb ID]:%GREEN%Tancred's %WHITE%H o %DARK_GREEN%b n %WHITE%a i %GREEN%l s{%GREEN%Demonhide Boots}%CONTINUE%
 ItemDisplay[(SET) ulb ID]:%GREEN%Tancred's %WHITE%H o %DARK_GREEN%b n %WHITE%a i %GREEN%l s{%GREEN%Wyrmhide Boots}%CONTINUE%
 
-ItemDisplay[(SET) xlb FRW>29 STAT153>0 STAT11>0 ID]:%GREEN%Disciple %PURPLE%R i %RED%t e %ORANGE% o %GOLD%f  %WHITE%P a %GOLD%s s %ORANGE%a g %PURPLE%e{%GREEN%Demonhide Boots}%CONTINUE%
-ItemDisplay[(SET) ulb FRW>29 STAT153>0 STAT11>0 ID]:%GREEN%Disciple %PURPLE%R i %RED%t e %ORANGE% o %GOLD%f  %WHITE%P a %GOLD%s s %ORANGE%a g %PURPLE%e{%GREEN%Wyrmhide Boots}%CONTINUE%
+ItemDisplay[(SET) xlb FRW>29 STAT153>0 STAT11>0 ID]:%GREEN%Disciple's  %PURPLE%R i %RED%t e %ORANGE% o %GOLD%f  %WHITE%P a %GOLD%s s %ORANGE%a g %PURPLE%e{%GREEN%Demonhide Boots}%CONTINUE%
+ItemDisplay[(SET) ulb FRW>29 STAT153>0 STAT11>0 ID]:%GREEN%Disciple's  %PURPLE%R i %RED%t e %ORANGE% o %GOLD%f  %WHITE%P a %GOLD%s s %ORANGE%a g %PURPLE%e{%GREEN%Wyrmhide Boots}%CONTINUE%
 //
 ItemDisplay[(SET) lea ID]:%GREEN%Vidala's %WHITE%A %DARK_GREEN%m b %WHITE%u s %GREEN%h{%GREEN%Leather Armor}%CONTINUE%
 ItemDisplay[(SET) xea ID]:%GREEN%Vidala's %WHITE%A %DARK_GREEN%m b %WHITE%u s %GREEN%h{%GREEN%Serpentskin}%CONTINUE%
@@ -3818,7 +3818,7 @@ ItemDisplay[(SET) lgl ID]:%GREEN%Death's %WHITE%H a %DARK_GREEN%n %GREEN%d{%GREE
 ItemDisplay[(SET) xlg ID]:%GREEN%Death's %WHITE%H a %DARK_GREEN%n %GREEN%d{%GREEN%Demonhide Gloves}%CONTINUE%
 ItemDisplay[(SET) ulg ID]:%GREEN%Death's %WHITE%H a %DARK_GREEN%n %GREEN%d{%GREEN%Bramble Mitts}%CONTINUE%
 
-ItemDisplay[(SET) ulg STAT121>149 ID]:%GREEN%Disciple %PURPLE%L %RED%a y %ORANGE%i n %WHITE%g  o %GOLD%f  H %WHITE%a %ORANGE%n d %PURPLE%s{%GREEN%Bramble Mitts}%CONTINUE%
+ItemDisplay[(SET) ulg STAT121>149 ID]:%GREEN%Disciple's  %PURPLE%L %RED%a y %ORANGE%i n %WHITE%g  o %GOLD%f  H %WHITE%a %ORANGE%n d %PURPLE%s{%GREEN%Bramble Mitts}%CONTINUE%
 //
 ItemDisplay[(SET) lrg ID]:%GREEN%Civerb's %WHITE%W %DARK_GREEN%a r %GREEN%d{%GREEN%Large Shield}%CONTINUE%
 ItemDisplay[(SET) xrg ID]:%GREEN%Civerb's %WHITE%W %DARK_GREEN%a r %GREEN%d{%GREEN%Scutum}%CONTINUE%
@@ -3852,7 +3852,7 @@ ItemDisplay[(SET) umc STAT117>0 (STAT50>0 OR STAT51>0) ID]:%GREEN%Hwanin's %GREE
 ItemDisplay[(SET) zmb DEX>19 MANA>19 DTM>36 MFIND>9 ID]:%GREEN%Tal Rasha's %PURPLE%F i %RED%n e %ORANGE%- S %GOLD%p u %WHITE%n %GOLD%C %ORANGE%l %RED%o %WHITE%t %PURPLE%h{%GREEN%Mesh Belt}%CONTINUE%
 ItemDisplay[(SET) umc DEX>19 MANA>19 DTM>36 MFIND>9 ID]:%GREEN%Tal Rasha's %PURPLE%F i %RED%n e %ORANGE%- S %GOLD%p u %WHITE%n %GOLD%C %ORANGE%l %RED%o %WHITE%t %PURPLE%h{%GREEN%Mithril Coil}%CONTINUE%
 
-ItemDisplay[(SET) umc STR>9 DEX>9 RES>14 ID]:%GREEN%Disciple %GREEN%C r %PURPLE%e d %RED%e n %ORANGE%d u %GOLD%m{%GREEN%Mithril Coil}%CONTINUE%
+ItemDisplay[(SET) umc STR>9 DEX>9 RES>14 ID]:%GREEN%Disciple's  %GREEN%C r %PURPLE%e d %RED%e n %ORANGE%d u %GOLD%m{%GREEN%Mithril Coil}%CONTINUE%
 //
 ItemDisplay[(SET) spl ID]:%GREEN%Berserker's %WHITE%H a %DARK_GREEN%u b %WHITE%e r %GREEN%k{%GREEN%Splint Mail}%CONTINUE%
 ItemDisplay[(SET) xpl ID]:%GREEN%Berserker's %WHITE%H a %DARK_GREEN%u b %WHITE%e r %GREEN%k{%GREEN%Russet Armor}%CONTINUE%
@@ -3885,7 +3885,7 @@ ItemDisplay[(SET) qui ID]:%GREEN%Arctic %WHITE%F %GREEN%u r %DARK_GREEN%s{%GREEN
 ItemDisplay[(SET) xui ID]:%GREEN%Arctic %WHITE%F %GREEN%u r %DARK_GREEN%s{%GREEN%Ghost Armor}%CONTINUE%
 ItemDisplay[(SET) uui ID]:%GREEN%Arctic %WHITE%F %GREEN%u r %DARK_GREEN%s{%GREEN%Dusk Shroud}%CONTINUE%
 
-ItemDisplay[(SET) uui STAT122>199 ID]:%GREEN%Disciple %GREEN%D a %PURPLE%r k %RED% A %ORANGE%d h %GOLD%e r %WHITE%e n %GOLD%t{%GREEN%Dusk Shroud}%CONTINUE%
+ItemDisplay[(SET) uui STAT122>199 ID]:%GREEN%Disciple%WHITE%'s  %GREEN%D a %PURPLE%r k %RED% A %ORANGE%d h %GOLD%e r %WHITE%e n %GOLD%t{%GREEN%Dusk Shroud}%CONTINUE%
 //
 ItemDisplay[(SET) ltp ID]:%GREEN%Arcanna's %WHITE%F l %GREEN%e s %DARK_GREEN%h{%GREEN%Light Plate}%CONTINUE%
 ItemDisplay[(SET) xtp ID]:%GREEN%Arcanna's %WHITE%F l %GREEN%e s %DARK_GREEN%h{%GREEN%Mage Plate}%CONTINUE%
