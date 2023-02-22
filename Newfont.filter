@@ -2964,13 +2964,13 @@ ItemDisplay[(SET) xtb STAT152>0 LIFE>49 DTM>9 FRES>39 ID]:%GREEN%Aldur's %PURPLE
 ItemDisplay[(SET) utb STAT152>0 LIFE>49 DTM>9 FRES>39 ID]:%GREEN%Aldur's %PURPLE%A d %RED%v a %ORANGE%n c %WHITE%e{%GREEN%Mirrored Boots}%CONTINUE%
 //
 ItemDisplay[(SET) tgl IAS>9 LIFE>19 ID]:%GREEN%Arctic %WHITE%M %GREEN%i t %DARK_GREEN%t s{%GREEN%Light Gauntlets}%CONTINUE%
-ItemDisplay[(SET) tgl CRES>29 STAT118>0 ID]:%GREEN%Iratha's %WHITE%C %DARK_GREEN%u f %GREEN%f{%GREEN%Light Gauntlets}%CONTINUE%
+ItemDisplay[(SET) tgl CRES>19 STAT118>0 ID]:%GREEN%Iratha's %WHITE%C %DARK_GREEN%u f %GREEN%f{%GREEN%Light Gauntlets}%CONTINUE%
 
 ItemDisplay[(SET) xtg IAS>9 LIFE>19 ID]:%GREEN%Arctic %WHITE%M %GREEN%i t %DARK_GREEN%t s{%GREEN%Battle Gauntlets}%CONTINUE%
-ItemDisplay[(SET) xtg CRES>29 STAT118>0 ID]:%GREEN%Iratha's %WHITE%C %DARK_GREEN%u f %GREEN%f{%GREEN%Battle Gauntlets}%CONTINUE%
+ItemDisplay[(SET) xtg CRES>19 STAT118>0 ID]:%GREEN%Iratha's %WHITE%C %DARK_GREEN%u f %GREEN%f{%GREEN%Battle Gauntlets}%CONTINUE%
 
 ItemDisplay[(SET) utg IAS>9 LIFE>19 ID]:%GREEN%Arctic %WHITE%M %GREEN%i t %DARK_GREEN%t s{%GREEN%Crusader Gauntlets}%CONTINUE%
-ItemDisplay[(SET) utg CRES>29 STAT118>0 ID]:%GREEN%Iratha's %WHITE%C %DARK_GREEN%u f %GREEN%f{%GREEN%Crusader Gauntlets}%CONTINUE%
+ItemDisplay[(SET) utg CRES>19 STAT118>0 ID]:%GREEN%Iratha's %WHITE%C %DARK_GREEN%u f %GREEN%f{%GREEN%Crusader Gauntlets}%CONTINUE%
 
 ItemDisplay[(SET) xtg STR>7 DEX>9 STAT153>0 GFIND>55 ID]:%GREEN%M'avina's %PURPLE%I c %RED%y  %ORANGE%C l %GOLD%u t %WHITE%c h{%GREEN%Battle Gauntlets}%CONTINUE%
 ItemDisplay[(SET) utg STR>7 DEX>9 STAT153>0 GFIND>55 ID]:%GREEN%M'avina's %PURPLE%I c %RED%y  %ORANGE%C l %GOLD%u t %WHITE%c h{%GREEN%Crusader Gauntlets}%CONTINUE%
