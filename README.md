@@ -836,3 +836,7 @@
    
      1) Added Armor 1 skil corrupted option marking
      2) Added Fire aura runeword markig
+     
+  79. 2/26
+   
+     1) Deleted Demon damage for RW item
