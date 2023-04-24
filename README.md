@@ -844,3 +844,8 @@
   81. 3/28
    
      1) Updated Mirroed comments for magic jewel also.
+
+
+  81. 4/24
+   
+     1) Updated S7 Beta filter : Normal1, Normal4, Starter
