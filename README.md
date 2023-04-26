@@ -23,6 +23,7 @@
  ### Please feed back to me what is your needs.
  
  ### S6 Updated 26.Nov
+ ### S7 Updated 23.Apr
   ![image](https://user-images.githubusercontent.com/76995697/210137824-deea5a2a-4f68-469d-94b9-6f303e96529d.png)
 
 
@@ -315,6 +316,10 @@
    : Previous Update List before S7
   https://docs.google.com/document/d/15kbZSRRPhfTrehFSQHBgoh_rFrf38TQDNBSsV9RHv6g/edit?usp=sharing
 
-  1. 4/24 from S7
+  1. 4/24 for S7
    
      1) Updated S7 Beta filter : Normal1, Normal4, Starter
+     
+  2. 4/25 for S7
+   
+     1) Updated S7 Beta filter : Normal3
