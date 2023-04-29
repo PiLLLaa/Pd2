@@ -323,3 +323,12 @@
   2. 4/25 for S7
    
      1) Updated S7 Beta filter : Normal3
+     
+  3. 4/30
+      
+     1) Filter name change Normal1 -> Standard, Normal4 -> Purple gold, Normal3 -> Hype
+     2) ED name change to EH due to crash
+     
+     
+     
+     
