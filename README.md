@@ -328,6 +328,7 @@
       
      1) Filter name change Normal1 -> Standard, Normal4 -> Purple gold, Normal3 -> Hype
      2) ED name change to EH due to crash
+     3) Tier marking change from 5 to 3 for New unique maps
      
      
      
