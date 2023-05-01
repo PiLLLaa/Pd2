@@ -330,6 +330,9 @@
      2) ED name change to EH due to crash
      3) Tier marking change from 5 to 3 for New unique maps
      
-     
+  4. 5/2
+      
+     1) Runeword comments reduce : Harmony, Insight
+     2) Runeword damage enhance marking reduce : +XXX%EH -> XXX%
      
      
