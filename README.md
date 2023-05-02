@@ -55,8 +55,9 @@
         
            
     15. Crafting Base item list
+    https://docs.google.com/document/d/1iUZUWnUJicrWWVpPXxHppIu4ZdhMit3LUwb_L-GIcTE/edit?usp=sharing
     
-https://docs.google.com/document/d/1iUZUWnUJicrWWVpPXxHppIu4ZdhMit3LUwb_L-GIcTE/edit?usp=sharing
+
 
     ## Normal Base item
   
