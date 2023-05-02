@@ -24,10 +24,13 @@
  
  ### S6 Updated 26.Nov
  ### S7 Updated 23.Apr
-  ![image](https://user-images.githubusercontent.com/76995697/210137824-deea5a2a-4f68-469d-94b9-6f303e96529d.png)
 
-
- ### Starter filter will be dropped base for weapon without Enhanced damage.
+ ### Explanation for Each Filter 
+    1. Hype : Various colour table, weapon has damage marking on the item name. ex) 200d
+    2. PurpleGold : Purple & Gold colour table
+    3. Standard : Rainbow colour table
+    4. Starter : Rainbow colour table with magic bolt&arrow, many drops for base items
+     #### Starter filter will be dropped base for weapon without Enhanced damage.
  ----------------------------------------------------------------------------------------------------------------------
  ## PREVIEW
     
