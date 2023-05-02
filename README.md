@@ -70,27 +70,20 @@
    : Previous Update List before S7
   https://docs.google.com/document/d/15kbZSRRPhfTrehFSQHBgoh_rFrf38TQDNBSsV9RHv6g/edit?usp=sharing
 
-     1. Reddit : DamageFunny3572
-     2. Discord : PiLLLa#2972
-
+     1. 4/24 for S7
+      1) Updated S7 Beta filter : Normal1, Normal4, Starter
 ----------------------------------------------------------------------------------------------------------------------
-  1. 4/24 for S7
-   
-     1) Updated S7 Beta filter : Normal1, Normal4, Starter
-     
-  2. 4/25 for S7
-   
-     1) Updated S7 Beta filter : Normal3
-     
-  3. 4/30
-      
-     1) Filter name change Normal1 -> Standard, Normal4 -> Purple gold, Normal3 -> Hype
-     2) ED name change to EH due to crash
-     3) Tier marking change from 5 to 3 for New unique maps
-     
-  4. 5/2
-      
-     1) Runeword comments reduce : Harmony, Insight
-     2) Runeword damage enhance marking reduce : +XXX%EH -> XXX%
-     
+     2. 4/25 for S7
+      1) Updated S7 Beta filter : Normal3
+----------------------------------------------------------------------------------------------------------------------
+     3. 4/30
+      1) Filter name change Normal1 -> Standard, Normal4 -> Purple gold, Normal3 -> Hype
+      2) ED name change to EH due to crash
+      3) Tier marking change from 5 to 3 for New unique maps
+----------------------------------------------------------------------------------------------------------------------
+     4. 5/2
+      1) Runeword comments reduce : Harmony, Insight
+      2) Runeword damage enhance marking reduce : +XXX%EH -> XXX%
+      3) S7 new items has commments
+----------------------------------------------------------------------------------------------------------------------
      
