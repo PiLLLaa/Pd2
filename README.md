@@ -43,16 +43,7 @@
     11. All item have a label for his item grade such as normal, exceptional and elite.
     12. Perfect Gems have comments for crafting recipe.
     13. Crafting base will be shown from exceptional to elite.
-    14. Filter Level Standard > No potion and magic ring > No amulet > No Javeline, Glove(Magic), CraftArmor > No Arrow(Bolt) Rare and normal set 
-        > craft weapon and all set. It gonna disabling item while going to down level.
-        The lowest level including the highest level.
-        
-        Normal Set list
-        angelic,arcanna,arctic,berserker,cathan,civerb,cleglaw,death,hsarus,infernal,sander,iratha,isenhart,milabrega,sigon,tancred,vidala,cowking,heaven,sander
-        
-        All set list (Amulet + Ring)
-        Hwanin, Mavina,Naj,Orphan,Sazabi,griswold,bul-kathos,disciple,aldur,immortal,natalya,tal rasha, trangoul   
-        
+    14. It is equipped with Filter Level 
            
     15. Crafting Base item list
   https://docs.google.com/document/d/1iUZUWnUJicrWWVpPXxHppIu4ZdhMit3LUwb_L-GIcTE/edit?usp=sharing
