@@ -56,35 +56,7 @@
            
     15. Crafting Base item list
     
-    ## Armor 
-     Gloves : xvg Sharkskin gloves,uvg Vampirebone gloves, xmg heavy bracers, umg vambraces, xlg Demonhide glove, ulg bramble mitts, 
-              xhg war gauntlets, uhg ogre gauntlets. 
-    
-     helmet : xlm casque, ulm armet, xhl basinet, uhl giant conch, xsk death mask, usk bone visage, xrn grand crown, urn corona 
-     
-     Bar heltmet : baf guardian crown, bab carnage helm, bad destoyer helm, ba4 assault helemt, ba9 savage helemt, ba5 avenger guard, baa slayer guard 
-     
-     Pelt : drf dream spirit, drd earth spirit, drb blood spirit, dra totemic mask, dr8 hunter's guise 
-     
-     boots : xtb battle boots, utb mirroed boots, xmb mesh boots, umb boneweave boots, xlb demonhide boots, ulb wymhide boots, xhb war boots, uhb mymidon greaves 
-     
-     belt : zmb mesh belt, umc mithril coil, ztb battle belt, utc troll belt, zvb sharkskin belt, uvc vampirefang belt, zlb demonhide sash, ulc spiderweb sash 
-     
-     Shield : xpk barbed shield, upk blade barrier, xts ancient shield, uts ward, xml round shield, uml luna, xit dragon shield, uit monarch, xow pavise, uow aegis
-             ,xrg scutum, urg hyperion 
-     
-     chest : xlt templar coat, ult hellforge plate, xld sharktooth armor, uld kraken shell, xtp mage plate, utp archon plate, xrs cuirass, urs great hauberk
-
-    ## weapon 
-      am2 : reflex bow, am7 ceremonial bow, amc grand matron bow 
-      8lw : gothic bow, 6lw hydra bow
-      9ta : francisca, 7ta flying axe 9tw : greater talons, 7tw runic talons 9qr : scissors quhab, 7qr scissors suwayyah 
-      9ws : divine scepter, 7ws caduceus 
-      8rx : Chu-Ko-Nu, 6rx Demon Crossbow 6lw : Ballista, 6hx Colossus Crossbow 
-      9p9 : Lance, 7p7 War Pike 9gl : Spiculum, 7gl Ghost Glaive 9s9 : Simbilan, 7s7 Balrog Spear 9ts : Harpoon, 7ts Winged Harpoon 9b8 : Hurlbat, 7b8 Winged Axe 
-      9gd : Executioner Sword, 7gd Colossus Blade 
-      9gm : Martel de Fer, 7gm Thunder Maul 
-      9ls : Rune Sword, 7ls Cryptic Sword
+https://docs.google.com/document/d/1iUZUWnUJicrWWVpPXxHppIu4ZdhMit3LUwb_L-GIcTE/edit?usp=sharing
 
     ## Normal Base item
   
