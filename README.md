@@ -37,7 +37,7 @@
     1. Item's color level : ****Rainbow Marking >> RED >> Special Color >> Dark_Green >> Gray****
     2. The normal item which has 6 soc is able (cristal sword, halberd, and so on)
     4. 4soc spears and polearm(normal type) is activated till level 79 (Only Starter filter)
-    5. NORMAL1 and NORMAL2 fitler have differential for symbol system. 
+    5. Fitler have differential for Symbol&Colour system. 
     6. All fitler(excepted stricter filter) have Filter level to active hp5/mp5/anti potion.
     7. Corruption and runeword marking
     8. Item Option marking (belt/glove/arrow(bolt)/circlet/amulet)
@@ -86,4 +86,7 @@
       2) Runeword damage enhance marking reduce : +XXX%EH -> XXX%
       3) S7 new items has commments
 ----------------------------------------------------------------------------------------------------------------------
-     
+     5. 5/3
+      1) Added Comments : Kadala's heirloom
+----------------------------------------------------------------------------------------------------------------------
+          
