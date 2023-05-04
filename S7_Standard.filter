@@ -172,10 +172,10 @@ ItemDisplay[INF ARMOR NMAG]:
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                     Charms/JEWELS                                           //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[MAG cm1 !ID]:%DOT-97%%GREEN%****    %BLUE%SC %ORANGE%[L%ILVL%]    %GREEN%****
+ItemDisplay[MAG cm1 !ID]:%DOT-97%%GREEN%%TEAL%****    %BLUE%SC %ORANGE%[L%ILVL%]    %GREEN%%TEAL%****
 ItemDisplay[MAG cm2 !ID]:%DOT-97%%GREEN%****    %BLUE%LC %ORANGE%[L%ILVL%]    %GREEN%****
-ItemDisplay[MAG cm3 !ID]:%DOT-97%%GREEN%****    %BLUE%GC %ORANGE%[L%ILVL%]    %GREEN%****
-ItemDisplay[MAG jew !ID]:%DOT-6F%%GREEN%****    %BLUE%%NAME% %ORANGE%[L%ILVL%]    %GREEN%****
+ItemDisplay[MAG cm3 !ID]:%DOT-97%%GREEN%%CORAL%****    %BLUE%GC %ORANGE%[L%ILVL%]    %GREEN%%CORAL%****
+ItemDisplay[MAG jew !ID]:%DOT-6F%%GREEN%**%SAGE%**    %BLUE%%NAME% %ORANGE%[L%ILVL%]    %GREEN%**%SAGE%**
 ////Unique Charms
 ItemDisplay[UNI !ID cm1]:%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@    %TEAL%Annihilius    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@ 
 ItemDisplay[UNI !ID cm2]:%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@    %TEAL%Hellfire Torch    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@ 
