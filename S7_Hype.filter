@@ -194,9 +194,9 @@ ItemDisplay[SOCK=6 !RW]:%NAME% %PURPLE%(6){%NAME%}%CONTINUE%
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                     Charms/JEWELS                                           //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[MAG cm1 !ID]:%DOT-97%%GREEN%****    %BLUE%Small %WHITE%Charm %ORANGE%[L%ILVL%]    %GREEN%****
-ItemDisplay[MAG cm2 !ID]:%DOT-97%%DARK_GREEN%****    %BLUE%Large %WHITE%Charm %ORANGE%[L%ILVL%]    %DARK_GREEN%****
-ItemDisplay[MAG cm3 !ID]:%DOT-97%%ORANGE%****    %BLUE%Grand %ORANGE%Charm %WHITE%[L%ILVL%]    %ORANGE%****
+ItemDisplay[MAG cm1 !ID]:%DOT-97%%GREEN%****    %BLUE%Small %WHITE%%TEAL%Charm %ORANGE%[L%ILVL%]    %GREEN%****
+ItemDisplay[MAG cm2 !ID]:%DOT-97%%DARK_GREEN%****    %BLUE%Large %WHITE%%LIGHT_GRAY%Charm %ORANGE%[L%ILVL%]    %DARK_GREEN%****
+ItemDisplay[MAG cm3 !ID]:%DOT-97%%ORANGE%****    %BLUE%Grand %ORANGE%%CORAL%Charm %WHITE%[L%ILVL%]    %ORANGE%****
 ItemDisplay[MAG jew !ID]:%DOT-6F%%WHITE%****    %BLUE%%NAME% %ORANGE%[L%ILVL%]    %WHITE%****
 ////Unique Charms
 ItemDisplay[UNI !ID cm1]:%BORDER-62%%GOLD%@@%ORANGE%@@%WHITE%@@%ORANGE%@@%GOLD%@@    %TEAL%Annihilius    %GOLD%@@%ORANGE%@@%WHITE%@@%ORANGE%@@%GOLD%@@ 
