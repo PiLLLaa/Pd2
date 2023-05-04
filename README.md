@@ -92,6 +92,7 @@
 ----------------------------------------------------------------------------------------------------------------------
      6. 5/4
       1) Blank Filter reuploaded for S7
-      2) Filter colour added for sage, coral and so on (only available on 3dfx (Not DDRAW)
+      2) Filter colour added for sage, coral and so on (only available on 3dfx (Not DDRAW))
+      3) Normal maps has quantity now
 ----------------------------------------------------------------------------------------------------------------------
                   
