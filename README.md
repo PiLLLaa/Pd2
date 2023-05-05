@@ -95,4 +95,8 @@
       2) Filter colour added for sage, coral and so on (only available on 3dfx (Not DDRAW))
       3) Normal maps has quantity now
 ----------------------------------------------------------------------------------------------------------------------
-                  
+     7. 5/5
+      1) Modifie bug no comment of Saracen's chance amulet
+      2) Hype filter & blank filter some kind of marking have been changed
+----------------------------------------------------------------------------------------------------------------------
+                            
