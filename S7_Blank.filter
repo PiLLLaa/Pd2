@@ -4211,8 +4211,8 @@ ItemDisplay[tbk]:%TEAL%P o r t a l   %ORANGE%B o o k %WHITE%* %GREEN%%QTY%
 ItemDisplay[ibk]:%CORAL%I d e n t i f y   %ORANGE%B o o k %WHITE%* %GREEN%%QTY%
 ItemDisplay[leg]:%WHITE%W i %GRAY%r t %BLUE%' s  %DARK_GREEN%L e %ORANGE%g
 
-ItemDisplay[hp5]:%RED%HP%TEAL%+
-ItemDisplay[mp5]:%BLUE%MP%TEAL%+
+ItemDisplay[hp5]:%TEAL%+%RED%HP%TEAL%+
+ItemDisplay[mp5]:%TEAL%+%BLUE%MP%TEAL%+
 ItemDisplay[hp4 DIFF<2]:%RED%!%WHITE%HP%CORAL%4
 ItemDisplay[hp4 DIFF>1]:
 ItemDisplay[hp3 CLVL<30]:%RED%!%WHITE%HP%CORAL%3
