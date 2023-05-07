@@ -3754,27 +3754,27 @@ ItemDisplay[tbk]:%TEAL%P o r t a l   %ORANGE%B o o k %WHITE%* %GREEN%%QTY%
 ItemDisplay[ibk]:%CORAL%I d e n t i f y   %ORANGE%B o o k %WHITE%* %GREEN%%QTY%
 ItemDisplay[leg]:%WHITE%W i %GRAY%r t %BLUE%' s  %DARK_GREEN%L e %ORANGE%g
 
-ItemDisplay[hp5]:%TEAL%+%RED%Hp%TEAL%+
-ItemDisplay[mp5]:%TEAL%+%BLUE%Mp%TEAL%+
-ItemDisplay[hp4 DIFF<2]:%RED%!%WHITE%HP%CORAL%4
+ItemDisplay[hp5]:%RED%+%WHITE%Hp%RED%+
+ItemDisplay[mp5]:%BLUE%+%WHITE%Mp%BLUE%+
+ItemDisplay[hp4 DIFF<2]:%RED%!%WHITE%HP4
 ItemDisplay[hp4 DIFF>1]:
-ItemDisplay[hp3 CLVL<30]:%RED%!%WHITE%HP%CORAL%3
+ItemDisplay[hp3 CLVL<30]:%RED%!%WHITE%HP3
 ItemDisplay[hp3 CLVL>29]:
-ItemDisplay[hp2 CLVL<16]:%RED%!%WHITE%HP%CORAL%2
+ItemDisplay[hp2 CLVL<16]:%RED%!%WHITE%HP2
 ItemDisplay[hp2 CLVL>15]:
-ItemDisplay[hp1 CLVL<10]:%RED%!%WHITE%HP%CORAL%1
+ItemDisplay[hp1 CLVL<10]:%RED%!%WHITE%HP1
 ItemDisplay[hp1 CLVL>9]:
-ItemDisplay[mp4 DIFF<2]:%BLUE%!%WHITE%MP%CORAL%4
+ItemDisplay[mp4 DIFF<2]:%BLUE%!%WHITE%MP4
 ItemDisplay[mp4 DIFF>1]:
-ItemDisplay[mp3 CLVL<30]:%BLUE%!%WHITE%MP%CORAL%3
+ItemDisplay[mp3 CLVL<30]:%BLUE%!%WHITE%MP3
 ItemDisplay[mp3 CLVL>29]:
-ItemDisplay[mp2 CLVL<16]:%BLUE%!%WHITE%MP%CORAL%2
+ItemDisplay[mp2 CLVL<16]:%BLUE%!%WHITE%MP2
 ItemDisplay[mp2 CLVL>15]: 
-ItemDisplay[mp1 CLVL<10]:%BLUE%!%WHITE%MP%CORAL%1
+ItemDisplay[mp1 CLVL<10]:%BLUE%!%WHITE%MP1
 ItemDisplay[mp1 CLVL>9]:
-ItemDisplay[tsc DIFF<2]:%BLUE%TP
+ItemDisplay[tsc DIFF<2]:%WHITE%Tp%TEAL%+
 ItemDisplay[tsc DIFF>]:
-ItemDisplay[isc DIFF<2]:%RED%ID
+ItemDisplay[isc DIFF<2]:%WHITE%Id%CORAL%+
 ItemDisplay[isc DIFF>]:
 ItemDisplay[rvl]:%PURPLE%RP%TEAL%65%{%TAN%-- -- -- -- -- -- -- -- -- --  %NL% %GOLD%heal 65% of your maximum %NL%health up to a limit of 2000 %NL%%TAN%-- --  -- -- -- -- -- -- -- --}
 ItemDisplay[rvs]:%PURPLE%RP%WHITE%35%
