@@ -102,5 +102,6 @@
      8. 5/9
       1) Added immunities info. for Unique Maps
       2) Unique maps has Succubus and Highdensity marking now.
+      3) Bolt drop message deleted and now it is simplied about drop marking
 ----------------------------------------------------------------------------------------------------------------------
                                 
