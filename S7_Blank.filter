@@ -3517,7 +3517,8 @@ ItemDisplay[MAG cm2 !ID]:%DOT-97%%SAGE%*%GREEN%*%WHITE%*%LIGHT_GRAY%*    %NAME% 
 ItemDisplay[MAG cm3 !ID]:%DOT-97%%SAGE%*%GREEN%*%WHITE%*%LIGHT_GRAY%*    %NAME% %ORANGE%[L%ILVL%]    %LIGHT_GRAY%*%WHITE%*%GREEN%*%SAGE%*
 ItemDisplay[MAG jew !ID]:%DOT-6F%%GREEN%*%PURPLE%*%CORAL%*%ORANGE%*    %NAME% %ORANGE%[L%ILVL%]    %ORANGE%*%CORAL%*%PURPLE%*%GREEN%*
 ItemDisplay[RARE EQ7 !ID]:%DOT-6F%%GREEN%**%TEAL%**    %NAME%    %TEAL%**%GREEN%**
-ItemDisplay[RARE (cqv OR aqv) !ID]:%DOT-6F%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %NAME%    %PURPLE%*%BLUE%*%SAGE%*%GREEN%*
+ItemDisplay[RARE (aqv) !ID]:%DOT-6F%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %NAME%    %PURPLE%*%BLUE%*%SAGE%*%GREEN%*
+ItemDisplay[RARE (cqv) !ID]:%GREEN%*%SAGE%*    %NAME%    %SAGE%*%GREEN%*
 //ItemDisplay[RARE (rin OR amu) !ID]:%DOT-6F%%GREEN%OO    %NAME%    %GREEN%OO
 ItemDisplay[RARE (amu OR rin OR jew) !ID]: %DOT-6F%%GREEN%*%SAGE%*%CORAL%*%ORANGE%*    %YELLOW%%NAME%    %ORANGE%*%CORAL%*%SAGE%*%GREEN%*
 ItemDisplay[RARE (EQ4 OR EQ5 OR am2 OR am7 OR amc OR lwb OR 8lw OR 6lw) !ETH !ID]:%DOT-75%%GREEN%*%BLUE%*%PURPLE%*%CORAL%*    %NAME%    %CORAL%*%PURPLE%*%BLUE%*%GREEN%*
