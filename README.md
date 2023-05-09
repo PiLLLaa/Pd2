@@ -99,4 +99,8 @@
       1) Modifie bug no comment of Saracen's chance amulet
       2) Hype filter & blank filter some kind of marking have been changed
 ----------------------------------------------------------------------------------------------------------------------
-                            
+     8. 5/9
+      1) Added immunities info. for Unique Maps
+      2) Unique maps has Succubus and Highdensity marking now.
+----------------------------------------------------------------------------------------------------------------------
+                                
