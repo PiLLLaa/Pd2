@@ -1559,7 +1559,8 @@ ItemDisplay[t60 OR t61 OR t62 OR t63 OR t64 OR t65 OR t66 OR t67 OR t68 OR t69]:
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                   QUIVERS&BOLTS                                             //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[(aqv OR cqv) RARE !ID]: %DOT-6F%%GREEN%%SAGE%****    %YELLOW%%NAME%    %GREEN%%SAGE%****
+ItemDisplay[(aqv) RARE !ID]: %DOT-6F%%GREEN%%SAGE%****    %YELLOW%%NAME%    %GREEN%%SAGE%****
+ItemDisplay[(cqv) RARE !ID]: %GREEN%%SAGE%*    %YELLOW%%NAME%    %GREEN%%SAGE%*
 ItemDisplay[(aqv OR cqv) UNI !ID CLVL<80]: %NAME%
 ItemDisplay[(aqv OR cqv) UNI !ID CLVL>79]:
 ItemDisplay[(aqv OR cqv) MAG !ID CLVL<10]: %NAME%
