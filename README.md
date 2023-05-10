@@ -104,4 +104,9 @@
       2) Unique maps has Succubus and Highdensity marking now.
       3) Bolt drop message deleted and now it is simplied about drop marking
 ----------------------------------------------------------------------------------------------------------------------
-                                
+     9. 5/10
+      1) FRW&SKILLER marking modified
+      2) Runeword items top option have hype colour.
+      3) Runeword no longer has 0d (malfuction markking) in hyper filter
+----------------------------------------------------------------------------------------------------------------------
+                                       
