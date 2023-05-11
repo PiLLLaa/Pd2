@@ -109,4 +109,8 @@
       2) Runeword items top option have hype colour.
       3) Runeword no longer has 0d (malfuction markking) in hyper filter
 ----------------------------------------------------------------------------------------------------------------------
-                                       
+     10. 5/11
+      1) Open Wounds Marking Added on Jewel
+      2) Dclon option and ultimate option colours was changed
+----------------------------------------------------------------------------------------------------------------------
+                                           
