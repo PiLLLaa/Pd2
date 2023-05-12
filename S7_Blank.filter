@@ -1050,501 +1050,998 @@ ItemDisplay[(SET OR UNI) !ID amf]:M a t r i a r c h a l  J a v e l i n%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID aqv]:A r r o w%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID cqv]:B o l t%CONTINUE%
 
-ItemDisplay[(RARE OR CRAFT) cap]:%NAME%{%ORANGE%Cap}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xap]:%NAME%{%ORANGE%War hat}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uap]:%NAME%{%ORANGE%Shako}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) skp]:%NAME%{%ORANGE%Skull Cap}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xkp]:%NAME%{%ORANGE%Sallet}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ukp]:%NAME%{%ORANGE%Hydra skull}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) hlm]:%NAME%{%ORANGE%Helm}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xlm]:%NAME%{%ORANGE%Casque}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ulm]:%NAME%{%ORANGE%Armet}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) fhl]:%NAME%{%ORANGE%Full Helm}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xhl]:%NAME%{%ORANGE%Basinet}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uhl]:%NAME%{%ORANGE%Giant Conch}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) msk]:%NAME%{%ORANGE%Mask}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xsk]:%NAME%{%ORANGE%Death Mask}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) usk]:%NAME%{%ORANGE%Demonhead}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) bhm]:%NAME%{%ORANGE%Bone Helm}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xh9]:%NAME%{%ORANGE%Grim Helm}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uh9]:%NAME%{%ORANGE%Bone Visage}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ghm]:%NAME%{%ORANGE%Great Helm}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xhm]:%NAME%{%ORANGE%Winged Helm}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uhm]:%NAME%{%ORANGE%Spired Helm}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) crn]:%NAME%{%ORANGE%Crown}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xrn]:%NAME%{%ORANGE%Grand Crown}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) urn]:%NAME%{%ORANGE%Corona}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) qui]:%NAME%{%ORANGE%Quilted Armor}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xui]:%NAME%{%ORANGE%Ghost Armor}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uui]:%NAME%{%ORANGE%Dusk Shroud}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) lea]:%NAME%{%ORANGE%Leather Armor}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xea]:%NAME%{%ORANGE%Serpentskin Armor}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uea]:%NAME%{%ORANGE%Wyrmhide}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) hla]:%NAME%{%ORANGE%HardLeather Armor}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xla]:%NAME%{%ORANGE%Demonhide Armor}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ula]:%NAME%{%ORANGE%Scarab Husk}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) stu]:%NAME%{%ORANGE%Studded Leather}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xtu]:%NAME%{%ORANGE%Trellised Armor}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) utu]:%NAME%{%ORANGE%Wire Fleece}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) rng]:%NAME%{%ORANGE%Ring Mail}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xng]:%NAME%{%ORANGE%Linked Mail}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ung]:%NAME%{%ORANGE%Diamond Mail}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) scl]:%NAME%{%ORANGE%Scale Mail}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xcl]:%NAME%{%ORANGE%Tigulated Mail}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ucl]:%NAME%{%ORANGE%Loricated Mail}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) chn]:%NAME%{%ORANGE%Chain Mail}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xhn]:%NAME%{%ORANGE%Mesh Armor}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uhn]:%NAME%{%ORANGE%Boneweave}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) brs]:%NAME%{%ORANGE%Breast Plate}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xrs]:%NAME%{%ORANGE%Cuirass}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) urs]:%NAME%{%ORANGE%Great Hauberk}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) spl]:%NAME%{%ORANGE%Splint Mail}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xpl]:%NAME%{%ORANGE%Russet Armor}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) upl]:%NAME%{%ORANGE%Balrog Skin}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) plt]:%NAME%{%ORANGE%Plate Mail}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xlt]:%NAME%{%ORANGE%Templar Coat}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ult]:%NAME%{%ORANGE%Hellforge Plate}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) fld]:%NAME%{%ORANGE%Field Plate}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xld]:%NAME%{%ORANGE%Sharktooth Armor}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uld]:%NAME%{%ORANGE%Kraken Shell}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) gth]:%NAME%{%ORANGE%Gothic Plate}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xth]:%NAME%{%ORANGE%Embossed Plate}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uth]:%NAME%{%ORANGE%Lacquered Plate}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ltp]:%NAME%{%ORANGE%Light Plate}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xtp]:%NAME%{%ORANGE%Mage Plate}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) utp]:%NAME%{%ORANGE%Archon Plate}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ful]:%NAME%{%ORANGE%FullPlate Mail}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xul]:%NAME%{%ORANGE%Chaos Armor}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uul]:%NAME%{%ORANGE%Shadow Plate}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) aar]:%NAME%{%ORANGE%Ancient Armor}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xar]:%NAME%{%ORANGE%Ornate Plate}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uar]:%NAME%{%ORANGE%Sacred Armor}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) buc]:%NAME%{%ORANGE%Buckler}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xuc]:%NAME%{%ORANGE%Defender}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uuc]:%NAME%{%ORANGE%Heater}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) sml]:%NAME%{%ORANGE%Small Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xml]:%NAME%{%ORANGE%Round Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uml]:%NAME%{%ORANGE%Luna}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) lrg]:%NAME%{%ORANGE%Large Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xrg]:%NAME%{%ORANGE%Scutum}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) urg]:%NAME%{%ORANGE%Hyperion}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) spk]:%NAME%{%ORANGE%Spiked Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xpk]:%NAME%{%ORANGE%Barbed Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) upk]:%NAME%{%ORANGE%Blade Barrier}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) kit]:%NAME%{%ORANGE%Kite Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xit]:%NAME%{%ORANGE%Dragon Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uit]:%NAME%{%ORANGE%Monarch}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) bsh]:%NAME%{%ORANGE%Bone Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xsh]:%NAME%{%ORANGE%Grim Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ush]:%NAME%{%ORANGE%Troll Nest}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) tow]:%NAME%{%ORANGE%Tower Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xow]:%NAME%{%ORANGE%Pavise}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uow]:%NAME%{%ORANGE%Aegis}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) gts]:%NAME%{%ORANGE%Gothic Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xts]:%NAME%{%ORANGE%Ancient Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uts]:%NAME%{%ORANGE%Ward}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) lgl]:%NAME%{%ORANGE%Leather Gloves}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xlg]:%NAME%{%ORANGE%Demonhide Gloves}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ulg]:%NAME%{%ORANGE%Bramble Mitts}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) vgl]:%NAME%{%ORANGE%Heavy Gloves}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xvg]:%NAME%{%ORANGE%Sharkskin Gloves}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uvg]:%NAME%{%ORANGE%Vampirebone Gloves}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) mgl]:%NAME%{%ORANGE%Chain Gloves}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xmg]:%NAME%{%ORANGE%Heavy Bracers}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) umg]:%NAME%{%ORANGE%Vambraces}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) tgl]:%NAME%{%ORANGE%Light Gauntlets}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xtg]:%NAME%{%ORANGE%Battle Gauntlets}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) utg]:%NAME%{%ORANGE%Crusader Gauntlets}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) hgl]:%NAME%{%ORANGE%Gauntlets}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xhg]:%NAME%{%ORANGE%War Gauntlets}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uhg]:%NAME%{%ORANGE%Ogre Gauntlets}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) lbt]:%NAME%{%ORANGE%Boots}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xlb]:%NAME%{%ORANGE%Demonhide Boots}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ulb]:%NAME%{%ORANGE%Wyrmhide Boots}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) vbt]:%NAME%{%ORANGE%Heavy Boots}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xvb]:%NAME%{%ORANGE%Sharkskin Boots}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uvb]:%NAME%{%ORANGE%Scarabshell Boots}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) mbt]:%NAME%{%ORANGE%Chain Boots}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xmb]:%NAME%{%ORANGE%Mesh Boots}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) umb]:%NAME%{%ORANGE%Boneweave Boots}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) tbt]:%NAME%{%ORANGE%LightPlated Boots}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xtb]:%NAME%{%ORANGE%Battle Boots}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) utb]:%NAME%{%ORANGE%Mirrored Boots}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) hbt]:%NAME%{%ORANGE%Greaves}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) xhb]:%NAME%{%ORANGE%War Boots}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uhb]:%NAME%{%ORANGE%Myrmidon Greaves}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) lbl]:%NAME%{%ORANGE%Sash}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) zlb]:%NAME%{%ORANGE%Demonhide Sash}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ulc]:%NAME%{%ORANGE%Spiderweb Sash}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) vbl]:%NAME%{%ORANGE%Light Belt}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) zvb]:%NAME%{%ORANGE%Sharkskin Belt}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uvc]:%NAME%{%ORANGE%Vampirefang Belt}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) mbl]:%NAME%{%ORANGE%Belt}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) zmb]:%NAME%{%ORANGE%Mesh Belt}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) umc]:%NAME%{%ORANGE%Mithril Coil}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) tbl]:%NAME%{%ORANGE%Heavy Belt}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ztb]:%NAME%{%ORANGE%Battle Belt}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) utc]:%NAME%{%ORANGE%Troll Belt}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) hbl]:%NAME%{%ORANGE%Plated Belt}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) zhb]:%NAME%{%ORANGE%War Belt}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) uhc]:%NAME%{%ORANGE%Colossus Girdle}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ci0]:%NAME%{%ORANGE%Circlet}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ci1]:%NAME%{%ORANGE%Coronet}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ci2]:%NAME%{%ORANGE%Tiara}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ci3]:%NAME%{%ORANGE%Diadem}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) dr1]:%NAME%{%ORANGE%Wolf Head}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) dr6]:%NAME%{%ORANGE%Alpha Helm}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) drb]:%NAME%{%ORANGE%Blood Spirit}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) dr2]:%NAME%{%ORANGE%Hawk Helm}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) dr7]:%NAME%{%ORANGE%Griffon Headress}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) drc]:%NAME%{%ORANGE%Sun Spirit}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) dr3]:%NAME%{%ORANGE%Antlers}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) dr8]:%NAME%{%ORANGE%Hunter's Guise}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) drd]:%NAME%{%ORANGE%EarthSpirit}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) dr4]:%NAME%{%ORANGE%Falcon Mask}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) dr9]:%NAME%{%ORANGE%Sacred Feathers}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) dre]:%NAME%{%ORANGE%Sky Spirit}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) dr5]:%NAME%{%ORANGE%Spirit Mask}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) dra]:%NAME%{%ORANGE%Totemic Mask}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) drf]:%NAME%{%ORANGE%Dream Spirit}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ba1]:%NAME%{%ORANGE%Jawbone Cap}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ba6]:%NAME%{%ORANGE%Jawbone Visor}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) bab]:%NAME%{%ORANGE%Carnage Helm}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ba2]:%NAME%{%ORANGE%Fanged Helm}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ba7]:%NAME%{%ORANGE%Lion Helm}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) bac]:%NAME%{%ORANGE%Fury Visor}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ba3]:%NAME%{%ORANGE%Horned Helm}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ba8]:%NAME%{%ORANGE%Rage Mask}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) bad]:%NAME%{%ORANGE%Destroyer Helm}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ba4]:%NAME%{%ORANGE%Assault Helmet}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ba9]:%NAME%{%ORANGE%Savage Helmet}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) bae]:%NAME%{%ORANGE%Conqueror Crown}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ba5]:%NAME%{%ORANGE%Avenger Guard}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) baa]:%NAME%{%ORANGE%Slayer Guard}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) baf]:%NAME%{%ORANGE%Guardian Crown}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) pa1]:%NAME%{%ORANGE%Targe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) pa6]:%NAME%{%ORANGE%Akaran Targe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) pab]:%NAME%{%ORANGE%Sacred Targe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) pa2]:%NAME%{%ORANGE%Rondache}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) pa7]:%NAME%{%ORANGE%Akaran Rondache}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) pac]:%NAME%{%ORANGE%Sacred Rondache}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) pa3]:%NAME%{%ORANGE%Heraldic Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) pa8]:%NAME%{%ORANGE%Protector Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) pad]:%NAME%{%ORANGE%Kurast Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) pa4]:%NAME%{%ORANGE%Aerin Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) pa9]:%NAME%{%ORANGE%Gilded Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) pae]:%NAME%{%ORANGE%Zakarum Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) pa5]:%NAME%{%ORANGE%Crown Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) paa]:%NAME%{%ORANGE%Royal Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) paf]:%NAME%{%ORANGE%Vortex Shield}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ne1]:%NAME%{%ORANGE%Preserved Head}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ne6]:%NAME%{%ORANGE%Mummified Trophy}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) neb]:%NAME%{%ORANGE%Minion Skull}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ne2]:%NAME%{%ORANGE%Zombie Head}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ne7]:%NAME%{%ORANGE%Fetish Trophy}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) neg]:%NAME%{%ORANGE%Hellspawn Skull}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ne3]:%NAME%{%ORANGE%Unraveller Head}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ne8]:%NAME%{%ORANGE%Sexton Trophy}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ned]:%NAME%{%ORANGE%Overseer Skull}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ne4]:%NAME%{%ORANGE%Gargoyle Head}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ne9]:%NAME%{%ORANGE%Cantor Trophy}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) nee]:%NAME%{%ORANGE%Succubus Skull}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ne5]:%NAME%{%ORANGE%Demon Head}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) nea]:%NAME%{%ORANGE%Hierophant Trophy}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) nef]:%NAME%{%ORANGE%Bloodlord Skull}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) hax]:%NAME%{%ORANGE%HandAxe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9ha]:%NAME%{%ORANGE%Hatchet}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7ha]:%NAME%{%ORANGE%Tomahawk}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) axe]:%NAME%{%ORANGE%Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9ax]:%NAME%{%ORANGE%Cleaver}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7ax]:%NAME%{%ORANGE%Small Crescent}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 2ax]:%NAME%{%ORANGE%Double Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 92a]:%NAME%{%ORANGE%Twin Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 72a]:%NAME%{%ORANGE%Ettin Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) mpi]:%NAME%{%ORANGE%Military Pick}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9mp]:%NAME%{%ORANGE%Crowbill}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7mp]:%NAME%{%ORANGE%War Spike}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) wax]:%NAME%{%ORANGE%War Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9wa]:%NAME%{%ORANGE%Naga}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7wa]:%NAME%{%ORANGE%Berserker Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) lax]:%NAME%{%ORANGE%Large Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9la]:%NAME%{%ORANGE%Military Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7la]:%NAME%{%ORANGE%Feral Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) bax]:%NAME%{%ORANGE%Broad Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9ba]:%NAME%{%ORANGE%Bearded Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7ba]:%NAME%{%ORANGE%Silver-edged Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) btx]:%NAME%{%ORANGE%Battle Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9bt]:%NAME%{%ORANGE%Tabar}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7bt]:%NAME%{%ORANGE%Decapitator}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) gax]:%NAME%{%ORANGE%Great Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9ga]:%NAME%{%ORANGE%Gothic Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7ga]:%NAME%{%ORANGE%Champion Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) gix]:%NAME%{%ORANGE%Giant Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9gi]:%NAME%{%ORANGE%Ancient Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7gi]:%NAME%{%ORANGE%Glorious Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) clb]:%NAME%{%ORANGE%Club}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9cl]:%NAME%{%ORANGE%Cudgel}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7cl]:%NAME%{%ORANGE%Truncheon}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) spc]:%NAME%{%ORANGE%Spiked Club}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9sp]:%NAME%{%ORANGE%Barbed Club}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7sp]:%NAME%{%ORANGE%Tyrant Club}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) mac]:%NAME%{%ORANGE%Mace}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9ma]:%NAME%{%ORANGE%Flanged Mace}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7ma]:%NAME%{%ORANGE%Reinforced Mace}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) mst]:%NAME%{%ORANGE%Morning Star}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9mt]:%NAME%{%ORANGE%Jagged Star}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7mt]:%NAME%{%ORANGE%Devil Star}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) fla]:%NAME%{%ORANGE%Flail}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9fl]:%NAME%{%ORANGE%Knout}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7fl]:%NAME%{%ORANGE%Scourge}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) whm]:%NAME%{%ORANGE%War Hammer}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9wh]:%NAME%{%ORANGE%Battle Hammer}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7wh]:%NAME%{%ORANGE%Legendary Mallet}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) mau]:%NAME%{%ORANGE%Maul}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9m9]:%NAME%{%ORANGE%War Club}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7m7]:%NAME%{%ORANGE%Ogre Maul}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) gma]:%NAME%{%ORANGE%Great Maul}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9gm]:%NAME%{%ORANGE%Martel de Fer}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7gm]:%NAME%{%ORANGE%Thunder Maul}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ssd]:%NAME%{%ORANGE%Short Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9ss]:%NAME%{%ORANGE%Gladius}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7ss]:%NAME%{%ORANGE%Falcata}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) scm]:%NAME%{%ORANGE%Scimitar}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9sm]:%NAME%{%ORANGE%Cutlass}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7sm]:%NAME%{%ORANGE%Ataghan}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) sbr]:%NAME%{%ORANGE%Sabre}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9sb]:%NAME%{%ORANGE%Shamshir}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7sb]:%NAME%{%ORANGE%Elegant Blade}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) flc]:%NAME%{%ORANGE%Falchion}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9fc]:%NAME%{%ORANGE%Tulwar}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7fc]:%NAME%{%ORANGE%Hydra Edge}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) crs]:%NAME%{%ORANGE%Crystal Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9cr]:%NAME%{%ORANGE%Dimensional Blade}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7cr]:%NAME%{%ORANGE%Phase Blade}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) bsd]:%NAME%{%ORANGE%Broad Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9bs]:%NAME%{%ORANGE%Battle Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7bs]:%NAME%{%ORANGE%Conquest Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) lsd]:%NAME%{%ORANGE%Long Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9ls]:%NAME%{%ORANGE%Rune Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7ls]:%NAME%{%ORANGE%Cryptic Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) wsd]:%NAME%{%ORANGE%War Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9wd]:%NAME%{%ORANGE%Ancient Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7wd]:%NAME%{%ORANGE%Mythical Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 2hs]:%NAME%{%ORANGE%Two-handed Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 92h]:%NAME%{%ORANGE%Espandon}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 72h]:%NAME%{%ORANGE%Legend Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) clm]:%NAME%{%ORANGE%Claymore}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9cm]:%NAME%{%ORANGE%Dacian Falx}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7cm]:%NAME%{%ORANGE%Highland Blade}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) gis]:%NAME%{%ORANGE%Giant Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9gs]:%NAME%{%ORANGE%Tusk Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7gs]:%NAME%{%ORANGE%Balrog Blade}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) bsw]:%NAME%{%ORANGE%Bastard Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9b9]:%NAME%{%ORANGE%Gothic Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7b7]:%NAME%{%ORANGE%Champion Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) flb]:%NAME%{%ORANGE%Flamberge}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9fb]:%NAME%{%ORANGE%Zweihander}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7fb]:%NAME%{%ORANGE%Colossus Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) gsd]:%NAME%{%ORANGE%Great Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9gd]:%NAME%{%ORANGE%Executioner Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7gd]:%NAME%{%ORANGE%Colossus Blade}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) dgr]:%NAME%{%ORANGE%Dagger}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9dg]:%NAME%{%ORANGE%Poignard}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7dg]:%NAME%{%ORANGE%Bone Knife}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) dir]:%NAME%{%ORANGE%Dirk}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9di]:%NAME%{%ORANGE%Rondel}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7di]:%NAME%{%ORANGE%Mithril Point}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) kri]:%NAME%{%ORANGE%Kris}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9kr]:%NAME%{%ORANGE%Cinquedeas}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7kr]:%NAME%{%ORANGE%Fanged Knife}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) bld]:%NAME%{%ORANGE%Blade}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9bl]:%NAME%{%ORANGE%Stiletto}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7bl]:%NAME%{%ORANGE%Legend Spike}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) tkf]:%NAME%{%ORANGE%Throwing Knife}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9tk]:%NAME%{%ORANGE%Battle Dart}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7tk]:%NAME%{%ORANGE%Flying Knife}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) tax]:%NAME%{%ORANGE%Throwing Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9ta]:%NAME%{%ORANGE%Francisca}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7ta]:%NAME%{%ORANGE%Flying Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) bkf]:%NAME%{%ORANGE%Balanced Knife}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9bk]:%NAME%{%ORANGE%War Dart}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7bk]:%NAME%{%ORANGE%Winged Knife}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) bal]:%NAME%{%ORANGE%Balanced Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9b8]:%NAME%{%ORANGE%Hurlbat}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7b8]:%NAME%{%ORANGE%Winged Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) jav]:%NAME%{%ORANGE%Javelin}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9ja]:%NAME%{%ORANGE%War Javelin}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7ja]:%NAME%{%ORANGE%Hyperion Javelin}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) pil]:%NAME%{%ORANGE%Pilum}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9pi]:%NAME%{%ORANGE%Great Pilum}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7pi]:%NAME%{%ORANGE%Stygian Pilum}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ssp]:%NAME%{%ORANGE%Short Spear}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9s9]:%NAME%{%ORANGE%Simbilan}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7s7]:%NAME%{%ORANGE%Balrog Spear}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) glv]:%NAME%{%ORANGE%Glaive}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9gl]:%NAME%{%ORANGE%Spiculum}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7gl]:%NAME%{%ORANGE%Ghost Glaive}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) tsp]:%NAME%{%ORANGE%Throwing Spear}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9ts]:%NAME%{%ORANGE%Harpoon}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7ts]:%NAME%{%ORANGE%Winged Harpoon}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) spr]:%NAME%{%ORANGE%Spear}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9sr]:%NAME%{%ORANGE%War Spear}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7sr]:%NAME%{%ORANGE%Hyperion Spear}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) tri]:%NAME%{%ORANGE%Trident}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9tr]:%NAME%{%ORANGE%Fuscina}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7tr]:%NAME%{%ORANGE%Stygian Pike}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) brn]:%NAME%{%ORANGE%Brandistock}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9br]:%NAME%{%ORANGE%War Fork}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7br]:%NAME%{%ORANGE%Mancatcher}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) spt]:%NAME%{%ORANGE%Spetum}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9st]:%NAME%{%ORANGE%Yari}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7st]:%NAME%{%ORANGE%Ghost Spear}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) pik]:%NAME%{%ORANGE%Pike}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9p9]:%NAME%{%ORANGE%Lance}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7p7]:%NAME%{%ORANGE%War Pike}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) bar]:%NAME%{%ORANGE%Bardiche}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9b7]:%NAME%{%ORANGE%Lochaber Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7o7]:%NAME%{%ORANGE%Ogre Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) vou]:%NAME%{%ORANGE%Voulge}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9vo]:%NAME%{%ORANGE%Bill}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7vo]:%NAME%{%ORANGE%Colossus Voulge}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) scy]:%NAME%{%ORANGE%Scythe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9s8]:%NAME%{%ORANGE%Battle Scythe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7s8]:%NAME%{%ORANGE%Thresher}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) pax]:%NAME%{%ORANGE%Poleaxe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9pa]:%NAME%{%ORANGE%Partizan}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7pa]:%NAME%{%ORANGE%Cryptic Axe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) hal]:%NAME%{%ORANGE%Halberd}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9h9]:%NAME%{%ORANGE%Bec-de-Corbin}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7h7]:%NAME%{%ORANGE%Great Poleaxe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) wsc]:%NAME%{%ORANGE%War Scythe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9wc]:%NAME%{%ORANGE%Grim Scythe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7wc]:%NAME%{%ORANGE%Giant Thresher}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) sbw]:%NAME%{%ORANGE%Short Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8sb]:%NAME%{%ORANGE%Edge Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6sb]:%NAME%{%ORANGE%Spider Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) hbw]:%NAME%{%ORANGE%Hunters Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8hb]:%NAME%{%ORANGE%Razor Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6hb]:%NAME%{%ORANGE%Blade Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) lbw]:%NAME%{%ORANGE%Long Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8lb]:%NAME%{%ORANGE%Cedar Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6lb]:%NAME%{%ORANGE%Shadow Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) cbw]:%NAME%{%ORANGE%Composite Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8cb]:%NAME%{%ORANGE%Double Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6cb]:%NAME%{%ORANGE%Great Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) sbb]:%NAME%{%ORANGE%ShortBattle Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8s8]:%NAME%{%ORANGE%ShortSiege Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6s7]:%NAME%{%ORANGE%Diamond Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) lbb]:%NAME%{%ORANGE%LongBattle Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8l8]:%NAME%{%ORANGE%LargeSiege Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6l7]:%NAME%{%ORANGE%Crusader Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) swb]:%NAME%{%ORANGE%ShortWar Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8sw]:%NAME%{%ORANGE%Rune Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6sw]:%NAME%{%ORANGE%Ward Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) lwb]:%NAME%{%ORANGE%LongWar Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8lw]:%NAME%{%ORANGE%Gothic Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6lw]:%NAME%{%ORANGE%Hydra Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) lxb]:%NAME%{%ORANGE%Light CrossBow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8lx]:%NAME%{%ORANGE%Arbalest}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6lx]:%NAME%{%ORANGE%Pellet Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) mxb]:%NAME%{%ORANGE%CrossBow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8mx]:%NAME%{%ORANGE%Siege CrossBow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6mx]:%NAME%{%ORANGE%Gorgon CrossBow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) hxb]:%NAME%{%ORANGE%Heavy CrossBow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8hx]:%NAME%{%ORANGE%Ballista}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6hx]:%NAME%{%ORANGE%Colossus CrossBow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) rxb]:%NAME%{%ORANGE%Repeating CrossBow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8rx]:%NAME%{%ORANGE%Chu-Ko-Nu}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6rx]:%NAME%{%ORANGE%Demon CrossBow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) sst]:%NAME%{%ORANGE%Short Staff}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8ss]:%NAME%{%ORANGE%Jo Staff}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6ss]:%NAME%{%ORANGE%Walking Stick}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) lst]:%NAME%{%ORANGE%Long Staff}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8ls]:%NAME%{%ORANGE%Quarter Staff}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6ls]:%NAME%{%ORANGE%Stalagmite}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) cst]:%NAME%{%ORANGE%Gnarled Staff}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8cs]:%NAME%{%ORANGE%Cedar Staff}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6cs]:%NAME%{%ORANGE%Elder Staff}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) bst]:%NAME%{%ORANGE%Battle Staff}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8bs]:%NAME%{%ORANGE%Gothic Staff}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6bs]:%NAME%{%ORANGE%Shillelagh}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) wst]:%NAME%{%ORANGE%War Staff}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 8ws]:%NAME%{%ORANGE%Rune Staff}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 6ws]:%NAME%{%ORANGE%Archon Staff}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) wnd]:%NAME%{%ORANGE%Wand}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9wn]:%NAME%{%ORANGE%Burnt Wand}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7wn]:%NAME%{%ORANGE%Polished Wand}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ywn]:%NAME%{%ORANGE%Yew Wand}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9yw]:%NAME%{%ORANGE%Petrified Wand}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7yw]:%NAME%{%ORANGE%Ghost Wand}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) bwn]:%NAME%{%ORANGE%Bone Wand}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9bw]:%NAME%{%ORANGE%Tomb Wand}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7bw]:%NAME%{%ORANGE%Lich Wand}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) gwn]:%NAME%{%ORANGE%Grim Wand}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9gw]:%NAME%{%ORANGE%Grave Wand}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7gw]:%NAME%{%ORANGE%Unearthed Wand}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) scp]:%NAME%{%ORANGE%Scepter}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9sc]:%NAME%{%ORANGE%Rune Scepter}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7sc]:%NAME%{%ORANGE%Mighty Scepter}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) gsc]:%NAME%{%ORANGE%Grand Scepter}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9qs]:%NAME%{%ORANGE%HolyWater Sprinkler}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7qs]:%NAME%{%ORANGE%Seraph Rod}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) wsp]:%NAME%{%ORANGE%War Scepter}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9ws]:%NAME%{%ORANGE%Divine Scepter}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7ws]:%NAME%{%ORANGE%Caduceus}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ktr]:%NAME%{%ORANGE%Katar}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9ar]:%NAME%{%ORANGE%Quhab}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7ar]:%NAME%{%ORANGE%Suwayyah}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) wrb]:%NAME%{%ORANGE%Wrist Blade}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9wb]:%NAME%{%ORANGE%Wrist Spike}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7wb]:%NAME%{%ORANGE%Wrist Sword}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) axf]:%NAME%{%ORANGE%Hatchet Hands}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9xf]:%NAME%{%ORANGE%Fascia}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7xf]:%NAME%{%ORANGE%War Fist}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ces]:%NAME%{%ORANGE%Cestus}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9cs]:%NAME%{%ORANGE%Hand Scythe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7cs]:%NAME%{%ORANGE%Battle Cestus}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) clw]:%NAME%{%ORANGE%Claws}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9lw]:%NAME%{%ORANGE%Greater Claws}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7lw]:%NAME%{%ORANGE%Feral Claws}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) btl]:%NAME%{%ORANGE%Blade Talons}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9tw]:%NAME%{%ORANGE%Greater Talons}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7tw]:%NAME%{%ORANGE%Runic Talons}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) skr]:%NAME%{%ORANGE%Scissors Katar}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 9qr]:%NAME%{%ORANGE%Scissors Quhab}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) 7qr]:%NAME%{%ORANGE%Scissors Suwayyah}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ob1]:%NAME%{%ORANGE%Eagle Orb}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ob6]:%NAME%{%ORANGE%Glowing Orb}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) obb]:%NAME%{%ORANGE%Heavenly Stone}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ob2]:%NAME%{%ORANGE%Sacred Globe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ob7]:%NAME%{%ORANGE%Crystalline Globe}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) obc]:%NAME%{%ORANGE%Eldritch Orb}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ob3]:%NAME%{%ORANGE%Smoked Sphere}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ob8]:%NAME%{%ORANGE%Cloudy Sphere}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) obd]:%NAME%{%ORANGE%Demon Heart}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ob4]:%NAME%{%ORANGE%Clasped Orb}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ob9]:%NAME%{%ORANGE%Sparkling Ball}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) obe]:%NAME%{%ORANGE%Vortex Orb}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ob5]:%NAME%{%ORANGE%Jared's Stone}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) oba]:%NAME%{%ORANGE%Swirling Crystal}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) obf]:%NAME%{%ORANGE%Dimensional Shard}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) am1]:%NAME%{%ORANGE%Stag Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) am6]:%NAME%{%ORANGE%Ashwood Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) amb]:%NAME%{%ORANGE%Matriarchal Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) am2]:%NAME%{%ORANGE%Reflex Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) am7]:%NAME%{%ORANGE%Ceremonial Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) amc]:%NAME%{%ORANGE%Grand Matron Bow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) am3]:%NAME%{%ORANGE%Maiden Spear}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) am8]:%NAME%{%ORANGE%Ceremonial Spear}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) amd]:%NAME%{%ORANGE%Matriarchal Spear}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) am4]:%NAME%{%ORANGE%Maiden Pike}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) am9]:%NAME%{%ORANGE%Ceremonial Pike}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ame]:%NAME%{%ORANGE%Matriarchal Pike}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) am5]:%NAME%{%ORANGE%Maiden Javelin}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) ama]:%NAME%{%ORANGE%Ceremonial Javelin}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) amf]:%NAME%{%ORANGE%Matriarchal Javelin}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) aqv]:%NAME%{%ORANGE%Arrow}%CONTINUE%
-ItemDisplay[(RARE OR CRAFT) cqv]:%NAME%{%ORANGE%Bolt}%CONTINUE%
+ItemDisplay[RARE ID cap]:%YELLOW%Cap%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xap]:%YELLOW%War hat%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uap]:%YELLOW%Shako%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID skp]:%YELLOW%Skull Cap%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xkp]:%YELLOW%Sallet%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ukp]:%YELLOW%Hydra skull%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID hlm]:%YELLOW%Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xlm]:%YELLOW%Casque%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ulm]:%YELLOW%Armet%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID fhl]:%YELLOW%Full Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xhl]:%YELLOW%Basinet%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uhl]:%YELLOW%Giant Conch%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID msk]:%YELLOW%Mask%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xsk]:%YELLOW%Death Mask%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID usk]:%YELLOW%Demonhead%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID bhm]:%YELLOW%Bone Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xh9]:%YELLOW%Grim Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uh9]:%YELLOW%Bone Visage%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ghm]:%YELLOW%Great Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xhm]:%YELLOW%Winged Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uhm]:%YELLOW%Spired Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID crn]:%YELLOW%Crown%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xrn]:%YELLOW%Grand Crown%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID urn]:%YELLOW%Corona%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID qui]:%YELLOW%Quilted Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xui]:%YELLOW%Ghost Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uui]:%YELLOW%Dusk Shroud%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID lea]:%YELLOW%Leather Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xea]:%YELLOW%Serpentskin Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uea]:%YELLOW%Wyrmhide%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID hla]:%YELLOW%HardLeather Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xla]:%YELLOW%Demonhide Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ula]:%YELLOW%Scarab Husk%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID stu]:%YELLOW%Studded Leather%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xtu]:%YELLOW%Trellised Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID utu]:%YELLOW%Wire Fleece%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID rng]:%YELLOW%Ring Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xng]:%YELLOW%Linked Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ung]:%YELLOW%Diamond Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID scl]:%YELLOW%Scale Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xcl]:%YELLOW%Tigulated Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ucl]:%YELLOW%Loricated Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID chn]:%YELLOW%Chain Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xhn]:%YELLOW%Mesh Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uhn]:%YELLOW%Boneweave%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID brs]:%YELLOW%Breast Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xrs]:%YELLOW%Cuirass%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID urs]:%YELLOW%Great Hauberk%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID spl]:%YELLOW%Splint Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xpl]:%YELLOW%Russet Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID upl]:%YELLOW%Balrog Skin%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID plt]:%YELLOW%Plate Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xlt]:%YELLOW%Templar Coat%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ult]:%YELLOW%Hellforge Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID fld]:%YELLOW%Field Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xld]:%YELLOW%Sharktooth Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uld]:%YELLOW%Kraken Shell%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID gth]:%YELLOW%Gothic Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xth]:%YELLOW%Embossed Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uth]:%YELLOW%Lacquered Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ltp]:%YELLOW%Light Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xtp]:%YELLOW%Mage Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID utp]:%YELLOW%Archon Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ful]:%YELLOW%FullPlate Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xul]:%YELLOW%Chaos Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uul]:%YELLOW%Shadow Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID aar]:%YELLOW%Ancient Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xar]:%YELLOW%Ornate Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uar]:%YELLOW%Sacred Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID buc]:%YELLOW%Buckler%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xuc]:%YELLOW%Defender%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uuc]:%YELLOW%Heater%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID sml]:%YELLOW%Small Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xml]:%YELLOW%Round Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uml]:%YELLOW%Luna%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID lrg]:%YELLOW%Large Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xrg]:%YELLOW%Scutum%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID urg]:%YELLOW%Hyperion%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID spk]:%YELLOW%Spiked Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xpk]:%YELLOW%Barbed Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID upk]:%YELLOW%Blade Barrier%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID kit]:%YELLOW%Kite Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xit]:%YELLOW%Dragon Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uit]:%YELLOW%Monarch%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID bsh]:%YELLOW%Bone Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xsh]:%YELLOW%Grim Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ush]:%YELLOW%Troll Nest%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID tow]:%YELLOW%Tower Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xow]:%YELLOW%Pavise%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uow]:%YELLOW%Aegis%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID gts]:%YELLOW%Gothic Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xts]:%YELLOW%Ancient Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uts]:%YELLOW%Ward%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID lgl]:%YELLOW%Leather Gloves%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xlg]:%YELLOW%Demonhide Gloves%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ulg]:%YELLOW%Bramble Mitts%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID vgl]:%YELLOW%Heavy Gloves%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xvg]:%YELLOW%Sharkskin Gloves%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uvg]:%YELLOW%Vampirebone Gloves%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID mgl]:%YELLOW%Chain Gloves%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xmg]:%YELLOW%Heavy Bracers%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID umg]:%YELLOW%Vambraces%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID tgl]:%YELLOW%Light Gauntlets%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xtg]:%YELLOW%Battle Gauntlets%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID utg]:%YELLOW%Crusader Gauntlets%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID hgl]:%YELLOW%Gauntlets%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xhg]:%YELLOW%War Gauntlets%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uhg]:%YELLOW%Ogre Gauntlets%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID lbt]:%YELLOW%Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xlb]:%YELLOW%Demonhide Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ulb]:%YELLOW%Wyrmhide Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID vbt]:%YELLOW%Heavy Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xvb]:%YELLOW%Sharkskin Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uvb]:%YELLOW%Scarabshell Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID mbt]:%YELLOW%Chain Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xmb]:%YELLOW%Mesh Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID umb]:%YELLOW%Boneweave Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID tbt]:%YELLOW%LightPlated Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xtb]:%YELLOW%Battle Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID utb]:%YELLOW%Mirrored Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID hbt]:%YELLOW%Greaves%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID xhb]:%YELLOW%War Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uhb]:%YELLOW%Myrmidon Greaves%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID lbl]:%YELLOW%Sash%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID zlb]:%YELLOW%Demonhide Sash%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ulc]:%YELLOW%Spiderweb Sash%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID vbl]:%YELLOW%Light Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID zvb]:%YELLOW%Sharkskin Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uvc]:%YELLOW%Vampirefang Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID mbl]:%YELLOW%Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID zmb]:%YELLOW%Mesh Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID umc]:%YELLOW%Mithril Coil%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID tbl]:%YELLOW%Heavy Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ztb]:%YELLOW%Battle Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID utc]:%YELLOW%Troll Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID hbl]:%YELLOW%Plated Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID zhb]:%YELLOW%War Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID uhc]:%YELLOW%Colossus Girdle%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ci0]:%YELLOW%Circlet%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ci1]:%YELLOW%Coronet%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ci2]:%YELLOW%Tiara%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ci3]:%YELLOW%Diadem%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID dr1]:%YELLOW%Wolf Head%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID dr6]:%YELLOW%Alpha Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID drb]:%YELLOW%Blood Spirit%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID dr2]:%YELLOW%Hawk Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID dr7]:%YELLOW%Griffon Headress%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID drc]:%YELLOW%Sun Spirit%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID dr3]:%YELLOW%Antlers%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID dr8]:%YELLOW%Hunter's Guise%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID drd]:%YELLOW%EarthSpirit%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID dr4]:%YELLOW%Falcon Mask%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID dr9]:%YELLOW%Sacred Feathers%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID dre]:%YELLOW%Sky Spirit%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID dr5]:%YELLOW%Spirit Mask%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID dra]:%YELLOW%Totemic Mask%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID drf]:%YELLOW%Dream Spirit%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ba1]:%YELLOW%Jawbone Cap%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ba6]:%YELLOW%Jawbone Visor%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID bab]:%YELLOW%Carnage Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ba2]:%YELLOW%Fanged Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ba7]:%YELLOW%Lion Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID bac]:%YELLOW%Fury Visor%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ba3]:%YELLOW%Horned Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ba8]:%YELLOW%Rage Mask%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID bad]:%YELLOW%Destroyer Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ba4]:%YELLOW%Assault Helmet%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ba9]:%YELLOW%Savage Helmet%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID bae]:%YELLOW%Conqueror Crown%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ba5]:%YELLOW%Avenger Guard%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID baa]:%YELLOW%Slayer Guard%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID baf]:%YELLOW%Guardian Crown%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID pa1]:%YELLOW%Targe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID pa6]:%YELLOW%Akaran Targe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID pab]:%YELLOW%Sacred Targe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID pa2]:%YELLOW%Rondache%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID pa7]:%YELLOW%Akaran Rondache%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID pac]:%YELLOW%Sacred Rondache%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID pa3]:%YELLOW%Heraldic Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID pa8]:%YELLOW%Protector Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID pad]:%YELLOW%Kurast Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID pa4]:%YELLOW%Aerin Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID pa9]:%YELLOW%Gilded Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID pae]:%YELLOW%Zakarum Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID pa5]:%YELLOW%Crown Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID paa]:%YELLOW%Royal Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID paf]:%YELLOW%Vortex Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ne1]:%YELLOW%Preserved Head%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ne6]:%YELLOW%Mummified Trophy%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID neb]:%YELLOW%Minion Skull%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ne2]:%YELLOW%Zombie Head%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ne7]:%YELLOW%Fetish Trophy%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID neg]:%YELLOW%Hellspawn Skull%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ne3]:%YELLOW%Unraveller Head%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ne8]:%YELLOW%Sexton Trophy%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ned]:%YELLOW%Overseer Skull%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ne4]:%YELLOW%Gargoyle Head%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ne9]:%YELLOW%Cantor Trophy%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID nee]:%YELLOW%Succubus Skull%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ne5]:%YELLOW%Demon Head%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID nea]:%YELLOW%Hierophant Trophy%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID nef]:%YELLOW%Bloodlord Skull%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID hax]:%YELLOW%HandAxe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9ha]:%YELLOW%Hatchet%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7ha]:%YELLOW%Tomahawk%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID axe]:%YELLOW%Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9ax]:%YELLOW%Cleaver%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7ax]:%YELLOW%Small Crescent%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 2ax]:%YELLOW%Double Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 92a]:%YELLOW%Twin Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 72a]:%YELLOW%Ettin Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID mpi]:%YELLOW%Military Pick%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9mp]:%YELLOW%Crowbill%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7mp]:%YELLOW%War Spike%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID wax]:%YELLOW%War Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9wa]:%YELLOW%Naga%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7wa]:%YELLOW%Berserker Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID lax]:%YELLOW%Large Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9la]:%YELLOW%Military Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7la]:%YELLOW%Feral Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID bax]:%YELLOW%Broad Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9ba]:%YELLOW%Bearded Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7ba]:%YELLOW%Silver-edged Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID btx]:%YELLOW%Battle Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9bt]:%YELLOW%Tabar%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7bt]:%YELLOW%Decapitator%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID gax]:%YELLOW%Great Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9ga]:%YELLOW%Gothic Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7ga]:%YELLOW%Champion Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID gix]:%YELLOW%Giant Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9gi]:%YELLOW%Ancient Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7gi]:%YELLOW%Glorious Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID clb]:%YELLOW%Club%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9cl]:%YELLOW%Cudgel%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7cl]:%YELLOW%Truncheon%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID spc]:%YELLOW%Spiked Club%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9sp]:%YELLOW%Barbed Club%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7sp]:%YELLOW%Tyrant Club%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID mac]:%YELLOW%Mace%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9ma]:%YELLOW%Flanged Mace%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7ma]:%YELLOW%Reinforced Mace%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID mst]:%YELLOW%Morning Star%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9mt]:%YELLOW%Jagged Star%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7mt]:%YELLOW%Devil Star%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID fla]:%YELLOW%Flail%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9fl]:%YELLOW%Knout%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7fl]:%YELLOW%Scourge%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID whm]:%YELLOW%War Hammer%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9wh]:%YELLOW%Battle Hammer%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7wh]:%YELLOW%Legendary Mallet%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID mau]:%YELLOW%Maul%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9m9]:%YELLOW%War Club%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7m7]:%YELLOW%Ogre Maul%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID gma]:%YELLOW%Great Maul%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9gm]:%YELLOW%Martel de Fer%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7gm]:%YELLOW%Thunder Maul%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ssd]:%YELLOW%Short Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9ss]:%YELLOW%Gladius%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7ss]:%YELLOW%Falcata%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID scm]:%YELLOW%Scimitar%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9sm]:%YELLOW%Cutlass%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7sm]:%YELLOW%Ataghan%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID sbr]:%YELLOW%Sabre%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9sb]:%YELLOW%Shamshir%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7sb]:%YELLOW%Elegant Blade%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID flc]:%YELLOW%Falchion%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9fc]:%YELLOW%Tulwar%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7fc]:%YELLOW%Hydra Edge%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID crs]:%YELLOW%Crystal Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9cr]:%YELLOW%Dimensional Blade%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7cr]:%YELLOW%Phase Blade%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID bsd]:%YELLOW%Broad Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9bs]:%YELLOW%Battle Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7bs]:%YELLOW%Conquest Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID lsd]:%YELLOW%Long Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9ls]:%YELLOW%Rune Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7ls]:%YELLOW%Cryptic Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID wsd]:%YELLOW%War Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9wd]:%YELLOW%Ancient Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7wd]:%YELLOW%Mythical Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 2hs]:%YELLOW%Two-handed Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 92h]:%YELLOW%Espandon%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 72h]:%YELLOW%Legend Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID clm]:%YELLOW%Claymore%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9cm]:%YELLOW%Dacian Falx%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7cm]:%YELLOW%Highland Blade%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID gis]:%YELLOW%Giant Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9gs]:%YELLOW%Tusk Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7gs]:%YELLOW%Balrog Blade%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID bsw]:%YELLOW%Bastard Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9b9]:%YELLOW%Gothic Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7b7]:%YELLOW%Champion Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID flb]:%YELLOW%Flamberge%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9fb]:%YELLOW%Zweihander%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7fb]:%YELLOW%Colossus Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID gsd]:%YELLOW%Great Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9gd]:%YELLOW%Executioner Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7gd]:%YELLOW%Colossus Blade%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID dgr]:%YELLOW%Dagger%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9dg]:%YELLOW%Poignard%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7dg]:%YELLOW%Bone Knife%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID dir]:%YELLOW%Dirk%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9di]:%YELLOW%Rondel%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7di]:%YELLOW%Mithril Point%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID kri]:%YELLOW%Kris%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9kr]:%YELLOW%Cinquedeas%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7kr]:%YELLOW%Fanged Knife%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID bld]:%YELLOW%Blade%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9bl]:%YELLOW%Stiletto%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7bl]:%YELLOW%Legend Spike%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID tkf]:%YELLOW%Throwing Knife%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9tk]:%YELLOW%Battle Dart%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7tk]:%YELLOW%Flying Knife%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID tax]:%YELLOW%Throwing Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9ta]:%YELLOW%Francisca%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7ta]:%YELLOW%Flying Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID bkf]:%YELLOW%Balanced Knife%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9bk]:%YELLOW%War Dart%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7bk]:%YELLOW%Winged Knife%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID bal]:%YELLOW%Balanced Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9b8]:%YELLOW%Hurlbat%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7b8]:%YELLOW%Winged Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID jav]:%YELLOW%Javelin%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9ja]:%YELLOW%War Javelin%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7ja]:%YELLOW%Hyperion Javelin%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID pil]:%YELLOW%Pilum%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9pi]:%YELLOW%Great Pilum%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7pi]:%YELLOW%Stygian Pilum%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ssp]:%YELLOW%Short Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9s9]:%YELLOW%Simbilan%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7s7]:%YELLOW%Balrog Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID glv]:%YELLOW%Glaive%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9gl]:%YELLOW%Spiculum%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7gl]:%YELLOW%Ghost Glaive%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID tsp]:%YELLOW%Throwing Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9ts]:%YELLOW%Harpoon%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7ts]:%YELLOW%Winged Harpoon%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID spr]:%YELLOW%Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9sr]:%YELLOW%War Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7sr]:%YELLOW%Hyperion Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID tri]:%YELLOW%Trident%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9tr]:%YELLOW%Fuscina%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7tr]:%YELLOW%Stygian Pike%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID brn]:%YELLOW%Brandistock%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9br]:%YELLOW%War Fork%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7br]:%YELLOW%Mancatcher%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID spt]:%YELLOW%Spetum%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9st]:%YELLOW%Yari%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7st]:%YELLOW%Ghost Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID pik]:%YELLOW%Pike%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9p9]:%YELLOW%Lance%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7p7]:%YELLOW%War Pike%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID bar]:%YELLOW%Bardiche%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9b7]:%YELLOW%Lochaber Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7o7]:%YELLOW%Ogre Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID vou]:%YELLOW%Voulge%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9vo]:%YELLOW%Bill%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7vo]:%YELLOW%Colossus Voulge%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID scy]:%YELLOW%Scythe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9s8]:%YELLOW%Battle Scythe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7s8]:%YELLOW%Thresher%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID pax]:%YELLOW%Poleaxe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9pa]:%YELLOW%Partizan%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7pa]:%YELLOW%Cryptic Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID hal]:%YELLOW%Halberd%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9h9]:%YELLOW%Bec-de-Corbin%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7h7]:%YELLOW%Great Poleaxe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID wsc]:%YELLOW%War Scythe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9wc]:%YELLOW%Grim Scythe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7wc]:%YELLOW%Giant Thresher%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID sbw]:%YELLOW%Short Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8sb]:%YELLOW%Edge Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6sb]:%YELLOW%Spider Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID hbw]:%YELLOW%Hunters Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8hb]:%YELLOW%Razor Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6hb]:%YELLOW%Blade Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID lbw]:%YELLOW%Long Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8lb]:%YELLOW%Cedar Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6lb]:%YELLOW%Shadow Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID cbw]:%YELLOW%Composite Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8cb]:%YELLOW%Double Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6cb]:%YELLOW%Great Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID sbb]:%YELLOW%ShortBattle Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8s8]:%YELLOW%ShortSiege Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6s7]:%YELLOW%Diamond Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID lbb]:%YELLOW%LongBattle Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8l8]:%YELLOW%LargeSiege Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6l7]:%YELLOW%Crusader Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID swb]:%YELLOW%ShortWar Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8sw]:%YELLOW%Rune Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6sw]:%YELLOW%Ward Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID lwb]:%YELLOW%LongWar Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8lw]:%YELLOW%Gothic Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6lw]:%YELLOW%Hydra Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID lxb]:%YELLOW%Light CrossBow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8lx]:%YELLOW%Arbalest%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6lx]:%YELLOW%Pellet Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID mxb]:%YELLOW%CrossBow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8mx]:%YELLOW%Siege CrossBow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6mx]:%YELLOW%Gorgon CrossBow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID hxb]:%YELLOW%Heavy CrossBow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8hx]:%YELLOW%Ballista%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6hx]:%YELLOW%Colossus CrossBow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID rxb]:%YELLOW%Repeating CrossBow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8rx]:%YELLOW%Chu-Ko-Nu%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6rx]:%YELLOW%Demon CrossBow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID sst]:%YELLOW%Short Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8ss]:%YELLOW%Jo Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6ss]:%YELLOW%Walking Stick%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID lst]:%YELLOW%Long Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8ls]:%YELLOW%Quarter Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6ls]:%YELLOW%Stalagmite%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID cst]:%YELLOW%Gnarled Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8cs]:%YELLOW%Cedar Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6cs]:%YELLOW%Elder Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID bst]:%YELLOW%Battle Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8bs]:%YELLOW%Gothic Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6bs]:%YELLOW%Shillelagh%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID wst]:%YELLOW%War Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 8ws]:%YELLOW%Rune Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 6ws]:%YELLOW%Archon Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID wnd]:%YELLOW%Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9wn]:%YELLOW%Burnt Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7wn]:%YELLOW%Polished Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ywn]:%YELLOW%Yew Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9yw]:%YELLOW%Petrified Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7yw]:%YELLOW%Ghost Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID bwn]:%YELLOW%Bone Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9bw]:%YELLOW%Tomb Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7bw]:%YELLOW%Lich Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID gwn]:%YELLOW%Grim Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9gw]:%YELLOW%Grave Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7gw]:%YELLOW%Unearthed Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID scp]:%YELLOW%Scepter%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9sc]:%YELLOW%Rune Scepter%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7sc]:%YELLOW%Mighty Scepter%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID gsc]:%YELLOW%Grand Scepter%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9qs]:%YELLOW%HolyWater Sprinkler%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7qs]:%YELLOW%Seraph Rod%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID wsp]:%YELLOW%War Scepter%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9ws]:%YELLOW%Divine Scepter%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7ws]:%YELLOW%Caduceus%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ktr]:%YELLOW%Katar%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9ar]:%YELLOW%Quhab%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7ar]:%YELLOW%Suwayyah%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID wrb]:%YELLOW%Wrist Blade%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9wb]:%YELLOW%Wrist Spike%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7wb]:%YELLOW%Wrist Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID axf]:%YELLOW%Hatchet Hands%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9xf]:%YELLOW%Fascia%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7xf]:%YELLOW%War Fist%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ces]:%YELLOW%Cestus%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9cs]:%YELLOW%Hand Scythe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7cs]:%YELLOW%Battle Cestus%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID clw]:%YELLOW%Claws%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9lw]:%YELLOW%Greater Claws%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7lw]:%YELLOW%Feral Claws%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID btl]:%YELLOW%Blade Talons%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9tw]:%YELLOW%Greater Talons%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7tw]:%YELLOW%Runic Talons%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID skr]:%YELLOW%Scissors Katar%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 9qr]:%YELLOW%Scissors Quhab%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID 7qr]:%YELLOW%Scissors Suwayyah%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ob1]:%YELLOW%Eagle Orb%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ob6]:%YELLOW%Glowing Orb%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID obb]:%YELLOW%Heavenly Stone%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ob2]:%YELLOW%Sacred Globe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ob7]:%YELLOW%Crystalline Globe%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID obc]:%YELLOW%Eldritch Orb%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ob3]:%YELLOW%Smoked Sphere%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ob8]:%YELLOW%Cloudy Sphere%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID obd]:%YELLOW%Demon Heart%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ob4]:%YELLOW%Clasped Orb%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ob9]:%YELLOW%Sparkling Ball%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID obe]:%YELLOW%Vortex Orb%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ob5]:%YELLOW%Jared's Stone%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID oba]:%YELLOW%Swirling Crystal%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID obf]:%YELLOW%Dimensional Shard%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID am1]:%YELLOW%Stag Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID am6]:%YELLOW%Ashwood Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID amb]:%YELLOW%Matriarchal Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID am2]:%YELLOW%Reflex Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID am7]:%YELLOW%Ceremonial Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID amc]:%YELLOW%Grand Matron Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID am3]:%YELLOW%Maiden Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID am8]:%YELLOW%Ceremonial Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID amd]:%YELLOW%Matriarchal Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID am4]:%YELLOW%Maiden Pike%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID am9]:%YELLOW%Ceremonial Pike%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ame]:%YELLOW%Matriarchal Pike%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID am5]:%YELLOW%Maiden Javelin%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID ama]:%YELLOW%Ceremonial Javelin%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID amf]:%YELLOW%Matriarchal Javelin%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID aqv]:%YELLOW%Arrow%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID cqv]:%YELLOW%Bolt%NL%%NAME%%CONTINUE%
+
+ItemDisplay[CRAFT ID cap]:%ORANGE%Cap%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xap]:%ORANGE%War hat%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uap]:%ORANGE%Shako%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID skp]:%ORANGE%Skull Cap%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xkp]:%ORANGE%Sallet%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ukp]:%ORANGE%Hydra skull%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID hlm]:%ORANGE%Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xlm]:%ORANGE%Casque%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ulm]:%ORANGE%Armet%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID fhl]:%ORANGE%Full Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xhl]:%ORANGE%Basinet%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uhl]:%ORANGE%Giant Conch%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID msk]:%ORANGE%Mask%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xsk]:%ORANGE%Death Mask%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID usk]:%ORANGE%Demonhead%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID bhm]:%ORANGE%Bone Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xh9]:%ORANGE%Grim Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uh9]:%ORANGE%Bone Visage%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ghm]:%ORANGE%Great Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xhm]:%ORANGE%Winged Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uhm]:%ORANGE%Spired Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID crn]:%ORANGE%Crown%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xrn]:%ORANGE%Grand Crown%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID urn]:%ORANGE%Corona%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID qui]:%ORANGE%Quilted Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xui]:%ORANGE%Ghost Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uui]:%ORANGE%Dusk Shroud%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID lea]:%ORANGE%Leather Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xea]:%ORANGE%Serpentskin Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uea]:%ORANGE%Wyrmhide%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID hla]:%ORANGE%HardLeather Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xla]:%ORANGE%Demonhide Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ula]:%ORANGE%Scarab Husk%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID stu]:%ORANGE%Studded Leather%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xtu]:%ORANGE%Trellised Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID utu]:%ORANGE%Wire Fleece%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID rng]:%ORANGE%Ring Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xng]:%ORANGE%Linked Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ung]:%ORANGE%Diamond Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID scl]:%ORANGE%Scale Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xcl]:%ORANGE%Tigulated Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ucl]:%ORANGE%Loricated Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID chn]:%ORANGE%Chain Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xhn]:%ORANGE%Mesh Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uhn]:%ORANGE%Boneweave%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID brs]:%ORANGE%Breast Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xrs]:%ORANGE%Cuirass%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID urs]:%ORANGE%Great Hauberk%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID spl]:%ORANGE%Splint Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xpl]:%ORANGE%Russet Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID upl]:%ORANGE%Balrog Skin%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID plt]:%ORANGE%Plate Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xlt]:%ORANGE%Templar Coat%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ult]:%ORANGE%Hellforge Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID fld]:%ORANGE%Field Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xld]:%ORANGE%Sharktooth Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uld]:%ORANGE%Kraken Shell%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID gth]:%ORANGE%Gothic Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xth]:%ORANGE%Embossed Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uth]:%ORANGE%Lacquered Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ltp]:%ORANGE%Light Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xtp]:%ORANGE%Mage Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID utp]:%ORANGE%Archon Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ful]:%ORANGE%FullPlate Mail%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xul]:%ORANGE%Chaos Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uul]:%ORANGE%Shadow Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID aar]:%ORANGE%Ancient Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xar]:%ORANGE%Ornate Plate%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uar]:%ORANGE%Sacred Armor%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID buc]:%ORANGE%Buckler%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xuc]:%ORANGE%Defender%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uuc]:%ORANGE%Heater%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID sml]:%ORANGE%Small Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xml]:%ORANGE%Round Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uml]:%ORANGE%Luna%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID lrg]:%ORANGE%Large Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xrg]:%ORANGE%Scutum%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID urg]:%ORANGE%Hyperion%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID spk]:%ORANGE%Spiked Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xpk]:%ORANGE%Barbed Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID upk]:%ORANGE%Blade Barrier%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID kit]:%ORANGE%Kite Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xit]:%ORANGE%Dragon Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uit]:%ORANGE%Monarch%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID bsh]:%ORANGE%Bone Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xsh]:%ORANGE%Grim Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ush]:%ORANGE%Troll Nest%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID tow]:%ORANGE%Tower Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xow]:%ORANGE%Pavise%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uow]:%ORANGE%Aegis%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID gts]:%ORANGE%Gothic Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xts]:%ORANGE%Ancient Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uts]:%ORANGE%Ward%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID lgl]:%ORANGE%Leather Gloves%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xlg]:%ORANGE%Demonhide Gloves%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ulg]:%ORANGE%Bramble Mitts%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID vgl]:%ORANGE%Heavy Gloves%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xvg]:%ORANGE%Sharkskin Gloves%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uvg]:%ORANGE%Vampirebone Gloves%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID mgl]:%ORANGE%Chain Gloves%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xmg]:%ORANGE%Heavy Bracers%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID umg]:%ORANGE%Vambraces%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID tgl]:%ORANGE%Light Gauntlets%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xtg]:%ORANGE%Battle Gauntlets%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID utg]:%ORANGE%Crusader Gauntlets%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID hgl]:%ORANGE%Gauntlets%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xhg]:%ORANGE%War Gauntlets%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uhg]:%ORANGE%Ogre Gauntlets%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID lbt]:%ORANGE%Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xlb]:%ORANGE%Demonhide Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ulb]:%ORANGE%Wyrmhide Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID vbt]:%ORANGE%Heavy Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xvb]:%ORANGE%Sharkskin Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uvb]:%ORANGE%Scarabshell Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID mbt]:%ORANGE%Chain Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xmb]:%ORANGE%Mesh Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID umb]:%ORANGE%Boneweave Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID tbt]:%ORANGE%LightPlated Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xtb]:%ORANGE%Battle Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID utb]:%ORANGE%Mirrored Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID hbt]:%ORANGE%Greaves%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID xhb]:%ORANGE%War Boots%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uhb]:%ORANGE%Myrmidon Greaves%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID lbl]:%ORANGE%Sash%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID zlb]:%ORANGE%Demonhide Sash%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ulc]:%ORANGE%Spiderweb Sash%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID vbl]:%ORANGE%Light Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID zvb]:%ORANGE%Sharkskin Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uvc]:%ORANGE%Vampirefang Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID mbl]:%ORANGE%Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID zmb]:%ORANGE%Mesh Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID umc]:%ORANGE%Mithril Coil%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID tbl]:%ORANGE%Heavy Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ztb]:%ORANGE%Battle Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID utc]:%ORANGE%Troll Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID hbl]:%ORANGE%Plated Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID zhb]:%ORANGE%War Belt%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID uhc]:%ORANGE%Colossus Girdle%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ci0]:%ORANGE%Circlet%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ci1]:%ORANGE%Coronet%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ci2]:%ORANGE%Tiara%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ci3]:%ORANGE%Diadem%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID dr1]:%ORANGE%Wolf Head%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID dr6]:%ORANGE%Alpha Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID drb]:%ORANGE%Blood Spirit%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID dr2]:%ORANGE%Hawk Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID dr7]:%ORANGE%Griffon Headress%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID drc]:%ORANGE%Sun Spirit%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID dr3]:%ORANGE%Antlers%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID dr8]:%ORANGE%Hunter's Guise%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID drd]:%ORANGE%EarthSpirit%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID dr4]:%ORANGE%Falcon Mask%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID dr9]:%ORANGE%Sacred Feathers%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID dre]:%ORANGE%Sky Spirit%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID dr5]:%ORANGE%Spirit Mask%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID dra]:%ORANGE%Totemic Mask%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID drf]:%ORANGE%Dream Spirit%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ba1]:%ORANGE%Jawbone Cap%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ba6]:%ORANGE%Jawbone Visor%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID bab]:%ORANGE%Carnage Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ba2]:%ORANGE%Fanged Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ba7]:%ORANGE%Lion Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID bac]:%ORANGE%Fury Visor%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ba3]:%ORANGE%Horned Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ba8]:%ORANGE%Rage Mask%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID bad]:%ORANGE%Destroyer Helm%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ba4]:%ORANGE%Assault Helmet%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ba9]:%ORANGE%Savage Helmet%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID bae]:%ORANGE%Conqueror Crown%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ba5]:%ORANGE%Avenger Guard%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID baa]:%ORANGE%Slayer Guard%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID baf]:%ORANGE%Guardian Crown%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID pa1]:%ORANGE%Targe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID pa6]:%ORANGE%Akaran Targe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID pab]:%ORANGE%Sacred Targe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID pa2]:%ORANGE%Rondache%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID pa7]:%ORANGE%Akaran Rondache%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID pac]:%ORANGE%Sacred Rondache%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID pa3]:%ORANGE%Heraldic Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID pa8]:%ORANGE%Protector Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID pad]:%ORANGE%Kurast Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID pa4]:%ORANGE%Aerin Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID pa9]:%ORANGE%Gilded Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID pae]:%ORANGE%Zakarum Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID pa5]:%ORANGE%Crown Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID paa]:%ORANGE%Royal Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID paf]:%ORANGE%Vortex Shield%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ne1]:%ORANGE%Preserved Head%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ne6]:%ORANGE%Mummified Trophy%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID neb]:%ORANGE%Minion Skull%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ne2]:%ORANGE%Zombie Head%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ne7]:%ORANGE%Fetish Trophy%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID neg]:%ORANGE%Hellspawn Skull%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ne3]:%ORANGE%Unraveller Head%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ne8]:%ORANGE%Sexton Trophy%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ned]:%ORANGE%Overseer Skull%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ne4]:%ORANGE%Gargoyle Head%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ne9]:%ORANGE%Cantor Trophy%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID nee]:%ORANGE%Succubus Skull%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ne5]:%ORANGE%Demon Head%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID nea]:%ORANGE%Hierophant Trophy%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID nef]:%ORANGE%Bloodlord Skull%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID hax]:%ORANGE%HandAxe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9ha]:%ORANGE%Hatchet%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7ha]:%ORANGE%Tomahawk%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID axe]:%ORANGE%Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9ax]:%ORANGE%Cleaver%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7ax]:%ORANGE%Small Crescent%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 2ax]:%ORANGE%Double Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 92a]:%ORANGE%Twin Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 72a]:%ORANGE%Ettin Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID mpi]:%ORANGE%Military Pick%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9mp]:%ORANGE%Crowbill%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7mp]:%ORANGE%War Spike%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID wax]:%ORANGE%War Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9wa]:%ORANGE%Naga%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7wa]:%ORANGE%Berserker Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID lax]:%ORANGE%Large Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9la]:%ORANGE%Military Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7la]:%ORANGE%Feral Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID bax]:%ORANGE%Broad Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9ba]:%ORANGE%Bearded Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7ba]:%ORANGE%Silver-edged Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID btx]:%ORANGE%Battle Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9bt]:%ORANGE%Tabar%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7bt]:%ORANGE%Decapitator%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID gax]:%ORANGE%Great Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9ga]:%ORANGE%Gothic Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7ga]:%ORANGE%Champion Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID gix]:%ORANGE%Giant Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9gi]:%ORANGE%Ancient Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7gi]:%ORANGE%Glorious Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID clb]:%ORANGE%Club%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9cl]:%ORANGE%Cudgel%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7cl]:%ORANGE%Truncheon%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID spc]:%ORANGE%Spiked Club%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9sp]:%ORANGE%Barbed Club%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7sp]:%ORANGE%Tyrant Club%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID mac]:%ORANGE%Mace%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9ma]:%ORANGE%Flanged Mace%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7ma]:%ORANGE%Reinforced Mace%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID mst]:%ORANGE%Morning Star%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9mt]:%ORANGE%Jagged Star%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7mt]:%ORANGE%Devil Star%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID fla]:%ORANGE%Flail%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9fl]:%ORANGE%Knout%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7fl]:%ORANGE%Scourge%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID whm]:%ORANGE%War Hammer%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9wh]:%ORANGE%Battle Hammer%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7wh]:%ORANGE%Legendary Mallet%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID mau]:%ORANGE%Maul%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9m9]:%ORANGE%War Club%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7m7]:%ORANGE%Ogre Maul%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID gma]:%ORANGE%Great Maul%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9gm]:%ORANGE%Martel de Fer%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7gm]:%ORANGE%Thunder Maul%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ssd]:%ORANGE%Short Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9ss]:%ORANGE%Gladius%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7ss]:%ORANGE%Falcata%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID scm]:%ORANGE%Scimitar%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9sm]:%ORANGE%Cutlass%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7sm]:%ORANGE%Ataghan%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID sbr]:%ORANGE%Sabre%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9sb]:%ORANGE%Shamshir%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7sb]:%ORANGE%Elegant Blade%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID flc]:%ORANGE%Falchion%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9fc]:%ORANGE%Tulwar%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7fc]:%ORANGE%Hydra Edge%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID crs]:%ORANGE%Crystal Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9cr]:%ORANGE%Dimensional Blade%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7cr]:%ORANGE%Phase Blade%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID bsd]:%ORANGE%Broad Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9bs]:%ORANGE%Battle Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7bs]:%ORANGE%Conquest Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID lsd]:%ORANGE%Long Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9ls]:%ORANGE%Rune Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7ls]:%ORANGE%Cryptic Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID wsd]:%ORANGE%War Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9wd]:%ORANGE%Ancient Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7wd]:%ORANGE%Mythical Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 2hs]:%ORANGE%Two-handed Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 92h]:%ORANGE%Espandon%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 72h]:%ORANGE%Legend Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID clm]:%ORANGE%Claymore%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9cm]:%ORANGE%Dacian Falx%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7cm]:%ORANGE%Highland Blade%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID gis]:%ORANGE%Giant Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9gs]:%ORANGE%Tusk Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7gs]:%ORANGE%Balrog Blade%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID bsw]:%ORANGE%Bastard Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9b9]:%ORANGE%Gothic Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7b7]:%ORANGE%Champion Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID flb]:%ORANGE%Flamberge%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9fb]:%ORANGE%Zweihander%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7fb]:%ORANGE%Colossus Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID gsd]:%ORANGE%Great Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9gd]:%ORANGE%Executioner Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7gd]:%ORANGE%Colossus Blade%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID dgr]:%ORANGE%Dagger%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9dg]:%ORANGE%Poignard%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7dg]:%ORANGE%Bone Knife%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID dir]:%ORANGE%Dirk%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9di]:%ORANGE%Rondel%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7di]:%ORANGE%Mithril Point%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID kri]:%ORANGE%Kris%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9kr]:%ORANGE%Cinquedeas%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7kr]:%ORANGE%Fanged Knife%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID bld]:%ORANGE%Blade%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9bl]:%ORANGE%Stiletto%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7bl]:%ORANGE%Legend Spike%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID tkf]:%ORANGE%Throwing Knife%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9tk]:%ORANGE%Battle Dart%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7tk]:%ORANGE%Flying Knife%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID tax]:%ORANGE%Throwing Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9ta]:%ORANGE%Francisca%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7ta]:%ORANGE%Flying Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID bkf]:%ORANGE%Balanced Knife%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9bk]:%ORANGE%War Dart%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7bk]:%ORANGE%Winged Knife%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID bal]:%ORANGE%Balanced Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9b8]:%ORANGE%Hurlbat%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7b8]:%ORANGE%Winged Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID jav]:%ORANGE%Javelin%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9ja]:%ORANGE%War Javelin%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7ja]:%ORANGE%Hyperion Javelin%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID pil]:%ORANGE%Pilum%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9pi]:%ORANGE%Great Pilum%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7pi]:%ORANGE%Stygian Pilum%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ssp]:%ORANGE%Short Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9s9]:%ORANGE%Simbilan%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7s7]:%ORANGE%Balrog Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID glv]:%ORANGE%Glaive%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9gl]:%ORANGE%Spiculum%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7gl]:%ORANGE%Ghost Glaive%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID tsp]:%ORANGE%Throwing Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9ts]:%ORANGE%Harpoon%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7ts]:%ORANGE%Winged Harpoon%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID spr]:%ORANGE%Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9sr]:%ORANGE%War Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7sr]:%ORANGE%Hyperion Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID tri]:%ORANGE%Trident%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9tr]:%ORANGE%Fuscina%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7tr]:%ORANGE%Stygian Pike%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID brn]:%ORANGE%Brandistock%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9br]:%ORANGE%War Fork%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7br]:%ORANGE%Mancatcher%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID spt]:%ORANGE%Spetum%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9st]:%ORANGE%Yari%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7st]:%ORANGE%Ghost Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID pik]:%ORANGE%Pike%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9p9]:%ORANGE%Lance%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7p7]:%ORANGE%War Pike%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID bar]:%ORANGE%Bardiche%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9b7]:%ORANGE%Lochaber Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7o7]:%ORANGE%Ogre Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID vou]:%ORANGE%Voulge%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9vo]:%ORANGE%Bill%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7vo]:%ORANGE%Colossus Voulge%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID scy]:%ORANGE%Scythe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9s8]:%ORANGE%Battle Scythe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7s8]:%ORANGE%Thresher%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID pax]:%ORANGE%Poleaxe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9pa]:%ORANGE%Partizan%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7pa]:%ORANGE%Cryptic Axe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID hal]:%ORANGE%Halberd%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9h9]:%ORANGE%Bec-de-Corbin%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7h7]:%ORANGE%Great Poleaxe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID wsc]:%ORANGE%War Scythe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9wc]:%ORANGE%Grim Scythe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7wc]:%ORANGE%Giant Thresher%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID sbw]:%ORANGE%Short Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8sb]:%ORANGE%Edge Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6sb]:%ORANGE%Spider Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID hbw]:%ORANGE%Hunters Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8hb]:%ORANGE%Razor Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6hb]:%ORANGE%Blade Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID lbw]:%ORANGE%Long Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8lb]:%ORANGE%Cedar Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6lb]:%ORANGE%Shadow Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID cbw]:%ORANGE%Composite Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8cb]:%ORANGE%Double Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6cb]:%ORANGE%Great Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID sbb]:%ORANGE%ShortBattle Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8s8]:%ORANGE%ShortSiege Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6s7]:%ORANGE%Diamond Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID lbb]:%ORANGE%LongBattle Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8l8]:%ORANGE%LargeSiege Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6l7]:%ORANGE%Crusader Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID swb]:%ORANGE%ShortWar Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8sw]:%ORANGE%Rune Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6sw]:%ORANGE%Ward Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID lwb]:%ORANGE%LongWar Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8lw]:%ORANGE%Gothic Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6lw]:%ORANGE%Hydra Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID lxb]:%ORANGE%Light CrossBow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8lx]:%ORANGE%Arbalest%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6lx]:%ORANGE%Pellet Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID mxb]:%ORANGE%CrossBow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8mx]:%ORANGE%Siege CrossBow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6mx]:%ORANGE%Gorgon CrossBow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID hxb]:%ORANGE%Heavy CrossBow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8hx]:%ORANGE%Ballista%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6hx]:%ORANGE%Colossus CrossBow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID rxb]:%ORANGE%Repeating CrossBow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8rx]:%ORANGE%Chu-Ko-Nu%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6rx]:%ORANGE%Demon CrossBow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID sst]:%ORANGE%Short Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8ss]:%ORANGE%Jo Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6ss]:%ORANGE%Walking Stick%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID lst]:%ORANGE%Long Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8ls]:%ORANGE%Quarter Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6ls]:%ORANGE%Stalagmite%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID cst]:%ORANGE%Gnarled Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8cs]:%ORANGE%Cedar Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6cs]:%ORANGE%Elder Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID bst]:%ORANGE%Battle Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8bs]:%ORANGE%Gothic Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6bs]:%ORANGE%Shillelagh%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID wst]:%ORANGE%War Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 8ws]:%ORANGE%Rune Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 6ws]:%ORANGE%Archon Staff%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID wnd]:%ORANGE%Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9wn]:%ORANGE%Burnt Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7wn]:%ORANGE%Polished Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ywn]:%ORANGE%Yew Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9yw]:%ORANGE%Petrified Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7yw]:%ORANGE%Ghost Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID bwn]:%ORANGE%Bone Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9bw]:%ORANGE%Tomb Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7bw]:%ORANGE%Lich Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID gwn]:%ORANGE%Grim Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9gw]:%ORANGE%Grave Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7gw]:%ORANGE%Unearthed Wand%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID scp]:%ORANGE%Scepter%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9sc]:%ORANGE%Rune Scepter%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7sc]:%ORANGE%Mighty Scepter%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID gsc]:%ORANGE%Grand Scepter%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9qs]:%ORANGE%HolyWater Sprinkler%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7qs]:%ORANGE%Seraph Rod%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID wsp]:%ORANGE%War Scepter%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9ws]:%ORANGE%Divine Scepter%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7ws]:%ORANGE%Caduceus%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ktr]:%ORANGE%Katar%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9ar]:%ORANGE%Quhab%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7ar]:%ORANGE%Suwayyah%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID wrb]:%ORANGE%Wrist Blade%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9wb]:%ORANGE%Wrist Spike%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7wb]:%ORANGE%Wrist Sword%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID axf]:%ORANGE%Hatchet Hands%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9xf]:%ORANGE%Fascia%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7xf]:%ORANGE%War Fist%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ces]:%ORANGE%Cestus%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9cs]:%ORANGE%Hand Scythe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7cs]:%ORANGE%Battle Cestus%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID clw]:%ORANGE%Claws%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9lw]:%ORANGE%Greater Claws%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7lw]:%ORANGE%Feral Claws%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID btl]:%ORANGE%Blade Talons%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9tw]:%ORANGE%Greater Talons%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7tw]:%ORANGE%Runic Talons%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID skr]:%ORANGE%Scissors Katar%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 9qr]:%ORANGE%Scissors Quhab%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID 7qr]:%ORANGE%Scissors Suwayyah%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ob1]:%ORANGE%Eagle Orb%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ob6]:%ORANGE%Glowing Orb%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID obb]:%ORANGE%Heavenly Stone%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ob2]:%ORANGE%Sacred Globe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ob7]:%ORANGE%Crystalline Globe%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID obc]:%ORANGE%Eldritch Orb%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ob3]:%ORANGE%Smoked Sphere%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ob8]:%ORANGE%Cloudy Sphere%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID obd]:%ORANGE%Demon Heart%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ob4]:%ORANGE%Clasped Orb%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ob9]:%ORANGE%Sparkling Ball%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID obe]:%ORANGE%Vortex Orb%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ob5]:%ORANGE%Jared's Stone%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID oba]:%ORANGE%Swirling Crystal%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID obf]:%ORANGE%Dimensional Shard%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID am1]:%ORANGE%Stag Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID am6]:%ORANGE%Ashwood Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID amb]:%ORANGE%Matriarchal Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID am2]:%ORANGE%Reflex Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID am7]:%ORANGE%Ceremonial Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID amc]:%ORANGE%Grand Matron Bow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID am3]:%ORANGE%Maiden Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID am8]:%ORANGE%Ceremonial Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID amd]:%ORANGE%Matriarchal Spear%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID am4]:%ORANGE%Maiden Pike%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID am9]:%ORANGE%Ceremonial Pike%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ame]:%ORANGE%Matriarchal Pike%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID am5]:%ORANGE%Maiden Javelin%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID ama]:%ORANGE%Ceremonial Javelin%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID amf]:%ORANGE%Matriarchal Javelin%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID aqv]:%ORANGE%Arrow%NL%%NAME%%CONTINUE%
+ItemDisplay[CRAFT ID cqv]:%ORANGE%Bolt%NL%%NAME%%CONTINUE%
+
 ItemDisplay[(UNI) uap ID]:%ORANGE%%CORAL%Shako%NL%%PURPLE%H a %RED%r l %ORANGE%e q %GOLD%u i %WHITE%n  %GOLD%C r %RED%e s %PURPLE%t
 ItemDisplay[(UNI) cap AR>29 LIFE>14 MANA>14 ID]:%GOLD%Cap%NL%%GOLD%B i %TAN%g g %WHITE%i n %TAN%' s %GOLD%  B %TAN%o n %WHITE%n e %TAN%t
 ItemDisplay[(UNI) cap AR>29 LIFE>14 MANA>14 ID]:%GOLD%War Hat%NL%%GOLD%B i %TAN%g g %WHITE%i n %TAN%' s %GOLD%  B %TAN%o n %WHITE%n e %TAN%t
