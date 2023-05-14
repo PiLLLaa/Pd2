@@ -2041,190 +2041,221 @@ ItemDisplay[CRAFT ID ama]:%ORANGE%Ceremonial Javelin%NL%%NAME%%CONTINUE%
 ItemDisplay[CRAFT ID amf]:%ORANGE%Matriarchal Javelin%NL%%NAME%%CONTINUE%
 ItemDisplay[CRAFT ID aqv]:%ORANGE%Arrow%NL%%NAME%%CONTINUE%
 ItemDisplay[CRAFT ID cqv]:%ORANGE%Bolt%NL%%NAME%%CONTINUE%
-
+//
 ItemDisplay[(UNI) uap ID]:%ORANGE%%CORAL%Shako%NL%%PURPLE%H a %RED%r l %ORANGE%e q %GOLD%u i %WHITE%n  %GOLD%C r %RED%e s %PURPLE%t
 ItemDisplay[(UNI) cap AR>29 LIFE>14 MANA>14 ID]:%GOLD%Cap%NL%%GOLD%B i %TAN%g g %WHITE%i n %TAN%' s %GOLD%  B %TAN%o n %WHITE%n e %TAN%t
 ItemDisplay[(UNI) cap AR>29 LIFE>14 MANA>14 ID]:%GOLD%War Hat%NL%%GOLD%B i %TAN%g g %WHITE%i n %TAN%' s %GOLD%  B %TAN%o n %WHITE%n e %TAN%t
 ItemDisplay[(UNI) cap AR>29 LIFE>14 MANA>14 ID]:%GOLD%Shako%NL%%GOLD%B i %TAN%g g %WHITE%i n %TAN%' s %GOLD%  B %TAN%o n %WHITE%n e %TAN%t
 ItemDisplay[(UNI) xap FRW>19 STAT1>19 STAT3>19 ID]:%GOLD%War Hat%NL%%GOLD%P e %TAN%a s %WHITE%a n %TAN%t  %GOLD%C r %TAN%o w %WHITE%n
 ItemDisplay[(UNI) uap FRW>19 STAT1>19 STAT3>19 ID]:%GOLD%Shako%NL%%GOLD%P e %TAN%a s %WHITE%a n %TAN%t  %GOLD%C r %TAN%o w %WHITE%n
-ItemDisplay[(UNI) xkp ID]:%GOLD%Sallet%NL%%GOLD%R o %TAN%c k %WHITE%s t %TAN%o p %GOLD%p e %TAN%r
-ItemDisplay[(UNI) ukp ID]:%GOLD%Hydraskull%NL%%GOLD%R o %TAN%c k %WHITE%s t %TAN%o p %GOLD%p e %TAN%r
+//
 ItemDisplay[(UNI) skp ALLSK>0 GFIND>74 MFIND>24 ID]:%GOLD%Skull Cap%NL%%GOLD%T a %TAN%r n %WHITE%h e %TAN%l m
 ItemDisplay[(UNI) xkp ALLSK>0 GFIND>74 MFIND>24 ID]:%GOLD%Sallet%NL%%GOLD%T a %TAN%r n %WHITE%h e %TAN%l m
 ItemDisplay[(UNI) ukp ALLSK>0 GFIND>74 MFIND>24 ID]:%GOLD%Hydraskull%NL%%GOLD%T a %TAN%r n %WHITE%h e %TAN%l m
-ItemDisplay[(UNI) hlm STAT113>0 ID]:%GOLD%Helm%NL%%GOLD%C o %TAN%i f %WHITE% o %TAN%f  %GOLD%G l %TAN%o r %WHITE%y
-ItemDisplay[(UNI) xlm STAT113>0 ID]:%GOLD%Casque%NL%%GOLD%C o %TAN%i f %WHITE% o %TAN%f  %GOLD%G l %TAN%o r %WHITE%y
-ItemDisplay[(UNI) ulm STAT113>0 ID]:%GOLD%Armet%NL%%GOLD%C o %TAN%i f %WHITE% o %TAN%f  %GOLD%G l %TAN%o r %WHITE%y
+ItemDisplay[(UNI) xkp ID]:%GOLD%Sallet%NL%%GOLD%R o %TAN%c k %WHITE%s t %TAN%o p %GOLD%p e %TAN%r
+ItemDisplay[(UNI) ukp ID]:%GOLD%Hydraskull%NL%%GOLD%R o %TAN%c k %WHITE%s t %TAN%o p %GOLD%p e %TAN%r
+//
 ItemDisplay[(UNI) xlm IAS>19 FHR>19 MFIND>29 ID]:%GOLD%Casque%NL%%GOLD%S t %TAN%e a %WHITE%l s %TAN%k u %GOLD%l l
 ItemDisplay[(UNI) ulm IAS>19 FHR>19 MFIND>29 ID]:%GOLD%Armet%NL%%GOLD%S t %TAN%e a %WHITE%l s %TAN%k u %GOLD%l l
 ItemDisplay[(UNI) ulm ALLSK>1 FBR>19 ID]:%ORANGE%%CORAL%Armet%NL%%PURPLE%S t %RED%e e %ORANGE%l  %GOLD%S h %WHITE%a d %GOLD%e
+ItemDisplay[(UNI) hlm STAT113>0 ID]:%GOLD%Helm%NL%%GOLD%C o %TAN%i f %WHITE% o %TAN%f  %GOLD%G l %TAN%o r %WHITE%y
+ItemDisplay[(UNI) xlm STAT113>0 ID]:%GOLD%Casque%NL%%GOLD%C o %TAN%i f %WHITE% o %TAN%f  %GOLD%G l %TAN%o r %WHITE%y
+ItemDisplay[(UNI) ulm STAT113>0 ID]:%GOLD%Armet%NL%%GOLD%C o %TAN%i f %WHITE% o %TAN%f  %GOLD%G l %TAN%o r %WHITE%y
+//
 ItemDisplay[(UNI) fhl MAXDMG>9 RES>14 ID]:%GOLD%Full Helm%NL%%GOLD%D u %TAN%s k %WHITE%d e %TAN%e p
 ItemDisplay[(UNI) xhl MAXDMG>9 RES>14 ID]:%GOLD%Basinet%NL%%GOLD%D u %TAN%s k %WHITE%d e %TAN%e p
 ItemDisplay[(UNI) uhl MAXDMG>9 RES>14 ID]:%GOLD%Giant Conch%NL%%GOLD%D u %TAN%s k %WHITE%d e %TAN%e p
 ItemDisplay[(UNI) xhl STAT113>0 ID]:%GOLD%Basinet%NL%%GOLD%D a %TAN%r k %WHITE%s i %TAN%g h %GOLD%t  %TAN%H e %WHITE%l m
 ItemDisplay[(UNI) uhl STAT113>0 ID]:%GOLD%Giant Conch%NL%%GOLD%D a %TAN%r k %WHITE%s i %TAN%g h %GOLD%t  %TAN%H e %WHITE%l m
 ItemDisplay[(UNI) uhl STAT425>0 ID]:%ORANGE%%CORAL%Giant Conch%NL%%PURPLE%O v %RED%e r %ORANGE%l o %GOLD%r d %WHITE%' s %GOLD%  H %RED%e l %PURPLE%m
+
 ItemDisplay[(UNI) msk STAT112>0 ID]:%GOLD%Mask%NL%%GOLD%T h %TAN%e  %WHITE%F a %TAN%c e %GOLD%  o %TAN%f  %WHITE%H o %TAN%r r %GOLD%o r
 ItemDisplay[(UNI) csk STAT112>0 ID]:%GOLD%Death Mask%NL%%GOLD%T h %TAN%e  %WHITE%F a %TAN%c e %GOLD%  o %TAN%f  %WHITE%H o %TAN%r r %GOLD%o r
 ItemDisplay[(UNI) usk STAT112>0 ID]:%GOLD%Demonhead%NL%%GOLD%T h %TAN%e  %WHITE%F a %TAN%c e %GOLD%  o %TAN%f  %WHITE%H o %TAN%r r %GOLD%o r
 ItemDisplay[(UNI) xsk STAT117>0 ID]:%GOLD%Death Mask%NL%%GOLD%B l %TAN%a c %WHITE%k h %TAN%o r %GOLD%n ' %TAN%s  %WHITE%F a %TAN%c e
 ItemDisplay[(UNI) usk STAT117>0 ID]:%GOLD%Demonhead%NL%%GOLD%B l %TAN%a c %WHITE%k h %TAN%o r %GOLD%n ' %TAN%s  %WHITE%F a %TAN%c e
 ItemDisplay[(UNI) csk ALLSK>1 ID]:%ORANGE%%CORAL%Demonhead%NL%%PURPLE%A n %RED%d a %ORANGE%r i %GOLD%e l %WHITE%' s %GOLD%  V %RED%i s %PURPLE%a g %RED%e
+
 ItemDisplay[(UNI) bhm CLSK2>0 ID]:%GOLD%Bone Helm%NL%%GOLD%W o %TAN%r m %WHITE%s k %TAN%u l %GOLD%l
 ItemDisplay[(UNI) xh9 CLSK2>0 ID]:%GOLD%Grim Helm%NL%%GOLD%W o %TAN%r m %WHITE%s k %TAN%u l %GOLD%l
 ItemDisplay[(UNI) uh9 CLSK2>0 ID]:%GOLD%Bone Visage%NL%%GOLD%W o %TAN%r m %WHITE%s k %TAN%u l %GOLD%l
 ItemDisplay[(UNI) xh9 STAT36>14 ID]:%ORANGE%%CORAL%Grim Helm%NL%%PURPLE%V a %RED%m p %ORANGE%i r %GOLD%e  %WHITE%G a %GOLD%z e
 ItemDisplay[(UNI) uh9 STAT36>14 ID]:%ORANGE%%CORAL%Bone Visage%NL%%PURPLE%V a %RED%m p %ORANGE%i r %GOLD%e  %WHITE%G a %GOLD%z e
 ItemDisplay[(UNI) uh9 STAT156>24 ID]:%ORANGE%%CORAL%Bone Visage%NL%%PURPLE%G i %RED%a n %ORANGE%t  %GOLD%S k %WHITE%u l %GOLD%l
+
 ItemDisplay[(UNI) ghm DTM>34 ID]:%GOLD%Great Helm%NL%%GOLD%H o %TAN%w l %WHITE%t u %TAN%s k
 ItemDisplay[(UNI) xhm DTM>34 ID]:%GOLD%Winged Helm%NL%%GOLD%H o %TAN%w l %WHITE%t u %TAN%s k
 ItemDisplay[(UNI) uhm DTM>34 ID]:%GOLD%Spired Helm%NL%%GOLD%H o %TAN%w l %WHITE%t u %TAN%s k
 ItemDisplay[(UNI) xhm CLSK0>0 ID]:%GOLD%Winged Helm%NL%%GOLD%V a %TAN%l k %WHITE%y r %TAN%i e %GOLD%  W %TAN%i n %WHITE%g
 ItemDisplay[(UNI) uhm CLSK0>0 ID]:%GOLD%Spired Helm%NL%%GOLD%V a %TAN%l k %WHITE%y r %TAN%i e %GOLD%  W %TAN%i n %WHITE%g
 ItemDisplay[(UNI) uhm !CLSK0>0 ALLSK>0 STR>14 ID]:%TAN%%CORAL%Spired Helm%NL%%ORANGE%V e %GOLD%i l %TAN%  o %GOLD%f  %ORANGE%S t %WHITE%e e %ORANGE%l
-ItemDisplay[(UNI) chm !CLSK0>0 STAT335>0 DEX>9 STAT149>0 ID]:%TAN%%CORAL%Spired Helm%NL%%ORANGE%N i %GOLD%g h %TAN%t w %GOLD%i n %ORANGE%g ' %WHITE%s  %ORANGE%V e %GOLD%i l
+ItemDisplay[(UNI) uhm !CLSK0>0 STAT335>0 DEX>9 STAT149>0 ID]:%TAN%%CORAL%Spired Helm%NL%%ORANGE%N i %GOLD%g h %TAN%t w %GOLD%i n %ORANGE%g ' %WHITE%s  %ORANGE%V e %GOLD%i l
+
 ItemDisplay[(UNI) crn STAT122>49 ID]:%GOLD%Crown%NL%%GOLD%U n %TAN%d e %WHITE%a d %TAN%  C %GOLD%r o %TAN%w n
 ItemDisplay[(UNI) xrn STAT122>49 ID]:%GOLD%Grand Crown%NL%%GOLD%U n %TAN%d e %WHITE%a d %TAN%  C %GOLD%r o %TAN%w n
 ItemDisplay[(UNI) urn STAT122>49 ID]:%GOLD%Corona%NL%%GOLD%U n %TAN%d e %WHITE%a d %TAN%  C %GOLD%r o %TAN%w n
 ItemDisplay[(UNI) xrn GFIND>79 MFIND>29 ID]:%GOLD%Grand Crown%NL%%GOLD%C r %TAN%o w %WHITE%n  %TAN%o f %GOLD%  T %TAN%h i %WHITE%e v %TAN%e s
 ItemDisplay[(UNI) urn GFIND>79 MFIND>29 ID]:%GOLD%Corona%NL%%GOLD%C r %TAN%o w %WHITE%n  %TAN%o f %GOLD%  T %TAN%h i %WHITE%e v %TAN%e s
 ItemDisplay[(UNI) urn STAT152>0 STAT36>9 RES>19 ID]:%ORANGE%%CORAL%Corona%NL%%PURPLE%C r %RED%o w %ORANGE%n  %GOLD%o f %WHITE% A %GOLD%g e %RED%s
+
 ItemDisplay[(UNI) qui STAT35>2 CRES>19 FRES>19 DEX>9 ID]:%GOLD%Quilted Armor%NL%%GOLD%G r %TAN%e y %WHITE%f o %TAN%r m
 ItemDisplay[(UNI) xui STAT35>2 CRES>19 FRES>19 DEX>9 ID]:%GOLD%Ghost Armor%NL%%GOLD%G r %TAN%e y %WHITE%f o %TAN%r m
 ItemDisplay[(UNI) uui STAT35>2 CRES>19 FRES>19 DEX>9 ID]:%GOLD%Dusk Shroud%NL%%GOLD%G r %TAN%e y %WHITE%f o %TAN%r m
 ItemDisplay[(UNI) xui ALLSK>0 FCR>29 ID]:%GOLD%Ghost Armor%NL%%GOLD%S p %TAN%i r %WHITE%i t %TAN%  S %GOLD%h r %TAN%o u %WHITE%d
 ItemDisplay[(UNI) uui ALLSK>0 FCR>29 ID]:%GOLD%Dusk Shroud%NL%%GOLD%S p %TAN%i r %WHITE%i t %TAN%  S %GOLD%h r %TAN%o u %WHITE%d
 ItemDisplay[(UNI) uui STAT329>0 STAT330>0 STAT331>0 ID]:%TAN%%CORAL%Dusk Shroud%NL%%ORANGE%O r %GOLD%m u %TAN%s ' %GOLD%  R %ORANGE%o b %WHITE%e s
-ItemDisplay[(UNI) cea ID]:%TAN%%CORAL%Serpentskin Armor%NL%%ORANGE%S k %GOLD%i n %TAN% o %GOLD%f  %ORANGE%t h %WHITE%e %ORANGE%V i %GOLD%p e %TAN%r m %GOLD%a g %ORANGE%i
-ItemDisplay[(UNI) cea ID]:%TAN%%CORAL%Wyrmhide%NL%%ORANGE%S k %GOLD%i n %TAN% o %GOLD%f  %ORANGE%t h %WHITE%e %ORANGE%V i %GOLD%p e %TAN%r m %GOLD%a g %ORANGE%i
-ItemDisplay[(UNI) cea FRW>19 FHR>39 (STAT48>0 OR STAT49>0) ID]:%GOLD%Leather Armor%NL%%GOLD%B l %TAN%i n %WHITE%k b %TAN%a t %GOLD%' s %TAN%  F %WHITE%o r %TAN%m
-ItemDisplay[(UNI) cea FRW>19 FHR>39 (STAT48>0 OR STAT49>0) ID]:%GOLD%Serpentskin Armor%NL%%GOLD%B l %TAN%i n %WHITE%k b %TAN%a t %GOLD%' s %TAN%  F %WHITE%o r %TAN%m
-ItemDisplay[(UNI) cea FRW>19 FHR>39 (STAT48>0 OR STAT49>0) ID]:%GOLD%Wyrmhide%NL%%GOLD%B l %TAN%i n %WHITE%k b %TAN%a t %GOLD%' s %TAN%  F %WHITE%o r %TAN%m
+
+ItemDisplay[(UNI) lea FRW>19 FHR>39 (STAT48>0 OR STAT49>0) ID]:%GOLD%Leather Armor%NL%%GOLD%B l %TAN%i n %WHITE%k b %TAN%a t %GOLD%' s %TAN%  F %WHITE%o r %TAN%m
+ItemDisplay[(UNI) xea FRW>19 FHR>39 (STAT48>0 OR STAT49>0) ID]:%GOLD%Serpentskin Armor%NL%%GOLD%B l %TAN%i n %WHITE%k b %TAN%a t %GOLD%' s %TAN%  F %WHITE%o r %TAN%m
+ItemDisplay[(UNI) uea FRW>19 FHR>39 (STAT48>0 OR STAT49>0) ID]:%GOLD%Wyrmhide%NL%%GOLD%B l %TAN%i n %WHITE%k b %TAN%a t %GOLD%' s %TAN%  F %WHITE%o r %TAN%m
+ItemDisplay[(UNI) xea ID]:%TAN%%CORAL%Serpentskin Armor%NL%%ORANGE%S k %GOLD%i n %TAN% o %GOLD%f  %ORANGE%t h %WHITE%e %ORANGE%V i %GOLD%p e %TAN%r m %GOLD%a g %ORANGE%i
+ItemDisplay[(UNI) uea ID]:%TAN%%CORAL%Wyrmhide%NL%%ORANGE%S k %GOLD%i n %TAN% o %GOLD%f  %ORANGE%t h %WHITE%e %ORANGE%V i %GOLD%p e %TAN%r m %GOLD%a g %ORANGE%i
+
 ItemDisplay[(UNI) hla AR>49 ID]:%GOLD%Hard Leather Armor%NL%%GOLD%T h %TAN%e  %WHITE%C e %TAN%n t %GOLD%u r %TAN%i o %WHITE%n
 ItemDisplay[(UNI) xla AR>49 ID]:%GOLD%Demonhide Armor%NL%%GOLD%T h %TAN%e  %WHITE%C e %TAN%n t %GOLD%u r %TAN%i o %WHITE%n
 ItemDisplay[(UNI) ula AR>49 ID]:%GOLD%Scarab Husk%NL%%GOLD%T h %TAN%e  %WHITE%C e %TAN%n t %GOLD%u r %TAN%i o %WHITE%n
-ItemDisplay[(UNI) cla (STAT48>0 OR STAT49>0) ID]:%GOLD%Demonhide Armor%NL%%GOLD%S k %TAN%i n %WHITE% o %TAN%f  %GOLD%t h %TAN%e  %WHITE%F l %TAN%a y %GOLD%e d %TAN%  O %WHITE%n %TAN%e
-ItemDisplay[(UNI) cla (STAT48>0 OR STAT49>0) ID]:%GOLD%Scarab Husk%NL%%GOLD%S k %TAN%i n %WHITE% o %TAN%f  %GOLD%t h %TAN%e  %WHITE%F l %TAN%a y %GOLD%e d %TAN%  O %WHITE%n %TAN%e
+ItemDisplay[(UNI) xla (STAT48>0 OR STAT49>0) ID]:%GOLD%Demonhide Armor%NL%%GOLD%S k %TAN%i n %WHITE% o %TAN%f  %GOLD%t h %TAN%e  %WHITE%F l %TAN%a y %GOLD%e d %TAN%  O %WHITE%n %TAN%e
+ItemDisplay[(UNI) ula (STAT48>0 OR STAT49>0) ID]:%GOLD%Scarab Husk%NL%%GOLD%S k %TAN%i n %WHITE% o %TAN%f  %GOLD%t h %TAN%e  %WHITE%F l %TAN%a y %GOLD%e d %TAN%  O %WHITE%n %TAN%e
+
 ItemDisplay[(UNI) stu IAS>19 FHR>19 ID]:%GOLD%Studded Leather%NL%%GOLD%T w %TAN%i t %WHITE%c h %TAN%t h %GOLD%r o %TAN%e
 ItemDisplay[(UNI) xtu IAS>19 FHR>19 ID]:%GOLD%Trellised Armor%NL%%GOLD%T w %TAN%i t %WHITE%c h %TAN%t h %GOLD%r o %TAN%e
 ItemDisplay[(UNI) utu IAS>19 FHR>19 ID]:%GOLD%Wire Fleece%NL%%GOLD%T w %TAN%i t %WHITE%c h %TAN%t h %GOLD%r o %TAN%e
 ItemDisplay[(UNI) xtu STAT34>14 STAT35>9 LIFE>79 ID]:%GOLD%Trellised Armor%NL%%GOLD%I r %TAN%o n %WHITE% P %TAN%e l %GOLD%t
 ItemDisplay[(UNI) utu STAT34>14 STAT35>9 LIFE>79 ID]:%GOLD%Wire Fleece%NL%%GOLD%I r %TAN%o n %WHITE% P %TAN%e l %GOLD%t
-ItemDisplay[(UNI) ctu FHR>29 STAT34>14 STAT35>14 STAT78>0 ID]:%TAN%%CORAL%Wire Fleece%NL%%ORANGE%T h %GOLD%e  %TAN%G l %GOLD%a d %ORANGE%i a %WHITE%t o %ORANGE%r ' %GOLD%s  %TAN%B a %GOLD%n e
-ItemDisplay[(UNI) xng ID]:%GOLD%Linked Mail%NL%%GOLD%S p %TAN%i r %WHITE%i t %TAN%  F %GOLD%o r %TAN%g e
-ItemDisplay[(UNI) ung ID]:%GOLD%Diamond Mail%NL%%GOLD%S p %TAN%i r %WHITE%i t %TAN%  F %GOLD%o r %TAN%g e
+ItemDisplay[(UNI) utu FHR>29 STAT34>14 STAT35>14 STAT78>0 ID]:%TAN%%CORAL%Wire Fleece%NL%%ORANGE%T h %GOLD%e  %TAN%G l %GOLD%a d %ORANGE%i a %WHITE%t o %ORANGE%r ' %GOLD%s  %TAN%B a %GOLD%n e
+
 ItemDisplay[(UNI) rng AR>59 STAT46>0 STAT40>0 STAT44>0 STAT42>0 ID]:%TAN%%CORAL%Ring Mail%NL%%ORANGE%D a %GOLD%r k %TAN%g l %GOLD%o w
 ItemDisplay[(UNI) xng AR>59 STAT46>0 STAT40>0 STAT44>0 STAT42>0 ID]:%TAN%%CORAL%Linked Mail%NL%%ORANGE%D a %GOLD%r k %TAN%g l %GOLD%o w
 ItemDisplay[(UNI) ung AR>59 STAT46>0 STAT40>0 STAT44>0 STAT42>0 ID]:%TAN%%CORAL%Diamond Mail%NL%%ORANGE%D a %GOLD%r k %TAN%g l %GOLD%o w
-ItemDisplay[(UNI) xcl ID]:%GOLD%Tigulated Mail%NL%%GOLD%C r %TAN%o w %WHITE% C %TAN%a w
-ItemDisplay[(UNI) ucl ID]:%GOLD%Loricated Mail%NL%%GOLD%C r %TAN%o w %WHITE% C %TAN%a w
+ItemDisplay[(UNI) xng ID]:%GOLD%Linked Mail%NL%%GOLD%S p %TAN%i r %WHITE%i t %TAN%  F %GOLD%o r %TAN%g e
+ItemDisplay[(UNI) ung ID]:%GOLD%Diamond Mail%NL%%GOLD%S p %TAN%i r %WHITE%i t %TAN%  F %GOLD%o r %TAN%g e
+
 ItemDisplay[(UNI) scl FRW>24 CRES>14 ID]:%GOLD%Scale Mail%NL%%GOLD%H a %TAN%w k %WHITE%m a %TAN%i l
 ItemDisplay[(UNI) xcl FRW>24 CRES>14 ID]:%GOLD%Tigulated Mail%NL%%GOLD%H a %TAN%w k %WHITE%m a %TAN%i l
 ItemDisplay[(UNI) ucl FRW>24 CRES>14 ID]:%GOLD%Loricated Mail%NL%%GOLD%H a %TAN%w k %WHITE%m a %TAN%i l
-ItemDisplay[(UNI) xhn ID]:%TAN%%CORAL%Mesh Armor%NL%%ORANGE%S h %GOLD%a f %TAN%t s %GOLD%t o %ORANGE%p
-ItemDisplay[(UNI) uhn ID]:%TAN%%CORAL%Boneweave%NL%%ORANGE%S h %GOLD%a f %TAN%t s %GOLD%t o %ORANGE%p
+ItemDisplay[(UNI) xcl ID]:%GOLD%Tigulated Mail%NL%%GOLD%C r %TAN%o w %WHITE% C %TAN%a w
+ItemDisplay[(UNI) ucl ID]:%GOLD%Loricated Mail%NL%%GOLD%C r %TAN%o w %WHITE% C %TAN%a w
+
 ItemDisplay[(UNI) chn STAT330>0 (STAT50>0 OR STAT51>0) ID]:%GOLD%Chain Mail%NL%%GOLD%S p %TAN%a r %WHITE%k i %TAN%n g %GOLD%  M %TAN%a i %WHITE%l
 ItemDisplay[(UNI) xhn STAT330>0 (STAT50>0 OR STAT51>0) ID]:%GOLD%Mesh Armor%NL%%GOLD%S p %TAN%a r %WHITE%k i %TAN%n g %GOLD%  M %TAN%a i %WHITE%l
 ItemDisplay[(UNI) uhn STAT330>0 (STAT50>0 OR STAT51>0) ID]:%GOLD%Boneweave%NL%%GOLD%S p %TAN%a r %WHITE%k i %TAN%n g %GOLD%  M %TAN%a i %WHITE%l
-ItemDisplay[(UNI) xrs ID]:%GOLD%Cuirass%NL%%GOLD%D u %TAN%r i %WHITE%e l %TAN%' s %GOLD%  S %TAN%h e %WHITE%l l
-ItemDisplay[(UNI) urs ID]:%GOLD%Great Hauberk%NL%%GOLD%D u %TAN%r i %WHITE%e l %TAN%' s %GOLD%  S %TAN%h e %WHITE%l l
+ItemDisplay[(UNI) xhn ID]:%TAN%%CORAL%Mesh Armor%NL%%ORANGE%S h %GOLD%a f %TAN%t s %GOLD%t o %ORANGE%p
+ItemDisplay[(UNI) uhn ID]:%TAN%%CORAL%Boneweave%NL%%ORANGE%S h %GOLD%a f %TAN%t s %GOLD%t o %ORANGE%p
+
 ItemDisplay[(UNI) brs STAT336>0 STAT46>9 ID]:%GOLD%Breast Plate%NL%%GOLD%V e %TAN%n o %WHITE%m  %TAN%W a %GOLD%r d
 ItemDisplay[(UNI) xrs STAT336>0 STAT46>9 ID]:%GOLD%Cuirass%NL%%GOLD%V e %TAN%n o %WHITE%m  %TAN%W a %GOLD%r d
 ItemDisplay[(UNI) urs STAT336>0 STAT46>9 ID]:%GOLD%Great Hauberk%NL%%GOLD%V e %TAN%n o %WHITE%m  %TAN%W a %GOLD%r d
-ItemDisplay[(UNI) upl ID]:%TAN%%CORAL%Balrog Skin%NL%%ORANGE%A r %GOLD%k a %TAN%i n %GOLD%e ' %ORANGE%s  %WHITE%V a %ORANGE%l o %GOLD%r
+ItemDisplay[(UNI) xrs ID]:%GOLD%Cuirass%NL%%GOLD%D u %TAN%r i %WHITE%e l %TAN%' s %GOLD%  S %TAN%h e %WHITE%l l
+ItemDisplay[(UNI) urs ID]:%GOLD%Great Hauberk%NL%%GOLD%D u %TAN%r i %WHITE%e l %TAN%' s %GOLD%  S %TAN%h e %WHITE%l l
+
 ItemDisplay[(UNI) spl STAT362>0 ID]:%GOLD%Splint Mail%NL%%GOLD%I c %TAN%e b %WHITE%l i %TAN%n k
 ItemDisplay[(UNI) xpl STAT362>0 ID]:%GOLD%Russet Armor%NL%%GOLD%I c %TAN%e b %WHITE%l i %TAN%n k
 ItemDisplay[(UNI) upl STAT362>0 ID]:%GOLD%Balrog Skin%NL%%GOLD%I c %TAN%e b %WHITE%l i %TAN%n k
 ItemDisplay[(UNI) xpl ALLSK>0 STAT240>0 ID]:%GOLD%Russet Armor%NL%%GOLD%S k %TAN%u l %WHITE%l d %TAN%e r %GOLD%' s %TAN%  I %WHITE%r e
 ItemDisplay[(UNI) upl ALLSK>0 STAT240>0 ID]:%GOLD%Balrog Skin%NL%%GOLD%S k %TAN%u l %WHITE%l d %TAN%e r %GOLD%' s %TAN%  I %WHITE%r e
+ItemDisplay[(UNI) upl ID]:%TAN%%CORAL%Balrog Skin%NL%%ORANGE%A r %GOLD%k a %TAN%i n %GOLD%e ' %ORANGE%s  %WHITE%V a %ORANGE%l o %GOLD%r
+
+ItemDisplay[(UNI) xlt CLSK3>0 ID]:%TAN%%CORAL%Templar Coat%NL%%ORANGE%G u %GOLD%a r %TAN%d i %GOLD%a n %ORANGE%  A %WHITE%n g %ORANGE%e l
+ItemDisplay[(UNI) ult CLSK3>0 ID]:%TAN%%CORAL%Hellforge Plate%NL%%ORANGE%G u %GOLD%a r %TAN%d i %GOLD%a n %ORANGE%  A %WHITE%n g %ORANGE%e l
 ItemDisplay[(UNI) plt ID]:%GOLD%Plate Mail%NL%%GOLD%B o %TAN%n e %WHITE%f l %TAN%e s %GOLD%h
 ItemDisplay[(UNI) xlt ID]:%GOLD%Templar Coat%NL%%GOLD%B o %TAN%n e %WHITE%f l %TAN%e s %GOLD%h
 ItemDisplay[(UNI) ult ID]:%GOLD%Hellforge Plate%NL%%GOLD%B o %TAN%n e %WHITE%f l %TAN%e s %GOLD%h
-ItemDisplay[(UNI) xlt CLSK3>0 ID]:%TAN%%CORAL%Templar Coat%NL%%ORANGE%G u %GOLD%a r %TAN%d i %GOLD%a n %ORANGE%  A %WHITE%n g %ORANGE%e l
-ItemDisplay[(UNI) ult CLSK3>0 ID]:%TAN%%CORAL%Hellforge Plate%NL%%ORANGE%G u %GOLD%a r %TAN%d i %GOLD%a n %ORANGE%  A %WHITE%n g %ORANGE%e l
+
 ItemDisplay[(UNI) fld STR>9 STAT34>0 STAT36>0 STAT91>0 ID]:%GOLD%Field Plate%NL%%GOLD%R o %TAN%c k %WHITE%f l %TAN%e e %GOLD%c e
 ItemDisplay[(UNI) xld STR>9 STAT34>0 STAT36>0 STAT91>0 ID]:%GOLD%Sharktooth Armor%NL%%GOLD%R o %TAN%c k %WHITE%f l %TAN%e e %GOLD%c e
 ItemDisplay[(UNI) uld STR>9 STAT34>0 STAT36>0 STAT91>0 ID]:%GOLD%Kraken Shell%NL%%GOLD%R o %TAN%c k %WHITE%f l %TAN%e e %GOLD%c e
 ItemDisplay[(UNI) xld STAT141>24 STAT135>39 ID]:%GOLD%Sharktooth Armor%NL%%GOLD%T o %TAN%o t %WHITE%h r %TAN%o w
 ItemDisplay[(UNI) uld STAT141>24 STAT135>39 ID]:%GOLD%Kraken Shell%NL%%GOLD%T o %TAN%o t %WHITE%h r %TAN%o w
 ItemDisplay[(UNI) uld STR>39 STAT152>0 STAT36>19 ID]:%TAN%%CORAL%Kraken Shell%NL%%ORANGE%L e %GOLD%v i %TAN%a t %GOLD%h a %ORANGE%n
+
 ItemDisplay[(UNI) gth AR>99 STAT112>0 ID]:%GOLD%Gothic Plate%NL%%GOLD%R a %TAN%t t %WHITE%l e %TAN%c a %GOLD%g e
 ItemDisplay[(UNI) xth AR>99 STAT112>0 ID]:%GOLD%Embossed Plate%NL%%GOLD%R a %TAN%t t %WHITE%l e %TAN%c a %GOLD%g e
 ItemDisplay[(UNI) uth AR>99 STAT112>0 ID]:%GOLD%Lacquered Plate%NL%%GOLD%R a %TAN%t t %WHITE%l e %TAN%c a %GOLD%g e
 ItemDisplay[(UNI) xth ALLSK>0 FCR>29 FHR>29 DEX>14 STAT77>14 ID]:%ORANGE%%CORAL%Embossed Plate%NL%%PURPLE%A t %RED%m a %ORANGE%' s %GOLD%  W %WHITE%a i %GOLD%l
 ItemDisplay[(UNI) uth ALLSK>0 FCR>29 FHR>29 DEX>14 STAT77>14 ID]:%ORANGE%%CORAL%Lacquered Plate%NL%%PURPLE%A t %RED%m a %ORANGE%' s %GOLD%  W %WHITE%a i %GOLD%l
 ItemDisplay[(UNI) uth ALLSK>1 FCR>49 CRES>39 MAEK>4 STAT91>0 ID]:%ORANGE%%CORAL%Lacquered Plate%NL%%PURPLE%D a %RED%r k %ORANGE%  A %GOLD%b y %WHITE%s s
+
 ItemDisplay[(UNI) ltp STAT366>0 ID]:%TAN%%CORAL%Light Plate%NL%%ORANGE%H e %GOLD%a v %TAN%e n %GOLD%l y %ORANGE%  G %WHITE%a r %ORANGE%b
 ItemDisplay[(UNI) xtp STAT366>0 ID]:%TAN%%CORAL%Mage Plate%NL%%ORANGE%H e %GOLD%a v %TAN%e n %GOLD%l y %ORANGE%  G %WHITE%a r %ORANGE%b
 ItemDisplay[(UNI) utp STAT366>0 ID]:%TAN%%CORAL%Archon Plate%NL%%ORANGE%H e %GOLD%a v %TAN%e n %GOLD%l y %ORANGE%  G %WHITE%a r %ORANGE%b
-ItemDisplay[(UNI) ctp ALLSK>0 FCR>19 FHR>19 MAEK>2 ID]:%TAN%%CORAL%Mage Plate%NL%%ORANGE%Q u %GOLD%e - %TAN%H e %GOLD%g a %ORANGE%n ' %WHITE%s  %ORANGE%W i %GOLD%s d %TAN%o m
-ItemDisplay[(UNI) ctp ALLSK>0 FCR>19 FHR>19 MAEK>2 ID]:%TAN%%CORAL%Archon Plate%NL%%ORANGE%Q u %GOLD%e - %TAN%H e %GOLD%g a %ORANGE%n ' %WHITE%s  %ORANGE%W i %GOLD%s d %TAN%o m
+ItemDisplay[(UNI) xtp ALLSK>0 FCR>19 FHR>19 MAEK>2 ID]:%TAN%%CORAL%Mage Plate%NL%%ORANGE%Q u %GOLD%e - %TAN%H e %GOLD%g a %ORANGE%n ' %WHITE%s  %ORANGE%W i %GOLD%s d %TAN%o m
+ItemDisplay[(UNI) utp ALLSK>0 FCR>19 FHR>19 MAEK>2 ID]:%TAN%%CORAL%Archon Plate%NL%%ORANGE%Q u %GOLD%e - %TAN%H e %GOLD%g a %ORANGE%n ' %WHITE%s  %ORANGE%W i %GOLD%s d %TAN%o m
 ItemDisplay[(UNI) utp FBR>19 MFIND>39 ID]:%ORANGE%%CORAL%Archon Plate%NL%%PURPLE%P u %RED%r g %ORANGE%a t %GOLD%o r %WHITE%y
+
 ItemDisplay[(UNI) ful GFIND>99 RES>34 ID]:%GOLD%Full Plate Mail%NL%%GOLD%G o %TAN%l d %WHITE%s k %TAN%i n
 ItemDisplay[(UNI) xul GFIND>99 RES>34 ID]:%GOLD%Chaos Armor%NL%%GOLD%G o %TAN%l d %WHITE%s k %TAN%i n
 ItemDisplay[(UNI) uul GFIND>99 RES>34 ID]:%GOLD%Shadow Plate%NL%%GOLD%G o %TAN%l d %WHITE%s k %TAN%i n
 ItemDisplay[(UNI) xul STAT121>159 STAT118>0 ID]:%TAN%%CORAL%Chaos Armor%NL%%ORANGE%B l %GOLD%a c %TAN%k  %GOLD%H a %ORANGE%d e %WHITE%s
 ItemDisplay[(UNI) uul STAT121>159 STAT118>0 ID]:%TAN%%CORAL%Shadow Plate%NL%%ORANGE%B l %GOLD%a c %TAN%k  %GOLD%H a %ORANGE%d e %WHITE%s
 ItemDisplay[(UNI) uul ALLSK>0 FHR>39 CRES>39 ID]:%ORANGE%%CORAL%Shadow Plate%NL%%PURPLE%S t %RED%e e %ORANGE%l  %GOLD%C a %WHITE%r a %GOLD%p a %RED%c e
-ItemDisplay[(UNI) car ALLSK>0 FRW>24 STAT62>1 STAT86>1 ID]:%GOLD%Ancient Armor%NL%%GOLD%S i %TAN%l k %WHITE%s  %TAN%o f %GOLD%  t %TAN%h e %WHITE% V %TAN%i c %GOLD%t o %TAN%r
-ItemDisplay[(UNI) car ALLSK>0 FRW>24 STAT62>1 STAT86>1 ID]:%GOLD%Ornate Plate%NL%%GOLD%S i %TAN%l k %WHITE%s  %TAN%o f %GOLD%  t %TAN%h e %WHITE% V %TAN%i c %GOLD%t o %TAN%r
-ItemDisplay[(UNI) car ALLSK>0 FRW>24 STAT62>1 STAT86>1 ID]:%GOLD%Sacred Armor%NL%%GOLD%S i %TAN%l k %WHITE%s  %TAN%o f %GOLD%  t %TAN%h e %WHITE% V %TAN%i c %GOLD%t o %TAN%r
+
+ItemDisplay[(UNI) aar ALLSK>0 FRW>24 STAT62>1 STAT86>1 ID]:%GOLD%Ancient Armor%NL%%GOLD%S i %TAN%l k %WHITE%s  %TAN%o f %GOLD%  t %TAN%h e %WHITE% V %TAN%i c %GOLD%t o %TAN%r
+ItemDisplay[(UNI) xar ALLSK>0 FRW>24 STAT62>1 STAT86>1 ID]:%GOLD%Ornate Plate%NL%%GOLD%S i %TAN%l k %WHITE%s  %TAN%o f %GOLD%  t %TAN%h e %WHITE% V %TAN%i c %GOLD%t o %TAN%r
+ItemDisplay[(UNI) uar ALLSK>0 FRW>24 STAT62>1 STAT86>1 ID]:%GOLD%Sacred Armor%NL%%GOLD%S i %TAN%l k %WHITE%s  %TAN%o f %GOLD%  t %TAN%h e %WHITE% V %TAN%i c %GOLD%t o %TAN%r
 ItemDisplay[(UNI) xar (STAT48>0 OR STAT49>0) CRES>34 ID]:%TAN%%CORAL%Ornate Plate%NL%%ORANGE%C o %GOLD%r p %TAN%s e %GOLD%m o %ORANGE%u r %WHITE%n
 ItemDisplay[(UNI) uar (STAT48>0 OR STAT49>0) CRES>34 ID]:%TAN%%CORAL%Sacred Armor%NL%%ORANGE%C o %GOLD%r p %TAN%s e %GOLD%m o %ORANGE%u r %WHITE%n
 ItemDisplay[(UNI) uar STR>19 STAT32>0 ID]:%ORANGE%%CORAL%Sacred Armor%NL%%PURPLE%T e %RED%m p %ORANGE%l a %GOLD%r ' %WHITE%s  %GOLD%M i %RED%g h %PURPLE%t
 ItemDisplay[(UNI) uar STAT153>0 RES>19 FRW>0 ID]:%ORANGE%%CORAL%Sacred Armor%NL%%PURPLE%T y %RED%r a %ORANGE%e l %GOLD%' s %WHITE% M %GOLD%i g %RED%h t
+
+ItemDisplay[(UNI) xuc CLSK1>0 ID]:%GOLD%Defender%NL%%GOLD%V i %TAN%s c %WHITE%e r %TAN%a t %GOLD%u a %TAN%n t
+ItemDisplay[(UNI) uuc CLSK1>0 ID]:%GOLD%Heater%NL%%GOLD%V i %TAN%s c %WHITE%e r %TAN%a t %GOLD%u a %TAN%n t
 ItemDisplay[(UNI) buc ID]:%GOLD%Buckler%NL%%GOLD%P e %TAN%l t %WHITE%a  %TAN%L u %GOLD%n a %TAN%t a
 ItemDisplay[(UNI) xuc ID]:%GOLD%Defender%NL%%GOLD%P e %TAN%l t %WHITE%a  %TAN%L u %GOLD%n a %TAN%t a
 ItemDisplay[(UNI) uuc ID]:%GOLD%Heater%NL%%GOLD%P e %TAN%l t %WHITE%a  %TAN%L u %GOLD%n a %TAN%t a
-ItemDisplay[(UNI) xuc CLSK1>0 ID]:%GOLD%Defender%NL%%GOLD%V i %TAN%s c %WHITE%e r %TAN%a t %GOLD%u a %TAN%n t
-ItemDisplay[(UNI) uuc CLSK1>0 ID]:%GOLD%Heater%NL%%GOLD%V i %TAN%s c %WHITE%e r %TAN%a t %GOLD%u a %TAN%n t
+
 ItemDisplay[(UNI) sml STAT113>0 ID]:%GOLD%Small Shield%NL%%GOLD%U m %TAN%b r %WHITE%a l %TAN%  D %GOLD%i s %TAN%k
 ItemDisplay[(UNI) xml STAT113>0 ID]:%GOLD%Round Shield%NL%%GOLD%U m %TAN%b r %WHITE%a l %TAN%  D %GOLD%i s %TAN%k
 ItemDisplay[(UNI) uml STAT113>0 ID]:%GOLD%Luna%NL%%GOLD%U m %TAN%b r %WHITE%a l %TAN%  D %GOLD%i s %TAN%k
-ItemDisplay[(UNI) cml FBR>29 STAT20>24 RES>24 SOCK=2 ID]:%GOLD%Round Shield%NL%%GOLD%M o %TAN%s e %WHITE%r ' %TAN%s  %GOLD%B l %TAN%e s %WHITE%s e %TAN%d  %GOLD%C i %TAN%r c %WHITE%l %TAN%e
-ItemDisplay[(UNI) cml FBR>29 STAT20>24 RES>24 SOCK=2 ID]:%GOLD%Luna%NL%%GOLD%M o %TAN%s e %WHITE%r ' %TAN%s  %GOLD%B l %TAN%e s %WHITE%s e %TAN%d  %GOLD%C i %TAN%r c %WHITE%l %TAN%e
+ItemDisplay[(UNI) xml FBR>29 STAT20>24 RES>24 SOCK=2 ID]:%GOLD%Round Shield%NL%%GOLD%M o %TAN%s e %WHITE%r ' %TAN%s  %GOLD%B l %TAN%e s %WHITE%s e %TAN%d  %GOLD%C i %TAN%r c %WHITE%l %TAN%e
+ItemDisplay[(UNI) uml FBR>29 STAT20>24 RES>24 SOCK=2 ID]:%GOLD%Luna%NL%%GOLD%M o %TAN%s e %WHITE%r ' %TAN%s  %GOLD%B l %TAN%e s %WHITE%s e %TAN%d  %GOLD%C i %TAN%r c %WHITE%l %TAN%e
 ItemDisplay[(UNI) uml STAT335>0 ID]:%GOLD%Luna%NL%%GOLD%B l %TAN%a c %WHITE%k o %TAN%a k %GOLD%  S %TAN%h i %WHITE%e l %TAN%d
+
+ItemDisplay[(UNI) xrg FRW>0 STAT153>0 ID]:%GOLD%Scutum%NL%%GOLD%S t %TAN%o r %WHITE%m c %TAN%h a %GOLD%s e %TAN%r
+ItemDisplay[(UNI) urg FRW>0 STAT153>0 ID]:%GOLD%Hyperion%NL%%GOLD%S t %TAN%o r %WHITE%m c %TAN%h a %GOLD%s e %TAN%r
 ItemDisplay[(UNI) lrg ID]:%GOLD%Large Shield%NL%%GOLD%S t %TAN%o r %WHITE%m g %TAN%u i %GOLD%l d
 ItemDisplay[(UNI) xrg ID]:%GOLD%Scutum%NL%%GOLD%S t %TAN%o r %WHITE%m g %TAN%u i %GOLD%l d
 ItemDisplay[(UNI) urg ID]:%GOLD%Hyperion%NL%%GOLD%S t %TAN%o r %WHITE%m g %TAN%u i %GOLD%l d
-ItemDisplay[(UNI) xrg FRW>0 STAT153>0 ID]:%GOLD%Scutum%NL%%GOLD%S t %TAN%o r %WHITE%m c %TAN%h a %GOLD%s e %TAN%r
-ItemDisplay[(UNI) urg FRW>0 STAT153>0 ID]:%GOLD%Hyperion%NL%%GOLD%S t %TAN%o r %WHITE%m c %TAN%h a %GOLD%s e %TAN%r
-ItemDisplay[(UNI) upk ID]:%GOLD%Blade Barrier%NL%%GOLD%S p %TAN%i k %WHITE%e  %TAN%T h %GOLD%o r %TAN%n
+
 ItemDisplay[(UNI) spk STAT78>24 STAT135>49 ID]:%GOLD%Spiked Shield%NL%%GOLD%S w %TAN%o r %WHITE%d b %TAN%a c %GOLD%k  %TAN%H o %WHITE%l d
 ItemDisplay[(UNI) xpk STAT78>24 STAT135>49 ID]:%GOLD%Barbed Shield%NL%%GOLD%S w %TAN%o r %WHITE%d b %TAN%a c %GOLD%k  %TAN%H o %WHITE%l d
 ItemDisplay[(UNI) upk STAT78>24 STAT135>49 ID]:%GOLD%Blade Barrier%NL%%GOLD%S w %TAN%o r %WHITE%d b %TAN%a c %GOLD%k  %TAN%H o %WHITE%l d
 ItemDisplay[(UNI) xpk STAT216>0 ID]:%GOLD%Barbed Shield%NL%%GOLD%L a %TAN%n c %WHITE%e  %TAN%G u %GOLD%a r %TAN%d
 ItemDisplay[(UNI) upk STAT216>0 ID]:%GOLD%Blade Barrier%NL%%GOLD%L a %TAN%n c %WHITE%e  %TAN%G u %GOLD%a r %TAN%d
-ItemDisplay[(UNI) kit ID]:%GOLD%Kite Shield%NL%%GOLD%S t %TAN%e e %WHITE%l c %TAN%l a %GOLD%s h
+ItemDisplay[(UNI) upk ID]:%GOLD%Blade Barrier%NL%%GOLD%S p %TAN%i k %WHITE%e  %TAN%T h %GOLD%o r %TAN%n
+
 ItemDisplay[(UNI) xit ALLSK>0 FBR>19 RES>4 STAT20>0 ID]:%GOLD%Dragon Shield%NL%%GOLD%S t %TAN%e e %WHITE%l c %TAN%l a %GOLD%s h
 ItemDisplay[(UNI) uit ALLSK>0 FBR>19 RES>4 STAT20>0 ID]:%GOLD%Monarch%NL%%GOLD%S t %TAN%e e %WHITE%l c %TAN%l a %GOLD%s h
-ItemDisplay[(UNI) cit (STAT48>0 OR STAT49>0) (STAT50>0 OR STAT51>0) ID]:%GOLD%Dragon Shield%NL%%GOLD%T i %TAN%a m %WHITE%a t %TAN%' s %GOLD%  R %TAN%e b %WHITE%u k %TAN%e
-ItemDisplay[(UNI) cit (STAT48>0 OR STAT49>0) (STAT50>0 OR STAT51>0) ID]:%GOLD%Monarch%NL%%GOLD%T i %TAN%a m %WHITE%a t %TAN%' s %GOLD%  R %TAN%e b %WHITE%u k %TAN%e
+ItemDisplay[(UNI) xit (STAT48>0 OR STAT49>0) (STAT50>0 OR STAT51>0) ID]:%GOLD%Dragon Shield%NL%%GOLD%T i %TAN%a m %WHITE%a t %TAN%' s %GOLD%  R %TAN%e b %WHITE%u k %TAN%e
+ItemDisplay[(UNI) uit (STAT48>0 OR STAT49>0) (STAT50>0 OR STAT51>0) ID]:%GOLD%Monarch%NL%%GOLD%T i %TAN%a m %WHITE%a t %TAN%' s %GOLD%  R %TAN%e b %WHITE%u k %TAN%e
 ItemDisplay[(UNI) uit STAT152>0 STAT36>19 ID]:%ORANGE%%CORAL%Monarch%NL%%PURPLE%S t %RED%o r %ORANGE%m s %GOLD%h i %WHITE%e l %GOLD%d
-ItemDisplay[(UNI) csh ID]:%GOLD%Bone Shield%NL%%GOLD%W a %TAN%l l %WHITE% o %TAN%f  %GOLD%t h %TAN%e  %WHITE%E y %TAN%e l %GOLD%e s %TAN%s
-ItemDisplay[(UNI) csh FCR>19 STAT62>2 CRES>19 FRES>19 PRES>19 ID]:%GOLD%Grim Shield%NL%%GOLD%W a %TAN%l l %WHITE% o %TAN%f  %GOLD%t h %TAN%e  %WHITE%E y %TAN%e l %GOLD%e s %TAN%s
-ItemDisplay[(UNI) csh FCR>19 STAT62>2 CRES>19 FRES>19 PRES>19 ID]:%GOLD%Troll Nest%NL%%GOLD%W a %TAN%l l %WHITE% o %TAN%f  %GOLD%t h %TAN%e  %WHITE%E y %TAN%e l %GOLD%e s %TAN%s
+ItemDisplay[(UNI) kit ID]:%GOLD%Kite Shield%NL%%GOLD%S t %TAN%e e %WHITE%l c %TAN%l a %GOLD%s h
+
+ItemDisplay[(UNI) xsh FCR>19 STAT62>2 CRES>19 FRES>19 PRES>19 ID]:%GOLD%Grim Shield%NL%%GOLD%W a %TAN%l l %WHITE% o %TAN%f  %GOLD%t h %TAN%e  %WHITE%E y %TAN%e l %GOLD%e s %TAN%s
+ItemDisplay[(UNI) ush FCR>19 STAT62>2 CRES>19 FRES>19 PRES>19 ID]:%GOLD%Troll Nest%NL%%GOLD%W a %TAN%l l %WHITE% o %TAN%f  %GOLD%t h %TAN%e  %WHITE%E y %TAN%e l %GOLD%e s %TAN%s
 ItemDisplay[(UNI) xsh ALLSK>0 FCR>19 STAT77>9 MAEK>3 ID]:%GOLD%Grim Shield%NL%%GOLD%L i %TAN%d l %WHITE%e s %TAN%s  %GOLD%W a %TAN%l l
 ItemDisplay[(UNI) ush ALLSK>0 FCR>19 STAT77>9 MAEK>3 ID]:%GOLD%Troll Nest%NL%%GOLD%L i %TAN%d l %WHITE%e s %TAN%s  %GOLD%W a %TAN%l l
-ItemDisplay[(UNI) csh FRW>24 STAT86>4 ID]:%ORANGE%%CORAL%Troll Nest%NL%%PURPLE%H e %RED%a d %ORANGE%  H %GOLD%u n %WHITE%t e %GOLD%r ' %RED%s  %PURPLE%G l %RED%o r %ORANGE%y
-ItemDisplay[(UNI) tow ID]:%GOLD%Tower Shield%NL%%GOLD%B v %TAN%e r %WHITE%r i %TAN%t  %GOLD%K e %TAN%e p
+ItemDisplay[(UNI) ush FRW>24 STAT86>4 ID]:%ORANGE%%CORAL%Troll Nest%NL%%PURPLE%H e %RED%a d %ORANGE%  H %GOLD%u n %WHITE%t e %GOLD%r ' %RED%s  %PURPLE%G l %RED%o r %ORANGE%y
+ItemDisplay[(UNI) bsh ID]:%GOLD%Bone Shield%NL%%GOLD%W a %TAN%l l %WHITE% o %TAN%f  %GOLD%t h %TAN%e  %WHITE%E y %TAN%e l %GOLD%e s %TAN%s
+
 ItemDisplay[(UNI) xow STAT20>0 STR>4 FRES>29 STAT36>0 ID]:%GOLD%Pavise%NL%%GOLD%B v %TAN%e r %WHITE%r i %TAN%t  %GOLD%K e %TAN%e p
 ItemDisplay[(UNI) uow STAT20>0 STR>4 FRES>29 STAT36>0 ID]:%GOLD%Aegis%NL%%GOLD%B v %TAN%e r %WHITE%r i %TAN%t  %GOLD%K e %TAN%e p
-ItemDisplay[(UNI) cow ALLSK>0 FBR>19 RES>19 REPLIFE>24 ID]:%TAN%%CORAL%Pavise%NL%%ORANGE%G e %GOLD%r k %TAN%e ' %GOLD%s  %ORANGE%S a %WHITE%n c %ORANGE%t u %GOLD%a r %TAN%y
-ItemDisplay[(UNI) cow ALLSK>0 FBR>19 RES>19 REPLIFE>24 ID]:%TAN%%CORAL%Aegis%NL%%ORANGE%G e %GOLD%r k %TAN%e ' %GOLD%s  %ORANGE%S a %WHITE%n c %ORANGE%t u %GOLD%a r %TAN%y
+ItemDisplay[(UNI) xow ALLSK>0 FBR>19 RES>19 REPLIFE>24 ID]:%TAN%%CORAL%Pavise%NL%%ORANGE%G e %GOLD%r k %TAN%e ' %GOLD%s  %ORANGE%S a %WHITE%n c %ORANGE%t u %GOLD%a r %TAN%y
+ItemDisplay[(UNI) uow ALLSK>0 FBR>19 RES>19 REPLIFE>24 ID]:%TAN%%CORAL%Aegis%NL%%ORANGE%G e %GOLD%r k %TAN%e ' %GOLD%s  %ORANGE%S a %WHITE%n c %ORANGE%t u %GOLD%a r %TAN%y
 ItemDisplay[(UNI) uow STAT362>0 ID]:%TAN%%CORAL%Aegis%NL%%ORANGE%M e %GOLD%d u %TAN%s a %GOLD%' s %ORANGE%  G %WHITE%a z %ORANGE%e
+ItemDisplay[(UNI) tow ID]:%GOLD%Tower Shield%NL%%GOLD%B v %TAN%e r %WHITE%r i %TAN%t  %GOLD%K e %TAN%e p
+
+ItemDisplay[(UNI) uts STAT149>0 ID]:%ORANGE%%CORAL%Ward%NL%%PURPLE%S p %RED%i r %ORANGE%i t %GOLD%  W %WHITE%a r %GOLD%d
+ItemDisplay[(UNI) uts STAT365>0 ID]:%GOLD%Ward%NL%%GOLD%R a %TAN%d a %WHITE%m e %TAN%n t %GOLD%' s %TAN%  S %WHITE%p h %TAN%e r %GOLD%e
+ItemDisplay[(UNI) gts STAT365>0 ID]:%GOLD%Ancient Shield%NL%%GOLD%R a %TAN%d a %WHITE%m e %TAN%n t %GOLD%' s %TAN%  S %WHITE%p h %TAN%e r %GOLD%e
 ItemDisplay[(UNI) gts ID]:%GOLD%Gothic Shield%NL%%GOLD%T h %TAN%e  %WHITE%W a %TAN%r d
 ItemDisplay[(UNI) xts ID]:%GOLD%Ancient Shield%NL%%GOLD%T h %TAN%e  %WHITE%W a %TAN%r d
 ItemDisplay[(UNI) uts ID]:%GOLD%Ward%NL%%GOLD%T h %TAN%e  %WHITE%W a %TAN%r d
-ItemDisplay[(UNI) uts STAT149>0 ID]:%ORANGE%%CORAL%Ward%NL%%PURPLE%S p %RED%i r %ORANGE%i t %GOLD%  W %WHITE%a r %GOLD%d
-ItemDisplay[(UNI) cts STAT365>0 ID]:%GOLD%Ward%NL%%GOLD%R a %TAN%d a %WHITE%m e %TAN%n t %GOLD%' s %TAN%  S %WHITE%p h %TAN%e r %GOLD%e
-ItemDisplay[(UNI) cts STAT365>0 ID]:%GOLD%Ancient Shield%NL%%GOLD%R a %TAN%d a %WHITE%m e %TAN%n t %GOLD%' s %TAN%  S %WHITE%p h %TAN%e r %GOLD%e
+
+ItemDisplay[(UNI) xlg STAT332>0 ID]:%GOLD%Demonhide Gloves%NL%%GOLD%V e %TAN%n o %WHITE%m  %TAN%G r %GOLD%i p
+ItemDisplay[(UNI) ulg STAT332>0 ID]:%GOLD%Bramble Mitts%NL%%GOLD%V e %TAN%n o %WHITE%m  %TAN%G r %GOLD%i p
 ItemDisplay[(UNI) lgl ID]:%GOLD%Leather Gloves%NL%%GOLD%T h %TAN%e  %WHITE%H a %TAN%n d %GOLD%  o %TAN%f  %WHITE%B r %TAN%o c
 ItemDisplay[(UNI) xlg ID]:%GOLD%Demonhide Gloves%NL%%GOLD%T h %TAN%e  %WHITE%H a %TAN%n d %GOLD%  o %TAN%f  %WHITE%B r %TAN%o c
 ItemDisplay[(UNI) ulg ID]:%GOLD%Bramble Mitts%NL%%GOLD%T h %TAN%e  %WHITE%H a %TAN%n d %GOLD%  o %TAN%f  %WHITE%B r %TAN%o c
-ItemDisplay[(UNI) xlg STAT332>0 ID]:%GOLD%Demonhide Gloves%NL%%GOLD%V e %TAN%n o %WHITE%m  %TAN%G r %GOLD%i p
-ItemDisplay[(UNI) ulg STAT332>0 ID]:%GOLD%Bramble Mitts%NL%%GOLD%V e %TAN%n o %WHITE%m  %TAN%G r %GOLD%i p
 //
 ItemDisplay[(UNI) uvg STAT135>0 STAT86>0 ID]:%ORANGE%%CORAL%Vampirebone Gloves%NL%%PURPLE%D r %RED%a c %ORANGE%u l %GOLD%' s %WHITE% G %GOLD%r a %RED%s p
 ItemDisplay[(UNI) vgl ID]:%GOLD%Heavy Gloves%NL%%GOLD%B l %TAN%o o %WHITE%d f %TAN%i s %GOLD%t
@@ -2233,511 +2264,609 @@ ItemDisplay[(UNI) uvg ID]:%GOLD%Vampirebone Gloves%NL%%GOLD%B l %TAN%o o %WHITE%
 //
 ItemDisplay[(UNI) xvg TABSK18>0 ID]:%GOLD%Sharkskin Gloves%NL%%GOLD%G r %TAN%a v %WHITE%e p %TAN%a l %GOLD%m
 ItemDisplay[(UNI) uvg TABSK18>0 ID]:%GOLD%Vampirebone Gloves%NL%%GOLD%G r %TAN%a v %WHITE%e p %TAN%a l %GOLD%m
-ItemDisplay[(UNI) mgl ID]:%GOLD%Chain Gloves%NL%%GOLD%C h %TAN%a n %WHITE%c e %TAN%  G %GOLD%u a %TAN%r d %WHITE%s
-ItemDisplay[(UNI) xmg ID]:%GOLD%Heavy Bracers%NL%%GOLD%C h %TAN%a n %WHITE%c e %TAN%  G %GOLD%u a %TAN%r d %WHITE%s
-ItemDisplay[(UNI) umg ID]:%GOLD%Vambraces%NL%%GOLD%C h %TAN%a n %WHITE%c e %TAN%  G %GOLD%u a %TAN%r d %WHITE%s
 ItemDisplay[(UNI) umg STAT425>0 ID]:%ORANGE%%CORAL%Vambraces%NL%%PURPLE%S o %RED%u l %ORANGE%  D %GOLD%r a %WHITE%i n %GOLD%e r
 ItemDisplay[(UNI) umg STAT244>0 ID]:%GOLD%Vambraces%NL%%GOLD%G h %TAN%o u %WHITE%l h %TAN%i d %GOLD%e
 ItemDisplay[(UNI) xmg STAT244>0 ID]:%GOLD%Heavy Bracers%NL%%GOLD%G h %TAN%o u %WHITE%l h %TAN%i d %GOLD%e
+
+ItemDisplay[(UNI) mgl ID]:%GOLD%Chain Gloves%NL%%GOLD%C h %TAN%a n %WHITE%c e %TAN%  G %GOLD%u a %TAN%r d %WHITE%s
+ItemDisplay[(UNI) xmg ID]:%GOLD%Heavy Bracers%NL%%GOLD%C h %TAN%a n %WHITE%c e %TAN%  G %GOLD%u a %TAN%r d %WHITE%s
+ItemDisplay[(UNI) umg ID]:%GOLD%Vambraces%NL%%GOLD%C h %TAN%a n %WHITE%c e %TAN%  G %GOLD%u a %TAN%r d %WHITE%s
+
 ItemDisplay[(UNI) tgl ID]:%GOLD%Light Gauntlets%NL%%GOLD%M a %TAN%g e %WHITE%f i %TAN%s t
 ItemDisplay[(UNI) xtg ID]:%GOLD%Battle Gauntlets%NL%%GOLD%M a %TAN%g e %WHITE%f i %TAN%s t
 ItemDisplay[(UNI) utg ID]:%GOLD%Crusader Gauntlets%NL%%GOLD%M a %TAN%g e %WHITE%f i %TAN%s t
+
 ItemDisplay[(UNI) utg STAT77>24 ID]:%ORANGE%%CORAL%Crusader Gauntlets%NL%%PURPLE%O c %RED%c u %ORANGE%l t %GOLD%i s %WHITE%t
 ItemDisplay[(UNI) utg STAT40>0 STAT118>0 ID]:%GOLD%Crusader Gauntlets%NL%%GOLD%L a %TAN%v a %WHITE% G %TAN%o u %GOLD%t
 ItemDisplay[(UNI) xtg STAT40>0 STAT118>0 ID]:%GOLD%Battle Gauntlets%NL%%GOLD%L a %TAN%v a %WHITE% G %TAN%o u %GOLD%t
+
 ItemDisplay[(UNI) uhg STAT136>9 STR>14 ID]:%ORANGE%%CORAL%Ogre Gauntlets%NL%%PURPLE%S t %RED%e e %ORANGE%l r %GOLD%e n %WHITE%d
 ItemDisplay[(UNI) uhg STAT333>4 STAT78>0 ID]:%TAN%%CORAL%Ogre Gauntlets%NL%%ORANGE%H e %GOLD%l l %TAN%m o %GOLD%u t %ORANGE%h
 ItemDisplay[(UNI) xhg STAT333>4 STAT78>0 ID]:%TAN%%CORAL%War Gauntlets%NL%%ORANGE%H e %GOLD%l l %TAN%m o %GOLD%u t %ORANGE%h
+
 ItemDisplay[(UNI) hgl STAT77>0 ID]:%GOLD%Gauntlets%NL%%GOLD%F r %TAN%o s %WHITE%t b %TAN%u r %GOLD%n
 ItemDisplay[(UNI) xhg STAT77>0 ID]:%GOLD%War Gauntlets%NL%%GOLD%F r %TAN%o s %WHITE%t b %TAN%u r %GOLD%n
 ItemDisplay[(UNI) uhg STAT77>0 ID]:%GOLD%Ogre Gauntlets%NL%%GOLD%F r %TAN%o s %WHITE%t b %TAN%u r %GOLD%n
+
 ItemDisplay[(UNI) lbt ID]:%GOLD%Boots%NL%%GOLD%H o %TAN%t s %WHITE%p u %TAN%r
 ItemDisplay[(UNI) xlb ID]:%GOLD%Demonhide Boots%NL%%GOLD%H o %TAN%t s %WHITE%p u %TAN%r
 ItemDisplay[(UNI) ulb ID]:%GOLD%Wyrmhide Boots%NL%%GOLD%H o %TAN%t s %WHITE%p u %TAN%r
-ItemDisplay[(UNI) clb FRW>59 STAT154>0 ID]:%TAN%%CORAL%Wyrmhide Boots%NL%%ORANGE%M e %GOLD%r m %TAN%a n %GOLD%' s %ORANGE%  S %WHITE%p r %ORANGE%o c %GOLD%k e %TAN%t
+
+ItemDisplay[(UNI) ulb FRW>59 STAT154>0 ID]:%TAN%%CORAL%Wyrmhide Boots%NL%%ORANGE%M e %GOLD%r m %TAN%a n %GOLD%' s %ORANGE%  S %WHITE%p r %ORANGE%o c %GOLD%k e %TAN%t
 ItemDisplay[(UNI) ulb STAT40>4 GFIND>39 FRES>29 ID]:%GOLD%Wyrmhide Boots%NL%%GOLD%I n %TAN%f e %WHITE%r n %TAN%o s %GOLD%t r %TAN%i d %WHITE%e
 ItemDisplay[(UNI) xlb STAT40>4 GFIND>39 FRES>29 ID]:%GOLD%Demonhide Boots%NL%%GOLD%I n %TAN%f e %WHITE%r n %TAN%o s %GOLD%t r %TAN%i d %WHITE%e
-ItemDisplay[(UNI) vbt ID]:%GOLD%Heavy Boots%NL%%GOLD%G o %TAN%r e %WHITE%f o %TAN%o t
-ItemDisplay[(UNI) xvb ID]:%GOLD%Sharkskin Boots%NL%%GOLD%G o %TAN%r e %WHITE%f o %TAN%o t
-ItemDisplay[(UNI) uvb ID]:%GOLD%Scarabshell Boots%NL%%GOLD%G o %TAN%r e %WHITE%f o %TAN%o t
+
 ItemDisplay[(UNI) uvb STAT242>0 ID]:%TAN%%CORAL%Scarabshell Boots%NL%%ORANGE%S a %GOLD%n d %TAN%s t %GOLD%o r %ORANGE%m  %WHITE%T r %ORANGE%e k
 ItemDisplay[(UNI) uvb FBR>19 DEX>14 ID]:%GOLD%Scarabshell Boots%NL%%GOLD%W a %TAN%t e %WHITE%r w %TAN%a l %GOLD%k
 ItemDisplay[(UNI) xvb FBR>19 DEX>14 ID]:%GOLD%Sharkskin Boots%NL%%GOLD%W a %TAN%t e %WHITE%r w %TAN%a l %GOLD%k
-ItemDisplay[(UNI) mbt ID]:%GOLD%Chain Boots%NL%%GOLD%T r %TAN%e a %WHITE%d s %TAN%  o %GOLD%f  %TAN%C t %WHITE%h o %TAN%n
-ItemDisplay[(UNI) xmb ID]:%GOLD%Mesh Boots%NL%%GOLD%T r %TAN%e a %WHITE%d s %TAN%  o %GOLD%f  %TAN%C t %WHITE%h o %TAN%n
-ItemDisplay[(UNI) umb ID]:%GOLD%Boneweave Boots%NL%%GOLD%T r %TAN%e a %WHITE%d s %TAN%  o %GOLD%f  %TAN%C t %WHITE%h o %TAN%n
+ItemDisplay[(UNI) vbt ID]:%GOLD%Heavy Boots%NL%%GOLD%G o %TAN%r e %WHITE%f o %TAN%o t
+ItemDisplay[(UNI) xvb ID]:%GOLD%Sharkskin Boots%NL%%GOLD%G o %TAN%r e %WHITE%f o %TAN%o t
+ItemDisplay[(UNI) uvb ID]:%GOLD%Scarabshell Boots%NL%%GOLD%G o %TAN%r e %WHITE%f o %TAN%o t
+
 ItemDisplay[(UNI) umb SK69>0 ID]:%ORANGE%%CORAL%Boneweave Boots%NL%%PURPLE%M a %RED%r r %ORANGE%o w %GOLD%w a %WHITE%l k
 ItemDisplay[(UNI) umb MAEK>4 STAT32>199 ID]:%TAN%%CORAL%Boneweave Boots%NL%%ORANGE%S i %GOLD%l k %TAN%w e %GOLD%a v %ORANGE%e
 ItemDisplay[(UNI) xmb MAEK>4 STAT32>199 ID]:%TAN%%CORAL%Mesh Boots%NL%%ORANGE%S i %GOLD%l k %TAN%w e %GOLD%a v %ORANGE%e
-ItemDisplay[(UNI) tbt ID]:%GOLD%Light Plated Boots%NL%%GOLD%G o %TAN%b l %WHITE%i n %TAN%  T %GOLD%o e
-ItemDisplay[(UNI) xtb ID]:%GOLD%Battle Boots%NL%%GOLD%G o %TAN%b l %WHITE%i n %TAN%  T %GOLD%o e
-ItemDisplay[(UNI) utb ID]:%GOLD%Mirrored Boots%NL%%GOLD%G o %TAN%b l %WHITE%i n %TAN%  T %GOLD%o e
+ItemDisplay[(UNI) mbt ID]:%GOLD%Chain Boots%NL%%GOLD%T r %TAN%e a %WHITE%d s %TAN%  o %GOLD%f  %TAN%C t %WHITE%h o %TAN%n
+ItemDisplay[(UNI) xmb ID]:%GOLD%Mesh Boots%NL%%GOLD%T r %TAN%e a %WHITE%d s %TAN%  o %GOLD%f  %TAN%C t %WHITE%h o %TAN%n
+ItemDisplay[(UNI) umb ID]:%GOLD%Boneweave Boots%NL%%GOLD%T r %TAN%e a %WHITE%d s %TAN%  o %GOLD%f  %TAN%C t %WHITE%h o %TAN%n
+
 ItemDisplay[(UNI) utb FCR>19 ID]:%ORANGE%%CORAL%Mirrored Boots%NL%%PURPLE%I t %RED%h e %ORANGE%r a %GOLD%e l %WHITE%' s %GOLD%  P %RED%a t %PURPLE%h
 ItemDisplay[(UNI) utb MFIND>29 STR>9 ID]:%ORANGE%%CORAL%Mirrored Boots%NL%%PURPLE%W a %RED%r  %ORANGE%T r %GOLD%a v %WHITE%e l %GOLD%e r
 ItemDisplay[(UNI) xtb MFIND>29 STR>9 ID]:%ORANGE%%CORAL%Battle Boots%NL%%PURPLE%W a %RED%r  %ORANGE%T r %GOLD%a v %WHITE%e l %GOLD%e r
-ItemDisplay[(UNI) hbt ID]:%GOLD%Greaves%NL%%GOLD%T e %TAN%a r %WHITE%h a %TAN%u n %GOLD%c h
-ItemDisplay[(UNI) xhb ID]:%GOLD%War Boots%NL%%GOLD%T e %TAN%a r %WHITE%h a %TAN%u n %GOLD%c h
-ItemDisplay[(UNI) uhb ID]:%GOLD%Myrmidon Greaves%NL%%GOLD%T e %TAN%a r %WHITE%h a %TAN%u n %GOLD%c h
+ItemDisplay[(UNI) tbt ID]:%GOLD%Light Plated Boots%NL%%GOLD%G o %TAN%b l %WHITE%i n %TAN%  T %GOLD%o e
+ItemDisplay[(UNI) xtb ID]:%GOLD%Battle Boots%NL%%GOLD%G o %TAN%b l %WHITE%i n %TAN%  T %GOLD%o e
+ItemDisplay[(UNI) utb ID]:%GOLD%Mirrored Boots%NL%%GOLD%G o %TAN%b l %WHITE%i n %TAN%  T %GOLD%o e
+
 ItemDisplay[(UNI) uhb TABSK49>0 ID]:%ORANGE%%CORAL%Myrmidon Greaves%NL%%PURPLE%S h %RED%a d %ORANGE%o w %GOLD%  D %WHITE%a n %GOLD%c e %RED%r
 ItemDisplay[(UNI) uhb STAT136>0 STAT135>0 STAT141>0 ID]:%TAN%%CORAL%Myrmidon Greaves%NL%%ORANGE%G o %GOLD%r e %TAN%  R %GOLD%i d %ORANGE%e r
 ItemDisplay[(UNI) xhb STAT136>0 STAT135>0 STAT141>0 ID]:%TAN%%CORAL%War Boots%NL%%ORANGE%G o %GOLD%r e %TAN%  R %GOLD%i d %ORANGE%e r
-ItemDisplay[(UNI) lbl ID]:%GOLD%Sash%NL%%GOLD%L e %TAN%n y %WHITE%m o
-ItemDisplay[(UNI) zlb ID]:%GOLD%Demonhide Sash%NL%%GOLD%L e %TAN%n y %WHITE%m o
-ItemDisplay[(UNI) ulc ID]:%GOLD%Spiderweb Sash%NL%%GOLD%L e %TAN%n y %WHITE%m o
+ItemDisplay[(UNI) hbt ID]:%GOLD%Greaves%NL%%GOLD%T e %TAN%a r %WHITE%h a %TAN%u n %GOLD%c h
+ItemDisplay[(UNI) xhb ID]:%GOLD%War Boots%NL%%GOLD%T e %TAN%a r %WHITE%h a %TAN%u n %GOLD%c h
+ItemDisplay[(UNI) uhb ID]:%GOLD%Myrmidon Greaves%NL%%GOLD%T e %TAN%a r %WHITE%h a %TAN%u n %GOLD%c h
+
 ItemDisplay[(UNI) ulc FCR>0 ALLSK>0 ID]:%ORANGE%%CORAL%Spiderweb Sash%NL%%PURPLE%A r %RED%a c %ORANGE%h n %GOLD%i d %WHITE% M %GOLD%e s %RED%h
 ItemDisplay[(UNI) ulc STAT36>0 STAT60>0 ID]:%TAN%%CORAL%Spiderweb Sash%NL%%ORANGE%S t %GOLD%r i %TAN%n g %GOLD%  o %ORANGE%f  %WHITE%E a %ORANGE%r s
 ItemDisplay[(UNI) zlb STAT36>0 STAT60>0 ID]:%TAN%%CORAL%Demonhide Sash%NL%%ORANGE%S t %GOLD%r i %TAN%n g %GOLD%  o %ORANGE%f  %WHITE%E a %ORANGE%r s
-ItemDisplay[(UNI) vbl ID]:%GOLD%Light Belt%NL%%GOLD%S n %TAN%a k %WHITE%e c %TAN%o r %GOLD%d
-ItemDisplay[(UNI) zvb ID]:%GOLD%Sharkskin Belt%NL%%GOLD%S n %TAN%a k %WHITE%e c %TAN%o r %GOLD%d
-ItemDisplay[(UNI) uvc ID]:%GOLD%Vampirefang Belt%NL%%GOLD%S n %TAN%a k %WHITE%e c %TAN%o r %GOLD%d
-ItemDisplay[(UNI) cvc IAS>19 STAT60>0 STAT150>0 ID]:%ORANGE%%CORAL%Vampirefang Belt%NL%%PURPLE%N o %RED%s f %ORANGE%e r %GOLD%a t %WHITE%u ' %WHITE%s  %GOLD%C o %RED%i l
+ItemDisplay[(UNI) lbl ID]:%GOLD%Sash%NL%%GOLD%L e %TAN%n y %WHITE%m o
+ItemDisplay[(UNI) zlb ID]:%GOLD%Demonhide Sash%NL%%GOLD%L e %TAN%n y %WHITE%m o
+ItemDisplay[(UNI) ulc ID]:%GOLD%Spiderweb Sash%NL%%GOLD%L e %TAN%n y %WHITE%m o
+
+ItemDisplay[(UNI) uvc IAS>19 STAT60>0 STAT150>0 ID]:%ORANGE%%CORAL%Vampirefang Belt%NL%%PURPLE%N o %RED%s f %ORANGE%e r %GOLD%a t %WHITE%u ' %WHITE%s  %GOLD%C o %RED%i l
 ItemDisplay[(UNI) uvc STAT156>0 MAXDMG>9 DEX>14 ID]:%ORANGE%%CORAL%Vampirefang Belt%NL%%PURPLE%R a %RED%z o %ORANGE%r t %GOLD%a i %WHITE%l
 ItemDisplay[(UNI) zvb STAT156>0 MAXDMG>9 DEX>14 ID]:%ORANGE%%CORAL%Sharkskin Belt%NL%%PURPLE%R a %RED%z o %ORANGE%r t %GOLD%a i %WHITE%l
+ItemDisplay[(UNI) vbl !STAT150>0 ID]:%GOLD%Light Belt%NL%%GOLD%S n %TAN%a k %WHITE%e c %TAN%o r %GOLD%d
+ItemDisplay[(UNI) zvb !STAT150>0 ID]:%GOLD%Sharkskin Belt%NL%%GOLD%S n %TAN%a k %WHITE%e c %TAN%o r %GOLD%d
+ItemDisplay[(UNI) uvc !STAT150>0 ID]:%GOLD%Vampirefang Belt%NL%%GOLD%S n %TAN%a k %WHITE%e c %TAN%o r %GOLD%d
+
+ItemDisplay[(UNI) umc STAT36>9 REPLIFE>9 FHR>9 ID]:%ORANGE%%CORAL%Mithril Coil%NL%%PURPLE%V e %RED%r d %ORANGE%u n %GOLD%g o %WHITE%' s %GOLD%  H %RED%e a %PURPLE%r t %RED%y  %ORANGE%C o %GOLD%r d
+ItemDisplay[(UNI) umc FCR>0 STAT77>0 ID]:%GOLD%Mithril Coil%NL%%GOLD%G l %TAN%o o %WHITE%m ' %TAN%s  %GOLD%T r %TAN%a p
+ItemDisplay[(UNI) zmb FCR>0 STAT77>0 ID]:%GOLD%Mesh Belt%NL%%GOLD%G l %TAN%o o %WHITE%m ' %TAN%s  %GOLD%T r %TAN%a p
 ItemDisplay[(UNI) mbl ID]:%GOLD%Belt%NL%%GOLD%N i %TAN%g h %WHITE%t s %TAN%m o %GOLD%k e
 ItemDisplay[(UNI) zmb ID]:%GOLD%Mesh Belt%NL%%GOLD%N i %TAN%g h %WHITE%t s %TAN%m o %GOLD%k e
 ItemDisplay[(UNI) umc ID]:%GOLD%Mithril Coil%NL%%GOLD%N i %TAN%g h %WHITE%t s %TAN%m o %GOLD%k e
-ItemDisplay[(UNI) cmc STAT36>9 REPLIFE>9 FHR>9 ID]:%ORANGE%%CORAL%Mithril Coil%NL%%PURPLE%V e %RED%r d %ORANGE%u n %GOLD%g o %WHITE%' s %GOLD%  H %RED%e a %PURPLE%r t %RED%y  %ORANGE%C o %GOLD%r d
-ItemDisplay[(UNI) umc FCR>0 STAT77>0 ID]:%GOLD%Mithril Coil%NL%%GOLD%G l %TAN%o o %WHITE%m ' %TAN%s  %GOLD%T r %TAN%a p
-ItemDisplay[(UNI) zmb FCR>0 STAT77>0 ID]:%GOLD%Mesh Belt%NL%%GOLD%G l %TAN%o o %WHITE%m ' %TAN%s  %GOLD%T r %TAN%a p
+
+ItemDisplay[(UNI) ztb STAT362>0 ID]:%GOLD%Battle Belt%NL%%GOLD%S n %TAN%o w %WHITE%c l %TAN%a s %GOLD%h
+ItemDisplay[(UNI) utc STAT362>0 ID]:%GOLD%Troll Belt%NL%%GOLD%S n %TAN%o w %WHITE%c l %TAN%a s %GOLD%h
 ItemDisplay[(UNI) tbl ID]:%GOLD%Heavy Belt%NL%%GOLD%G o %TAN%l d %WHITE%w r %TAN%a p
 ItemDisplay[(UNI) ztb ID]:%GOLD%Battle Belt%NL%%GOLD%G o %TAN%l d %WHITE%w r %TAN%a p
 ItemDisplay[(UNI) utc ID]:%GOLD%Troll Belt%NL%%GOLD%G o %TAN%l d %WHITE%w r %TAN%a p
-ItemDisplay[(UNI) ztb STAT362>0 ID]:%GOLD%Battle Belt%NL%%GOLD%S n %TAN%o w %WHITE%c l %TAN%a s %GOLD%h
-ItemDisplay[(UNI) utc STAT362>0 ID]:%GOLD%Troll Belt%NL%%GOLD%S n %TAN%o w %WHITE%c l %TAN%a s %GOLD%h
+
 ItemDisplay[(UNI) hbl ID]:%GOLD%Plated Belt%NL%%GOLD%B l %TAN%a d %WHITE%e b %TAN%u c %GOLD%k l %TAN%e
 ItemDisplay[(UNI) zhb ID]:%GOLD%War Belt%NL%%GOLD%B l %TAN%a d %WHITE%e b %TAN%u c %GOLD%k l %TAN%e
 ItemDisplay[(UNI) uhc ID]:%GOLD%Colossus Girdle%NL%%GOLD%B l %TAN%a d %WHITE%e b %TAN%u c %GOLD%k l %TAN%e
-ItemDisplay[(UNI) chb STAT364>0 ID]:%TAN%%CORAL%War Belt%NL%%PURPLE%T h %RED%u n %TAN%d e %ORANGE%r g %GOLD%o d %WHITE%' s %GOLD%  V %RED%i g %PURPLE%o r
-ItemDisplay[(UNI) chc STAT364>0 ID]:%TAN%%CORAL%Colossus Girdle%NL%%PURPLE%T h %RED%u n %TAN%d e %ORANGE%r g %GOLD%o d %WHITE%' s %GOLD%  V %RED%i g %PURPLE%o r
+
+ItemDisplay[(UNI) zhb STAT364>0 ID]:%TAN%%CORAL%War Belt%NL%%PURPLE%T h %RED%u n %TAN%d e %ORANGE%r g %GOLD%o d %WHITE%' s %GOLD%  V %RED%i g %PURPLE%o r
+ItemDisplay[(UNI) uhc STAT364>0 ID]:%TAN%%CORAL%Colossus Girdle%NL%%PURPLE%T h %RED%u n %TAN%d e %ORANGE%r g %GOLD%o d %WHITE%' s %GOLD%  V %RED%i g %PURPLE%o r
+
+ItemDisplay[(UNI) ci3 FHR>19 STAT333>9 ID]:%ORANGE%%CORAL%Diadem%NL%%PURPLE%K i %RED%r a %ORANGE%' s %GOLD%  G %WHITE%u a %GOLD%r d %RED%i a %PURPLE%n
 ItemDisplay[(UNI) ci2 ID]:%ORANGE%%CORAL%Tiara%NL%%PURPLE%K i %RED%r a %ORANGE%' s %GOLD%  G %WHITE%u a %GOLD%r d %RED%i a %PURPLE%n
 ItemDisplay[(UNI) ci3 ID]:%ORANGE%%CORAL%Diadem%NL%%PURPLE%G r %RED%i f %ORANGE%f o %GOLD%n ' %WHITE%s  %GOLD%E y %RED%e
-ItemDisplay[(UNI) ci3 FHR>19 STAT333>9 ID]:%ORANGE%%CORAL%Diadem%NL%%PURPLE%K i %RED%r a %ORANGE%' s %GOLD%  G %WHITE%u a %GOLD%r d %RED%i a %PURPLE%n
+
 ItemDisplay[(UNI) drb ID]:%ORANGE%%CORAL%Blood Spirit%NL%%PURPLE%C e %RED%r e %ORANGE%b u %GOLD%s ' %WHITE% B %GOLD%i t %RED%e
 ItemDisplay[(UNI) drd ID]:%ORANGE%%CORAL%Earth Spirit%NL%%PURPLE%S p %RED%i r %ORANGE%i t %GOLD%  K %WHITE%e e %GOLD%p e %RED%r
 ItemDisplay[(UNI) dr2 ID]:%TAN%%CORAL%Hawk Helm%NL%%ORANGE%Q u %GOLD%e t %TAN%z a %GOLD%l c %ORANGE%o a %WHITE%t l
 ItemDisplay[(UNI) dr7 ID]:%TAN%%CORAL%Griffon Headress%NL%%ORANGE%Q u %GOLD%e t %TAN%z a %GOLD%l c %ORANGE%o a %WHITE%t l
 ItemDisplay[(UNI) drc ID]:%TAN%%CORAL%Sun Spirit%NL%%ORANGE%Q u %GOLD%e t %TAN%z a %GOLD%l c %ORANGE%o a %WHITE%t l
 ItemDisplay[(UNI) dre ID]:%TAN%%CORAL%Sky Spirit%NL%%ORANGE%R a %GOLD%v e %TAN%n l %GOLD%o r %ORANGE%e
+
+ItemDisplay[(UNI) drf CLSK5>1 ID]:%ORANGE%%CORAL%Dream Spirit%NL%%PURPLE%J a %RED%l a %ORANGE%l ' %GOLD%s  %WHITE%M a %GOLD%n e
 ItemDisplay[(UNI) dra ID]:%ORANGE%%CORAL%Totemic Mask%NL%%PURPLE%J a %RED%l a %ORANGE%l ' %GOLD%s  %WHITE%M a %GOLD%n e
 ItemDisplay[(UNI) drf ID]:%ORANGE%%CORAL%Dream Spirit%NL%%PURPLE%U r %RED%s a %ORANGE%' s %GOLD%  N %WHITE%i g %GOLD%h t %RED%m a %PURPLE%r e
-ItemDisplay[(UNI) drf CLSK5>1 ID]:%ORANGE%%CORAL%Dream Spirit%NL%%PURPLE%J a %RED%l a %ORANGE%l ' %GOLD%s  %WHITE%M a %GOLD%n e
+
 ItemDisplay[(UNI) ba6 ID]:%TAN%%CORAL%Jawbone Visor%NL%%ORANGE%C y %GOLD%c l %TAN%o p %GOLD%e a %ORANGE%n  %WHITE%R o %ORANGE%a r
 ItemDisplay[(UNI) bab ID]:%TAN%%CORAL%Carnage Helm%NL%%ORANGE%C y %GOLD%c l %TAN%o p %GOLD%e a %ORANGE%n  %WHITE%R o %ORANGE%a r
 ItemDisplay[(UNI) bac ID]:%GOLD%Fury Visor%NL%%GOLD%W o %TAN%l f %WHITE%h o %TAN%w l
 ItemDisplay[(UNI) bad ID]:%GOLD%Destroyer Helm%NL%%GOLD%D e %TAN%m o %WHITE%n h %TAN%o r %GOLD%n ' %TAN%s  %WHITE%E d %TAN%g e
 ItemDisplay[(UNI) bae ID]:%TAN%%CORAL%Conqueror Crown%NL%%ORANGE%H a %GOLD%l a %TAN%b e %GOLD%r d %ORANGE%' s %WHITE% R %ORANGE%e i %GOLD%g n
+
+ItemDisplay[(UNI) baf TABSK32>0 ID]:%ORANGE%%CORAL%Guardian Crown%NL%%PURPLE%A r %RED%r e %ORANGE%a t %GOLD%' s %WHITE% F %GOLD%a c %RED%e
 ItemDisplay[(UNI) baa ID]:%ORANGE%%CORAL%Slayer Guard%NL%%PURPLE%A r %RED%r e %ORANGE%a t %GOLD%' s %WHITE% F %GOLD%a c %RED%e
 ItemDisplay[(UNI) baf ID]:%ORANGE%%CORAL%Guardian Crown%NL%%PURPLE%R a %RED%e k %ORANGE%o r %GOLD%' s %WHITE% V %GOLD%i r %RED%t u %PURPLE%e
-ItemDisplay[(UNI) baf TABSK32>0 ID]:%ORANGE%%CORAL%Guardian Crown%NL%%PURPLE%A r %RED%r e %ORANGE%a t %GOLD%' s %WHITE% F %GOLD%a c %RED%e
+
 ItemDisplay[(UNI) pac ID]:%GOLD%Sacred Rondache%NL%%GOLD%A l %TAN%m a %WHITE% N %TAN%e g %GOLD%r a
 ItemDisplay[(UNI) pa3 ID]:%GOLD%Heraldic Shield%NL%%GOLD%S a %TAN%n k %WHITE%e k %TAN%u r %GOLD%' s %TAN%  F %WHITE%a l %TAN%l
 ItemDisplay[(UNI) pa8 ID]:%GOLD%Protector Shield%NL%%GOLD%S a %TAN%n k %WHITE%e k %TAN%u r %GOLD%' s %TAN%  F %WHITE%a l %TAN%l
 ItemDisplay[(UNI) pad ID]:%GOLD%Kurast Shield%NL%%GOLD%S a %TAN%n k %WHITE%e k %TAN%u r %GOLD%' s %TAN%  F %WHITE%a l %TAN%l
+
+ItemDisplay[(UNI) pae ALLSK>1 ID]:%ORANGE%%CORAL%Zakarum Shield%NL%%PURPLE%H e %RED%r a %ORANGE%l d %GOLD%  o %WHITE%f  %GOLD%Z a %RED%k a %PURPLE%r u %RED%m
 ItemDisplay[(UNI) pa9 ID]:%ORANGE%%CORAL%Gilded Shield%NL%%PURPLE%H e %RED%r a %ORANGE%l d %GOLD%  o %WHITE%f  %GOLD%Z a %RED%k a %PURPLE%r u %RED%m
 ItemDisplay[(UNI) pae ID]:%GOLD%Zakarum Shield%NL%%GOLD%D r %TAN%a g %WHITE%o n %TAN%s c %GOLD%a l %TAN%e
-ItemDisplay[(UNI) cae ALLSK>1 ID]:%ORANGE%%CORAL%Zakarum Shield%NL%%PURPLE%H e %RED%r a %ORANGE%l d %GOLD%  o %WHITE%f  %GOLD%Z a %RED%k a %PURPLE%r u %RED%m
+
 ItemDisplay[(UNI) ne6 ID]:%TAN%%CORAL%Mummified Trophy%NL%%ORANGE%K a %GOLD%l a %TAN%n ' %GOLD%s  %ORANGE%L e %WHITE%g a %ORANGE%c y
 ItemDisplay[(UNI) neb ID]:%TAN%%CORAL%Minion Skull%NL%%ORANGE%K a %GOLD%l a %TAN%n ' %GOLD%s  %ORANGE%L e %WHITE%g a %ORANGE%c y
 ItemDisplay[(UNI) ned ID]:%ORANGE%%CORAL%Overseer Skull%NL%%PURPLE%M a %RED%r t %ORANGE%y r %GOLD%d o %WHITE%m
 ItemDisplay[(UNI) nee ID]:%ORANGE%%CORAL%Succubus Skull%NL%%PURPLE%B o %RED%n e %ORANGE%f l %GOLD%a m %WHITE%e
+
+ItemDisplay[(UNI) nef FBR>29 ID]:%ORANGE%%CORAL%Bloodlord Skull%NL%%PURPLE%H o %RED%m u %ORANGE%n c %GOLD%u l %WHITE%u s
 ItemDisplay[(UNI) nea ID]:%ORANGE%%CORAL%Hierophant Trophy%NL%%PURPLE%H o %RED%m u %ORANGE%n c %GOLD%u l %WHITE%u s
 ItemDisplay[(UNI) nef ID]:%TAN%%CORAL%Bloodlord Skull%NL%%ORANGE%D a %GOLD%r k %TAN%f o %GOLD%r c %ORANGE%e  %WHITE%S p %ORANGE%a w %GOLD%n
-ItemDisplay[(UNI) nef FBR>29 ID]:%ORANGE%%CORAL%Bloodlord Skull%NL%%PURPLE%H o %RED%m u %ORANGE%n c %GOLD%u l %WHITE%u s
-ItemDisplay[(UNI) hax ID]:%GOLD%Hand Axe%NL%%GOLD%T h %TAN%e  %WHITE%G n %TAN%a s %GOLD%h e %TAN%r
+
 ItemDisplay[(UNI) 9ha STAT136>19 STAT135>49 ID]:%GOLD%Hatchet%NL%%GOLD%T h %TAN%e  %WHITE%G n %TAN%a s %GOLD%h e %TAN%r
 ItemDisplay[(UNI) 7ha STAT136>19 STAT135>49 ID]:%GOLD%Tomahawk%NL%%GOLD%T h %TAN%e  %WHITE%G n %TAN%a s %GOLD%h e %TAN%r
 ItemDisplay[(UNI) 9ha STAT44>0 (STAT54>0 OR STAT55>0) ID]:%GOLD%Hatchet%NL%%GOLD%C o %TAN%l d %WHITE%k i %TAN%l l
 ItemDisplay[(UNI) 7ha STAT44>0 (STAT54>0 OR STAT55>0) ID]:%GOLD%Tomahawk%NL%%GOLD%C o %TAN%l d %WHITE%k i %TAN%l l
 ItemDisplay[(UNI) 7ha IAS>59 ED>224 STAT116>32 STAT141>49 STAT135>49 ID]:%GOLD%Tomahawk%NL%%GOLD%R a %TAN%z o %WHITE%r ' %TAN%s  %GOLD%E d %TAN%g e
-ItemDisplay[(UNI) axe ID]:%GOLD%Axe%NL%%GOLD%D e %TAN%a t %WHITE%h s %TAN%p a %GOLD%d e
+ItemDisplay[(UNI) hax ID]:%GOLD%Hand Axe%NL%%GOLD%T h %TAN%e  %WHITE%G n %TAN%a s %GOLD%h e %TAN%r
+
 ItemDisplay[(UNI) 9ax MINDMG>7 ARPER>14 ID]:%GOLD%Cleaver%NL%%GOLD%D e %TAN%a t %WHITE%h s %TAN%p a %GOLD%d e
 ItemDisplay[(UNI) 7ax MINDMG>7 ARPER>14 ID]:%GOLD%Small Crescent%NL%%GOLD%D e %TAN%a t %WHITE%h s %TAN%p a %GOLD%d e
 ItemDisplay[(UNI) 9ax STAT152>0 STAT141>0 ID]:%GOLD%Cleaver%NL%%GOLD%B u %TAN%t c %WHITE%h e %TAN%r ' %GOLD%s  %TAN%P u %WHITE%p i %TAN%l
 ItemDisplay[(UNI) 7ax STAT152>0 STAT141>0 ID]:%GOLD%Small Crescent%NL%%GOLD%B u %TAN%t c %WHITE%h e %TAN%r ' %GOLD%s  %TAN%P u %WHITE%p i %TAN%l
-ItemDisplay[(UNI) 2ax ID]:%GOLD%Double Axe%NL%%GOLD%B l %TAN%a d %WHITE%e b %TAN%o n %GOLD%e
-ItemDisplay[(UNI) 92a ID]:%GOLD%Twin Axe%NL%%GOLD%B l %TAN%a d %WHITE%e b %TAN%o n %GOLD%e
-ItemDisplay[(UNI) 72a ID]:%GOLD%Ettin Axe%NL%%GOLD%B l %TAN%a d %WHITE%e b %TAN%o n %GOLD%e
+ItemDisplay[(UNI) axe ID]:%GOLD%Axe%NL%%GOLD%D e %TAN%a t %WHITE%h s %TAN%p a %GOLD%d e
+
 ItemDisplay[(UNI) 72a SOCK>3 STAT44>0 ID]:%GOLD%Ettin Axe%NL%%GOLD%R u %TAN%n e %WHITE% M %TAN%a s %GOLD%t e %TAN%r
 ItemDisplay[(UNI) 72a CLSK5>1 ID]:%GOLD%Ettin Axe%NL%%GOLD%I s %TAN%l e %WHITE%s t %TAN%r i %GOLD%k e
 ItemDisplay[(UNI) 92a CLSK5>1 ID]:%GOLD%Twin Axe%NL%%GOLD%I s %TAN%l e %WHITE%s t %TAN%r i %GOLD%k e
-ItemDisplay[(UNI) mpi ID]:%GOLD%Military Pick%NL%%GOLD%S k %TAN%u l %WHITE%l  %TAN%S p %GOLD%l i %TAN%t t %WHITE%e r
-ItemDisplay[(UNI) 9mp ID]:%GOLD%Crowbill%NL%%GOLD%S k %TAN%u l %WHITE%l  %TAN%S p %GOLD%l i %TAN%t t %WHITE%e r
-ItemDisplay[(UNI) 7mp ID]:%GOLD%War Spike%NL%%GOLD%S k %TAN%u l %WHITE%l  %TAN%S p %GOLD%l i %TAN%t t %WHITE%e r
+ItemDisplay[(UNI) 2ax ID]:%GOLD%Double Axe%NL%%GOLD%B l %TAN%a d %WHITE%e b %TAN%o n %GOLD%e
+ItemDisplay[(UNI) 92a ID]:%GOLD%Twin Axe%NL%%GOLD%B l %TAN%a d %WHITE%e b %TAN%o n %GOLD%e
+ItemDisplay[(UNI) 72a ID]:%GOLD%Ettin Axe%NL%%GOLD%B l %TAN%a d %WHITE%e b %TAN%o n %GOLD%e
+
 ItemDisplay[(UNI) 7mp STAT116>0 (STAT50>0 OR STAT51>0) MFIND>29 ID]:%GOLD%War Spike%NL%%GOLD%C r %TAN%a n %WHITE%e b %TAN%e a %GOLD%k
 ItemDisplay[(UNI) 7mp STAT150>0 ID]:%GOLD%War Spike%NL%%GOLD%P o %TAN%m p %WHITE%e i %TAN%i ' %GOLD%s  %TAN%W r %WHITE%a t %TAN%h
 ItemDisplay[(UNI) 9mp STAT150>0 ID]:%GOLD%Crowbill%NL%%GOLD%P o %TAN%m p %WHITE%e i %TAN%i ' %GOLD%s  %TAN%W r %WHITE%a t %TAN%h
-ItemDisplay[(UNI) wax ID]:%GOLD%War Axe%NL%%GOLD%R a %TAN%k e %WHITE%s c %TAN%a r
-ItemDisplay[(UNI) 9wa ID]:%GOLD%Naga%NL%%GOLD%R a %TAN%k e %WHITE%s c %TAN%a r
-ItemDisplay[(UNI) 7wa ID]:%GOLD%Berserker Axe%NL%%GOLD%R a %TAN%k e %WHITE%s c %TAN%a r
+ItemDisplay[(UNI) mpi ID]:%GOLD%Military Pick%NL%%GOLD%S k %TAN%u l %WHITE%l  %TAN%S p %GOLD%l i %TAN%t t %WHITE%e r
+ItemDisplay[(UNI) 9mp ID]:%GOLD%Crowbill%NL%%GOLD%S k %TAN%u l %WHITE%l  %TAN%S p %GOLD%l i %TAN%t t %WHITE%e r
+ItemDisplay[(UNI) 7mp ID]:%GOLD%War Spike%NL%%GOLD%S k %TAN%u l %WHITE%l  %TAN%S p %GOLD%l i %TAN%t t %WHITE%e r
+
 ItemDisplay[(UNI) 7wa MINDMG>19 STAT141>49 STAT116>0 ID]:%GOLD%Berserker Axe%NL%%GOLD%D e %TAN%a t %WHITE%h  %TAN%C l %GOLD%e a %TAN%v e %WHITE%r
 ItemDisplay[(UNI) 7wa MAXDMG>19 PRES>29 ID]:%GOLD%Berserker Axe%NL%%GOLD%G u %TAN%a r %WHITE%d i %TAN%a n %GOLD%  N %TAN%a g %WHITE%a
 ItemDisplay[(UNI) 9wa MAXDMG>19 PRES>29 ID]:%GOLD%Naga%NL%%GOLD%G u %TAN%a r %WHITE%d i %TAN%a n %GOLD%  N %TAN%a g %WHITE%a
+ItemDisplay[(UNI) wax ID]:%GOLD%War Axe%NL%%GOLD%R a %TAN%k e %WHITE%s c %TAN%a r
+ItemDisplay[(UNI) 9wa ID]:%GOLD%Naga%NL%%GOLD%R a %TAN%k e %WHITE%s c %TAN%a r
+ItemDisplay[(UNI) 7wa ID]:%GOLD%Berserker Axe%NL%%GOLD%R a %TAN%k e %WHITE%s c %TAN%a r
+
+ItemDisplay[(UNI) 9la STAT36>9 STAT223>0 ID]:%GOLD%Military Axe%NL%%GOLD%W a %TAN%r l %WHITE%o r %TAN%d ' %GOLD%s  %TAN%T r %WHITE%u s %TAN%t
+ItemDisplay[(UNI) 7la STAT36>9 STAT223>0 ID]:%GOLD%Feral Axe%NL%%GOLD%W a %TAN%r l %WHITE%o r %TAN%d ' %GOLD%s  %TAN%T r %WHITE%u s %TAN%t
 ItemDisplay[(UNI) lax ID]:%GOLD%Large Axe%NL%%GOLD%A x %TAN%e  %WHITE%o f %TAN%  F %GOLD%e c %TAN%h m %WHITE%a r
 ItemDisplay[(UNI) 9la ID]:%GOLD%Military Axe%NL%%GOLD%A x %TAN%e  %WHITE%o f %TAN%  F %GOLD%e c %TAN%h m %WHITE%a r
 ItemDisplay[(UNI) 7la ID]:%GOLD%Feral Axe%NL%%GOLD%A x %TAN%e  %WHITE%o f %TAN%  F %GOLD%e c %TAN%h m %WHITE%a r
-ItemDisplay[(UNI) 9la STAT36>9 STAT223>0 ID]:%GOLD%Military Axe%NL%%GOLD%W a %TAN%r l %WHITE%o r %TAN%d ' %GOLD%s  %TAN%T r %WHITE%u s %TAN%t
-ItemDisplay[(UNI) 7la STAT36>9 STAT223>0 ID]:%GOLD%Feral Axe%NL%%GOLD%W a %TAN%r l %WHITE%o r %TAN%d ' %GOLD%s  %TAN%T r %WHITE%u s %TAN%t
-ItemDisplay[(UNI) bax ID]:%GOLD%Broad Axe%NL%%GOLD%G o %TAN%r e %WHITE%s h %TAN%o v %GOLD%e l
-ItemDisplay[(UNI) 9ba ID]:%GOLD%Bearded Axe%NL%%GOLD%G o %TAN%r e %WHITE%s h %TAN%o v %GOLD%e l
-ItemDisplay[(UNI) 7ba ID]:%GOLD%Silver-edged Axe%NL%%GOLD%G o %TAN%r e %WHITE%s h %TAN%o v %GOLD%e l
+
 ItemDisplay[(UNI) 9ba FCR>29 STAT27>0 MANA>99 ID]:%GOLD%Bearded Axe%NL%%GOLD%S p %TAN%e l %WHITE%l s %TAN%t e %GOLD%e l
 ItemDisplay[(UNI) 7ba FCR>29 STAT27>0 MANA>99 ID]:%GOLD%Silver-edged Axe%NL%%GOLD%S p %TAN%e l %WHITE%l s %TAN%t e %GOLD%e l
 ItemDisplay[(UNI) 7ba STAT152>0 STAT143>0 ID]:%GOLD%Silver-edged Axe%NL%%GOLD%E t %TAN%h e %WHITE%r e %TAN%a l %GOLD%  E %TAN%d g %WHITE%e
-ItemDisplay[(UNI) btx ID]:%GOLD%Battle Axe%NL%%GOLD%T h %TAN%e  %WHITE%C h %TAN%i e %GOLD%f t %TAN%a i %WHITE%n
-ItemDisplay[(UNI) 9bt ID]:%GOLD%Tabar%NL%%GOLD%T h %TAN%e  %WHITE%C h %TAN%i e %GOLD%f t %TAN%a i %WHITE%n
-ItemDisplay[(UNI) 7bt ID]:%GOLD%Decapitator%NL%%GOLD%T h %TAN%e  %WHITE%C h %TAN%i e %GOLD%f t %TAN%a i %WHITE%n
+ItemDisplay[(UNI) bax ID]:%GOLD%Broad Axe%NL%%GOLD%G o %TAN%r e %WHITE%s h %TAN%o v %GOLD%e l
+ItemDisplay[(UNI) 9ba ID]:%GOLD%Bearded Axe%NL%%GOLD%G o %TAN%r e %WHITE%s h %TAN%o v %GOLD%e l
+ItemDisplay[(UNI) 7ba ID]:%GOLD%Silver-edged Axe%NL%%GOLD%G o %TAN%r e %WHITE%s h %TAN%o v %GOLD%e l
+
 ItemDisplay[(UNI) 7bt STAT128>0 ID]:%GOLD%Decapitator%NL%%GOLD%S t %TAN%o r %WHITE%m r %TAN%i d %GOLD%e r
 ItemDisplay[(UNI) 9bt STAT128>0 ID]:%GOLD%Tabar%NL%%GOLD%S t %TAN%o r %WHITE%m r %TAN%i d %GOLD%e r
 ItemDisplay[(UNI) 7bt STAT220>0 STAT223>0 ID]:%GOLD%Decapitator%NL%%GOLD%H e %TAN%l l %WHITE%s l %TAN%a y %GOLD%e r
+ItemDisplay[(UNI) btx ID]:%GOLD%Battle Axe%NL%%GOLD%T h %TAN%e  %WHITE%C h %TAN%i e %GOLD%f t %TAN%a i %WHITE%n
+ItemDisplay[(UNI) 9bt ID]:%GOLD%Tabar%NL%%GOLD%T h %TAN%e  %WHITE%C h %TAN%i e %GOLD%f t %TAN%a i %WHITE%n
+ItemDisplay[(UNI) 7bt ID]:%GOLD%Decapitator%NL%%GOLD%T h %TAN%e  %WHITE%C h %TAN%i e %GOLD%f t %TAN%a i %WHITE%n
+
+ItemDisplay[(UNI) 7ga STAT244>0 ID]:%GOLD%Champion Axe%NL%%GOLD%B o %TAN%n e %WHITE%s l %TAN%a y %GOLD%e r %TAN%  B %WHITE%l a %TAN%d e
+ItemDisplay[(UNI) 9ga STAT244>0 ID]:%GOLD%Gothic Axe%NL%%GOLD%B o %TAN%n e %WHITE%s l %TAN%a y %GOLD%e r %TAN%  B %WHITE%l a %TAN%d e
+ItemDisplay[(UNI) 9ga FRW>19 IAS>19 STAT219>0 ID]:%GOLD%Champion Axe%NL%%GOLD%M e %TAN%s s %WHITE%e r %TAN%s c %GOLD%h m %TAN%i d %WHITE%t ' %TAN%s  %GOLD%R e %TAN%a v %WHITE%e %TAN%r
+
 ItemDisplay[(UNI) gax ID]:%GOLD%Great Axe%NL%%GOLD%B r %TAN%a i %WHITE%n h %TAN%e w
 ItemDisplay[(UNI) 9ga ID]:%GOLD%Gothic Axe%NL%%GOLD%B r %TAN%a i %WHITE%n h %TAN%e w
 ItemDisplay[(UNI) 7ga ID]:%GOLD%Champion Axe%NL%%GOLD%B r %TAN%a i %WHITE%n h %TAN%e w
-ItemDisplay[(UNI) 7ga STAT244>0 ID]:%GOLD%Champion Axe%NL%%GOLD%B o %TAN%n e %WHITE%s l %TAN%a y %GOLD%e r %TAN%  B %WHITE%l a %TAN%d e
-ItemDisplay[(UNI) 9ga STAT244>0 ID]:%GOLD%Gothic Axe%NL%%GOLD%B o %TAN%n e %WHITE%s l %TAN%a y %GOLD%e r %TAN%  B %WHITE%l a %TAN%d e
-ItemDisplay[(UNI) cga FRW>19 IAS>19 STAT219>0 ID]:%GOLD%Champion Axe%NL%%GOLD%M e %TAN%s s %WHITE%e r %TAN%s c %GOLD%h m %TAN%i d %WHITE%t ' %TAN%s  %GOLD%R e %TAN%a v %WHITE%e %TAN%r
+
+ItemDisplay[(UNI) 7gi STAT150>0 ID]:%GOLD%Glorious Axe%NL%%GOLD%T h %TAN%e  %WHITE%M i %TAN%n o %GOLD%t a %TAN%u r
+ItemDisplay[(UNI) 9gi STAT150>0 ID]:%GOLD%Ancient Axe%NL%%GOLD%T h %TAN%e  %WHITE%M i %TAN%n o %GOLD%t a %TAN%u r
+ItemDisplay[(UNI) 7gi STAT116>32 STAT136>24 ID]:%GOLD%Glorious Axe%NL%%GOLD%E x %TAN%e c %WHITE%u t %TAN%i o %GOLD%n e %TAN%r ' %WHITE%s  %TAN%J u %GOLD%s t %TAN%i c %WHITE%e
 ItemDisplay[(UNI) gix ID]:%GOLD%Giant Axe%NL%%GOLD%H u %TAN%m o %WHITE%n g %TAN%o u %GOLD%s
 ItemDisplay[(UNI) 9gi ID]:%GOLD%Ancient Axe%NL%%GOLD%H u %TAN%m o %WHITE%n g %TAN%o u %GOLD%s
 ItemDisplay[(UNI) 7gi ID]:%GOLD%Glorious Axe%NL%%GOLD%H u %TAN%m o %WHITE%n g %TAN%o u %GOLD%s
-ItemDisplay[(UNI) 7gi STAT150>0 ID]:%GOLD%Glorious Axe%NL%%GOLD%T h %TAN%e  %WHITE%M i %TAN%n o %GOLD%t a %TAN%u r
-ItemDisplay[(UNI) 9gi STAT150>0 ID]:%GOLD%Ancient Axe%NL%%GOLD%T h %TAN%e  %WHITE%M i %TAN%n o %GOLD%t a %TAN%u r
-ItemDisplay[(UNI) cgi STAT116>32 STAT136>24 ID]:%GOLD%Glorious Axe%NL%%GOLD%E x %TAN%e c %WHITE%u t %TAN%i o %GOLD%n e %TAN%r ' %WHITE%s  %TAN%J u %GOLD%s t %TAN%i c %WHITE%e
+
+ItemDisplay[(UNI) 7cl CLSK5>0 ID]:%GOLD%Truncheon%NL%%GOLD%D a %TAN%r k %WHITE% C %TAN%l a %GOLD%n  %TAN%C r %WHITE%u s %TAN%h e %GOLD%r
+ItemDisplay[(UNI) 9cl CLSK5>0 ID]:%GOLD%Cudgel%NL%%GOLD%D a %TAN%r k %WHITE% C %TAN%l a %GOLD%n  %TAN%C r %WHITE%u s %TAN%h e %GOLD%r
+ItemDisplay[(UNI) 7cl STAT148>0 ID]:%GOLD%Truncheon%NL%%GOLD%N o %TAN%r d %WHITE%' s %TAN%  T %GOLD%e n %TAN%d e %WHITE%r i %TAN%z e %GOLD%r
 ItemDisplay[(UNI) clb ID]:%GOLD%Club%NL%%GOLD%F e %TAN%l l %WHITE%o a %TAN%k
 ItemDisplay[(UNI) 9cl ID]:%GOLD%Cudgel%NL%%GOLD%F e %TAN%l l %WHITE%o a %TAN%k
 ItemDisplay[(UNI) 7cl ID]:%GOLD%Truncheon%NL%%GOLD%F e %TAN%l l %WHITE%o a %TAN%k
-ItemDisplay[(UNI) 7cl CLSK5>0 ID]:%GOLD%Truncheon%NL%%GOLD%D a %TAN%r k %WHITE% C %TAN%l a %GOLD%n  %TAN%C r %WHITE%u s %TAN%h e %GOLD%r
-ItemDisplay[(UNI) 9cl CLSK5>0 ID]:%GOLD%Cudgel%NL%%GOLD%D a %TAN%r k %WHITE% C %TAN%l a %GOLD%n  %TAN%C r %WHITE%u s %TAN%h e %GOLD%r
-ItemDisplay[(UNI) ccl STAT148>0 ID]:%GOLD%Truncheon%NL%%GOLD%N o %TAN%r d %WHITE%' s %TAN%  T %GOLD%e n %TAN%d e %WHITE%r i %TAN%z e %GOLD%r
-ItemDisplay[(UNI) spc ID]:%GOLD%Spiked Club%NL%%GOLD%S t %TAN%o u %WHITE%t n %TAN%a i %GOLD%l
-ItemDisplay[(UNI) 9sp ID]:%GOLD%Barbed Club%NL%%GOLD%S t %TAN%o u %WHITE%t n %TAN%a i %GOLD%l
-ItemDisplay[(UNI) 7sp ID]:%GOLD%Tyrant Club%NL%%GOLD%S t %TAN%o u %WHITE%t n %TAN%a i %GOLD%l
+
 ItemDisplay[(UNI) 7sp TABSK41>1 ID]:%GOLD%Tyrant Club%NL%%GOLD%F l %TAN%e s %WHITE%h r %TAN%e n %GOLD%d e %TAN%r
 ItemDisplay[(UNI) 9sp TABSK41>1 ID]:%GOLD%Barbed Club%NL%%GOLD%F l %TAN%e s %WHITE%h r %TAN%e n %GOLD%d e %TAN%r
 ItemDisplay[(UNI) 7sp STAT121>122 (STAT48>0 OR STAT49>0) STAT60>6 FRES>14 ID]:%GOLD%Tyrant Club%NL%%GOLD%D e %TAN%m o %WHITE%n  %TAN%L i %GOLD%m b
+ItemDisplay[(UNI) spc ID]:%GOLD%Spiked Club%NL%%GOLD%S t %TAN%o u %WHITE%t n %TAN%a i %GOLD%l
+ItemDisplay[(UNI) 9sp ID]:%GOLD%Barbed Club%NL%%GOLD%S t %TAN%o u %WHITE%t n %TAN%a i %GOLD%l
+ItemDisplay[(UNI) 7sp ID]:%GOLD%Tyrant Club%NL%%GOLD%S t %TAN%o u %WHITE%t n %TAN%a i %GOLD%l
+
+ItemDisplay[(UNI) 9ma STAT362>1 ID]:%GOLD%Flanged Mace%NL%%GOLD%S u %TAN%r e %WHITE%s h %TAN%r i %GOLD%l l %TAN%  F %WHITE%r o %TAN%s t
+ItemDisplay[(UNI) 7ma STAT362>1 ID]:%GOLD%Reinforced Mace%NL%%GOLD%S u %TAN%r e %WHITE%s h %TAN%r i %GOLD%l l %TAN%  F %WHITE%r o %TAN%s t
 ItemDisplay[(UNI) mac ID]:%GOLD%Mace%NL%%GOLD%C r %TAN%u s %WHITE%h f %TAN%l a %GOLD%n g %TAN%e
 ItemDisplay[(UNI) 9ma ID]:%GOLD%Flanged Mace%NL%%GOLD%C r %TAN%u s %WHITE%h f %TAN%l a %GOLD%n g %TAN%e
 ItemDisplay[(UNI) 7ma ID]:%GOLD%Reinforced Mace%NL%%GOLD%C r %TAN%u s %WHITE%h f %TAN%l a %GOLD%n g %TAN%e
-ItemDisplay[(UNI) 9ma STAT362>1 ID]:%GOLD%Flanged Mace%NL%%GOLD%S u %TAN%r e %WHITE%s h %TAN%r i %GOLD%l l %TAN%  F %WHITE%r o %TAN%s t
-ItemDisplay[(UNI) 7ma STAT362>1 ID]:%GOLD%Reinforced Mace%NL%%GOLD%S u %TAN%r e %WHITE%s h %TAN%r i %GOLD%l l %TAN%  F %WHITE%r o %TAN%s t
-ItemDisplay[(UNI) mst ID]:%GOLD%Morning Star%NL%%GOLD%B l %TAN%o o %WHITE%d r %TAN%i s %GOLD%e
-ItemDisplay[(UNI) 9mt ID]:%GOLD%Jagged Star%NL%%GOLD%B l %TAN%o o %WHITE%d r %TAN%i s %GOLD%e
-ItemDisplay[(UNI) 7mt ID]:%GOLD%Devil Star%NL%%GOLD%B l %TAN%o o %WHITE%d r %TAN%i s %GOLD%e
+
 ItemDisplay[(UNI) 7mt STAT366>0 ID]:%GOLD%Devil Star%NL%%GOLD%M o %TAN%o n %WHITE%f a %TAN%l l
 ItemDisplay[(UNI) 9mt STAT366>0 ID]:%GOLD%Jagged Star%NL%%GOLD%M o %TAN%o n %WHITE%f a %TAN%l l
 ItemDisplay[(UNI) 7mt ARPER>199 ID]:%GOLD%Devil Star%NL%%GOLD%B a %TAN%r a %WHITE%n a %TAN%r ' %GOLD%s  %TAN%S t %WHITE%a r
-ItemDisplay[(UNI) cla ID]:%GOLD%Flail%NL%%GOLD%T h %TAN%e  %WHITE%G e %TAN%n e %GOLD%r a %TAN%l ' %WHITE%s  %TAN%T a %GOLD%n  %TAN%D o %WHITE% %TAN%L %GOLD%i %TAN%  %WHITE%G %TAN%a 
-ItemDisplay[(UNI) cfl ID]:%GOLD%Knout%NL%%GOLD%T h %TAN%e  %WHITE%G e %TAN%n e %GOLD%r a %TAN%l ' %WHITE%s  %TAN%T a %GOLD%n  %TAN%D o %WHITE% %TAN%L %GOLD%i %TAN%  %WHITE%G %TAN%a 
-ItemDisplay[(UNI) cfl ID]:%GOLD%Scourge%NL%%GOLD%T h %TAN%e  %WHITE%G e %TAN%n e %GOLD%r a %TAN%l ' %WHITE%s  %TAN%T a %GOLD%n  %TAN%D o %WHITE% %TAN%L %GOLD%i %TAN%  %WHITE%G %TAN%a 
-ItemDisplay[(UNI) cfl IAS>19 (STAT50>0 OR STAT51>0) MANA>99 LRES>24 ID]:%GOLD%Knout%NL%%GOLD%B a %TAN%e z %WHITE%i l %TAN%' s %GOLD%  V %TAN%o r %WHITE%t e %TAN%x
-ItemDisplay[(UNI) cfl IAS>19 (STAT50>0 OR STAT51>0) MANA>99 LRES>24 ID]:%GOLD%Scourge%NL%%GOLD%B a %TAN%e z %WHITE%i l %TAN%' s %GOLD%  V %TAN%o r %WHITE%t e %TAN%x
-ItemDisplay[(UNI) cfl FCR>34 ID]:%GOLD%Scourge%NL%%GOLD%H o %TAN%r i %WHITE%z o %TAN%n ' %GOLD%s  %TAN%T o %WHITE%r n %TAN%a d %GOLD%o
+ItemDisplay[(UNI) mst ID]:%GOLD%Morning Star%NL%%GOLD%B l %TAN%o o %WHITE%d r %TAN%i s %GOLD%e
+ItemDisplay[(UNI) 9mt ID]:%GOLD%Jagged Star%NL%%GOLD%B l %TAN%o o %WHITE%d r %TAN%i s %GOLD%e
+ItemDisplay[(UNI) 7mt ID]:%GOLD%Devil Star%NL%%GOLD%B l %TAN%o o %WHITE%d r %TAN%i s %GOLD%e
+
+ItemDisplay[(UNI) 9fl IAS>19 (STAT50>0 OR STAT51>0) MANA>99 LRES>24 ID]:%GOLD%Knout%NL%%GOLD%B a %TAN%e z %WHITE%i l %TAN%' s %GOLD%  V %TAN%o r %WHITE%t e %TAN%x
+ItemDisplay[(UNI) 7fl IAS>19 (STAT50>0 OR STAT51>0) MANA>99 LRES>24 ID]:%GOLD%Scourge%NL%%GOLD%B a %TAN%e z %WHITE%i l %TAN%' s %GOLD%  V %TAN%o r %WHITE%t e %TAN%x
+ItemDisplay[(UNI) 7fl FCR>34 ID]:%GOLD%Scourge%NL%%GOLD%H o %TAN%r i %WHITE%z o %TAN%n ' %GOLD%s  %TAN%T o %WHITE%r n %TAN%a d %GOLD%o
 ItemDisplay[(UNI) 7fl (STAT50>0 OR STAT51>0) ID]:%GOLD%Scourge%NL%%GOLD%S t %TAN%o r %WHITE%m l %TAN%a s %GOLD%h
-ItemDisplay[(UNI) whm ID]:%GOLD%War Hammer%NL%%GOLD%I r %TAN%o n %WHITE%s t %TAN%o n %GOLD%e
-ItemDisplay[(UNI) 9wh ID]:%GOLD%Battle Hammer%NL%%GOLD%I r %TAN%o n %WHITE%s t %TAN%o n %GOLD%e
-ItemDisplay[(UNI) 7wh ID]:%GOLD%Legendary Mallet%NL%%GOLD%I r %TAN%o n %WHITE%s t %TAN%o n %GOLD%e
+ItemDisplay[(UNI) fla ID]:%GOLD%Flail%NL%%GOLD%T h %TAN%e  %WHITE%G e %TAN%n e %GOLD%r a %TAN%l ' %WHITE%s  %TAN%T a %GOLD%n  %TAN%D o %WHITE% %TAN%L %GOLD%i %TAN%  %WHITE%G %TAN%a 
+ItemDisplay[(UNI) 9fl ID]:%GOLD%Knout%NL%%GOLD%T h %TAN%e  %WHITE%G e %TAN%n e %GOLD%r a %TAN%l ' %WHITE%s  %TAN%T a %GOLD%n  %TAN%D o %WHITE% %TAN%L %GOLD%i %TAN%  %WHITE%G %TAN%a 
+ItemDisplay[(UNI) 7fl ID]:%GOLD%Scourge%NL%%GOLD%T h %TAN%e  %WHITE%G e %TAN%n e %GOLD%r a %TAN%l ' %WHITE%s  %TAN%T a %GOLD%n  %TAN%D o %WHITE% %TAN%L %GOLD%i %TAN%  %WHITE%G %TAN%a 
+
 ItemDisplay[(UNI) 9wh FCR>19 TABSK42>2 ID]:%GOLD%Battle Hammer%NL%%GOLD%E a %TAN%r t %WHITE%h s %TAN%h a %GOLD%k e %TAN%r
 ItemDisplay[(UNI) 7wh FCR>19 TABSK42>2 ID]:%GOLD%Legendary Mallet%NL%%GOLD%E a %TAN%r t %WHITE%h s %TAN%h a %GOLD%k e %TAN%r
 ItemDisplay[(UNI) 7wh !(STAT50>0 OR STAT51>0) ID]:%TAN%%CORAL%Legendary Mallet%NL%%ORANGE%S t %GOLD%o n %TAN%e  %GOLD%C r %ORANGE%u s %WHITE%h e %ORANGE%r
-ItemDisplay[(UNI) cwh (STAT50>0 OR STAT51>0) ID]:%TAN%%CORAL%Legendary Mallet%NL%%ORANGE%S c %GOLD%h a %TAN%e f %GOLD%e r %ORANGE%' s %WHITE% H %ORANGE%a m %GOLD%m e %TAN%r
+ItemDisplay[(UNI) 7wh (STAT50>0 OR STAT51>0) ID]:%TAN%%CORAL%Legendary Mallet%NL%%ORANGE%S c %GOLD%h a %TAN%e f %GOLD%e r %ORANGE%' s %WHITE% H %ORANGE%a m %GOLD%m e %TAN%r
+ItemDisplay[(UNI) whm ID]:%GOLD%War Hammer%NL%%GOLD%I r %TAN%o n %WHITE%s t %TAN%o n %GOLD%e
+ItemDisplay[(UNI) 9wh ID]:%GOLD%Battle Hammer%NL%%GOLD%I r %TAN%o n %WHITE%s t %TAN%o n %GOLD%e
+ItemDisplay[(UNI) 7wh ID]:%GOLD%Legendary Mallet%NL%%GOLD%I r %TAN%o n %WHITE%s t %TAN%o n %GOLD%e
+
+ItemDisplay[(UNI) 9m9 STR>24 RES>19 TABSK33>1 ID]:%GOLD%War Club%NL%%GOLD%B l %TAN%o o %WHITE%d t %TAN%r e %GOLD%e  %TAN%S t %WHITE%u m %TAN%p
+ItemDisplay[(UNI) 7m7 STR>24 RES>19 TABSK33>1 ID]:%GOLD%Ogre Maul%NL%%GOLD%B l %TAN%o o %WHITE%d t %TAN%r e %GOLD%e  %TAN%S t %WHITE%u m %TAN%p
+ItemDisplay[(UNI) 7m7 STAT136>49 IAS>39 ED>229 ID]:%TAN%%CORAL%Ogre Maul%NL%%ORANGE%W i %GOLD%n d %TAN%h a %GOLD%m m %ORANGE%e r
 ItemDisplay[(UNI) mau ID]:%GOLD%Maul%NL%%GOLD%B o %TAN%n e %WHITE%s n %TAN%a p
 ItemDisplay[(UNI) 9m9 ID]:%GOLD%War Club%NL%%GOLD%B o %TAN%n e %WHITE%s n %TAN%a p
 ItemDisplay[(UNI) 7m7 ID]:%GOLD%Ogre Maul%NL%%GOLD%B o %TAN%n e %WHITE%s n %TAN%a p
-ItemDisplay[(UNI) cm9 STR>24 RES>19 TABSK33>1 ID]:%GOLD%War Club%NL%%GOLD%B l %TAN%o o %WHITE%d t %TAN%r e %GOLD%e  %TAN%S t %WHITE%u m %TAN%p
-ItemDisplay[(UNI) cm7 STR>24 RES>19 TABSK33>1 ID]:%GOLD%Ogre Maul%NL%%GOLD%B l %TAN%o o %WHITE%d t %TAN%r e %GOLD%e  %TAN%S t %WHITE%u m %TAN%p
-ItemDisplay[(UNI) 7m7 STAT136>49 IAS>39 ED>229 ID]:%TAN%%CORAL%Ogre Maul%NL%%ORANGE%W i %GOLD%n d %TAN%h a %GOLD%m m %ORANGE%e r
+
+ItemDisplay[(UNI) 7gm MAXDMG>0 MINDMG>0 STAT78>259 ID]:%TAN%%CORAL%Thunder Maul%NL%%ORANGE%T h %GOLD%e  %TAN%G a %GOLD%v e %ORANGE%l  %WHITE%o f %ORANGE%  P %GOLD%a i %TAN%n
+ItemDisplay[(UNI) 9gm MAXDMG>0 MINDMG>0 STAT78>259 ID]:%TAN%%CORAL%Martel de Fer%NL%%ORANGE%T h %GOLD%e  %TAN%G a %GOLD%v e %ORANGE%l  %WHITE%o f %ORANGE%  P %GOLD%a i %TAN%n
+ItemDisplay[(UNI) 7gm TABSK42>0 ID]:%TAN%%CORAL%Thunder Maul%NL%%ORANGE%E a %GOLD%r t %TAN%h  %GOLD%S h %ORANGE%i f %WHITE%t e %ORANGE%r
+ItemDisplay[(UNI) 7gm !TABSK42>0 ID]:%TAN%%CORAL%Thunder Maul%NL%%ORANGE%T h %GOLD%e  %TAN%C r %GOLD%a n %ORANGE%i u %WHITE%m  %ORANGE%B a %GOLD%s h %TAN%e r
 ItemDisplay[(UNI) gma ID]:%GOLD%Great Maul%NL%%GOLD%S t %TAN%e e %WHITE%l d %TAN%r i %GOLD%v e %TAN%r
 ItemDisplay[(UNI) 9gm ID]:%GOLD%Martel de Fer%NL%%GOLD%S t %TAN%e e %WHITE%l d %TAN%r i %GOLD%v e %TAN%r
 ItemDisplay[(UNI) 7gm ID]:%GOLD%Thunder Maul%NL%%GOLD%S t %TAN%e e %WHITE%l d %TAN%r i %GOLD%v e %TAN%r
-ItemDisplay[(UNI) cgm MAXDMG>0 MINDMG>0 STAT78>259 ID]:%TAN%%CORAL%Thunder Maul%NL%%ORANGE%T h %GOLD%e  %TAN%G a %GOLD%v e %ORANGE%l  %WHITE%o f %ORANGE%  P %GOLD%a i %TAN%n
-ItemDisplay[(UNI) cgm MAXDMG>0 MINDMG>0 STAT78>259 ID]:%TAN%%CORAL%Martel de Fer%NL%%ORANGE%T h %GOLD%e  %TAN%G a %GOLD%v e %ORANGE%l  %WHITE%o f %ORANGE%  P %GOLD%a i %TAN%n
-ItemDisplay[(UNI) 7gm TABSK42>0 ID]:%TAN%%CORAL%Thunder Maul%NL%%ORANGE%E a %GOLD%r t %TAN%h  %GOLD%S h %ORANGE%i f %WHITE%t e %ORANGE%r
-ItemDisplay[(UNI) cgm !TABSK42>0 ID]:%TAN%%CORAL%Thunder Maul%NL%%ORANGE%T h %GOLD%e  %TAN%C r %GOLD%a n %ORANGE%i u %WHITE%m  %ORANGE%B a %GOLD%s h %TAN%e r
+
+ItemDisplay[(UNI) 7ss STAT154>0 ID]:%GOLD%Falcata%NL%%GOLD%B l %TAN%o o %WHITE%d l %TAN%e t %GOLD%t e %TAN%r
+ItemDisplay[(UNI) 9ss STAT154>0 ID]:%GOLD%Gladius%NL%%GOLD%B l %TAN%o o %WHITE%d l %TAN%e t %GOLD%t e %TAN%r
 ItemDisplay[(UNI) ssd ID]:%GOLD%Short Sword%NL%%GOLD%R i %TAN%x o %WHITE%t ' %TAN%s  %GOLD%K e %TAN%e n
 ItemDisplay[(UNI) 9ss ID]:%GOLD%Gladius%NL%%GOLD%R i %TAN%x o %WHITE%t ' %TAN%s  %GOLD%K e %TAN%e n
 ItemDisplay[(UNI) 7ss ID]:%GOLD%Falcata%NL%%GOLD%R i %TAN%x o %WHITE%t ' %TAN%s  %GOLD%K e %TAN%e n
-ItemDisplay[(UNI) 7ss STAT154>0 ID]:%GOLD%Falcata%NL%%GOLD%B l %TAN%o o %WHITE%d l %TAN%e t %GOLD%t e %TAN%r
-ItemDisplay[(UNI) 9ss STAT154>0 ID]:%GOLD%Gladius%NL%%GOLD%B l %TAN%o o %WHITE%d l %TAN%e t %GOLD%t e %TAN%r
-ItemDisplay[(UNI) scm ID]:%GOLD%Scimitar%NL%%GOLD%B l %TAN%o o %WHITE%d  %TAN%C r %GOLD%e s %TAN%c e %WHITE%n t
-ItemDisplay[(UNI) 9sm ID]:%GOLD%Cutlass%NL%%GOLD%B l %TAN%o o %WHITE%d  %TAN%C r %GOLD%e s %TAN%c e %WHITE%n t
-ItemDisplay[(UNI) 7sm ID]:%GOLD%Ataghan%NL%%GOLD%B l %TAN%o o %WHITE%d  %TAN%C r %GOLD%e s %TAN%c e %WHITE%n t
+
 ItemDisplay[(UNI) 9sm STAT134>0 ID]:%GOLD%Cutlass%NL%%GOLD%C o %TAN%l d %WHITE%s t %TAN%e e %GOLD%l  %TAN%E y %WHITE%e
 ItemDisplay[(UNI) 7sm STAT134>0 ID]:%GOLD%Ataghan%NL%%GOLD%C o %TAN%l d %WHITE%s t %TAN%e e %GOLD%l  %TAN%E y %WHITE%e
 ItemDisplay[(UNI) 7sm STAT145>0 ID]:%GOLD%Ataghan%NL%%GOLD%D j %TAN%i n %WHITE%n  %TAN%S l %GOLD%a y %TAN%e r
-ItemDisplay[(UNI) sbr ID]:%GOLD%Sabre%NL%%GOLD%S k %TAN%e w %WHITE%e r %TAN%  o %GOLD%f  %TAN%K r %WHITE%i n %TAN%t i %GOLD%z
-ItemDisplay[(UNI) 9sb ID]:%GOLD%Shamshir%NL%%GOLD%S k %TAN%e w %WHITE%e r %TAN%  o %GOLD%f  %TAN%K r %WHITE%i n %TAN%t i %GOLD%z
-ItemDisplay[(UNI) 7sb ID]:%GOLD%Elegant Blade%NL%%GOLD%S k %TAN%e w %WHITE%e r %TAN%  o %GOLD%f  %TAN%K r %WHITE%i n %TAN%t i %GOLD%z
+ItemDisplay[(UNI) scm ID]:%GOLD%Scimitar%NL%%GOLD%B l %TAN%o o %WHITE%d  %TAN%C r %GOLD%e s %TAN%c e %WHITE%n t
+ItemDisplay[(UNI) 9sm ID]:%GOLD%Cutlass%NL%%GOLD%B l %TAN%o o %WHITE%d  %TAN%C r %GOLD%e s %TAN%c e %WHITE%n t
+ItemDisplay[(UNI) 7sm ID]:%GOLD%Ataghan%NL%%GOLD%B l %TAN%o o %WHITE%d  %TAN%C r %GOLD%e s %TAN%c e %WHITE%n t
+
 ItemDisplay[(UNI) 9sb STAT363>1 ID]:%GOLD%Shamshir%NL%%GOLD%H e %TAN%x f %WHITE%i r %TAN%e
 ItemDisplay[(UNI) 7sb STAT363>1 ID]:%GOLD%Elegant Blade%NL%%GOLD%H e %TAN%x f %WHITE%i r %TAN%e
 ItemDisplay[(UNI) 7sb STAT135>49 STAT86>6 STAT60>9 ID]:%GOLD%Elegant Blade%NL%%GOLD%B l %TAN%o o %WHITE%d m %TAN%o o %GOLD%n
+ItemDisplay[(UNI) sbr ID]:%GOLD%Sabre%NL%%GOLD%S k %TAN%e w %WHITE%e r %TAN%  o %GOLD%f  %TAN%K r %WHITE%i n %TAN%t i %GOLD%z
+ItemDisplay[(UNI) 9sb ID]:%GOLD%Shamshir%NL%%GOLD%S k %TAN%e w %WHITE%e r %TAN%  o %GOLD%f  %TAN%K r %WHITE%i n %TAN%t i %GOLD%z
+ItemDisplay[(UNI) 7sb ID]:%GOLD%Elegant Blade%NL%%GOLD%S k %TAN%e w %WHITE%e r %TAN%  o %GOLD%f  %TAN%K r %WHITE%i n %TAN%t i %GOLD%z
+
+ItemDisplay[(UNI) 9fc STAT239>0 ID]:%GOLD%Tulwar%NL%%GOLD%B l %TAN%a d %WHITE%e  %TAN%o f %GOLD%  A %TAN%l i %WHITE% B %TAN%a b %GOLD%a
+ItemDisplay[(UNI) 7fc STAT239>0 ID]:%GOLD%Hydra Edge%NL%%GOLD%B l %TAN%a d %WHITE%e  %TAN%o f %GOLD%  A %TAN%l i %WHITE% B %TAN%a b %GOLD%a
 ItemDisplay[(UNI) flc ID]:%GOLD%Falchion%NL%%GOLD%G l %TAN%e a %WHITE%m s %TAN%c y %GOLD%t h %TAN%e
 ItemDisplay[(UNI) 9fc ID]:%GOLD%Tulwar%NL%%GOLD%G l %TAN%e a %WHITE%m s %TAN%c y %GOLD%t h %TAN%e
 ItemDisplay[(UNI) 7fc ID]:%GOLD%Hydra Edge%NL%%GOLD%G l %TAN%e a %WHITE%m s %TAN%c y %GOLD%t h %TAN%e
-ItemDisplay[(UNI) 9fc STAT239>0 ID]:%GOLD%Tulwar%NL%%GOLD%B l %TAN%a d %WHITE%e  %TAN%o f %GOLD%  A %TAN%l i %WHITE% B %TAN%a b %GOLD%a
-ItemDisplay[(UNI) 7fc STAT239>0 ID]:%GOLD%Hydra Edge%NL%%GOLD%B l %TAN%a d %WHITE%e  %TAN%o f %GOLD%  A %TAN%l i %WHITE% B %TAN%a b %GOLD%a
-ItemDisplay[(UNI) 9cr STAT35>0 ID]:%GOLD%Dimensional Blade%NL%%GOLD%G i %TAN%n t %WHITE%h e %TAN%r ' %GOLD%s  %TAN%R i %WHITE%f t
-ItemDisplay[(UNI) 7cr STAT35>0 ID]:%GOLD%Phase Blade%NL%%GOLD%G i %TAN%n t %WHITE%h e %TAN%r ' %GOLD%s  %TAN%R i %WHITE%f t
+
 ItemDisplay[(UNI) 7cr (STAT50>0 OR STAT51>0) ID]:%TAN%%CORAL%Phase Blade%NL%%ORANGE%L i %GOLD%g h %TAN%t s %GOLD%a b %ORANGE%r e
 ItemDisplay[(UNI) 7cr ALLSK>0 (STAT54>0 OR STAT55>0 OR STAT56>0) ID]:%TAN%%CORAL%Phase Blade%NL%%ORANGE%A z %GOLD%u r %TAN%e w %GOLD%r a %ORANGE%t h
-ItemDisplay[(UNI) bsd ID]:%GOLD%Broad Sword%NL%%GOLD%G r %TAN%i s %WHITE%w o %TAN%l d %GOLD%' s %TAN%  E %WHITE%d g %TAN%e
-ItemDisplay[(UNI) 9bs ID]:%GOLD%Battle Sword%NL%%GOLD%G r %TAN%i s %WHITE%w o %TAN%l d %GOLD%' s %TAN%  E %WHITE%d g %TAN%e
-ItemDisplay[(UNI) 7bs ID]:%GOLD%Conquest Sword%NL%%GOLD%G r %TAN%i s %WHITE%w o %TAN%l d %GOLD%' s %TAN%  E %WHITE%d g %TAN%e
+ItemDisplay[(UNI) 9cr STAT35>0 ID]:%GOLD%Dimensional Blade%NL%%GOLD%G i %TAN%n t %WHITE%h e %TAN%r ' %GOLD%s  %TAN%R i %WHITE%f t
+ItemDisplay[(UNI) 7cr STAT35>0 ID]:%GOLD%Phase Blade%NL%%GOLD%G i %TAN%n t %WHITE%h e %TAN%r ' %GOLD%s  %TAN%R i %WHITE%f t
+
 ItemDisplay[(UNI) 9bs STAT218>0 ID]:%GOLD%Battle Sword%NL%%GOLD%H e %TAN%a d %WHITE%s t %TAN%r i %GOLD%k e %TAN%r
 ItemDisplay[(UNI) 7bs STAT218>0 ID]:%GOLD%Conquest Sword%NL%%GOLD%H e %TAN%a d %WHITE%s t %TAN%r i %GOLD%k e %TAN%r
 ItemDisplay[(UNI) 7bs STAT152>0 MAXDMG>49 ID]:%ORANGE%%CORAL%Conquest Sword%NL%%PURPLE%H a %RED%d r %ORANGE%i e %GOLD%l ' %WHITE%s  %GOLD%H a %RED%n d
-ItemDisplay[(UNI) lsd ID]:%GOLD%Long Sword%NL%%GOLD%H e %TAN%l l %WHITE%p l %TAN%a g %GOLD%u e
-ItemDisplay[(UNI) 9ls ID]:%GOLD%Rune Sword%NL%%GOLD%H e %TAN%l l %WHITE%p l %TAN%a g %GOLD%u e
-ItemDisplay[(UNI) 7ls ID]:%GOLD%Cryptic Sword%NL%%GOLD%H e %TAN%l l %WHITE%p l %TAN%a g %GOLD%u e
+ItemDisplay[(UNI) bsd ID]:%GOLD%Broad Sword%NL%%GOLD%G r %TAN%i s %WHITE%w o %TAN%l d %GOLD%' s %TAN%  E %WHITE%d g %TAN%e
+ItemDisplay[(UNI) 9bs ID]:%GOLD%Battle Sword%NL%%GOLD%G r %TAN%i s %WHITE%w o %TAN%l d %GOLD%' s %TAN%  E %WHITE%d g %TAN%e
+ItemDisplay[(UNI) 7bs ID]:%GOLD%Conquest Sword%NL%%GOLD%G r %TAN%i s %WHITE%w o %TAN%l d %GOLD%' s %TAN%  E %WHITE%d g %TAN%e
+
 ItemDisplay[(UNI) 9ls MAXDMG>0 MINDMG>0 PRES>44 ID]:%GOLD%Rune Sword%NL%%GOLD%P l %TAN%a g %WHITE%u e %TAN%  B %GOLD%e a %TAN%r e %WHITE%r
 ItemDisplay[(UNI) 7ls MAXDMG>0 MINDMG>0 PRES>44 ID]:%GOLD%Cryptic Sword%NL%%GOLD%P l %TAN%a g %WHITE%u e %TAN%  B %GOLD%e a %TAN%r e %WHITE%r
 ItemDisplay[(UNI) 7ls STAT362>0 ID]:%GOLD%Cryptic Sword%NL%%GOLD%F r %TAN%o s %WHITE%t w %TAN%i n %GOLD%d
+ItemDisplay[(UNI) lsd ID]:%GOLD%Long Sword%NL%%GOLD%H e %TAN%l l %WHITE%p l %TAN%a g %GOLD%u e
+ItemDisplay[(UNI) 9ls ID]:%GOLD%Rune Sword%NL%%GOLD%H e %TAN%l l %WHITE%p l %TAN%a g %GOLD%u e
+ItemDisplay[(UNI) 7ls ID]:%GOLD%Cryptic Sword%NL%%GOLD%H e %TAN%l l %WHITE%p l %TAN%a g %GOLD%u e
+
+ItemDisplay[(UNI) 9wd CLSK3>1 ID]:%GOLD%Ancient Sword%NL%%GOLD%T h %TAN%e  %WHITE%A t %TAN%l a %GOLD%n t %TAN%e a %WHITE%n
+ItemDisplay[(UNI) 7wd CLSK3>1 ID]:%GOLD%Mythical Sword%NL%%GOLD%T h %TAN%e  %WHITE%A t %TAN%l a %GOLD%n t %TAN%e a %WHITE%n
 ItemDisplay[(UNI) wsd ID]:%GOLD%War Sword%NL%%GOLD%C u %TAN%l w %WHITE%e n %TAN%' s %GOLD%  P %TAN%o i %WHITE%n t
 ItemDisplay[(UNI) 9wd ID]:%GOLD%Ancient Sword%NL%%GOLD%C u %TAN%l w %WHITE%e n %TAN%' s %GOLD%  P %TAN%o i %WHITE%n t
 ItemDisplay[(UNI) 7wd ID]:%GOLD%Mythical Sword%NL%%GOLD%C u %TAN%l w %WHITE%e n %TAN%' s %GOLD%  P %TAN%o i %WHITE%n t
-ItemDisplay[(UNI) 9wd CLSK3>1 ID]:%GOLD%Ancient Sword%NL%%GOLD%T h %TAN%e  %WHITE%A t %TAN%l a %GOLD%n t %TAN%e a %WHITE%n
-ItemDisplay[(UNI) 7wd CLSK3>1 ID]:%GOLD%Mythical Sword%NL%%GOLD%T h %TAN%e  %WHITE%A t %TAN%l a %GOLD%n t %TAN%e a %WHITE%n
+
+ItemDisplay[(UNI) 92h FRW>19 ID]:%GOLD%Espandon%NL%%GOLD%C r %TAN%a i %WHITE%n t %TAN%e  %GOLD%V o %TAN%m i %WHITE%r
+ItemDisplay[(UNI) 72h FRW>19 ID]:%GOLD%Legend Sword%NL%%GOLD%C r %TAN%a i %WHITE%n t %TAN%e  %GOLD%V o %TAN%m i %WHITE%r
 ItemDisplay[(UNI) 2hs ID]:%GOLD%Two-handed Sword%NL%%GOLD%S h %TAN%a d %WHITE%o w %TAN%f a %GOLD%n g
 ItemDisplay[(UNI) 92h ID]:%GOLD%Espandon%NL%%GOLD%S h %TAN%a d %WHITE%o w %TAN%f a %GOLD%n g
 ItemDisplay[(UNI) 72h ID]:%GOLD%Legend Sword%NL%%GOLD%S h %TAN%a d %WHITE%o w %TAN%f a %GOLD%n g
-ItemDisplay[(UNI) 92h FRW>19 ID]:%GOLD%Espandon%NL%%GOLD%C r %TAN%a i %WHITE%n t %TAN%e  %GOLD%V o %TAN%m i %WHITE%r
-ItemDisplay[(UNI) 72h FRW>19 ID]:%GOLD%Legend Sword%NL%%GOLD%C r %TAN%a i %WHITE%n t %TAN%e  %GOLD%V o %TAN%m i %WHITE%r
+
+ItemDisplay[(UNI) 9cm STAT335>9 STAT134>0 ID]:%GOLD%Dacian Falx%NL%%GOLD%B i %TAN%n g %WHITE% S %TAN%z  %GOLD%W a %TAN%n g
+ItemDisplay[(UNI) 7cm STAT335>9 STAT134>0 ID]:%GOLD%Highland Blade%NL%%GOLD%B i %TAN%n g %WHITE% S %TAN%z  %GOLD%W a %TAN%n g
 ItemDisplay[(UNI) clm ID]:%GOLD%Claymore%NL%%GOLD%S o %TAN%u l %WHITE%f l %TAN%a y
 ItemDisplay[(UNI) 9cm ID]:%GOLD%Dacian Falx%NL%%GOLD%S o %TAN%u l %WHITE%f l %TAN%a y
 ItemDisplay[(UNI) 7cm ID]:%GOLD%Highland Blade%NL%%GOLD%S o %TAN%u l %WHITE%f l %TAN%a y
-ItemDisplay[(UNI) 9cm STAT335>9 STAT134>0 ID]:%GOLD%Dacian Falx%NL%%GOLD%B i %TAN%n g %WHITE% S %TAN%z  %GOLD%W a %TAN%n g
-ItemDisplay[(UNI) 7cm STAT335>9 STAT134>0 ID]:%GOLD%Highland Blade%NL%%GOLD%B i %TAN%n g %WHITE% S %TAN%z  %GOLD%W a %TAN%n g
-ItemDisplay[(UNI) gis ID]:%GOLD%Giant Sword%NL%%GOLD%K i %TAN%n e %WHITE%m i %TAN%l ' %GOLD%s  %TAN%A w %WHITE%l
-ItemDisplay[(UNI) 9gs ID]:%GOLD%Tusk Sword%NL%%GOLD%K i %TAN%n e %WHITE%m i %TAN%l ' %GOLD%s  %TAN%A w %WHITE%l
-ItemDisplay[(UNI) 7gs ID]:%GOLD%Balrog Blade%NL%%GOLD%K i %TAN%n e %WHITE%m i %TAN%l ' %GOLD%s  %TAN%A w %WHITE%l
+
 ItemDisplay[(UNI) 9gs STAT244>0 ID]:%GOLD%Tusk Sword%NL%%GOLD%T h %TAN%e  %WHITE%V i %TAN%l e %GOLD%  H %TAN%u s %WHITE%k
 ItemDisplay[(UNI) 7gs STAT244>0 ID]:%GOLD%Balrog Blade%NL%%GOLD%T h %TAN%e  %WHITE%V i %TAN%l e %GOLD%  H %TAN%u s %WHITE%k
 ItemDisplay[(UNI) 7gs STAT363>2 ID]:%GOLD%Balrog Blade%NL%%GOLD%F l %TAN%a m %WHITE%e b %TAN%e l %GOLD%l o %TAN%w
-ItemDisplay[(UNI) bsw ID]:%GOLD%Bastard Sword%NL%%GOLD%B l %TAN%a c %WHITE%k t %TAN%o n %GOLD%g u %TAN%e
-ItemDisplay[(UNI) 9b9 ID]:%GOLD%Gothic Sword%NL%%GOLD%B l %TAN%a c %WHITE%k t %TAN%o n %GOLD%g u %TAN%e
-ItemDisplay[(UNI) 7b7 ID]:%GOLD%Champion Sword%NL%%GOLD%B l %TAN%a c %WHITE%k t %TAN%o n %GOLD%g u %TAN%e
+ItemDisplay[(UNI) gis ID]:%GOLD%Giant Sword%NL%%GOLD%K i %TAN%n e %WHITE%m i %TAN%l ' %GOLD%s  %TAN%A w %WHITE%l
+ItemDisplay[(UNI) 9gs ID]:%GOLD%Tusk Sword%NL%%GOLD%K i %TAN%n e %WHITE%m i %TAN%l ' %GOLD%s  %TAN%A w %WHITE%l
+ItemDisplay[(UNI) 7gs ID]:%GOLD%Balrog Blade%NL%%GOLD%K i %TAN%n e %WHITE%m i %TAN%l ' %GOLD%s  %TAN%A w %WHITE%l
+
 ItemDisplay[(UNI) 9b9 TABSK25>0 ID]:%GOLD%Gothic Sword%NL%%GOLD%C l %TAN%o u %WHITE%d c %TAN%r a %GOLD%c k
 ItemDisplay[(UNI) 7b7 TABSK25>0 ID]:%GOLD%Champion Sword%NL%%GOLD%C l %TAN%o u %WHITE%d c %TAN%r a %GOLD%c k
 ItemDisplay[(UNI) 7b7 STAT76>9 ARPER>39 ID]:%GOLD%Champion Sword%NL%%GOLD%D o %TAN%o m %WHITE%b r %TAN%i n %GOLD%g e %TAN%r
+ItemDisplay[(UNI) bsw ID]:%GOLD%Bastard Sword%NL%%GOLD%B l %TAN%a c %WHITE%k t %TAN%o n %GOLD%g u %TAN%e
+ItemDisplay[(UNI) 9b9 ID]:%GOLD%Gothic Sword%NL%%GOLD%B l %TAN%a c %WHITE%k t %TAN%o n %GOLD%g u %TAN%e
+ItemDisplay[(UNI) 7b7 ID]:%GOLD%Champion Sword%NL%%GOLD%B l %TAN%a c %WHITE%k t %TAN%o n %GOLD%g u %TAN%e
+
+ItemDisplay[(UNI) 9fb STAT143>0 ID]:%GOLD%Zweihander%NL%%GOLD%T o %TAN%d e %WHITE%s f %TAN%a e %GOLD%l l %TAN%e  %WHITE%F l %TAN%a m %GOLD%m e
+ItemDisplay[(UNI) 7fb STAT143>0 ID]:%GOLD%Colossus Sword%NL%%GOLD%T o %TAN%d e %WHITE%s f %TAN%a e %GOLD%l l %TAN%e  %WHITE%F l %TAN%a m %GOLD%m e
+ItemDisplay[(UNI) 7fb MINDMG>34 STAT109>34 ID]:%TAN%%CORAL%Colossus Sword%NL%%ORANGE%O d %GOLD%i u %TAN%m
 ItemDisplay[(UNI) flb ID]:%GOLD%Flamberge%NL%%GOLD%R i %TAN%p s %WHITE%a w
 ItemDisplay[(UNI) 9fb ID]:%GOLD%Zweihander%NL%%GOLD%R i %TAN%p s %WHITE%a w
 ItemDisplay[(UNI) 7fb ID]:%GOLD%Colossus Sword%NL%%GOLD%R i %TAN%p s %WHITE%a w
-ItemDisplay[(UNI) cfb STAT143>0 ID]:%GOLD%Zweihander%NL%%GOLD%T o %TAN%d e %WHITE%s f %TAN%a e %GOLD%l l %TAN%e  %WHITE%F l %TAN%a m %GOLD%m e
-ItemDisplay[(UNI) cfb STAT143>0 ID]:%GOLD%Colossus Sword%NL%%GOLD%T o %TAN%d e %WHITE%s f %TAN%a e %GOLD%l l %TAN%e  %WHITE%F l %TAN%a m %GOLD%m e
-ItemDisplay[(UNI) 7fb MINDMG>34 STAT109>34 ID]:%TAN%%CORAL%Colossus Sword%NL%%ORANGE%O d %GOLD%i u %TAN%m
-ItemDisplay[(UNI) gsd ID]:%GOLD%Great Sword%NL%%GOLD%T h %TAN%e  %WHITE%P a %TAN%t r %GOLD%i a %TAN%r c %WHITE%h
-ItemDisplay[(UNI) 9gd ID]:%GOLD%Executioner Sword%NL%%GOLD%T h %TAN%e  %WHITE%P a %TAN%t r %GOLD%i a %TAN%r c %WHITE%h
-ItemDisplay[(UNI) 7gd ID]:%GOLD%Colossus Blade%NL%%GOLD%T h %TAN%e  %WHITE%P a %TAN%t r %GOLD%i a %TAN%r c %WHITE%h
+
 ItemDisplay[(UNI) 9gd FBR>39 FHR>39 ID]:%GOLD%Executioner Sword%NL%%GOLD%S w %TAN%o r %WHITE%d g %TAN%u a %GOLD%r d
 ItemDisplay[(UNI) 7gd FBR>39 FHR>39 ID]:%GOLD%Colossus Blade%NL%%GOLD%S w %TAN%o r %WHITE%d g %TAN%u a %GOLD%r d
 ItemDisplay[(UNI) 7gd TABSK34>0 ID]:%ORANGE%%CORAL%Colossus Blade%NL%%PURPLE%T h %RED%e  %ORANGE%G r %GOLD%a n %WHITE%d f %GOLD%a t %RED%h e %PURPLE%r
-ItemDisplay[(UNI) dgr ID]:%ORANGE%%CORAL%Dagger%NL%%GOLD%G u %TAN%l l
-ItemDisplay[(UNI) 9dg ID]:%ORANGE%%CORAL%Poignard%NL%%GOLD%G u %TAN%l l
-ItemDisplay[(UNI) 7dg ID]:%ORANGE%%CORAL%Bone Knife%NL%%GOLD%G u %TAN%l l
+ItemDisplay[(UNI) gsd ID]:%GOLD%Great Sword%NL%%GOLD%T h %TAN%e  %WHITE%P a %TAN%t r %GOLD%i a %TAN%r c %WHITE%h
+ItemDisplay[(UNI) 9gd ID]:%GOLD%Executioner Sword%NL%%GOLD%T h %TAN%e  %WHITE%P a %TAN%t r %GOLD%i a %TAN%r c %WHITE%h
+ItemDisplay[(UNI) 7gd ID]:%GOLD%Colossus Blade%NL%%GOLD%T h %TAN%e  %WHITE%P a %TAN%t r %GOLD%i a %TAN%r c %WHITE%h
+
 ItemDisplay[(UNI) 9dg ALLSK>0 STAT117>0 ID]:%GOLD%Poignard%NL%%GOLD%S p %TAN%i n %WHITE%e r %TAN%i p %GOLD%p e %TAN%r
 ItemDisplay[(UNI) 7dg ALLSK>0 STAT117>0 ID]:%GOLD%Bone Knife%NL%%GOLD%S p %TAN%i n %WHITE%e r %TAN%i p %GOLD%p e %TAN%r
 ItemDisplay[(UNI) 7dg STAT152>0 FCR>49 RES>74 ID]:%GOLD%Bone Knife%NL%%GOLD%W i %TAN%z a %WHITE%r d %TAN%s p %GOLD%i k %TAN%e
+ItemDisplay[(UNI) dgr ID]:%ORANGE%%CORAL%Dagger%NL%%GOLD%G u %TAN%l l
+ItemDisplay[(UNI) 9dg ID]:%ORANGE%%CORAL%Poignard%NL%%GOLD%G u %TAN%l l
+ItemDisplay[(UNI) 7dg ID]:%ORANGE%%CORAL%Bone Knife%NL%%GOLD%G u %TAN%l l
+
+ItemDisplay[(UNI) 9di SK150>0 STAT115>0 STAT141>54 ID]:%GOLD%Rondel%NL%%GOLD%H e %TAN%a r %WHITE%t  %TAN%C a %GOLD%r v %TAN%e r
+ItemDisplay[(UNI) 7di SK150>0 STAT115>0 STAT141>54 ID]:%GOLD%Mithril Point%NL%%GOLD%H e %TAN%a r %WHITE%t  %TAN%C a %GOLD%r v %TAN%e r
 ItemDisplay[(UNI) dir ID]:%GOLD%Dirk%NL%%GOLD%T h %TAN%e  %WHITE%D i %TAN%g g %GOLD%l e %TAN%r
 ItemDisplay[(UNI) 9di ID]:%GOLD%Rondel%NL%%GOLD%T h %TAN%e  %WHITE%D i %TAN%g g %GOLD%l e %TAN%r
 ItemDisplay[(UNI) 7di ID]:%GOLD%Mithril Point%NL%%GOLD%T h %TAN%e  %WHITE%D i %TAN%g g %GOLD%l e %TAN%r
-ItemDisplay[(UNI) 9di SK150>0 STAT115>0 STAT141>54 ID]:%GOLD%Rondel%NL%%GOLD%H e %TAN%a r %WHITE%t  %TAN%C a %GOLD%r v %TAN%e r
-ItemDisplay[(UNI) 7di SK150>0 STAT115>0 STAT141>54 ID]:%GOLD%Mithril Point%NL%%GOLD%H e %TAN%a r %WHITE%t  %TAN%C a %GOLD%r v %TAN%e r
-ItemDisplay[(UNI) kri ID]:%GOLD%Cinquedeas%NL%%GOLD%T h %TAN%e  %WHITE%J a %TAN%d e %GOLD%  T %TAN%a n %WHITE% D %TAN%o
-ItemDisplay[(UNI) 9kr ID]:%GOLD%Kris%NL%%GOLD%T h %TAN%e  %WHITE%J a %TAN%d e %GOLD%  T %TAN%a n %WHITE% D %TAN%o
-ItemDisplay[(UNI) 7kr ID]:%GOLD%Fanged Knife%NL%%GOLD%T h %TAN%e  %WHITE%J a %TAN%d e %GOLD%  T %TAN%a n %WHITE% D %TAN%o
+
 ItemDisplay[(UNI) 9kr STAT365>1 ID]:%GOLD%Cinquedeas%NL%%GOLD%B l %TAN%a c %WHITE%k b %TAN%o g %GOLD%' s %TAN%  S %WHITE%h a %TAN%r p
 ItemDisplay[(UNI) 7kr STAT365>1 ID]:%GOLD%Fanged Knife%NL%%GOLD%B l %TAN%a c %WHITE%k b %TAN%o g %GOLD%' s %TAN%  S %WHITE%h a %TAN%r p
 ItemDisplay[(UNI) 7kr STAT150>0 STAT116>0 STAT117>0 ID]:%GOLD%Fanged Knife%NL%%GOLD%F l %TAN%e s %WHITE%h r %TAN%i p %GOLD%p e %TAN%r
-ItemDisplay[(UNI) bld ID]:%GOLD%Blade%NL%%GOLD%S p %TAN%e c %WHITE%t r %TAN%a l %GOLD%  S %TAN%h a %WHITE%r d
-ItemDisplay[(UNI) 9bl ID]:%GOLD%Stiletto%NL%%GOLD%S p %TAN%e c %WHITE%t r %TAN%a l %GOLD%  S %TAN%h a %WHITE%r d
-ItemDisplay[(UNI) 7bl ID]:%GOLD%Legend Spike%NL%%GOLD%S p %TAN%e c %WHITE%t r %TAN%a l %GOLD%  S %TAN%h a %WHITE%r d
+ItemDisplay[(UNI) kri ID]:%GOLD%Cinquedeas%NL%%GOLD%T h %TAN%e  %WHITE%J a %TAN%d e %GOLD%  T %TAN%a n %WHITE% D %TAN%o
+ItemDisplay[(UNI) 9kr ID]:%GOLD%Kris%NL%%GOLD%T h %TAN%e  %WHITE%J a %TAN%d e %GOLD%  T %TAN%a n %WHITE% D %TAN%o
+ItemDisplay[(UNI) 7kr ID]:%GOLD%Fanged Knife%NL%%GOLD%T h %TAN%e  %WHITE%J a %TAN%d e %GOLD%  T %TAN%a n %WHITE% D %TAN%o
+
 ItemDisplay[(UNI) 9bl STAT330>0 STAT334>9 STAT141>19 ID]:%TAN%%CORAL%Stiletto%NL%%ORANGE%S t %GOLD%o r %TAN%m s %GOLD%p i %ORANGE%k e
 ItemDisplay[(UNI) 7bl STAT330>0 STAT334>9 STAT141>19 ID]:%TAN%%CORAL%Legend Spike%NL%%ORANGE%S t %GOLD%o r %TAN%m s %GOLD%p i %ORANGE%k e
 ItemDisplay[(UNI) 7bl STAT329>14 STAT152>0 ID]:%GOLD%Legend Spike%NL%%GOLD%G h %TAN%o s %WHITE%t f %TAN%l a %GOLD%m e
+ItemDisplay[(UNI) bld ID]:%GOLD%Blade%NL%%GOLD%S p %TAN%e c %WHITE%t r %TAN%a l %GOLD%  S %TAN%h a %WHITE%r d
+ItemDisplay[(UNI) 9bl ID]:%GOLD%Stiletto%NL%%GOLD%S p %TAN%e c %WHITE%t r %TAN%a l %GOLD%  S %TAN%h a %WHITE%r d
+ItemDisplay[(UNI) 7bl ID]:%GOLD%Legend Spike%NL%%GOLD%S p %TAN%e c %WHITE%t r %TAN%a l %GOLD%  S %TAN%h a %WHITE%r d
+
+ItemDisplay[(UNI) 9ta ARPER>24 MAEK>3 ID]:%GOLD%Francisca%NL%%GOLD%T h %TAN%e  %WHITE%S c %TAN%a l %GOLD%p e %TAN%r
+ItemDisplay[(UNI) 7ta ARPER>24 MAEK>3 ID]:%GOLD%Flying Axe%NL%%GOLD%T h %TAN%e  %WHITE%S c %TAN%a l %GOLD%p e %TAN%r
 ItemDisplay[(UNI) 9tk ID]:%GOLD%Battle Dart%NL%%GOLD%D e %TAN%a t %WHITE%h b %TAN%i t
 ItemDisplay[(UNI) 7tk ID]:%GOLD%Flying Knife%NL%%GOLD%D e %TAN%a t %WHITE%h b %TAN%i t
 ItemDisplay[(UNI) 7ta ID]:%GOLD%Flying Axe%NL%%GOLD%G i %TAN%m m %WHITE%e r %TAN%s h %GOLD%r e %TAN%d
-ItemDisplay[(UNI) 9ta ARPER>24 MAEK>3 ID]:%GOLD%Francisca%NL%%GOLD%T h %TAN%e  %WHITE%S c %TAN%a l %GOLD%p e %TAN%r
-ItemDisplay[(UNI) 7ta ARPER>24 MAEK>3 ID]:%GOLD%Flying Axe%NL%%GOLD%T h %TAN%e  %WHITE%S c %TAN%a l %GOLD%p e %TAN%r
+/////////////////////
 ItemDisplay[(UNI) 7bk ID]:%GOLD%Winged Knife%NL%%GOLD%W a %TAN%r s %WHITE%h r %TAN%i k %GOLD%e
 ItemDisplay[(UNI) 7b8 ID]:%ORANGE%%CORAL%Winged Axe%NL%%PURPLE%L a %RED%c e %ORANGE%r a %GOLD%t o %WHITE%r
 ItemDisplay[(UNI) 7s7 ID]:%TAN%%CORAL%Balrog Spear%NL%%ORANGE%D e %GOLD%m o %TAN%n ' %GOLD%s  %ORANGE%A r %WHITE%c h
 ItemDisplay[(UNI) 7gl ID]:%TAN%%CORAL%Ghost Glaive%NL%%ORANGE%W r %GOLD%a i %TAN%t h %GOLD%  F %ORANGE%l i %WHITE%g h %ORANGE%t
 ItemDisplay[(UNI) 7ts ID]:%TAN%%CORAL%Winged Harpoon%NL%%ORANGE%G a %GOLD%r g %TAN%o y %GOLD%l e %ORANGE%' s %WHITE% B %ORANGE%i t %GOLD%e
+
 ItemDisplay[(UNI) spr ID]:%GOLD%Spear%NL%%GOLD%T h %TAN%e  %WHITE%D r %TAN%a g %GOLD%o n %TAN%  C %WHITE%h a %TAN%n g
 ItemDisplay[(UNI) 9sr ID]:%GOLD%War Spear%NL%%GOLD%T h %TAN%e  %WHITE%D r %TAN%a g %GOLD%o n %TAN%  C %WHITE%h a %TAN%n g
 ItemDisplay[(UNI) 7sr ID]:%GOLD%Hyperion Spear%NL%%GOLD%T h %TAN%e  %WHITE%D r %TAN%a g %GOLD%o n %TAN%  C %WHITE%h a %TAN%n g
 ItemDisplay[(UNI) 9sr SK10>3 STAT117>0 ID]:%GOLD%War Spear%NL%%GOLD%T h %TAN%e  %WHITE%I m %TAN%p a %GOLD%l e %TAN%r
 ItemDisplay[(UNI) 7sr SK10>3 STAT117>0 ID]:%GOLD%Hyperion Spear%NL%%GOLD%T h %TAN%e  %WHITE%I m %TAN%p a %GOLD%l e %TAN%r
 ItemDisplay[(UNI) 7sr ALLSK>3 ID]:%GOLD%Hyperion Spear%NL%%GOLD%A r %TAN%i o %WHITE%c ' %TAN%s  %GOLD%N e %TAN%e d %WHITE%l e
+
 ItemDisplay[(UNI) tri ID]:%GOLD%Trident%NL%%GOLD%R a %TAN%z o %WHITE%r t %TAN%i n %GOLD%e
 ItemDisplay[(UNI) 9tr ID]:%GOLD%Fuscina%NL%%GOLD%R a %TAN%z o %WHITE%r t %TAN%i n %GOLD%e
 ItemDisplay[(UNI) 7tr ID]:%GOLD%Stygian Pike%NL%%GOLD%R a %TAN%z o %WHITE%r t %TAN%i n %GOLD%e
 ItemDisplay[(UNI) 9tr STAT216>0 ID]:%GOLD%Fuscina%NL%%GOLD%K e %TAN%l p %WHITE%i e %TAN%  S %GOLD%n a %TAN%r e
 ItemDisplay[(UNI) 7tr STAT216>0 ID]:%GOLD%Stygian Pike%NL%%GOLD%K e %TAN%l p %WHITE%i e %TAN%  S %GOLD%n a %TAN%r e
+
 ItemDisplay[(UNI) brn ID]:%GOLD%Brandistock%NL%%GOLD%B l %TAN%o o %WHITE%d t %TAN%h i %GOLD%e f
 ItemDisplay[(UNI) 9br ID]:%GOLD%War Fork%NL%%GOLD%B l %TAN%o o %WHITE%d t %TAN%h i %GOLD%e f
 ItemDisplay[(UNI) 7br ID]:%GOLD%Mancatcher%NL%%GOLD%B l %TAN%o o %WHITE%d t %TAN%h i %GOLD%e f
 ItemDisplay[(UNI) 9br STAT154>0 ID]:%GOLD%War Fork%NL%%GOLD%S o %TAN%u l %WHITE%f e %TAN%a s %GOLD%t  %TAN%T i %WHITE%n e
 ItemDisplay[(UNI) 7br STAT154>0 ID]:%GOLD%Mancatcher%NL%%GOLD%S o %TAN%u l %WHITE%f e %TAN%a s %GOLD%t  %TAN%T i %WHITE%n e
 ItemDisplay[(UNI) 7br STAT365>2 ID]:%GOLD%Mancatcher%NL%%GOLD%V i %TAN%p e %WHITE%r f %TAN%o r %GOLD%k
+
 ItemDisplay[(UNI) spt ID]:%GOLD%Spetum%NL%%GOLD%L a %TAN%n c %WHITE%e  %TAN%o f %GOLD%  Y %TAN%a g %WHITE%g a %TAN%i
 ItemDisplay[(UNI) 9st ID]:%GOLD%Yari%NL%%GOLD%L a %TAN%n c %WHITE%e  %TAN%o f %GOLD%  Y %TAN%a g %WHITE%g a %TAN%i
 ItemDisplay[(UNI) 7st ID]:%GOLD%Ghost Spear%NL%%GOLD%L a %TAN%n c %WHITE%e  %TAN%o f %GOLD%  Y %TAN%a g %WHITE%g a %TAN%i
 ItemDisplay[(UNI) 9st MAXDMG>0 MINDMG>0 STAT136>44 SOCK=3 ID]:%GOLD%Yari%NL%%GOLD%H o %TAN%n e %WHITE% S %TAN%u n %GOLD%d a %TAN%n
 ItemDisplay[(UNI) 7st MAXDMG>0 MINDMG>0 STAT136>44 SOCK=3 ID]:%GOLD%Ghost Spear%NL%%GOLD%H o %TAN%n e %WHITE% S %TAN%u n %GOLD%d a %TAN%n
+
 ItemDisplay[(UNI) pik ID]:%GOLD%Pike%NL%%GOLD%T h %TAN%e  %WHITE%T a %TAN%n n %GOLD%r  %TAN%G o %WHITE%r e %TAN%r o %GOLD%d
 ItemDisplay[(UNI) 9p9 ID]:%GOLD%Lance%NL%%GOLD%T h %TAN%e  %WHITE%T a %TAN%n n %GOLD%r  %TAN%G o %WHITE%r e %TAN%r o %GOLD%d
 ItemDisplay[(UNI) 7p7 ID]:%GOLD%War Pike%NL%%GOLD%T h %TAN%e  %WHITE%T a %TAN%n n %GOLD%r  %TAN%G o %WHITE%r e %TAN%r o %GOLD%d
 ItemDisplay[(UNI) 9p9 TABSK24>2 ID]:%GOLD%Lance%NL%%GOLD%S p %TAN%i r %WHITE%e  %TAN%o f %GOLD%  H %TAN%o n %WHITE%o r
 ItemDisplay[(UNI) 7p7 TABSK24>2 ID]:%GOLD%War Pike%NL%%GOLD%S p %TAN%i r %WHITE%e  %TAN%o f %GOLD%  H %TAN%o n %WHITE%o r
 ItemDisplay[(UNI) 7p7 STAT425>0 ID]:%ORANGE%%CORAL%War Pike%NL%%PURPLE%S t %RED%e e %ORANGE%l  %GOLD%P i %WHITE%l l %GOLD%a r
+
 ItemDisplay[(UNI) bar ID]:%GOLD%Bardiche%NL%%GOLD%D i %TAN%m o %WHITE%a k %TAN%' s %GOLD%  H %TAN%e w
 ItemDisplay[(UNI) 9b7 ID]:%GOLD%Lochaber Axe%NL%%GOLD%D i %TAN%m o %WHITE%a k %TAN%' s %GOLD%  H %TAN%e w
 ItemDisplay[(UNI) 7o7 ID]:%GOLD%Ogre Axe%NL%%GOLD%D i %TAN%m o %WHITE%a k %TAN%' s %GOLD%  H %TAN%e w
 ItemDisplay[(UNI) 9b7 TABSK33>2 MFIND>49 ID]:%GOLD%Lochaber Axe%NL%%GOLD%T h %TAN%e  %WHITE%M e %TAN%a t %GOLD%  S %TAN%c r %WHITE%a p %TAN%e r
 ItemDisplay[(UNI) 7o7 TABSK33>2 MFIND>49 ID]:%GOLD%Ogre Axe%NL%%GOLD%T h %TAN%e  %WHITE%M e %TAN%a t %GOLD%  S %TAN%c r %WHITE%a p %TAN%e r
 ItemDisplay[(UNI) 7o7 STAT117>0 SOCK>1 ED>269 IAS>29 ID]:%ORANGE%%CORAL%Ogre Axe%NL%%PURPLE%B o %RED%n e %ORANGE%h e %GOLD%w
+
 ItemDisplay[(UNI) vou ID]:%GOLD%Voulge%NL%%GOLD%S t %TAN%e e %WHITE%l g %TAN%o a %GOLD%d
 ItemDisplay[(UNI) 9vo ID]:%GOLD%Bill%NL%%GOLD%S t %TAN%e e %WHITE%l g %TAN%o a %GOLD%d
 ItemDisplay[(UNI) 7vo ID]:%GOLD%Colossus Voulge%NL%%GOLD%S t %TAN%e e %WHITE%l g %TAN%o a %GOLD%d
 ItemDisplay[(UNI) 9vo STAT218>0 ID]:%GOLD%Bill%NL%%GOLD%B l %TAN%a c %WHITE%k l %TAN%e a %GOLD%c h %TAN%  B %WHITE%l a %TAN%d e
 ItemDisplay[(UNI) 7vo STAT218>0 ID]:%GOLD%Colossus Voulge%NL%%GOLD%B l %TAN%a c %WHITE%k l %TAN%e a %GOLD%c h %TAN%  B %WHITE%l a %TAN%d e
+
 ItemDisplay[(UNI) scy ID]:%GOLD%Scythe%NL%%GOLD%S o %TAN%u l %WHITE% H %TAN%a r %GOLD%v e %TAN%s t
 ItemDisplay[(UNI) 9s8 ID]:%GOLD%Battle Scythe%NL%%GOLD%S o %TAN%u l %WHITE% H %TAN%a r %GOLD%v e %TAN%s t
 ItemDisplay[(UNI) 7s8 ID]:%GOLD%Thresher%NL%%GOLD%S o %TAN%u l %WHITE% H %TAN%a r %GOLD%v e %TAN%s t
 ItemDisplay[(UNI) 9s8 TABSK40>1 ID]:%GOLD%Battle Scythe%NL%%GOLD%A t %TAN%h e %WHITE%n a %TAN%' s %GOLD%  W %TAN%r a %WHITE%t h
 ItemDisplay[(UNI) 7s8 TABSK40>1 ID]:%GOLD%Thresher%NL%%GOLD%A t %TAN%h e %WHITE%n a %TAN%' s %GOLD%  W %TAN%r a %WHITE%t h
-ItemDisplay[(UNI) cs8 STAT141>32 (STAT54>0 OR STAT55>0) STAT115>0 STAT91>0 ID]:%ORANGE%%CORAL%Thresher%NL%%PURPLE%T h %RED%e  %ORANGE%R e %GOLD%a p %WHITE%e r %GOLD%' s %RED%  T %PURPLE%o l %RED%l
+ItemDisplay[(UNI) 7s8 STAT141>32 (STAT54>0 OR STAT55>0) STAT115>0 STAT91>0 ID]:%ORANGE%%CORAL%Thresher%NL%%PURPLE%T h %RED%e  %ORANGE%R e %GOLD%a p %WHITE%e r %GOLD%' s %RED%  T %PURPLE%o l %RED%l
+
 ItemDisplay[(UNI) pax ID]:%GOLD%Poleaxe%NL%%GOLD%T h %TAN%e  %WHITE%B a %TAN%t t %GOLD%l e %TAN%b r %WHITE%a n %TAN%c h
 ItemDisplay[(UNI) 9pa ID]:%GOLD%Partizan%NL%%GOLD%T h %TAN%e  %WHITE%B a %TAN%t t %GOLD%l e %TAN%b r %WHITE%a n %TAN%c h
 ItemDisplay[(UNI) 7pa ID]:%GOLD%Cryptic Axe%NL%%GOLD%T h %TAN%e  %WHITE%B a %TAN%t t %GOLD%l e %TAN%b r %WHITE%a n %TAN%c h
-ItemDisplay[(UNI) cpa CLSK4>0 ID]:%GOLD%Partizan%NL%%GOLD%P i %TAN%e r %WHITE%r e %TAN%  T %GOLD%o m %TAN%b a %WHITE%l e %TAN%  C %GOLD%o u %TAN%a n %WHITE%t
-ItemDisplay[(UNI) cpa CLSK4>0 ID]:%GOLD%Cryptic Axe%NL%%GOLD%P i %TAN%e r %WHITE%r e %TAN%  T %GOLD%o m %TAN%b a %WHITE%l e %TAN%  C %GOLD%o u %TAN%a n %WHITE%t
+ItemDisplay[(UNI) 9pa CLSK4>0 ID]:%GOLD%Partizan%NL%%GOLD%P i %TAN%e r %WHITE%r e %TAN%  T %GOLD%o m %TAN%b a %WHITE%l e %TAN%  C %GOLD%o u %TAN%a n %WHITE%t
+ItemDisplay[(UNI) 7pa CLSK4>0 ID]:%GOLD%Cryptic Axe%NL%%GOLD%P i %TAN%e r %WHITE%r e %TAN%  T %GOLD%o m %TAN%b a %WHITE%l e %TAN%  C %GOLD%o u %TAN%a n %WHITE%t
 ItemDisplay[(UNI) 7pa MFIND>49 SOCK>1 RES>29 STAT86>0 ID]:%ORANGE%%CORAL%Cryptic Axe%NL%%PURPLE%T o %RED%m b %ORANGE%  R %GOLD%e a %WHITE%v e %GOLD%r
+
 ItemDisplay[(UNI) hal ID]:%GOLD%Halberd%NL%%GOLD%W o %TAN%e s %WHITE%t a %TAN%v e
 ItemDisplay[(UNI) 9h9 ID]:%GOLD%Bec-de-Corbin%NL%%GOLD%W o %TAN%e s %WHITE%t a %TAN%v e
 ItemDisplay[(UNI) 7h7 ID]:%GOLD%Great Poleaxe%NL%%GOLD%W o %TAN%e s %WHITE%t a %TAN%v e
 ItemDisplay[(UNI) 9h9 STAT117>0 REPLIFE>39 ID]:%GOLD%Bec-de-Corbin%NL%%GOLD%H u %TAN%s o %WHITE%l d %TAN%a l %GOLD%  E %TAN%v o
 ItemDisplay[(UNI) 7h7 STAT117>0 REPLIFE>39 ID]:%GOLD%Great Poleaxe%NL%%GOLD%H u %TAN%s o %WHITE%l d %TAN%a l %GOLD%  E %TAN%v o
+
 ItemDisplay[(UNI) wsc ID]:%GOLD%War Scythe%NL%%GOLD%T h %TAN%e  %WHITE%G r %TAN%i m %GOLD%  R %TAN%e a %WHITE%p e %TAN%r
 ItemDisplay[(UNI) 9wc ID]:%GOLD%Grim Scythe%NL%%GOLD%T h %TAN%e  %WHITE%G r %TAN%i m %GOLD%  R %TAN%e a %WHITE%p e %TAN%r
 ItemDisplay[(UNI) 7wc ID]:%GOLD%Giant Thresher%NL%%GOLD%T h %TAN%e  %WHITE%G r %TAN%i m %GOLD%  R %TAN%e a %WHITE%p e %TAN%r
-ItemDisplay[(UNI) cwc CLSK2>0 ID]:%ORANGE%%CORAL%Grim Scythe%NL%%PURPLE%G r %RED%i m %ORANGE%' s %GOLD%  B %WHITE%u r %GOLD%n i %RED%n g %PURPLE%  D %RED%e a %ORANGE%d
-ItemDisplay[(UNI) cwc CLSK2>0 ID]:%ORANGE%%CORAL%Giant Thresher%NL%%PURPLE%G r %RED%i m %ORANGE%' s %GOLD%  B %WHITE%u r %GOLD%n i %RED%n g %PURPLE%  D %RED%e a %ORANGE%d
+ItemDisplay[(UNI) 9wc CLSK2>0 ID]:%ORANGE%%CORAL%Grim Scythe%NL%%PURPLE%G r %RED%i m %ORANGE%' s %GOLD%  B %WHITE%u r %GOLD%n i %RED%n g %PURPLE%  D %RED%e a %ORANGE%d
+ItemDisplay[(UNI) 7wc CLSK2>0 ID]:%ORANGE%%CORAL%Giant Thresher%NL%%PURPLE%G r %RED%i m %ORANGE%' s %GOLD%  B %WHITE%u r %GOLD%n i %RED%n g %PURPLE%  D %RED%e a %ORANGE%d
 ItemDisplay[(UNI) 7wc STAT330>0 STR>9 IAS>29 ID]:%GOLD%Giant Thresher%NL%%GOLD%S t %TAN%o r %WHITE%m s %TAN%p i %GOLD%r e
+
 ItemDisplay[(UNI) sbw ID]:%GOLD%Short Bow%NL%%GOLD%P l %TAN%u c %WHITE%k e %TAN%y e
 ItemDisplay[(UNI) 8sb ID]:%GOLD%Edge Bow%NL%%GOLD%P l %TAN%u c %WHITE%k e %TAN%y e
 ItemDisplay[(UNI) 6sb ID]:%GOLD%Spider Bow%NL%%GOLD%P l %TAN%u c %WHITE%k e %TAN%y e
 ItemDisplay[(UNI) 8sb CLSK0>0 ID]:%GOLD%Edge Bow%NL%%GOLD%S k %TAN%y s %WHITE%t r %TAN%i k %GOLD%e
 ItemDisplay[(UNI) 6sb CLSK0>0 ID]:%GOLD%Spider Bow%NL%%GOLD%S k %TAN%y s %WHITE%t r %TAN%i k %GOLD%e
+
 ItemDisplay[(UNI) hbw ID]:%GOLD%Hunter's Bow%NL%%GOLD%W i %TAN%t h %WHITE%e r %TAN%s t %GOLD%r i %TAN%n g
 ItemDisplay[(UNI) 8hb ID]:%GOLD%Razor Bow%NL%%GOLD%W i %TAN%t h %WHITE%e r %TAN%s t %GOLD%r i %TAN%n g
 ItemDisplay[(UNI) 6hb ID]:%GOLD%Blade Bow%NL%%GOLD%W i %TAN%t h %WHITE%e r %TAN%s t %GOLD%r i %TAN%n g
 ItemDisplay[(UNI) 8hb STAT150>0 ID]:%GOLD%Razor Bow%NL%%GOLD%R i %TAN%p h %WHITE%o o %TAN%k
 ItemDisplay[(UNI) 6hb STAT150>0 ID]:%GOLD%Blade Bow%NL%%GOLD%R i %TAN%p h %WHITE%o o %TAN%k
+
 ItemDisplay[(UNI) lbw ID]:%GOLD%Long Bow%NL%%GOLD%R a %TAN%v e %WHITE%n  %TAN%C l %GOLD%a w
 ItemDisplay[(UNI) 8lb ID]:%GOLD%Cedar Bow%NL%%GOLD%R a %TAN%v e %WHITE%n  %TAN%C l %GOLD%a w
 ItemDisplay[(UNI) 6lb ID]:%GOLD%Shadow Bow%NL%%GOLD%R a %TAN%v e %WHITE%n  %TAN%C l %GOLD%a w
 ItemDisplay[(UNI) 8lb TABSK0>0 ID]:%GOLD%Cedar Bow%NL%%GOLD%K u %TAN%k o %WHITE% S %TAN%h a %GOLD%k a %TAN%k u
 ItemDisplay[(UNI) 6lb TABSK0>0 ID]:%GOLD%Shadow Bow%NL%%GOLD%K u %TAN%k o %WHITE% S %TAN%h a %GOLD%k a %TAN%k u
+
 ItemDisplay[(UNI) cbw ID]:%GOLD%Composite Bow%NL%%GOLD%R o %TAN%g u %WHITE%e ' %TAN%s  %GOLD%B o %TAN%w
 ItemDisplay[(UNI) 8cb ID]:%GOLD%Double Bow%NL%%GOLD%R o %TAN%g u %WHITE%e ' %TAN%s  %GOLD%B o %TAN%w
 ItemDisplay[(UNI) 6cb ID]:%GOLD%Great Bow%NL%%GOLD%R o %TAN%g u %WHITE%e ' %TAN%s  %GOLD%B o %TAN%w
 ItemDisplay[(UNI) 8cb SK26>0 CRES>34 ID]:%GOLD%Double Bow%NL%%GOLD%E n %TAN%d l %WHITE%e s %TAN%s h %GOLD%a i %TAN%l
 ItemDisplay[(UNI) 6cb SK26>0 CRES>34 ID]:%GOLD%Great Bow%NL%%GOLD%E n %TAN%d l %WHITE%e s %TAN%s h %GOLD%a i %TAN%l
+
 ItemDisplay[(UNI) sbb ID]:%GOLD%Short Battle Bow%NL%%GOLD%S t %TAN%o r %WHITE%m s %TAN%t r %GOLD%i k %TAN%e
 ItemDisplay[(UNI) 8s8 ID]:%GOLD%Short Siege Bow%NL%%GOLD%S t %TAN%o r %WHITE%m s %TAN%t r %GOLD%i k %TAN%e
 ItemDisplay[(UNI) 6s7 ID]:%GOLD%Diamond Bow%NL%%GOLD%S t %TAN%o r %WHITE%m s %TAN%t r %GOLD%i k %TAN%e
-ItemDisplay[(UNI) cs8 STAT250>0 ID]:%ORANGE%%CORAL%Short Siege Bow%NL%%PURPLE%W i %RED%t c %ORANGE%h w %GOLD%i l %WHITE%d  %GOLD%S t %RED%r i %PURPLE%n g
+ItemDisplay[(UNI) 8s8 STAT250>0 ID]:%ORANGE%%CORAL%Short Siege Bow%NL%%PURPLE%W i %RED%t c %ORANGE%h w %GOLD%i l %WHITE%d  %GOLD%S t %RED%r i %PURPLE%n g
 ItemDisplay[(UNI) 6s7 STAT250>0 ID]:%ORANGE%%CORAL%Diamond Bow%NL%%PURPLE%W i %RED%t c %ORANGE%h w %GOLD%i l %WHITE%d  %GOLD%S t %RED%r i %PURPLE%n g
+
 ItemDisplay[(UNI) lbb ID]:%GOLD%Long Battle Bow%NL%%GOLD%W i %TAN%z e %WHITE%n d %TAN%r a %GOLD%w
 ItemDisplay[(UNI) 8l8 ID]:%GOLD%Large Siege Bow%NL%%GOLD%W i %TAN%z e %WHITE%n d %TAN%r a %GOLD%w
 ItemDisplay[(UNI) 6l7 ID]:%GOLD%Crusader Bow%NL%%GOLD%W i %TAN%z e %WHITE%n d %TAN%r a %GOLD%w
 ItemDisplay[(UNI) 8l8 STAT81>0 ID]:%GOLD%Large Siege Bow%NL%%GOLD%C l %TAN%i f %WHITE%f k %TAN%i l %GOLD%l e %TAN%r
 ItemDisplay[(UNI) 6l7 STAT81>0 ID]:%GOLD%Crusader Bow%NL%%GOLD%C l %TAN%i f %WHITE%f k %TAN%i l %GOLD%l e %TAN%r
 ItemDisplay[(UNI) 6l7 CLSK0>0 STAT115>0 ID]:%ORANGE%%CORAL%Crusader Bow%NL%%PURPLE%E a %RED%g l %ORANGE%e h %GOLD%o r %WHITE%n
+
 ItemDisplay[(UNI) swb ID]:%GOLD%Short War Bow%NL%%GOLD%H e %TAN%l l %WHITE%c l %TAN%a p
 ItemDisplay[(UNI) 8sw ID]:%GOLD%Rune Bow%NL%%GOLD%H e %TAN%l l %WHITE%c l %TAN%a p
 ItemDisplay[(UNI) 6sw ID]:%GOLD%Ward Bow%NL%%GOLD%H e %TAN%l l %WHITE%c l %TAN%a p
 ItemDisplay[(UNI) 8sw STAT113>0 CLSK0>0 ID]:%GOLD%Rune Bow%NL%%GOLD%M a %TAN%g e %WHITE%w r %TAN%a t %GOLD%h
 ItemDisplay[(UNI) 6sw STAT113>0 CLSK0>0 ID]:%GOLD%Ward Bow%NL%%GOLD%M a %TAN%g e %WHITE%w r %TAN%a t %GOLD%h
 ItemDisplay[(UNI) 6sw SK22>0 STAT115>0 STAT141>0 ID]:%GOLD%Ward Bow%NL%%GOLD%W i %TAN%d o %WHITE%w m %TAN%a k %GOLD%e r
+
 ItemDisplay[(UNI) lwb CLSK0>0 ID]:%GOLD%Long War Bow%NL%%GOLD%B l %TAN%a s %WHITE%t b %TAN%a r %GOLD%k
 ItemDisplay[(UNI) 8lw CLSK0>0 ID]:%GOLD%Gothic Bow%NL%%GOLD%B l %TAN%a s %WHITE%t b %TAN%a r %GOLD%k
 ItemDisplay[(UNI) 6lw CLSK0>0 ID]:%GOLD%Hydra Bow%NL%%GOLD%B l %TAN%a s %WHITE%t b %TAN%a r %GOLD%k
 ItemDisplay[(UNI) 8lw ARPER>99 ID]:%GOLD%Gothic Bow%NL%%GOLD%G o %TAN%l d %WHITE%s t %TAN%r i %GOLD%k e %TAN%  A %WHITE%r c %TAN%h
 ItemDisplay[(UNI) 6lw ARPER>99 ID]:%GOLD%Hydra Bow%NL%%GOLD%G o %TAN%l d %WHITE%s t %TAN%r i %GOLD%k e %TAN%  A %WHITE%r c %TAN%h
 ItemDisplay[(UNI) 6lw STAT81>0 STAT218>0 ID]:%ORANGE%%CORAL%Hydra Bow%NL%%PURPLE%W i %RED%n d %ORANGE%  f %GOLD%o r %WHITE%c e
+
 ItemDisplay[(UNI) lxb ID]:%GOLD%Light Crossbow%NL%%GOLD%L e %TAN%a d %WHITE%c r %TAN%o w
 ItemDisplay[(UNI) 8lx ID]:%GOLD%Arbalest%NL%%GOLD%L e %TAN%a d %WHITE%c r %TAN%o w
 ItemDisplay[(UNI) 6lx ID]:%GOLD%Pellet Bow%NL%%GOLD%L e %TAN%a d %WHITE%c r %TAN%o w
 ItemDisplay[(UNI) 8lx STAT81>0 MFIND>29 ID]:%GOLD%Arbalest%NL%%GOLD%L a %TAN%n g %WHITE%e r %TAN%  B %GOLD%r i %TAN%s e %WHITE%r
 ItemDisplay[(UNI) 6lx STAT81>0 MFIND>29 ID]:%GOLD%Pellet Bow%NL%%GOLD%L a %TAN%n g %WHITE%e r %TAN%  B %GOLD%r i %TAN%s e %WHITE%r
+
 ItemDisplay[(UNI) mxb ID]:%GOLD%Crossbow%NL%%GOLD%I c %TAN%h o %WHITE%r s %TAN%t i %GOLD%n g
 ItemDisplay[(UNI) 8mx ID]:%GOLD%Siege Crossbow%NL%%GOLD%I c %TAN%h o %WHITE%r s %TAN%t i %GOLD%n g
 ItemDisplay[(UNI) 6mx ID]:%GOLD%Gorgon Crossbow%NL%%GOLD%I c %TAN%h o %WHITE%r s %TAN%t i %GOLD%n g
 ItemDisplay[(UNI) 8mx ALLSK>1 ID]:%GOLD%Siege Crossbow%NL%%PURPLE%P u %RED%s  %GOLD%S p %WHITE%i t %ORANGE%t e %PURPLE%r
 ItemDisplay[(UNI) 6mx ALLSK>1 ID]:%GOLD%Gorgon Crossbow%NL%%PURPLE%P u %RED%s  %GOLD%S p %WHITE%i t %ORANGE%t e %PURPLE%r
+
 ItemDisplay[(UNI) hxb ID]:%GOLD%Heavy Crossbow%NL%%GOLD%H e %TAN%l l %WHITE%c a %TAN%s t
 ItemDisplay[(UNI) 8hx ID]:%GOLD%Ballista%NL%%GOLD%H e %TAN%l l %WHITE%c a %TAN%s t
 ItemDisplay[(UNI) 6hx ID]:%GOLD%Colossus Crossbow%NL%%GOLD%H e %TAN%l l %WHITE%c a %TAN%s t
 ItemDisplay[(UNI) 8hx STAT218>0 ID]:%GOLD%Ballista%NL%%PURPLE%B u %ORANGE%r i %GOLD%z a %WHITE%- D %GOLD%o  %ORANGE%K y %RED%a n %PURPLE%o n
 ItemDisplay[(UNI) 6hx STAT218>0 ID]:%GOLD%Colossus Crossbow%NL%%PURPLE%B u %ORANGE%r i %GOLD%z a %WHITE%- D %GOLD%o  %ORANGE%K y %RED%a n %PURPLE%o n
 ItemDisplay[(UNI) 6hx STAT363>0 ID]:%GOLD%Colossus Crossbow%NL%%PURPLE%H e %ORANGE%l l %GOLD%r a %WHITE%c k
+
 ItemDisplay[(UNI) rxb ID]:%GOLD%Repeating Crossbow%NL%%GOLD%D o %TAN%o m %WHITE%s l %TAN%i n %GOLD%g e %TAN%r
 ItemDisplay[(UNI) 8rx ID]:%GOLD%Chu-Ko-Nu%NL%%GOLD%D o %TAN%o m %WHITE%s l %TAN%i n %GOLD%g e %TAN%r
 ItemDisplay[(UNI) 6rx ID]:%GOLD%Demon Crossbow%NL%%GOLD%D o %TAN%o m %WHITE%s l %TAN%i n %GOLD%g e %TAN%r
 ItemDisplay[(UNI) 8rx MAXDMG>32 AR>332 MANA>32 ID]:%TAN%%CORAL%Chu-Ko-Nu%NL%%ORANGE%D e %GOLD%m o %TAN%n  %GOLD%M a %ORANGE%c h %WHITE%i n %ORANGE%e
 ItemDisplay[(UNI) 6rx MAXDMG>32 AR>332 MANA>32 ID]:%TAN%%CORAL%Demon Crossbow%NL%%ORANGE%D e %GOLD%m o %TAN%n  %GOLD%M a %ORANGE%c h %WHITE%i n %ORANGE%e
 ItemDisplay[(UNI) 6rx STAT150>0 ID]:%GOLD%Demon Crossbow%NL%%GOLD%G u %TAN%t  %WHITE%S i %TAN%p h %GOLD%o n
+
 ItemDisplay[(UNI) sst ID]:%GOLD%Short Staff%NL%%GOLD%B a %TAN%n e %WHITE% A %TAN%s h
 ItemDisplay[(UNI) 8ss ID]:%GOLD%Jo Staff%NL%%GOLD%B a %TAN%n e %WHITE% A %TAN%s h
 ItemDisplay[(UNI) 6ss ID]:%GOLD%Walking Stick%NL%%GOLD%B a %TAN%n e %WHITE% A %TAN%s h
 ItemDisplay[(UNI) 8ss ALLSK>0 FCR>39 RES>49 ID]:%GOLD%Jo Staff%NL%%GOLD%R a %TAN%z o %WHITE%r s %TAN%w i %GOLD%t c %TAN%h
 ItemDisplay[(UNI) 6ss ALLSK>0 FCR>39 RES>49 ID]:%GOLD%Walking Stick%NL%%GOLD%R a %TAN%z o %WHITE%r s %TAN%w i %GOLD%t c %TAN%h
+
 ItemDisplay[(UNI) lst ID]:%GOLD%Long Staff%NL%%GOLD%S e %TAN%r p %WHITE%e n %TAN%t  %GOLD%L o %TAN%r d
 ItemDisplay[(UNI) 8ls ID]:%GOLD%Quarterstaff%NL%%GOLD%S e %TAN%r p %WHITE%e n %TAN%t  %GOLD%L o %TAN%r d
 ItemDisplay[(UNI) 6ls ID]:%GOLD%Stalagmite%NL%%GOLD%S e %TAN%r p %WHITE%e n %TAN%t  %GOLD%L o %TAN%r d
 ItemDisplay[(UNI) 8ls FCR>29 IAS>49 FHR>49 ID]:%GOLD%Quarterstaff%NL%%GOLD%R i %TAN%b c %WHITE%r a %TAN%c k %GOLD%e r
 ItemDisplay[(UNI) 6ls FCR>29 IAS>49 FHR>49 ID]:%GOLD%Stalagmite%NL%%GOLD%R i %TAN%b c %WHITE%r a %TAN%c k %GOLD%e r
+
 ItemDisplay[(UNI) cst ID]:%GOLD%Gnarled Staff%NL%%GOLD%S p %TAN%i r %WHITE%e  %TAN%o f %GOLD%  L %TAN%a z %WHITE%a r %TAN%u s
 ItemDisplay[(UNI) 8cs ID]:%GOLD%Cedar Staff%NL%%GOLD%S p %TAN%i r %WHITE%e  %TAN%o f %GOLD%  L %TAN%a z %WHITE%a r %TAN%u s
 ItemDisplay[(UNI) 6cs ID]:%GOLD%Elder Staff%NL%%GOLD%S p %TAN%i r %WHITE%e  %TAN%o f %GOLD%  L %TAN%a z %WHITE%a r %TAN%u s
 ItemDisplay[(UNI) 8cs STAT76>0 ID]:%GOLD%Cedar Staff%NL%%GOLD%C h %TAN%r o %WHITE%m a %TAN%t i %GOLD%c  %TAN%I r %WHITE%e
 ItemDisplay[(UNI) 6cs STAT76>0 ID]:%GOLD%Elder Staff%NL%%GOLD%C h %TAN%r o %WHITE%m a %TAN%t i %GOLD%c  %TAN%I r %WHITE%e
 ItemDisplay[(UNI) 6cs ALLSK>2 FCR>100 ID]:%TAN%%CORAL%Elder Staff%NL%%ORANGE%O n %GOLD%d a %TAN%l ' %GOLD%s  %ORANGE%W i %WHITE%s d %ORANGE%o m
+
 ItemDisplay[(UNI) bst ID]:%GOLD%Battle Staff%NL%%GOLD%T h %TAN%e  %WHITE%S a %TAN%l a %GOLD%m a %TAN%n d %WHITE%e r
 ItemDisplay[(UNI) 8bs ID]:%GOLD%Gothic Staff%NL%%GOLD%T h %TAN%e  %WHITE%S a %TAN%l a %GOLD%m a %TAN%n d %WHITE%e r
 ItemDisplay[(UNI) 6bs ID]:%GOLD%Shillelagh%NL%%GOLD%T h %TAN%e  %WHITE%S a %TAN%l a %GOLD%m a %TAN%n d %WHITE%e r
 ItemDisplay[(UNI) 8bs SK58>0 ID]:%GOLD%Gothic Staff%NL%%GOLD%W a %TAN%r p %WHITE%s p %TAN%e a %GOLD%r
 ItemDisplay[(UNI) 6bs SK58>0 ID]:%GOLD%Shillelagh%NL%%GOLD%W a %TAN%r p %WHITE%s p %TAN%e a %GOLD%r
 ItemDisplay[(UNI) 6bs SK56>0 ID]:%TAN%%CORAL%Shillelagh%NL%%ORANGE%B r %GOLD%i m %TAN%s t %GOLD%o n %ORANGE%e  %WHITE%R a %ORANGE%i n
+
 ItemDisplay[(UNI) wst ID]:%GOLD%War Staff%NL%%GOLD%T h %TAN%e  %WHITE%I r %TAN%o n %GOLD%  J %TAN%a n %WHITE%g  %TAN%B o %GOLD%n g
 ItemDisplay[(UNI) 8ws ID]:%GOLD%Rune Staff%NL%%GOLD%T h %TAN%e  %WHITE%I r %TAN%o n %GOLD%  J %TAN%a n %WHITE%g  %TAN%B o %GOLD%n g
 ItemDisplay[(UNI) 6ws ID]:%GOLD%Archon Staff%NL%%GOLD%T h %TAN%e  %WHITE%I r %TAN%o n %GOLD%  J %TAN%a n %WHITE%g  %TAN%B o %GOLD%n g
 ItemDisplay[(UNI) 8ws CLSK2>0 ID]:%TAN%%CORAL%Rune Staff%NL%%ORANGE%S k %GOLD%u l %TAN%l  %GOLD%C o %ORANGE%l l %WHITE%e c %ORANGE%t o %GOLD%r
 ItemDisplay[(UNI) 6ws CLSK2>0 ID]:%TAN%%CORAL%Archon Staff%NL%%ORANGE%S k %GOLD%u l %TAN%l  %GOLD%C o %ORANGE%l l %WHITE%e c %ORANGE%t o %GOLD%r
-ItemDisplay[(UNI) cws ALLSK>5 ID]:%ORANGE%%CORAL%Archon Staff%NL%%PURPLE%M a %RED%n g %ORANGE%  S %GOLD%o n %WHITE%g ' %GOLD%s  %RED%L e %PURPLE%s s %RED%o n
+ItemDisplay[(UNI) 6ws ALLSK>5 ID]:%ORANGE%%CORAL%Archon Staff%NL%%PURPLE%M a %RED%n g %ORANGE%  S %GOLD%o n %WHITE%g ' %GOLD%s  %RED%L e %PURPLE%s s %RED%o n
+
 ItemDisplay[(UNI) wnd ID]:%GOLD%Wand%NL%%GOLD%T o %TAN%r c %WHITE%h  %TAN%o f %GOLD%  I %TAN%r o
 ItemDisplay[(UNI) 9wn ID]:%GOLD%Burnt Wand%NL%%GOLD%T o %TAN%r c %WHITE%h  %TAN%o f %GOLD%  I %TAN%r o
 ItemDisplay[(UNI) 7wn ID]:%GOLD%Polished Wand%NL%%GOLD%T o %TAN%r c %WHITE%h  %TAN%o f %GOLD%  I %TAN%r o
 ItemDisplay[(UNI) 9wn STAT77>0 ID]:%GOLD%Burnt Wand%NL%%GOLD%S u %TAN%i c %WHITE%i d %TAN%e  %GOLD%B r %TAN%a n %WHITE%c h
 ItemDisplay[(UNI) 7wn STAT77>0 ID]:%GOLD%Polished Wand%NL%%GOLD%S u %TAN%i c %WHITE%i d %TAN%e  %GOLD%B r %TAN%a n %WHITE%c h
+
 ItemDisplay[(UNI) ywn ID]:%GOLD%Yew Wand%NL%%GOLD%M a %TAN%e l %WHITE%s t %TAN%r o %GOLD%m
 ItemDisplay[(UNI) 9yw ID]:%GOLD%Petrified Wand%NL%%GOLD%M a %TAN%e l %WHITE%s t %TAN%r o %GOLD%m
 ItemDisplay[(UNI) 7yw ID]:%GOLD%Ghost Wand%NL%%GOLD%M a %TAN%e l %WHITE%s t %TAN%r o %GOLD%m
 ItemDisplay[(UNI) 9yw TABSK18>0 ID]:%GOLD%Petrified Wand%NL%%GOLD%C a %TAN%r i %WHITE%n  %TAN%S h %GOLD%a r %TAN%d
 ItemDisplay[(UNI) 7yw TABSK18>0 ID]:%GOLD%Ghost Wand%NL%%GOLD%C a %TAN%r i %WHITE%n  %TAN%S h %GOLD%a r %TAN%d
+
 ItemDisplay[(UNI) bwn ID]:%GOLD%Bone Wand%NL%%GOLD%G r %TAN%a v %WHITE%e n %TAN%s p %GOLD%i n %TAN%e
 ItemDisplay[(UNI) 9bw ID]:%GOLD%Tomb Wand%NL%%GOLD%G r %TAN%a v %WHITE%e n %TAN%s p %GOLD%i n %TAN%e
 ItemDisplay[(UNI) 7bw ID]:%GOLD%Lich Wand%NL%%GOLD%G r %TAN%a v %WHITE%e n %TAN%s p %GOLD%i n %TAN%e
-ItemDisplay[(UNI) cbw SK69>2 ID]:%TAN%%CORAL%Tomb Wand%NL%%ORANGE%A r %GOLD%m  %TAN%o f %GOLD%  K %ORANGE%i n %WHITE%g  %ORANGE%L e %GOLD%o r %TAN%i c
-ItemDisplay[(UNI) cbw SK69>2 ID]:%TAN%%CORAL%Lich Wand%NL%%ORANGE%A r %GOLD%m  %TAN%o f %GOLD%  K %ORANGE%i n %WHITE%g  %ORANGE%L e %GOLD%o r %TAN%i c
+ItemDisplay[(UNI) 9bw SK69>2 ID]:%TAN%%CORAL%Tomb Wand%NL%%ORANGE%A r %GOLD%m  %TAN%o f %GOLD%  K %ORANGE%i n %WHITE%g  %ORANGE%L e %GOLD%o r %TAN%i c
+ItemDisplay[(UNI) 7bw SK69>2 ID]:%TAN%%CORAL%Lich Wand%NL%%ORANGE%A r %GOLD%m  %TAN%o f %GOLD%  K %ORANGE%i n %WHITE%g  %ORANGE%L e %GOLD%o r %TAN%i c
 ItemDisplay[(UNI) 7bw SK67>3 ID]:%TAN%%CORAL%Lich Wand%NL%%ORANGE%B o %GOLD%n e %TAN%s h %GOLD%a d %ORANGE%e
+
 ItemDisplay[(UNI) gwn ID]:%GOLD%Grim Wand%NL%%GOLD%U m %TAN%e ' %WHITE%s  %TAN%L a %GOLD%m e %TAN%n t
 ItemDisplay[(UNI) 9gw ID]:%GOLD%Grave Wand%NL%%GOLD%U m %TAN%e ' %WHITE%s  %TAN%L a %GOLD%m e %TAN%n t
 ItemDisplay[(UNI) 7gw ID]:%GOLD%Unearthed Wand%NL%%GOLD%U m %TAN%e ' %WHITE%s  %TAN%L a %GOLD%m e %TAN%n t
 ItemDisplay[(UNI) 9gw TABSK16>0 ID]:%GOLD%Grave Wand%NL%%GOLD%B l %TAN%a c %WHITE%k h %TAN%a n %GOLD%d  %TAN%K e %WHITE%y
 ItemDisplay[(UNI) 7gw TABSK16>0 ID]:%GOLD%Unearthed Wand%NL%%GOLD%B l %TAN%a c %WHITE%k h %TAN%a n %GOLD%d  %TAN%K e %WHITE%y
 ItemDisplay[(UNI) 7gw STAT336>0 ID]:%ORANGE%%CORAL%Unearthed Wand%NL%%PURPLE%D e %RED%a t %ORANGE%h ' %GOLD%s  %WHITE%W e %GOLD%b
+
 ItemDisplay[(UNI) scp ID]:%GOLD%Scepter%NL%%GOLD%K n %TAN%e l %WHITE%l  %TAN%S t %GOLD%r i %TAN%k e %WHITE%r
 ItemDisplay[(UNI) 9sc ID]:%GOLD%Rune Scepter%NL%%GOLD%K n %TAN%e l %WHITE%l  %TAN%S t %GOLD%r i %TAN%k e %WHITE%r
 ItemDisplay[(UNI) 7sc ID]:%GOLD%Mighty Scepter%NL%%GOLD%K n %TAN%e l %WHITE%l  %TAN%S t %GOLD%r i %TAN%k e %WHITE%r
@@ -2745,34 +2874,41 @@ ItemDisplay[(UNI) 9sc SK114>0 ID]:%GOLD%Rune Scepter%NL%%GOLD%Z a %TAN%k a %WHIT
 ItemDisplay[(UNI) 7sc SK114>0 ID]:%GOLD%Mighty Scepter%NL%%GOLD%Z a %TAN%k a %WHITE%r u %TAN%m ' %GOLD%s  %TAN%H a %WHITE%n d
 ItemDisplay[(UNI) 7sc STAT139>14 ID]:%GOLD%Mighty Scepter%NL%%GOLD%H e %TAN%a v %WHITE%e n %TAN%' s %GOLD%  L %TAN%i g %WHITE%h t
 ItemDisplay[(UNI) 7sc STAT121>0 ID]:%GOLD%Mighty Scepter%NL%%GOLD%T h %TAN%e  %WHITE%R e %TAN%d e %GOLD%e m %TAN%e r
+
 ItemDisplay[(UNI) gsc ID]:%GOLD%Grand Scepter%NL%%GOLD%R u %TAN%s t %WHITE%h a %TAN%n d %GOLD%l e
 ItemDisplay[(UNI) 9qs ID]:%GOLD%Holy Water Sprinkler%NL%%GOLD%R u %TAN%s t %WHITE%h a %TAN%n d %GOLD%l e
 ItemDisplay[(UNI) 7qs ID]:%GOLD%Seraph Rod%NL%%GOLD%R u %TAN%s t %WHITE%h a %TAN%n d %GOLD%l e
-ItemDisplay[(UNI) cqs ED>159 MAXDMG>0 MINDMG>0 AR>149 ID]:%GOLD%Holy Water Sprinkler%NL%%GOLD%T h %TAN%e  %WHITE%F e %TAN%t i %GOLD%d  %TAN%S p %WHITE%r i %TAN%n k %GOLD%l e %TAN%r
-ItemDisplay[(UNI) cqs ED>159 MAXDMG>0 MINDMG>0 AR>149 ID]:%GOLD%Seraph Rod%NL%%GOLD%T h %TAN%e  %WHITE%F e %TAN%t i %GOLD%d  %TAN%S p %WHITE%r i %TAN%n k %GOLD%l e %TAN%r
-ItemDisplay[(UNI) cqs SK112>2 ID]:%TAN%%CORAL%Seraph Rod%NL%%ORANGE%A k %GOLD%a r %TAN%a t %GOLD%' s %ORANGE%  D %WHITE%e v %ORANGE%o t %GOLD%i o %TAN%n
+ItemDisplay[(UNI) 9qs ED>159 MAXDMG>0 MINDMG>0 AR>149 ID]:%GOLD%Holy Water Sprinkler%NL%%GOLD%T h %TAN%e  %WHITE%F e %TAN%t i %GOLD%d  %TAN%S p %WHITE%r i %TAN%n k %GOLD%l e %TAN%r
+ItemDisplay[(UNI) 7qs ED>159 MAXDMG>0 MINDMG>0 AR>149 ID]:%GOLD%Seraph Rod%NL%%GOLD%T h %TAN%e  %WHITE%F e %TAN%t i %GOLD%d  %TAN%S p %WHITE%r i %TAN%n k %GOLD%l e %TAN%r
+ItemDisplay[(UNI) 7qs SK112>2 ID]:%TAN%%CORAL%Seraph Rod%NL%%ORANGE%A k %GOLD%a r %TAN%a t %GOLD%' s %ORANGE%  D %WHITE%e v %ORANGE%o t %GOLD%i o %TAN%n
+
 ItemDisplay[(UNI) wsp ID]:%GOLD%War Scepter%NL%%GOLD%S t %TAN%o r %WHITE%m e %TAN%y e
 ItemDisplay[(UNI) 9ws ID]:%GOLD%Divine Scepter%NL%%GOLD%S t %TAN%o r %WHITE%m e %TAN%y e
 ItemDisplay[(UNI) 7ws ID]:%GOLD%Caduceus%NL%%GOLD%S t %TAN%o r %WHITE%m e %TAN%y e
-ItemDisplay[(UNI) cws SK121>0 SK101>0 ID]:%GOLD%Divine Scepter%NL%%GOLD%H a %TAN%n d %WHITE% o %TAN%f  %GOLD%B l %TAN%e s %WHITE%s e %TAN%d  %GOLD%L i %TAN%g h %WHITE%t
-ItemDisplay[(UNI) cws SK121>0 SK101>0 ID]:%GOLD%Caduceus%NL%%GOLD%H a %TAN%n d %WHITE% o %TAN%f  %GOLD%B l %TAN%e s %WHITE%s e %TAN%d  %GOLD%L i %TAN%g h %WHITE%t
-ItemDisplay[(UNI) cws TABSK24>2 ID]:%GOLD%Caduceus%NL%%GOLD%A s %TAN%t r %WHITE%e o %TAN%n ' %GOLD%s  %TAN%I r %WHITE%o n %TAN%  W %GOLD%a r %TAN%d
+ItemDisplay[(UNI) 9ws SK121>0 SK101>0 ID]:%GOLD%Divine Scepter%NL%%GOLD%H a %TAN%n d %WHITE% o %TAN%f  %GOLD%B l %TAN%e s %WHITE%s e %TAN%d  %GOLD%L i %TAN%g h %WHITE%t
+ItemDisplay[(UNI) 7ws SK121>0 SK101>0 ID]:%GOLD%Caduceus%NL%%GOLD%H a %TAN%n d %WHITE% o %TAN%f  %GOLD%B l %TAN%e s %WHITE%s e %TAN%d  %GOLD%L i %TAN%g h %WHITE%t
+ItemDisplay[(UNI) 7ws TABSK24>2 ID]:%GOLD%Caduceus%NL%%GOLD%A s %TAN%t r %WHITE%e o %TAN%n ' %GOLD%s  %TAN%I r %WHITE%o n %TAN%  W %GOLD%a r %TAN%d
+
 ItemDisplay[(UNI) 9ar ID]:%GOLD%Quhab%NL%%GOLD%M a %TAN%g e %WHITE% S %TAN%l a %GOLD%y e %TAN%r
 ItemDisplay[(UNI) 7ar ID]:%GOLD%Suwayyah%NL%%GOLD%M a %TAN%g e %WHITE% S %TAN%l a %GOLD%y e %TAN%r
 ItemDisplay[(UNI) 7wb ID]:%GOLD%Wrist Sword%NL%%GOLD%J a %TAN%d e %WHITE% T %TAN%a l %GOLD%o n
 ItemDisplay[(UNI) clw ID]:%TAN%%CORAL%Feral Claws%NL%%ORANGE%F i %GOLD%r e %TAN%l i %GOLD%z a %ORANGE%r d %WHITE%' s %ORANGE%  T %GOLD%a l %TAN%o n %GOLD%s
 ItemDisplay[(UNI) 7cs ID]:%GOLD%Battle Cestus%NL%%GOLD%S h %TAN%a d %WHITE%o w %TAN%  K %GOLD%i l %TAN%l e %WHITE%r
-ItemDisplay[(UNI) ctw ID]:%ORANGE%%CORAL%Greater Talons%NL%%PURPLE%B a %RED%r t %ORANGE%u c %GOLD%' s %WHITE%  C %GOLD%u t %ORANGE%- T %RED%h r %PURPLE%o a %GOLD%t
+
+ItemDisplay[(UNI) 9tw ID]:%ORANGE%%CORAL%Greater Talons%NL%%PURPLE%B a %RED%r t %ORANGE%u c %GOLD%' s %WHITE%  C %GOLD%u t %ORANGE%- T %RED%h r %PURPLE%o a %GOLD%t
 ItemDisplay[(UNI) 7tw ID]:%TAN%%CORAL%Runic Talons%NL%%ORANGE%S t %GOLD%a l %TAN%k e %GOLD%r ' %ORANGE%s  %WHITE%C u %ORANGE%l l
-ItemDisplay[(UNI) ctw TABSK50>0 ID]:%ORANGE%%CORAL%Runic Talons%NL%%PURPLE%B a %RED%r t %ORANGE%u c %GOLD%' s %WHITE%  C %GOLD%u t %ORANGE%- T %RED%h r %PURPLE%o a %GOLD%t
+ItemDisplay[(UNI) 7tw TABSK50>0 ID]:%ORANGE%%CORAL%Runic Talons%NL%%PURPLE%B a %RED%r t %ORANGE%u c %GOLD%' s %WHITE%  C %GOLD%u t %ORANGE%- T %RED%h r %PURPLE%o a %GOLD%t
+
 ItemDisplay[(UNI) 7qr ID]:%ORANGE%%CORAL%Scissors Suwayyah%NL%%PURPLE%A i %RED%d a %ORANGE%n ' %GOLD%s  %WHITE%S c %GOLD%a r
+
 ItemDisplay[(UNI) ob6 ID]:%TAN%%CORAL%Glowing Orb%NL%%ORANGE%T e %GOLD%m p %TAN%e s %GOLD%t
 ItemDisplay[(UNI) obb ID]:%TAN%%CORAL%Heavenly Stone%NL%%ORANGE%T e %GOLD%m p %TAN%e s %GOLD%t
 ItemDisplay[(UNI) obc ID]:%ORANGE%%CORAL%Eldritch Orb%NL%%PURPLE%E s %RED%c h %ORANGE%u t %GOLD%a ' %WHITE%s  %GOLD%T e %RED%m p %PURPLE%e r
 ItemDisplay[(UNI) oba ID]:%TAN%%CORAL%Swirling Crystal%NL%%ORANGE%T h %GOLD%e  %TAN%O c %GOLD%u l %ORANGE%u s
 ItemDisplay[(UNI) obf ID]:%ORANGE%%CORAL%Dimensional Shard%NL%%PURPLE%D e %RED%a t %ORANGE%h ' %GOLD%s  %WHITE%F a %GOLD%t h %RED%o m
 ItemDisplay[(UNI) obf STAT1>19 STAT3>19 ID]:%TAN%%CORAL%Dimensional Shard%NL%%ORANGE%T h %GOLD%e  %TAN%O c %GOLD%u l %ORANGE%u s
-ItemDisplay[(UNI) cmb ID]:%TAN%%CORAL%Matriarchal Bow%NL%%ORANGE%B l %GOLD%o o %TAN%d  %GOLD%R a %ORANGE%v e %WHITE%n ' %ORANGE%s  %GOLD%C h %TAN%a r %GOLD%g e
+
+ItemDisplay[(UNI) amb ID]:%TAN%%CORAL%Matriarchal Bow%NL%%ORANGE%B l %GOLD%o o %TAN%d  %GOLD%R a %ORANGE%v e %WHITE%n ' %ORANGE%s  %GOLD%C h %TAN%a r %GOLD%g e
 ItemDisplay[(UNI) am7 ID]:%TAN%%CORAL%Ceremonial Bow%NL%%ORANGE%L y %GOLD%c a %TAN%n d %GOLD%e r %ORANGE%' s %WHITE% A %ORANGE%i m
 ItemDisplay[(UNI) amc ID]:%TAN%%CORAL%Grand Matron Bow%NL%%ORANGE%L y %GOLD%c a %TAN%n d %GOLD%e r %ORANGE%' s %WHITE% A %ORANGE%i m
 ItemDisplay[(UNI) amd ID]:%GOLD%Matriarchal Spear%NL%%GOLD%S t %TAN%o n %WHITE%e r %TAN%a v %GOLD%e n
@@ -2785,16 +2921,17 @@ ItemDisplay[(UNI) amf STAT136>9 MFIND>24 ID]:%GOLD%Matriarchal Javelin%NL%%GOLD%
 ItemDisplay[(UNI) ama CLSK0>0 ID]:%TAN%%CORAL%Ceremonial Javelin%NL%%ORANGE%T i %GOLD%t a %TAN%n ' %GOLD%s  %ORANGE%R e %WHITE%v e %ORANGE%n g %GOLD%e
 ItemDisplay[(UNI) amf CLSK0>0 ID]:%TAN%%CORAL%Matriarchal Javelin%NL%%ORANGE%T i %GOLD%t a %TAN%n ' %GOLD%s  %ORANGE%R e %WHITE%v e %ORANGE%n g %GOLD%e
 ItemDisplay[(UNI) amf STAT334>14 ID]:%TAN%%CORAL%Matriarchal Javelin%NL%%ORANGE%T h %GOLD%u n %TAN%d e %GOLD%r s %ORANGE%t r %WHITE%o k %ORANGE%e
-ItemDisplay[(UNI) car ID]:%ORANGE%%CORAL%Boneweave%NL%%PURPLE%C a %RED%g e %ORANGE%  o %GOLD%f  %WHITE%t h %GOLD%e  %RED%U n %PURPLE%s u %RED%l l %ORANGE%i e %GOLD%d
+
+ItemDisplay[(UNI) rar ID]:%ORANGE%%CORAL%Boneweave%NL%%PURPLE%C a %RED%g e %ORANGE%  o %GOLD%f  %WHITE%t h %GOLD%e  %RED%U n %PURPLE%s u %RED%l l %ORANGE%i e %GOLD%d
 ItemDisplay[(UNI) rbe ID]:%ORANGE%%CORAL%Troll Belt%NL%%PURPLE%B a %RED%n d %ORANGE%  o %GOLD%f  %WHITE%S k %GOLD%u l %RED%l s
 
 ItemDisplay[(SET) 2ax ID]:%DARK_GREEN%Double Axe%NL%%GREEN%Berserker's %WHITE%H a %DARK_GREEN%t c %WHITE%h e %GREEN%t
 ItemDisplay[(SET) 92a ID]:%DARK_GREEN%Twin Axe%NL%%GREEN%Berserker's %WHITE%H a %DARK_GREEN%t c %WHITE%h e %GREEN%t
 ItemDisplay[(SET) 72a ID]:%DARK_GREEN%Ettin Axe%NL%%GREEN%Berserker's %WHITE%H a %DARK_GREEN%t c %WHITE%h e %GREEN%t
 ItemDisplay[(SET) 6cs ID]:%RED%%TEAL%Elder Staff%NL%%GREEN%Naj's %PURPLE%P u %RED%z z %ORANGE%l e %GOLD%r
-ItemDisplay[(SET) cfb ID]:%RED%%TEAL%Colossus Sword%NL%%GREEN%Bul-Kathos' %PURPLE%T r %RED%i b %ORANGE%a l %GOLD% G %WHITE%u %GOLD%a %ORANGE%r %GOLD%d %WHITE%i %GOLD%a %RED%n
+ItemDisplay[(SET) 7fb ID]:%RED%%TEAL%Colossus Sword%NL%%GREEN%Bul-Kathos' %PURPLE%T r %RED%i b %ORANGE%a l %GOLD% G %WHITE%u %GOLD%a %ORANGE%r %GOLD%d %WHITE%i %GOLD%a %RED%n
 ItemDisplay[(SET) 7gd ID]:%RED%%TEAL%Colossus Blade%NL%%GREEN%Bul-Kathos' %PURPLE%S a %RED%c r %ORANGE%e d %GOLD% C %WHITE%h %GOLD%a %ORANGE%r %GOLD%g %WHITE%e
-ItemDisplay[(SET) cm7 ID]:%RED%%TEAL%Ogre Maul%NL%%GREEN%Immortal King's %PURPLE%S t %RED%o n %ORANGE%e %GOLD% %ORANGE%C %GOLD%r %WHITE%u %GOLD%s %WHITE%h %GOLD%e %RED%r
+ItemDisplay[(SET) 7m7 ID]:%RED%%TEAL%Ogre Maul%NL%%GREEN%Immortal King's %PURPLE%S t %RED%o n %ORANGE%e %GOLD% %ORANGE%C %GOLD%r %WHITE%u %GOLD%s %WHITE%h %GOLD%e %RED%r
 ItemDisplay[(SET) 7ma ID]:%RED%%TEAL%Reinforced Mace%NL%%GREEN%Dangoon's %PURPLE%T e %RED%a c %ORANGE%h i %GOLD%n g
 ItemDisplay[(SET) 7qr ID]:%RED%%TEAL%Scissors Suwayyah%NL%%GREEN%Natalya's %PURPLE%M %RED%a %WHITE%r %ORANGE%k
 ItemDisplay[(SET) 9mt ID]:%RED%%TEAL%Jagged Star%NL%%GREEN%Aldur's %PURPLE%R %RED%h %GOLD%y %WHITE%t %GOLD%h %ORANGE%m
@@ -2811,12 +2948,16 @@ ItemDisplay[(SET) amc ID]:%RED%%TEAL%Grand Matron Bow%NL%%GREEN%M'avina's %PURPL
 ItemDisplay[(SET) ba5 ID]:%RED%%TEAL%Avenger Guard%NL%%GREEN%Immortal King's %PURPLE%W %RED%i %ORANGE%l %WHITE%l
 ItemDisplay[(SET) baa ID]:%RED%%TEAL%Slayer Guard%NL%%GREEN%Immortal King's %PURPLE%W %RED%i %ORANGE%l %WHITE%l
 ItemDisplay[(SET) baf ID]:%RED%%TEAL%Guardian Crown%NL%%GREEN%Immortal King's %PURPLE%W %RED%i %ORANGE%l %WHITE%l
-ItemDisplay[(SET) bhm ID]:%DARK_GREEN%Bone Helm%NL%%GREEN%Tancred's %WHITE%S %DARK_GREEN%k %WHITE%u l %GREEN%l
-ItemDisplay[(SET) xh9 ID]:%DARK_GREEN%Grim Helm%NL%%GREEN%Tancred's %WHITE%S %DARK_GREEN%k %WHITE%u l %GREEN%l
-ItemDisplay[(SET) uh9 ID]:%DARK_GREEN%Bone Visage%NL%%GREEN%Tancred's %WHITE%S %DARK_GREEN%k %WHITE%u l %GREEN%l
+
+//
 ItemDisplay[(SET) xh9 STR>9 DEX>19 RES>9 STAT35>0 ID]:%GREEN%%SAGE%Grim Helm%NL%%GREEN%Natalya's %GOLD%T o %WHITE%t e %GREEN%m
 ItemDisplay[(SET) uh9 STR>9 DEX>19 RES>9 STAT35>0 ID]:%GREEN%%SAGE%Bone Visage%NL%%GREEN%Natalya's %GOLD%T o %WHITE%t e %GREEN%m
 ItemDisplay[(SET) uh9 FHR>24 REPLIFE>19 MANA>149 STAT78>419 ID]:%RED%%TEAL%Bone Visage%NL%%GREEN%Trang-Oul's %PURPLE%G %RED%u %ORANGE%i %GOLD%s %WHITE%e
+ItemDisplay[(SET) bhm ID]:%DARK_GREEN%Bone Helm%NL%%GREEN%Tancred's %WHITE%S %DARK_GREEN%k %WHITE%u l %GREEN%l
+ItemDisplay[(SET) xh9 ID]:%DARK_GREEN%Grim Helm%NL%%GREEN%Tancred's %WHITE%S %DARK_GREEN%k %WHITE%u l %GREEN%l
+ItemDisplay[(SET) uh9 ID]:%DARK_GREEN%Bone Visage%NL%%GREEN%Tancred's %WHITE%S %DARK_GREEN%k %WHITE%u l %GREEN%l
+
+
 ItemDisplay[(SET) brs ID]:%DARK_GREEN%Breast Plate%NL%%GREEN%Isenhart's %WHITE%C %DARK_GREEN%a %WHITE%s %GREEN%e
 ItemDisplay[(SET) xrs ID]:%DARK_GREEN%Cuirass%NL%%GREEN%Isenhart's %WHITE%C %DARK_GREEN%a %WHITE%s %GREEN%e
 ItemDisplay[(SET) urs ID]:%DARK_GREEN%Great Hauberk%NL%%GREEN%Isenhart's %WHITE%C %DARK_GREEN%a %WHITE%s %GREEN%e
@@ -2867,14 +3008,16 @@ ItemDisplay[(SET) drd ID]:%RED%%TEAL%Earth Spirit%NL%%GREEN%Aldur's %PURPLE%S %R
 ItemDisplay[(SET) fhl ID]:%DARK_GREEN%Full Helm%NL%%GREEN%Isenhart's %WHITE%H %DARK_GREEN%o r %GREEN%n s
 ItemDisplay[(SET) xhl ID]:%DARK_GREEN%Basinet%NL%%GREEN%Isenhart's %WHITE%H %DARK_GREEN%o r %GREEN%n s
 ItemDisplay[(SET) uhl ID]:%DARK_GREEN%Giant Conch%NL%%GREEN%Isenhart's %WHITE%H %DARK_GREEN%o r %GREEN%n s
-ItemDisplay[(SET) chl ALLSK>0 REPLIFE>14 LRES>14 FRES>14 ID]:%RED%%TEAL%Basinet%NL%%GREEN%Sazabi's %PURPLE%M %RED%e %ORANGE%n %GOLD%t %WHITE%a %GOLD%l  %ORANGE%S %RED%h %PURPLE%e %ORANGE%a %GOLD%t %WHITE%h
-ItemDisplay[(SET) chl ALLSK>0 REPLIFE>14 LRES>14 FRES>14 ID]:%RED%%TEAL%Giant Conch%NL%%GREEN%Sazabi's %PURPLE%M %RED%e %ORANGE%n %GOLD%t %WHITE%a %GOLD%l  %ORANGE%S %RED%h %PURPLE%e %ORANGE%a %GOLD%t %WHITE%h
-ItemDisplay[(SET) ful ID]:%DARK_GREEN%Full Plate Mail%NL%%GREEN%Tancred's %WHITE%S p %DARK_GREEN%i n %GREEN%e
-ItemDisplay[(SET) xul ID]:%DARK_GREEN%Chaos Armor%NL%%GREEN%Tancred's %WHITE%S p %DARK_GREEN%i n %GREEN%e
-ItemDisplay[(SET) uul ID]:%DARK_GREEN%Shadow Plate%NL%%GREEN%Tancred's %WHITE%S p %DARK_GREEN%i n %GREEN%e
+ItemDisplay[(SET) xhl ALLSK>0 REPLIFE>14 LRES>14 FRES>14 ID]:%RED%%TEAL%Basinet%NL%%GREEN%Sazabi's %PURPLE%M %RED%e %ORANGE%n %GOLD%t %WHITE%a %GOLD%l  %ORANGE%S %RED%h %PURPLE%e %ORANGE%a %GOLD%t %WHITE%h
+ItemDisplay[(SET) uhl ALLSK>0 REPLIFE>14 LRES>14 FRES>14 ID]:%RED%%TEAL%Giant Conch%NL%%GREEN%Sazabi's %PURPLE%M %RED%e %ORANGE%n %GOLD%t %WHITE%a %GOLD%l  %ORANGE%S %RED%h %PURPLE%e %ORANGE%a %GOLD%t %WHITE%h
+//
 ItemDisplay[(SET) xul TABSK18>0 ID]:%RED%%TEAL%Chaos Armor%NL%%GREEN%Trang-Oul's %PURPLE%S %RED%c %ORANGE%a %GOLD%l %WHITE%e %GOLD%s
 ItemDisplay[(SET) uul TABSK18>0 ID]:%RED%%TEAL%Shadow Plate%NL%%GREEN%Trang-Oul's %PURPLE%S %RED%c %ORANGE%a %GOLD%l %WHITE%e %GOLD%s
 ItemDisplay[(SET) uul TABSK42>0 ID]:%RED%%TEAL%Shadow Plate%NL%%GREEN%Aldur's %PURPLE%D %RED%e %ORANGE%c %GOLD%e %WHITE%p %GOLD%t %ORANGE%i %RED%o %PURPLE%n
+ItemDisplay[(SET) ful ID]:%DARK_GREEN%Full Plate Mail%NL%%GREEN%Tancred's %WHITE%S p %DARK_GREEN%i n %GREEN%e
+ItemDisplay[(SET) xul ID]:%DARK_GREEN%Chaos Armor%NL%%GREEN%Tancred's %WHITE%S p %DARK_GREEN%i n %GREEN%e
+ItemDisplay[(SET) uul ID]:%DARK_GREEN%Shadow Plate%NL%%GREEN%Tancred's %WHITE%S p %DARK_GREEN%i n %GREEN%e
+
 ItemDisplay[(SET) ghm ID]:%DARK_GREEN%Great Helm%NL%%GREEN%Sigon's %WHITE%V i %DARK_GREEN%s o %GREEN%r
 ItemDisplay[(SET) xhm ID]:%DARK_GREEN%Winged Helm%NL%%GREEN%Sigon's %WHITE%V i %DARK_GREEN%s o %GREEN%r
 ItemDisplay[(SET) uhm ID]:%DARK_GREEN%Spired Helm%NL%%GREEN%Sigon's %WHITE%V i %DARK_GREEN%s o %GREEN%r
@@ -2887,7 +3030,8 @@ ItemDisplay[(SET) 7qs ID]:%DARK_GREEN%Seraph Rod%NL%%GREEN%Civerb's %WHITE%C %DA
 ItemDisplay[(SET) gth ID]:%DARK_GREEN%Gothic Plate%NL%%GREEN%Sigon's %WHITE%S h %DARK_GREEN%e l %WHITE%t e %GREEN%r
 ItemDisplay[(SET) xth ID]:%DARK_GREEN%Embossed Plate%NL%%GREEN%Sigon's %WHITE%S h %DARK_GREEN%e l %WHITE%t e %GREEN%r
 ItemDisplay[(SET) uth ID]:%DARK_GREEN%Lacquered Plate%NL%%GREEN%Sigon's %WHITE%S h %DARK_GREEN%e l %WHITE%t e %GREEN%r
-ItemDisplay[(SET) cth MFIND>49 FRES>39 LRES>39 CRES>39 ID]:%RED%%TEAL%Lacquered Plate%NL%%GREEN%Tal Rasha's %PURPLE%G %RED%u %ORANGE%a %GOLD%r %WHITE%d i %GOLD%a n %ORANGE%s %RED%h %PURPLE%i %TAN%p
+ItemDisplay[(SET) uth MFIND>49 FRES>39 LRES>39 CRES>39 ID]:%RED%%TEAL%Lacquered Plate%NL%%GREEN%Tal Rasha's %PURPLE%G %RED%u %ORANGE%a %GOLD%r %WHITE%d i %GOLD%a n %ORANGE%s %RED%h %PURPLE%i %TAN%p
+
 ItemDisplay[(SET) gts ID]:%DARK_GREEN%Gothic Shield%NL%%GREEN%Isenhart's %WHITE%P %DARK_GREEN%a r %GREEN%r y
 ItemDisplay[(SET) xts ID]:%DARK_GREEN%Ancient Shield%NL%%GREEN%Isenhart's %WHITE%P %DARK_GREEN%a r %GREEN%r y
 ItemDisplay[(SET) uts ID]:%DARK_GREEN%Ward%NL%%GREEN%Isenhart's %WHITE%P %DARK_GREEN%a r %GREEN%r y
@@ -2922,8 +3066,8 @@ ItemDisplay[(SET) ulc ID]:%DARK_GREEN%Spiderweb Sash%NL%%GREEN%Death's %WHITE%G 
 ItemDisplay[(SET) lbt ID]:%DARK_GREEN%Boots%NL%%GREEN%Tancred's %WHITE%H o %DARK_GREEN%b n %WHITE%a i %GREEN%l s
 ItemDisplay[(SET) xlb ID]:%DARK_GREEN%Demonhide Boots%NL%%GREEN%Tancred's %WHITE%H o %DARK_GREEN%b n %WHITE%a i %GREEN%l s
 ItemDisplay[(SET) ulb ID]:%DARK_GREEN%Wyrmhide Boots%NL%%GREEN%Tancred's %WHITE%H o %DARK_GREEN%b n %WHITE%a i %GREEN%l s
-ItemDisplay[(SET) clb FRW>29 STAT153>0 STAT11>0 ID]:%RED%%TEAL%Demonhide Boots%NL%%GREEN%Disciple's  %PURPLE%R i %RED%t e %ORANGE% o %GOLD%f  %WHITE%P a %GOLD%s s %ORANGE%a g %PURPLE%e
-ItemDisplay[(SET) clb FRW>29 STAT153>0 STAT11>0 ID]:%RED%%TEAL%Wyrmhide Boots%NL%%GREEN%Disciple's  %PURPLE%R i %RED%t e %ORANGE% o %GOLD%f  %WHITE%P a %GOLD%s s %ORANGE%a g %PURPLE%e
+ItemDisplay[(SET) xlb FRW>29 STAT153>0 STAT11>0 ID]:%RED%%TEAL%Demonhide Boots%NL%%GREEN%Disciple's  %PURPLE%R i %RED%t e %ORANGE% o %GOLD%f  %WHITE%P a %GOLD%s s %ORANGE%a g %PURPLE%e
+ItemDisplay[(SET) ulb FRW>29 STAT153>0 STAT11>0 ID]:%RED%%TEAL%Wyrmhide Boots%NL%%GREEN%Disciple's  %PURPLE%R i %RED%t e %ORANGE% o %GOLD%f  %WHITE%P a %GOLD%s s %ORANGE%a g %PURPLE%e
 ItemDisplay[(SET) lea ID]:%DARK_GREEN%Leather Armor%NL%%GREEN%Vidala's %WHITE%A %DARK_GREEN%m b %WHITE%u s %GREEN%h
 ItemDisplay[(SET) xea ID]:%DARK_GREEN%Serpentskin%NL%%GREEN%Vidala's %WHITE%A %DARK_GREEN%m b %WHITE%u s %GREEN%h
 ItemDisplay[(SET) uea ID]:%DARK_GREEN%Wyrmhide%NL%%GREEN%Vidala's %WHITE%A %DARK_GREEN%m b %WHITE%u s %GREEN%h
@@ -2937,7 +3081,8 @@ ItemDisplay[(SET) urg ID]:%DARK_GREEN%Hyperion%NL%%GREEN%Civerb's %WHITE%W %DARK
 ItemDisplay[(SET) lsd ID]:%DARK_GREEN%Long Sword%NL%%GREEN%Cleglaw's %WHITE%T o %DARK_GREEN%o t %GREEN%h
 ItemDisplay[(SET) 9ls ID]:%DARK_GREEN%Rune Sword%NL%%GREEN%Cleglaw's %WHITE%T o %DARK_GREEN%o t %GREEN%h
 ItemDisplay[(SET) 7ls ID]:%DARK_GREEN%Cryptic Sword%NL%%GREEN%Cleglaw's %WHITE%T o %DARK_GREEN%o t %GREEN%h
-ItemDisplay[(SET) cls STAT152>0 IAS>39 STAT121>0 ID]:%RED%%TEAL%Cryptic Sword%NL%%GREEN%Sazabi's %PURPLE%C %RED%o b %ORANGE%a l %GOLD%t  %WHITE%R e %GOLD%d e %ORANGE%e %GOLD%m %WHITE%e %RED%r
+ItemDisplay[(SET) 7ls STAT152>0 IAS>39 STAT121>0 ID]:%RED%%TEAL%Cryptic Sword%NL%%GREEN%Sazabi's %PURPLE%C %RED%o b %ORANGE%a l %GOLD%t  %WHITE%R e %GOLD%d e %ORANGE%e %GOLD%m %WHITE%e %RED%r
+
 ItemDisplay[(SET) ne9 ID]:%RED%%TEAL%Cantor Trophy%NL%%GREEN%Trang-Oul's %PURPLE%W %RED%i %ORANGE%n %WHITE%g
 ItemDisplay[(SET) nee ID]:%RED%%TEAL%Succubae Skull%NL%%GREEN%Trang-Oul's %PURPLE%W %RED%i %ORANGE%n %WHITE%g
 ItemDisplay[(SET) paf ID]:%RED%%TEAL%Vortex Shield%NL%%GREEN%Gris wold's %PURPLE%H %RED%o n %ORANGE%o r
@@ -2950,22 +3095,25 @@ ItemDisplay[(SET) zmb LIFE>19 CRES>19 ID]:%DARK_GREEN%Mesh Belt%NL%%GREEN%Hsarus
 ItemDisplay[(SET) zmb STAT117>0 (STAT50>0 OR STAT51>0) ID]:%GREEN%%SAGE%Mesh Belt%NL%%GREEN%Hwanin's %GREEN% B %GOLD%l e %WHITE%s s %GREEN%i n %PURPLE%g
 ItemDisplay[(SET) umc LIFE>19 CRES>19 ID]:%DARK_GREEN%Mithril Coil%NL%%GREEN%Hsarus' %GREEN%I r %DARK_GREEN%o n %WHITE% S %DARK_GREEN%t a %WHITE%y
 ItemDisplay[(SET) umc STAT117>0 (STAT50>0 OR STAT51>0) ID]:%GREEN%%SAGE%Mithril Coil%NL%%GREEN%Hwanin's %GREEN% B %GOLD%l e %WHITE%s s %GREEN%i n %PURPLE%g
-ItemDisplay[(SET) cmb DEX>19 MANA>19 DTM>36 MFIND>9 ID]:%RED%%TEAL%Mesh Belt%NL%%GREEN%Tal Rasha's %PURPLE%F i %RED%n e %ORANGE%- S %GOLD%p u %WHITE%n %GOLD%C %ORANGE%l %RED%o %WHITE%t %PURPLE%h
-ItemDisplay[(SET) cmc DEX>19 MANA>19 DTM>36 MFIND>9 ID]:%RED%%TEAL%Mithril Coil%NL%%GREEN%Tal Rasha's %PURPLE%F i %RED%n e %ORANGE%- S %GOLD%p u %WHITE%n %GOLD%C %ORANGE%l %RED%o %WHITE%t %PURPLE%h
+ItemDisplay[(SET) zmb DEX>19 MANA>19 DTM>36 MFIND>9 ID]:%RED%%TEAL%Mesh Belt%NL%%GREEN%Tal Rasha's %PURPLE%F i %RED%n e %ORANGE%- S %GOLD%p u %WHITE%n %GOLD%C %ORANGE%l %RED%o %WHITE%t %PURPLE%h
+ItemDisplay[(SET) umc DEX>19 MANA>19 DTM>36 MFIND>9 ID]:%RED%%TEAL%Mithril Coil%NL%%GREEN%Tal Rasha's %PURPLE%F i %RED%n e %ORANGE%- S %GOLD%p u %WHITE%n %GOLD%C %ORANGE%l %RED%o %WHITE%t %PURPLE%h
 ItemDisplay[(SET) umc STR>9 DEX>9 RES>14 ID]:%PURPLE%Mithril Coil%NL%%GREEN%Disciple's  %GREEN%C r %PURPLE%e d %RED%e n %ORANGE%d u %GOLD%m
 ItemDisplay[(SET) spl ID]:%DARK_GREEN%Splint Mail%NL%%GREEN%Berserker's %WHITE%H a %DARK_GREEN%u b %WHITE%e r %GREEN%k
 ItemDisplay[(SET) xpl ID]:%DARK_GREEN%Russet Armor%NL%%GREEN%Berserker's %WHITE%H a %DARK_GREEN%u b %WHITE%e r %GREEN%k
 ItemDisplay[(SET) upl ID]:%DARK_GREEN%Balrog Skin%NL%%GREEN%Berserker's %WHITE%H a %DARK_GREEN%u b %WHITE%e r %GREEN%k
-ItemDisplay[(SET) cpl FHR>29 STAT121>99 ID]:%RED%%TEAL%Balrog Skin%NL%%GREEN%Sazabi's %PURPLE%G %RED%h o %ORANGE%s t %GOLD% L %WHITE%i b %GOLD%e r %ORANGE%a %RED%t %PURPLE%o %TAN%r
+ItemDisplay[(SET) upl FHR>29 STAT121>99 ID]:%RED%%TEAL%Balrog Skin%NL%%GREEN%Sazabi's %PURPLE%G %RED%h o %ORANGE%s t %GOLD% L %WHITE%i b %GOLD%e r %ORANGE%a %RED%t %PURPLE%o %TAN%r
+
+//ok
+ItemDisplay[(SET) tbl LIFE>19 STAT31>0 !STAT153>0 ID]:%DARK_GREEN%Heavy Belt%NL%%GREEN%Infernal %WHITE%S %DARK_GREEN%i g %GREEN%n
+ItemDisplay[(SET) ztb LIFE>19 STAT31>0 !STAT153>0 ID]:%DARK_GREEN%Battle Belt%NL%%GREEN%Infernal %WHITE%S %DARK_GREEN%i g %GREEN%n
+ItemDisplay[(SET) utc LIFE>19 STAT31>0 !STAT153>0 ID]:%DARK_GREEN%Troll Belt%NL%%GREEN%Infernal %WHITE%S %DARK_GREEN%i g %GREEN%n
+ItemDisplay[(SET) tbl MINDMG>0 STAT31>0 ID]:%DARK_GREEN%Heavy Belt%NL%%GREEN%Iratha's %WHITE%C %DARK_GREEN%o r %GREEN%d
+ItemDisplay[(SET) ztb MINDMG>0 STAT31>0 ID]:%DARK_GREEN%Battle Belt%NL%%GREEN%Iratha's %WHITE%C %DARK_GREEN%o r %GREEN%d
+ItemDisplay[(SET) utc MINDMG>0 STAT31>0 ID]:%DARK_GREEN%Troll Belt%NL%%GREEN%Iratha's %WHITE%C %DARK_GREEN%o r %GREEN%d
 ItemDisplay[(SET) ztb STAT60>0 STAT62>0 ID]:%RED%%TEAL%Battle Belt%NL%%GREEN%Wilhelm's %PURPLE%P r %RED%i d %ORANGE%e
 ItemDisplay[(SET) utc STAT60>0 STAT62>0 ID]:%RED%%TEAL%Troll Belt%NL%%GREEN%Wilhelm's %PURPLE%P r %RED%i d %ORANGE%e
-ItemDisplay[(SET) tbl LIFE>19 STAT31>0 ID]:%DARK_GREEN%Heavy Belt%NL%%GREEN%Infernal %WHITE%S %DARK_GREEN%i g %GREEN%n
-ItemDisplay[(SET) tbl MINDMG>0 STAT31>0 ID]:%DARK_GREEN%Heavy Belt%NL%%GREEN%Iratha's %WHITE%C %DARK_GREEN%o r %GREEN%d
-ItemDisplay[(SET) ztb LIFE>19 STAT31>0 ID]:%DARK_GREEN%Battle Belt%NL%%GREEN%Infernal %WHITE%S %DARK_GREEN%i g %GREEN%n
-ItemDisplay[(SET) ztb MINDMG>0 STAT31>0 ID]:%DARK_GREEN%Battle Belt%NL%%GREEN%Iratha's %WHITE%C %DARK_GREEN%o r %GREEN%d
-ItemDisplay[(SET) utc LIFE>19 STAT31>0 ID]:%DARK_GREEN%Troll Belt%NL%%GREEN%Infernal %WHITE%S %DARK_GREEN%i g %GREEN%n
-ItemDisplay[(SET) utc MINDMG>0 STAT31>0 ID]:%DARK_GREEN%Troll Belt%NL%%GREEN%Iratha's %WHITE%C %DARK_GREEN%o r %GREEN%d
-ItemDisplay[(SET) utc LIFE>55 REPLIFE>4 MANA>24 STAT91>0 ID]:%RED%%TEAL%Troll Belt%NL%%GREEN%Trang-Oul's %PURPLE%G i %RED%r t %ORANGE%h
+ItemDisplay[(SET) utc LIFE>55 REPLIFE>4 MANA>24 STAT153>0 ID]:%RED%%TEAL%Troll Belt%NL%%GREEN%Trang-Oul's %PURPLE%G i %RED%r t %ORANGE%h
+
 ItemDisplay[(SET) xcl ID]:%GREEN%%SAGE%Tigulated Mail%NL%%GREEN%Hwanin's %WHITE%R %GOLD%e f %WHITE%u g %GREEN%e
 ItemDisplay[(SET) ucl ID]:%GREEN%%SAGE%Loricated Mail%NL%%GREEN%Hwanin's %WHITE%R %GOLD%e f %WHITE%u g %GREEN%e
 ItemDisplay[(SET) ucl TABSK49>0 ID]:%RED%%TEAL%Loricated Mail%NL%%GREEN%Natalya's %PURPLE%S h %RED%a d %WHITE%o w
@@ -2982,19 +3130,22 @@ ItemDisplay[(SET) xmb ID]:%DARK_GREEN%Mesh Boots%NL%%GREEN%Hsarus' %WHITE%I r %D
 ItemDisplay[(SET) umb ID]:%DARK_GREEN%Boneweave Boots%NL%%GREEN%Hsarus' %WHITE%I r %DARK_GREEN%o n %WHITE% H %GREEN%e %DARK_GREEN%e %WHITE%l
 ItemDisplay[(SET) xmb FRW>39 CRES>14 LRES>14 STAT241>0 ID]:%RED%%TEAL%Mesh Boots%NL%%GREEN%Natalya's %PURPLE%S %RED%o %ORANGE%u %WHITE%l
 ItemDisplay[(SET) umb FRW>39 CRES>14 LRES>14 STAT241>0 ID]:%RED%%TEAL%Boneweave Boots%NL%%GREEN%Natalya's %PURPLE%S %RED%o %ORANGE%u %WHITE%l
+//
+ItemDisplay[(SET) xmg ID]:%RED%%TEAL%Heavy Bracers%NL%%GREEN%Trang-Oul's %PURPLE%C l %RED%a w %WHITE%s
+ItemDisplay[(SET) umg ID]:%RED%%TEAL%Vambraces%NL%%GREEN%Trang-Oul's %PURPLE%C l %RED%a w %WHITE%s
 ItemDisplay[(SET) mgl ID]:%DARK_GREEN%Chain Gloves%NL%%GREEN%Cleglaw's %WHITE%P i %DARK_GREEN%n c %GREEN%e r %WHITE%s
 ItemDisplay[(SET) xmg ID]:%DARK_GREEN%Heavy Bracers%NL%%GREEN%Cleglaw's %WHITE%P i %DARK_GREEN%n c %GREEN%e r %WHITE%s
 ItemDisplay[(SET) umg ID]:%DARK_GREEN%Vambraces%NL%%GREEN%Cleglaw's %WHITE%P i %DARK_GREEN%n c %GREEN%e r %WHITE%s
-ItemDisplay[(SET) xmg ID]:%RED%%TEAL%Heavy Bracers%NL%%GREEN%Trang-Oul's %PURPLE%C l %RED%a w %WHITE%s
-ItemDisplay[(SET) umg ID]:%RED%%TEAL%Vambraces%NL%%GREEN%Trang-Oul's %PURPLE%C l %RED%a w %WHITE%s
+
 ItemDisplay[(SET) mpi ID]:%DARK_GREEN%Military Pick%NL%%GREEN%Tancred's %WHITE%C r %DARK_GREEN%o w %GREEN%b i %WHITE%l l
 ItemDisplay[(SET) 9mp ID]:%DARK_GREEN%Crowbill%NL%%GREEN%Tancred's %WHITE%C r %DARK_GREEN%o w %GREEN%b i %WHITE%l l
 ItemDisplay[(SET) 7mp ID]:%DARK_GREEN%War Spike%NL%%GREEN%Tancred's %WHITE%C r %DARK_GREEN%o w %GREEN%b i %WHITE%l l
 ItemDisplay[(SET) msk ID]:%DARK_GREEN%Mask%NL%%GREEN%Cathan's %WHITE%V %DARK_GREEN%i s %WHITE%a g %GREEN%e
 ItemDisplay[(SET) xsk ID]:%DARK_GREEN%Death Mask%NL%%GREEN%Cathan's %WHITE%V %DARK_GREEN%i s %WHITE%a g %GREEN%e
 ItemDisplay[(SET) usk ID]:%DARK_GREEN%Demonhead%NL%%GREEN%Cathan's %WHITE%V %DARK_GREEN%i s %WHITE%a g %GREEN%e
-ItemDisplay[(SET) csk STAT60>0 STAT62>0 ID]:%RED%%TEAL%Death Mask%NL%%GREEN%Tal Rasha's %PURPLE%H o %RED%r a %ORANGE%d r %GOLD%i c  %WHITE%C r %GOLD%e %ORANGE%s %RED%t
-ItemDisplay[(SET) csk STAT60>0 STAT62>0 ID]:%RED%%TEAL%Demonhead%NL%%GREEN%Tal Rasha's %PURPLE%H o %RED%r a %ORANGE%d r %GOLD%i c  %WHITE%C r %GOLD%e %ORANGE%s %RED%t
+ItemDisplay[(SET) xsk STAT60>0 STAT62>0 ID]:%RED%%TEAL%Death Mask%NL%%GREEN%Tal Rasha's %PURPLE%H o %RED%r a %ORANGE%d r %GOLD%i c  %WHITE%C r %GOLD%e %ORANGE%s %RED%t
+ItemDisplay[(SET) usk STAT60>0 STAT62>0 ID]:%RED%%TEAL%Demonhead%NL%%GREEN%Tal Rasha's %PURPLE%H o %RED%r a %ORANGE%d r %GOLD%i c  %WHITE%C r %GOLD%e %ORANGE%s %RED%t
+
 ItemDisplay[(SET) rng ID]:%DARK_GREEN%Ring Mail%NL%%GREEN%Angelic %WHITE%M a %DARK_GREEN%n t %WHITE%l %GREEN%e
 ItemDisplay[(SET) xng ID]:%DARK_GREEN%Linked Mail%NL%%GREEN%Angelic %WHITE%M a %DARK_GREEN%n t %WHITE%l %GREEN%e
 ItemDisplay[(SET) ung ID]:%DARK_GREEN%Diamond Mail%NL%%GREEN%Angelic %WHITE%M a %DARK_GREEN%n t %WHITE%l %GREEN%e
@@ -3058,72 +3209,77 @@ ItemDisplay[(SET) wst ID]:%GREEN%War Staff%NL%%GREEN%Arcanna's %WHITE%D %GREEN%e
 ItemDisplay[(SET) 8ws ID]:%GREEN%Rune Staff%NL%%GREEN%Arcanna's %WHITE%D %GREEN%e %WHITE%a t %DARK_GREEN%h w %WHITE%a n %GREEN%d
 ItemDisplay[(SET) 6ws ID]:%GREEN%Archon Staff%NL%%GREEN%Arcanna's %WHITE%D %GREEN%e %WHITE%a t %DARK_GREEN%h w %WHITE%a n %GREEN%d
 
-ItemDisplay[(SET) amu DTM>0 STAT89>2 ID]:%GREEN%Angelic %GREEN%W i %DARK_GREEN%n g %WHITE%s%NL%%GREEN%Set %SAGE%Amulet{%GREEN%Amulet%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
-ItemDisplay[(SET) amu MANA>34 STAT27>0 ID]:%GREEN%Arcanna's  %DARK_GREEN%S i %WHITE%g n%NL%%GREEN%Set %SAGE%Amulet{%GREEN%Amulet%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
-ItemDisplay[(SET) amu FHR>9 LRES>19 STAT238>0 ID]:%GREEN%Cathan' s %GREEN% S %DARK_GREEN%i g %WHITE%i l%NL%%GREEN%Set %SAGE%Amulet{%GREEN%Amulet%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
-ItemDisplay[(SET) amu REPLIFE>9 STAT27>0 ID]:%GREEN%Civerb's %GREEN% I %DARK_GREEN%c o %WHITE%n%NL%%GREEN%Set %SAGE%Amulet{%GREEN%Amulet%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
-ItemDisplay[(SET) amu PRES>29 STAT110>0 ID]:%GREEN%Iratha's %GREEN% C %DARK_GREEN%o l %WHITE%l a %DARK_GREEN%r%NL%%GREEN%Set %SAGE%Amulet{%GREEN%Amulet%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
-ItemDisplay[(SET) amu STAT34>0 STAT35>0 ID]:%GREEN%Tancred's  %DARK_GREEN%W e %WHITE%i r %DARK_GREEN%d%NL%%GREEN%Set %SAGE%Amulet{%GREEN%Amulet%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
-ItemDisplay[(SET) amu LIFE>24 CRES>19 ID]:%GREEN%Vidala's %GREEN% S %DARK_GREEN%n a %WHITE%r e%NL%%GREEN%Set %SAGE%Amulet{%GREEN%Amulet%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
-//ItemDisplay[(SET) amu ALLSK>0 CRES>0 PRES>39 STAT78>0 ID]:%GREEN%T e %PURPLE%l l %WHITE%i n %PURPLE%g  %GREEN%o f %GOLD% B %WHITE%e a %GREEN%d s%NL%%GREEN%Set %SAGE%Ring{%GREEN%Amulet%NL%%NAME%}%CONTINUE%
-//ItemDisplay[(SET) amu CLSK1>0 STAT50>0 LIFE>49 MANA>39 LRES>0 ID]:%GREEN%T a %PURPLE%l  %WHITE%R a %PURPLE%s h %GREEN%a ' %GOLD%s  %WHITE%A d %GREEN%j u %PURPLE%d i %DARK_GREEN%c a %WHITE%t %GREEN%i %GOLD%o %TAN%n%NL%%GREEN%Set %SAGE%Ring{%GREEN%Amulet%NL%%NAME%}%CONTINUE%
-ItemDisplay[(SET) rin LIFE>19 REPLIFE>5 ID]:%GREEN%Angelic %GREEN%H a %DARK_GREEN%l o%NL%%GREEN%Set %SAGE%Ring{%GREEN%Ring%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
-ItemDisplay[(SET) rin STAT60>5 STAT34>0 ID]:%GREEN%Cathan' s %GREEN% S %DARK_GREEN%e a %WHITE%l%NL%%GREEN%Set %SAGE%Ring{%GREEN%Ring%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
-ItemDisplay[(SET) rin ED>23 AR>0 LRES>14 STAT36>4 ID]:%GREEN%Bu%PURPLE%l-%WHITE%Ka%PURPLE%th%GREEN%os%GOLD%' %WHITE%D e %GREEN%a t %PURPLE%h  %DARK_GREEN%B a %WHITE%n %GREEN%d%NL%%GREEN%Set %SAGE%Ring{%GREEN%Ring%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[(SET) amu DTM>0 STAT89>2 ID]:%SAGE%Amulet%NL%%GREEN%Angelic %GREEN%W i %DARK_GREEN%n g %WHITE%s{%GREEN%Amulet%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[(SET) amu MANA>34 STAT27>0 ID]:%SAGE%Amulet%NL%%GREEN%Arcanna's  %DARK_GREEN%S i %WHITE%g n{%GREEN%Amulet%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[(SET) amu FHR>9 LRES>19 STAT238>0 ID]:%SAGE%Amulet%NL%%GREEN%Cathan' s %GREEN% S %DARK_GREEN%i g %WHITE%i l{%GREEN%Amulet%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[(SET) amu REPLIFE>9 STAT27>0 ID]:%SAGE%Amulet%NL%%GREEN%Civerb's %GREEN% I %DARK_GREEN%c o %WHITE%n{%GREEN%Amulet%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[(SET) amu PRES>29 STAT110>0 ID]:%SAGE%Amulet%NL%%GREEN%Iratha's %GREEN% C %DARK_GREEN%o l %WHITE%l a %DARK_GREEN%r{%GREEN%Amulet%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[(SET) amu STAT34>0 STAT35>0 ID]:%SAGE%Amulet%NL%%GREEN%Tancred's  %DARK_GREEN%W e %WHITE%i r %DARK_GREEN%d{%GREEN%Amulet%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[(SET) amu LIFE>24 CRES>19 ID]:%SAGE%Amulet%NL%%GREEN%Vidala's %GREEN% S %DARK_GREEN%n a %WHITE%r e{%GREEN%Amulet%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+//ItemDisplay[(SET) amu ALLSK>0 CRES>0 PRES>39 STAT78>0 ID]:%SAGE%Ring%NL%%GREEN%T e %PURPLE%l l %WHITE%i n %PURPLE%g  %GREEN%o f %GOLD% B %WHITE%e a %GREEN%d s{%GREEN%Amulet%NL%%NAME%}%CONTINUE%
+//ItemDisplay[(SET) amu CLSK1>0 STAT50>0 LIFE>49 MANA>39 LRES>0 ID]:%SAGE%Ring%NL%%GREEN%T a %PURPLE%l  %WHITE%R a %PURPLE%s h %GREEN%a ' %GOLD%s  %WHITE%A d %GREEN%j u %PURPLE%d i %DARK_GREEN%c a %WHITE%t %GREEN%i %GOLD%o %TAN%n{%GREEN%Amulet%NL%%NAME%}%CONTINUE%
+ItemDisplay[(SET) rin LIFE>19 REPLIFE>5 ID]:%SAGE%Ring%NL%%GREEN%Angelic %GREEN%H a %DARK_GREEN%l o{%GREEN%Ring%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[(SET) rin STAT60>5 STAT34>0 ID]:%SAGE%Ring%NL%%GREEN%Cathan' s %GREEN% S %DARK_GREEN%e a %WHITE%l{%GREEN%Ring%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[(SET) rin ED>23 AR>0 LRES>14 STAT36>4 ID]:%SAGE%Ring%NL%%GREEN%Bu%PURPLE%l-%WHITE%Ka%PURPLE%th%GREEN%os%GOLD%' %WHITE%D e %GREEN%a t %PURPLE%h  %DARK_GREEN%B a %WHITE%n %GREEN%d{%GREEN%Ring%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 
 ItemDisplay[(UNI OR SET) ID (rin OR Amu)]:%NAME%{%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //SARACEN CHANCE
-ItemDisplay[UNI ID amu ED>29 STAT0>11 STAT1>11 STAT2>11 STAT3>11 RES>14]:%PURPLE%S a %RED%r a%ORANGE%c e%ORANGE% n%YELLOW% '%YELLOW% s %GOLD%C h a n c e%NL%%PURPLE%Uniue %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID amu ED>29 STAT0>11 STAT1>11 STAT2>11 STAT3>11 RES>14]:%CORAL%Amulet%NL%%PURPLE%S a %RED%r a%ORANGE%c e%ORANGE% n%YELLOW% '%YELLOW% s %GOLD%C h a n c e{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //THE CAT'S EYE
-ItemDisplay[UNI ID amu IAS>0 STAT2>0 FRW>0 STAT31>0 STAT32>0]:%PURPLE%T %RED%h %ORANGE%e  %ORANGE%C %YELLOW%a %YELLOW%t %PURPLE%' %PURPLE%s  %GOLD%E y e%NL%%PURPLE%Uniue %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID amu IAS>0 STAT2>0 FRW>0 STAT31>0 STAT32>0]:%CORAL%Amulet%NL%%PURPLE%T %RED%h %ORANGE%e  %ORANGE%C %YELLOW%a %YELLOW%t %PURPLE%' %PURPLE%s  %GOLD%E y e{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //ATMAS SCARAB
-ItemDisplay[UNI ID amu ARPER>0 STAT45>0 STAT78>0 STAT89>0 STAT326>0]:%PURPLE%A %RED%t %ORANGE%m %ORANGE%a %YELLOW%' %YELLOW%s  %GOLD%S c a r a b%NL%%PURPLE%Uniue %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID amu ARPER>0 STAT45>0 STAT78>0 STAT89>0 STAT326>0]:%CORAL%Amulet%NL%%PURPLE%A %RED%t %ORANGE%m %ORANGE%a %YELLOW%' %YELLOW%s  %GOLD%S c a r a b{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //HIGH LORD WRATH
-ItemDisplay[UNI ID amu ALLSK>0 IAS>0 STAT128>0 LRES>0 STAT250>0]:%PURPLE%H %RED%i %ORANGE%g %ORANGE%h %YELLOW%l %YELLOW%o %PURPLE%r %PURPLE%d %GOLD%' %GOLD%s  %GOLD%W r a t h%NL%%PURPLE%Uniue %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID amu ALLSK>0 IAS>0 STAT128>0 LRES>0 STAT250>0]:%CORAL%Amulet%NL%%PURPLE%H %RED%i %ORANGE%g %ORANGE%h %YELLOW%l %YELLOW%o %PURPLE%r %PURPLE%d %GOLD%' %GOLD%s  %GOLD%W r a t h{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //THE RISING SUN
-ItemDisplay[UNI ID amu STAT363>0 REPLIFE>0 STAT89>0 STAT143>0 STAT333>0]:%PURPLE%T %RED%h %ORANGE%e  %ORANGE%R %YELLOW%i %YELLOW%s %PURPLE%i %PURPLE%n %GOLD%g  %GOLD%S u n%NL%%PURPLE%Uniue %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID amu STAT363>0 REPLIFE>0 STAT89>0 STAT143>0 STAT333>0]:%CORAL%Amulet%NL%%PURPLE%T %RED%h %ORANGE%e  %ORANGE%R %YELLOW%i %YELLOW%s %PURPLE%i %PURPLE%n %GOLD%g  %GOLD%S u n{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //SERAPHE'S HYMN
-ItemDisplay[UNI ID amu ALLSK>0 STAT121>0 STAT123>0 STAT122>0 STAT124>0 STAT89>0]:%PURPLE%S %RED%e %ORANGE%r %ORANGE%a %YELLOW%p %YELLOW%h %PURPLE% ' s  %GOLD%H y m n%NL%%PURPLE%Uniue %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID amu ALLSK>0 STAT121>0 STAT123>0 STAT122>0 STAT124>0 STAT89>0]:%CORAL%Amulet%NL%%PURPLE%S %RED%e %ORANGE%r %ORANGE%a %YELLOW%p %YELLOW%h %PURPLE% ' s  %GOLD%H y m n{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //MARA
-ItemDisplay[UNI ID amu ALLSK>0 STAT0>0 STAT1>0 STAT2>0 STAT3>0 RES>0]:%PURPLE%M %RED%a %ORANGE%r %ORANGE%a %YELLOW%' %YELLOW%s  %GOLD%K a l e i d o s c o p e%NL%%PURPLE%Uniue %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID amu ALLSK>0 STAT0>0 STAT1>0 STAT2>0 STAT3>0 RES>0]:%CORAL%Amulet%NL%%PURPLE%M %RED%a %ORANGE%r %ORANGE%a %YELLOW%' %YELLOW%s  %GOLD%K a l e i d o s c o p e{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //METAL GRID
-ItemDisplay[UNI ID amu AR>0 STAT31>0 RES>0 STAT78>0]:%PURPLE%M %RED%e %ORANGE%t %ORANGE%a %YELLOW%l %YELLOW%g %PURPLE%r %PURPLE%i %GOLD%d%NL%%PURPLE%Uniue %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID amu AR>0 STAT31>0 RES>0 STAT78>0]:%CORAL%Amulet%NL%%PURPLE%M %RED%e %ORANGE%t %ORANGE%a %YELLOW%l %YELLOW%g %PURPLE%r %PURPLE%i %GOLD%d{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //THE THIRD EYE
-ItemDisplay[UNI ID ram]:%PURPLE%T %RED%h %ORANGE%e  %ORANGE%T %YELLOW%h %YELLOW%i %PURPLE%r %PURPLE%d  %GOLD%E y e%NL%%PURPLE%Uniue %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID ram]:%CORAL%Amulet%NL%%PURPLE%T %RED%h %ORANGE%e  %ORANGE%T %YELLOW%h %YELLOW%i %PURPLE%r %PURPLE%d  %GOLD%E y e{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+
 //TELLING OF BEADS
-ItemDisplay[SET ID amu ALLSK>0 CRES>0 PRES>0 STAT78>0]:%GREEN%The Disciple %PURPLE%T %RED%e %ORANGE%l l %YELLOW%i %YELLOW%n %PURPLE%g  %PURPLE%o %GOLD%f  %GOLD%B e a d s%NL%%PURPLE%Set %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[SET ID amu ALLSK>0 CRES>0 PRES>0 STAT78>0]:%SAGE%Amulet%NL%%GREEN%The Disciple %PURPLE%T %RED%e %ORANGE%l l %YELLOW%i %YELLOW%n %PURPLE%g  %PURPLE%o %GOLD%f  %GOLD%B e a d s%NL%%PURPLE%Set %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //TAL AMUL
-ItemDisplay[SET ID amu CLSK1>0 STAT50>0 LIFE>0 MANA>0 LRES>0]:%GREEN%Tal Rasha's %PURPLE%A %RED%d %ORANGE%j u %YELLOW%d %YELLOW%i %PURPLE%c a %GOLD%t i %RED%o n%NL%%PURPLE%Set %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[SET ID amu CLSK1>0 STAT50>0 LIFE>0 MANA>0 LRES>0]:%SAGE%Amulet%NL%%GREEN%Tal Rasha's %PURPLE%A %RED%d %ORANGE%j u %YELLOW%d %YELLOW%i %PURPLE%c a %GOLD%t i %RED%o n%NL%%PURPLE%Set %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+
 //RAVEN
-ItemDisplay[UNI ID rin MANA=40 STAT153>0 AR>0 STAT2>14 STAT148>0]:%PURPLE%R %YELLOW%a %GOLD%v %BLUE%e %PURPLE%n  %GOLD%F r o s t%NL%%PURPLE%Uniue %GOLD%Ring{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID rin MANA=40 STAT153>0 AR>0 STAT2>14 STAT148>0]:%CORAL%Ring%NL%%PURPLE%R %YELLOW%a %GOLD%v %BLUE%e %PURPLE%n  %GOLD%F r o s t{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //THE STONE OF
-ItemDisplay[UNI ID rin ALLSK>0 MANA>0 (STAT50>0 OR STAT51>0) STAT77>0]:%PURPLE%T %YELLOW%h %GOLD%e  %BLUE%S %PURPLE%t %RED%o %YELLOW%n %GOLD%e  %GOLD%o f  J o r d a n%NL%%PURPLE%Uniue %GOLD%Ring{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID rin ALLSK>0 MANA>0 (STAT50>0 OR STAT51>0) STAT77>0]:%CORAL%Ring%NL%%PURPLE%T %YELLOW%h %GOLD%e  %BLUE%S %PURPLE%t %RED%o %YELLOW%n %GOLD%e  %GOLD%o f  J o r d a n{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //dWARF
-ItemDisplay[UNI ID rin LIFE>0 STAT11>0 STAT142>0 STAT79>0]:%PURPLE%D %YELLOW%w %GOLD%a %BLUE%r %PURPLE%f  %GOLD%S t a r%NL%%PURPLE%Uniue %GOLD%Ring{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID rin LIFE>0 STAT11>0 STAT142>0 STAT79>0]:%CORAL%Ring%NL%%PURPLE%D %YELLOW%w %GOLD%a %BLUE%r %PURPLE%f  %GOLD%S t a r{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //BULKA
-ItemDisplay[UNI ID rin ALLSK>0 STAT60>0 STAT216>0 STAT11>0]:%PURPLE%B %YELLOW%u %GOLD%l %BLUE%K %PURPLE%a %RED%t %YELLOW%h %ORANGE%o %BLUE%s  %GOLD%W e d d i n g B a n d%NL%%PURPLE%Uniue %GOLD%Ring{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID rin ALLSK>0 STAT60>0 STAT216>0 STAT11>0]:%CORAL%Ring%NL%%PURPLE%B %YELLOW%u %GOLD%l %BLUE%K %PURPLE%a %RED%t %YELLOW%h %ORANGE%o %BLUE%s  %GOLD%W e d d i n g B a n d{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //CARRION
-ItemDisplay[UNI ID rin STAT60>0 STAT32>0 PRES>0 STAT78>0]:%PURPLE%C %YELLOW%a %GOLD%r %BLUE%r %PURPLE%i %GOLD%o %WHITE%n  %GOLD%W i n d%NL%%PURPLE%Uniue %GOLD%Ring{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID rin STAT60>0 STAT32>0 PRES>0 STAT78>0]:%CORAL%Ring%NL%%PURPLE%C %YELLOW%a %GOLD%r %BLUE%r %PURPLE%i %GOLD%o %WHITE%n  %GOLD%W i n d{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //WISP
-ItemDisplay[UNI ID rin ALLSK>0 STAT144>0 STAT80>0]:%PURPLE%W %YELLOW%i %GOLD%s %BLUE%p  %PURPLE%P %GOLD%r %BLUE%o %WHITE%j %GOLD%e %RED%c %YELLOW%t %GOLD%o %WHITE%r%NL%%PURPLE%Uniue %GOLD%Ring{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID rin ALLSK>0 STAT144>0 STAT80>0]:%CORAL%Ring%NL%%PURPLE%W %YELLOW%i %GOLD%s %BLUE%p  %PURPLE%P %GOLD%r %BLUE%o %WHITE%j %GOLD%e %RED%c %YELLOW%t %GOLD%o %WHITE%r{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //BUL
-ItemDisplay[SET ID rin ED>0 AR>0 LRES>0 STAT36>0]:%GREEN%Bul-Kathos' %PURPLE%D %YELLOW%e %GOLD%a %BLUE%t %PURPLE%h  %GOLD%B a n d%NL%%PURPLE%Uniue %GOLD%Ring{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[SET ID rin ED>0 AR>0 LRES>0 STAT36>0]:%CORAL%Ring%NL%%GREEN%Bul-Kathos' %PURPLE%D %YELLOW%e %GOLD%a %BLUE%t %PURPLE%h  %GOLD%B a n d{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+
 //nokozan
-ItemDisplay[UNI ID amu FHR>9 (STAT48>0 OR STAT49>0) STAT40>9 FRES>24 STAT89>0]:%PURPLE%N o %RED%k o %ORANGE%z a %ORANGE%n  %YELLOW%R %YELLOW%e %PURPLE%l %PURPLE%i %GOLD%c%NL%%WHITE%Uniue %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID amu FHR>9 (STAT48>0 OR STAT49>0) STAT40>9 FRES>24 STAT89>0]:%WHITE%Amulet%NL%%PURPLE%N o %RED%k o %ORANGE%z a %ORANGE%n  %YELLOW%R %YELLOW%e %PURPLE%l %PURPLE%i %GOLD%c{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //THE eye of etilich
-ItemDisplay[UNI ID amu ALLSK>0 (STAT54>0 OR STAT55>0 OR STAT56>0) STAT60>2 STAT32>0 STAT89>0]:%PURPLE%T h %RED%e  E%ORANGE% y e  %ORANGE%o f  %YELLOW%E t %YELLOW%l %PURPLE%i %PURPLE%c %GOLD%h%NL%%WHITE%Uniue %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID amu ALLSK>0 (STAT54>0 OR STAT55>0 OR STAT56>0) STAT60>2 STAT32>0 STAT89>0]:%WHITE%Amulet%NL%%PURPLE%T h %RED%e  E%ORANGE% y e  %ORANGE%o f  %YELLOW%E t %YELLOW%l %PURPLE%i %PURPLE%c %GOLD%h{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //The Mahim-Oak Curio
-ItemDisplay[UNI ID amu FCR>4 ARPER>29 ED>4 RES>4]:%PURPLE%T h %RED%e  M%ORANGE% a h  %ORANGE%i m - %YELLOW%O a %YELLOW%k %PURPLE%C u %PURPLE%r i %GOLD%o%NL%%WHITE%Uniue %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID amu FCR>4 ARPER>29 ED>4 RES>4]:%WHITE%Amulet%NL%%PURPLE%T h %RED%e  M%ORANGE% a h  %ORANGE%i m - %YELLOW%O a %YELLOW%k %PURPLE%C u %PURPLE%r i %GOLD%o{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //Crescent Moon
-ItemDisplay[UNI ID amu STAT362>0 IAS>9 FCR>9 STAT62>3 STAT60>2 MANA>44 STAT35>0]:%PURPLE%C r %RED%e s %ORANGE%c e %ORANGE%n t %YELLOW%M %YELLOW%o %PURPLE%o %PURPLE%n%NL%%WHITE%Uniue %GOLD%Amulet{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID amu STAT362>0 IAS>9 FCR>9 STAT62>3 STAT60>2 MANA>44 STAT35>0]:%WHITE%Amulet%NL%%PURPLE%C r %RED%e s %ORANGE%c e %ORANGE%n t %YELLOW%M %YELLOW%o %PURPLE%o %PURPLE%n{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+
 //Nagelring
-ItemDisplay[UNI ID rin AR>49 STAT35>2 MAEK>0 MFIND>14]:%PURPLE%N %YELLOW%a %GOLD%g %BLUE%e %PURPLE%l  %GOLD%r %BLUE%i %WHITE%n %GOLD%g%NL%%WHITE%Uniue %GOLD%Ring{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID rin AR>49 STAT35>2 MAEK>0 MFIND>14]:%WHITE%Ring%NL%%PURPLE%N %YELLOW%a %GOLD%g %BLUE%e %PURPLE%l  %GOLD%r %BLUE%i %WHITE%n %GOLD%g{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //Manald Heal
-ItemDisplay[UNI ID rin STAT62>3 LIFE>19 REPLIFE>4 STAT27>19]:%PURPLE%M %YELLOW%a %GOLD%n %BLUE%a %PURPLE%l  %GOLD%d  %BLUE%H %WHITE%e %GOLD%a %PURPLE%l%NL%%WHITE%Uniue %GOLD%Ring{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID rin STAT62>3 LIFE>19 REPLIFE>4 STAT27>19]:%WHITE%Ring%NL%%PURPLE%M %YELLOW%a %GOLD%n %BLUE%a %PURPLE%l  %GOLD%d  %BLUE%H %WHITE%e %GOLD%a %PURPLE%l{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
 //Nature's Peace
-ItemDisplay[UNI ID rin STAT117>0 STAT108>0]:%PURPLE%N %YELLOW%a %GOLD%t %BLUE%u %PURPLE%r %GOLD%e ' s  %BLUE%P %WHITE%e %GOLD%a %PURPLE%c e%NL%%WHITE%Uniue %GOLD%Ring{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+ItemDisplay[UNI ID rin STAT117>0 STAT108>0]:%WHITE%Ring%NL%%PURPLE%N %YELLOW%a %GOLD%t %BLUE%u %PURPLE%r %GOLD%e ' s  %BLUE%P %WHITE%e %GOLD%a %PURPLE%c e{%NAME%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--}%CONTINUE%
+
 //Kadala's
-ItemDisplay[UNI ID rin STAT87>0]:%TEAL%K a d a l a ' s  %PURPLE%H %RED%e %ORANGE%i %GOLD%r %WHITE%l %GOLD%o %ORANGE%o %RED%m%NL%%PURPLE%Uniue %GOLD%Ring{%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--}%CONTINUE%
+ItemDisplay[UNI ID rin STAT87>0]:%CORAL%Ring%NL%%TEAL%K a d a l a ' s  %PURPLE%H %RED%e %ORANGE%i %GOLD%r %WHITE%l %GOLD%o %ORANGE%o %RED%m{%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--}%CONTINUE%
 
 
 //////////////////
@@ -3868,10 +4024,10 @@ ItemDisplay[(RW) zvb]:%ORANGE%S h %GOLD%a r %TAN%k s %GOLD%k i %ORANGE%n   %GOLD
 
 //ItemDisplay[(UNI OR SET OR NMAG OR MAG OR CRAFT OR RARE) ID !RW (WEAPON OR ARMOR OR rin OR Amu)]:%NAME%{%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%NAME%}%CONTINUE%
 
-ItemDisplay[cm3 UNI]:%TAN%G  %ORANGE%h  %GOLD%e  %WHITE%e  %GOLD%d'  %ORANGE%s    %TAN%F  o  %GOLD%r  t  %ORANGE%u  n  %WHITE%e%CONTINUE%
-ItemDisplay[cm1 UNI]:%TAN%A  %ORANGE%n  %GOLD%n  %WHITE%i  %GOLD%h  %ORANGE%i  %TAN%l  %GOLD%i  %ORANGE%u  %WHITE%s%CONTINUE%
-ItemDisplay[cm2 UNI]:%TAN%H  %ORANGE%e  %GOLD%l  %WHITE%l  %GOLD%f  %ORANGE%i  %TAN%r  %GOLD%e   %ORANGE%T  %WHITE%o  %GOLD%r  %TAN%c  h%CONTINUE%
-ItemDisplay[jew UNI]:%RED%R %ORANGE%a %YELLOW%i %GREEN%n %BLUE%b %PURPLE%o %WHITE%w  %GOLD%F a c e t%CONTINUE%
+ItemDisplay[cm3 UNI]:%CORAL%Grand Charm%NL%%TAN%G  %ORANGE%h  %GOLD%e  %WHITE%e  %GOLD%d'  %ORANGE%s    %TAN%F  o  %GOLD%r  t  %ORANGE%u  n  %WHITE%e%CONTINUE%
+ItemDisplay[cm1 UNI]:%CORAL%Small Charm%NL%%TAN%A  %ORANGE%n  %GOLD%n  %WHITE%i  %GOLD%h  %ORANGE%i  %TAN%l  %GOLD%i  %ORANGE%u  %WHITE%s%CONTINUE%
+ItemDisplay[cm2 UNI]:%CORAL%Large Charm%NL%%TAN%H  %ORANGE%e  %GOLD%l  %WHITE%l  %GOLD%f  %ORANGE%i  %TAN%r  %GOLD%e   %ORANGE%T  %WHITE%o  %GOLD%r  %TAN%c  h%CONTINUE%
+ItemDisplay[jew UNI]:%CORAL%Jewel%NL%%RED%R %ORANGE%a %YELLOW%i %GREEN%n %BLUE%b %PURPLE%o %WHITE%w  %GOLD%F a c e t%CONTINUE%
 
 ItemDisplay[NMAG]:%GRAY%%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[MAG]:%BLUE%%NAME%{%NAME%}%CONTINUE%
