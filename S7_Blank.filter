@@ -3370,499 +3370,499 @@ ItemDisplay[RW SOCK=6 (WP11) STAT152>0 ALLSK=4 FCR>14 FHR=60 STAT81>0 STAT3=10 S
 //STAT58	+X Poison Damage over Y Secondsbitrate N = (256X) / (25Y)
 //STAT59	+X Poison Damage over N Seconds
 
-ItemDisplay[(RW) 2ax]:%NAME%{%ORANGE%D o %GOLD%u b %TAN%l e %GOLD%  A %ORANGE%x e}%CONTINUE%
-ItemDisplay[(RW) 2hs]:%NAME%{%ORANGE%T w %GOLD%o - %TAN%h a %GOLD%n d %ORANGE%e d %GOLD%  S %TAN%w o %GOLD%r d}%CONTINUE%
-ItemDisplay[(RW) 6bs]:%NAME%{%ORANGE%S h %GOLD%i l %TAN%l e %GOLD%l a %ORANGE%g h}%CONTINUE%
-ItemDisplay[(RW) 6cb]:%NAME%{%ORANGE%G r %GOLD%e a %TAN%t   %GOLD%B o %ORANGE%w}%CONTINUE%
-ItemDisplay[(RW) 6cs]:%NAME%{%ORANGE%E l %GOLD%d e %TAN%r   %GOLD%S t %ORANGE%a f %GOLD%f}%CONTINUE%
-ItemDisplay[(RW) 6hb]:%NAME%{%ORANGE%B l %GOLD%a d %TAN%e   %GOLD%B o %ORANGE%w}%CONTINUE%
-ItemDisplay[(RW) 6hx]:%NAME%{%ORANGE%C o %GOLD%l o %TAN%s s %GOLD%u s %ORANGE%  C %GOLD%r o %TAN%s s %GOLD%b o %GRAY%w}%CONTINUE%
-ItemDisplay[(RW) 6l7]:%NAME%{%ORANGE%C r %GOLD%u s %TAN%a d %GOLD%e r %ORANGE%  B %GOLD%o w}%CONTINUE%
-ItemDisplay[(RW) 6lb]:%NAME%{%ORANGE%S h %GOLD%a d %TAN%o w %GOLD%  B %ORANGE%o w}%CONTINUE%
-ItemDisplay[(RW) 6ls]:%NAME%{%ORANGE%S t %GOLD%a l %TAN%a g %GOLD%m i %ORANGE%t e}%CONTINUE%
-ItemDisplay[(RW) 6lw]:%NAME%{%ORANGE%H y %GOLD%d r %TAN%a   %GOLD%Bo %ORANGE%w}%CONTINUE%
-ItemDisplay[(RW) 6lx]:%NAME%{%ORANGE%P e %GOLD%l l %TAN%e t %GOLD%  B %ORANGE%o w}%CONTINUE%
-ItemDisplay[(RW) 6mx]:%NAME%{%ORANGE%G o %GOLD%r g %TAN%o n %GOLD%  C %ORANGE%r o %GOLD%s s %TAN%b o %GOLD%w}%CONTINUE%
-ItemDisplay[(RW) 6rx]:%NAME%{%ORANGE%D e %GOLD%m o %TAN%n   %GOLD%C r %ORANGE%o s %GOLD%s b %TAN%o w}%CONTINUE%
-ItemDisplay[(RW) 6s7]:%NAME%{%ORANGE%D i %GOLD%a m %TAN%o n %GOLD%d   %ORANGE%B o %GOLD%w}%CONTINUE%
-ItemDisplay[(RW) 6sb]:%NAME%{%ORANGE%S p %GOLD%i d %TAN%e r %GOLD%  B %ORANGE%o w}%CONTINUE%
-ItemDisplay[(RW) 6ss]:%NAME%{%ORANGE%W a %GOLD%l k %TAN%i n %GOLD%g   %ORANGE%S t %GOLD%i c %TAN%k}%CONTINUE%
-ItemDisplay[(RW) 6sw]:%NAME%{%ORANGE%W a %GOLD%r d %TAN%  B %GOLD%o w}%CONTINUE%
-ItemDisplay[(RW) 6ws]:%NAME%{%ORANGE%A r %GOLD%c h %TAN%o n %GOLD%  S %ORANGE%t a %GOLD%f f}%CONTINUE%
-ItemDisplay[(RW) 72a]:%NAME%{%ORANGE%E t %GOLD%t i %TAN%n   %GOLD%A x %ORANGE%e}%CONTINUE%
-ItemDisplay[(RW) 72h]:%NAME%{%ORANGE%L e %GOLD%g e %TAN%n d %GOLD%  S %ORANGE%w o %GOLD%r d}%CONTINUE%
-ItemDisplay[(RW) 7ar]:%NAME%{%ORANGE%S u %GOLD%w a %TAN%y y %GOLD%a h}%CONTINUE%
-ItemDisplay[(RW) 7ax]:%NAME%{%ORANGE%S m %GOLD%a l %TAN%l   %GOLD%C r %ORANGE%e s %GOLD%c e %TAN%n t}%CONTINUE%
-ItemDisplay[(RW) 7b7]:%NAME%{%ORANGE%C h %GOLD%a m %TAN%p i %GOLD%on %ORANGE% S %GOLD%w o %TAN%r d}%CONTINUE%
-ItemDisplay[(RW) 7b8]:%NAME%{%ORANGE%W i %GOLD%n g %TAN%e d %GOLD%  A %ORANGE%x e}%CONTINUE%
-ItemDisplay[(RW) 7ba]:%NAME%{%ORANGE%S i %GOLD%l v %TAN%e r %GOLD%- e %ORANGE%d g %GOLD%e d %TAN%  A %GOLD%x e}%CONTINUE%
-ItemDisplay[(RW) 7bk]:%NAME%{%ORANGE%W i %GOLD%n g %TAN%e d %GOLD%  K %ORANGE%n i %GOLD%f e}%CONTINUE%
-ItemDisplay[(RW) 7bl]:%NAME%{%ORANGE%L e %GOLD%g e %TAN%n d %GOLD%  S %ORANGE%p i %GOLD%k e}%CONTINUE%
-ItemDisplay[(RW) 7br]:%NAME%{%ORANGE%M a %GOLD%n c %TAN%a t %GOLD%c h %ORANGE%e r}%CONTINUE%
-ItemDisplay[(RW) 7bs]:%NAME%{%ORANGE%C o %GOLD%n q %TAN%u e %GOLD%s t %ORANGE% S %GOLD%w o %TAN%r d}%CONTINUE%
-ItemDisplay[(RW) 7bt]:%NAME%{%ORANGE%D e %GOLD%c a %TAN%p i %GOLD%t a %ORANGE%t o %GOLD%r}%CONTINUE%
-ItemDisplay[(RW) 7bw]:%NAME%{%ORANGE%L i %GOLD%c h %TAN%  W %GOLD%a n %ORANGE%d}%CONTINUE%
-ItemDisplay[(RW) 7cl]:%NAME%{%ORANGE%T r %GOLD%u n %TAN%c h %GOLD%e o %ORANGE%n}%CONTINUE%
-ItemDisplay[(RW) 7cm]:%NAME%{%ORANGE%H i %GOLD%g h %TAN%l a %GOLD%n d %ORANGE%  B %GOLD%l a %TAN%d e}%CONTINUE%
-ItemDisplay[(RW) 7cr]:%NAME%{%ORANGE%P h %GOLD%a s %TAN%e   %GOLD%B l %ORANGE%a d %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) 7cs]:%NAME%{%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  C %ORANGE%e s %GOLD%t u %TAN%s}%CONTINUE%
-ItemDisplay[(RW) 7dg]:%NAME%{%ORANGE%B o %GOLD%n e %TAN%  K %GOLD%n i %ORANGE%f e}%CONTINUE%
-ItemDisplay[(RW) 7di]:%NAME%{%ORANGE%M i %GOLD%t h %TAN%r i %GOLD%l   %ORANGE%P o %GOLD%i n %TAN%t}%CONTINUE%
-ItemDisplay[(RW) 7fb]:%NAME%{%ORANGE%C o %GOLD%l o %TAN%s s %GOLD%u s %ORANGE%  S %GOLD%w o %TAN%r d}%CONTINUE%
-ItemDisplay[(RW) 7fc]:%NAME%{%ORANGE%H y %GOLD%d r %TAN%a   %GOLD%E d %ORANGE%g e}%CONTINUE%
-ItemDisplay[(RW) 7fl]:%NAME%{%ORANGE%S c %GOLD%o u %TAN%r g %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) 7ga]:%NAME%{%ORANGE%C h %GOLD%a m %TAN%p i %GOLD%o n %ORANGE%  A %GOLD%x e}%CONTINUE%
-ItemDisplay[(RW) 7gd]:%NAME%{%ORANGE%C o %GOLD%l o %TAN%s s %GOLD%u s %ORANGE%  B %GOLD%l a %TAN%d e}%CONTINUE%
-ItemDisplay[(RW) 7gi]:%NAME%{%ORANGE%G l %GOLD%o r %TAN%i o %GOLD%u s %ORANGE%  A %GOLD%x e}%CONTINUE%
-ItemDisplay[(RW) 7gl]:%NAME%{%ORANGE%G h %GOLD%o s %TAN%t   %GOLD%G l %ORANGE%a i %GOLD%v e}%CONTINUE%
-ItemDisplay[(RW) 7gm]:%NAME%{%ORANGE%T h %GOLD%u n %TAN%d e %GOLD%r   %ORANGE%M a %GOLD%u l}%CONTINUE%
-ItemDisplay[(RW) 7gs]:%NAME%{%ORANGE%B a %GOLD%l r %TAN%o g %GOLD%  B %ORANGE%l a %GOLD%d e}%CONTINUE%
-ItemDisplay[(RW) 7gw]:%NAME%{%ORANGE%U n %GOLD%e a %TAN%r t %GOLD%h e %ORANGE%d   %GOLD%W a %TAN%n d}%CONTINUE%
-ItemDisplay[(RW) 7h7]:%NAME%{%ORANGE%G r %GOLD%e a %TAN%t   %GOLD%P o %ORANGE%l e %GOLD%a x %TAN%e}%CONTINUE%
-ItemDisplay[(RW) 7ha]:%NAME%{%ORANGE%T o %GOLD%m a %TAN%h a %GOLD%w k}%CONTINUE%
-ItemDisplay[(RW) 7ja]:%NAME%{%ORANGE%H y %GOLD%p e %TAN%r i %GOLD%o n %ORANGE%  J %GOLD%a v %TAN%e l %GOLD%i n}%CONTINUE%
-ItemDisplay[(RW) 7kr]:%NAME%{%ORANGE%F a %GOLD%n g %TAN%e d %GOLD%  K %ORANGE%n i %GOLD%f e}%CONTINUE%
-ItemDisplay[(RW) 7la]:%NAME%{%ORANGE%F e %GOLD%r a %TAN%l   %GOLD%A x %ORANGE%e}%CONTINUE%
-ItemDisplay[(RW) 7ls]:%NAME%{%ORANGE%C r %GOLD%y p %TAN%t i %GOLD%c   %ORANGE%S w %GOLD%o r %TAN%d}%CONTINUE%
-ItemDisplay[(RW) 7lw]:%NAME%{%ORANGE%F e %GOLD%r a %TAN%l   %GOLD%C l %ORANGE%a w %GOLD%s}%CONTINUE%
-ItemDisplay[(RW) 7m7]:%NAME%{%ORANGE%O g %GOLD%r e %TAN%  M %GOLD%a u %ORANGE%l}%CONTINUE%
-ItemDisplay[(RW) 7ma]:%NAME%{%ORANGE%R e %GOLD%i n %TAN%f o %GOLD%r c %ORANGE%e d %GOLD%  M %TAN%a c %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) 7mp]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%S p %GOLD%i k %ORANGE%e}%CONTINUE%
-ItemDisplay[(RW) 7mt]:%NAME%{%ORANGE%D e %GOLD%v i %TAN%l   %GOLD%S t %ORANGE%a r}%CONTINUE%
-ItemDisplay[(RW) 7o7]:%NAME%{%ORANGE%O g %GOLD%r e %TAN%  A %GOLD%x e}%CONTINUE%
-ItemDisplay[(RW) 7p7]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%P i %GOLD%k e}%CONTINUE%
-ItemDisplay[(RW) 7pa]:%NAME%{%ORANGE%C r %GOLD%y p %TAN%t i %GOLD%c   %ORANGE%A x %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) 7pi]:%NAME%{%ORANGE%S t %GOLD%y g %TAN%i a %GOLD%n   %ORANGE%P i %GOLD%l u %TAN%m}%CONTINUE%
-ItemDisplay[(RW) 7qr]:%NAME%{%ORANGE%S c %GOLD%i s %TAN%s o %GOLD%r s %ORANGE%  S %GOLD%u w %TAN%a y %GOLD%y a %GRAY%h}%CONTINUE%
-ItemDisplay[(RW) 7qs]:%NAME%{%ORANGE%S e %GOLD%r a %TAN%p h %GOLD%  R %ORANGE%o d}%CONTINUE%
-ItemDisplay[(RW) 7s7]:%NAME%{%ORANGE%B a %GOLD%l r %TAN%o g %GOLD%  S %ORANGE%p e %GOLD%a r}%CONTINUE%
-ItemDisplay[(RW) 7s8]:%NAME%{%ORANGE%T h %GOLD%r e %TAN%s h %GOLD%e r}%CONTINUE%
-ItemDisplay[(RW) 7sb]:%NAME%{%ORANGE%E l %GOLD%e g %TAN%a n %GOLD%t   %ORANGE%B l %GOLD%a d %TAN%e}%CONTINUE%
-ItemDisplay[(RW) 7sc]:%NAME%{%ORANGE%M i %GOLD%g h %TAN%t y %GOLD%  S %ORANGE%c e %GOLD%p t %TAN%e r}%CONTINUE%
-ItemDisplay[(RW) 7sm]:%NAME%{%ORANGE%A t %GOLD%a g %TAN%h a %GOLD%n}%CONTINUE%
-ItemDisplay[(RW) 7sp]:%NAME%{%ORANGE%T y %GOLD%r a %TAN%n t %GOLD%  C %ORANGE%l u %GOLD%b}%CONTINUE%
-ItemDisplay[(RW) 7sr]:%NAME%{%ORANGE%H y %GOLD%p e %TAN%r i %GOLD%on %ORANGE% S %GOLD%p e %TAN%a r}%CONTINUE%
-ItemDisplay[(RW) 7ss]:%NAME%{%ORANGE%F a %GOLD%l c %TAN%a t %GOLD%a}%CONTINUE%
-ItemDisplay[(RW) 7st]:%NAME%{%ORANGE%G h %GOLD%o s %TAN%t   %GOLD%S p %ORANGE%e a %GOLD%r}%CONTINUE%
-ItemDisplay[(RW) 7ta]:%NAME%{%ORANGE%F l %GOLD%y i %TAN%n g %GOLD%  A %ORANGE%x e}%CONTINUE%
-ItemDisplay[(RW) 7tk]:%NAME%{%ORANGE%F l %GOLD%y i %TAN%n g %GOLD%  K %ORANGE%n i %GOLD%f e}%CONTINUE%
-ItemDisplay[(RW) 7tr]:%NAME%{%ORANGE%S t %GOLD%y g %TAN%i a %GOLD%n   %ORANGE%P i %GOLD%k e}%CONTINUE%
-ItemDisplay[(RW) 7ts]:%NAME%{%ORANGE%W i %GOLD%n g %TAN%e d %GOLD%  H %ORANGE%ar %GOLD%p o %TAN%o n}%CONTINUE%
-ItemDisplay[(RW) 7tw]:%NAME%{%ORANGE%R u %GOLD%n i %TAN%c   %GOLD%T a %ORANGE%l o %GOLD%n s}%CONTINUE%
-ItemDisplay[(RW) 7vo]:%NAME%{%ORANGE%C o %GOLD%l o %TAN%s s %GOLD%u s %ORANGE%  V %GOLD%o u %TAN%l g %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) 7wa]:%NAME%{%ORANGE%B e %GOLD%r s %TAN%e r %GOLD%k e %ORANGE%r   %GOLD%A x %TAN%e}%CONTINUE%
-ItemDisplay[(RW) 7wb]:%NAME%{%ORANGE%W r %GOLD%i s %TAN%t   %GOLD%S w %ORANGE%o r %GOLD%d}%CONTINUE%
-ItemDisplay[(RW) 7wc]:%NAME%{%ORANGE%G i %GOLD%a n %TAN%t   %GOLD%T h %ORANGE%r e %GOLD%s h %TAN%e r}%CONTINUE%
-ItemDisplay[(RW) 7wd]:%NAME%{%ORANGE%M y %GOLD%t h %TAN%i c %GOLD%al %ORANGE% S %GOLD%w o %TAN%r d}%CONTINUE%
-ItemDisplay[(RW) 7wh]:%NAME%{%ORANGE%L e %GOLD%g e %TAN%n d %GOLD%a r %ORANGE%y   %GOLD%M a %TAN%l l %GOLD%e t}%CONTINUE%
-ItemDisplay[(RW) 7wn]:%NAME%{%ORANGE%P o %GOLD%l i %TAN%s h %GOLD%e d %ORANGE%  W %GOLD%a n %TAN%d}%CONTINUE%
-ItemDisplay[(RW) 7ws]:%NAME%{%ORANGE%C a %GOLD%d u %TAN%c e %GOLD%u s}%CONTINUE%
-ItemDisplay[(RW) 7xf]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%F i %GOLD%s t}%CONTINUE%
-ItemDisplay[(RW) 7yw]:%NAME%{%ORANGE%G h %GOLD%o s %TAN%t   %GOLD%W a %ORANGE%n d}%CONTINUE%
-ItemDisplay[(RW) 8bs]:%NAME%{%ORANGE%G o %GOLD%t h %TAN%ic %GOLD%  S %ORANGE%t a %GOLD%f f}%CONTINUE%
-ItemDisplay[(RW) 8cb]:%NAME%{%ORANGE%D o %GOLD%u b %TAN%l e %GOLD%  B %ORANGE%o w}%CONTINUE%
-ItemDisplay[(RW) 8cs]:%NAME%{%ORANGE%C e %GOLD%d a %TAN%r   %GOLD%S t %ORANGE%a f %GOLD%f}%CONTINUE%
-ItemDisplay[(RW) 8hb]:%NAME%{%ORANGE%R a %GOLD%z o %TAN%r  %GOLD%Bo %ORANGE%w}%CONTINUE%
-ItemDisplay[(RW) 8hx]:%NAME%{%ORANGE%B a %GOLD%l l %TAN%i s %GOLD%t a}%CONTINUE%
-ItemDisplay[(RW) 8l8]:%NAME%{%ORANGE%L a %GOLD%r g %TAN%e   %GOLD%S i %ORANGE%e g %GOLD%e   %TAN%B o %GOLD%w}%CONTINUE%
-ItemDisplay[(RW) 8lb]:%NAME%{%ORANGE%C e %GOLD%d a %TAN%r   %GOLD%B o %ORANGE%w}%CONTINUE%
-ItemDisplay[(RW) 8ls]:%NAME%{%ORANGE%Q u %GOLD%a r %TAN%t e %GOLD%r s %ORANGE%t a %GOLD%f f}%CONTINUE%
-ItemDisplay[(RW) 8lw]:%NAME%{%ORANGE%G o %GOLD%t h %TAN%i c %GOLD%  B %ORANGE%o w}%CONTINUE%
-ItemDisplay[(RW) 8lx]:%NAME%{%ORANGE%A r %GOLD%b a %TAN%l e %GOLD%s t}%CONTINUE%
-ItemDisplay[(RW) 8mx]:%NAME%{%ORANGE%S i %GOLD%e g %TAN%e   %GOLD%C r %ORANGE%o s %GOLD%s b %TAN%o w}%CONTINUE%
-ItemDisplay[(RW) 8rx]:%NAME%{%ORANGE%C h %GOLD%u - %TAN%K o %GOLD%- N %ORANGE%u}%CONTINUE%
-ItemDisplay[(RW) 8s8]:%NAME%{%ORANGE%S h %GOLD%o r %TAN%t   %GOLD%S i %ORANGE%e g %GOLD%e   %TAN%B o %GOLD%w}%CONTINUE%
-ItemDisplay[(RW) 8sb]:%NAME%{%ORANGE%E d %GOLD%g e %TAN%  B %GOLD%o w}%CONTINUE%
-ItemDisplay[(RW) 8ss]:%NAME%{%ORANGE%J o %GOLD%  S %TAN%t a %GOLD%f f}%CONTINUE%
-ItemDisplay[(RW) 8sw]:%NAME%{%ORANGE%R u %GOLD%n e %TAN%  B %GOLD%o w}%CONTINUE%
-ItemDisplay[(RW) 8ws]:%NAME%{%ORANGE%R u %GOLD%n e %TAN%  S %GOLD%t a %ORANGE%f f}%CONTINUE%
-ItemDisplay[(RW) 92a]:%NAME%{%ORANGE%T w %GOLD%i n %TAN%  A %GOLD%x e}%CONTINUE%
-ItemDisplay[(RW) 92h]:%NAME%{%ORANGE%E s %GOLD%p a %TAN%n d %GOLD%o n}%CONTINUE%
-ItemDisplay[(RW) 9ar]:%NAME%{%ORANGE%Q u %GOLD%h a %TAN%b}%CONTINUE%
-ItemDisplay[(RW) 9ax]:%NAME%{%ORANGE%C l %GOLD%e a %TAN%v e %GOLD%r}%CONTINUE%
-ItemDisplay[(RW) 9b7]:%NAME%{%ORANGE%L o %GOLD%c h %TAN%a b %GOLD%e r %ORANGE%  A %GOLD%x e}%CONTINUE%
-ItemDisplay[(RW) 9b8]:%NAME%{%ORANGE%H u %GOLD%r l %TAN%b a %GOLD%t}%CONTINUE%
-ItemDisplay[(RW) 9b9]:%NAME%{%ORANGE%G o %GOLD%t h %TAN%i c %GOLD%  S %ORANGE%w o %GOLD%r d}%CONTINUE%
-ItemDisplay[(RW) 9ba]:%NAME%{%ORANGE%B e %GOLD%a r %TAN%d e %GOLD%d   %ORANGE%A x %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) 9bk]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%D a %GOLD%r t}%CONTINUE%
-ItemDisplay[(RW) 9bl]:%NAME%{%ORANGE%S t %GOLD%i l %TAN%e t %GOLD%t o}%CONTINUE%
-ItemDisplay[(RW) 9br]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%F o %GOLD%r k}%CONTINUE%
-ItemDisplay[(RW) 9bs]:%NAME%{%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  S %ORANGE%w o %GOLD%r d}%CONTINUE%
-ItemDisplay[(RW) 9bt]:%NAME%{%ORANGE%T a %GOLD%b a %TAN%r}%CONTINUE%
-ItemDisplay[(RW) 9bw]:%NAME%{%ORANGE%T o %GOLD%m b %TAN%  W %GOLD%a n %ORANGE%d}%CONTINUE%
-ItemDisplay[(RW) 9cl]:%NAME%{%ORANGE%C u %GOLD%d g %TAN%e l}%CONTINUE%
-ItemDisplay[(RW) 9cm]:%NAME%{%ORANGE%D a %GOLD%c i %TAN%a n %GOLD%  F %ORANGE%a l %GOLD%x}%CONTINUE%
-ItemDisplay[(RW) 9cr]:%NAME%{%ORANGE%D i %GOLD%m e %TAN%n s %GOLD%i o %ORANGE%n a %GOLD%l   %TAN%B l %GOLD%a d %GRAY%e}%CONTINUE%
-ItemDisplay[(RW) 9cs]:%NAME%{%ORANGE%H a %GOLD%n d %TAN% S %GOLD%c y %ORANGE%t h %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) 9dg]:%NAME%{%ORANGE%P o %GOLD%i g %TAN%n a %GOLD%r d}%CONTINUE%
-ItemDisplay[(RW) 9di]:%NAME%{%ORANGE%R o %GOLD%n d %TAN%e l}%CONTINUE%
-ItemDisplay[(RW) 9fb]:%NAME%{%ORANGE%Z w %GOLD%e i %TAN%h a %GOLD%n d %ORANGE%e r}%CONTINUE%
-ItemDisplay[(RW) 9fc]:%NAME%{%ORANGE%T u %GOLD%l w %TAN%a r}%CONTINUE%
-ItemDisplay[(RW) 9fl]:%NAME%{%ORANGE%K n %GOLD%o u %TAN%t}%CONTINUE%
-ItemDisplay[(RW) 9ga]:%NAME%{%ORANGE%G o %GOLD%t h %TAN%i c %GOLD%  A %ORANGE%x e}%CONTINUE%
-ItemDisplay[(RW) 9gd]:%NAME%{%ORANGE%E x %GOLD%e c %TAN%u t %GOLD%i o %ORANGE%n e %GOLD%r   %TAN%S w %GOLD%o r %GRAY%d}%CONTINUE%
-ItemDisplay[(RW) 9gi]:%NAME%{%ORANGE%A n %GOLD%c i %TAN%e n %GOLD%t   %ORANGE%A x %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) 9gl]:%NAME%{%ORANGE%S p %GOLD%i c %TAN%u l %GOLD%u m}%CONTINUE%
-ItemDisplay[(RW) 9gm]:%NAME%{%ORANGE%M a %GOLD%r t %TAN%e l %GOLD%  d %ORANGE%e   %GOLD%F e %TAN%r}%CONTINUE%
-ItemDisplay[(RW) 9gs]:%NAME%{%ORANGE%T u %GOLD%s k %TAN%  S %GOLD%w o %ORANGE%r d}%CONTINUE%
-ItemDisplay[(RW) 9gw]:%NAME%{%ORANGE%G r %GOLD%a v %TAN%e   %GOLD%W a %ORANGE%n d}%CONTINUE%
-ItemDisplay[(RW) 9h9]:%NAME%{%ORANGE%B e %GOLD%c - %TAN%d e %GOLD%- C %ORANGE%o r %GOLD%b i %TAN%n}%CONTINUE%
-ItemDisplay[(RW) 9ha]:%NAME%{%ORANGE%H a %GOLD%t c %TAN%h e %GOLD%t}%CONTINUE%
-ItemDisplay[(RW) 9ja]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%J a %GOLD%v e %ORANGE%l i %GOLD%n}%CONTINUE%
-ItemDisplay[(RW) 9kr]:%NAME%{%ORANGE%C i %GOLD%n q %TAN%u e %GOLD%d e %ORANGE%a s}%CONTINUE%
-ItemDisplay[(RW) 9la]:%NAME%{%ORANGE%M i %GOLD%l i %TAN%ta %GOLD%r y %ORANGE%  A %GOLD%x e}%CONTINUE%
-ItemDisplay[(RW) 9ls]:%NAME%{%ORANGE%R u %GOLD%n e %TAN%  S %GOLD%w o %ORANGE%r d}%CONTINUE%
-ItemDisplay[(RW) 9lw]:%NAME%{%ORANGE%G r %GOLD%e a %TAN%t e %GOLD%r  %ORANGE%C l %GOLD%a w %TAN%s}%CONTINUE%
-ItemDisplay[(RW) 9m9]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%C l %GOLD%ub}%CONTINUE%
-ItemDisplay[(RW) 9ma]:%NAME%{%ORANGE%F l %GOLD%a n %TAN%g e %GOLD%d   %ORANGE%M a %GOLD%c e}%CONTINUE%
-ItemDisplay[(RW) 9mp]:%NAME%{%ORANGE%C r %GOLD%o w %TAN%b i %GOLD%l l}%CONTINUE%
-ItemDisplay[(RW) 9mt]:%NAME%{%ORANGE%J a %GOLD%g g %TAN%e d %GOLD%  S %ORANGE%t a %GOLD%r}%CONTINUE%
-ItemDisplay[(RW) 9p9]:%NAME%{%ORANGE%L a %GOLD%n c %TAN%e}%CONTINUE%
-ItemDisplay[(RW) 9pa]:%NAME%{%ORANGE%P a %GOLD%r t %TAN%i z %GOLD%a n}%CONTINUE%
-ItemDisplay[(RW) 9pi]:%NAME%{%ORANGE%G r %GOLD%e a %TAN%t   %GOLD%P i %ORANGE%l u %GOLD%m}%CONTINUE%
-ItemDisplay[(RW) 9qr]:%NAME%{%ORANGE%S c %GOLD%i s %TAN%s o %GOLD%rs %ORANGE% Q %GOLD%u h %TAN%a b}%CONTINUE%
-ItemDisplay[(RW) 9qs]:%NAME%{%ORANGE%H o %GOLD%l y %TAN%  W %GOLD%a t %ORANGE%e r %GOLD%  S %TAN%p r %GOLD%i n %GRAY%k l %ORANGE%e r}%CONTINUE%
-ItemDisplay[(RW) 9s8]:%NAME%{%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  S %ORANGE%c y %GOLD%t h %TAN%e}%CONTINUE%
-ItemDisplay[(RW) 9s9]:%NAME%{%ORANGE%S i %GOLD%m b %TAN%i l %GOLD%a n}%CONTINUE%
-ItemDisplay[(RW) 9sb]:%NAME%{%ORANGE%S h %GOLD%a m %TAN%s h %GOLD%i r}%CONTINUE%
-ItemDisplay[(RW) 9sc]:%NAME%{%ORANGE%R u %GOLD%n e %TAN%  S %GOLD%c e %ORANGE%p t %GOLD%e r}%CONTINUE%
-ItemDisplay[(RW) 9sm]:%NAME%{%ORANGE%C u %GOLD%t l %TAN%a s %GOLD%s}%CONTINUE%
-ItemDisplay[(RW) 9sp]:%NAME%{%ORANGE%B a %GOLD%r b %TAN%e d %GOLD%  C %ORANGE%l u %GOLD%b}%CONTINUE%
-ItemDisplay[(RW) 9sr]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%S p %GOLD%e a %ORANGE%r}%CONTINUE%
-ItemDisplay[(RW) 9ss]:%NAME%{%ORANGE%G l %GOLD%a d %TAN%i u %GOLD%s}%CONTINUE%
-ItemDisplay[(RW) 9st]:%NAME%{%ORANGE%Y a %GOLD%r i}%CONTINUE%
-ItemDisplay[(RW) 9ta]:%NAME%{%ORANGE%F r %GOLD%a n %TAN%c i %GOLD%s c %ORANGE%a}%CONTINUE%
-ItemDisplay[(RW) 9tk]:%NAME%{%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  D %ORANGE%a r %GOLD%t}%CONTINUE%
-ItemDisplay[(RW) 9tr]:%NAME%{%ORANGE%F u %GOLD%s c %TAN%i n %GOLD%a}%CONTINUE%
-ItemDisplay[(RW) 9ts]:%NAME%{%ORANGE%H a %GOLD%r p %TAN%o o %GOLD%n}%CONTINUE%
-ItemDisplay[(RW) 9tw]:%NAME%{%ORANGE%G r %GOLD%e a %TAN%t e %GOLD%r   %ORANGE%T a %GOLD%l o %TAN%n s}%CONTINUE%
-ItemDisplay[(RW) 9vo]:%NAME%{%ORANGE%B i %GOLD%l l}%CONTINUE%
-ItemDisplay[(RW) 9wa]:%NAME%{%ORANGE%N a %GOLD%g a}%CONTINUE%
-ItemDisplay[(RW) 9wb]:%NAME%{%ORANGE%W r %GOLD%i s %TAN%t   %GOLD%S p %ORANGE%i k %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) 9wc]:%NAME%{%ORANGE%G r %GOLD%i m %TAN%  S %GOLD%c y %ORANGE%t h %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) 9wd]:%NAME%{%ORANGE%A n %GOLD%c i %TAN%e n %GOLD%t   %ORANGE%S w %GOLD%o r %TAN%d}%CONTINUE%
-ItemDisplay[(RW) 9wh]:%NAME%{%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  H %ORANGE%a m %GOLD%m e %TAN%r}%CONTINUE%
-ItemDisplay[(RW) 9wn]:%NAME%{%ORANGE%B u %GOLD%r n %TAN%t   %GOLD%W a %ORANGE%n d}%CONTINUE%
-ItemDisplay[(RW) 9ws]:%NAME%{%ORANGE%D i %GOLD%v i %TAN%n e %GOLD%  S %ORANGE%c e %GOLD%p t %TAN%e r}%CONTINUE%
-ItemDisplay[(RW) 9xf]:%NAME%{%ORANGE%F a %GOLD%s c %TAN%ia}%CONTINUE%
-ItemDisplay[(RW) 9yw]:%NAME%{%ORANGE%P e %GOLD%t r %TAN%i f %GOLD%i e %ORANGE%d   %GOLD%W a %TAN%n d}%CONTINUE%
-ItemDisplay[(RW) aar]:%NAME%{%ORANGE%A n %GOLD%c i %TAN%e n %GOLD%t   %ORANGE%A r %GOLD%m o %TAN%r}%CONTINUE%
-ItemDisplay[(RW) am1]:%NAME%{%ORANGE%S t %GOLD%a g %TAN%  B %GOLD%o w}%CONTINUE%
-ItemDisplay[(RW) am2]:%NAME%{%ORANGE%R e %GOLD%f l %TAN%e x %GOLD%  B %ORANGE%o w}%CONTINUE%
-ItemDisplay[(RW) am3]:%NAME%{%ORANGE%M a %GOLD%i d %TAN%e n %GOLD%  S %ORANGE%p e %GOLD%a r}%CONTINUE%
-ItemDisplay[(RW) am4]:%NAME%{%ORANGE%M a %GOLD%i d %TAN%e n %GOLD%  P %ORANGE%i k %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) am5]:%NAME%{%ORANGE%M a %GOLD%i d %TAN%e n %GOLD%  J %ORANGE%a v %GOLD%e l %TAN%i n}%CONTINUE%
-ItemDisplay[(RW) am6]:%NAME%{%ORANGE%A s %GOLD%h w %TAN%o o %GOLD%d   %ORANGE%B o %GOLD%w}%CONTINUE%
-ItemDisplay[(RW) am7]:%NAME%{%ORANGE%C e %GOLD%r e %TAN%m o %GOLD%n i %ORANGE%a l %GOLD%  B %TAN%o w}%CONTINUE%
-ItemDisplay[(RW) am8]:%NAME%{%ORANGE%C e %GOLD%r e %TAN%m o %GOLD%n i %ORANGE%a l %GOLD%  S %TAN%p e %GOLD%a r}%CONTINUE%
-ItemDisplay[(RW) am9]:%NAME%{%ORANGE%C e %GOLD%r e %TAN%m o %GOLD%n i %ORANGE%a l %GOLD%  P %TAN%i k %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) ama]:%NAME%{%ORANGE%C e %GOLD%r e %TAN%m o %GOLD%n i %ORANGE%a l %GOLD%  J %TAN%a v %GOLD%e l %GRAY%i n}%CONTINUE%
-ItemDisplay[(RW) amb]:%NAME%{%ORANGE%M a %GOLD%t r %TAN%i a %GOLD%r c %ORANGE%h a %GOLD%l   %TAN%B o %GOLD%w}%CONTINUE%
-ItemDisplay[(RW) amc]:%NAME%{%ORANGE%G r %GOLD%a n %TAN%d   %GOLD%M a %ORANGE%t r %GOLD%o n %TAN%  B %GOLD%o w}%CONTINUE%
-ItemDisplay[(RW) amd]:%NAME%{%ORANGE%M a %GOLD%t r %TAN%i a %GOLD%r c %ORANGE%h a %GOLD%l   %TAN%S p %GOLD%e a %GRAY%r}%CONTINUE%
-ItemDisplay[(RW) ame]:%NAME%{%ORANGE%M a %GOLD%t r %TAN%i a %GOLD%r c %ORANGE%h a %GOLD%l   %TAN%P i %GOLD%k e}%CONTINUE%
-ItemDisplay[(RW) amf]:%NAME%{%ORANGE%M a %GOLD%t r %TAN%i a %GOLD%r c %ORANGE%h a %GOLD%l   %TAN%J a %GOLD%v e %GRAY%l i n}%CONTINUE%
-ItemDisplay[(RW) axe]:%NAME%{%ORANGE%A x %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) axf]:%NAME%{%ORANGE%H a %GOLD%t c %TAN%h e %GOLD%t   %ORANGE%H a %GOLD%n d %TAN%s}%CONTINUE%
-ItemDisplay[(RW) ba1]:%NAME%{%ORANGE%J a %GOLD%w b %TAN%o n %GOLD%e   %ORANGE%C a %GOLD%p}%CONTINUE%
-ItemDisplay[(RW) ba2]:%NAME%{%ORANGE%F a %GOLD%n g %TAN%e d %GOLD%  H %ORANGE%e l %GOLD%m}%CONTINUE%
-ItemDisplay[(RW) ba3]:%NAME%{%ORANGE%H o %GOLD%r n %TAN%e d %GOLD%  H %ORANGE%e l %GOLD%m}%CONTINUE%
-ItemDisplay[(RW) ba4]:%NAME%{%ORANGE%A s %GOLD%s a %TAN%u l %GOLD%t   %ORANGE%H e %GOLD%l m %TAN%e t}%CONTINUE%
-ItemDisplay[(RW) ba5]:%NAME%{%ORANGE%A v %GOLD%e n %TAN%g e %GOLD%r   %ORANGE%G u %GOLD%a r %TAN%d}%CONTINUE%
-ItemDisplay[(RW) ba6]:%NAME%{%ORANGE%J a %GOLD%w b %TAN%o n %GOLD%e   %ORANGE%V i %GOLD%s o %TAN%r}%CONTINUE%
-ItemDisplay[(RW) ba7]:%NAME%{%ORANGE%L i %GOLD%o n %TAN%  H %GOLD%e l %ORANGE%m}%CONTINUE%
-ItemDisplay[(RW) ba8]:%NAME%{%ORANGE%R a %GOLD%g e %TAN%  M %GOLD%a s %ORANGE%k}%CONTINUE%
-ItemDisplay[(RW) ba9]:%NAME%{%ORANGE%S a %GOLD%v a %TAN%g e %GOLD%  H %ORANGE%e l %GOLD%m e %TAN%t}%CONTINUE%
-ItemDisplay[(RW) baa]:%NAME%{%ORANGE%S l %GOLD%a y %TAN%e r %GOLD%  G %ORANGE%u a %GOLD%r d}%CONTINUE%
-ItemDisplay[(RW) bab]:%NAME%{%ORANGE%C a %GOLD%r n %TAN%a g %GOLD%e   %ORANGE%H e %GOLD%l m}%CONTINUE%
-ItemDisplay[(RW) bac]:%NAME%{%ORANGE%F u %GOLD%r y %TAN%  V %GOLD%i s %ORANGE%o r}%CONTINUE%
-ItemDisplay[(RW) bad]:%NAME%{%ORANGE%D e %GOLD%s t %TAN%r o %GOLD%y e %ORANGE%r  %GOLD%H e %TAN%l m}%CONTINUE%
-ItemDisplay[(RW) bae]:%NAME%{%ORANGE%C o %GOLD%n %TAN%u e %GOLD%r o %ORANGE%r   %GOLD%C r %TAN%o w %GOLD%n}%CONTINUE%
-ItemDisplay[(RW) baf]:%NAME%{%ORANGE%G u %GOLD%a r %TAN%d i %GOLD%an %ORANGE% C %GOLD%r o %TAN%w n}%CONTINUE%
-ItemDisplay[(RW) bal]:%NAME%{%ORANGE%B a %GOLD%l a %TAN%n c %GOLD%e d %ORANGE%  A %GOLD%x e}%CONTINUE%
-ItemDisplay[(RW) bar]:%NAME%{%ORANGE%B a %GOLD%r d %TAN%i c %GOLD%h e}%CONTINUE%
-ItemDisplay[(RW) bax]:%NAME%{%ORANGE%B r %GOLD%o a %TAN%d   %GOLD%A x %ORANGE%e}%CONTINUE%
-ItemDisplay[(RW) bhm]:%NAME%{%ORANGE%B o %GOLD%n e %TAN%  H %GOLD%e l %ORANGE%m}%CONTINUE%
-ItemDisplay[(RW) bkf]:%NAME%{%ORANGE%B a %GOLD%l a %TAN%n c %GOLD%e d %ORANGE%  K %GOLD%n i %TAN%f e}%CONTINUE%
-ItemDisplay[(RW) bld]:%NAME%{%ORANGE%B l %GOLD%a d %TAN%e}%CONTINUE%
-ItemDisplay[(RW) brn]:%NAME%{%ORANGE%B r %GOLD%a n %TAN%d i %GOLD%s t %ORANGE%o c %GOLD%k}%CONTINUE%
-ItemDisplay[(RW) brs]:%NAME%{%ORANGE%B r %GOLD%e a %TAN%s t %GOLD%  P %ORANGE%l a %GOLD%t e}%CONTINUE%
-ItemDisplay[(RW) bsd]:%NAME%{%ORANGE%B r %GOLD%o a %TAN%d  %GOLD%S w %ORANGE%o r %GOLD%d}%CONTINUE%
-ItemDisplay[(RW) bsh]:%NAME%{%ORANGE%B o %GOLD%n e %TAN%  S %GOLD%h i %ORANGE%e l %GOLD%d}%CONTINUE%
-ItemDisplay[(RW) bst]:%NAME%{%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  S %ORANGE%t a %GOLD%f f}%CONTINUE%
-ItemDisplay[(RW) bsw]:%NAME%{%ORANGE%B a %GOLD%s t %TAN%a r %GOLD%d   %ORANGE%S w %GOLD%o r %TAN%d}%CONTINUE%
-ItemDisplay[(RW) btl]:%NAME%{%ORANGE%B l %GOLD%a d %TAN%e   %GOLD%T a %ORANGE%l o %GOLD%n s}%CONTINUE%
-ItemDisplay[(RW) btx]:%NAME%{%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  A %ORANGE%x e}%CONTINUE%
-ItemDisplay[(RW) buc]:%NAME%{%ORANGE%B u %GOLD%c k %TAN%l e %GOLD%r}%CONTINUE%
-ItemDisplay[(RW) bwn]:%NAME%{%ORANGE%B o %GOLD%n e %TAN%  W %GOLD%a n %ORANGE%d}%CONTINUE%
-ItemDisplay[(RW) cap]:%NAME%{%ORANGE%C a %GOLD%p}%CONTINUE%
-ItemDisplay[(RW) cbw]:%NAME%{%ORANGE%C o %GOLD%m p %TAN%os %GOLD%it %ORANGE%e   %GOLD%B o %TAN%w}%CONTINUE%
-ItemDisplay[(RW) ces]:%NAME%{%ORANGE%C e %GOLD%s t %TAN%u s}%CONTINUE%
-ItemDisplay[(RW) chn]:%NAME%{%ORANGE%C h %GOLD%a i %TAN%n   %GOLD%M a %ORANGE%i l}%CONTINUE%
-ItemDisplay[(RW) ci0]:%NAME%{%ORANGE%C i %GOLD%r c %TAN%l e %GOLD%t}%CONTINUE%
-ItemDisplay[(RW) ci1]:%NAME%{%ORANGE%C o %GOLD%r o %TAN%n e %GOLD%t}%CONTINUE%
-ItemDisplay[(RW) ci2]:%NAME%{%ORANGE%T i %GOLD%a r %TAN%a}%CONTINUE%
-ItemDisplay[(RW) ci3]:%NAME%{%ORANGE%D i %GOLD%a d %TAN%e m}%CONTINUE%
-ItemDisplay[(RW) clb]:%NAME%{%ORANGE%C l %GOLD%u b}%CONTINUE%
-ItemDisplay[(RW) clm]:%NAME%{%ORANGE%C l %GOLD%a y %TAN%mo %GOLD%re}%CONTINUE%
-ItemDisplay[(RW) clw]:%NAME%{%ORANGE%C l %GOLD%a w %TAN%s}%CONTINUE%
-ItemDisplay[(RW) crn]:%NAME%{%ORANGE%C r %GOLD%o w %TAN%n}%CONTINUE%
-ItemDisplay[(RW) crs]:%NAME%{%ORANGE%C r %GOLD%y s %TAN%t a %GOLD%l   %ORANGE%S w %GOLD%o r %TAN%d}%CONTINUE%
-ItemDisplay[(RW) cst]:%NAME%{%ORANGE%G n %GOLD%a r %TAN%l e %GOLD%d   %ORANGE%S t %GOLD%a f %TAN%f}%CONTINUE%
-ItemDisplay[(RW) dgr]:%NAME%{%ORANGE%D a %GOLD%g g %TAN%e r}%CONTINUE%
-ItemDisplay[(RW) dir]:%NAME%{%ORANGE%D i %GOLD%r k}%CONTINUE%
-ItemDisplay[(RW) dr1]:%NAME%{%ORANGE%W o %GOLD%l f %TAN%  H %GOLD%e a %ORANGE%d}%CONTINUE%
-ItemDisplay[(RW) dr2]:%NAME%{%ORANGE%H a %GOLD%w k %TAN%  H %GOLD%e l %ORANGE%m}%CONTINUE%
-ItemDisplay[(RW) dr3]:%NAME%{%ORANGE%A n %GOLD%t l %TAN%e r %GOLD%s}%CONTINUE%
-ItemDisplay[(RW) dr4]:%NAME%{%ORANGE%F a %GOLD%l c %TAN%o n %GOLD%  M %ORANGE%a s %GOLD%k}%CONTINUE%
-ItemDisplay[(RW) dr5]:%NAME%{%ORANGE%S p %GOLD%i r %TAN%i t %GOLD%  M %ORANGE%a s %GOLD%k}%CONTINUE%
-ItemDisplay[(RW) dr6]:%NAME%{%ORANGE%A l %GOLD%p h %TAN%a   %GOLD%H e %ORANGE%l m}%CONTINUE%
-ItemDisplay[(RW) dr7]:%NAME%{%ORANGE%G r %GOLD%i f %TAN%fo %GOLD%n   %ORANGE%H e %GOLD%a d %TAN%r e %GOLD%s s}%CONTINUE%
-ItemDisplay[(RW) dr8]:%NAME%{%ORANGE%H u %GOLD%n t %TAN%e r %GOLD%'s %ORANGE% G %GOLD%u i %TAN%s e}%CONTINUE%
-ItemDisplay[(RW) dr9]:%NAME%{%ORANGE%S a %GOLD%c r %TAN%e d %GOLD%  F %ORANGE%e a %GOLD%t h %TAN%e r %GOLD%s}%CONTINUE%
-ItemDisplay[(RW) dra]:%NAME%{%ORANGE%T o %GOLD%t e %TAN%m i %GOLD%c   %ORANGE%M a %GOLD%s k}%CONTINUE%
-ItemDisplay[(RW) drb]:%NAME%{%ORANGE%B l %GOLD%o o %TAN%d   %GOLD%S p %ORANGE%i r %GOLD%i t}%CONTINUE%
-ItemDisplay[(RW) drc]:%NAME%{%ORANGE%S u %GOLD%n   %TAN%S p %GOLD%i r %ORANGE%i t}%CONTINUE%
-ItemDisplay[(RW) drd]:%NAME%{%ORANGE%E a %GOLD%r t %TAN%h   %GOLD%S p %ORANGE%i r %GOLD%i t}%CONTINUE%
-ItemDisplay[(RW) dre]:%NAME%{%ORANGE%S k %GOLD%y   %TAN%S p %GOLD%i r %ORANGE%i t}%CONTINUE%
-ItemDisplay[(RW) drf]:%NAME%{%ORANGE%D r %GOLD%e a %TAN%m   %GOLD%S p %ORANGE%i r %GOLD%i t}%CONTINUE%
-ItemDisplay[(RW) fhl]:%NAME%{%ORANGE%F u %GOLD%l l %TAN%  H %GOLD%e l %ORANGE%m}%CONTINUE%
-ItemDisplay[(RW) fla]:%NAME%{%ORANGE%F l %GOLD%a i %TAN%l}%CONTINUE%
-ItemDisplay[(RW) flb]:%NAME%{%ORANGE%F l %GOLD%a m %TAN%b e %GOLD%r g %ORANGE%e}%CONTINUE%
-ItemDisplay[(RW) flc]:%NAME%{%ORANGE%F a %GOLD%l c %TAN%h i %GOLD%on}%CONTINUE%
-ItemDisplay[(RW) fld]:%NAME%{%ORANGE%F i %GOLD%e l %TAN%d   %GOLD%P l %ORANGE%a t %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) ful]:%NAME%{%ORANGE%F u %GOLD%l l %TAN%  P %GOLD%l a %ORANGE%t e %GOLD%  M %TAN%a i %GOLD%l}%CONTINUE%
-ItemDisplay[(RW) gax]:%NAME%{%ORANGE%G r %GOLD%e a %TAN%t   %GOLD%Ax %ORANGE%e}%CONTINUE%
-ItemDisplay[(RW) ghm]:%NAME%{%ORANGE%G r %GOLD%e a %TAN%t   %GOLD%H e %ORANGE%l m}%CONTINUE%
-ItemDisplay[(RW) gis]:%NAME%{%ORANGE%G i %GOLD%a n %TAN%t  %GOLD%S w %ORANGE%o r %GOLD%d}%CONTINUE%
-ItemDisplay[(RW) gix]:%NAME%{%ORANGE%G i %GOLD%a n %TAN%t   %GOLD%A x %ORANGE%e}%CONTINUE%
-ItemDisplay[(RW) glv]:%NAME%{%ORANGE%G l %GOLD%a i %TAN%v e}%CONTINUE%
-ItemDisplay[(RW) gma]:%NAME%{%ORANGE%G r %GOLD%e a %TAN%t   %GOLD%M a %ORANGE%u l}%CONTINUE%
-ItemDisplay[(RW) gsc]:%NAME%{%ORANGE%G r %GOLD%a n %TAN%d   %GOLD%Sc %ORANGE%e p %GOLD%t e %TAN%r}%CONTINUE%
-ItemDisplay[(RW) gsd]:%NAME%{%ORANGE%G r %GOLD%e a %TAN%t   %GOLD%S w %ORANGE%o r %GOLD%d}%CONTINUE%
-ItemDisplay[(RW) gth]:%NAME%{%ORANGE%G o %GOLD%t h %TAN%i c %GOLD%  P %ORANGE%l a %GOLD%t e}%CONTINUE%
-ItemDisplay[(RW) gts]:%NAME%{%ORANGE%G o %GOLD%t h %TAN%i c %GOLD%  S %ORANGE%h i %GOLD%e l %TAN%d}%CONTINUE%
-ItemDisplay[(RW) gwn]:%NAME%{%ORANGE%G r %GOLD%i m %TAN%  W %GOLD%a n %ORANGE%d}%CONTINUE%
-ItemDisplay[(RW) hal]:%NAME%{%ORANGE%H a %GOLD%l b %TAN%e r %GOLD%d}%CONTINUE%
-ItemDisplay[(RW) hax]:%NAME%{%ORANGE%H a %GOLD%n d %TAN%  A %GOLD%x e}%CONTINUE%
-ItemDisplay[(RW) hbl]:%NAME%{%ORANGE%P l %GOLD%a t %TAN%e d %GOLD%  B %ORANGE%e l %GOLD%t}%CONTINUE%
-ItemDisplay[(RW) hbt]:%NAME%{%ORANGE%G r %GOLD%e a %TAN%v e %GOLD%s}%CONTINUE%
-ItemDisplay[(RW) hbw]:%NAME%{%ORANGE%H u %GOLD%n t %TAN%e r %GOLD%' s %ORANGE%  B %GOLD%o w}%CONTINUE%
-ItemDisplay[(RW) hgl]:%NAME%{%ORANGE%G a %GOLD%u n %TAN%t l %GOLD%e t %ORANGE%s}%CONTINUE%
-ItemDisplay[(RW) hla]:%NAME%{%ORANGE%H a %GOLD%r d %TAN%  L %GOLD%e a %ORANGE%t h %GOLD%e r %TAN%  A %GOLD%r m %GRAY%o r}%CONTINUE%
-ItemDisplay[(RW) hlm]:%NAME%{%ORANGE%H e %GOLD%l m}%CONTINUE%
-ItemDisplay[(RW) hxb]:%NAME%{%ORANGE%H e %GOLD%a v %TAN%y   %GOLD%C r %ORANGE%o s %GOLD%s b %TAN%o w}%CONTINUE%
-ItemDisplay[(RW) jav]:%NAME%{%ORANGE%J a %GOLD%v e %TAN%l i %GOLD%n}%CONTINUE%
-ItemDisplay[(RW) kit]:%NAME%{%ORANGE%K i %GOLD%t e %TAN%  S %GOLD%h i %ORANGE%e l %GOLD%d}%CONTINUE%
-ItemDisplay[(RW) kri]:%NAME%{%ORANGE%K r %GOLD%i s}%CONTINUE%
-ItemDisplay[(RW) ktr]:%NAME%{%ORANGE%K a %GOLD%t a %TAN%r}%CONTINUE%
-ItemDisplay[(RW) lax]:%NAME%{%ORANGE%L a %GOLD%r g %TAN%e   %GOLD%A x %ORANGE%e}%CONTINUE%
-ItemDisplay[(RW) lbb]:%NAME%{%ORANGE%L o %GOLD%n g %TAN%  B %GOLD%a t %ORANGE%t l %GOLD%e   %TAN%B o %GOLD%w}%CONTINUE%
-ItemDisplay[(RW) lbl]:%NAME%{%ORANGE%S a %GOLD%s h}%CONTINUE%
-ItemDisplay[(RW) lbt]:%NAME%{%ORANGE%B o %GOLD%o t %TAN%s}%CONTINUE%
-ItemDisplay[(RW) lbw]:%NAME%{%ORANGE%L o %GOLD%n g %TAN%  B %GOLD%o w}%CONTINUE%
-ItemDisplay[(RW) lea]:%NAME%{%ORANGE%L e %GOLD%a t %TAN%h e %GOLD%r   %ORANGE%A r %GOLD%m o %TAN%r}%CONTINUE%
-ItemDisplay[(RW) lgl]:%NAME%{%ORANGE%L e %GOLD%a t %TAN%h e %GOLD%r   %ORANGE%G l %GOLD%o v %TAN%e s}%CONTINUE%
-ItemDisplay[(RW) lrg]:%NAME%{%ORANGE%L a %GOLD%r g %TAN%e   %GOLD%S h %ORANGE%i e %GOLD%l d}%CONTINUE%
-ItemDisplay[(RW) lsd]:%NAME%{%ORANGE%L o %GOLD%n g %TAN%  S %GOLD%w o %ORANGE%r d}%CONTINUE%
-ItemDisplay[(RW) lst]:%NAME%{%ORANGE%L o %GOLD%n g %TAN%  S %GOLD%t a %ORANGE%f f}%CONTINUE%
-ItemDisplay[(RW) ltp]:%NAME%{%ORANGE%L i %GOLD%g h %TAN%t   %GOLD%P l %ORANGE%a t %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) lwb]:%NAME%{%ORANGE%L o %GOLD%n g %TAN%  W %GOLD%a r %ORANGE%  B %GOLD%o w}%CONTINUE%
-ItemDisplay[(RW) lxb]:%NAME%{%ORANGE%L i %GOLD%g h %TAN%t   %GOLD%C r %ORANGE%o s %GOLD%s b %TAN%o w}%CONTINUE%
-ItemDisplay[(RW) mac]:%NAME%{%ORANGE%M a %GOLD%c e}%CONTINUE%
-ItemDisplay[(RW) mau]:%NAME%{%ORANGE%M a %GOLD%u l}%CONTINUE%
-ItemDisplay[(RW) mbl]:%NAME%{%ORANGE%B e %GOLD%l t}%CONTINUE%
-ItemDisplay[(RW) mbt]:%NAME%{%ORANGE%C h %GOLD%a i %TAN%n   %GOLD%B o %ORANGE%o t %GOLD%s}%CONTINUE%
-ItemDisplay[(RW) mgl]:%NAME%{%ORANGE%C h %GOLD%a i %TAN%n  %GOLD%G l %ORANGE%o v %GOLD%e s}%CONTINUE%
-ItemDisplay[(RW) mpi]:%NAME%{%ORANGE%M i %GOLD%l i %TAN%t a %GOLD%ry %ORANGE%  P %GOLD%i c %TAN%k}%CONTINUE%
-ItemDisplay[(RW) msk]:%NAME%{%ORANGE%M a %GOLD%s k}%CONTINUE%
-ItemDisplay[(RW) mst]:%NAME%{%ORANGE%M o %GOLD%r n %TAN%in %GOLD%g   %ORANGE%S t %GOLD%a r}%CONTINUE%
-ItemDisplay[(RW) mxb]:%NAME%{%ORANGE%C r %GOLD%o s %TAN%s b %GOLD%o w}%CONTINUE%
-ItemDisplay[(RW) ne1]:%NAME%{%ORANGE%P r %GOLD%e s %TAN%e r %GOLD%v e %ORANGE%d   %GOLD%H e %TAN%a d}%CONTINUE%
-ItemDisplay[(RW) ne2]:%NAME%{%ORANGE%Z o %GOLD%m b %TAN%ie %GOLD%  H %ORANGE%e a %GOLD%d}%CONTINUE%
-ItemDisplay[(RW) ne3]:%NAME%{%ORANGE%U n %GOLD%r a %TAN%v e %GOLD%l l %ORANGE%e r %GOLD%  H %TAN%e a %GOLD%d}%CONTINUE%
-ItemDisplay[(RW) ne4]:%NAME%{%ORANGE%G a %GOLD%r g %TAN%o y %GOLD%l e %ORANGE%  H %GOLD%e a %TAN%d}%CONTINUE%
-ItemDisplay[(RW) ne5]:%NAME%{%ORANGE%D e %GOLD%m o %TAN%n   %GOLD%H e %ORANGE%a d}%CONTINUE%
-ItemDisplay[(RW) ne6]:%NAME%{%ORANGE%M u %GOLD%m m %TAN%i f %GOLD%i e %ORANGE%d   %GOLD%T r %TAN%o p %GOLD%h y}%CONTINUE%
-ItemDisplay[(RW) ne7]:%NAME%{%ORANGE%F e %GOLD%t i %TAN%s h %GOLD%  T %ORANGE%r o %GOLD%p h %TAN%y}%CONTINUE%
-ItemDisplay[(RW) ne8]:%NAME%{%ORANGE%S e %GOLD%x t %TAN%o n %GOLD%  T %ORANGE%r o %GOLD%p h %TAN%y}%CONTINUE%
-ItemDisplay[(RW) ne9]:%NAME%{%ORANGE%C a %GOLD%n t %TAN%o r %GOLD%  T %ORANGE%r o %GOLD%p h %TAN%y}%CONTINUE%
-ItemDisplay[(RW) nea]:%NAME%{%ORANGE%H i %GOLD%e r %TAN%o p %GOLD%h a %ORANGE%n t %GOLD%  T %TAN%r o %GOLD%p h %GRAY%y}%CONTINUE%
-ItemDisplay[(RW) neb]:%NAME%{%ORANGE%M i %GOLD%n i %TAN%o n %GOLD%  S %ORANGE%k u %GOLD%l l}%CONTINUE%
-ItemDisplay[(RW) ned]:%NAME%{%ORANGE%O v %GOLD%e r %TAN%s e %GOLD%e r %ORANGE% S %GOLD%k u %TAN%l l}%CONTINUE%
-ItemDisplay[(RW) nee]:%NAME%{%ORANGE%S u %GOLD%c c %TAN%u b %GOLD%u s %ORANGE%  S %GOLD%k u %TAN%l l}%CONTINUE%
-ItemDisplay[(RW) nef]:%NAME%{%ORANGE%B l %GOLD%o o %TAN%d l %GOLD%o r %ORANGE%d   %GOLD%S k %TAN%u l %GOLD%l}%CONTINUE%
-ItemDisplay[(RW) neg]:%NAME%{%ORANGE%H e %GOLD%l l %TAN%s p %GOLD%a w %ORANGE%n   %GOLD%S k %TAN%u l %GOLD%l}%CONTINUE%
-ItemDisplay[(RW) ob1]:%NAME%{%ORANGE%E a %GOLD%g l %TAN%e   %GOLD%O r %ORANGE%b}%CONTINUE%
-ItemDisplay[(RW) ob2]:%NAME%{%ORANGE%S a %GOLD%c r %TAN%e d %GOLD%  G %ORANGE%l o %GOLD%b e}%CONTINUE%
-ItemDisplay[(RW) ob3]:%NAME%{%ORANGE%S m %GOLD%o k %TAN%e d %GOLD%  S %ORANGE%p h %GOLD%e r %TAN%e}%CONTINUE%
-ItemDisplay[(RW) ob4]:%NAME%{%ORANGE%C l %GOLD%a s %TAN%p e %GOLD%d   %ORANGE%O r %GOLD%b}%CONTINUE%
-ItemDisplay[(RW) ob5]:%NAME%{%ORANGE%J a %GOLD%r e %TAN%d' %GOLD%s  %ORANGE%S t %GOLD%o n %TAN%e}%CONTINUE%
-ItemDisplay[(RW) ob6]:%NAME%{%ORANGE%G l %GOLD%o w %TAN%i n %GOLD%g   %ORANGE%O r %GOLD%b}%CONTINUE%
-ItemDisplay[(RW) ob7]:%NAME%{%ORANGE%C r %GOLD%y s %TAN%t a %GOLD%l l %ORANGE%i n %GOLD%e   %TAN%G l %GOLD%o b %GRAY%e}%CONTINUE%
-ItemDisplay[(RW) ob8]:%NAME%{%ORANGE%C l %GOLD%o u %TAN%d y %GOLD%  S %ORANGE%p h %GOLD%e r %TAN%e}%CONTINUE%
-ItemDisplay[(RW) ob9]:%NAME%{%ORANGE%S p %GOLD%a r %TAN%k l %GOLD%i n %ORANGE%g  %GOLD%B a %TAN%l l}%CONTINUE%
-ItemDisplay[(RW) oba]:%NAME%{%ORANGE%S w %GOLD%i r %TAN%l i %GOLD%n g %ORANGE%  C %GOLD%r y %TAN%s t %GOLD%a l}%CONTINUE%
-ItemDisplay[(RW) obb]:%NAME%{%ORANGE%H e %GOLD%a v %TAN%e n %GOLD%ly %ORANGE% S %GOLD%t o %TAN%n e}%CONTINUE%
-ItemDisplay[(RW) obc]:%NAME%{%ORANGE%E l %GOLD%d r %TAN%i t %GOLD%c h %ORANGE%  O %GOLD%r b}%CONTINUE%
-ItemDisplay[(RW) obd]:%NAME%{%ORANGE%D e %GOLD%m o %TAN%n   %GOLD%H e %ORANGE%a r %GOLD%t}%CONTINUE%
-ItemDisplay[(RW) obe]:%NAME%{%ORANGE%V o %GOLD%r t %TAN%e x %GOLD%  O %ORANGE%r b}%CONTINUE%
-ItemDisplay[(RW) obf]:%NAME%{%ORANGE%D i %GOLD%m e %TAN%n s %GOLD%i o %ORANGE%n a %GOLD%l   %TAN%S h %GOLD%a r %GRAY%d}%CONTINUE%
-ItemDisplay[(RW) pa1]:%NAME%{%ORANGE%T a %GOLD%r g %TAN%e}%CONTINUE%
-ItemDisplay[(RW) pa2]:%NAME%{%ORANGE%R o %GOLD%n d %TAN%ac %GOLD%he}%CONTINUE%
-ItemDisplay[(RW) pa3]:%NAME%{%ORANGE%H e %GOLD%r a %TAN%l d %GOLD%i c %ORANGE%  S %GOLD%h i %TAN%e l %GOLD%d}%CONTINUE%
-ItemDisplay[(RW) pa4]:%NAME%{%ORANGE%A e %GOLD%r i %TAN%n   %GOLD%S h %ORANGE%i e %GOLD%l d}%CONTINUE%
-ItemDisplay[(RW) pa5]:%NAME%{%ORANGE%C r %GOLD%o w %TAN%n   %GOLD%S h %ORANGE%i e %GOLD%l d}%CONTINUE%
-ItemDisplay[(RW) pa6]:%NAME%{%ORANGE%A k %GOLD%a r %TAN%a n %GOLD%  T %ORANGE%a r %GOLD%g e}%CONTINUE%
-ItemDisplay[(RW) pa7]:%NAME%{%ORANGE%A k %GOLD%a r %TAN%a n %GOLD%  R %ORANGE%o n %GOLD%d a %TAN%c h %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) pa8]:%NAME%{%ORANGE%P r %GOLD%o t %TAN%e c %GOLD%t o %ORANGE%r   %GOLD%S h %TAN%i e %GOLD%l d}%CONTINUE%
-ItemDisplay[(RW) pa9]:%NAME%{%ORANGE%G i %GOLD%l d %TAN%e d %GOLD%  S %ORANGE%h i %GOLD%e l %TAN%d}%CONTINUE%
-ItemDisplay[(RW) paa]:%NAME%{%ORANGE%R o %GOLD%y a %TAN%l   %GOLD%S h %ORANGE%i e %GOLD%l d}%CONTINUE%
-ItemDisplay[(RW) pab]:%NAME%{%ORANGE%S a %GOLD%c r %TAN%e d %GOLD%  T %ORANGE%a r %GOLD%g e}%CONTINUE%
-ItemDisplay[(RW) pac]:%NAME%{%ORANGE%S a %GOLD%c r %TAN%e d %GOLD%  R %ORANGE%o n %GOLD%d a %TAN%c h %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) pad]:%NAME%{%ORANGE%K u %GOLD%r a %TAN%s t %GOLD%  S %ORANGE%h i %GOLD%e l %TAN%d}%CONTINUE%
-ItemDisplay[(RW) pae]:%NAME%{%ORANGE%Z a %GOLD%k a %TAN%ru %GOLD%m  %ORANGE%Sh %GOLD%i e %TAN%l d}%CONTINUE%
-ItemDisplay[(RW) paf]:%NAME%{%ORANGE%V o %GOLD%r t %TAN%ex %GOLD% S %ORANGE%h i %GOLD%e l %TAN%d}%CONTINUE%
-ItemDisplay[(RW) pax]:%NAME%{%ORANGE%P o %GOLD%l e %TAN%a x %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) pik]:%NAME%{%ORANGE%P i %GOLD%k e}%CONTINUE%
-ItemDisplay[(RW) pil]:%NAME%{%ORANGE%P i %GOLD%l u %TAN%m}%CONTINUE%
-ItemDisplay[(RW) plt]:%NAME%{%ORANGE%P l %GOLD%a t %TAN%e   %GOLD%M a %ORANGE%i l}%CONTINUE%
-ItemDisplay[(RW) qui]:%NAME%{%ORANGE%Q u %GOLD%i l %TAN%t e %GOLD%d  %ORANGE%A r %GOLD%m o %TAN%r}%CONTINUE%
-ItemDisplay[(RW) rng]:%NAME%{%ORANGE%R i %GOLD%n g %TAN% M %GOLD%ai %ORANGE%l}%CONTINUE%
-ItemDisplay[(RW) rxb]:%NAME%{%ORANGE%R e %GOLD%p e %TAN%a t %GOLD%i n %ORANGE%g   %GOLD%C r %TAN%o s %GOLD%s b %GRAY%o w}%CONTINUE%
-ItemDisplay[(RW) sbb]:%NAME%{%ORANGE%S h %GOLD%o r %TAN%t   %GOLD%B a %ORANGE%t t %GOLD%l e %TAN%  B %GOLD%o w}%CONTINUE%
-ItemDisplay[(RW) sbr]:%NAME%{%ORANGE%S a %GOLD%b r %TAN%e}%CONTINUE%
-ItemDisplay[(RW) sbw]:%NAME%{%ORANGE%S h %GOLD%o r %TAN%t   %GOLD%B o %ORANGE%w}%CONTINUE%
-ItemDisplay[(RW) scl]:%NAME%{%ORANGE%S c %GOLD%a l %TAN%e   %GOLD%M a %ORANGE%i l}%CONTINUE%
-ItemDisplay[(RW) scm]:%NAME%{%ORANGE%S c %GOLD%i m %TAN%i t %GOLD%a r}%CONTINUE%
-ItemDisplay[(RW) scp]:%NAME%{%ORANGE%S c %GOLD%e p %TAN%t e %GOLD%r}%CONTINUE%
-ItemDisplay[(RW) scy]:%NAME%{%ORANGE%S c %GOLD%y t %TAN%h e}%CONTINUE%
-ItemDisplay[(RW) skp]:%NAME%{%ORANGE%S k %GOLD%u l %TAN%l   %GOLD%C a %ORANGE%p}%CONTINUE%
-ItemDisplay[(RW) skr]:%NAME%{%ORANGE%S c %GOLD%i s %TAN%s o %GOLD%r s %ORANGE%  K %GOLD%a t %TAN%a r}%CONTINUE%
-ItemDisplay[(RW) sml]:%NAME%{%ORANGE%S m %GOLD%a l %TAN%l   %GOLD%S h %ORANGE%i e %GOLD%l d}%CONTINUE%
-ItemDisplay[(RW) spc]:%NAME%{%ORANGE%S p %GOLD%i k %TAN%e d %GOLD%  C %ORANGE%l u %GOLD%b}%CONTINUE%
-ItemDisplay[(RW) spk]:%NAME%{%ORANGE%S p %GOLD%i k %TAN%e d %GOLD%  S %ORANGE%h i %GOLD%e l %TAN%d}%CONTINUE%
-ItemDisplay[(RW) spl]:%NAME%{%ORANGE%S p %GOLD%l i %TAN%n t %GOLD%  M %ORANGE%a i %GOLD%l}%CONTINUE%
-ItemDisplay[(RW) spr]:%NAME%{%ORANGE%S p %GOLD%e a %TAN%r}%CONTINUE%
-ItemDisplay[(RW) spt]:%NAME%{%ORANGE%S p %GOLD%e t %TAN%u m}%CONTINUE%
-ItemDisplay[(RW) ssd]:%NAME%{%ORANGE%S h %GOLD%o r %TAN%t   %GOLD%S w %ORANGE%o r %GOLD%d}%CONTINUE%
-ItemDisplay[(RW) ssp]:%NAME%{%ORANGE%S h %GOLD%o r %TAN%t   %GOLD%S p %ORANGE%e a %GOLD%r}%CONTINUE%
-ItemDisplay[(RW) sst]:%NAME%{%ORANGE%S h %GOLD%o r %TAN%t   %GOLD%S t %ORANGE%a f %GOLD%f}%CONTINUE%
-ItemDisplay[(RW) stu]:%NAME%{%ORANGE%S t %GOLD%u d %TAN%d e %GOLD%d   %ORANGE%L e %GOLD%a t %TAN%h e %GOLD%r}%CONTINUE%
-ItemDisplay[(RW) swb]:%NAME%{%ORANGE%S h %GOLD%o r %TAN%t   %GOLD%W a %ORANGE%r   %GOLD%B o %TAN%w}%CONTINUE%
-ItemDisplay[(RW) tax]:%NAME%{%ORANGE%T h %GOLD%r o %TAN%w i %GOLD%n g %ORANGE%  A %GOLD%x e}%CONTINUE%
-ItemDisplay[(RW) tbl]:%NAME%{%ORANGE%H e %GOLD%a v %TAN%y   %GOLD%B e %ORANGE%l t}%CONTINUE%
-ItemDisplay[(RW) tbt]:%NAME%{%ORANGE%L i %GOLD%g h %TAN%t   %GOLD%P l %ORANGE%a t %GOLD%e d %TAN%  B %GOLD%o o %GRAY%t s}%CONTINUE%
-ItemDisplay[(RW) tgl]:%NAME%{%ORANGE%L i %GOLD%g h %TAN%t   %GOLD%G a %ORANGE%u n %GOLD%t l %TAN%e t %GOLD%s}%CONTINUE%
-ItemDisplay[(RW) tkf]:%NAME%{%ORANGE%T h %GOLD%r o %TAN%w i %GOLD%n g %ORANGE%  K %GOLD%n i %TAN%f e}%CONTINUE%
-ItemDisplay[(RW) tow]:%NAME%{%ORANGE%T o %GOLD%w e %TAN%r   %GOLD%S h %ORANGE%i e %GOLD%l d}%CONTINUE%
-ItemDisplay[(RW) tri]:%NAME%{%ORANGE%T r %GOLD%i d %TAN%e n %GOLD%t}%CONTINUE%
-ItemDisplay[(RW) tsp]:%NAME%{%ORANGE%T h %GOLD%r o %TAN%w i %GOLD%n g %ORANGE%  S %GOLD%p e %TAN%a r}%CONTINUE%
-ItemDisplay[(RW) uap]:%NAME%{%ORANGE%S h %GOLD%a k %TAN%o}%CONTINUE%
-ItemDisplay[(RW) uar]:%NAME%{%ORANGE%S a %GOLD%c r %TAN%e d %GOLD%  A %ORANGE%r m %GOLD%o r}%CONTINUE%
-ItemDisplay[(RW) ucl]:%NAME%{%ORANGE%L o %GOLD%r i %TAN%c a %GOLD%t e %ORANGE%d   %GOLD%M a %TAN%i l}%CONTINUE%
-ItemDisplay[(RW) uea]:%NAME%{%ORANGE%W y %GOLD%r m %TAN%h i %GOLD%d e}%CONTINUE%
-ItemDisplay[(RW) uh9]:%NAME%{%ORANGE%B o %GOLD%n e %TAN%  V %GOLD%i s %ORANGE%a g %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) uhb]:%NAME%{%ORANGE%M y %GOLD%r m %TAN%i d %GOLD%o n %ORANGE%  G %GOLD%r e %TAN%a v %GOLD%e s}%CONTINUE%
-ItemDisplay[(RW) uhc]:%NAME%{%ORANGE%C o %GOLD%l o %TAN%s s %GOLD%u s %ORANGE%  G %GOLD%i r %TAN%d l %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) uhg]:%NAME%{%ORANGE%O g %GOLD%r e %TAN%  G %GOLD%a u %ORANGE%nt %GOLD%l e %TAN%t s}%CONTINUE%
-ItemDisplay[(RW) uhl]:%NAME%{%ORANGE%G i %GOLD%a n %TAN%t   %GOLD%C o %ORANGE%n c %GOLD%h}%CONTINUE%
-ItemDisplay[(RW) uhm]:%NAME%{%ORANGE%S p %GOLD%i r %TAN%e d %GOLD%  H %ORANGE%e l %GOLD%m}%CONTINUE%
-ItemDisplay[(RW) uhn]:%NAME%{%ORANGE%B o %GOLD%n e %TAN%w e %GOLD%a v %ORANGE%e}%CONTINUE%
-ItemDisplay[(RW) uit]:%NAME%{%ORANGE%M o %GOLD%n a %TAN%r c %GOLD%h}%CONTINUE%
-ItemDisplay[(RW) ukp]:%NAME%{%ORANGE%H y %GOLD%d r %TAN%a s %GOLD%k u %ORANGE%l l}%CONTINUE%
-ItemDisplay[(RW) ula]:%NAME%{%ORANGE%S c %GOLD%a r %TAN%a b %GOLD%  H %ORANGE%u s %GOLD%k}%CONTINUE%
-ItemDisplay[(RW) ulb]:%NAME%{%ORANGE%W y %GOLD%r m %TAN%h i %GOLD%d e %ORANGE%  B %GOLD%o o %TAN%t s}%CONTINUE%
-ItemDisplay[(RW) ulc]:%NAME%{%ORANGE%S p %GOLD%i d %TAN%e r %GOLD%w e %ORANGE%b  %GOLD%S a %TAN%s h}%CONTINUE%
-ItemDisplay[(RW) uld]:%NAME%{%ORANGE%K r %GOLD%a k %TAN%e n %GOLD%  S %ORANGE%h e %GOLD%l l}%CONTINUE%
-ItemDisplay[(RW) ulg]:%NAME%{%ORANGE%B r %GOLD%a m %TAN%b l %GOLD%e   %ORANGE%M i %GOLD%t t %TAN%s}%CONTINUE%
-ItemDisplay[(RW) ulm]:%NAME%{%ORANGE%A r %GOLD%m e %TAN%t}%CONTINUE%
-ItemDisplay[(RW) ult]:%NAME%{%ORANGE%H e %GOLD%l l %TAN%f o %GOLD%r g %ORANGE%e   %GOLD%P l %TAN%a t %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) umb]:%NAME%{%ORANGE%B o %GOLD%n e %TAN%w e %GOLD%a v %ORANGE%e   %GOLD%B o %TAN%o t %GOLD%s}%CONTINUE%
-ItemDisplay[(RW) umc]:%NAME%{%ORANGE%M i %GOLD%t h %TAN%r i %GOLD%l   %ORANGE%C o %GOLD%i l}%CONTINUE%
-ItemDisplay[(RW) umg]:%NAME%{%ORANGE%V a %GOLD%m b %TAN%r a %GOLD%c e %ORANGE%s}%CONTINUE%
-ItemDisplay[(RW) uml]:%NAME%{%ORANGE%L u %GOLD%n a}%CONTINUE%
-ItemDisplay[(RW) ung]:%NAME%{%ORANGE%D i %GOLD%a m %TAN%o n %GOLD%d   %ORANGE%M a %GOLD%i l}%CONTINUE%
-ItemDisplay[(RW) uow]:%NAME%{%ORANGE%A e %GOLD%g i %TAN%s}%CONTINUE%
-ItemDisplay[(RW) upk]:%NAME%{%ORANGE%B l %GOLD%a d %TAN%e   %GOLD%B a %ORANGE%r r %GOLD%i e %TAN%r}%CONTINUE%
-ItemDisplay[(RW) upl]:%NAME%{%ORANGE%B a %GOLD%l r %TAN%o g %GOLD%  S %ORANGE%k i %GOLD%n}%CONTINUE%
-ItemDisplay[(RW) urg]:%NAME%{%ORANGE%H y %GOLD%p e %TAN%r i %GOLD%o n}%CONTINUE%
-ItemDisplay[(RW) urn]:%NAME%{%ORANGE%C o %GOLD%r o %TAN%n a}%CONTINUE%
-ItemDisplay[(RW) urs]:%NAME%{%ORANGE%G r %GOLD%e a %TAN%t   %GOLD%H a %ORANGE%u b %GOLD%e r %TAN%k}%CONTINUE%
-ItemDisplay[(RW) ush]:%NAME%{%ORANGE%T r %GOLD%o l %TAN%l   %GOLD%N e %ORANGE%s t}%CONTINUE%
-ItemDisplay[(RW) usk]:%NAME%{%ORANGE%D e %GOLD%m o %TAN%n h %GOLD%e a %ORANGE%d}%CONTINUE%
-ItemDisplay[(RW) utb]:%NAME%{%ORANGE%M i %GOLD%r r %TAN%o r %GOLD%e d %ORANGE%  B %GOLD%o o %TAN%t s}%CONTINUE%
-ItemDisplay[(RW) utc]:%NAME%{%ORANGE%T r %GOLD%o l %TAN%l   %GOLD%B e %ORANGE%l t}%CONTINUE%
-ItemDisplay[(RW) utg]:%NAME%{%ORANGE%C r %GOLD%u s %TAN%a d %GOLD%e r %ORANGE%  G %GOLD%a u %TAN%n t %GOLD%l e %GRAY%t s}%CONTINUE%
-ItemDisplay[(RW) uth]:%NAME%{%ORANGE%L a %GOLD%c q %TAN%u e %GOLD%r e %ORANGE%d   %GOLD%P l %TAN%a t %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) utp]:%NAME%{%ORANGE%A r %GOLD%c h %TAN%o n %GOLD%  P %ORANGE%l a %GOLD%t e}%CONTINUE%
-ItemDisplay[(RW) uts]:%NAME%{%ORANGE%W a %GOLD%r d}%CONTINUE%
-ItemDisplay[(RW) utu]:%NAME%{%ORANGE%W i %GOLD%r e %TAN%  F %GOLD%l e %ORANGE%e c %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) uuc]:%NAME%{%ORANGE%H e %GOLD%a t %TAN%e r}%CONTINUE%
-ItemDisplay[(RW) uui]:%NAME%{%ORANGE%D u %GOLD%s k %TAN%  S %GOLD%h r %ORANGE%o u %GOLD%d}%CONTINUE%
-ItemDisplay[(RW) uul]:%NAME%{%ORANGE%S h %GOLD%a d %TAN%o w %GOLD%  P %ORANGE%l a %GOLD%t e}%CONTINUE%
-ItemDisplay[(RW) uvb]:%NAME%{%ORANGE%S c %GOLD%a r %TAN%a b %GOLD%s h %ORANGE%e l %GOLD%l   %TAN%B o %GOLD%o t %GRAY%s}%CONTINUE%
-ItemDisplay[(RW) uvc]:%NAME%{%ORANGE%V a %GOLD%m p %TAN%i r %GOLD%e f %ORANGE%a n %GOLD%g   %TAN%B e %GOLD%l t}%CONTINUE%
-ItemDisplay[(RW) uvg]:%NAME%{%ORANGE%V a %GOLD%m p %TAN%i r %GOLD%e b %ORANGE%o n %GOLD%e   %TAN%G l %GOLD%o v %GRAY%e s}%CONTINUE%
-ItemDisplay[(RW) vbl]:%NAME%{%ORANGE%L i %GOLD%g h %TAN%t   %GOLD%B e %ORANGE%l t}%CONTINUE%
-ItemDisplay[(RW) vbt]:%NAME%{%ORANGE%H e %GOLD%a v %TAN%y   %GOLD%B o %ORANGE%o t %GOLD%s}%CONTINUE%
-ItemDisplay[(RW) vgl]:%NAME%{%ORANGE%H e %GOLD%a v %TAN%y   %GOLD%G l %ORANGE%o v %GOLD%e s}%CONTINUE%
-ItemDisplay[(RW) vou]:%NAME%{%ORANGE%V o %GOLD%u l %TAN%g e}%CONTINUE%
-ItemDisplay[(RW) wax]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%A x %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) whm]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%H a %GOLD%m m %ORANGE%e r}%CONTINUE%
-ItemDisplay[(RW) wnd]:%NAME%{%ORANGE%W a %GOLD%n d}%CONTINUE%
-ItemDisplay[(RW) wrb]:%NAME%{%ORANGE%W r %GOLD%i s %TAN%t   %GOLD%B l %ORANGE%a d %GOLD%e}%CONTINUE%
-ItemDisplay[(RW) wsc]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%S c %GOLD%y t %ORANGE%h e}%CONTINUE%
-ItemDisplay[(RW) wsd]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%S w %GOLD%o r %ORANGE%d}%CONTINUE%
-ItemDisplay[(RW) wsp]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%Sc %GOLD%e p %ORANGE%t e %GOLD%r}%CONTINUE%
-ItemDisplay[(RW) wst]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%St %GOLD%af %ORANGE%f}%CONTINUE%
-ItemDisplay[(RW) xap]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%H a %GOLD%t}%CONTINUE%
-ItemDisplay[(RW) xar]:%NAME%{%ORANGE%O r %GOLD%n a %TAN%t e %GOLD%  P %ORANGE%l a %GOLD%t e}%CONTINUE%
-ItemDisplay[(RW) xcl]:%NAME%{%ORANGE%T i %GOLD%g u %TAN%l a %GOLD%t e %ORANGE%d   %GOLD%M a %TAN%i l}%CONTINUE%
-ItemDisplay[(RW) xea]:%NAME%{%ORANGE%S e %GOLD%r p %TAN%e n %GOLD%t s %ORANGE%k i %GOLD%n   %TAN%A r %GOLD%m o %GRAY%r}%CONTINUE%
-ItemDisplay[(RW) xh9]:%NAME%{%ORANGE%G r %GOLD%i m %TAN%  H %GOLD%e l %ORANGE%m}%CONTINUE%
-ItemDisplay[(RW) xhb]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%B o %GOLD%ot %ORANGE%s}%CONTINUE%
-ItemDisplay[(RW) xhg]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%G a %GOLD%u n %ORANGE%t l %GOLD%e t %TAN%s}%CONTINUE%
-ItemDisplay[(RW) xhl]:%NAME%{%ORANGE%B a %GOLD%s i %TAN%n e %GOLD%t}%CONTINUE%
-ItemDisplay[(RW) xhm]:%NAME%{%ORANGE%W i %GOLD%n g %TAN%e d %GOLD%  H %ORANGE%e l %GOLD%m}%CONTINUE%
-ItemDisplay[(RW) xhn]:%NAME%{%ORANGE%M e %GOLD%s h %TAN%  A %GOLD%r m %ORANGE%o r}%CONTINUE%
-ItemDisplay[(RW) xit]:%NAME%{%ORANGE%D r %GOLD%a g %TAN%on %GOLD% S %ORANGE%h i %GOLD%e l %TAN%d}%CONTINUE%
-ItemDisplay[(RW) xkp]:%NAME%{%ORANGE%S a %GOLD%l l %TAN%e t}%CONTINUE%
-ItemDisplay[(RW) xla]:%NAME%{%ORANGE%D e %GOLD%m o %TAN%n h %GOLD%i d %ORANGE%e   %GOLD%A r %TAN%m o %GOLD%r}%CONTINUE%
-ItemDisplay[(RW) xlb]:%NAME%{%ORANGE%D e %GOLD%m o %TAN%n h %GOLD%i d %ORANGE%e   %GOLD%B o %TAN%o t %GOLD%s}%CONTINUE%
-ItemDisplay[(RW) xld]:%NAME%{%ORANGE%S h %GOLD%a r %TAN%k t %GOLD%o o %ORANGE%t h %GOLD%  A %TAN%r m %GOLD%o r}%CONTINUE%
-ItemDisplay[(RW) xlg]:%NAME%{%ORANGE%D e %GOLD%m o %TAN%n h %GOLD%i d %ORANGE%e   %GOLD%G l %TAN%o v %GOLD%e s}%CONTINUE%
-ItemDisplay[(RW) xlm]:%NAME%{%ORANGE%C a %GOLD%s q %TAN%u e}%CONTINUE%
-ItemDisplay[(RW) xlt]:%NAME%{%ORANGE%T e %GOLD%m p %TAN%l a %GOLD%r   %ORANGE%C o %GOLD%a t}%CONTINUE%
-ItemDisplay[(RW) xmb]:%NAME%{%ORANGE%M e %GOLD%s h %TAN%  B %GOLD%o o %ORANGE%t s}%CONTINUE%
-ItemDisplay[(RW) xmg]:%NAME%{%ORANGE%H e %GOLD%a v %TAN%y   %GOLD%B r %ORANGE%a c %GOLD%e r %TAN%s}%CONTINUE%
-ItemDisplay[(RW) xml]:%NAME%{%ORANGE%R o %GOLD%u n %TAN%d   %GOLD%S h %ORANGE%i e %GOLD%l d}%CONTINUE%
-ItemDisplay[(RW) xng]:%NAME%{%ORANGE%L i %GOLD%n k %TAN%e d %GOLD%  M %ORANGE%a i %GOLD%l}%CONTINUE%
-ItemDisplay[(RW) xow]:%NAME%{%ORANGE%P a %GOLD%v i %TAN%s e}%CONTINUE%
-ItemDisplay[(RW) xpk]:%NAME%{%ORANGE%B a %GOLD%r b %TAN%e d %GOLD%  S %ORANGE%h i %GOLD%e l %TAN%d}%CONTINUE%
-ItemDisplay[(RW) xpl]:%NAME%{%ORANGE%R u %GOLD%s s %TAN%e t %GOLD%  A %ORANGE%r m %GOLD%o r}%CONTINUE%
-ItemDisplay[(RW) xrg]:%NAME%{%ORANGE%S c %GOLD%u t %TAN%u m}%CONTINUE%
-ItemDisplay[(RW) xrn]:%NAME%{%ORANGE%G r %GOLD%a n %TAN%d   %GOLD%C r %ORANGE%o w %GOLD%n}%CONTINUE%
-ItemDisplay[(RW) xrs]:%NAME%{%ORANGE%C u %GOLD%i r %TAN%a s %GOLD%s}%CONTINUE%
-ItemDisplay[(RW) xsh]:%NAME%{%ORANGE%G r %GOLD%i m %TAN%  S %GOLD%h i %ORANGE%e l %GOLD%d}%CONTINUE%
-ItemDisplay[(RW) xsk]:%NAME%{%ORANGE%D e %GOLD%a t %TAN%h   %GOLD%M a %ORANGE%s k}%CONTINUE%
-ItemDisplay[(RW) xtb]:%NAME%{%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  B %ORANGE%o o %GOLD%t s}%CONTINUE%
-ItemDisplay[(RW) xtg]:%NAME%{%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  G %ORANGE%a u %GOLD%n t %TAN%l e %GOLD%t s}%CONTINUE%
-ItemDisplay[(RW) xth]:%NAME%{%ORANGE%E m %GOLD%b o %TAN%s s %GOLD%e d %ORANGE%  P %GOLD%l a %TAN%t e}%CONTINUE%
-ItemDisplay[(RW) xtp]:%NAME%{%ORANGE%M a %GOLD%g e %TAN%  P %GOLD%l a %ORANGE%t e}%CONTINUE%
-ItemDisplay[(RW) xts]:%NAME%{%ORANGE%A n %GOLD%c i %TAN%e n %GOLD%t   %ORANGE%Sh %GOLD%i e %TAN%l d}%CONTINUE%
-ItemDisplay[(RW) xtu]:%NAME%{%ORANGE%T r %GOLD%e l %TAN%l i %GOLD%s e %ORANGE%d   %GOLD%A r %TAN%m o %GOLD%r}%CONTINUE%
-ItemDisplay[(RW) xuc]:%NAME%{%ORANGE%D e %GOLD%f e %TAN%n d %GOLD%e r}%CONTINUE%
-ItemDisplay[(RW) xui]:%NAME%{%ORANGE%G h %GOLD%o s %TAN%t   %GOLD%A r %ORANGE%m o %GOLD%r}%CONTINUE%
-ItemDisplay[(RW) xul]:%NAME%{%ORANGE%C h %GOLD%a o %TAN%s   %GOLD%A r %ORANGE%m o %GOLD%r}%CONTINUE%
-ItemDisplay[(RW) xvb]:%NAME%{%ORANGE%S h %GOLD%a r %TAN%k s %GOLD%k i %ORANGE%n   %GOLD%B o %TAN%o t %GOLD%s}%CONTINUE%
-ItemDisplay[(RW) xvg]:%NAME%{%ORANGE%S h %GOLD%a r %TAN%k s %GOLD%k i %ORANGE%n   %GOLD%G l %TAN%o v %GOLD%e s}%CONTINUE%
-ItemDisplay[(RW) ywn]:%NAME%{%ORANGE%Y e %GOLD%w   %TAN%W a %GOLD%n d}%CONTINUE%
-ItemDisplay[(RW) zhb]:%NAME%{%ORANGE%W a %GOLD%r   %TAN%B e %GOLD%l t}%CONTINUE%
-ItemDisplay[(RW) zlb]:%NAME%{%ORANGE%D e %GOLD%m o %TAN%n h %GOLD%i d %ORANGE%e   %GOLD%S a %TAN%s h}%CONTINUE%
-ItemDisplay[(RW) zmb]:%NAME%{%ORANGE%M e %GOLD%s h %TAN%  B %GOLD%e l %ORANGE%t}%CONTINUE%
-ItemDisplay[(RW) ztb]:%NAME%{%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  B %ORANGE%e l %GOLD%t}%CONTINUE%
-ItemDisplay[(RW) zvb]:%NAME%{%ORANGE%S h %GOLD%a r %TAN%k s %GOLD%k i %ORANGE%n   %GOLD%B e %TAN%l t}%CONTINUE%
+ItemDisplay[(RW) 2ax]:%ORANGE%D o %GOLD%u b %TAN%l e %GOLD%  A %ORANGE%x e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 2hs]:%ORANGE%T w %GOLD%o - %TAN%h a %GOLD%n d %ORANGE%e d %GOLD%  S %TAN%w o %GOLD%r d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6bs]:%ORANGE%S h %GOLD%i l %TAN%l e %GOLD%l a %ORANGE%g h%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6cb]:%ORANGE%G r %GOLD%e a %TAN%t   %GOLD%B o %ORANGE%w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6cs]:%ORANGE%E l %GOLD%d e %TAN%r   %GOLD%S t %ORANGE%a f %GOLD%f%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6hb]:%ORANGE%B l %GOLD%a d %TAN%e   %GOLD%B o %ORANGE%w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6hx]:%ORANGE%C o %GOLD%l o %TAN%s s %GOLD%u s %ORANGE%  C %GOLD%r o %TAN%s s %GOLD%b o %GRAY%w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6l7]:%ORANGE%C r %GOLD%u s %TAN%a d %GOLD%e r %ORANGE%  B %GOLD%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6lb]:%ORANGE%S h %GOLD%a d %TAN%o w %GOLD%  B %ORANGE%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6ls]:%ORANGE%S t %GOLD%a l %TAN%a g %GOLD%m i %ORANGE%t e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6lw]:%ORANGE%H y %GOLD%d r %TAN%a   %GOLD%Bo %ORANGE%w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6lx]:%ORANGE%P e %GOLD%l l %TAN%e t %GOLD%  B %ORANGE%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6mx]:%ORANGE%G o %GOLD%r g %TAN%o n %GOLD%  C %ORANGE%r o %GOLD%s s %TAN%b o %GOLD%w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6rx]:%ORANGE%D e %GOLD%m o %TAN%n   %GOLD%C r %ORANGE%o s %GOLD%s b %TAN%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6s7]:%ORANGE%D i %GOLD%a m %TAN%o n %GOLD%d   %ORANGE%B o %GOLD%w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6sb]:%ORANGE%S p %GOLD%i d %TAN%e r %GOLD%  B %ORANGE%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6ss]:%ORANGE%W a %GOLD%l k %TAN%i n %GOLD%g   %ORANGE%S t %GOLD%i c %TAN%k%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6sw]:%ORANGE%W a %GOLD%r d %TAN%  B %GOLD%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 6ws]:%ORANGE%A r %GOLD%c h %TAN%o n %GOLD%  S %ORANGE%t a %GOLD%f f%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 72a]:%ORANGE%E t %GOLD%t i %TAN%n   %GOLD%A x %ORANGE%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 72h]:%ORANGE%L e %GOLD%g e %TAN%n d %GOLD%  S %ORANGE%w o %GOLD%r d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7ar]:%ORANGE%S u %GOLD%w a %TAN%y y %GOLD%a h%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7ax]:%ORANGE%S m %GOLD%a l %TAN%l   %GOLD%C r %ORANGE%e s %GOLD%c e %TAN%n t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7b7]:%ORANGE%C h %GOLD%a m %TAN%p i %GOLD%on %ORANGE% S %GOLD%w o %TAN%r d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7b8]:%ORANGE%W i %GOLD%n g %TAN%e d %GOLD%  A %ORANGE%x e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7ba]:%ORANGE%S i %GOLD%l v %TAN%e r %GOLD%- e %ORANGE%d g %GOLD%e d %TAN%  A %GOLD%x e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7bk]:%ORANGE%W i %GOLD%n g %TAN%e d %GOLD%  K %ORANGE%n i %GOLD%f e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7bl]:%ORANGE%L e %GOLD%g e %TAN%n d %GOLD%  S %ORANGE%p i %GOLD%k e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7br]:%ORANGE%M a %GOLD%n c %TAN%a t %GOLD%c h %ORANGE%e r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7bs]:%ORANGE%C o %GOLD%n q %TAN%u e %GOLD%s t %ORANGE% S %GOLD%w o %TAN%r d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7bt]:%ORANGE%D e %GOLD%c a %TAN%p i %GOLD%t a %ORANGE%t o %GOLD%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7bw]:%ORANGE%L i %GOLD%c h %TAN%  W %GOLD%a n %ORANGE%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7cl]:%ORANGE%T r %GOLD%u n %TAN%c h %GOLD%e o %ORANGE%n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7cm]:%ORANGE%H i %GOLD%g h %TAN%l a %GOLD%n d %ORANGE%  B %GOLD%l a %TAN%d e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7cr]:%ORANGE%P h %GOLD%a s %TAN%e   %GOLD%B l %ORANGE%a d %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7cs]:%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  C %ORANGE%e s %GOLD%t u %TAN%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7dg]:%ORANGE%B o %GOLD%n e %TAN%  K %GOLD%n i %ORANGE%f e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7di]:%ORANGE%M i %GOLD%t h %TAN%r i %GOLD%l   %ORANGE%P o %GOLD%i n %TAN%t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7fb]:%ORANGE%C o %GOLD%l o %TAN%s s %GOLD%u s %ORANGE%  S %GOLD%w o %TAN%r d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7fc]:%ORANGE%H y %GOLD%d r %TAN%a   %GOLD%E d %ORANGE%g e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7fl]:%ORANGE%S c %GOLD%o u %TAN%r g %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7ga]:%ORANGE%C h %GOLD%a m %TAN%p i %GOLD%o n %ORANGE%  A %GOLD%x e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7gd]:%ORANGE%C o %GOLD%l o %TAN%s s %GOLD%u s %ORANGE%  B %GOLD%l a %TAN%d e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7gi]:%ORANGE%G l %GOLD%o r %TAN%i o %GOLD%u s %ORANGE%  A %GOLD%x e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7gl]:%ORANGE%G h %GOLD%o s %TAN%t   %GOLD%G l %ORANGE%a i %GOLD%v e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7gm]:%ORANGE%T h %GOLD%u n %TAN%d e %GOLD%r   %ORANGE%M a %GOLD%u l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7gs]:%ORANGE%B a %GOLD%l r %TAN%o g %GOLD%  B %ORANGE%l a %GOLD%d e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7gw]:%ORANGE%U n %GOLD%e a %TAN%r t %GOLD%h e %ORANGE%d   %GOLD%W a %TAN%n d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7h7]:%ORANGE%G r %GOLD%e a %TAN%t   %GOLD%P o %ORANGE%l e %GOLD%a x %TAN%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7ha]:%ORANGE%T o %GOLD%m a %TAN%h a %GOLD%w k%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7ja]:%ORANGE%H y %GOLD%p e %TAN%r i %GOLD%o n %ORANGE%  J %GOLD%a v %TAN%e l %GOLD%i n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7kr]:%ORANGE%F a %GOLD%n g %TAN%e d %GOLD%  K %ORANGE%n i %GOLD%f e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7la]:%ORANGE%F e %GOLD%r a %TAN%l   %GOLD%A x %ORANGE%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7ls]:%ORANGE%C r %GOLD%y p %TAN%t i %GOLD%c   %ORANGE%S w %GOLD%o r %TAN%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7lw]:%ORANGE%F e %GOLD%r a %TAN%l   %GOLD%C l %ORANGE%a w %GOLD%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7m7]:%ORANGE%O g %GOLD%r e %TAN%  M %GOLD%a u %ORANGE%l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7ma]:%ORANGE%R e %GOLD%i n %TAN%f o %GOLD%r c %ORANGE%e d %GOLD%  M %TAN%a c %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7mp]:%ORANGE%W a %GOLD%r   %TAN%S p %GOLD%i k %ORANGE%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7mt]:%ORANGE%D e %GOLD%v i %TAN%l   %GOLD%S t %ORANGE%a r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7o7]:%ORANGE%O g %GOLD%r e %TAN%  A %GOLD%x e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7p7]:%ORANGE%W a %GOLD%r   %TAN%P i %GOLD%k e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7pa]:%ORANGE%C r %GOLD%y p %TAN%t i %GOLD%c   %ORANGE%A x %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7pi]:%ORANGE%S t %GOLD%y g %TAN%i a %GOLD%n   %ORANGE%P i %GOLD%l u %TAN%m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7qr]:%ORANGE%S c %GOLD%i s %TAN%s o %GOLD%r s %ORANGE%  S %GOLD%u w %TAN%a y %GOLD%y a %GRAY%h%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7qs]:%ORANGE%S e %GOLD%r a %TAN%p h %GOLD%  R %ORANGE%o d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7s7]:%ORANGE%B a %GOLD%l r %TAN%o g %GOLD%  S %ORANGE%p e %GOLD%a r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7s8]:%ORANGE%T h %GOLD%r e %TAN%s h %GOLD%e r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7sb]:%ORANGE%E l %GOLD%e g %TAN%a n %GOLD%t   %ORANGE%B l %GOLD%a d %TAN%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7sc]:%ORANGE%M i %GOLD%g h %TAN%t y %GOLD%  S %ORANGE%c e %GOLD%p t %TAN%e r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7sm]:%ORANGE%A t %GOLD%a g %TAN%h a %GOLD%n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7sp]:%ORANGE%T y %GOLD%r a %TAN%n t %GOLD%  C %ORANGE%l u %GOLD%b%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7sr]:%ORANGE%H y %GOLD%p e %TAN%r i %GOLD%on %ORANGE% S %GOLD%p e %TAN%a r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7ss]:%ORANGE%F a %GOLD%l c %TAN%a t %GOLD%a%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7st]:%ORANGE%G h %GOLD%o s %TAN%t   %GOLD%S p %ORANGE%e a %GOLD%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7ta]:%ORANGE%F l %GOLD%y i %TAN%n g %GOLD%  A %ORANGE%x e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7tk]:%ORANGE%F l %GOLD%y i %TAN%n g %GOLD%  K %ORANGE%n i %GOLD%f e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7tr]:%ORANGE%S t %GOLD%y g %TAN%i a %GOLD%n   %ORANGE%P i %GOLD%k e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7ts]:%ORANGE%W i %GOLD%n g %TAN%e d %GOLD%  H %ORANGE%ar %GOLD%p o %TAN%o n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7tw]:%ORANGE%R u %GOLD%n i %TAN%c   %GOLD%T a %ORANGE%l o %GOLD%n s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7vo]:%ORANGE%C o %GOLD%l o %TAN%s s %GOLD%u s %ORANGE%  V %GOLD%o u %TAN%l g %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7wa]:%ORANGE%B e %GOLD%r s %TAN%e r %GOLD%k e %ORANGE%r   %GOLD%A x %TAN%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7wb]:%ORANGE%W r %GOLD%i s %TAN%t   %GOLD%S w %ORANGE%o r %GOLD%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7wc]:%ORANGE%G i %GOLD%a n %TAN%t   %GOLD%T h %ORANGE%r e %GOLD%s h %TAN%e r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7wd]:%ORANGE%M y %GOLD%t h %TAN%i c %GOLD%al %ORANGE% S %GOLD%w o %TAN%r d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7wh]:%ORANGE%L e %GOLD%g e %TAN%n d %GOLD%a r %ORANGE%y   %GOLD%M a %TAN%l l %GOLD%e t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7wn]:%ORANGE%P o %GOLD%l i %TAN%s h %GOLD%e d %ORANGE%  W %GOLD%a n %TAN%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7ws]:%ORANGE%C a %GOLD%d u %TAN%c e %GOLD%u s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7xf]:%ORANGE%W a %GOLD%r   %TAN%F i %GOLD%s t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 7yw]:%ORANGE%G h %GOLD%o s %TAN%t   %GOLD%W a %ORANGE%n d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8bs]:%ORANGE%G o %GOLD%t h %TAN%ic %GOLD%  S %ORANGE%t a %GOLD%f f%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8cb]:%ORANGE%D o %GOLD%u b %TAN%l e %GOLD%  B %ORANGE%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8cs]:%ORANGE%C e %GOLD%d a %TAN%r   %GOLD%S t %ORANGE%a f %GOLD%f%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8hb]:%ORANGE%R a %GOLD%z o %TAN%r  %GOLD%Bo %ORANGE%w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8hx]:%ORANGE%B a %GOLD%l l %TAN%i s %GOLD%t a%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8l8]:%ORANGE%L a %GOLD%r g %TAN%e   %GOLD%S i %ORANGE%e g %GOLD%e   %TAN%B o %GOLD%w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8lb]:%ORANGE%C e %GOLD%d a %TAN%r   %GOLD%B o %ORANGE%w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8ls]:%ORANGE%Q u %GOLD%a r %TAN%t e %GOLD%r s %ORANGE%t a %GOLD%f f%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8lw]:%ORANGE%G o %GOLD%t h %TAN%i c %GOLD%  B %ORANGE%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8lx]:%ORANGE%A r %GOLD%b a %TAN%l e %GOLD%s t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8mx]:%ORANGE%S i %GOLD%e g %TAN%e   %GOLD%C r %ORANGE%o s %GOLD%s b %TAN%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8rx]:%ORANGE%C h %GOLD%u - %TAN%K o %GOLD%- N %ORANGE%u%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8s8]:%ORANGE%S h %GOLD%o r %TAN%t   %GOLD%S i %ORANGE%e g %GOLD%e   %TAN%B o %GOLD%w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8sb]:%ORANGE%E d %GOLD%g e %TAN%  B %GOLD%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8ss]:%ORANGE%J o %GOLD%  S %TAN%t a %GOLD%f f%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8sw]:%ORANGE%R u %GOLD%n e %TAN%  B %GOLD%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 8ws]:%ORANGE%R u %GOLD%n e %TAN%  S %GOLD%t a %ORANGE%f f%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 92a]:%ORANGE%T w %GOLD%i n %TAN%  A %GOLD%x e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 92h]:%ORANGE%E s %GOLD%p a %TAN%n d %GOLD%o n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9ar]:%ORANGE%Q u %GOLD%h a %TAN%b%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9ax]:%ORANGE%C l %GOLD%e a %TAN%v e %GOLD%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9b7]:%ORANGE%L o %GOLD%c h %TAN%a b %GOLD%e r %ORANGE%  A %GOLD%x e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9b8]:%ORANGE%H u %GOLD%r l %TAN%b a %GOLD%t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9b9]:%ORANGE%G o %GOLD%t h %TAN%i c %GOLD%  S %ORANGE%w o %GOLD%r d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9ba]:%ORANGE%B e %GOLD%a r %TAN%d e %GOLD%d   %ORANGE%A x %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9bk]:%ORANGE%W a %GOLD%r   %TAN%D a %GOLD%r t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9bl]:%ORANGE%S t %GOLD%i l %TAN%e t %GOLD%t o%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9br]:%ORANGE%W a %GOLD%r   %TAN%F o %GOLD%r k%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9bs]:%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  S %ORANGE%w o %GOLD%r d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9bt]:%ORANGE%T a %GOLD%b a %TAN%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9bw]:%ORANGE%T o %GOLD%m b %TAN%  W %GOLD%a n %ORANGE%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9cl]:%ORANGE%C u %GOLD%d g %TAN%e l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9cm]:%ORANGE%D a %GOLD%c i %TAN%a n %GOLD%  F %ORANGE%a l %GOLD%x%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9cr]:%ORANGE%D i %GOLD%m e %TAN%n s %GOLD%i o %ORANGE%n a %GOLD%l   %TAN%B l %GOLD%a d %GRAY%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9cs]:%ORANGE%H a %GOLD%n d %TAN% S %GOLD%c y %ORANGE%t h %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9dg]:%ORANGE%P o %GOLD%i g %TAN%n a %GOLD%r d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9di]:%ORANGE%R o %GOLD%n d %TAN%e l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9fb]:%ORANGE%Z w %GOLD%e i %TAN%h a %GOLD%n d %ORANGE%e r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9fc]:%ORANGE%T u %GOLD%l w %TAN%a r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9fl]:%ORANGE%K n %GOLD%o u %TAN%t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9ga]:%ORANGE%G o %GOLD%t h %TAN%i c %GOLD%  A %ORANGE%x e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9gd]:%ORANGE%E x %GOLD%e c %TAN%u t %GOLD%i o %ORANGE%n e %GOLD%r   %TAN%S w %GOLD%o r %GRAY%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9gi]:%ORANGE%A n %GOLD%c i %TAN%e n %GOLD%t   %ORANGE%A x %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9gl]:%ORANGE%S p %GOLD%i c %TAN%u l %GOLD%u m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9gm]:%ORANGE%M a %GOLD%r t %TAN%e l %GOLD%  d %ORANGE%e   %GOLD%F e %TAN%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9gs]:%ORANGE%T u %GOLD%s k %TAN%  S %GOLD%w o %ORANGE%r d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9gw]:%ORANGE%G r %GOLD%a v %TAN%e   %GOLD%W a %ORANGE%n d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9h9]:%ORANGE%B e %GOLD%c - %TAN%d e %GOLD%- C %ORANGE%o r %GOLD%b i %TAN%n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9ha]:%ORANGE%H a %GOLD%t c %TAN%h e %GOLD%t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9ja]:%ORANGE%W a %GOLD%r   %TAN%J a %GOLD%v e %ORANGE%l i %GOLD%n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9kr]:%ORANGE%C i %GOLD%n q %TAN%u e %GOLD%d e %ORANGE%a s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9la]:%ORANGE%M i %GOLD%l i %TAN%ta %GOLD%r y %ORANGE%  A %GOLD%x e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9ls]:%ORANGE%R u %GOLD%n e %TAN%  S %GOLD%w o %ORANGE%r d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9lw]:%ORANGE%G r %GOLD%e a %TAN%t e %GOLD%r  %ORANGE%C l %GOLD%a w %TAN%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9m9]:%ORANGE%W a %GOLD%r   %TAN%C l %GOLD%ub%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9ma]:%ORANGE%F l %GOLD%a n %TAN%g e %GOLD%d   %ORANGE%M a %GOLD%c e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9mp]:%ORANGE%C r %GOLD%o w %TAN%b i %GOLD%l l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9mt]:%ORANGE%J a %GOLD%g g %TAN%e d %GOLD%  S %ORANGE%t a %GOLD%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9p9]:%ORANGE%L a %GOLD%n c %TAN%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9pa]:%ORANGE%P a %GOLD%r t %TAN%i z %GOLD%a n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9pi]:%ORANGE%G r %GOLD%e a %TAN%t   %GOLD%P i %ORANGE%l u %GOLD%m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9qr]:%ORANGE%S c %GOLD%i s %TAN%s o %GOLD%rs %ORANGE% Q %GOLD%u h %TAN%a b%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9qs]:%ORANGE%H o %GOLD%l y %TAN%  W %GOLD%a t %ORANGE%e r %GOLD%  S %TAN%p r %GOLD%i n %GRAY%k l %ORANGE%e r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9s8]:%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  S %ORANGE%c y %GOLD%t h %TAN%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9s9]:%ORANGE%S i %GOLD%m b %TAN%i l %GOLD%a n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9sb]:%ORANGE%S h %GOLD%a m %TAN%s h %GOLD%i r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9sc]:%ORANGE%R u %GOLD%n e %TAN%  S %GOLD%c e %ORANGE%p t %GOLD%e r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9sm]:%ORANGE%C u %GOLD%t l %TAN%a s %GOLD%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9sp]:%ORANGE%B a %GOLD%r b %TAN%e d %GOLD%  C %ORANGE%l u %GOLD%b%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9sr]:%ORANGE%W a %GOLD%r   %TAN%S p %GOLD%e a %ORANGE%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9ss]:%ORANGE%G l %GOLD%a d %TAN%i u %GOLD%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9st]:%ORANGE%Y a %GOLD%r i%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9ta]:%ORANGE%F r %GOLD%a n %TAN%c i %GOLD%s c %ORANGE%a%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9tk]:%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  D %ORANGE%a r %GOLD%t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9tr]:%ORANGE%F u %GOLD%s c %TAN%i n %GOLD%a%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9ts]:%ORANGE%H a %GOLD%r p %TAN%o o %GOLD%n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9tw]:%ORANGE%G r %GOLD%e a %TAN%t e %GOLD%r   %ORANGE%T a %GOLD%l o %TAN%n s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9vo]:%ORANGE%B i %GOLD%l l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9wa]:%ORANGE%N a %GOLD%g a%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9wb]:%ORANGE%W r %GOLD%i s %TAN%t   %GOLD%S p %ORANGE%i k %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9wc]:%ORANGE%G r %GOLD%i m %TAN%  S %GOLD%c y %ORANGE%t h %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9wd]:%ORANGE%A n %GOLD%c i %TAN%e n %GOLD%t   %ORANGE%S w %GOLD%o r %TAN%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9wh]:%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  H %ORANGE%a m %GOLD%m e %TAN%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9wn]:%ORANGE%B u %GOLD%r n %TAN%t   %GOLD%W a %ORANGE%n d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9ws]:%ORANGE%D i %GOLD%v i %TAN%n e %GOLD%  S %ORANGE%c e %GOLD%p t %TAN%e r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9xf]:%ORANGE%F a %GOLD%s c %TAN%ia%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) 9yw]:%ORANGE%P e %GOLD%t r %TAN%i f %GOLD%i e %ORANGE%d   %GOLD%W a %TAN%n d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) aar]:%ORANGE%A n %GOLD%c i %TAN%e n %GOLD%t   %ORANGE%A r %GOLD%m o %TAN%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) am1]:%ORANGE%S t %GOLD%a g %TAN%  B %GOLD%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) am2]:%ORANGE%R e %GOLD%f l %TAN%e x %GOLD%  B %ORANGE%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) am3]:%ORANGE%M a %GOLD%i d %TAN%e n %GOLD%  S %ORANGE%p e %GOLD%a r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) am4]:%ORANGE%M a %GOLD%i d %TAN%e n %GOLD%  P %ORANGE%i k %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) am5]:%ORANGE%M a %GOLD%i d %TAN%e n %GOLD%  J %ORANGE%a v %GOLD%e l %TAN%i n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) am6]:%ORANGE%A s %GOLD%h w %TAN%o o %GOLD%d   %ORANGE%B o %GOLD%w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) am7]:%ORANGE%C e %GOLD%r e %TAN%m o %GOLD%n i %ORANGE%a l %GOLD%  B %TAN%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) am8]:%ORANGE%C e %GOLD%r e %TAN%m o %GOLD%n i %ORANGE%a l %GOLD%  S %TAN%p e %GOLD%a r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) am9]:%ORANGE%C e %GOLD%r e %TAN%m o %GOLD%n i %ORANGE%a l %GOLD%  P %TAN%i k %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ama]:%ORANGE%C e %GOLD%r e %TAN%m o %GOLD%n i %ORANGE%a l %GOLD%  J %TAN%a v %GOLD%e l %GRAY%i n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) amb]:%ORANGE%M a %GOLD%t r %TAN%i a %GOLD%r c %ORANGE%h a %GOLD%l   %TAN%B o %GOLD%w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) amc]:%ORANGE%G r %GOLD%a n %TAN%d   %GOLD%M a %ORANGE%t r %GOLD%o n %TAN%  B %GOLD%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) amd]:%ORANGE%M a %GOLD%t r %TAN%i a %GOLD%r c %ORANGE%h a %GOLD%l   %TAN%S p %GOLD%e a %GRAY%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ame]:%ORANGE%M a %GOLD%t r %TAN%i a %GOLD%r c %ORANGE%h a %GOLD%l   %TAN%P i %GOLD%k e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) amf]:%ORANGE%M a %GOLD%t r %TAN%i a %GOLD%r c %ORANGE%h a %GOLD%l   %TAN%J a %GOLD%v e %GRAY%l i n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) axe]:%ORANGE%A x %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) axf]:%ORANGE%H a %GOLD%t c %TAN%h e %GOLD%t   %ORANGE%H a %GOLD%n d %TAN%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ba1]:%ORANGE%J a %GOLD%w b %TAN%o n %GOLD%e   %ORANGE%C a %GOLD%p%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ba2]:%ORANGE%F a %GOLD%n g %TAN%e d %GOLD%  H %ORANGE%e l %GOLD%m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ba3]:%ORANGE%H o %GOLD%r n %TAN%e d %GOLD%  H %ORANGE%e l %GOLD%m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ba4]:%ORANGE%A s %GOLD%s a %TAN%u l %GOLD%t   %ORANGE%H e %GOLD%l m %TAN%e t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ba5]:%ORANGE%A v %GOLD%e n %TAN%g e %GOLD%r   %ORANGE%G u %GOLD%a r %TAN%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ba6]:%ORANGE%J a %GOLD%w b %TAN%o n %GOLD%e   %ORANGE%V i %GOLD%s o %TAN%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ba7]:%ORANGE%L i %GOLD%o n %TAN%  H %GOLD%e l %ORANGE%m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ba8]:%ORANGE%R a %GOLD%g e %TAN%  M %GOLD%a s %ORANGE%k%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ba9]:%ORANGE%S a %GOLD%v a %TAN%g e %GOLD%  H %ORANGE%e l %GOLD%m e %TAN%t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) baa]:%ORANGE%S l %GOLD%a y %TAN%e r %GOLD%  G %ORANGE%u a %GOLD%r d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) bab]:%ORANGE%C a %GOLD%r n %TAN%a g %GOLD%e   %ORANGE%H e %GOLD%l m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) bac]:%ORANGE%F u %GOLD%r y %TAN%  V %GOLD%i s %ORANGE%o r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) bad]:%ORANGE%D e %GOLD%s t %TAN%r o %GOLD%y e %ORANGE%r  %GOLD%H e %TAN%l m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) bae]:%ORANGE%C o %GOLD%n %TAN%u e %GOLD%r o %ORANGE%r   %GOLD%C r %TAN%o w %GOLD%n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) baf]:%ORANGE%G u %GOLD%a r %TAN%d i %GOLD%an %ORANGE% C %GOLD%r o %TAN%w n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) bal]:%ORANGE%B a %GOLD%l a %TAN%n c %GOLD%e d %ORANGE%  A %GOLD%x e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) bar]:%ORANGE%B a %GOLD%r d %TAN%i c %GOLD%h e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) bax]:%ORANGE%B r %GOLD%o a %TAN%d   %GOLD%A x %ORANGE%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) bhm]:%ORANGE%B o %GOLD%n e %TAN%  H %GOLD%e l %ORANGE%m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) bkf]:%ORANGE%B a %GOLD%l a %TAN%n c %GOLD%e d %ORANGE%  K %GOLD%n i %TAN%f e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) bld]:%ORANGE%B l %GOLD%a d %TAN%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) brn]:%ORANGE%B r %GOLD%a n %TAN%d i %GOLD%s t %ORANGE%o c %GOLD%k%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) brs]:%ORANGE%B r %GOLD%e a %TAN%s t %GOLD%  P %ORANGE%l a %GOLD%t e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) bsd]:%ORANGE%B r %GOLD%o a %TAN%d  %GOLD%S w %ORANGE%o r %GOLD%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) bsh]:%ORANGE%B o %GOLD%n e %TAN%  S %GOLD%h i %ORANGE%e l %GOLD%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) bst]:%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  S %ORANGE%t a %GOLD%f f%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) bsw]:%ORANGE%B a %GOLD%s t %TAN%a r %GOLD%d   %ORANGE%S w %GOLD%o r %TAN%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) btl]:%ORANGE%B l %GOLD%a d %TAN%e   %GOLD%T a %ORANGE%l o %GOLD%n s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) btx]:%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  A %ORANGE%x e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) buc]:%ORANGE%B u %GOLD%c k %TAN%l e %GOLD%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) bwn]:%ORANGE%B o %GOLD%n e %TAN%  W %GOLD%a n %ORANGE%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) cap]:%ORANGE%C a %GOLD%p%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) cbw]:%ORANGE%C o %GOLD%m p %TAN%os %GOLD%it %ORANGE%e   %GOLD%B o %TAN%w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ces]:%ORANGE%C e %GOLD%s t %TAN%u s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) chn]:%ORANGE%C h %GOLD%a i %TAN%n   %GOLD%M a %ORANGE%i l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ci0]:%ORANGE%C i %GOLD%r c %TAN%l e %GOLD%t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ci1]:%ORANGE%C o %GOLD%r o %TAN%n e %GOLD%t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ci2]:%ORANGE%T i %GOLD%a r %TAN%a%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ci3]:%ORANGE%D i %GOLD%a d %TAN%e m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) clb]:%ORANGE%C l %GOLD%u b%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) clm]:%ORANGE%C l %GOLD%a y %TAN%mo %GOLD%re%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) clw]:%ORANGE%C l %GOLD%a w %TAN%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) crn]:%ORANGE%C r %GOLD%o w %TAN%n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) crs]:%ORANGE%C r %GOLD%y s %TAN%t a %GOLD%l   %ORANGE%S w %GOLD%o r %TAN%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) cst]:%ORANGE%G n %GOLD%a r %TAN%l e %GOLD%d   %ORANGE%S t %GOLD%a f %TAN%f%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) dgr]:%ORANGE%D a %GOLD%g g %TAN%e r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) dir]:%ORANGE%D i %GOLD%r k%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) dr1]:%ORANGE%W o %GOLD%l f %TAN%  H %GOLD%e a %ORANGE%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) dr2]:%ORANGE%H a %GOLD%w k %TAN%  H %GOLD%e l %ORANGE%m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) dr3]:%ORANGE%A n %GOLD%t l %TAN%e r %GOLD%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) dr4]:%ORANGE%F a %GOLD%l c %TAN%o n %GOLD%  M %ORANGE%a s %GOLD%k%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) dr5]:%ORANGE%S p %GOLD%i r %TAN%i t %GOLD%  M %ORANGE%a s %GOLD%k%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) dr6]:%ORANGE%A l %GOLD%p h %TAN%a   %GOLD%H e %ORANGE%l m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) dr7]:%ORANGE%G r %GOLD%i f %TAN%fo %GOLD%n   %ORANGE%H e %GOLD%a d %TAN%r e %GOLD%s s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) dr8]:%ORANGE%H u %GOLD%n t %TAN%e r %GOLD%'s %ORANGE% G %GOLD%u i %TAN%s e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) dr9]:%ORANGE%S a %GOLD%c r %TAN%e d %GOLD%  F %ORANGE%e a %GOLD%t h %TAN%e r %GOLD%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) dra]:%ORANGE%T o %GOLD%t e %TAN%m i %GOLD%c   %ORANGE%M a %GOLD%s k%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) drb]:%ORANGE%B l %GOLD%o o %TAN%d   %GOLD%S p %ORANGE%i r %GOLD%i t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) drc]:%ORANGE%S u %GOLD%n   %TAN%S p %GOLD%i r %ORANGE%i t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) drd]:%ORANGE%E a %GOLD%r t %TAN%h   %GOLD%S p %ORANGE%i r %GOLD%i t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) dre]:%ORANGE%S k %GOLD%y   %TAN%S p %GOLD%i r %ORANGE%i t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) drf]:%ORANGE%D r %GOLD%e a %TAN%m   %GOLD%S p %ORANGE%i r %GOLD%i t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) fhl]:%ORANGE%F u %GOLD%l l %TAN%  H %GOLD%e l %ORANGE%m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) fla]:%ORANGE%F l %GOLD%a i %TAN%l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) flb]:%ORANGE%F l %GOLD%a m %TAN%b e %GOLD%r g %ORANGE%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) flc]:%ORANGE%F a %GOLD%l c %TAN%h i %GOLD%on%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) fld]:%ORANGE%F i %GOLD%e l %TAN%d   %GOLD%P l %ORANGE%a t %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ful]:%ORANGE%F u %GOLD%l l %TAN%  P %GOLD%l a %ORANGE%t e %GOLD%  M %TAN%a i %GOLD%l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) gax]:%ORANGE%G r %GOLD%e a %TAN%t   %GOLD%Ax %ORANGE%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ghm]:%ORANGE%G r %GOLD%e a %TAN%t   %GOLD%H e %ORANGE%l m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) gis]:%ORANGE%G i %GOLD%a n %TAN%t  %GOLD%S w %ORANGE%o r %GOLD%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) gix]:%ORANGE%G i %GOLD%a n %TAN%t   %GOLD%A x %ORANGE%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) glv]:%ORANGE%G l %GOLD%a i %TAN%v e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) gma]:%ORANGE%G r %GOLD%e a %TAN%t   %GOLD%M a %ORANGE%u l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) gsc]:%ORANGE%G r %GOLD%a n %TAN%d   %GOLD%Sc %ORANGE%e p %GOLD%t e %TAN%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) gsd]:%ORANGE%G r %GOLD%e a %TAN%t   %GOLD%S w %ORANGE%o r %GOLD%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) gth]:%ORANGE%G o %GOLD%t h %TAN%i c %GOLD%  P %ORANGE%l a %GOLD%t e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) gts]:%ORANGE%G o %GOLD%t h %TAN%i c %GOLD%  S %ORANGE%h i %GOLD%e l %TAN%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) gwn]:%ORANGE%G r %GOLD%i m %TAN%  W %GOLD%a n %ORANGE%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) hal]:%ORANGE%H a %GOLD%l b %TAN%e r %GOLD%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) hax]:%ORANGE%H a %GOLD%n d %TAN%  A %GOLD%x e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) hbl]:%ORANGE%P l %GOLD%a t %TAN%e d %GOLD%  B %ORANGE%e l %GOLD%t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) hbt]:%ORANGE%G r %GOLD%e a %TAN%v e %GOLD%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) hbw]:%ORANGE%H u %GOLD%n t %TAN%e r %GOLD%' s %ORANGE%  B %GOLD%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) hgl]:%ORANGE%G a %GOLD%u n %TAN%t l %GOLD%e t %ORANGE%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) hla]:%ORANGE%H a %GOLD%r d %TAN%  L %GOLD%e a %ORANGE%t h %GOLD%e r %TAN%  A %GOLD%r m %GRAY%o r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) hlm]:%ORANGE%H e %GOLD%l m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) hxb]:%ORANGE%H e %GOLD%a v %TAN%y   %GOLD%C r %ORANGE%o s %GOLD%s b %TAN%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) jav]:%ORANGE%J a %GOLD%v e %TAN%l i %GOLD%n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) kit]:%ORANGE%K i %GOLD%t e %TAN%  S %GOLD%h i %ORANGE%e l %GOLD%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) kri]:%ORANGE%K r %GOLD%i s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ktr]:%ORANGE%K a %GOLD%t a %TAN%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) lax]:%ORANGE%L a %GOLD%r g %TAN%e   %GOLD%A x %ORANGE%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) lbb]:%ORANGE%L o %GOLD%n g %TAN%  B %GOLD%a t %ORANGE%t l %GOLD%e   %TAN%B o %GOLD%w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) lbl]:%ORANGE%S a %GOLD%s h%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) lbt]:%ORANGE%B o %GOLD%o t %TAN%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) lbw]:%ORANGE%L o %GOLD%n g %TAN%  B %GOLD%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) lea]:%ORANGE%L e %GOLD%a t %TAN%h e %GOLD%r   %ORANGE%A r %GOLD%m o %TAN%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) lgl]:%ORANGE%L e %GOLD%a t %TAN%h e %GOLD%r   %ORANGE%G l %GOLD%o v %TAN%e s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) lrg]:%ORANGE%L a %GOLD%r g %TAN%e   %GOLD%S h %ORANGE%i e %GOLD%l d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) lsd]:%ORANGE%L o %GOLD%n g %TAN%  S %GOLD%w o %ORANGE%r d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) lst]:%ORANGE%L o %GOLD%n g %TAN%  S %GOLD%t a %ORANGE%f f%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ltp]:%ORANGE%L i %GOLD%g h %TAN%t   %GOLD%P l %ORANGE%a t %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) lwb]:%ORANGE%L o %GOLD%n g %TAN%  W %GOLD%a r %ORANGE%  B %GOLD%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) lxb]:%ORANGE%L i %GOLD%g h %TAN%t   %GOLD%C r %ORANGE%o s %GOLD%s b %TAN%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) mac]:%ORANGE%M a %GOLD%c e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) mau]:%ORANGE%M a %GOLD%u l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) mbl]:%ORANGE%B e %GOLD%l t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) mbt]:%ORANGE%C h %GOLD%a i %TAN%n   %GOLD%B o %ORANGE%o t %GOLD%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) mgl]:%ORANGE%C h %GOLD%a i %TAN%n  %GOLD%G l %ORANGE%o v %GOLD%e s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) mpi]:%ORANGE%M i %GOLD%l i %TAN%t a %GOLD%ry %ORANGE%  P %GOLD%i c %TAN%k%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) msk]:%ORANGE%M a %GOLD%s k%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) mst]:%ORANGE%M o %GOLD%r n %TAN%in %GOLD%g   %ORANGE%S t %GOLD%a r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) mxb]:%ORANGE%C r %GOLD%o s %TAN%s b %GOLD%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ne1]:%ORANGE%P r %GOLD%e s %TAN%e r %GOLD%v e %ORANGE%d   %GOLD%H e %TAN%a d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ne2]:%ORANGE%Z o %GOLD%m b %TAN%ie %GOLD%  H %ORANGE%e a %GOLD%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ne3]:%ORANGE%U n %GOLD%r a %TAN%v e %GOLD%l l %ORANGE%e r %GOLD%  H %TAN%e a %GOLD%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ne4]:%ORANGE%G a %GOLD%r g %TAN%o y %GOLD%l e %ORANGE%  H %GOLD%e a %TAN%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ne5]:%ORANGE%D e %GOLD%m o %TAN%n   %GOLD%H e %ORANGE%a d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ne6]:%ORANGE%M u %GOLD%m m %TAN%i f %GOLD%i e %ORANGE%d   %GOLD%T r %TAN%o p %GOLD%h y%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ne7]:%ORANGE%F e %GOLD%t i %TAN%s h %GOLD%  T %ORANGE%r o %GOLD%p h %TAN%y%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ne8]:%ORANGE%S e %GOLD%x t %TAN%o n %GOLD%  T %ORANGE%r o %GOLD%p h %TAN%y%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ne9]:%ORANGE%C a %GOLD%n t %TAN%o r %GOLD%  T %ORANGE%r o %GOLD%p h %TAN%y%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) nea]:%ORANGE%H i %GOLD%e r %TAN%o p %GOLD%h a %ORANGE%n t %GOLD%  T %TAN%r o %GOLD%p h %GRAY%y%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) neb]:%ORANGE%M i %GOLD%n i %TAN%o n %GOLD%  S %ORANGE%k u %GOLD%l l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ned]:%ORANGE%O v %GOLD%e r %TAN%s e %GOLD%e r %ORANGE% S %GOLD%k u %TAN%l l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) nee]:%ORANGE%S u %GOLD%c c %TAN%u b %GOLD%u s %ORANGE%  S %GOLD%k u %TAN%l l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) nef]:%ORANGE%B l %GOLD%o o %TAN%d l %GOLD%o r %ORANGE%d   %GOLD%S k %TAN%u l %GOLD%l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) neg]:%ORANGE%H e %GOLD%l l %TAN%s p %GOLD%a w %ORANGE%n   %GOLD%S k %TAN%u l %GOLD%l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ob1]:%ORANGE%E a %GOLD%g l %TAN%e   %GOLD%O r %ORANGE%b%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ob2]:%ORANGE%S a %GOLD%c r %TAN%e d %GOLD%  G %ORANGE%l o %GOLD%b e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ob3]:%ORANGE%S m %GOLD%o k %TAN%e d %GOLD%  S %ORANGE%p h %GOLD%e r %TAN%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ob4]:%ORANGE%C l %GOLD%a s %TAN%p e %GOLD%d   %ORANGE%O r %GOLD%b%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ob5]:%ORANGE%J a %GOLD%r e %TAN%d' %GOLD%s  %ORANGE%S t %GOLD%o n %TAN%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ob6]:%ORANGE%G l %GOLD%o w %TAN%i n %GOLD%g   %ORANGE%O r %GOLD%b%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ob7]:%ORANGE%C r %GOLD%y s %TAN%t a %GOLD%l l %ORANGE%i n %GOLD%e   %TAN%G l %GOLD%o b %GRAY%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ob8]:%ORANGE%C l %GOLD%o u %TAN%d y %GOLD%  S %ORANGE%p h %GOLD%e r %TAN%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ob9]:%ORANGE%S p %GOLD%a r %TAN%k l %GOLD%i n %ORANGE%g  %GOLD%B a %TAN%l l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) oba]:%ORANGE%S w %GOLD%i r %TAN%l i %GOLD%n g %ORANGE%  C %GOLD%r y %TAN%s t %GOLD%a l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) obb]:%ORANGE%H e %GOLD%a v %TAN%e n %GOLD%ly %ORANGE% S %GOLD%t o %TAN%n e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) obc]:%ORANGE%E l %GOLD%d r %TAN%i t %GOLD%c h %ORANGE%  O %GOLD%r b%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) obd]:%ORANGE%D e %GOLD%m o %TAN%n   %GOLD%H e %ORANGE%a r %GOLD%t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) obe]:%ORANGE%V o %GOLD%r t %TAN%e x %GOLD%  O %ORANGE%r b%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) obf]:%ORANGE%D i %GOLD%m e %TAN%n s %GOLD%i o %ORANGE%n a %GOLD%l   %TAN%S h %GOLD%a r %GRAY%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) pa1]:%ORANGE%T a %GOLD%r g %TAN%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) pa2]:%ORANGE%R o %GOLD%n d %TAN%ac %GOLD%he%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) pa3]:%ORANGE%H e %GOLD%r a %TAN%l d %GOLD%i c %ORANGE%  S %GOLD%h i %TAN%e l %GOLD%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) pa4]:%ORANGE%A e %GOLD%r i %TAN%n   %GOLD%S h %ORANGE%i e %GOLD%l d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) pa5]:%ORANGE%C r %GOLD%o w %TAN%n   %GOLD%S h %ORANGE%i e %GOLD%l d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) pa6]:%ORANGE%A k %GOLD%a r %TAN%a n %GOLD%  T %ORANGE%a r %GOLD%g e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) pa7]:%ORANGE%A k %GOLD%a r %TAN%a n %GOLD%  R %ORANGE%o n %GOLD%d a %TAN%c h %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) pa8]:%ORANGE%P r %GOLD%o t %TAN%e c %GOLD%t o %ORANGE%r   %GOLD%S h %TAN%i e %GOLD%l d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) pa9]:%ORANGE%G i %GOLD%l d %TAN%e d %GOLD%  S %ORANGE%h i %GOLD%e l %TAN%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) paa]:%ORANGE%R o %GOLD%y a %TAN%l   %GOLD%S h %ORANGE%i e %GOLD%l d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) pab]:%ORANGE%S a %GOLD%c r %TAN%e d %GOLD%  T %ORANGE%a r %GOLD%g e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) pac]:%ORANGE%S a %GOLD%c r %TAN%e d %GOLD%  R %ORANGE%o n %GOLD%d a %TAN%c h %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) pad]:%ORANGE%K u %GOLD%r a %TAN%s t %GOLD%  S %ORANGE%h i %GOLD%e l %TAN%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) pae]:%ORANGE%Z a %GOLD%k a %TAN%ru %GOLD%m  %ORANGE%Sh %GOLD%i e %TAN%l d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) paf]:%ORANGE%V o %GOLD%r t %TAN%ex %GOLD% S %ORANGE%h i %GOLD%e l %TAN%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) pax]:%ORANGE%P o %GOLD%l e %TAN%a x %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) pik]:%ORANGE%P i %GOLD%k e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) pil]:%ORANGE%P i %GOLD%l u %TAN%m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) plt]:%ORANGE%P l %GOLD%a t %TAN%e   %GOLD%M a %ORANGE%i l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) qui]:%ORANGE%Q u %GOLD%i l %TAN%t e %GOLD%d  %ORANGE%A r %GOLD%m o %TAN%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) rng]:%ORANGE%R i %GOLD%n g %TAN% M %GOLD%ai %ORANGE%l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) rxb]:%ORANGE%R e %GOLD%p e %TAN%a t %GOLD%i n %ORANGE%g   %GOLD%C r %TAN%o s %GOLD%s b %GRAY%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) sbb]:%ORANGE%S h %GOLD%o r %TAN%t   %GOLD%B a %ORANGE%t t %GOLD%l e %TAN%  B %GOLD%o w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) sbr]:%ORANGE%S a %GOLD%b r %TAN%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) sbw]:%ORANGE%S h %GOLD%o r %TAN%t   %GOLD%B o %ORANGE%w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) scl]:%ORANGE%S c %GOLD%a l %TAN%e   %GOLD%M a %ORANGE%i l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) scm]:%ORANGE%S c %GOLD%i m %TAN%i t %GOLD%a r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) scp]:%ORANGE%S c %GOLD%e p %TAN%t e %GOLD%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) scy]:%ORANGE%S c %GOLD%y t %TAN%h e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) skp]:%ORANGE%S k %GOLD%u l %TAN%l   %GOLD%C a %ORANGE%p%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) skr]:%ORANGE%S c %GOLD%i s %TAN%s o %GOLD%r s %ORANGE%  K %GOLD%a t %TAN%a r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) sml]:%ORANGE%S m %GOLD%a l %TAN%l   %GOLD%S h %ORANGE%i e %GOLD%l d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) spc]:%ORANGE%S p %GOLD%i k %TAN%e d %GOLD%  C %ORANGE%l u %GOLD%b%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) spk]:%ORANGE%S p %GOLD%i k %TAN%e d %GOLD%  S %ORANGE%h i %GOLD%e l %TAN%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) spl]:%ORANGE%S p %GOLD%l i %TAN%n t %GOLD%  M %ORANGE%a i %GOLD%l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) spr]:%ORANGE%S p %GOLD%e a %TAN%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) spt]:%ORANGE%S p %GOLD%e t %TAN%u m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ssd]:%ORANGE%S h %GOLD%o r %TAN%t   %GOLD%S w %ORANGE%o r %GOLD%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ssp]:%ORANGE%S h %GOLD%o r %TAN%t   %GOLD%S p %ORANGE%e a %GOLD%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) sst]:%ORANGE%S h %GOLD%o r %TAN%t   %GOLD%S t %ORANGE%a f %GOLD%f%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) stu]:%ORANGE%S t %GOLD%u d %TAN%d e %GOLD%d   %ORANGE%L e %GOLD%a t %TAN%h e %GOLD%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) swb]:%ORANGE%S h %GOLD%o r %TAN%t   %GOLD%W a %ORANGE%r   %GOLD%B o %TAN%w%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) tax]:%ORANGE%T h %GOLD%r o %TAN%w i %GOLD%n g %ORANGE%  A %GOLD%x e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) tbl]:%ORANGE%H e %GOLD%a v %TAN%y   %GOLD%B e %ORANGE%l t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) tbt]:%ORANGE%L i %GOLD%g h %TAN%t   %GOLD%P l %ORANGE%a t %GOLD%e d %TAN%  B %GOLD%o o %GRAY%t s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) tgl]:%ORANGE%L i %GOLD%g h %TAN%t   %GOLD%G a %ORANGE%u n %GOLD%t l %TAN%e t %GOLD%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) tkf]:%ORANGE%T h %GOLD%r o %TAN%w i %GOLD%n g %ORANGE%  K %GOLD%n i %TAN%f e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) tow]:%ORANGE%T o %GOLD%w e %TAN%r   %GOLD%S h %ORANGE%i e %GOLD%l d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) tri]:%ORANGE%T r %GOLD%i d %TAN%e n %GOLD%t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) tsp]:%ORANGE%T h %GOLD%r o %TAN%w i %GOLD%n g %ORANGE%  S %GOLD%p e %TAN%a r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uap]:%ORANGE%S h %GOLD%a k %TAN%o%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uar]:%ORANGE%S a %GOLD%c r %TAN%e d %GOLD%  A %ORANGE%r m %GOLD%o r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ucl]:%ORANGE%L o %GOLD%r i %TAN%c a %GOLD%t e %ORANGE%d   %GOLD%M a %TAN%i l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uea]:%ORANGE%W y %GOLD%r m %TAN%h i %GOLD%d e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uh9]:%ORANGE%B o %GOLD%n e %TAN%  V %GOLD%i s %ORANGE%a g %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uhb]:%ORANGE%M y %GOLD%r m %TAN%i d %GOLD%o n %ORANGE%  G %GOLD%r e %TAN%a v %GOLD%e s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uhc]:%ORANGE%C o %GOLD%l o %TAN%s s %GOLD%u s %ORANGE%  G %GOLD%i r %TAN%d l %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uhg]:%ORANGE%O g %GOLD%r e %TAN%  G %GOLD%a u %ORANGE%nt %GOLD%l e %TAN%t s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uhl]:%ORANGE%G i %GOLD%a n %TAN%t   %GOLD%C o %ORANGE%n c %GOLD%h%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uhm]:%ORANGE%S p %GOLD%i r %TAN%e d %GOLD%  H %ORANGE%e l %GOLD%m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uhn]:%ORANGE%B o %GOLD%n e %TAN%w e %GOLD%a v %ORANGE%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uit]:%ORANGE%M o %GOLD%n a %TAN%r c %GOLD%h%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ukp]:%ORANGE%H y %GOLD%d r %TAN%a s %GOLD%k u %ORANGE%l l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ula]:%ORANGE%S c %GOLD%a r %TAN%a b %GOLD%  H %ORANGE%u s %GOLD%k%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ulb]:%ORANGE%W y %GOLD%r m %TAN%h i %GOLD%d e %ORANGE%  B %GOLD%o o %TAN%t s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ulc]:%ORANGE%S p %GOLD%i d %TAN%e r %GOLD%w e %ORANGE%b  %GOLD%S a %TAN%s h%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uld]:%ORANGE%K r %GOLD%a k %TAN%e n %GOLD%  S %ORANGE%h e %GOLD%l l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ulg]:%ORANGE%B r %GOLD%a m %TAN%b l %GOLD%e   %ORANGE%M i %GOLD%t t %TAN%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ulm]:%ORANGE%A r %GOLD%m e %TAN%t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ult]:%ORANGE%H e %GOLD%l l %TAN%f o %GOLD%r g %ORANGE%e   %GOLD%P l %TAN%a t %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) umb]:%ORANGE%B o %GOLD%n e %TAN%w e %GOLD%a v %ORANGE%e   %GOLD%B o %TAN%o t %GOLD%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) umc]:%ORANGE%M i %GOLD%t h %TAN%r i %GOLD%l   %ORANGE%C o %GOLD%i l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) umg]:%ORANGE%V a %GOLD%m b %TAN%r a %GOLD%c e %ORANGE%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uml]:%ORANGE%L u %GOLD%n a%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ung]:%ORANGE%D i %GOLD%a m %TAN%o n %GOLD%d   %ORANGE%M a %GOLD%i l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uow]:%ORANGE%A e %GOLD%g i %TAN%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) upk]:%ORANGE%B l %GOLD%a d %TAN%e   %GOLD%B a %ORANGE%r r %GOLD%i e %TAN%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) upl]:%ORANGE%B a %GOLD%l r %TAN%o g %GOLD%  S %ORANGE%k i %GOLD%n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) urg]:%ORANGE%H y %GOLD%p e %TAN%r i %GOLD%o n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) urn]:%ORANGE%C o %GOLD%r o %TAN%n a%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) urs]:%ORANGE%G r %GOLD%e a %TAN%t   %GOLD%H a %ORANGE%u b %GOLD%e r %TAN%k%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ush]:%ORANGE%T r %GOLD%o l %TAN%l   %GOLD%N e %ORANGE%s t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) usk]:%ORANGE%D e %GOLD%m o %TAN%n h %GOLD%e a %ORANGE%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) utb]:%ORANGE%M i %GOLD%r r %TAN%o r %GOLD%e d %ORANGE%  B %GOLD%o o %TAN%t s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) utc]:%ORANGE%T r %GOLD%o l %TAN%l   %GOLD%B e %ORANGE%l t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) utg]:%ORANGE%C r %GOLD%u s %TAN%a d %GOLD%e r %ORANGE%  G %GOLD%a u %TAN%n t %GOLD%l e %GRAY%t s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uth]:%ORANGE%L a %GOLD%c q %TAN%u e %GOLD%r e %ORANGE%d   %GOLD%P l %TAN%a t %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) utp]:%ORANGE%A r %GOLD%c h %TAN%o n %GOLD%  P %ORANGE%l a %GOLD%t e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uts]:%ORANGE%W a %GOLD%r d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) utu]:%ORANGE%W i %GOLD%r e %TAN%  F %GOLD%l e %ORANGE%e c %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uuc]:%ORANGE%H e %GOLD%a t %TAN%e r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uui]:%ORANGE%D u %GOLD%s k %TAN%  S %GOLD%h r %ORANGE%o u %GOLD%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uul]:%ORANGE%S h %GOLD%a d %TAN%o w %GOLD%  P %ORANGE%l a %GOLD%t e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uvb]:%ORANGE%S c %GOLD%a r %TAN%a b %GOLD%s h %ORANGE%e l %GOLD%l   %TAN%B o %GOLD%o t %GRAY%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uvc]:%ORANGE%V a %GOLD%m p %TAN%i r %GOLD%e f %ORANGE%a n %GOLD%g   %TAN%B e %GOLD%l t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) uvg]:%ORANGE%V a %GOLD%m p %TAN%i r %GOLD%e b %ORANGE%o n %GOLD%e   %TAN%G l %GOLD%o v %GRAY%e s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) vbl]:%ORANGE%L i %GOLD%g h %TAN%t   %GOLD%B e %ORANGE%l t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) vbt]:%ORANGE%H e %GOLD%a v %TAN%y   %GOLD%B o %ORANGE%o t %GOLD%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) vgl]:%ORANGE%H e %GOLD%a v %TAN%y   %GOLD%G l %ORANGE%o v %GOLD%e s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) vou]:%ORANGE%V o %GOLD%u l %TAN%g e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) wax]:%ORANGE%W a %GOLD%r   %TAN%A x %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) whm]:%ORANGE%W a %GOLD%r   %TAN%H a %GOLD%m m %ORANGE%e r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) wnd]:%ORANGE%W a %GOLD%n d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) wrb]:%ORANGE%W r %GOLD%i s %TAN%t   %GOLD%B l %ORANGE%a d %GOLD%e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) wsc]:%ORANGE%W a %GOLD%r   %TAN%S c %GOLD%y t %ORANGE%h e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) wsd]:%ORANGE%W a %GOLD%r   %TAN%S w %GOLD%o r %ORANGE%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) wsp]:%ORANGE%W a %GOLD%r   %TAN%Sc %GOLD%e p %ORANGE%t e %GOLD%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) wst]:%ORANGE%W a %GOLD%r   %TAN%St %GOLD%af %ORANGE%f%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xap]:%ORANGE%W a %GOLD%r   %TAN%H a %GOLD%t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xar]:%ORANGE%O r %GOLD%n a %TAN%t e %GOLD%  P %ORANGE%l a %GOLD%t e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xcl]:%ORANGE%T i %GOLD%g u %TAN%l a %GOLD%t e %ORANGE%d   %GOLD%M a %TAN%i l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xea]:%ORANGE%S e %GOLD%r p %TAN%e n %GOLD%t s %ORANGE%k i %GOLD%n   %TAN%A r %GOLD%m o %GRAY%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xh9]:%ORANGE%G r %GOLD%i m %TAN%  H %GOLD%e l %ORANGE%m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xhb]:%ORANGE%W a %GOLD%r   %TAN%B o %GOLD%ot %ORANGE%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xhg]:%ORANGE%W a %GOLD%r   %TAN%G a %GOLD%u n %ORANGE%t l %GOLD%e t %TAN%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xhl]:%ORANGE%B a %GOLD%s i %TAN%n e %GOLD%t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xhm]:%ORANGE%W i %GOLD%n g %TAN%e d %GOLD%  H %ORANGE%e l %GOLD%m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xhn]:%ORANGE%M e %GOLD%s h %TAN%  A %GOLD%r m %ORANGE%o r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xit]:%ORANGE%D r %GOLD%a g %TAN%on %GOLD% S %ORANGE%h i %GOLD%e l %TAN%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xkp]:%ORANGE%S a %GOLD%l l %TAN%e t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xla]:%ORANGE%D e %GOLD%m o %TAN%n h %GOLD%i d %ORANGE%e   %GOLD%A r %TAN%m o %GOLD%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xlb]:%ORANGE%D e %GOLD%m o %TAN%n h %GOLD%i d %ORANGE%e   %GOLD%B o %TAN%o t %GOLD%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xld]:%ORANGE%S h %GOLD%a r %TAN%k t %GOLD%o o %ORANGE%t h %GOLD%  A %TAN%r m %GOLD%o r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xlg]:%ORANGE%D e %GOLD%m o %TAN%n h %GOLD%i d %ORANGE%e   %GOLD%G l %TAN%o v %GOLD%e s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xlm]:%ORANGE%C a %GOLD%s q %TAN%u e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xlt]:%ORANGE%T e %GOLD%m p %TAN%l a %GOLD%r   %ORANGE%C o %GOLD%a t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xmb]:%ORANGE%M e %GOLD%s h %TAN%  B %GOLD%o o %ORANGE%t s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xmg]:%ORANGE%H e %GOLD%a v %TAN%y   %GOLD%B r %ORANGE%a c %GOLD%e r %TAN%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xml]:%ORANGE%R o %GOLD%u n %TAN%d   %GOLD%S h %ORANGE%i e %GOLD%l d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xng]:%ORANGE%L i %GOLD%n k %TAN%e d %GOLD%  M %ORANGE%a i %GOLD%l%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xow]:%ORANGE%P a %GOLD%v i %TAN%s e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xpk]:%ORANGE%B a %GOLD%r b %TAN%e d %GOLD%  S %ORANGE%h i %GOLD%e l %TAN%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xpl]:%ORANGE%R u %GOLD%s s %TAN%e t %GOLD%  A %ORANGE%r m %GOLD%o r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xrg]:%ORANGE%S c %GOLD%u t %TAN%u m%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xrn]:%ORANGE%G r %GOLD%a n %TAN%d   %GOLD%C r %ORANGE%o w %GOLD%n%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xrs]:%ORANGE%C u %GOLD%i r %TAN%a s %GOLD%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xsh]:%ORANGE%G r %GOLD%i m %TAN%  S %GOLD%h i %ORANGE%e l %GOLD%d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xsk]:%ORANGE%D e %GOLD%a t %TAN%h   %GOLD%M a %ORANGE%s k%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xtb]:%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  B %ORANGE%o o %GOLD%t s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xtg]:%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  G %ORANGE%a u %GOLD%n t %TAN%l e %GOLD%t s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xth]:%ORANGE%E m %GOLD%b o %TAN%s s %GOLD%e d %ORANGE%  P %GOLD%l a %TAN%t e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xtp]:%ORANGE%M a %GOLD%g e %TAN%  P %GOLD%l a %ORANGE%t e%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xts]:%ORANGE%A n %GOLD%c i %TAN%e n %GOLD%t   %ORANGE%Sh %GOLD%i e %TAN%l d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xtu]:%ORANGE%T r %GOLD%e l %TAN%l i %GOLD%s e %ORANGE%d   %GOLD%A r %TAN%m o %GOLD%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xuc]:%ORANGE%D e %GOLD%f e %TAN%n d %GOLD%e r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xui]:%ORANGE%G h %GOLD%o s %TAN%t   %GOLD%A r %ORANGE%m o %GOLD%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xul]:%ORANGE%C h %GOLD%a o %TAN%s   %GOLD%A r %ORANGE%m o %GOLD%r%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xvb]:%ORANGE%S h %GOLD%a r %TAN%k s %GOLD%k i %ORANGE%n   %GOLD%B o %TAN%o t %GOLD%s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) xvg]:%ORANGE%S h %GOLD%a r %TAN%k s %GOLD%k i %ORANGE%n   %GOLD%G l %TAN%o v %GOLD%e s%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ywn]:%ORANGE%Y e %GOLD%w   %TAN%W a %GOLD%n d%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) zhb]:%ORANGE%W a %GOLD%r   %TAN%B e %GOLD%l t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) zlb]:%ORANGE%D e %GOLD%m o %TAN%n h %GOLD%i d %ORANGE%e   %GOLD%S a %TAN%s h%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) zmb]:%ORANGE%M e %GOLD%s h %TAN%  B %GOLD%e l %ORANGE%t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) ztb]:%ORANGE%B a %GOLD%t t %TAN%l e %GOLD%  B %ORANGE%e l %GOLD%t%NL%%NAME%%CONTINUE%
+ItemDisplay[(RW) zvb]:%ORANGE%S h %GOLD%a r %TAN%k s %GOLD%k i %ORANGE%n   %GOLD%B e %TAN%l t%NL%%NAME%%CONTINUE%
 
 //ItemDisplay[(UNI OR SET OR NMAG OR MAG OR CRAFT OR RARE) ID !RW (WEAPON OR ARMOR OR rin OR Amu)]:%NAME%{%NL%%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%GOLD%--%ORANGE%--%TAN%--%WHITE%--%TAN%--%ORANGE%--%GOLD%--%NAME%}%CONTINUE%
 
