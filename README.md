@@ -31,6 +31,9 @@
     3. Standard : Rainbow colour table
     4. Starter : Rainbow colour table with magic bolt&arrow, many drops for base items
      #### Starter filter will be dropped base for weapon without Enhanced damage.
+    5. GrayWhite : Gray & White colour table
+    6. Blank : New style of naming but, obviously much hyper visual.
+     #### Blank filter now updating, please feedback to me when you find out someting.
  ----------------------------------------------------------------------------------------------------------------------
  ## PREVIEW
     
