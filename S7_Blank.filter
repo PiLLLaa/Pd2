@@ -4104,12 +4104,12 @@ ItemDisplay[(RW)]:%NAME%{%NAME%}
 ItemDisplay[MAG cm1]:%BLUE%Small %TEAL%Charm%CONTINUE%
 ItemDisplay[MAG cm2]:%BLUE%Large %LIGHT_GRAY%Charm%CONTINUE%
 ItemDisplay[MAG cm3]:%BLUE%Grand %ORANGE%Charm%CONTINUE%
-ItemDisplay[MAG jew]:%BLUE%Magic %SAGE%J e w e l%NL%%NAME%%CONTINUE%
-ItemDisplay[MAG rin]:%BLUE%Magic %CORAL%R i n g%NL%%NAME%%CONTINUE%
-ItemDisplay[MAG amu]:%BLUE%Magic %TEAL%A m u l e t%NL%%NAME%%CONTINUE%
-ItemDisplay[RARE jew]:%YELLOW%Rare %CORAL%J e w e l%NL%%NAME%%CONTINUE%
-ItemDisplay[RARE rin]:%YELLOW%Rare %TEAL%R i n g%NL%%NAME%%CONTINUE%
-ItemDisplay[RARE amu]:%YELLOW%Rare %CORAL%A m u l e t%NL%%NAME%%CONTINUE%
+ItemDisplay[MAG ID jew]:%BLUE%Magic %SAGE%J e w e l%NL%%NAME%%CONTINUE%
+ItemDisplay[MAG ID rin]:%BLUE%Magic %CORAL%R i n g%NL%%NAME%%CONTINUE%
+ItemDisplay[MAG ID amu]:%BLUE%Magic %TEAL%A m u l e t%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID jew]:%YELLOW%Rare %CORAL%J e w e l%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID rin]:%YELLOW%Rare %TEAL%R i n g%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID amu]:%YELLOW%Rare %CORAL%A m u l e t%NL%%NAME%%CONTINUE%
 ItemDisplay[SET rin !ID]:%GREEN%Set %SAGE%R i n g%NL%%NAME%%CONTINUE%
 ItemDisplay[SET amu !ID]:%GREEN%Set %SAGE%A m u l e t%NL%%NAME%%CONTINUE%
 
