@@ -125,4 +125,10 @@
      13. 5/15
       1) Blank filter fixed bugs (expression of name)
 ----------------------------------------------------------------------------------------------------------------------
-                                                                                 
+     14. 5/19
+      1) Blank filter fixed bugs (expression of name)
+      2) Warnning -> Warning (Thanks to report)
+      3) Mahimok Marking Change
+      4) Spirit Marking Change
+----------------------------------------------------------------------------------------------------------------------
+                                                                                               
