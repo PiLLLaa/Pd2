@@ -980,11 +980,11 @@ ItemDisplay[(cm1 OR cm2 OR cm3 OR jew) (MAG OR RARE) !UNI STAT332=3]:%GREEN%Pois
 ItemDisplay[(cm1 OR cm2 OR cm3 OR jew) (MAG OR RARE) !UNI STAT332=4]:%GREEN%Poison: %WHITE%4%%RED%* %NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3 OR jew) (MAG OR RARE) !UNI STAT332=5]:%GREEN%Poison: %WHITE%5%%RED%* %NAME%%CONTINUE%
 
-ItemDisplay[(cm1 OR cm2 OR cm3 OR jew) (MAG OR RARE) !UNI STAT333=1]:%ORANGE%Magic: %WHITE%1% %NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3 OR jew) (MAG OR RARE) !UNI STAT333=2]:%ORANGE%Magic: %WHITE%2% %NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3 OR jew) (MAG OR RARE) !UNI STAT333=3]:%ORANGE%Magic: %WHITE%3% %NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3 OR jew) (MAG OR RARE) !UNI STAT333=4]:%ORANGE%Magic: %WHITE%4%%RED%* %NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3 OR jew) (MAG OR RARE) !UNI STAT333=5]:%ORANGE%Magic: %WHITE%5%%RED%* %NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3 OR jew) (MAG OR RARE) !UNI STAT357=1]:%ORANGE%Magic: %WHITE%1% %NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3 OR jew) (MAG OR RARE) !UNI STAT357=2]:%ORANGE%Magic: %WHITE%2% %NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3 OR jew) (MAG OR RARE) !UNI STAT357=3]:%ORANGE%Magic: %WHITE%3% %NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3 OR jew) (MAG OR RARE) !UNI STAT357=4]:%ORANGE%Magic: %WHITE%4%%RED%* %NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3 OR jew) (MAG OR RARE) !UNI STAT357=5]:%ORANGE%Magic: %WHITE%5%%RED%* %NAME%%CONTINUE%
 
 ItemDisplay[(cm1 OR cm2 OR cm3 OR jew) (MAG OR RARE) !UNI STAT80=1]:%GREEN%%SAGE%Mf: %WHITE%1% %NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3 OR jew) (MAG OR RARE) !UNI STAT80=2]:%GREEN%%SAGE%Mf: %WHITE%2% %NAME%%CONTINUE%
