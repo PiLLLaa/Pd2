@@ -58,6 +58,9 @@ ItemDisplay[(9ws OR 7ws) !ETH MAG !ID FILTLVL>7]:
 ItemDisplay[(9ws OR 7ws) ETH MAG !ID FILTLVL>7]:
 ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7) !ETH MAG !ID FILTLVL>7]:
 
+ItemDisplay[(7mt OR 7wh) !ETH MAG !ID FILTLVL>7]:
+ItemDisplay[(7mt OR 7wh) ETH MAG !ID FILTLVL>7]:
+
 ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) cap]:C a p%CONTINUE%
 ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xap]:W a r  H a t%CONTINUE%
 ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uap]:S h a k o%CONTINUE%
@@ -6267,6 +6270,9 @@ ItemDisplay[(9ws OR 7ws) !ETH MAG !ID]:%NAME%%GRAY%[craft %TEAL%scepter]
 ItemDisplay[(9ws OR 7ws) ETH MAG !ID]: %NAME%%GRAY%[craft %TEAL%scepter]
 ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7) !ETH MAG !ID]:%NAME%%GRAY%[craft %TEAL%spear]
 ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7) ETH MAG !ID]: %NAME%%GRAY%[craft %TEAL%spear]
+
+ItemDisplay[(7mt OR 7wh) !ETH MAG !ID]:%NAME%%GRAY%[craft %TEAL%mace]
+ItemDisplay[(7mt OR 7wh) ETH MAG !ID]: %NAME%%GRAY%[craft %TEAL%mace]
 
 //OPTION
 ItemDisplay[(WEAPON OR ARMOR) NMAG STAT91=-10]:%RED%-10Q%PURPLE%* %DARK_GREEN%%NAME%%CONTINUE%
