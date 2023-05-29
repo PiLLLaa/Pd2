@@ -4107,14 +4107,14 @@ ItemDisplay[(RW)]:%NAME%{%NAME%}
 ItemDisplay[MAG cm1]:%BLUE%Small %TEAL%Charm%CONTINUE%
 ItemDisplay[MAG cm2]:%BLUE%Large %LIGHT_GRAY%Charm%CONTINUE%
 ItemDisplay[MAG cm3]:%BLUE%Grand %ORANGE%Charm%CONTINUE%
-ItemDisplay[MAG ID jew]:%BLUE%Magic %SAGE%J e w e l%NL%%NAME%%CONTINUE%
-ItemDisplay[MAG ID rin]:%BLUE%Magic %CORAL%R i n g%NL%%NAME%%CONTINUE%
-ItemDisplay[MAG ID amu]:%BLUE%Magic %TEAL%A m u l e t%NL%%NAME%%CONTINUE%
-ItemDisplay[RARE ID jew]:%YELLOW%Rare %CORAL%J e w e l%NL%%NAME%%CONTINUE%
-ItemDisplay[RARE ID rin]:%YELLOW%Rare %TEAL%R i n g%NL%%NAME%%CONTINUE%
-ItemDisplay[RARE ID amu]:%YELLOW%Rare %CORAL%A m u l e t%NL%%NAME%%CONTINUE%
-ItemDisplay[SET rin !ID]:%GREEN%Set %SAGE%R i n g%NL%%NAME%%CONTINUE%
-ItemDisplay[SET amu !ID]:%GREEN%Set %SAGE%A m u l e t%NL%%NAME%%CONTINUE%
+ItemDisplay[MAG ID jew]:%SAGE%J e w e l%NL%%NAME%%CONTINUE%
+ItemDisplay[MAG ID rin]:%CORAL%R i n g%NL%%NAME%%CONTINUE%
+ItemDisplay[MAG ID amu]:%TEAL%A m u l e t%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID jew]:%CORAL%J e w e l%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID rin]:%TEAL%R i n g%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID amu]:%CORAL%A m u l e t%NL%%NAME%%CONTINUE%
+ItemDisplay[SET rin !ID]:%SAGE%R i n g%NL%%NAME%%CONTINUE%
+ItemDisplay[SET amu !ID]:%SAGE%A m u l e t%NL%%NAME%%CONTINUE%
 
 ItemDisplay[UNI !ID cm1]:%BORDER-62% %NAME%
 ItemDisplay[UNI !ID cm2]:%BORDER-62% %NAME%
@@ -4338,7 +4338,7 @@ ItemDisplay[tsc DIFF<2]:%WHITE%Tp%TEAL%+
 ItemDisplay[tsc DIFF>]:
 ItemDisplay[isc DIFF<2]:%WHITE%Id%CORAL%+
 ItemDisplay[isc DIFF>]:
-ItemDisplay[rvl]:%PURPLE%RP%TEAL%65%{%TAN%-- -- -- -- -- -- -- -- -- --  %NL% %GOLD%heal 65% of your maximum %NL%health up to a limit of 2000 %NL%%TAN%-- --  -- -- -- -- -- -- -- --}
+ItemDisplay[rvl]:%PURPLE%RP%WHITE%65%{%TAN%-- -- -- -- -- -- -- -- -- --  %NL% %GOLD%heal 65% of your maximum %NL%health up to a limit of 2000 %NL%%TAN%-- --  -- -- -- -- -- -- -- --}
 ItemDisplay[rvs]:%PURPLE%RP%WHITE%35%
 ItemDisplay[key (MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%WHITE%%TEAL%Key%PURPLE%*
 ItemDisplay[key CLVL<30]:%WHITE%%TEAL%Key%PURPLE%*
