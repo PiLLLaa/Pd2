@@ -7719,9 +7719,9 @@ ItemDisplay[(crs OR mpi OR wax OR hal OR spt OR lbb) !RW NMAG SOCK=6 FILTLVL>6]:
 ItemDisplay[(crs OR mpi OR wax OR hal OR spt OR lbb) !RW NMAG SOCK=6]:%GRAY%%NAME%{%WHITE%*******      %TAN%6 S o c  B a s e  I t e m      %WHITE%*******%NL%%NAME%}
 
 //VENDING ITEM                                            //
-ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>34999 DIFF>1]: %ORANGE%[$%PRICE%]{%NAME%}
-ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>29999 DIFF=1]: %ORANGE%[$%PRICE%]{%NAME%}
-ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>4999 DIFF=0]: %ORANGE%[$%PRICE%]{%NAME%}
+ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>34999 DIFF>1]:%NAME%%ORANGE%[$%PRICE%]{%NAME%}
+ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>29999 DIFF=1]:%NAME%%ORANGE%[$%PRICE%]{%NAME%}
+ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>4999 DIFF=0]:%NAME%%ORANGE%[$%PRICE%]{%NAME%}
 
 //Amazon Javelins//
 
