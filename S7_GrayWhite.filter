@@ -5201,9 +5201,9 @@ ItemDisplay[ci3 !ETH NMAG (SOCK=0]: %GRAY%%NAME%%ORANGE%(imbue)
 ItemDisplay[ci3 !ETH NMAG (SOCK=3]: %GRAY%%NAME%
 
 //VENDING ITEM                                            //
-ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>34999 DIFF>1]: %GRAY%[$%PRICE%]{%NAME%}
-ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>29999 DIFF=1]: %GRAY%[$%PRICE%]{%NAME%}
-ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>4999 DIFF=0]: %GRAY%[$%PRICE%]{%NAME%}
+ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>34999 DIFF>1]:%NAME%%GRAY%[$%PRICE%]{%NAME%}
+ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>29999 DIFF=1]:%NAME%%GRAY%[$%PRICE%]{%NAME%}
+ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>4999 DIFF=0]:%NAME%%GRAY%[$%PRICE%]{%NAME%}
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                    MAGIC GRADE IDENTIFY                                     //
