@@ -9,7 +9,7 @@ ItemDisplayFilterName[]: Add Magic Bolt&Arrow(Blocked)
 ItemDisplayFilterName[]: No Potion, Ring(Magic)
 ItemDisplayFilterName[]: ++No Javel(Magic),CraftArmor,NormalSet
 ItemDisplayFilterName[]: +++No Amulet+Glove+Wand+Claw+NecHead+Circlet(Magic)
-ItemDisplayFilterName[]: ++++No Bolt(Rare)+LargeCharm
+ItemDisplayFilterName[]: ++++No Bolt(Rare)
 ItemDisplayFilterName[]: +++++No Arrow(Rare)+Only GG base Item
 ItemDisplayFilterName[]: ++++++No CraftWeapon(OnlyActiveETH+GMB),AllSet(rin+amu)
 /////////////////////////////////////////////////////////////////////////////////////////////////
@@ -20,7 +20,7 @@ ItemDisplay[yps FILTLVL>2]:
 ItemDisplay[MAG rin !ID FILTLVL>2]: 
 ItemDisplay[MAG amu !ID FILTLVL>4]:
 //ItemDisplay[SET rin !ID FILTLVL=4]:
-ItemDisplay[MAG cm2 !ID FILTLVL>5]:
+//ItemDisplay[MAG cm2 !ID FILTLVL>5]:
 ItemDisplay[MAG (am5 OR ama OR amf) !ID FILTLVL>3]:
 ItemDisplay[(EQ4 OR EQ7 OR CL4 OR WP12 OR CL5) MAG !ID FILTLVL>4]:
 ItemDisplay[RARE (cqv) !ID FILTLVL>5]: 
