@@ -26,11 +26,11 @@
  ### S7 Updated 23.Apr
 
  ### Explanation for Each Filter 
-    1. Hype : Various colour table, weapon has damage marking on the item name. ex) 200d
+    1. Hype : Various colour table
     2. PurpleGold : Purple & Gold colour table
     3. Standard : Rainbow colour table
     4. Starter : Rainbow colour table with magic bolt&arrow, many drops for base items
-     #### Starter filter will be dropped base for weapon without Enhanced damage.
+     #### Starter filter will be dropped base for weapon without Enhanced damage. -> easily drop the base items
     5. GrayWhite : Gray & White colour table
     6. Blank : New style of naming but, obviously much hyper visual.
      #### Blank filter now updating, please feedback to me when you find out someting.
@@ -138,4 +138,11 @@
       1) Facet Error modfied
       2) Added craft Mace
 ----------------------------------------------------------------------------------------------------------------------
-                                                                                                        
+     17. 6/01
+      1) Wand Runeword marking : Dominion, white
+      2) Magic Wand drop for all filters
+      3) Orb and wand added marking for Ultimate option
+      4) Wand added marking for Bonearmor
+      5) Anybugs fixed
+----------------------------------------------------------------------------------------------------------------------
+                                                                                                                       
