@@ -4830,41 +4830,41 @@ ItemDisplay[(CL3) !SOCK=1 !RW NMAG ELT ETH]:%NAME%{%NAME%}
 
 //CHEST ACTIVE
 //High Def ETH armors
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP uui DEF>664]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP uea DEF>668]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP ula DEF>674]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP utu DEF>684]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP ung DEF>695]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP ucl DEF>705]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP urs DEF>710]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP uhn DEF>718]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP upl DEF>730]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP utp DEF>735]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP utp DEF>620]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP uld DEF>744]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP ult DEF>754]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP uth DEF>768]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP uul DEF>792]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP uar DEF>849]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
-ItemDisplay[NMAG ETH !RW SOCK=0 !SUP uar DEF>720]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 uui DEF>664]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 uea DEF>668]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 ula DEF>674]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 utu DEF>684]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 ung DEF>695]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 ucl DEF>705]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 urs DEF>710]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 uhn DEF>718]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 upl DEF>730]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 utp DEF>735]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 utp DEF>620]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 uld DEF>744]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 ult DEF>754]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 uth DEF>768]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 uul DEF>792]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 uar DEF>849]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
+ItemDisplay[NMAG ETH !RW SOCK=0 uar DEF>720]: %NAME% %RED%highest Def{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
 
-ItemDisplay[NMAG ETH !RW !SOCK=1 uui DEF>664]: %NAME% %RED%highest Def{%NAME%}
-ItemDisplay[NMAG ETH !RW !SOCK=1 uea DEF>668]: %NAME% %RED%highest Def{%NAME%}
-ItemDisplay[NMAG ETH !RW !SOCK=1 ula DEF>674]: %NAME% %RED%highest Def{%NAME%}
-ItemDisplay[NMAG ETH !RW !SOCK=1 utu DEF>684]: %NAME% %RED%highest Def{%NAME%}
-ItemDisplay[NMAG ETH !RW !SOCK=1 ung DEF>695]: %NAME% %RED%highest Def{%NAME%}
-ItemDisplay[NMAG ETH !RW !SOCK=1 ucl DEF>705]: %NAME% %RED%highest Def{%NAME%}
-ItemDisplay[NMAG ETH !RW !SOCK=1 urs DEF>710]: %NAME% %RED%highest Def{%NAME%}
-ItemDisplay[NMAG ETH !RW !SOCK=1 uhn DEF>718]: %NAME% %RED%highest Def{%NAME%}
-ItemDisplay[NMAG ETH !RW !SOCK=1 upl DEF>730]: %NAME% %RED%highest Def{%NAME%}
-ItemDisplay[NMAG ETH !RW !SOCK=1 utp DEF>735]: %NAME% %RED%highest Def{%NAME%}
-ItemDisplay[NMAG ETH !RW !SOCK=1 utp DEF>620]: %NAME% %RED%highest Def{%NAME%}
-ItemDisplay[NMAG ETH !RW !SOCK=1 uld DEF>744]: %NAME% %RED%highest Def{%NAME%}
-ItemDisplay[NMAG ETH !RW !SOCK=1 ult DEF>754]: %NAME% %RED%highest Def{%NAME%}
-ItemDisplay[NMAG ETH !RW !SOCK=1 uth DEF>768]: %NAME% %RED%highest Def{%NAME%}
-ItemDisplay[NMAG ETH !RW !SOCK=1 uul DEF>792]: %NAME% %RED%highest Def{%NAME%}
-ItemDisplay[NMAG ETH !RW !SOCK=1 uar DEF>849]: %NAME% %RED%highest Def{%NAME%}
-ItemDisplay[NMAG ETH !RW !SOCK=1 uar DEF>720]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 uui DEF>664]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 uea DEF>668]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 ula DEF>674]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 utu DEF>684]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 ung DEF>695]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 ucl DEF>705]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 urs DEF>710]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 uhn DEF>718]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 upl DEF>730]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 utp DEF>735]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 utp DEF>620]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 uld DEF>744]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 ult DEF>754]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 uth DEF>768]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 uul DEF>792]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 uar DEF>849]: %NAME% %RED%highest Def{%NAME%}
+ItemDisplay[NMAG ETH !RW !SOCK=1 SOCK>1 uar DEF>720]: %NAME% %RED%highest Def{%NAME%}
 
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 uui !ETH (ED>0 OR STAT91=10)]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 ula !ETH (ED>0 OR STAT91=10)]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%YELLOW%)%NAME%}
@@ -6062,6 +6062,11 @@ ItemDisplay[CL5 MAG !ID !ETH ILVL>60]:%NAME% %GRAY%[Katar Check]{%NAME%}
 ItemDisplay[CL5 MAG !ID ETH ILVL<61]:%NAME%%ORANGE%{%NAME%}
 ItemDisplay[CL5 MAG !ID ETH ILVL>60]:%NAME% %GRAY%[Katar Check]{%NAME%}
 
+ItemDisplay[CL5 (MAG OR RARE OR CRAFT) CLSK6=2]:%ORANGE%+2Sin %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[CL5 (MAG OR RARE OR CRAFT) TABSK50=3]:%ORANGE%+3Ma %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[CL5 (MAG OR RARE OR CRAFT) TABSK49=3]:%ORANGE%+3Shadow %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[CL5 (MAG OR RARE OR CRAFT) TABSK48=3]:%ORANGE%+3Trap %NAME%{%NAME%}%CONTINUE%
+
 ItemDisplay[CL5 (MAG OR RARE OR CRAFT) CLSK6=2 !SK254>0 !SK259>0 !SK265>0 !SK269>0 !SK275>0 !SK280>0 !SK252>0 !SK253>0 !SK273>0 !SK278>0 !SK262>0 !SK276>0 !SK271>0 !SK366>0 !FCR>0 !FRW>0]:%ORANGE%+2Sin %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[CL5 (MAG OR RARE OR CRAFT) TABSK50=3 !SK254>0 !SK259>0 !SK265>0 !SK269>0 !SK275>0 !SK280>0 !SK252>0 !SK253>0 !SK273>0 !SK278>0 !SK262>0 !SK276>0 !SK271>0 !SK366>0 !FCR>0 !FRW>0]:%ORANGE%+3Ma %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[CL5 (MAG OR RARE OR CRAFT) TABSK49=3 !SK254>0 !SK259>0 !SK265>0 !SK269>0 !SK275>0 !SK280>0 !SK252>0 !SK253>0 !SK273>0 !SK278>0 !SK262>0 !SK276>0 !SK271>0 !SK366>0 !FCR>0 !FRW>0]:%ORANGE%+3Shadow %NAME%{%NAME%}%CONTINUE%
@@ -6310,6 +6315,7 @@ ItemDisplay[UNI ID 7qr ED>459]:%RED%High %GOLD%%NAME%%CONTINUE%
 ItemDisplay[UNI ID ob6 ALLSK=2]:%GREEN%2Skill %GOLD%%NAME%%CONTINUE%
 ItemDisplay[UNI ID oba ALLSK=3]:%GREEN%3Skill %GOLD%%NAME%%CONTINUE%
 ItemDisplay[UNI ID obc ALLSK=3]:%GREEN%3Skill %GOLD%%NAME%%CONTINUE%
+ItemDisplay[UNI ID obc ALLSK=4]:%GREEN%4Skill %GOLD%%NAME%%CONTINUE%
 ItemDisplay[UNI ID obf STAT331>24]:%RED%High %GOLD%%NAME%%CONTINUE%
 ItemDisplay[UNI ID 72a ED>249]:%RED%High %GOLD%%NAME%%CONTINUE%
 ItemDisplay[UNI ID 7wa ED>299]:%RED%High %GOLD%%NAME%%CONTINUE%
@@ -7514,6 +7520,9 @@ ItemDisplay[(UNI) ID (uit OR xsh OR ush OR uow OR uts OR xow OR pab OR pac OR pa
 ItemDisplay[(UNI) ID (ba6 OR bab OR baa OR baf OR bac OR bad OR bae) (STAT360=27 OR STAT360=50)]:%NAME%{%WHITE%***%RED%**%ORANGE%**     %PURPLE%%TEAL%Ul%ORANGE%ti%YELLOW%ma%GOLD%te %WHITE%Op%RED%ti%GREEN%on     %ORANGE%**%RED%**%WHITE%***%NL%%NAME%}%CONTINUE%
 ItemDisplay[(UNI) ID (dr2 OR dra OR drf OR drb OR dre OR drd OR drf) (STAT360=27 OR STAT360=50)]:%NAME%{%WHITE%***%RED%**%ORANGE%**     %PURPLE%%TEAL%Ul%ORANGE%ti%YELLOW%ma%GOLD%te %WHITE%Op%RED%ti%GREEN%on     %ORANGE%**%RED%**%WHITE%***%NL%%NAME%}%CONTINUE%
 ItemDisplay[(UNI) ID (ned OR nef OR nee OR nea OR ne6 OR neb) (STAT360=27 OR STAT360=50)]:%NAME%{%WHITE%***%RED%**%ORANGE%**     %PURPLE%%TEAL%Ul%ORANGE%ti%YELLOW%ma%GOLD%te %WHITE%Op%RED%ti%GREEN%on     %ORANGE%**%RED%**%WHITE%***%NL%%NAME%}%CONTINUE%
+ItemDisplay[(UNI) ID (obc OR obf OR oba) ALLSK=4]:%NAME%{%WHITE%***%RED%**%ORANGE%**     %PURPLE%%TEAL%Ul%ORANGE%ti%YELLOW%ma%GOLD%te %WHITE%Op%RED%ti%GREEN%on     %ORANGE%**%RED%**%WHITE%***%NL%%NAME%}%CONTINUE%
+ItemDisplay[(UNI) ID (7gw) ALLSK=3]:%NAME%{%WHITE%***%RED%**%ORANGE%**     %PURPLE%%TEAL%Ul%ORANGE%ti%YELLOW%ma%GOLD%te %WHITE%Op%RED%ti%GREEN%on     %ORANGE%**%RED%**%WHITE%***%NL%%NAME%}%CONTINUE%
+ItemDisplay[(UNI) ID (WP12) CLSK2=3]:%NAME%{%WHITE%***%RED%**%ORANGE%**     %PURPLE%%TEAL%Ul%ORANGE%ti%YELLOW%ma%GOLD%te %WHITE%Op%RED%ti%GREEN%on     %ORANGE%**%RED%**%WHITE%***%NL%%NAME%}%CONTINUE%
 
 ItemDisplay[(RARE OR CRAFT) ID ETH EQ4 STAT60>0 STAT62>0 STAT141>0 RES>0 REPAIR>0]:%NAME%{%RED%**%BLUE%**%PURPLE%**%ORANGE%**  %PURPLE%Purgatory Item  %ORANGE%**%PURPLE%**%BLUE%**%RED%**%NL%%NAME%}%CONTINUE%
 ItemDisplay[(RARE OR CRAFT) ID ETH EQ5 FRW>0 (STAT0>0 OR STAT2>0) RES>0 REPAIR>0]:%NAME%{%RED%**%BLUE%**%PURPLE%**%ORANGE%**  %PURPLE%Purgatory Item  %ORANGE%**%PURPLE%**%BLUE%**%RED%**%NL%%NAME%}%CONTINUE%
