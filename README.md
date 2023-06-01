@@ -144,5 +144,6 @@
       3) Orb and wand added marking for Ultimate option
       4) Wand added marking for Bonearmor
       5) Anybugs fixed
+      6) Diabled function about "Filter level over 5 no longer to drop large charm" (Always activated)
 ----------------------------------------------------------------------------------------------------------------------
                                                                                                                        
