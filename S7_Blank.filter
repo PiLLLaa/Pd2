@@ -5099,7 +5099,7 @@ ItemDisplay[ceh]:%MAP-0B%%PURPLE%++    %GOLD%H a %ORANGE%t r %WHITE%e d %GREEN%(
 ItemDisplay[bet]:%MAP-0B%%PURPLE%++    %GOLD%T e %ORANGE%r r %WHITE%o %ORANGE%%CORAL%r %PURPLE%( D i a b l o )%WHITE%* %GREEN%%QTY%    %PURPLE%O
 ItemDisplay[fed]:%MAP-0B%%PURPLE%++    %GOLD%D e %ORANGE%s t %WHITE%r u %ORANGE%%CORAL%c t %GOLD%i o n %BLUE%( B a a l )%WHITE%* %GREEN%%QTY%    %PURPLE%O
 ItemDisplay[toa]:%MAP-0B%%PURPLE%++    %GOLD%T o %ORANGE%k e %WHITE%n    %PURPLE%O
-ItemDisplay[wss]:%MAP-62%%TEAL%++++   %ORANGE%S h %PURPLE%a r d%WHITE%* %GREEN%%QTY%    %TEAL%++++{%NL%%GOLD%corrupts items%NL%}
+ItemDisplay[wss]:%MAP-62%%PURPLE%+%RED%+%ORANGE%+%WHITE%+   %ORANGE%S %WHITE%h %PURPLE%a %RED%r %YELLOW%d%WHITE%* %GREEN%%QTY%    %WHITE%+%ORANGE%+%RED%+%PURPLE%+{%NL%%GOLD%corrupts items%NL%}
 ItemDisplay[lbox]:%MAP-62%%TEAL%++++    %GOLD%P u %ORANGE%z z %GOLD%l e  %WHITE%B o %PURPLE%x%WHITE%* %GREEN%%QTY%    %TEAL%++++{%RED%For all items but, much valuable than piece%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items%NL%}
 ItemDisplay[lpp]:%MAP-62%%TEAL%++++    %GOLD%P u %ORANGE%z z %GOLD%l e  %WHITE%P i %PURPLE%e c %ORANGE%%CORAL%e%WHITE%* %GREEN%%QTY%    %TEAL%++++{%RED%For rare, craft items%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%(Non %TAN%uni/%GREEN%set%WHITE%) %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items (not uniques,sets) items%NL%}
 ItemDisplay[lmal]:%TEAL%++++    %GOLD%L a %ORANGE%r z %GOLD%u k %WHITE%' s  %PURPLE%m a %ORANGE%%CORAL%l u %WHITE%s    %TEAL%++++{%NL%%YELLOW%Others %WHITE%soc : %GREEN%1 %WHITE%(based item)%NL%}
