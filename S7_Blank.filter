@@ -61,501 +61,503 @@ ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7) !ETH MAG !ID FILTLVL>7]:
 ItemDisplay[(7mt OR 7wh) !ETH MAG !ID FILTLVL>7]:
 ItemDisplay[(7mt OR 7wh) ETH MAG !ID FILTLVL>7]:
 
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) cap]:C a p%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xap]:W a r  H a t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uap]:S h a k o%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) skp]:S k u l l  C a p%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xkp]:S a l l e t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ukp]:H y d r a s k u l l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) hlm]:H e l m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xlm]:C a s q u e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ulm]:A r m e t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) fhl]:F u l l  H e l m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xhl]:B a s i n e t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uhl]:G i a n t  C o n c h%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) msk]:M a s k%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xsk]:D e a t h  M a s k%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) usk]:D e m o n h e a d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) bhm]:B o n e  H e l m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xh9]:G r i m  H e l m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uh9]:B o n e  V i s a g e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ghm]:G r e a t  H e l m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xhm]:W i n g e d  H e l m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uhm]:S p i r e d  H e l m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) crn]:C r o w n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xrn]:G r a n d  C r o w n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) urn]:C o r o n a%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) qui]:Q u i l t e d  A r m o r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xui]:G h o s t  A r m o r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uui]:D u s k  S h r o u d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) lea]:L e a t h e r  A r m o r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xea]:S e r p e n t s k i n  A r m o r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uea]:W y r m h i d e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) hla]:H a r d  L e a t h e r  A r m o r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xla]:D e m o n h i d e  A r m o r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ula]:S c a r a b  H u s k%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) stu]:S t u d d e d  L e a t h e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xtu]:T r e l l i s e d  A r m o r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) utu]:W i r e  F l e e c e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) rng]:R i n g  M a i l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xng]:L i n k e d  M a i l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ung]:D i a m o n d  M a i l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) scl]:S c a l e  M a i l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xcl]:T i g u l a t e d  M a i l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ucl]:L o r i c a t e d  M a i l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) chn]:C h a i n  M a i l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xhn]:M e s h  A r m o r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uhn]:B o n e w e a v e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) brs]:B r e a s t  P l a t e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xrs]:C u i r a s s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) urs]:G r e a t  H a u b e r k%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) spl]:S p l i n t  M a i l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xpl]:R u s s e t  A r m o r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) upl]:B a l r o g  S k i n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) plt]:P l a t e  M a i l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xlt]:T e m p l a r  C o a t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ult]:H e l l f o r g e  P l a t e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) fld]:F i e l d  P l a t e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xld]:S h a r k t o o t h  A r m o r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uld]:K r a k e n  S h e l l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) gth]:G o t h i c  P l a t e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xth]:E m b o s s e d  P l a t e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uth]:L a c q u e r e d  P l a t e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ltp]:L i g h t  P l a t e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xtp]:M a g e  P l a t e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) utp]:A r c h o n  P l a t e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ful]:F u l l  P l a t e  M a i l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xul]:C h a o s  A r m o r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uul]:S h a d o w  P l a t e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) aar]:A n c i e n t  A r m o r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xar]:O r n a t e  P l a t e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uar]:S a c r e d  A r m o r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) buc]:B u c k l e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xuc]:D e f e n d e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uuc]:H e a t e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) sml]:S m a l l  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xml]:R o u n d  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uml]:L u n a%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) lrg]:L a r g e  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xrg]:S c u t u m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) urg]:H y p e r i o n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) spk]:S p i k e d  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xpk]:B a r b e d  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) upk]:B l a d e  B a r r i e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) kit]:K i t e  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xit]:D r a g o n  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uit]:M o n a r c h%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) bsh]:B o n e  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xsh]:G r i m  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ush]:T r o l l  N e s t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) tow]:T o w e r  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xow]:P a v i s e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uow]:A e g i s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) gts]:G o t h i c  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xts]:A n c i e n t  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uts]:W a r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) lgl]:L e a t h e r  G l o v e s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xlg]:D e m o n h i d e  G l o v e s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ulg]:B r a m b l e  M i t t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) vgl]:H e a v y  G l o v e s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xvg]:S h a r k s k i n  G l o v e s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uvg]:V a m p i r e b o n e  G l o v e s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) mgl]:C h a i n  G l o v e s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xmg]:H e a v y  B r a c e r s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) umg]:V a m b r a c e s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) tgl]:L i g h t  G a u n t l e t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xtg]:B a t t l e  G a u n t l e t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) utg]:C r u s a d e r  G a u n t l e t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) hgl]:G a u n t l e t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xhg]:W a r  G a u n t l e t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uhg]:O g r e  G a u n t l e t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) lbt]:B o o t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xlb]:D e m o n h i d e  B o o t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ulb]:W y r m h i d e  B o o t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) vbt]:H e a v y  B o o t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xvb]:S h a r k s k i n  B o o t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uvb]:S c a r a b s h e l l  B o o t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) mbt]:C h a i n  B o o t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xmb]:M e s h  B o o t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) umb]:B o n e w e a v e  B o o t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) tbt]:L i g h t  P l a t e d  B o o t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xtb]:B a t t l e  B o o t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) utb]:M i r r o r e d  B o o t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) hbt]:G r e a v e s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) xhb]:W a r  B o o t s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uhb]:M y r m i d o n  G r e a v e s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) lbl]:S a s h%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) zlb]:D e m o n h i d e  S a s h%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ulc]:S p i d e r w e b  S a s h%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) vbl]:L i g h t  B e l t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) zvb]:S h a r k s k i n  B e l t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uvc]:V a m p i r e f a n g  B e l t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) mbl]:B e l t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) zmb]:M e s h  B e l t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) umc]:M i t h r i l  C o i l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) tbl]:H e a v y  B e l t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ztb]:B a t t l e  B e l t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) utc]:T r o l l  B e l t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) hbl]:P l a t e d  B e l t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) zhb]:W a r  B e l t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) uhc]:C o l o s s u s  G i r d l e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ci0]:C i r c l e t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ci1]:C o r o n e t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ci2]:T i a r a%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ci3]:D i a d e m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) dr1]:W o l f  H e a d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) dr6]:A l p h a  H e l m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) drb]:B l o o d  S p i r i t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) dr2]:H a w k  H e l m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) dr7]:G r i f f o n  H e a d r e s s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) drc]:S u n  S p i r i t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) dr3]:A n t l e r s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) dr8]:H u n t e r ' s  G u i s e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) drd]:E a r t h  S p i r i t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) dr4]:F a l c o n  M a s k%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) dr9]:S a c r e d  F e a t h e r s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) dre]:S k y  S p i r i t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) dr5]:S p i r i t  M a s k%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) dra]:T o t e m i c  M a s k%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) drf]:D r e a m  S p i r i t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ba1]:J a w b o n e  C a p%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ba6]:J a w b o n e  V i s o r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) bab]:C a r n a g e  H e l m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ba2]:F a n g e d  H e l m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ba7]:L i o n  H e l m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) bac]:F u r y  V i s o r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ba3]:H o r n e d  H e l m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ba8]:R a g e  M a s k%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) bad]:D e s t r o y e r  H e l m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ba4]:A s s a u l t  H e l m e t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ba9]:S a v a g e  H e l m e t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) bae]:C o n q u e r o r  C r o w n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ba5]:A v e n g e r  G u a r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) baa]:S l a y e r  G u a r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) baf]:G u a r d i a n  C r o w n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) pa1]:T a r g e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) pa6]:A k a r a n  T a r g e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) pab]:S a c r e d  T a r g e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) pa2]:R o n d a c h e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) pa7]:A k a r a n  R o n d a c h e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) pac]:S a c r e d  R o n d a c h e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) pa3]:H e r a l d i c  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) pa8]:P r o t e c t o r  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) pad]:K u r a s t  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) pa4]:A e r i n  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) pa9]:G i l d e d  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) pae]:Z a k a r u m  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) pa5]:C r o w n  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) paa]:R o y a l  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) paf]:V o r t e x  S h i e l d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ne1]:P r e s e r v e d  H e a d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ne6]:M u m m i f i e d  T r o p h y%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) neb]:M i n i o n  S k u l l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ne2]:Z o m b i e  H e a d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ne7]:F e t i s h  T r o p h y%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) neg]:H e l l s p a w n  S k u l l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ne3]:U n r a v e l l e r  H e a d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ne8]:S e x t o n  T r o p h y%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ned]:O v e r s e e r  S k u l l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ne4]:G a r g o y l e  H e a d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ne9]:C a n t o r  T r o p h y%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) nee]:S u c c u b u s  S k u l l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ne5]:D e m o n  H e a d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) nea]:H i e r o p h a n t  T r o p h y%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) nef]:B l o o d l o r d  S k u l l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) hax]:H a n d  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9ha]:H a t c h e t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7ha]:T o m a h a w k%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) axe]:A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9ax]:C l e a v e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7ax]:S m a l l  C r e s c e n t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 2ax]:D o u b l e  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 92a]:T w i n  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 72a]:E t t i n  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) mpi]:M i l i t a r y  P i c k%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9mp]:C r o w b i l l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7mp]:W a r  S p i k e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) wax]:W a r  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9wa]:N a g a%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7wa]:B e r s e r k e r  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) lax]:L a r g e  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9la]:M i l i t a r y  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7la]:F e r a l  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) bax]:B r o a d  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9ba]:B e a r d e d  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7ba]:S i l v e r - e d g e d  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) btx]:B a t t l e  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9bt]:T a b a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7bt]:D e c a p i t a t o r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) gax]:G r e a t  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9ga]:G o t h i c  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7ga]:C h a m p i o n  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) gix]:G i a n t  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9gi]:A n c i e n t  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7gi]:G l o r i o u s  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) clb]:C l u b%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9cl]:C u d g e l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7cl]:T r u n c h e o n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) spc]:S p i k e d  C l u b%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9sp]:B a r b e d  C l u b%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7sp]:T y r a n t  C l u b%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) mac]:M a c e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9ma]:F l a n g e d  M a c e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7ma]:R e i n f o r c e d  M a c e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) mst]:M o r n i n g  S t a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9mt]:J a g g e d  S t a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7mt]:D e v i l  S t a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) fla]:F l a i l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9fl]:K n o u t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7fl]:S c o u r g e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) whm]:W a r  H a m m e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9wh]:B a t t l e  H a m m e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7wh]:L e g e n d a r y  M a l l e t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) mau]:M a u l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9m9]:W a r  C l u b%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7m7]:O g r e  M a u l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) gma]:G r e a t  M a u l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9gm]:M a r t e l  d e  F e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7gm]:T h u n d e r  M a u l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ssd]:S h o r t  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9ss]:G l a d i u s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7ss]:F a l c a t a%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) scm]:S c i m i t a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9sm]:C u t l a s s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7sm]:A t a g h a n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) sbr]:S a b r e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9sb]:S h a m s h i r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7sb]:E l e g a n t  B l a d e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) flc]:F a l c h i o n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9fc]:T u l w a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7fc]:H y d r a  E d g e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) crs]:C r y s t a l  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9cr]:D i m e n s i o n a l  B l a d e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7cr]:P h a s e  B l a d e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) bsd]:B r o a d  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9bs]:B a t t l e  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7bs]:C o n q u e s t  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) lsd]:L o n g  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9ls]:R u n e  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7ls]:C r y p t i c  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) wsd]:W a r  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9wd]:A n c i e n t  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7wd]:M y t h i c a l  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 2hs]:T w o - h a n d e d  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 92h]:E s p a n d o n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 72h]:L e g e n d  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) clm]:C l a y m o r e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9cm]:D a c i a n  F a l x%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7cm]:H i g h l a n d  B l a d e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) gis]:G i a n t  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9gs]:T u s k  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7gs]:B a l r o g  B l a d e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) bsw]:B a s t a r d  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9b9]:G o t h i c  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7b7]:C h a m p i o n  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) flb]:F l a m b e r g e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9fb]:Z w e i h a n d e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7fb]:C o l o s s u s  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) gsd]:G r e a t  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9gd]:E x e c u t i o n e r  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7gd]:C o l o s s u s  B l a d e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) dgr]:D a g g e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9dg]:P o i g n a r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7dg]:B o n e  K n i f e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) dir]:D i r k%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9di]:R o n d e l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7di]:M i t h r i l  P o i n t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) kri]:K r i s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9kr]:C i n q u e d e a s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7kr]:F a n g e d  K n i f e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) bld]:B l a d e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9bl]:S t i l e t t o%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7bl]:L e g e n d  S p i k e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) tkf]:T h r o w i n g  K n i f e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9tk]:B a t t l e  D a r t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7tk]:F l y i n g  K n i f e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) tax]:T h r o w i n g  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9ta]:F r a n c i s c a%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7ta]:F l y i n g  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) bkf]:B a l a n c e d  K n i f e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9bk]:W a r  D a r t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7bk]:W i n g e d  K n i f e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) bal]:B a l a n c e d  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9b8]:H u r l b a t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7b8]:W i n g e d  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) jav]:J a v e l i n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9ja]:W a r  J a v e l i n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7ja]:H y p e r i o n  J a v e l i n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) pil]:P i l u m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9pi]:G r e a t  P i l u m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7pi]:S t y g i a n  P i l u m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ssp]:S h o r t  S p e a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9s9]:S i m b i l a n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7s7]:B a l r o g  S p e a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) glv]:G l a i v e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9gl]:S p i c u l u m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7gl]:G h o s t  G l a i v e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) tsp]:T h r o w i n g  S p e a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9ts]:H a r p o o n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7ts]:W i n g e d  H a r p o o n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) spr]:S p e a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9sr]:W a r  S p e a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7sr]:H y p e r i o n  S p e a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) tri]:T r i d e n t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9tr]:F u s c i n a%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7tr]:S t y g i a n  P i k e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) brn]:B r a n d i s t o c k%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9br]:W a r  F o r k%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7br]:M a n c a t c h e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) spt]:S p e t u m%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9st]:Y a r i%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7st]:G h o s t  S p e a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) pik]:P i k e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9p9]:L a n c e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7p7]:W a r  P i k e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) bar]:B a r d i c h e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9b7]:L o c h a b e r  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7o7]:O g r e  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) vou]:V o u l g e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9vo]:B i l l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7vo]:C o l o s s u s  V o u l g e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) scy]:S c y t h e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9s8]:B a t t l e  S c y t h e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7s8]:T h r e s h e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) pax]:P o l e a x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9pa]:P a r t i z a n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7pa]:C r y p t i c  A x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) hal]:H a l b e r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9h9]:B e c - d e - C o r b i n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7h7]:G r e a t  P o l e a x e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) wsc]:W a r  S c y t h e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9wc]:G r i m  S c y t h e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7wc]:G i a n t  T h r e s h e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) sbw]:S h o r t  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8sb]:E d g e  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6sb]:S p i d e r  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) hbw]:H u n t e r s  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8hb]:R a z o r  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6hb]:B l a d e  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) lbw]:L o n g  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8lb]:C e d a r  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6lb]:S h a d o w  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) cbw]:C o m p o s i t e  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8cb]:D o u b l e  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6cb]:G r e a t  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) sbb]:S h o r t  B a t t l e  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8s8]:S h o r t  S i e g e  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6s7]:D i a m o n d  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) lbb]:L o n g  B a t t l e  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8l8]:L a r g e  S i e g e  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6l7]:C r u s a d e r  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) swb]:S h o r t  W a r  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8sw]:R u n e  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6sw]:W a r d  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) lwb]:L o n g  W a r  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8lw]:G o t h i c  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6lw]:H y d r a  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) lxb]:L i g h t  C r o s s b o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8lx]:A r b a l e s t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6lx]:P e l l e t  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) mxb]:C r o s s b o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8mx]:S i e g e  C r o s s b o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6mx]:G o r g o n  C r o s s b o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) hxb]:H e a v y  C r o s s b o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8hx]:B a l l i s t a%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6hx]:C o l o s s u s  C r o s s b o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) rxb]:R e p e a t i n g  C r o s s b o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8rx]:C h u - K o - N u%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6rx]:D e m o n  C r o s s b o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) sst]:S h o r t  S t a f f%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8ss]:J o  S t a f f%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6ss]:W a l k i n g  S t i c k%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) lst]:L o n g  S t a f f%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8ls]:Q u a r t e r s t a f f%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6ls]:S t a l a g m i t e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) cst]:G n a r l e d  S t a f f%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8cs]:C e d a r  S t a f f%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6cs]:E l d e r  S t a f f%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) bst]:B a t t l e  S t a f f%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8bs]:G o t h i c  S t a f f%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6bs]:S h i l l e l a g h%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) wst]:W a r  S t a f f%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 8ws]:R u n e  S t a f f%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 6ws]:A r c h o n  S t a f f%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) wnd]:W a n d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9wn]:B u r n t  W a n d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7wn]:P o l i s h e d  W a n d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ywn]:Y e w  W a n d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9yw]:P e t r i f i e d  W a n d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7yw]:G h o s t  W a n d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) bwn]:B o n e  W a n d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9bw]:T o m b  W a n d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7bw]:L i c h  W a n d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) gwn]:G r i m  W a n d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9gw]:G r a v e  W a n d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7gw]:U n e a r t h e d  W a n d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) scp]:S c e p t e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9sc]:R u n e  S c e p t e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7sc]:M i g h t y  S c e p t e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) gsc]:G r a n d  S c e p t e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9qs]:H o l y  W a t e r  S p r i n k l e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7qs]:S e r a p h  R o d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) wsp]:W a r  S c e p t e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9ws]:D i v i n e  S c e p t e r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7ws]:C a d u c e u s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ktr]:K a t a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9ar]:Q u h a b%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7ar]:S u w a y y a h%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) wrb]:W r i s t  B l a d e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9wb]:W r i s t  S p i k e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7wb]:W r i s t  S w o r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) axf]:H a t c h e t  H a n d s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9xf]:F a s c i a%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7xf]:W a r  F i s t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ces]:C e s t u s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9cs]:H a n d  S c y t h e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7cs]:B a t t l e  C e s t u s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) clw]:C l a w s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9lw]:G r e a t e r  C l a w s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7lw]:F e r a l  C l a w s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) btl]:B l a d e  T a l o n s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9tw]:G r e a t e r  T a l o n s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7tw]:R u n i c  T a l o n s%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) skr]:S c i s s o r s  K a t a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 9qr]:S c i s s o r s  Q u h a b%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) 7qr]:S c i s s o r s  S u w a y y a h%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ob1]:E a g l e  O r b%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ob6]:G l o w i n g  O r b%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) obb]:H e a v e n l y  S t o n e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ob2]:S a c r e d  G l o b e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ob7]:C r y s t a l l i n e  G l o b e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) obc]:E l d r i t c h  O r b%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ob3]:S m o k e d  S p h e r e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ob8]:C l o u d y  S p h e r e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) obd]:D e m o n  H e a r t%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ob4]:C l a s p e d  O r b%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ob9]:S p a r k l i n g  B a l l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) obe]:V o r t e x  O r b%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ob5]:J a r e d ' s  S t o n e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) oba]:S w i r l i n g  C r y s t a l%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) obf]:D i m e n s i o n a l  S h a r d%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) am1]:S t a g  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) am6]:A s h w o o d  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) amb]:M a t r i a r c h a l  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) am2]:R e f l e x  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) am7]:C e r e m o n i a l  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) amc]:G r a n d  M a t r o n  B o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) am3]:M a i d e n  S p e a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) am8]:C e r e m o n i a l  S p e a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) amd]:M a t r i a r c h a l  S p e a r%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) am4]:M a i d e n  P i k e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) am9]:C e r e m o n i a l  P i k e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ame]:M a t r i a r c h a l  P i k e%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) am5]:M a i d e n  J a v e l i n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) ama]:C e r e m o n i a l  J a v e l i n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) amf]:M a t r i a r c h a l  J a v e l i n%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) aqv]:A r r o w%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE OR CRAFT) cqv]:B o l t%CONTINUE%
+ItemDisplay[(RARE OR CRAFT) ID]:%NAME%%CONTINUE%
+
+ItemDisplay[(NMAG OR MAG) cap]:C a p%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xap]:W a r  H a t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uap]:S h a k o%CONTINUE%
+ItemDisplay[(NMAG OR MAG) skp]:S k u l l  C a p%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xkp]:S a l l e t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ukp]:H y d r a s k u l l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) hlm]:H e l m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xlm]:C a s q u e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ulm]:A r m e t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) fhl]:F u l l  H e l m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xhl]:B a s i n e t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uhl]:G i a n t  C o n c h%CONTINUE%
+ItemDisplay[(NMAG OR MAG) msk]:M a s k%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xsk]:D e a t h  M a s k%CONTINUE%
+ItemDisplay[(NMAG OR MAG) usk]:D e m o n h e a d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) bhm]:B o n e  H e l m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xh9]:G r i m  H e l m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uh9]:B o n e  V i s a g e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ghm]:G r e a t  H e l m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xhm]:W i n g e d  H e l m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uhm]:S p i r e d  H e l m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) crn]:C r o w n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xrn]:G r a n d  C r o w n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) urn]:C o r o n a%CONTINUE%
+ItemDisplay[(NMAG OR MAG) qui]:Q u i l t e d  A r m o r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xui]:G h o s t  A r m o r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uui]:D u s k  S h r o u d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) lea]:L e a t h e r  A r m o r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xea]:S e r p e n t s k i n  A r m o r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uea]:W y r m h i d e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) hla]:H a r d  L e a t h e r  A r m o r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xla]:D e m o n h i d e  A r m o r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ula]:S c a r a b  H u s k%CONTINUE%
+ItemDisplay[(NMAG OR MAG) stu]:S t u d d e d  L e a t h e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xtu]:T r e l l i s e d  A r m o r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) utu]:W i r e  F l e e c e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) rng]:R i n g  M a i l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xng]:L i n k e d  M a i l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ung]:D i a m o n d  M a i l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) scl]:S c a l e  M a i l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xcl]:T i g u l a t e d  M a i l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ucl]:L o r i c a t e d  M a i l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) chn]:C h a i n  M a i l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xhn]:M e s h  A r m o r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uhn]:B o n e w e a v e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) brs]:B r e a s t  P l a t e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xrs]:C u i r a s s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) urs]:G r e a t  H a u b e r k%CONTINUE%
+ItemDisplay[(NMAG OR MAG) spl]:S p l i n t  M a i l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xpl]:R u s s e t  A r m o r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) upl]:B a l r o g  S k i n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) plt]:P l a t e  M a i l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xlt]:T e m p l a r  C o a t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ult]:H e l l f o r g e  P l a t e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) fld]:F i e l d  P l a t e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xld]:S h a r k t o o t h  A r m o r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uld]:K r a k e n  S h e l l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) gth]:G o t h i c  P l a t e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xth]:E m b o s s e d  P l a t e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uth]:L a c q u e r e d  P l a t e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ltp]:L i g h t  P l a t e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xtp]:M a g e  P l a t e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) utp]:A r c h o n  P l a t e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ful]:F u l l  P l a t e  M a i l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xul]:C h a o s  A r m o r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uul]:S h a d o w  P l a t e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) aar]:A n c i e n t  A r m o r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xar]:O r n a t e  P l a t e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uar]:S a c r e d  A r m o r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) buc]:B u c k l e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xuc]:D e f e n d e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uuc]:H e a t e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) sml]:S m a l l  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xml]:R o u n d  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uml]:L u n a%CONTINUE%
+ItemDisplay[(NMAG OR MAG) lrg]:L a r g e  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xrg]:S c u t u m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) urg]:H y p e r i o n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) spk]:S p i k e d  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xpk]:B a r b e d  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) upk]:B l a d e  B a r r i e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) kit]:K i t e  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xit]:D r a g o n  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uit]:M o n a r c h%CONTINUE%
+ItemDisplay[(NMAG OR MAG) bsh]:B o n e  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xsh]:G r i m  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ush]:T r o l l  N e s t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) tow]:T o w e r  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xow]:P a v i s e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uow]:A e g i s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) gts]:G o t h i c  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xts]:A n c i e n t  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uts]:W a r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) lgl]:L e a t h e r  G l o v e s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xlg]:D e m o n h i d e  G l o v e s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ulg]:B r a m b l e  M i t t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) vgl]:H e a v y  G l o v e s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xvg]:S h a r k s k i n  G l o v e s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uvg]:V a m p i r e b o n e  G l o v e s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) mgl]:C h a i n  G l o v e s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xmg]:H e a v y  B r a c e r s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) umg]:V a m b r a c e s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) tgl]:L i g h t  G a u n t l e t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xtg]:B a t t l e  G a u n t l e t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) utg]:C r u s a d e r  G a u n t l e t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) hgl]:G a u n t l e t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xhg]:W a r  G a u n t l e t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uhg]:O g r e  G a u n t l e t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) lbt]:B o o t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xlb]:D e m o n h i d e  B o o t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ulb]:W y r m h i d e  B o o t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) vbt]:H e a v y  B o o t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xvb]:S h a r k s k i n  B o o t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uvb]:S c a r a b s h e l l  B o o t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) mbt]:C h a i n  B o o t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xmb]:M e s h  B o o t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) umb]:B o n e w e a v e  B o o t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) tbt]:L i g h t  P l a t e d  B o o t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xtb]:B a t t l e  B o o t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) utb]:M i r r o r e d  B o o t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) hbt]:G r e a v e s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) xhb]:W a r  B o o t s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uhb]:M y r m i d o n  G r e a v e s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) lbl]:S a s h%CONTINUE%
+ItemDisplay[(NMAG OR MAG) zlb]:D e m o n h i d e  S a s h%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ulc]:S p i d e r w e b  S a s h%CONTINUE%
+ItemDisplay[(NMAG OR MAG) vbl]:L i g h t  B e l t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) zvb]:S h a r k s k i n  B e l t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uvc]:V a m p i r e f a n g  B e l t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) mbl]:B e l t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) zmb]:M e s h  B e l t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) umc]:M i t h r i l  C o i l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) tbl]:H e a v y  B e l t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ztb]:B a t t l e  B e l t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) utc]:T r o l l  B e l t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) hbl]:P l a t e d  B e l t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) zhb]:W a r  B e l t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) uhc]:C o l o s s u s  G i r d l e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ci0]:C i r c l e t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ci1]:C o r o n e t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ci2]:T i a r a%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ci3]:D i a d e m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) dr1]:W o l f  H e a d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) dr6]:A l p h a  H e l m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) drb]:B l o o d  S p i r i t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) dr2]:H a w k  H e l m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) dr7]:G r i f f o n  H e a d r e s s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) drc]:S u n  S p i r i t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) dr3]:A n t l e r s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) dr8]:H u n t e r ' s  G u i s e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) drd]:E a r t h  S p i r i t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) dr4]:F a l c o n  M a s k%CONTINUE%
+ItemDisplay[(NMAG OR MAG) dr9]:S a c r e d  F e a t h e r s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) dre]:S k y  S p i r i t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) dr5]:S p i r i t  M a s k%CONTINUE%
+ItemDisplay[(NMAG OR MAG) dra]:T o t e m i c  M a s k%CONTINUE%
+ItemDisplay[(NMAG OR MAG) drf]:D r e a m  S p i r i t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ba1]:J a w b o n e  C a p%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ba6]:J a w b o n e  V i s o r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) bab]:C a r n a g e  H e l m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ba2]:F a n g e d  H e l m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ba7]:L i o n  H e l m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) bac]:F u r y  V i s o r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ba3]:H o r n e d  H e l m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ba8]:R a g e  M a s k%CONTINUE%
+ItemDisplay[(NMAG OR MAG) bad]:D e s t r o y e r  H e l m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ba4]:A s s a u l t  H e l m e t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ba9]:S a v a g e  H e l m e t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) bae]:C o n q u e r o r  C r o w n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ba5]:A v e n g e r  G u a r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) baa]:S l a y e r  G u a r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) baf]:G u a r d i a n  C r o w n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) pa1]:T a r g e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) pa6]:A k a r a n  T a r g e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) pab]:S a c r e d  T a r g e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) pa2]:R o n d a c h e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) pa7]:A k a r a n  R o n d a c h e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) pac]:S a c r e d  R o n d a c h e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) pa3]:H e r a l d i c  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) pa8]:P r o t e c t o r  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) pad]:K u r a s t  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) pa4]:A e r i n  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) pa9]:G i l d e d  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) pae]:Z a k a r u m  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) pa5]:C r o w n  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) paa]:R o y a l  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) paf]:V o r t e x  S h i e l d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ne1]:P r e s e r v e d  H e a d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ne6]:M u m m i f i e d  T r o p h y%CONTINUE%
+ItemDisplay[(NMAG OR MAG) neb]:M i n i o n  S k u l l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ne2]:Z o m b i e  H e a d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ne7]:F e t i s h  T r o p h y%CONTINUE%
+ItemDisplay[(NMAG OR MAG) neg]:H e l l s p a w n  S k u l l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ne3]:U n r a v e l l e r  H e a d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ne8]:S e x t o n  T r o p h y%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ned]:O v e r s e e r  S k u l l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ne4]:G a r g o y l e  H e a d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ne9]:C a n t o r  T r o p h y%CONTINUE%
+ItemDisplay[(NMAG OR MAG) nee]:S u c c u b u s  S k u l l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ne5]:D e m o n  H e a d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) nea]:H i e r o p h a n t  T r o p h y%CONTINUE%
+ItemDisplay[(NMAG OR MAG) nef]:B l o o d l o r d  S k u l l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) hax]:H a n d  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9ha]:H a t c h e t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7ha]:T o m a h a w k%CONTINUE%
+ItemDisplay[(NMAG OR MAG) axe]:A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9ax]:C l e a v e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7ax]:S m a l l  C r e s c e n t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 2ax]:D o u b l e  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 92a]:T w i n  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 72a]:E t t i n  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) mpi]:M i l i t a r y  P i c k%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9mp]:C r o w b i l l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7mp]:W a r  S p i k e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) wax]:W a r  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9wa]:N a g a%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7wa]:B e r s e r k e r  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) lax]:L a r g e  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9la]:M i l i t a r y  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7la]:F e r a l  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) bax]:B r o a d  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9ba]:B e a r d e d  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7ba]:S i l v e r - e d g e d  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) btx]:B a t t l e  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9bt]:T a b a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7bt]:D e c a p i t a t o r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) gax]:G r e a t  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9ga]:G o t h i c  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7ga]:C h a m p i o n  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) gix]:G i a n t  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9gi]:A n c i e n t  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7gi]:G l o r i o u s  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) clb]:C l u b%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9cl]:C u d g e l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7cl]:T r u n c h e o n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) spc]:S p i k e d  C l u b%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9sp]:B a r b e d  C l u b%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7sp]:T y r a n t  C l u b%CONTINUE%
+ItemDisplay[(NMAG OR MAG) mac]:M a c e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9ma]:F l a n g e d  M a c e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7ma]:R e i n f o r c e d  M a c e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) mst]:M o r n i n g  S t a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9mt]:J a g g e d  S t a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7mt]:D e v i l  S t a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) fla]:F l a i l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9fl]:K n o u t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7fl]:S c o u r g e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) whm]:W a r  H a m m e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9wh]:B a t t l e  H a m m e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7wh]:L e g e n d a r y  M a l l e t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) mau]:M a u l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9m9]:W a r  C l u b%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7m7]:O g r e  M a u l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) gma]:G r e a t  M a u l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9gm]:M a r t e l  d e  F e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7gm]:T h u n d e r  M a u l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ssd]:S h o r t  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9ss]:G l a d i u s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7ss]:F a l c a t a%CONTINUE%
+ItemDisplay[(NMAG OR MAG) scm]:S c i m i t a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9sm]:C u t l a s s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7sm]:A t a g h a n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) sbr]:S a b r e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9sb]:S h a m s h i r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7sb]:E l e g a n t  B l a d e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) flc]:F a l c h i o n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9fc]:T u l w a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7fc]:H y d r a  E d g e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) crs]:C r y s t a l  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9cr]:D i m e n s i o n a l  B l a d e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7cr]:P h a s e  B l a d e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) bsd]:B r o a d  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9bs]:B a t t l e  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7bs]:C o n q u e s t  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) lsd]:L o n g  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9ls]:R u n e  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7ls]:C r y p t i c  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) wsd]:W a r  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9wd]:A n c i e n t  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7wd]:M y t h i c a l  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 2hs]:T w o - h a n d e d  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 92h]:E s p a n d o n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 72h]:L e g e n d  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) clm]:C l a y m o r e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9cm]:D a c i a n  F a l x%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7cm]:H i g h l a n d  B l a d e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) gis]:G i a n t  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9gs]:T u s k  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7gs]:B a l r o g  B l a d e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) bsw]:B a s t a r d  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9b9]:G o t h i c  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7b7]:C h a m p i o n  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) flb]:F l a m b e r g e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9fb]:Z w e i h a n d e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7fb]:C o l o s s u s  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) gsd]:G r e a t  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9gd]:E x e c u t i o n e r  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7gd]:C o l o s s u s  B l a d e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) dgr]:D a g g e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9dg]:P o i g n a r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7dg]:B o n e  K n i f e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) dir]:D i r k%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9di]:R o n d e l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7di]:M i t h r i l  P o i n t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) kri]:K r i s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9kr]:C i n q u e d e a s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7kr]:F a n g e d  K n i f e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) bld]:B l a d e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9bl]:S t i l e t t o%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7bl]:L e g e n d  S p i k e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) tkf]:T h r o w i n g  K n i f e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9tk]:B a t t l e  D a r t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7tk]:F l y i n g  K n i f e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) tax]:T h r o w i n g  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9ta]:F r a n c i s c a%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7ta]:F l y i n g  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) bkf]:B a l a n c e d  K n i f e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9bk]:W a r  D a r t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7bk]:W i n g e d  K n i f e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) bal]:B a l a n c e d  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9b8]:H u r l b a t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7b8]:W i n g e d  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) jav]:J a v e l i n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9ja]:W a r  J a v e l i n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7ja]:H y p e r i o n  J a v e l i n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) pil]:P i l u m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9pi]:G r e a t  P i l u m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7pi]:S t y g i a n  P i l u m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ssp]:S h o r t  S p e a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9s9]:S i m b i l a n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7s7]:B a l r o g  S p e a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) glv]:G l a i v e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9gl]:S p i c u l u m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7gl]:G h o s t  G l a i v e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) tsp]:T h r o w i n g  S p e a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9ts]:H a r p o o n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7ts]:W i n g e d  H a r p o o n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) spr]:S p e a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9sr]:W a r  S p e a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7sr]:H y p e r i o n  S p e a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) tri]:T r i d e n t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9tr]:F u s c i n a%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7tr]:S t y g i a n  P i k e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) brn]:B r a n d i s t o c k%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9br]:W a r  F o r k%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7br]:M a n c a t c h e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) spt]:S p e t u m%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9st]:Y a r i%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7st]:G h o s t  S p e a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) pik]:P i k e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9p9]:L a n c e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7p7]:W a r  P i k e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) bar]:B a r d i c h e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9b7]:L o c h a b e r  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7o7]:O g r e  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) vou]:V o u l g e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9vo]:B i l l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7vo]:C o l o s s u s  V o u l g e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) scy]:S c y t h e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9s8]:B a t t l e  S c y t h e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7s8]:T h r e s h e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) pax]:P o l e a x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9pa]:P a r t i z a n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7pa]:C r y p t i c  A x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) hal]:H a l b e r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9h9]:B e c - d e - C o r b i n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7h7]:G r e a t  P o l e a x e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) wsc]:W a r  S c y t h e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9wc]:G r i m  S c y t h e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7wc]:G i a n t  T h r e s h e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) sbw]:S h o r t  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8sb]:E d g e  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6sb]:S p i d e r  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) hbw]:H u n t e r s  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8hb]:R a z o r  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6hb]:B l a d e  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) lbw]:L o n g  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8lb]:C e d a r  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6lb]:S h a d o w  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) cbw]:C o m p o s i t e  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8cb]:D o u b l e  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6cb]:G r e a t  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) sbb]:S h o r t  B a t t l e  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8s8]:S h o r t  S i e g e  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6s7]:D i a m o n d  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) lbb]:L o n g  B a t t l e  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8l8]:L a r g e  S i e g e  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6l7]:C r u s a d e r  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) swb]:S h o r t  W a r  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8sw]:R u n e  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6sw]:W a r d  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) lwb]:L o n g  W a r  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8lw]:G o t h i c  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6lw]:H y d r a  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) lxb]:L i g h t  C r o s s b o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8lx]:A r b a l e s t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6lx]:P e l l e t  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) mxb]:C r o s s b o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8mx]:S i e g e  C r o s s b o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6mx]:G o r g o n  C r o s s b o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) hxb]:H e a v y  C r o s s b o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8hx]:B a l l i s t a%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6hx]:C o l o s s u s  C r o s s b o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) rxb]:R e p e a t i n g  C r o s s b o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8rx]:C h u - K o - N u%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6rx]:D e m o n  C r o s s b o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) sst]:S h o r t  S t a f f%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8ss]:J o  S t a f f%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6ss]:W a l k i n g  S t i c k%CONTINUE%
+ItemDisplay[(NMAG OR MAG) lst]:L o n g  S t a f f%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8ls]:Q u a r t e r s t a f f%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6ls]:S t a l a g m i t e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) cst]:G n a r l e d  S t a f f%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8cs]:C e d a r  S t a f f%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6cs]:E l d e r  S t a f f%CONTINUE%
+ItemDisplay[(NMAG OR MAG) bst]:B a t t l e  S t a f f%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8bs]:G o t h i c  S t a f f%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6bs]:S h i l l e l a g h%CONTINUE%
+ItemDisplay[(NMAG OR MAG) wst]:W a r  S t a f f%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 8ws]:R u n e  S t a f f%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 6ws]:A r c h o n  S t a f f%CONTINUE%
+ItemDisplay[(NMAG OR MAG) wnd]:W a n d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9wn]:B u r n t  W a n d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7wn]:P o l i s h e d  W a n d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ywn]:Y e w  W a n d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9yw]:P e t r i f i e d  W a n d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7yw]:G h o s t  W a n d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) bwn]:B o n e  W a n d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9bw]:T o m b  W a n d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7bw]:L i c h  W a n d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) gwn]:G r i m  W a n d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9gw]:G r a v e  W a n d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7gw]:U n e a r t h e d  W a n d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) scp]:S c e p t e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9sc]:R u n e  S c e p t e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7sc]:M i g h t y  S c e p t e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) gsc]:G r a n d  S c e p t e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9qs]:H o l y  W a t e r  S p r i n k l e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7qs]:S e r a p h  R o d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) wsp]:W a r  S c e p t e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9ws]:D i v i n e  S c e p t e r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7ws]:C a d u c e u s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ktr]:K a t a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9ar]:Q u h a b%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7ar]:S u w a y y a h%CONTINUE%
+ItemDisplay[(NMAG OR MAG) wrb]:W r i s t  B l a d e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9wb]:W r i s t  S p i k e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7wb]:W r i s t  S w o r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) axf]:H a t c h e t  H a n d s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9xf]:F a s c i a%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7xf]:W a r  F i s t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ces]:C e s t u s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9cs]:H a n d  S c y t h e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7cs]:B a t t l e  C e s t u s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) clw]:C l a w s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9lw]:G r e a t e r  C l a w s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7lw]:F e r a l  C l a w s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) btl]:B l a d e  T a l o n s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9tw]:G r e a t e r  T a l o n s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7tw]:R u n i c  T a l o n s%CONTINUE%
+ItemDisplay[(NMAG OR MAG) skr]:S c i s s o r s  K a t a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 9qr]:S c i s s o r s  Q u h a b%CONTINUE%
+ItemDisplay[(NMAG OR MAG) 7qr]:S c i s s o r s  S u w a y y a h%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ob1]:E a g l e  O r b%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ob6]:G l o w i n g  O r b%CONTINUE%
+ItemDisplay[(NMAG OR MAG) obb]:H e a v e n l y  S t o n e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ob2]:S a c r e d  G l o b e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ob7]:C r y s t a l l i n e  G l o b e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) obc]:E l d r i t c h  O r b%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ob3]:S m o k e d  S p h e r e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ob8]:C l o u d y  S p h e r e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) obd]:D e m o n  H e a r t%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ob4]:C l a s p e d  O r b%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ob9]:S p a r k l i n g  B a l l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) obe]:V o r t e x  O r b%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ob5]:J a r e d ' s  S t o n e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) oba]:S w i r l i n g  C r y s t a l%CONTINUE%
+ItemDisplay[(NMAG OR MAG) obf]:D i m e n s i o n a l  S h a r d%CONTINUE%
+ItemDisplay[(NMAG OR MAG) am1]:S t a g  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) am6]:A s h w o o d  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) amb]:M a t r i a r c h a l  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) am2]:R e f l e x  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) am7]:C e r e m o n i a l  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) amc]:G r a n d  M a t r o n  B o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) am3]:M a i d e n  S p e a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) am8]:C e r e m o n i a l  S p e a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) amd]:M a t r i a r c h a l  S p e a r%CONTINUE%
+ItemDisplay[(NMAG OR MAG) am4]:M a i d e n  P i k e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) am9]:C e r e m o n i a l  P i k e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ame]:M a t r i a r c h a l  P i k e%CONTINUE%
+ItemDisplay[(NMAG OR MAG) am5]:M a i d e n  J a v e l i n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) ama]:C e r e m o n i a l  J a v e l i n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) amf]:M a t r i a r c h a l  J a v e l i n%CONTINUE%
+ItemDisplay[(NMAG OR MAG) aqv]:A r r o w%CONTINUE%
+ItemDisplay[(NMAG OR MAG) cqv]:B o l t%CONTINUE%
 
 ItemDisplay[(SET OR UNI) !ID cap]:C a p%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xap]:W a r  H a t%CONTINUE%
