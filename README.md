@@ -148,6 +148,6 @@
 ----------------------------------------------------------------------------------------------------------------------
      18. 6/07
       1) Circlet(Magic, Rare and Craft) has ultimate option when they corruppted for 1 all skill.
-      2) Staves, wand and scepter no longer have maring about Enhanced damage option of runeword base.
+      2) Staves, wand and scepter no longer have marking about Enhanced damage option of runeword base.
 ----------------------------------------------------------------------------------------------------------------------
                                                                                                                                  
