@@ -146,4 +146,8 @@
       5) Anybugs fixed
       6) Diabled function about "Filter level over 5 no longer to drop large charm" (Always activated)
 ----------------------------------------------------------------------------------------------------------------------
-                                                                                                                       
+     18. 6/07
+      1) Circlet(Magic, Rare and Craft) has ultimate option when they corruppted for 1 all skill.
+      2) Staves, wand and scepter no longer have marking about Enhanced damage option of runeword base.
+----------------------------------------------------------------------------------------------------------------------
+                                                                                                                                 
