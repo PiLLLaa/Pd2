@@ -150,4 +150,9 @@
       1) Circlet(Magic, Rare and Craft) has ultimate option when they corruppted for 1 all skill.
       2) Staves, wand and scepter no longer have marking about Enhanced damage option of runeword base.
 ----------------------------------------------------------------------------------------------------------------------
-                                                                                                                                 
+     19. 6/08
+      1) Magic Orb will be dropped for craft base (Swirling Crystal and Dimensional Shard)
+      2) Nosferatu's Coil has ultimate option when Increased attack speed is 30%
+      
+----------------------------------------------------------------------------------------------------------------------
+                                                                                                                                     
