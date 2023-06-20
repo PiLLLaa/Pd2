@@ -155,4 +155,10 @@
       2) Nosferatu's Coil has ultimate option when Increased attack speed is 30%
       
 ----------------------------------------------------------------------------------------------------------------------
-                                                                                                                                     
+     20. 6/20
+      1) Modified Wands has no grade option marking
+      2) Now, Jewel have marking for Super Specical when 3/2, 2/3 Dual after each kill
+      3) Runeword marking was fixed.
+      
+----------------------------------------------------------------------------------------------------------------------
+                                                                                                                                            
