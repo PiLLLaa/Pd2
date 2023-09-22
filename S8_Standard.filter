@@ -959,6 +959,10 @@ ItemDisplay[rtp]:%MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PU
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                               PD2 MAP ORB ITEM                                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[irma]:%MAP-0B%    %WHITE%Infused %GOLD%Arcane %RED%Orb%WHITE%* %GREEN%%QTY%    {%WHITE%Infused %GOLD%Arcane Orb : upgrade map (common -> magic)}
+ItemDisplay[irra]:%MAP-0B%    %WHITE%Infused %GOLD%Zakarum %BLUE%Orb%WHITE%* %GREEN%%QTY%    {%WHITE%Infused %GOLD%Zakarum Orb : upgrade map (common -> rare)}
+ItemDisplay[urma]:%MAP-0B%    %WHITE%Infused %GOLD%Angelic %WHITE%Orb%WHITE%* %GREEN%%QTY%    {%WHITE%Infused %GOLD%Angelic Orb : upgrade map (magic -> rare)}
+ItemDisplay[rrra]:%MAP-0B%    %WHITE%Infused %GOLD%Horadrim %YELLOW%Orb%WHITE%* %GREEN%%QTY%    {%WHITE%Infused %GOLD%Angelic Orb : reroll rare map}
 ItemDisplay[imma]:%MAP-0B%    %GOLD%Arcane %RED%Orb%WHITE%* %GREEN%%QTY%    {%GOLD%Arcane Orb%GOLD%+%WHITE%Map%GOLD%+%BLUE%Jewel%NL%%GOLD%Arcane Orb : upgrade map (common -> magic) %NL%}
 ItemDisplay[imra]:%MAP-0B%    %GOLD%Zakarum %BLUE%Orb%WHITE%* %GREEN%%QTY%    {%GOLD%Zakarum Orb%GOLD%+%WHITE%Map%GOLD%+%BLUE%Jewel%GOLD%+%GREEN%RUNE10++%NL%%GOLD%Zakarum Orb : upgrade map (common -> rare) %NL%}
 ItemDisplay[upma]:%MAP-0B%    %GOLD%Angelic %WHITE%Orb%WHITE%* %GREEN%%QTY%    {%GOLD%Angelic Orb%GOLD%+%BLUE%MAGIC Map%GOLD%+%GOLD%P_%ORANGE%SKULL%GOLD%+%GREEN%RUNE10++%NL%%GOLD%Angelic Orb : upgrade map (magic -> rare) %NL%}
