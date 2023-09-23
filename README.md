@@ -24,6 +24,7 @@
  
  ### S6 Updated 26.Nov
  ### S7 Updated 23.Apr
+ ### S8 Updated 20.Sep
 
  ### Explanation for Each Filter 
     1. Hype : Various colour table
