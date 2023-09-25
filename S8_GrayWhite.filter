@@ -111,29 +111,29 @@ ItemDisplay[ibk]:%TEAL%[%CORAL%Identify%TEAL%] %GRAY%Book%WHITE%*%SAGE%%QTY%
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                       POTION                                                //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[tpfs DIFF<1]:%CORAL%!%WHITE%Fire1{%GOLD%Reducing %CORAL%fire resistance %GOLD% of enemies}
+ItemDisplay[tpfs DIFF<1]:%CORAL%!%WHITE%F1{%GOLD%Reducing %CORAL%fire resistance %GOLD% of enemies}
 ItemDisplay[tpfs DIFF>0]:
-ItemDisplay[tpfm DIFF<2]:%CORAL%!%WHITE%Fire2{%GOLD%Reducing %CORAL%fire resistance %GOLD% of enemies}
+ItemDisplay[tpfm DIFF<2]:%CORAL%!%WHITE%F2{%GOLD%Reducing %CORAL%fire resistance %GOLD% of enemies}
 ItemDisplay[tpfm DIFF>0]:
-ItemDisplay[tpfl]:%CORAL%!%WHITE%Fire3{%GOLD%Reducing %CORAL%fire resistance %GOLD% of enemies}
+ItemDisplay[tpfl]:%CORAL%!%WHITE%F3{%GOLD%Reducing %CORAL%fire resistance %GOLD% of enemies}
 
-ItemDisplay[tpgs DIFF<1]:%SAGE%!%WHITE%Poison1{%GOLD%Reducing %SAGE%Poison resistance %GOLD% of enemies}
+ItemDisplay[tpgs DIFF<1]:%SAGE%!%WHITE%P1{%GOLD%Reducing %SAGE%Poison resistance %GOLD% of enemies}
 ItemDisplay[tpgs DIFF>0]:
-ItemDisplay[tpgm DIFF<2]:%SAGE%!%WHITE%Poison2{%GOLD%Reducing %SAGE%Poison resistance %GOLD% of enemies}
+ItemDisplay[tpgm DIFF<2]:%SAGE%!%WHITE%P2{%GOLD%Reducing %SAGE%Poison resistance %GOLD% of enemies}
 ItemDisplay[tpgm DIFF>0]:
-ItemDisplay[tpgl]:%SAGE%!%WHITE%Poison3{%GOLD%Reducing %SAGE%Poison resistance %GOLD% of enemies}
+ItemDisplay[tpgl]:%SAGE%!%WHITE%P3{%GOLD%Reducing %SAGE%Poison resistance %GOLD% of enemies}
 
-ItemDisplay[tpcs DIFF<1]:%WHITE%!%WHITE%Cold1{%GOLD%Reducing %WHITE%Cold resistance %GOLD% of enemies}
+ItemDisplay[tpcs DIFF<1]:%WHITE%!%WHITE%C1{%GOLD%Reducing %WHITE%Cold resistance %GOLD% of enemies}
 ItemDisplay[tpcs DIFF>0]:
-ItemDisplay[tpcm DIFF<2]:%WHITE%!%WHITE%Cold2{%GOLD%Reducing %WHITE%Cold resistance %GOLD% of enemies}
+ItemDisplay[tpcm DIFF<2]:%WHITE%!%WHITE%C2{%GOLD%Reducing %WHITE%Cold resistance %GOLD% of enemies}
 ItemDisplay[tpcm DIFF>0]:
-ItemDisplay[tpcl]:%WHITE%!%WHITE%Cold3{%GOLD%Reducing %WHITE%Cold resistance %GOLD% of enemies}
+ItemDisplay[tpcl]:%WHITE%!%WHITE%C3{%GOLD%Reducing %WHITE%Cold resistance %GOLD% of enemies}
 
-ItemDisplay[tpls DIFF<1]:%LIGHT_GRAY%!%WHITE%Lightning1{%GOLD%Reducing %LIGHT_GRAY%Lightning resistance %GOLD% of enemies}
+ItemDisplay[tpls DIFF<1]:%LIGHT_GRAY%!%WHITE%L1{%GOLD%Reducing %LIGHT_GRAY%Lightning resistance %GOLD% of enemies}
 ItemDisplay[tpls DIFF>0]:
-ItemDisplay[tplm DIFF<2]:%LIGHT_GRAY%!%WHITE%Lightning2{%GOLD%Reducing %LIGHT_GRAY%Lightning resistance %GOLD% of enemies}
+ItemDisplay[tplm DIFF<2]:%LIGHT_GRAY%!%WHITE%L2{%GOLD%Reducing %LIGHT_GRAY%Lightning resistance %GOLD% of enemies}
 ItemDisplay[tplm DIFF>0]:
-ItemDisplay[tpll]:%LIGHT_GRAY%!%WHITE%Lightning3{%GOLD%Reducing %LIGHT_GRAY%Lightning resistance %GOLD% of enemies}																					   
+ItemDisplay[tpll]:%LIGHT_GRAY%!%WHITE%L3{%GOLD%Reducing %LIGHT_GRAY%Lightning resistance %GOLD% of enemies}																					   
 ItemDisplay[hp5]:%RED%!%WHITE%HP
 ItemDisplay[mp5]:%BLUE%!%WHITE%MP
 ItemDisplay[hp4 DIFF<1]:%RED%!%WHITE%HP4
@@ -1231,7 +1231,7 @@ ItemDisplay[t3a ID]:%NAME%{%PURPLE%[%ORANGE%Magic %YELLOW%120 %YELLOW%Light %ORA
 //T5
 ItemDisplay[t51 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%85 %YELLOW%Light %YELLOW%85 %BLUE%Cold %TEAL%85 %GREEN%Poison %SAGE%95 %ORANGE%Magic %YELLOW%40 %WHITE%Phys %LIGHT_GRAY%65%PURPLE%]}%CONTINUE%
 ItemDisplay[t52 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%65 %YELLOW%Light %YELLOW%60 %BLUE%Cold %TEAL%65 %GREEN%Poison %SAGE%75 %ORANGE%Magic %YELLOW%50 %WHITE%Phys %LIGHT_GRAY%50%PURPLE%]}%CONTINUE%
-ItemDisplay[t53 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%?? %YELLOW%Light %YELLOW%?? %BLUE%Cold %TEAL%?? %GREEN%Poison %SAGE%?? %ORANGE%Magic %YELLOW%?? %WHITE%Phys %LIGHT_GRAY%??%PURPLE%]}%CONTINUE%
+ItemDisplay[t53 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%70 %YELLOW%Light %YELLOW%75 %BLUE%Cold %TEAL%65 %GREEN%Poison %SAGE%80 %ORANGE%Magic %YELLOW%80 %WHITE%Phys %LIGHT_GRAY%60%PURPLE%]}%CONTINUE%
 
 //ItemDisplay[(t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19 OR t20 OR t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29 OR t30 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t37 OR t38 OR t39 OR t40 OR t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) ID]:%NAME%{%CORAL%--%GRAY%--%LIGHT_GRAY%--%SAGE%--%WHITE%--%TEAL%--%CORAL%--%GRAY%--%LIGHT_GRAY%--%SAGE%--%WHITE%--%TEAL%--%CORAL%--%GRAY%--%LIGHT_GRAY%--%SAGE%--%WHITE%--%TEAL%--%CORAL%--%GRAY%--%LIGHT_GRAY%--%SAGE%--%WHITE%--%TEAL%--%CORAL%--%GRAY%--%LIGHT_GRAY%--%SAGE%--%WHITE%--%TEAL%--}%CONTINUE%
 //ItemDisplay[(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19 OR t20 OR t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29 OR t30 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t37 OR t38 OR t39) ID]:%NAME%{%GOLD%--- --- --- --- --- --- --- --- --- --- --- --- --- ---}%CONTINUE%
