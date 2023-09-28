@@ -9287,6 +9287,9 @@ ItemDisplay[SET ID !EQUIPPED ne9]:				%NAME%{%SAGE%-25% to Enemy Poison Resistan
 ItemDisplay[SET ID !EQUIPPED utc STAT153>0]:			%NAME%{%SAGE%Cold Resist +40% %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%													// Trang-Oul's Girth
 ItemDisplay[SET ID !EQUIPPED xmg FCR>19]:			%NAME%{%SAGE%+20 to Meteor %PURPLE%<4 Sets>%NL%%NAME%}%CONTINUE%													// Trang-Oul's Claws
 
+//Actication
+ItemDisplay[NMAG (EQUIPPED OR GEMMED OR SHOP OR MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%GRAY%%NAME%{%NL%%CORAL%When gemmed, equipped, shop and in town%NL%%WHITE%+%RED%Only Activated%WHITE%+%NL%%NAME%}
+
 //RAHTMA
 ItemDisplay[(UNI) ID rar]:%NAME%{%RED%Ca%ORANGE%ge %YELLOW%Of %PURPLE%the %GOLD%Unsullied%NL%%NAME%}
 ItemDisplay[(UNI) ID rbe]:%NAME%{%RED%Ba%ORANGE%nd %YELLOW%Of %PURPLE%Sk%GREEN%ul%BLUE%ls%NL%%NAME%}
