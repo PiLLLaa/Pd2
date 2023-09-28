@@ -97,8 +97,8 @@
        : Not avaliable for Runeword, Set, Wand and Staves
        : Only shown Weponspeed & Range value when exceptional & Normal item.
        : Elite Item can show special markinng (Very fast > Fast > Normal > Slow > Very Slow)
-      ![image](https://github.com/PiLLLaa/Pd2/assets/76995697/e79f2915-0cbf-4a79-959c-c75bca1c0142)
+
 ----------------------------------------------------------------------------------------------------------------------
                                                                                                                                                                                        
-                                                                                                                                            
+![image](https://github.com/PiLLLaa/Pd2/assets/76995697/e79f2915-0cbf-4a79-959c-c75bca1c0142)                                                                                                                                            
 
