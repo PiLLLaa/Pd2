@@ -91,5 +91,12 @@
       1) Filter bugs fixed
       2) Added Marking ice barrage for staves.
 ----------------------------------------------------------------------------------------------------------------------
-                                                                                                                                                                        
-                                                                                                                                            
+    5. 9/29
+      1) Filter bugs fixed
+      2) Added Marking for Weapon speed & range.
+       : Not avaliable for Runeword, Set, Wand and Staves
+       : Only shown Weponspeed & Range value when exceptional & Normal item.
+       : Elite Item can show special markinng (Very fast > Fast > Normal > Slow > Very Slow)
+
+----------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/PiLLLaa/Pd2/assets/76995697/31c3ba6b-6c7a-4b46-a4ca-a702bc91b9e4)
