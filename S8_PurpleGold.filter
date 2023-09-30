@@ -3460,7 +3460,7 @@ ItemDisplay[(tsp OR 9ts OR 7ts OR glv OR 9gl OR 7gl) ETH MAG !ID]: %ORANGE%*%PUR
 ItemDisplay[(9ta OR 7ta OR 9s9 OR 7s7 OR 9b8 OR 7b8) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft throwing]
 ItemDisplay[(9ta OR 7ta OR 9s9 OR 7s7 OR 9b8 OR 7b8) ETH MAG !ID]: %ORANGE%*%PURPLE%* %PURPLE%ETH %BLUE%%NAME%%NL%%GRAY%[craft throwing] %PURPLE%*%ORANGE%*
 ItemDisplay[(9gm OR 7gm) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft maul]
-ItemDisplay[(gma OR 9gm OR 7gm) ETH MAG !ID]: %ORANGE%*%PURPLE%* %PURPLE%ETH %BLUE%%NAME%%NL%%GRAY%[craft maul] %PURPLE%*%ORANGE%*
+ItemDisplay[(mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm) ETH MAG !ID]: %ORANGE%*%PURPLE%* %PURPLE%ETH %BLUE%%NAME%%NL%%GRAY%[craft maul] %PURPLE%*%ORANGE%*
 ItemDisplay[(9gd OR 7gd OR 9ls OR 7ls) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft sword]
 ItemDisplay[(9fb OR 7fb OR 9gd OR 7gd OR 9ls OR 7ls) ETH MAG !ID]: %PURPLE%ETH %BLUE%%NAME%%NL%%GRAY%[craft sword]
 ItemDisplay[(9xf OR 7xf OR 9lw OR 7lw OR 9tw OR 7tw OR 9qr OR 7qr) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft claw]
@@ -4220,6 +4220,8 @@ ItemDisplay[(WEAPON) NMAG !RW !SUP SOCK=0]:%NAME%{%NL%%YELLOW%(Weapon Random Soc
 ItemDisplay[(WEAPON OR ARMOR) NMAG NORM]:%NAME%{%NL%%DARK_GREEN%(NORMAL)%NAME%}%CONTINUE%
 ItemDisplay[(WEAPON OR ARMOR) NMAG EXC]:%NAME%{%NL%%ORANGE%(EXCEPTIONAL)%NAME%}%CONTINUE%
 ItemDisplay[(WEAPON OR ARMOR) NMAG ELT]:%NAME%{%NL%%PURPLE%(ELITE)%NAME%}%CONTINUE%
+
+ItemDisplay[WEAPON NMAG !RW !WP11 !WP12]:%NAME%{%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %WHITE%++%NAME%}%CONTINUE%
 
 //RUNEWORD COMMENTS
 //EQ1	HELM	Helmets	includes class helms
