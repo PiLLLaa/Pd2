@@ -100,3 +100,12 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/PiLLLaa/Pd2/assets/76995697/31c3ba6b-6c7a-4b46-a4ca-a702bc91b9e4)
+
+
+    6. 10/01
+      1) Filter bugs fixed
+          - Hyper filter double marking for base item's socket
+      2) Added Marking for Weapon speed & range for base item.
+      3) Craft Item added for etherial "maul, war club and ogre maul"
+
+----------------------------------------------------------------------------------------------------------------------
