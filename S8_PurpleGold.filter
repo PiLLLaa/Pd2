@@ -15,7 +15,7 @@ ItemDisplayFilterName[]: ++++++No CraftWeapon(OnlyActiveETH+GMB),AllSet(rin+amu)
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      Filter Level Disable Item                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[(hp5 OR mp5 OR rvs) FILTLVL>2]:
+ItemDisplay[(hp5 OR mp5 OR rvs OR tpfl OR tpgl OR tpcl OR tpll) FILTLVL>2]:
 ItemDisplay[yps FILTLVL>2]:
 ItemDisplay[MAG rin !ID FILTLVL>2]: 
 ItemDisplay[MAG amu !ID FILTLVL>4]:
