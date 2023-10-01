@@ -109,6 +109,106 @@ ItemDisplay[tr2]:%PURPLE%[%RED%Scroll%PURPLE%] %GREEN%of Resistance
 ItemDisplay[(bbb OR ass OR bkd OR bks OR box OR g34 OR ice OR j34 OR mss OR qbr OR qey OR qhr OR tr1 OR tr2 OR xyz)]:%TAN%%NAME%
 ItemDisplay[tbk]:%PURPLE%[%BLUE%Portal%PURPLE%] %ORANGE%Book%WHITE%*%GREEN%%QTY%
 ItemDisplay[ibk]:%PURPLE%[%RED%Identify%PURPLE%] %ORANGE%Book%WHITE%*%GREEN%%QTY%
+//Gambling
+ItemDisplay[NMAG rin !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Jordan,Bulkathos,Wisp %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG amu !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Mara,Highlord,Atma %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG cap !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Shako %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG hlm !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Steel Shade %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG msk !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Andariel %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG bhm !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Giant Skull %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG ghm !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%VeilofSteel,Nightwing %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG crn !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Crown of Ages %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (cio OR ci1) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Kira,Griffon %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (qui) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Ormus %GOLD%****
+ItemDisplay[NMAG (lea) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Skin of the Vipermagi %GOLD%****
+ItemDisplay[NMAG (stu) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Gladiator's Bane %GOLD%****
+ItemDisplay[NMAG (scl) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GREEN%Natalya's Shadow %GOLD%****
+ItemDisplay[NMAG (chn) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%ShaftStop %GOLD%****
+ItemDisplay[NMAG (brs) !ID SHOP]: %GRAY%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Venom,Duriel %GRAY%****
+ItemDisplay[NMAG (spl) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Arkaine's Valor %GOLD%****
+ItemDisplay[NMAG (plt) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Guardian Angel %GOLD%****
+ItemDisplay[NMAG (fld) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Toothrow,Leviathan %GOLD%****
+ItemDisplay[NMAG (gth) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Atmas,%GREEN%Tal Rasha %GOLD%****
+ItemDisplay[NMAG (ltp) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Que-Hegan,%ORANGE%Purgatory %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (ful) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Hades,Carapace %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (aar) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %RED%Templar,%ORANGE%Tyrael %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (kit) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Stormshield %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (bsh) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%LidlessWall,HeadHunter %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (tow) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Gerke,%ORANGE%Medusa %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (gts) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Radament,%ORANGE%SpritWard %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (lgl) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%VenomGrip,%GREEN%Laingofhand %GOLD%****
+ItemDisplay[NMAG (vgl) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Gravepalm,%ORANGE%Dracul %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (mgl) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Soul Drainer %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (tgl) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Occultist %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (hgl) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Steelrend %GOLD%****
+ItemDisplay[NMAG (lbt) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Merman's Sprocket %GOLD%****
+ItemDisplay[NMAG (vbt) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Sandstorm %GOLD%****
+ItemDisplay[NMAG (mbt) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Silkweave,Marrowwalk %GOLD%****
+ItemDisplay[NMAG (tbt) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%War Traveler %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (hbt) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Shadow Dancer %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (lbl) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%StringofEars,%ORANGE%Arachnid %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (vbl) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Razortail,%ORANGE%Nosferatu %GOLD%****
+ItemDisplay[NMAG (mbl) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Verdungo %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (tbl) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Snowclash %GOLD%****
+ItemDisplay[NMAG (hbl) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Thundergod %GOLD%****
+ItemDisplay[NMAG (dr1) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Cerebus %GOLD%****
+ItemDisplay[NMAG (dr3) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Spirit %GOLD%****
+ItemDisplay[NMAG (dr4) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Ravenlore %GOLD%****
+ItemDisplay[NMAG (dr5) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Jalal,%ORANGE%Ursa %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (ba1) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Cyclopean Roar %GOLD%****
+ItemDisplay[NMAG (ba2) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Wolfhowl %GOLD%****
+ItemDisplay[NMAG (ba3) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Demonhorn %GOLD%****
+ItemDisplay[NMAG (ba4) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Halaberd %GOLD%****
+ItemDisplay[NMAG (ba5) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %ORANGE%Arreat,%GOLD%Raekor %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (pa2) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Alma Negra %GOLD%****
+ItemDisplay[NMAG (pa4) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %ORANGE%Herald,%GOLD%Dragon %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (pa5) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GREEN%Griswold's Honor %GOLD%****
+ItemDisplay[NMAG (ne1) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Kalan's Legacy %GOLD%****
+ItemDisplay[NMAG (ne3) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Martyrdom %GOLD%****
+ItemDisplay[NMAG (ne4) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Boneflame,%GREEN%Trang-Oul %GOLD%****
+ItemDisplay[NMAG (ne5) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %ORANGE%Homunculus,%GOLD%Darkforce %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+
+ItemDisplay[NMAG (whm) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Stone,Schaefer %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (mau) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Windhammer %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (gma) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Gavel,Earth,Cranium %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (crs) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Lightsabre,Azurewrath %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (lsd) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Frostwind %GOLD%****
+ItemDisplay[NMAG (clm) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Leoric %GOLD%****
+ItemDisplay[NMAG (flb) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Odium %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (gsd) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Grandfather %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (bal) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Lacerator %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (glv) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Wraith Flight %GOLD%****
+ItemDisplay[NMAG (pik) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Steel Pillar %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (spt) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Uldyssian %GOLD%****
+ItemDisplay[NMAG (scy) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%The reaper's Toll %GOLD%****
+ItemDisplay[NMAG (pax) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Tomb Reaver %GOLD%****
+ItemDisplay[NMAG (wsc) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Grim,Stormspire %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (sbb) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Witchwild %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (lbb) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Eaglehorn %GOLD%****
+ItemDisplay[NMAG (swb) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Widowmaker %GOLD%****
+ItemDisplay[NMAG (lwb) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Windforce %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (mxb) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Pus Spitter %GOLD%****
+ItemDisplay[NMAG (hxb) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Buriza,HellRack %GOLD%****
+ItemDisplay[NMAG (rxb) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%DemonMachine,Gut Siphon %GOLD%****
+ItemDisplay[NMAG (cst) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Ondal %GOLD%****
+ItemDisplay[NMAG (bst) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Brimstone Rain %GOLD%****
+ItemDisplay[NMAG (wst) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Skull,%ORANGE%MangSong %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (bwn) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Arm of King,Boneshade %GOLD%****
+ItemDisplay[NMAG (gwn) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Blackhand,%ORANGE%Death's Web %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (scp) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Heaven,Redeemer %GOLD%****
+ItemDisplay[NMAG (gsc) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Akarat %GOLD%****
+ItemDisplay[NMAG (wsp) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Hand,Astreon,%GREEN%Griswold %GOLD%****
+ItemDisplay[NMAG (ces) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Shadow Killer %GOLD%****
+ItemDisplay[NMAG (btl) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Bartuc,%ORANGE%Stalker %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (ob1) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Tempest %GOLD%****
+ItemDisplay[NMAG (ob2) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Eschuta %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (ob5) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Oculus,%ORANGE%Fathom %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (am5) !ID SHOP]: %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Titan,%ORANGE%Thunderstroke %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
+ItemDisplay[NMAG (am1) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Blood raven %GOLD%****
+ItemDisplay[NMAG (am2) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Lycander,%GREEN%M'avina %GOLD%****
+ItemDisplay[NMAG (am3) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Stoneraven %GOLD%****
+ItemDisplay[NMAG (am4) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Zerae %GOLD%****
+
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                       POTION                                                //
 /////////////////////////////////////////////////////////////////////////////////////////////////
