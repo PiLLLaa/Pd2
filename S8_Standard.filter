@@ -208,6 +208,7 @@ ItemDisplay[NMAG (am2) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%
 ItemDisplay[NMAG (am3) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Stoneraven %GOLD%****
 ItemDisplay[NMAG (am4) !ID SHOP]: %GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best: %GOLD%Zerae %GOLD%****
 
+ItemDisplay[NMAG (WEAPON OR ARMOR) !ID SHOP]: %CORAL%[%RED%%NAME%%CORAL%]
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                       POTION                                                //
 /////////////////////////////////////////////////////////////////////////////////////////////////
