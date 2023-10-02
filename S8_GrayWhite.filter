@@ -3562,8 +3562,8 @@ ItemDisplay[(xpk OR upk OR xts OR uts OR xml OR uml OR xit OR uit OR xrg OR urg 
 ItemDisplay[(xlt OR ult OR xld OR uld OR xtp OR utp OR xrs OR urs) ETH MAG !ID]: %TEAL%ETH %BLUE%%BLUE%%NAME%%NL%%GRAY%[craft chest]
 
 ItemDisplay[(am2 OR am7 OR amc) !ETH MAG !ID]: %DOT-75%%GRAY%*%TEAL%* %BLUE%%NAME%%NL%%GRAY%[craft bow] %TEAL%*%GRAY%*
-ItemDisplay[(6lw OR 8lw) !ETH MAG !ID]: %DOT-75%%GRAY%*%TEAL%* %BLUE%%NAME%%NL%%GRAY%[craft bow] %TEAL%*%GRAY%*
-ItemDisplay[(8rx OR 6rx OR 6mx OR 6hx) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft cbow]
+//ItemDisplay[(6lw OR 8lw) !ETH MAG !ID]: %DOT-75%%GRAY%*%TEAL%* %BLUE%%NAME%%NL%%GRAY%[craft bow] %TEAL%*%GRAY%*
+//ItemDisplay[(8rx OR 6rx OR 6mx OR 6hx) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft cbow]
 ItemDisplay[(tsp OR 9ts OR 7ts OR glv OR 9gl OR 7gl) !ETH MAG !ID]: %GRAY%* %BLUE%%NAME%%NL%%GRAY%[craft glave] %GRAY%*
 ItemDisplay[(tsp OR 9ts OR 7ts OR glv OR 9gl OR 7gl) ETH MAG !ID]: %GRAY%*%TEAL%* %TEAL%ETH %BLUE%%NAME%%NL%%GRAY%[craft glave] %TEAL%*%GRAY%*
 ItemDisplay[(9ta OR 7ta OR 9s9 OR 7s7 OR 9b8 OR 7b8) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft throwing]
