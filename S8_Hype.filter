@@ -7533,7 +7533,7 @@ ItemDisplay[!RW !SET !WP11 !WP12 (am3 OR am8 OR amd)]:%NAME%{%WHITE%++ %GOLD%Wea
 ItemDisplay[!RW !SET !WP11 !WP12 am4]:%NAME%{%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %GRAY%(Normal) %WHITE%++%NL%%NAME%}%CONTINUE%
 ItemDisplay[!RW !SET !WP11 !WP12 (am9 OR ame)]:%NAME%{%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %BLUE%(Slow) %WHITE%++%NL%%NAME%}%CONTINUE%
 ItemDisplay[!RW !SET !WP11 !WP12 (am5 OR ama OR amf)]:%NAME%{%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %RED%(Fast) %WHITE%++%NL%%NAME%}%CONTINUE%
-ItemDisplay[WEAPON (NORM OR EXC) !RW !SET !WP11 !WP12]:%NAME%{%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %WHITE%++%NL%%NAME%}%CONTINUE%
+//ItemDisplay[WEAPON (NORM OR EXC) !RW !SET !WP11 !WP12]:%NAME%{%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %WHITE%++%NL%%NAME%}%CONTINUE%
 //Actication
 ItemDisplay[NMAG (EQUIPPED OR GEMMED OR SHOP OR MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%GRAY%%NAME%{%NL%%CORAL%When gemmed, equipped, shop and in town%NL%%WHITE%+%RED%Only Activated%WHITE%+%NL%%NAME%}
 
