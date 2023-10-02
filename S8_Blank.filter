@@ -2248,7 +2248,7 @@ ItemDisplay[(UNI) xsh FCR>19 STAT62>2 CRES>19 FRES>19 PRES>19 ID]:%GOLD%Grim Shi
 ItemDisplay[(UNI) ush FCR>19 STAT62>2 CRES>19 FRES>19 PRES>19 ID]:%GOLD%Troll Nest%NL%%GOLD%W a %TAN%l l %WHITE% o %TAN%f  %GOLD%t h %TAN%e  %WHITE%E y %TAN%e l %GOLD%e s %TAN%s%CONTINUE%
 ItemDisplay[(UNI) xsh ALLSK>0 FCR>19 STAT77>9 MAEK>3 ID]:%GOLD%Grim Shield%NL%%GOLD%L i %TAN%d l %WHITE%e s %TAN%s  %GOLD%W a %TAN%l l%CONTINUE%
 ItemDisplay[(UNI) ush ALLSK>0 FCR>19 STAT77>9 MAEK>3 ID]:%GOLD%Troll Nest%NL%%GOLD%L i %TAN%d l %WHITE%e s %TAN%s  %GOLD%W a %TAN%l l%CONTINUE%
-ItemDisplay[(UNI) ush FRW>24 STAT86>4 ID]:%ORANGE%%CORAL%Troll Nest%NL%%PURPLE%H e %RED%a d %ORANGE%  H %GOLD%u n %WHITE%t e %GOLD%r ' %RED%s  %PURPLE%G l %RED%o r %ORANGE%y%CONTINUE%
+ItemDisplay[(UNI) ush STT504>19 STAT86>4 ID]:%ORANGE%%CORAL%Troll Nest%NL%%PURPLE%H e %RED%a d %ORANGE%  H %GOLD%u n %WHITE%t e %GOLD%r ' %RED%s  %PURPLE%G l %RED%o r %ORANGE%y%CONTINUE%
 
 ItemDisplay[(UNI) tow ID]:%GOLD%Tower Shield%NL%%GOLD%B v %TAN%e r %WHITE%r i %TAN%t  %GOLD%K e %TAN%e p%CONTINUE%
 ItemDisplay[(UNI) xow STAT20>0 STR>4 FRES>29 STAT36>0 ID]:%GOLD%Pavise%NL%%GOLD%B v %TAN%e r %WHITE%r i %TAN%t  %GOLD%K e %TAN%e p%CONTINUE%
