@@ -6878,11 +6878,13 @@ ItemDisplay[CHEST NMAG !RW (SOCK=4)]:%NAME%{%NL%%GOLD%Stone:%ORANGE%Shael%WHITE%
 ItemDisplay[CHEST NMAG !RW (SOCK=3)]:%NAME%{%NL%%GOLD%Enigma:%ORANGE%Jah%WHITE%+%RED%Ith%WHITE%+%YELLOW%Ber%NAME%}%CONTINUE%
 ItemDisplay[CHEST NMAG !RW (SOCK=3)]:%NAME%{%NL%%GOLD%Treachery:%ORANGE%Shael%WHITE%+%RED%Thul%WHITE%+%YELLOW%Lem%GREEN%(SIN)%NAME%}%CONTINUE%
 ItemDisplay[CHEST NMAG !RW (SOCK=3)]:%NAME%{%NL%%GOLD%Peace:%ORANGE%Shael%WHITE%+%RED%Thul%WHITE%+%YELLOW%Amn%BLUE%(AMA)%NAME%}%CONTINUE%
-ItemDisplay[CHEST NMAG !RW (SOCK=3)]:%NAME%{%NL%%GOLD%Myth:%ORANGE%Hel%WHITE%+%RED%Amn%WHITE%+%YELLOW%Nef%WHITE%(BAR)%NAME%}%CONTINUE%
+//ItemDisplay[CHEST NMAG !RW (SOCK=3)]:%NAME%{%NL%%GOLD%Myth:%ORANGE%Hel%WHITE%+%RED%Amn%WHITE%+%YELLOW%Nef%WHITE%(BAR)%NAME%}%CONTINUE%
 ItemDisplay[CHEST NMAG !RW (SOCK=3)]:%NAME%{%NL%%GOLD%Enlightenment:%ORANGE%Pul%WHITE%+%RED%Ral%WHITE%+%YELLOW%Sol%PURPLE%(SOR)%NAME%}%CONTINUE%
 ItemDisplay[CHEST NMAG !RW (SOCK=3)]:%NAME%{%NL%%GOLD%Bone:%ORANGE%Sol%WHITE%+%RED%Um%WHITE%+%YELLOW%Um%ORANGE%(NEC)%NAME%}%CONTINUE%
 ItemDisplay[CHEST NMAG !RW (SOCK=3)]:%NAME%{%NL%%GOLD%Rain:%ORANGE%Ort%WHITE%+%RED%Mal%WHITE%+%YELLOW%Ith%RED%(DRU)%NAME%}%CONTINUE%
 ItemDisplay[CHEST NMAG !RW (SOCK=3)]:%NAME%{%NL%%GOLD%Principle:%ORANGE%Ral%WHITE%+%RED%Gul%WHITE%+%YELLOW%Eld%GOLD%(PAL)%NAME%}%CONTINUE%
+//S8
+ItemDisplay[CHEST NMAG !RW (SOCK=3)]:%NAME%{%NL%%GOLD%Hustle:%ORANGE%Shael%WHITE%+%RED%Ko%WHITE%+%YELLOW%Eld%NAME%}%CONTINUE%
 ItemDisplay[CHEST NMAG !RW (SOCK=2)]:%NAME%{%NL%%GOLD%Stealth:%ORANGE%Tal%WHITE%+%RED%Eth%NAME%}%CONTINUE%
 ItemDisplay[CHEST NMAG !RW (SOCK=2)]:%NAME%{%NL%%GOLD%Smoke:%ORANGE%Nef%WHITE%+%RED%Lum%NAME%}%CONTINUE%
 ItemDisplay[(EQ3 OR EQ1) NMAG !RW (SOCK=3)]:%NAME%{%NL%%GOLD%Dream:%ORANGE%IO%WHITE%+%RED%Jah%WHITE%+%YELLOW%Pul%NAME%}%CONTINUE%
@@ -7684,18 +7686,18 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL<26 uul ETH]:%NAME%{%YELLOW%(Item Level:%ORANGE%
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 aar ETH]:%NAME%{%YELLOW%(Item Level:%ORANGE%L%ILVL%,%WHITE%Soc:%PURPLE%3 %YELLOW%)%NAME%}
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 uar ETH]:%NAME%{%YELLOW%(Item Level:%ORANGE%L%ILVL%,%WHITE%Soc:%PURPLE%3 %YELLOW%)%NAME%}
 
-ItemDisplay[(xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) (SOCK=0 OR SOCK>2) !RW NMAG ETH ED>9]:%DOT-75%%ORANGE%+%PURPLE%+ %NAME% %ORANGE%+%PURPLE%+{%NAME%}
-ItemDisplay[(xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) (SOCK=0 OR SOCK>2) !RW NMAG !ETH ED>9]:%DOT-75%%ORANGE%+%PURPLE%+ %NAME% %ORANGE%+%PURPLE%+{%NAME%}
+ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) (SOCK=0 OR SOCK>2) !RW NMAG ETH ED>9]:%DOT-75%%ORANGE%+%PURPLE%+ %NAME% %ORANGE%+%PURPLE%+{%NAME%}
+ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) (SOCK=0 OR SOCK>2) !RW NMAG !ETH ED>9]:%DOT-75%%ORANGE%+%PURPLE%+ %NAME% %ORANGE%+%PURPLE%+{%NAME%}
 
-ItemDisplay[(xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) !SOCK=1 !RW NMAG !ETH (ED>0 OR STAT91=-10) FILTLVL>6]:
-ItemDisplay[(xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) !SOCK=1 !RW NMAG ETH FILTLVL>6]:
-ItemDisplay[(xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) SOCK=3 !RW NMAG !ETH FILTLVL>6]:
-ItemDisplay[(xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) SOCK=4 !RW NMAG !ETH FILTLVL>6]:
+ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) !SOCK=1 !RW NMAG !ETH (ED>0 OR STAT91=-10) FILTLVL>6]:
+ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) !SOCK=1 !RW NMAG ETH FILTLVL>6]:
+ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) SOCK=3 !RW NMAG !ETH FILTLVL>6]:
+ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) SOCK=4 !RW NMAG !ETH FILTLVL>6]:
 
-ItemDisplay[(xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) !SOCK=1 !RW NMAG !ETH (ED>0 OR STAT91=-10)]:%NAME%{%NAME%}
-ItemDisplay[(xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) !SOCK=1 !RW NMAG ETH]:%NAME%{%NAME%}
-ItemDisplay[(xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) SOCK=3 !RW NMAG !ETH]:%NAME%{%NAME%}
-ItemDisplay[(xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) SOCK=4 !RW NMAG !ETH]:%NAME%{%NAME%}
+ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) !SOCK=1 !RW NMAG !ETH (ED>0 OR STAT91=-10)]:%NAME%{%NAME%}
+ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) !SOCK=1 !RW NMAG ETH]:%NAME%{%NAME%}
+ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) SOCK=3 !RW NMAG !ETH]:%NAME%{%NAME%}
+ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) SOCK=4 !RW NMAG !ETH]:%NAME%{%NAME%}
 
 //helm / BAR HELM
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 msk ED>0]:%NAME%{%YELLOW%(Item Level:%ORANGE%L%ILVL%,%WHITE%Soc:%PURPLE%3 %YELLOW%)%NAME%}
