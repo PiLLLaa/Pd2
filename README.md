@@ -117,3 +117,11 @@
 ----------------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/PiLLLaa/Pd2/assets/76995697/7b2668d8-b145-4463-a406-6e0d67fc0d0f)
+
+    8. 10/03
+      1) Filter bugs fixed
+      2) Craft base deleted for bow/crossbow (if possilbe to buy it on the shop)
+      3) LAEK/MAEK jewel mirroed status updated (Black/White)
+      4) No XXXD marking without Ehanced damage option.
+
+----------------------------------------------------------------------------------------------------------------------
