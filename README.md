@@ -60,7 +60,8 @@
     16 Normal Base item
   https://docs.google.com/document/d/1kiT3-O6ivWPo6VSfA5nKvIYQUhdw-Y90-fLabVoKJrY/edit?usp=sharing
    
-    
+    17.Unique Drop Level
+  https://docs.google.com/spreadsheets/d/1UuX9-e5zadlooaitTC5MADL023IdJvstd9-sXB52MsI/edit?usp=sharing
 ----------------------------------------------------------------------------------------------------------------------   
 ## IMAGE    
  ![image](https://user-images.githubusercontent.com/76995697/185507965-8546a887-d6c1-4b69-9acb-40fcfad1a71d.png)
