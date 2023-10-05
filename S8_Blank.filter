@@ -5375,46 +5375,46 @@ ItemDisplay[EQ5 CRAFT ID]:%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[EQ6 RARE ID]:%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[EQ6 CRAFT ID]:%NAME%{%NAME%}%CONTINUE%
 
-ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%glove]
-ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%helmet]
-ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%helmet(Bar)]
-ItemDisplay[(dr8 OR dra OR drf OR drd OR drb) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%helmet(Dru)]
-ItemDisplay[(xtb OR utb OR xmb OR umb OR xlb OR ulb OR xhb OR uhb) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%boots]
-ItemDisplay[(zmb OR umc OR ztb OR utc OR zvb OR uvc OR zlb OR ulc) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%belt]
-ItemDisplay[(xpk OR upk OR xts OR uts OR xml OR uml OR xit OR uit OR xrg OR urg OR xow OR uow) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%shield]
-ItemDisplay[(xlt OR ult OR xld OR uld OR xtp OR utp OR xrs OR urs) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%chest]
+ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%glove%GRAY%]
+ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%helmet%GRAY%]
+ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%helmet(Bar)%GRAY%]
+ItemDisplay[(dr8 OR dra OR drf OR drd OR drb) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%helmet(Dru)%GRAY%]
+ItemDisplay[(xtb OR utb OR xmb OR umb OR xlb OR ulb OR xhb OR uhb) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%boots%GRAY%]
+ItemDisplay[(zmb OR umc OR ztb OR utc OR zvb OR uvc OR zlb OR ulc) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%belt%GRAY%]
+ItemDisplay[(xpk OR upk OR xts OR uts OR xml OR uml OR xit OR uit OR xrg OR urg OR xow OR uow) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%shield%GRAY%]
+ItemDisplay[(xlt OR ult OR xld OR uld OR xtp OR utp OR xrs OR urs) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%chest%GRAY%]
 
-ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%glove]
-ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%helmet]
-ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%helmet(Bar)]
-ItemDisplay[(dr8 OR dra OR drf OR drd OR drb) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%helmet(Dru)]
-ItemDisplay[(xtb OR utb OR xmb OR umb OR xlb OR ulb OR xhb OR uhb) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%boots]
-ItemDisplay[(zmb OR umc OR ztb OR utc OR zvb OR uvc OR zlb OR ulc) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%belt]
-ItemDisplay[(xpk OR upk OR xts OR uts OR xml OR uml OR xit OR uit OR xrg OR urg OR xow OR uow) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%shield]
-ItemDisplay[(xlt OR ult OR xld OR uld OR xtp OR utp OR xrs OR urs) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%chest]
-ItemDisplay[(am2 OR am7 OR amc) !ETH MAG !ID]: %DOT-75%%ORANGE%*%PURPLE%*%NAME%%GRAY%[%GRAY%Craft %TEAL%bow] %PURPLE%*%ORANGE%*
-//ItemDisplay[(6lw OR 8lw) !ETH MAG !ID]: %DOT-75%%ORANGE%*%PURPLE%*%NAME%%GRAY%[%GRAY%Craft %TEAL%bow %PURPLE%*%ORANGE%*
-//ItemDisplay[(8rx OR 6rx OR 6mx OR 6hx) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%cbow
-ItemDisplay[(tsp OR 9ts OR 7ts OR glv OR 9gl OR 7gl) !ETH MAG !ID]: %ORANGE%*%NAME%%GRAY%[%GRAY%Craft %TEAL%glave] %ORANGE%*
-ItemDisplay[(tsp OR 9ts OR 7ts OR glv OR 9gl OR 7gl) ETH MAG !ID]: %ORANGE%*%PURPLE%* %NAME%%GRAY%[%GRAY%Craft %TEAL%glave] %PURPLE%*%ORANGE%*
-ItemDisplay[(9ta OR 7ta OR 9s9 OR 7s7 OR 9b8 OR 7b8) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%throwing]
-ItemDisplay[(9ta OR 7ta OR 9s9 OR 7s7 OR 9b8 OR 7b8) ETH MAG !ID]: %ORANGE%*%PURPLE%* %NAME%%GRAY%[%GRAY%Craft %TEAL%throwing] %PURPLE%*%ORANGE%*
-ItemDisplay[(9gm OR 7gm) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%maul]
-ItemDisplay[(mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm) ETH MAG !ID]: %ORANGE%*%PURPLE%* %NAME%%GRAY%[%GRAY%Craft %TEAL%maul] %PURPLE%*%ORANGE%*
-ItemDisplay[(9gd OR 7gd OR 9ls OR 7ls) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%sword]
-ItemDisplay[(9fb OR 7fb OR 9gd OR 7gd OR 9ls OR 7ls) ETH MAG !ID]: %NAME%%GRAY%[%GRAY%Craft %TEAL%sword]
-ItemDisplay[(9xf OR 7xf OR 9lw OR 7lw OR 9tw OR 7tw OR 9qr OR 7qr) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%claw]
-ItemDisplay[(9xf OR 7xf OR 9lw OR 7lw OR 9tw OR 7tw OR 9qr OR 7qr) ETH MAG !ID]: %NAME%%GRAY%[%GRAY%Craft %TEAL%claw]
-ItemDisplay[(9ws OR 7ws) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%scepter]
-ItemDisplay[(9ws OR 7ws) ETH MAG !ID]: %NAME%%GRAY%[%GRAY%Craft %TEAL%scepter]
-ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%spear]
-ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7) ETH MAG !ID]: %NAME%%GRAY%[%GRAY%Craft %TEAL%spear]
+ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%glove%GRAY%]
+ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%helmet%GRAY%]
+ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%helmet(Bar)%GRAY%]
+ItemDisplay[(dr8 OR dra OR drf OR drd OR drb) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%helmet(Dru)%GRAY%]
+ItemDisplay[(xtb OR utb OR xmb OR umb OR xlb OR ulb OR xhb OR uhb) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%boots%GRAY%]
+ItemDisplay[(zmb OR umc OR ztb OR utc OR zvb OR uvc OR zlb OR ulc) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%belt%GRAY%]
+ItemDisplay[(xpk OR upk OR xts OR uts OR xml OR uml OR xit OR uit OR xrg OR urg OR xow OR uow) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%shield%GRAY%]
+ItemDisplay[(xlt OR ult OR xld OR uld OR xtp OR utp OR xrs OR urs) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%chest%GRAY%]
+ItemDisplay[(am2 OR am7 OR amc) !ETH MAG !ID]: %DOT-75%%ORANGE%*%PURPLE%*%NAME%%GRAY%[%GRAY%Craft %TEAL%bow%GRAY%] %PURPLE%*%ORANGE%*
+//ItemDisplay[(6lw OR 8lw) !ETH MAG !ID]: %DOT-75%%ORANGE%*%PURPLE%*%NAME%%GRAY%[%GRAY%Craft %TEAL%bow%GRAY%] %PURPLE%*%ORANGE%*
+//ItemDisplay[(8rx OR 6rx OR 6mx OR 6hx) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%cbow%GRAY%]
+ItemDisplay[(tsp OR 9ts OR 7ts OR glv OR 9gl OR 7gl) !ETH MAG !ID]: %ORANGE%*%NAME%%GRAY%[%GRAY%Craft %TEAL%glave%GRAY%] %ORANGE%*
+ItemDisplay[(tsp OR 9ts OR 7ts OR glv OR 9gl OR 7gl) ETH MAG !ID]: %ORANGE%*%PURPLE%* %NAME%%GRAY%[%GRAY%Craft %TEAL%glave%GRAY%] %PURPLE%*%ORANGE%*
+ItemDisplay[(9ta OR 7ta OR 9s9 OR 7s7 OR 9b8 OR 7b8) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%throwing%GRAY%]
+ItemDisplay[(9ta OR 7ta OR 9s9 OR 7s7 OR 9b8 OR 7b8) ETH MAG !ID]: %ORANGE%*%PURPLE%* %NAME%%GRAY%[%GRAY%Craft %TEAL%throwing%GRAY%] %PURPLE%*%ORANGE%*
+ItemDisplay[(9gm OR 7gm) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%maul%GRAY%]
+ItemDisplay[(mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm) ETH MAG !ID]: %ORANGE%*%PURPLE%* %NAME%%GRAY%[%GRAY%Craft %TEAL%maul%GRAY%] %PURPLE%*%ORANGE%*
+ItemDisplay[(9gd OR 7gd OR 9ls OR 7ls) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%sword%GRAY%]
+ItemDisplay[(9fb OR 7fb OR 9gd OR 7gd OR 9ls OR 7ls) ETH MAG !ID]: %NAME%%GRAY%[%GRAY%Craft %TEAL%sword%GRAY%]
+ItemDisplay[(9xf OR 7xf OR 9lw OR 7lw OR 9tw OR 7tw OR 9qr OR 7qr) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%claw%GRAY%]
+ItemDisplay[(9xf OR 7xf OR 9lw OR 7lw OR 9tw OR 7tw OR 9qr OR 7qr) ETH MAG !ID]: %NAME%%GRAY%[%GRAY%Craft %TEAL%claw%GRAY%]
+ItemDisplay[(9ws OR 7ws) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%scepter%GRAY%]
+ItemDisplay[(9ws OR 7ws) ETH MAG !ID]: %NAME%%GRAY%[%GRAY%Craft %TEAL%scepter%GRAY%]
+ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%spear%GRAY%]
+ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7) ETH MAG !ID]: %NAME%%GRAY%[%GRAY%Craft %TEAL%spear%GRAY%]
 
-ItemDisplay[(7mt OR 7wh) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%mace]
-ItemDisplay[(7mt OR 7wh) ETH MAG !ID]: %NAME%%GRAY%[%GRAY%Craft %TEAL%mace]
+ItemDisplay[(7mt OR 7wh) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%mace%GRAY%]
+ItemDisplay[(7mt OR 7wh) ETH MAG !ID]: %NAME%%GRAY%[%GRAY%Craft %TEAL%mace%GRAY%]
 
-ItemDisplay[(oba OR obf) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[%GRAY%Craft %TEAL%orb]
-ItemDisplay[(oba OR obf) ETH MAG !ID]: %PURPLE%ETH %BLUE%%NAME%%NL%%GRAY%[%GRAY%Craft %TEAL%orb]
+ItemDisplay[(oba OR obf) !ETH MAG !ID]:%NAME%%NL%%GRAY%[%GRAY%Craft %TEAL%orb%GRAY%]
+ItemDisplay[(oba OR obf) ETH MAG !ID]:%NAME%%NL%%GRAY%[%GRAY%Craft %TEAL%orb%GRAY%]
 
 //OPTION
 ItemDisplay[(WEAPON OR ARMOR) NMAG STAT91=-10]:%RED%-10Q%PURPLE%* %DARK_GREEN%%NAME%%CONTINUE%
