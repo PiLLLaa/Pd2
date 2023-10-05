@@ -4237,7 +4237,7 @@ ItemDisplay[MAG ID rin]:%CORAL%R i n g%NL%%NAME%%CONTINUE%
 ItemDisplay[MAG ID amu]:%TEAL%A m u l e t%NL%%NAME%%CONTINUE%
 ItemDisplay[RARE ID jew]:%CORAL%J e w e l%NL%%NAME%%CONTINUE%
 ItemDisplay[RARE ID rin]:%TEAL%R i n g%NL%%NAME%%CONTINUE%
-ItemDisplay[RARE ID amu]:%CORAL%A m u l e t%NL%%NAME%%CONTINUE%
+ItemDisplay[RARE ID amu]:%NAME%%CONTINUE%
 ItemDisplay[UNI ID rin]:%CORAL%R i n g%NL%%NAME%%CONTINUE%
 ItemDisplay[UNI ID amu]:%TEAL%A m u l e t%NL%%NAME%%CONTINUE%
 ItemDisplay[SET ID rin]:%CORAL%R i n g%NL%%NAME%%CONTINUE%
