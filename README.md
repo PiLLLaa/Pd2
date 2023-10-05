@@ -127,8 +127,9 @@
 
 ----------------------------------------------------------------------------------------------------------------------
     9. 10/04
-      1) Filter bugs fixed
+      1) Filter bugs fixed (Ex Stoncrusheror)
       2) Black Filter renewered
       3) Base Elite Staff has special marking **
+      4) Marking fixed for Hustle, Innocence 
 
 ----------------------------------------------------------------------------------------------------------------------
