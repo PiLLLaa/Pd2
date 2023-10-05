@@ -1550,501 +1550,501 @@ ItemDisplay[!ID (RARE) amf]:%YELLOW%M%YELLOW%a%CORAL%t%ORANGE%r%YELLOW%i%CORAL%a
 ItemDisplay[!ID (RARE) aqv]:%YELLOW%Ar%ORANGE%r%YELLOW%o%YELLOW%w%CONTINUE%
 ItemDisplay[!ID (RARE) cqv]:%YELLOW%B%ORANGE%o%YELLOW%l%YELLOW%t%CONTINUE%
 
-ItemDisplay[(SET OR UNI) !ID cap]:C%CORAL%ap%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xap]:W%CORAL%ar H%CORAL%at%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uap]:Sh%CORAL%ako%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID skp]:Sk%GOLD%ull C%CORAL%ap%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xkp]:S%CORAL%all%SAGE%et%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ukp]:Hydr%CORAL%ask%GOLD%ull%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hlm]:H%SAGE%elm%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xlm]:C%CORAL%asq%GOLD%ue%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ulm]:Arm%SAGE%et%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID fhl]:F%GOLD%ull H%SAGE%elm%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xhl]:B%CORAL%asin%SAGE%et%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uhl]:Gi%CORAL%ant C%CORAL%onch%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID msk]:M%CORAL%ask%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xsk]:D%SAGE%e%CORAL%ath M%CORAL%ask%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID usk]:D%SAGE%em%CORAL%onh%SAGE%e%CORAL%ad%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bhm]:B%CORAL%on%SAGE%e H%SAGE%elm%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xh9]:Grim H%SAGE%elm%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uh9]:B%CORAL%on%SAGE%e Vis%CORAL%age%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ghm]:Gr%SAGE%e%CORAL%at H%SAGE%elm%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xhm]:Wing%SAGE%ed H%SAGE%elm%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uhm]:Spir%SAGE%ed H%SAGE%elm%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID crn]:Cr%CORAL%own%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xrn]:Gr%CORAL%and Cr%CORAL%own%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID urn]:C%CORAL%or%CORAL%ona%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID qui]:Q%GOLD%uilt%SAGE%ed%CORAL%arm%CORAL%or%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xui]:Gh%CORAL%ost%CORAL%arm%CORAL%or%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uui]:D%GOLD%uskShr%CORAL%o%GOLD%ud%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lea]:L%SAGE%e%CORAL%ath%SAGE%er%CORAL%arm%CORAL%or%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xea]:S%SAGE%erp%SAGE%entskin%CORAL%arm%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID cap]:Cap%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xap]:War Hat%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uap]:Shako%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID skp]:Skull Cap%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xkp]:Sallet%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ukp]:Hydraskull%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hlm]:Helm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xlm]:Casque%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ulm]:Armet%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID fhl]:Full Helm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xhl]:Basinet%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uhl]:Giant Conch%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID msk]:Mask%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xsk]:Death Mask%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID usk]:Demonhead%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bhm]:Bone Helm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xh9]:Grim Helm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uh9]:Bone Visage%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ghm]:Great Helm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xhm]:Winged Helm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uhm]:Spired Helm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID crn]:Crown%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xrn]:Grand Crown%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID urn]:Corona%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID qui]:Quiltedarmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xui]:Ghostarmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uui]:DuskShroud%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lea]:Leatherarmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xea]:Serpentskinarmor%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID uea]:Wyrmhide%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hla]:H%CORAL%ardL%SAGE%e%CORAL%ath%SAGE%er%CORAL%arm%CORAL%or%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xla]:D%SAGE%em%CORAL%onhid%SAGE%e%CORAL%arm%CORAL%or%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ula]:Sc%CORAL%ar%CORAL%ab H%GOLD%usk%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID stu]:St%GOLD%udd%SAGE%ed L%SAGE%e%CORAL%ath%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xtu]:Tr%SAGE%ellis%SAGE%ed%CORAL%arm%CORAL%or%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID utu]:Wir%SAGE%e Fl%SAGE%eece%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID rng]:Ring M%CORAL%ail%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xng]:Link%SAGE%ed M%CORAL%ail%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ung]:Di%CORAL%am%CORAL%ond M%CORAL%ail%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID scl]:Sc%CORAL%al%SAGE%e M%CORAL%ail%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xcl]:Tig%GOLD%ul%CORAL%at%SAGE%ed M%CORAL%ail%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ucl]:L%CORAL%oric%CORAL%at%SAGE%ed M%CORAL%ail%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID chn]:Ch%CORAL%ain M%CORAL%ail%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xhn]:M%SAGE%esh%CORAL%arm%CORAL%or%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uhn]:B%CORAL%on%SAGE%ew%SAGE%e%CORAL%ave%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID brs]:Br%SAGE%e%CORAL%ast Pl%CORAL%ate%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xrs]:C%GOLD%uir%CORAL%ass%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID urs]:Gr%SAGE%e%CORAL%at H%CORAL%a%GOLD%ub%SAGE%erk%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID spl]:Splint M%CORAL%ail%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xpl]:R%GOLD%uss%SAGE%et%CORAL%arm%CORAL%or%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID upl]:B%CORAL%alr%CORAL%og Skin%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID plt]:Pl%CORAL%at%SAGE%e M%CORAL%ail%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xlt]:T%SAGE%empl%CORAL%ar C%CORAL%o%CORAL%at%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ult]:H%SAGE%ellf%CORAL%org%SAGE%e Pl%CORAL%ate%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID fld]:Fi%SAGE%eld Pl%CORAL%ate%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xld]:Sh%CORAL%arkt%CORAL%ooth%CORAL%arm%CORAL%or%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uld]:Kr%CORAL%ak%SAGE%en Sh%SAGE%ell%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gth]:G%CORAL%othic Pl%CORAL%ate%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xth]:Emb%CORAL%oss%SAGE%ed Pl%CORAL%ate%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uth]:L%CORAL%acq%GOLD%u%SAGE%er%SAGE%ed Pl%CORAL%ate%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ltp]:Light Pl%CORAL%ate%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xtp]:M%CORAL%ag%SAGE%e Pl%CORAL%ate%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID utp]:Arch%CORAL%on Pl%CORAL%ate%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ful]:F%GOLD%ullPl%CORAL%at%SAGE%e M%CORAL%ail%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xul]:Ch%CORAL%a%CORAL%os%CORAL%arm%CORAL%or%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uul]:Sh%CORAL%ad%CORAL%ow Pl%CORAL%ate%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID aar]:Anci%SAGE%ent%CORAL%arm%CORAL%or%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xar]:Orn%CORAL%at%SAGE%e Pl%CORAL%ate%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uar]:S%CORAL%acr%SAGE%ed%CORAL%arm%CORAL%or%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID buc]:B%GOLD%uckl%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xuc]:D%SAGE%ef%SAGE%end%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uuc]:H%SAGE%e%CORAL%at%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID sml]:Sm%CORAL%all Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xml]:R%CORAL%o%GOLD%und Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uml]:L%GOLD%una%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lrg]:L%CORAL%arg%SAGE%e Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xrg]:Sc%GOLD%ut%GOLD%um%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID urg]:Hyp%SAGE%eri%CORAL%on%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID spk]:Spik%SAGE%ed Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xpk]:B%CORAL%arb%SAGE%ed Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID upk]:Bl%CORAL%ad%SAGE%e B%CORAL%arri%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID kit]:Kit%SAGE%e Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xit]:Dr%CORAL%ag%CORAL%on Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uit]:M%CORAL%on%CORAL%arch%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bsh]:B%CORAL%on%SAGE%e Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xsh]:Grim Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ush]:Tr%CORAL%oll N%SAGE%est%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tow]:T%CORAL%ow%SAGE%er Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xow]:P%CORAL%avise%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uow]:A%SAGE%egis%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gts]:G%CORAL%othic Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xts]:Anci%SAGE%ent Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uts]:W%CORAL%ard%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lgl]:L%SAGE%e%CORAL%ath%SAGE%er Gl%CORAL%ov%SAGE%es%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xlg]:D%SAGE%em%CORAL%onhid%SAGE% eGl%CORAL%ov%SAGE%es%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ulg]:Br%CORAL%ambl%SAGE%e Mitts%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID vgl]:H%SAGE%e%CORAL%avy Gl%CORAL%ov%SAGE%es%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xvg]:Sh%CORAL%arkskin Gl%CORAL%ov%SAGE%es%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uvg]:V%CORAL%ampir%SAGE%eb%CORAL%on%SAGE%e Gl%CORAL%ov%SAGE%es%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID mgl]:Ch%CORAL%ain Gl%CORAL%ov%SAGE%es%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xmg]:H%SAGE%e%CORAL%avy Br%CORAL%ac%SAGE%ers%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID umg]:V%CORAL%ambr%CORAL%ac%SAGE%es%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tgl]:Light G%CORAL%a%GOLD%untl%SAGE%ets%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xtg]:B%CORAL%attl%SAGE%e G%CORAL%a%GOLD%untl%SAGE%ets%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID utg]:Cr%GOLD%us%CORAL%ad%SAGE%er G%CORAL%a%GOLD%untl%SAGE%ets%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hgl]:G%CORAL%a%GOLD%untl%SAGE%ets%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xhg]:W%CORAL%ar G%CORAL%a%GOLD%untl%SAGE%ets%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uhg]:Ogr%SAGE%e G%CORAL%a%GOLD%untl%SAGE%ets%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lbt]:B%CORAL%oots%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xlb]:D%SAGE%em%CORAL%onhid%SAGE%e B%CORAL%oots%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ulb]:Wyrmhid%SAGE%e B%CORAL%oots%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID vbt]:H%SAGE%e%CORAL%avy B%CORAL%oots%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xvb]:Sh%CORAL%arkskin B%CORAL%oots%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uvb]:Sc%CORAL%ar%CORAL%absh%SAGE%ell B%CORAL%oots%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID mbt]:Ch%CORAL%ain B%CORAL%oots%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xmb]:M%SAGE%esh B%CORAL%oots%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID umb]:B%CORAL%on%SAGE%ew%SAGE%e%CORAL%av%SAGE%e B%CORAL%oots%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tbt]:LightPl%CORAL%at%SAGE%ed B%CORAL%oots%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xtb]:B%CORAL%attl%SAGE%e B%CORAL%oots%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID utb]:Mirr%CORAL%or%SAGE%ed B%CORAL%oots%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hbt]:Gr%SAGE%e%CORAL%av%SAGE%es%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xhb]:W%CORAL%ar B%CORAL%oots%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uhb]:Myrmid%CORAL%on Gr%SAGE%e%CORAL%av%SAGE%es%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lbl]:S%CORAL%ash%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID zlb]:D%SAGE%em%CORAL%onhid%SAGE%e S%CORAL%ash%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ulc]:Spid%SAGE%erw%SAGE%eb S%CORAL%ash%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID vbl]:Light B%SAGE%elt%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID zvb]:Sh%CORAL%arkskin B%SAGE%elt%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uvc]:V%CORAL%ampir%SAGE%ef%CORAL%ang B%SAGE%elt%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID mbl]:B%SAGE%elt%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID zmb]:M%SAGE%esh B%SAGE%elt%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID umc]:Mithril C%CORAL%oil%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tbl]:H%SAGE%e%CORAL%avy B%SAGE%elt%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ztb]:B%CORAL%attl%SAGE%e B%SAGE%elt%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID utc]:Tr%CORAL%oll B%SAGE%elt%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hbl]:Pl%CORAL%at%SAGE%ed B%SAGE%elt%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID zhb]:W%CORAL%ar B%SAGE%elt%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uhc]:C%CORAL%ol%CORAL%oss%GOLD%us Girdle%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ci0]:Circl%SAGE%et%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ci1]:C%CORAL%or%CORAL%on%SAGE%et%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ci2]:Ti%CORAL%ara%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ci3]:Di%CORAL%ad%SAGE%em%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr1]:W%CORAL%olf H%SAGE%e%CORAL%ad%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr6]:Alph%CORAL%a H%SAGE%elm%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID drb]:Bl%CORAL%ood Spirit%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr2]:H%CORAL%awk H%SAGE%elm%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr7]:Griff%CORAL%on H%SAGE%e%CORAL%adr%SAGE%ess%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID drc]:S%GOLD%un Spirit%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr3]:Antl%SAGE%ers%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr8]:H%GOLD%unt%SAGE%er's G%GOLD%uise%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID drd]:E%CORAL%arth Spirit%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr4]:F%CORAL%alc%CORAL%on M%CORAL%ask%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr9]:S%CORAL%acr%SAGE%ed F%SAGE%e%CORAL%ath%SAGE%ers%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hla]:HardLeatherarmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xla]:Demonhidearmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ula]:Scarab Husk%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID stu]:Studded Leather%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xtu]:Trellisedarmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID utu]:Wire Fleece%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID rng]:Ring Mail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xng]:Linked Mail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ung]:Diamond Mail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID scl]:Scale Mail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xcl]:Tigulated Mail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ucl]:Loricated Mail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID chn]:Chain Mail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xhn]:Mesharmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uhn]:Boneweave%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID brs]:Breast Plate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xrs]:Cuirass%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID urs]:Great Hauberk%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID spl]:Splint Mail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xpl]:Russetarmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID upl]:Balrog Skin%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID plt]:Plate Mail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xlt]:Templar Coat%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ult]:Hellforge Plate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID fld]:Field Plate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xld]:Sharktootharmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uld]:Kraken Shell%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gth]:Gothic Plate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xth]:Embossed Plate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uth]:Lacquered Plate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ltp]:Light Plate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xtp]:Mage Plate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID utp]:Archon Plate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ful]:FullPlate Mail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xul]:Chaosarmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uul]:Shadow Plate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID aar]:Ancientarmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xar]:Ornate Plate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uar]:Sacredarmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID buc]:Buckler%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xuc]:Defender%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uuc]:Heater%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID sml]:Small Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xml]:Round Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uml]:Luna%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lrg]:Large Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xrg]:Scutum%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID urg]:Hyperion%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID spk]:Spiked Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xpk]:Barbed Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID upk]:Blade Barrier%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID kit]:Kite Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xit]:Dragon Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uit]:Monarch%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bsh]:Bone Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xsh]:Grim Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ush]:Troll Nest%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tow]:Tower Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xow]:Pavise%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uow]:Aegis%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gts]:Gothic Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xts]:Ancient Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uts]:Ward%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lgl]:Leather Gloves%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xlg]:Demonhid eGloves%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ulg]:Bramble Mitts%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID vgl]:Heavy Gloves%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xvg]:Sharkskin Gloves%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uvg]:Vampirebone Gloves%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID mgl]:Chain Gloves%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xmg]:Heavy Bracers%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID umg]:Vambraces%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tgl]:Light Gauntlets%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xtg]:Battle Gauntlets%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID utg]:Crusader Gauntlets%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hgl]:Gauntlets%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xhg]:War Gauntlets%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uhg]:Ogre Gauntlets%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lbt]:Boots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xlb]:Demonhide Boots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ulb]:Wyrmhide Boots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID vbt]:Heavy Boots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xvb]:Sharkskin Boots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uvb]:Scarabshell Boots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID mbt]:Chain Boots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xmb]:Mesh Boots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID umb]:Boneweave Boots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tbt]:LightPlated Boots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xtb]:Battle Boots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID utb]:Mirrored Boots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hbt]:Greaves%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xhb]:War Boots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uhb]:Myrmidon Greaves%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lbl]:Sash%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID zlb]:Demonhide Sash%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ulc]:Spiderweb Sash%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID vbl]:Light Belt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID zvb]:Sharkskin Belt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uvc]:Vampirefang Belt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID mbl]:Belt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID zmb]:Mesh Belt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID umc]:Mithril Coil%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tbl]:Heavy Belt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ztb]:Battle Belt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID utc]:Troll Belt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hbl]:Plated Belt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID zhb]:War Belt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uhc]:Colossus Girdle%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ci0]:Circlet%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ci1]:Coronet%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ci2]:Tiara%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ci3]:Diadem%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr1]:Wolf Head%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr6]:Alpha Helm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID drb]:Blood Spirit%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr2]:Hawk Helm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr7]:Griffon Headress%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID drc]:Sun Spirit%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr3]:Antlers%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr8]:Hunter's Guise%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID drd]:Earth Spirit%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr4]:Falcon Mask%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr9]:Sacred Feathers%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID dre]:Sky Spirit%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr5]:Spirit M%CORAL%ask%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dra]:T%CORAL%ot%SAGE%emic M%CORAL%ask%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID drf]:Dr%SAGE%e%CORAL%am Spirit%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba1]:J%CORAL%awb%CORAL%on%SAGE%e C%CORAL%ap%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba6]:J%CORAL%awb%CORAL%on%SAGE%e Vis%CORAL%or%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bab]:C%CORAL%arn%CORAL%ag%SAGE%e H%SAGE%elm%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba2]:F%CORAL%ang%SAGE%edH%SAGE%elm%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba7]:Li%CORAL%on H%SAGE%elm%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bac]:F%GOLD%ury Vis%CORAL%or%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba3]:H%CORAL%orn%SAGE%ed H%SAGE%elm%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba8]:R%CORAL%ag%SAGE%e M%CORAL%ask%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bad]:D%SAGE%estr%CORAL%oy%SAGE%er H%SAGE%elm%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba4]:Ass%CORAL%a%GOLD%ult H%SAGE%elm%SAGE%et%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba9]:S%CORAL%av%CORAL%ag%SAGE%e H%SAGE%elm%SAGE%et%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bae]:C%CORAL%onq%GOLD%u%SAGE%er%CORAL%or Cr%CORAL%own%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba5]:Av%SAGE%eng%SAGE%er G%GOLD%u%CORAL%ard%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID baa]:Sl%CORAL%ay%SAGE%er G%GOLD%u%CORAL%ard%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID baf]:G%GOLD%u%CORAL%ardi%CORAL%an Cr%CORAL%own%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa1]:T%CORAL%arge%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa6]:Ak%CORAL%ar%CORAL%an T%CORAL%arge%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pab]:S%CORAL%acr%SAGE%ed T%CORAL%arge%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa2]:R%CORAL%ond%CORAL%ache%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa7]:Ak%CORAL%ar%CORAL%an R%CORAL%ond%CORAL%ache%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pac]:S%CORAL%acr%SAGE%ed R%CORAL%ond%CORAL%ache%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa3]:H%SAGE%er%CORAL%aldic Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa8]:Pr%CORAL%ot%SAGE%ect%CORAL%or Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pad]:K%GOLD%ur%CORAL%ast Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa4]:A%SAGE%erin Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa9]:Gild%SAGE%ed Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pae]:Z%CORAL%ak%CORAL%ar%GOLD%um Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa5]:Cr%CORAL%own Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID paa]:R%CORAL%oy%CORAL%al Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID paf]:V%CORAL%ort%SAGE%ex Shi%SAGE%eld%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne1]:Pr%SAGE%es%SAGE%erv%SAGE%edH%SAGE%e%CORAL%ad%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne6]:M%GOLD%ummifi%SAGE%ed Tr%CORAL%ophy%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID neb]:Mini%CORAL%on Sk%GOLD%ull%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne2]:Z%CORAL%ombi%SAGE%e H%SAGE%e%CORAL%ad%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne7]:F%SAGE%etish Tr%CORAL%ophy%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID neg]:H%SAGE%ellsp%CORAL%awn Sk%GOLD%ull%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne3]:Unr%CORAL%av%SAGE%ell%SAGE%er H%SAGE%e%CORAL%ad%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne8]:S%SAGE%ext%CORAL%on Tr%CORAL%ophy%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ned]:Ov%SAGE%ers%SAGE%eer Sk%GOLD%ull%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne4]:G%CORAL%arg%CORAL%oyl%SAGE%e H%SAGE%e%CORAL%ad%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne9]:C%CORAL%ant%CORAL%or Tr%CORAL%ophy%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID nee]:S%GOLD%ucc%GOLD%ub%GOLD%us Sk%GOLD%ull%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne5]:D%SAGE%em%CORAL%on H%SAGE%e%CORAL%ad%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID nea]:Hi%SAGE%er%CORAL%oph%CORAL%ant Tr%CORAL%ophy%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID nef]:Bl%CORAL%oodl%CORAL%ord Sk%GOLD%ull%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hax]:H%CORAL%and%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ha]:H%CORAL%atch%SAGE%et%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ha]:T%CORAL%om%CORAL%ah%CORAL%awk%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr5]:Spirit Mask%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dra]:Totemic Mask%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID drf]:Dream Spirit%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba1]:Jawbone Cap%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba6]:Jawbone Visor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bab]:Carnage Helm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba2]:FangedHelm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba7]:Lion Helm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bac]:Fury Visor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba3]:Horned Helm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba8]:Rage Mask%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bad]:Destroyer Helm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba4]:Assault Helmet%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba9]:Savage Helmet%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bae]:Conqueror Crown%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba5]:Avenger Guard%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID baa]:Slayer Guard%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID baf]:Guardian Crown%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa1]:Targe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa6]:Akaran Targe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pab]:Sacred Targe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa2]:Rondache%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa7]:Akaran Rondache%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pac]:Sacred Rondache%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa3]:Heraldic Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa8]:Protector Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pad]:Kurast Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa4]:Aerin Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa9]:Gilded Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pae]:Zakarum Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa5]:Crown Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID paa]:Royal Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID paf]:Vortex Shield%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne1]:PreservedHead%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne6]:Mummified Trophy%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID neb]:Minion Skull%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne2]:Zombie Head%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne7]:Fetish Trophy%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID neg]:Hellspawn Skull%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne3]:Unraveller Head%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne8]:Sexton Trophy%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ned]:Overseer Skull%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne4]:Gargoyle Head%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne9]:Cantor Trophy%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID nee]:Succubus Skull%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne5]:Demon Head%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID nea]:Hierophant Trophy%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID nef]:Bloodlord Skull%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hax]:Handaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ha]:Hatchet%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ha]:Tomahawk%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID axe]:Axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ax]:Cl%SAGE%e%CORAL%av%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ax]:Sm%CORAL%all Cr%SAGE%esc%SAGE%ent%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 2ax]:D%CORAL%o%GOLD%ubl%SAGE%e%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 92a]:Twin%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 72a]:Ettin%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID mpi]:Milit%CORAL%ary Pick%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9mp]:Cr%CORAL%owbill%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7mp]:W%CORAL%ar Spike%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID wax]:W%CORAL%ar%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9wa]:N%CORAL%aga%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7wa]:B%SAGE%ers%SAGE%erk%SAGE%er%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lax]:L%CORAL%arg%SAGE%e%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9la]:Milit%CORAL%ary%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7la]:F%SAGE%er%CORAL%al%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bax]:Br%CORAL%o%CORAL%ad%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ba]:B%SAGE%e%CORAL%ard%SAGE%ed%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ba]:Silv%SAGE%er-%SAGE%edg%SAGE%ed%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID btx]:B%CORAL%attl%SAGE%e%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9bt]:T%CORAL%ab%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7bt]:D%SAGE%ec%CORAL%apit%CORAL%at%CORAL%or%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gax]:Gr%SAGE%e%CORAL%at%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ga]:G%CORAL%othic%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ga]:Ch%CORAL%ampi%CORAL%on%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gix]:Gi%CORAL%ant%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9gi]:Anci%SAGE%ent%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7gi]:Gl%CORAL%ori%CORAL%o%GOLD%us%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID clb]:Cl%GOLD%ub%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9cl]:C%GOLD%udg%SAGE%el%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7cl]:Tr%GOLD%unch%SAGE%e%CORAL%on%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID spc]:Spik%SAGE%ed Cl%GOLD%ub%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9sp]:B%CORAL%arb%SAGE%ed Cl%GOLD%ub%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7sp]:Tyr%CORAL%ant Cl%GOLD%ub%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID mac]:M%CORAL%ace%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ma]:Fl%CORAL%ang%SAGE%ed M%CORAL%ace%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ma]:R%SAGE%einf%CORAL%orc%SAGE%ed M%CORAL%ace%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID mst]:M%CORAL%orning St%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9mt]:J%CORAL%agg%SAGE%ed St%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7mt]:D%SAGE%evil St%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID fla]:Fl%CORAL%ail%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9fl]:Kn%CORAL%o%GOLD%ut%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7fl]:Sc%CORAL%o%GOLD%urge%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID whm]:W%CORAL%ar H%CORAL%amm%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9wh]:B%CORAL%attl%SAGE%e H%CORAL%amm%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7wh]:L%SAGE%eg%SAGE%end%CORAL%ary M%CORAL%all%SAGE%et%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID mau]:M%CORAL%a%GOLD%ul%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9m9]:W%CORAL%ar Cl%GOLD%ub%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7m7]:Ogr%SAGE%e M%CORAL%a%GOLD%ul%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gma]:Gr%SAGE%e%CORAL%at M%CORAL%a%GOLD%ul%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9gm]:M%CORAL%art%SAGE%eld%SAGE%e F%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7gm]:Th%GOLD%und%SAGE%er M%CORAL%a%GOLD%ul%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ssd]:Sh%CORAL%ort Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ss]:Gl%CORAL%adi%GOLD%us%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ss]:F%CORAL%alc%CORAL%ata%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID scm]:Scimit%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9sm]:C%GOLD%utl%CORAL%ass%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7sm]:At%CORAL%agh%CORAL%an%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID sbr]:S%CORAL%abre%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9sb]:Sh%CORAL%amshir%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7sb]:El%SAGE%eg%CORAL%ant Bl%CORAL%ade%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID flc]:F%CORAL%alchi%CORAL%on%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9fc]:T%GOLD%ulw%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7fc]:Hydr%CORAL%a %SAGE%Edge%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID crs]:Cryst%CORAL%al Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9cr]:Dim%SAGE%ensi%CORAL%on%CORAL%al Bl%CORAL%ade%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7cr]:Ph%CORAL%as%SAGE%e Bl%CORAL%ade%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bsd]:Br%CORAL%o%CORAL%ad Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9bs]:B%CORAL%attl%SAGE%e Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7bs]:C%CORAL%onq%GOLD%u%SAGE%est Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lsd]:L%CORAL%ong Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ls]:R%GOLD%un%SAGE%e Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ls]:Cryptic Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID wsd]:W%CORAL%ar Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9wd]:Anci%SAGE%ent Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7wd]:Mythic%CORAL%al Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 2hs]:Tw%CORAL%o-h%CORAL%and%SAGE%ed Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 92h]:Esp%CORAL%and%CORAL%on%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 72h]:L%SAGE%eg%SAGE%end Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID clm]:Cl%CORAL%aym%CORAL%ore%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9cm]:D%CORAL%aci%CORAL%an F%CORAL%alx%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7cm]:Highl%CORAL%and Bl%CORAL%ade%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gis]:Gi%CORAL%ant Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9gs]:T%GOLD%usk Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7gs]:B%CORAL%alr%CORAL%og Bl%CORAL%ade%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bsw]:B%CORAL%ast%CORAL%ard Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9b9]:G%CORAL%othic Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7b7]:Ch%CORAL%ampi%CORAL%on Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID flb]:Fl%CORAL%amb%SAGE%erge%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9fb]:Zw%SAGE%eih%CORAL%and%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7fb]:C%CORAL%ol%CORAL%oss%GOLD%us Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gsd]:Gr%SAGE%e%CORAL%at Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9gd]:Ex%SAGE%ec%GOLD%uti%CORAL%on%SAGE%er Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7gd]:C%CORAL%ol%CORAL%oss%GOLD%us Bl%CORAL%ade%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dgr]:D%CORAL%agg%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9dg]:P%CORAL%oign%CORAL%ard%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7dg]:B%CORAL%on%SAGE%e Knife%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ax]:Cleaver%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ax]:Small Crescent%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 2ax]:Doubleaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 92a]:Twinaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 72a]:Ettinaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID mpi]:Military Pick%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9mp]:Crowbill%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7mp]:War Spike%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID wax]:Waraxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9wa]:Naga%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7wa]:Berserkeraxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lax]:Largeaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9la]:Militaryaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7la]:Feralaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bax]:Broadaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ba]:Beardedaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ba]:Silver-edgedaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID btx]:Battleaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9bt]:Tabar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7bt]:Decapitator%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gax]:Greataxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ga]:Gothicaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ga]:Championaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gix]:Giantaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9gi]:Ancientaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7gi]:Gloriousaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID clb]:Club%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9cl]:Cudgel%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7cl]:Truncheon%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID spc]:Spiked Club%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9sp]:Barbed Club%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7sp]:Tyrant Club%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID mac]:Mace%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ma]:Flanged Mace%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ma]:Reinforced Mace%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID mst]:Morning Star%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9mt]:Jagged Star%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7mt]:Devil Star%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID fla]:Flail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9fl]:Knout%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7fl]:Scourge%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID whm]:War Hammer%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9wh]:Battle Hammer%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7wh]:Legendary Mallet%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID mau]:Maul%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9m9]:War Club%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7m7]:Ogre Maul%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gma]:Great Maul%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9gm]:Martelde Fer%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7gm]:Thunder Maul%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ssd]:Short Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ss]:Gladius%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ss]:Falcata%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID scm]:Scimitar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9sm]:Cutlass%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7sm]:Ataghan%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID sbr]:Sabre%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9sb]:Shamshir%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7sb]:Elegant Blade%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID flc]:Falchion%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9fc]:Tulwar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7fc]:Hydra Edge%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID crs]:Crystal Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9cr]:Dimensional Blade%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7cr]:Phase Blade%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bsd]:Broad Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9bs]:Battle Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7bs]:Conquest Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lsd]:Long Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ls]:Rune Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ls]:Cryptic Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID wsd]:War Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9wd]:Ancient Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7wd]:Mythical Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 2hs]:Two-handed Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 92h]:Espandon%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 72h]:Legend Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID clm]:Claymore%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9cm]:Dacian Falx%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7cm]:Highland Blade%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gis]:Giant Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9gs]:Tusk Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7gs]:Balrog Blade%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bsw]:Bastard Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9b9]:Gothic Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7b7]:Champion Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID flb]:Flamberge%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9fb]:Zweihander%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7fb]:Colossus Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gsd]:Great Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9gd]:Executioner Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7gd]:Colossus Blade%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dgr]:Dagger%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9dg]:Poignard%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7dg]:Bone Knife%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID dir]:Dirk%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9di]:R%CORAL%ond%SAGE%el%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7di]:Mithril P%CORAL%oint%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9di]:Rondel%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7di]:Mithril Point%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID kri]:Kris%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9kr]:Cinq%GOLD%u%SAGE%ed%SAGE%e%CORAL%as%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7kr]:F%CORAL%ang%SAGE%ed Knife%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bld]:Bl%CORAL%ade%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9bl]:Stil%SAGE%etto%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7bl]:L%SAGE%eg%SAGE%end Spike%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tkf]:Thr%CORAL%owing Knife%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9tk]:B%CORAL%attl%SAGE%e D%CORAL%art%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9kr]:Cinquedeas%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7kr]:Fanged Knife%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bld]:Blade%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9bl]:Stiletto%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7bl]:Legend Spike%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tkf]:Throwing Knife%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9tk]:Battle Dart%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 7tk]:Flying Knife%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tax]:Thr%CORAL%owing %CORAL%Axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ta]:Fr%CORAL%ancisca%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ta]:Flying %CORAL%Axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bkf]:B%CORAL%al%CORAL%anc%SAGE%ed Knife%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9bk]:W%CORAL%ar D%CORAL%art%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7bk]:Wing%SAGE%ed Knife%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bal]:B%CORAL%al%CORAL%anc%SAGE%ed %CORAL%Axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9b8]:H%GOLD%urlb%CORAL%at%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7b8]:Wing%SAGE%ed %CORAL%Axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID jav]:J%CORAL%av%SAGE%elin%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ja]:W%CORAL%ar J%CORAL%av%SAGE%elin%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ja]:Hyp%SAGE%eri%CORAL%on J%CORAL%av%SAGE%elin%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pil]:Pil%GOLD%um%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9pi]:Gr%SAGE%e%CORAL%at Pil%GOLD%um%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7pi]:Stygi%CORAL%an Pil%GOLD%um%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ssp]:Sh%CORAL%ort Sp%SAGE%e%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9s9]:Simbil%CORAL%an%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7s7]:B%CORAL%alr%CORAL%og Sp%SAGE%e%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID glv]:Gl%CORAL%aive%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9gl]:Spic%GOLD%ul%GOLD%um%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7gl]:Gh%CORAL%ost Gl%CORAL%aive%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tsp]:Thr%CORAL%owing Sp%SAGE%e%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ts]:H%CORAL%arp%CORAL%oon%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ts]:Wing%SAGE%ed H%CORAL%arp%CORAL%oon%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID spr]:Sp%SAGE%e%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9sr]:W%CORAL%ar Sp%SAGE%e%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7sr]:Hyp%SAGE%eri%CORAL%on Sp%SAGE%e%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tri]:Trid%SAGE%ent%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9tr]:F%GOLD%uscina%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7tr]:Stygi%CORAL%an Pike%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID brn]:Br%CORAL%andist%CORAL%ock%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9br]:W%CORAL%ar F%CORAL%ork%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7br]:M%CORAL%anc%CORAL%atch%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID spt]:Sp%SAGE%et%GOLD%um%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9st]:Y%CORAL%ari%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7st]:Gh%CORAL%ost Sp%SAGE%e%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tax]:Throwing Axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ta]:Francisca%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ta]:Flying Axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bkf]:Balanced Knife%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9bk]:War Dart%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7bk]:Winged Knife%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bal]:Balanced Axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9b8]:Hurlbat%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7b8]:Winged Axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID jav]:Javelin%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ja]:War Javelin%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ja]:Hyperion Javelin%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pil]:Pilum%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9pi]:Great Pilum%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7pi]:Stygian Pilum%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ssp]:Short Spear%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9s9]:Simbilan%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7s7]:Balrog Spear%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID glv]:Glaive%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9gl]:Spiculum%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7gl]:Ghost Glaive%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tsp]:Throwing Spear%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ts]:Harpoon%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ts]:Winged Harpoon%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID spr]:Spear%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9sr]:War Spear%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7sr]:Hyperion Spear%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tri]:Trident%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9tr]:Fuscina%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7tr]:Stygian Pike%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID brn]:Brandistock%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9br]:War Fork%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7br]:Mancatcher%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID spt]:Spetum%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9st]:Yari%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7st]:Ghost Spear%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID pik]:Pike%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9p9]:L%CORAL%ance%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7p7]:W%CORAL%arPike%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bar]:B%CORAL%ardiche%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9b7]:L%CORAL%och%CORAL%ab%SAGE%er %CORAL%Axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7o7]:Ogr%SAGE%e %CORAL%Axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID vou]:V%CORAL%o%GOLD%ulge%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9p9]:Lance%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7p7]:WarPike%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bar]:Bardiche%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9b7]:Lochaber Axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7o7]:Ogre Axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID vou]:Voulge%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 9vo]:Bill%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7vo]:C%CORAL%ol%CORAL%oss%GOLD%us V%CORAL%o%GOLD%ulge%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7vo]:Colossus Voulge%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID scy]:Scythe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9s8]:B%CORAL%attl%SAGE%e Scythe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7s8]:Thr%SAGE%esh%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pax]:P%CORAL%ol%SAGE%e%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9pa]:P%CORAL%artiz%CORAL%an%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7pa]:Cryptic %CORAL%Axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hal]:H%CORAL%alb%SAGE%erd%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9h9]:B%SAGE%ec-d%SAGE%e-C%CORAL%orbin%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7h7]:Gr%SAGE%e%CORAL%at P%CORAL%ol%SAGE%e%CORAL%axe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID wsc]:W%CORAL%ar Scythe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9s8]:Battle Scythe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7s8]:Thresher%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pax]:Poleaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9pa]:Partizan%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7pa]:Cryptic Axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hal]:Halberd%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9h9]:Bec-de-Corbin%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7h7]:Great Poleaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID wsc]:War Scythe%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 9wc]:Grim Scythe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7wc]:Gi%CORAL%ant Thr%SAGE%esh%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID sbw]:Sh%CORAL%ort B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8sb]:Edg%SAGE%e B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6sb]:Spid%SAGE%er B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hbw]:H%GOLD%unt%SAGE%ers B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8hb]:R%CORAL%az%CORAL%or B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6hb]:Bl%CORAL%ad%SAGE%e B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lbw]:L%CORAL%ong B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8lb]:C%SAGE%ed%CORAL%ar B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6lb]:Sh%CORAL%ad%CORAL%ow B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID cbw]:C%CORAL%omp%CORAL%osit%SAGE%e B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8cb]:D%CORAL%o%GOLD%ubl%SAGE%e B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6cb]:Gr%SAGE%e%CORAL%at B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID sbb]:Sh%CORAL%ortB%CORAL%attl%SAGE%e B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8s8]:Sh%CORAL%ortSi%SAGE%eg%SAGE%e B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6s7]:Di%CORAL%am%CORAL%ond B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lbb]:L%CORAL%ong B%CORAL%attl%SAGE%eB%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8l8]:L%CORAL%arg%SAGE%eSi%SAGE%eg%SAGE%e B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6l7]:Cr%GOLD%us%CORAL%ad%SAGE%er B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID swb]:Sh%CORAL%ortW%CORAL%ar B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8sw]:R%GOLD%un%SAGE%e B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6sw]:W%CORAL%ard B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lwb]:L%CORAL%ongW%CORAL%ar B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8lw]:G%CORAL%othic B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6lw]:Hydr%CORAL%a B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lxb]:Light Cr%CORAL%ossb%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8lx]:Arb%CORAL%al%SAGE%est%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6lx]:P%SAGE%ell%SAGE%et B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID mxb]:Cr%CORAL%ossb%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8mx]:Si%SAGE%eg%SAGE%e Cr%CORAL%ossb%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6mx]:G%CORAL%org%CORAL%on Cr%CORAL%ossb%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hxb]:H%SAGE%e%CORAL%avy Cr%CORAL%ossb%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8hx]:B%CORAL%allista%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6hx]:C%CORAL%ol%CORAL%oss%GOLD%us Cr%CORAL%ossb%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID rxb]:R%SAGE%ep%SAGE%e%CORAL%ating Cr%CORAL%ossb%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8rx]:Ch%GOLD%u-K%CORAL%o-Nu%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6rx]:D%SAGE%em%CORAL%on Cr%CORAL%ossb%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID sst]:Sh%CORAL%ort St%CORAL%aff%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8ss]:J%CORAL%o St%CORAL%aff%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6ss]:W%CORAL%alking Stick%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lst]:L%CORAL%ong St%CORAL%aff%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8ls]:Q%GOLD%u%CORAL%art%SAGE%erst%CORAL%aff%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6ls]:St%CORAL%al%CORAL%agmite%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID cst]:Gn%CORAL%arl%SAGE%ed St%CORAL%aff%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8cs]:C%SAGE%ed%CORAL%ar St%CORAL%aff%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6cs]:Eld%SAGE%er St%CORAL%aff%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bst]:B%CORAL%attl%SAGE%e St%CORAL%aff%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8bs]:G%CORAL%othic St%CORAL%aff%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6bs]:Shill%SAGE%el%CORAL%agh%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID wst]:W%CORAL%ar St%CORAL%aff%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8ws]:R%GOLD%un%SAGE%e St%CORAL%aff%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6ws]:Arch%CORAL%on St%CORAL%aff%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID wnd]:W%CORAL%and%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9wn]:B%GOLD%urnt W%CORAL%and%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7wn]:P%CORAL%olish%SAGE%ed W%CORAL%and%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ywn]:Y%SAGE%ew W%CORAL%and%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9yw]:P%SAGE%etrifi%SAGE%ed W%CORAL%and%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7yw]:Gh%CORAL%ost W%CORAL%and%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bwn]:B%CORAL%on%SAGE%e W%CORAL%and%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9bw]:T%CORAL%omb W%CORAL%and%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7bw]:Lich W%CORAL%and%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gwn]:Grim W%CORAL%and%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9gw]:Gr%CORAL%av%SAGE%e W%CORAL%and%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7gw]:Un%SAGE%e%CORAL%arth%SAGE%ed W%CORAL%and%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID scp]:Sc%SAGE%ept%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9sc]:R%GOLD%un%SAGE%e Sc%SAGE%ept%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7sc]:Mighty Sc%SAGE%ept%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gsc]:Gr%CORAL%and Sc%SAGE%ept%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9qs]:H%CORAL%olyW%CORAL%at%SAGE%er Sprinkl%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7qs]:S%SAGE%er%CORAL%aph R%CORAL%od%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID wsp]:W%CORAL%ar Sc%SAGE%ept%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ws]:Divin%SAGE%e Sc%SAGE%ept%SAGE%er%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ws]:C%CORAL%ad%GOLD%uc%SAGE%e%GOLD%us%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ktr]:K%CORAL%at%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ar]:Q%GOLD%uh%CORAL%ab%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ar]:S%GOLD%uw%CORAL%ayy%CORAL%ah%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID wrb]:Wrist Bl%CORAL%ade%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7wc]:Giant Thresher%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID sbw]:Short Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8sb]:Edge Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6sb]:Spider Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hbw]:Hunters Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8hb]:Razor Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6hb]:Blade Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lbw]:Long Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8lb]:Cedar Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6lb]:Shadow Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID cbw]:Composite Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8cb]:Double Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6cb]:Great Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID sbb]:ShortBattle Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8s8]:ShortSiege Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6s7]:Diamond Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lbb]:Long BattleBow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8l8]:LargeSiege Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6l7]:Crusader Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID swb]:ShortWar Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8sw]:Rune Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6sw]:Ward Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lwb]:LongWar Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8lw]:Gothic Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6lw]:Hydra Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lxb]:Light Crossbow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8lx]:Arbalest%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6lx]:Pellet Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID mxb]:Crossbow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8mx]:Siege Crossbow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6mx]:Gorgon Crossbow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hxb]:Heavy Crossbow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8hx]:Ballista%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6hx]:Colossus Crossbow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID rxb]:Repeating Crossbow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8rx]:Chu-Ko-Nu%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6rx]:Demon Crossbow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID sst]:Short Staff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8ss]:Jo Staff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6ss]:Walking Stick%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lst]:Long Staff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8ls]:Quarterstaff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6ls]:Stalagmite%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID cst]:Gnarled Staff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8cs]:Cedar Staff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6cs]:Elder Staff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bst]:Battle Staff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8bs]:Gothic Staff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6bs]:Shillelagh%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID wst]:War Staff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8ws]:Rune Staff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6ws]:Archon Staff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID wnd]:Wand%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9wn]:Burnt Wand%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7wn]:Polished Wand%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ywn]:Yew Wand%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9yw]:Petrified Wand%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7yw]:Ghost Wand%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bwn]:Bone Wand%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9bw]:Tomb Wand%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7bw]:Lich Wand%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gwn]:Grim Wand%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9gw]:Grave Wand%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7gw]:Unearthed Wand%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID scp]:Scepter%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9sc]:Rune Scepter%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7sc]:Mighty Scepter%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gsc]:Grand Scepter%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9qs]:HolyWater Sprinkler%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7qs]:Seraph Rod%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID wsp]:War Scepter%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ws]:Divine Scepter%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ws]:Caduceus%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ktr]:Katar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ar]:Quhab%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ar]:Suwayyah%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID wrb]:Wrist Blade%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 9wb]:Wrist Spike%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7wb]:Wrist Sw%CORAL%ord%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID axf]:H%CORAL%atch%SAGE%et H%CORAL%ands%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9xf]:F%CORAL%ascia%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7xf]:W%CORAL%ar Fist%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ces]:C%SAGE%est%GOLD%us%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9cs]:H%CORAL%and Scythe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7cs]:B%CORAL%attl%SAGE%e C%SAGE%est%GOLD%us%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID clw]:Cl%CORAL%aws%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9lw]:Gr%SAGE%e%CORAL%at%SAGE%er Cl%CORAL%aws%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7lw]:F%SAGE%er%CORAL%al Cl%CORAL%aws%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID btl]:Bl%CORAL%ad%SAGE%e T%CORAL%al%CORAL%ons%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9tw]:Gr%SAGE%e%CORAL%at%SAGE%er T%CORAL%al%CORAL%ons%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7tw]:R%GOLD%unic T%CORAL%al%CORAL%ons%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID skr]:Sciss%CORAL%ors K%CORAL%at%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9qr]:Sciss%CORAL%ors Q%GOLD%uh%CORAL%ab%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7qr]:Sciss%CORAL%ors S%GOLD%uw%CORAL%ayy%CORAL%ah%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob1]:E%CORAL%agl%SAGE%e %CORAL%Orb%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob6]:Gl%CORAL%owing %CORAL%Orb%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID obb]:H%SAGE%e%CORAL%av%SAGE%enly St%CORAL%one%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob2]:S%CORAL%acr%SAGE%ed Gl%CORAL%obe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob7]:Cryst%CORAL%allin%SAGE%e Gl%CORAL%obe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID obc]:Eldritch %CORAL%Orb%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob3]:Sm%CORAL%ok%SAGE%ed Sph%SAGE%ere%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob8]:Cl%CORAL%o%GOLD%udy Sph%SAGE%ere%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID obd]:D%SAGE%em%CORAL%onH%SAGE%e%CORAL%art%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob4]:Cl%CORAL%asp%SAGE%ed %CORAL%Orb%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob9]:Sp%CORAL%arkling B%CORAL%all%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID obe]:V%CORAL%ort%SAGE%ex %CORAL%Orb%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob5]:J%CORAL%ar%SAGE%ed's St%CORAL%one%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID oba]:Swirling Cryst%CORAL%al%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID obf]:Dim%SAGE%ensi%CORAL%on%CORAL%al Sh%CORAL%ard%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am1]:St%CORAL%ag B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am6]:Ashw%CORAL%ood B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID amb]:M%CORAL%atri%CORAL%arch%CORAL%al B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am2]:R%SAGE%efl%SAGE%ex B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am7]:C%SAGE%er%SAGE%em%CORAL%oni%CORAL%al B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID amc]:Gr%CORAL%andM%CORAL%atr%CORAL%on B%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am3]:M%CORAL%aid%SAGE%en Sp%SAGE%e%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am8]:C%SAGE%er%SAGE%em%CORAL%oni%CORAL%al Sp%SAGE%e%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID amd]:M%CORAL%atri%CORAL%arch%CORAL%al Sp%SAGE%e%CORAL%ar%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am4]:M%CORAL%aid%SAGE%en Pike%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am9]:C%SAGE%er%SAGE%em%CORAL%oni%CORAL%al Pike%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ame]:M%CORAL%atri%CORAL%arch%CORAL%al Pike%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am5]:M%CORAL%aid%SAGE%en J%CORAL%av%SAGE%elin%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ama]:C%SAGE%er%SAGE%em%CORAL%oni%CORAL%al J%CORAL%av%SAGE%elin%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID amf]:M%CORAL%atri%CORAL%arch%CORAL%al J%CORAL%av%SAGE%elin%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID aqv]:Arr%CORAL%ow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID cqv]:B%CORAL%olt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7wb]:Wrist Sword%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID axf]:Hatchet Hands%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9xf]:Fascia%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7xf]:War Fist%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ces]:Cestus%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9cs]:Hand Scythe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7cs]:Battle Cestus%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID clw]:Claws%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9lw]:Greater Claws%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7lw]:Feral Claws%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID btl]:Blade Talons%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9tw]:Greater Talons%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7tw]:Runic Talons%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID skr]:Scissors Katar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9qr]:Scissors Quhab%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7qr]:Scissors Suwayyah%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob1]:Eagle Orb%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob6]:Glowing Orb%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID obb]:Heavenly Stone%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob2]:Sacred Globe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob7]:Crystalline Globe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID obc]:Eldritch Orb%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob3]:Smoked Sphere%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob8]:Cloudy Sphere%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID obd]:DemonHeart%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob4]:Clasped Orb%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob9]:Sparkling Ball%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID obe]:Vortex Orb%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob5]:Jared's Stone%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID oba]:Swirling Crystal%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID obf]:Dimensional Shard%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am1]:Stag Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am6]:Ashwood Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID amb]:Matriarchal Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am2]:Reflex Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am7]:Ceremonial Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID amc]:GrandMatron Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am3]:Maiden Spear%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am8]:Ceremonial Spear%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID amd]:Matriarchal Spear%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am4]:Maiden Pike%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am9]:Ceremonial Pike%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ame]:Matriarchal Pike%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am5]:Maiden Javelin%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ama]:Ceremonial Javelin%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID amf]:Matriarchal Javelin%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID aqv]:Arrow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID cqv]:Bolt%CONTINUE%
 
 ItemDisplay[RARE ID EXC]:%TEAL%+%CORAL%Exceptional%PURPLE%+%NL%%YELLOW%%NAME%%CONTINUE%
 ItemDisplay[RARE ID NORM]:%TEAL%+%LIGHT_GRAY%Normal%PURPLE%+%NL%%YELLOW%%NAME%%CONTINUE%
