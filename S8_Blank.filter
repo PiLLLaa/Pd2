@@ -5843,8 +5843,8 @@ ItemDisplay[MAG ID amu]:%NAME%{%NAME%}%CONTINUE%
 
 //CRAFT/RARE AMULET MARKING
 
-ItemDisplay[CRAFT ID amu]:%NAME%{%ORANGE%C r a f t %TEAL%A m u l e t}%CONTINUE%
-ItemDisplay[RARE ID amu]:%NAME%{%YELLOW%R a r e %CORAL%A m u l e t}%CONTINUE%
+ItemDisplay[CRAFT ID amu]:%NAME%{%TEAL%+%ORANGE%C r a f t %TEAL%A m u l e t %PURPLE%+}%CONTINUE%
+ItemDisplay[RARE ID amu]:%NAME%{%TEAL%+ %YELLOW%R a r e %CORAL%A m u l e t %PURPLE%+}%CONTINUE%
 
 ItemDisplay[(CRAFT OR RARE) amu ID CLSK0>1 !STAT105>0 !ALLSK>0]:%NAME%%NL%%TEAL%+ %GREEN%+2 Ama %PURPLE%+{%NAME%}%CONTINUE%
 ItemDisplay[(CRAFT OR RARE) amu ID CLSK1>1 !STAT105>0 !ALLSK>0]:%NAME%%NL%%TEAL%+ %GREEN%+2 Soc %PURPLE%+{%NAME%}%CONTINUE%
