@@ -4553,7 +4553,7 @@ ItemDisplay[(SET) 7qs ID]:%DARK_GREEN%Seraph Rod%NL%%GREEN%Civerb's %WHITE%C %DA
 ItemDisplay[(SET) gth ID]:%DARK_GREEN%Gothic Plate%NL%%GREEN%Sigon's %WHITE%S h %DARK_GREEN%e l %WHITE%t e %GREEN%r%CONTINUE%
 ItemDisplay[(SET) xth ID]:%DARK_GREEN%Embossed Plate%NL%%GREEN%Sigon's %WHITE%S h %DARK_GREEN%e l %WHITE%t e %GREEN%r%CONTINUE%
 ItemDisplay[(SET) uth ID]:%DARK_GREEN%Lacquered Plate%NL%%GREEN%Sigon's %WHITE%S h %DARK_GREEN%e l %WHITE%t e %GREEN%r%CONTINUE%
-ItemDisplay[(SET) uth MFIND>49 FRES>39 LRES>39 CRES>39 ID]:%RED%%TEAL%Lacquered Plate%NL%%GREEN%Tal Rasha's %PURPLE%G%RED%u%ORANGE%a%GOLD%r%WHITE%di%GOLD%an%ORANGE%s%RED%h%PURPLE%i%TAN%p%CONTINUE%
+ItemDisplay[(SET) uth MFIND>49 FRES>39 LRES>39 CRES>39 ID]:%RED%%TEAL%Lacquered Plate%NL%%GREEN%Tal Rasha's %PURPLE%G%RED%u%ORANGE%a%GOLD%r%WHITE%di%GOLD%an %ORANGE%s %RED%h %PURPLE%i %TAN%p%CONTINUE%
 
 ItemDisplay[(SET) gts ID]:%DARK_GREEN%Gothic Shield%NL%%GREEN%Isenhart's %WHITE%P %DARK_GREEN%a r %GREEN%r y%CONTINUE%
 ItemDisplay[(SET) xts ID]:%DARK_GREEN%Ancient Shield%NL%%GREEN%Isenhart's %WHITE%P %DARK_GREEN%a r %GREEN%r y%CONTINUE%
@@ -4623,8 +4623,8 @@ ItemDisplay[(SET) nee ID]:%RED%%TEAL%Succubae Skull%NL%%GREEN%Trang-Oul's %PURPL
 
 ItemDisplay[(SET) paf ID]:%RED%%TEAL%Vortex Shield%NL%%GREEN%Gris wold's %PURPLE%H %RED%o n %ORANGE%o r%CONTINUE%
 
-ItemDisplay[(SET) oba ID]:%RED%%TEAL%Swirling Crystal%NL%%GREEN%Tal Rasha's %PURPLE%Li%RED%dl%ORANGE%es%GOLD%s %WHITE%E%GOLD%y%ORANGE%e%CONTINUE%
-ItemDisplay[(SET) obf ID]:%RED%%TEAL%Dimensional Shard%NL%%GREEN%Tal Rasha's %PURPLE%Li%RED%dl%ORANGE%es%GOLD%s %WHITE%E%GOLD%y%ORANGE%e%CONTINUE%
+ItemDisplay[(SET) oba ID]:%RED%%TEAL%Swirling Crystal%NL%%GREEN%Tal Rasha's %PURPLE%Li%RED%dl%ORANGE%es%GOLD%s %WHITE%E %GOLD%y %ORANGE%e%CONTINUE%
+ItemDisplay[(SET) obf ID]:%RED%%TEAL%Dimensional Shard%NL%%GREEN%Tal Rasha's %PURPLE%Li%RED%dl%ORANGE%es%GOLD%s %WHITE%E %GOLD%y %ORANGE%e%CONTINUE%
 
 ItemDisplay[(SET) ult ID]:%RED%%TEAL%Hellforge Plate%NL%%GREEN%Naj's %PURPLE%L i %RED%g h %ORANGE%t  %GOLD%P l %WHITE%a t %PURPLE%e%CONTINUE%
 
@@ -4635,8 +4635,8 @@ ItemDisplay[(SET) zmb LIFE>19 CRES>19 ID]:%DARK_GREEN%Mesh Belt%NL%%GREEN%Hsarus
 ItemDisplay[(SET) zmb STAT117>0 (STAT50>0 OR STAT51>0) ID]:%GREEN%%SAGE%Mesh Belt%NL%%GREEN%Hwanin's %GREEN% B %GOLD%l e %WHITE%s s %GREEN%i n %PURPLE%g%CONTINUE%
 ItemDisplay[(SET) umc LIFE>19 CRES>19 ID]:%DARK_GREEN%Mithril Coil%NL%%GREEN%Hsarus' %GREEN%I r %DARK_GREEN%o n %WHITE% S %DARK_GREEN%t a %WHITE%y%CONTINUE%
 ItemDisplay[(SET) umc STAT117>0 (STAT50>0 OR STAT51>0) ID]:%GREEN%%SAGE%Mithril Coil%NL%%GREEN%Hwanin's %GREEN% B %GOLD%l e %WHITE%s s %GREEN%i n %PURPLE%g%CONTINUE%
-ItemDisplay[(SET) zmb DEX>19 MANA>19 DTM>36 MFIND>9 ID]:%RED%%TEAL%Mesh Belt%NL%%GREEN%Tal Rasha's %PURPLE%Fi%RED%ne%ORANGE%-S%GOLD%pu%WHITE%n %GOLD%C%ORANGE%l%RED%o%WHITE%t%PURPLE%h%CONTINUE%
-ItemDisplay[(SET) umc DEX>19 MANA>19 DTM>36 MFIND>9 ID]:%RED%%TEAL%Mithril Coil%NL%%GREEN%Tal Rasha's %PURPLE%Fi%RED%ne%ORANGE%-S%GOLD%pu%WHITE%n %GOLD%C%ORANGE%l%RED%o%WHITE%t%PURPLE%h%CONTINUE%
+ItemDisplay[(SET) zmb DEX>19 MANA>19 DTM>36 MFIND>9 ID]:%RED%%TEAL%Mesh Belt%NL%%GREEN%Tal Rasha's %PURPLE%Fi%RED%ne%ORANGE%-S%GOLD%pu%WHITE%n %GOLD%C %ORANGE%l %RED%o %WHITE%t %PURPLE%h%CONTINUE%
+ItemDisplay[(SET) umc DEX>19 MANA>19 DTM>36 MFIND>9 ID]:%RED%%TEAL%Mithril Coil%NL%%GREEN%Tal Rasha's %PURPLE%Fi%RED%ne%ORANGE%-S%GOLD%pu%WHITE%n %GOLD%C %ORANGE%l %RED%o %WHITE%t %PURPLE%h%CONTINUE%
 ItemDisplay[(SET) umc STR>9 DEX>9 RES>14 ID]:%PURPLE%Mithril Coil%NL%%GREEN%Disciple's  %GREEN%C r %PURPLE%e d %RED%e n %ORANGE%d u %GOLD%m%CONTINUE%
 
 ItemDisplay[(SET) spl ID]:%DARK_GREEN%Splint Mail%NL%%GREEN%Berserker's %WHITE%H a %DARK_GREEN%u b %WHITE%e r %GREEN%k%CONTINUE%
