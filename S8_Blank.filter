@@ -2043,501 +2043,501 @@ ItemDisplay[(CRAFT) am5]:%ORANGE%M%ORANGE%a%WHITE%i%ORANGE%d%YELLOW%e%WHITE%n%GR
 ItemDisplay[(CRAFT) ama]:%ORANGE%C%ORANGE%e%WHITE%r%ORANGE%e%YELLOW%m%WHITE%o%GRAY%n%ORANGE%i%WHITE%a%ORANGE%l%GRAY% %WHITE%J%ORANGE%a%ORANGE%v%WHITE%e%YELLOW%l%GRAY%i%WHITE%n%CONTINUE%
 ItemDisplay[(CRAFT) amf]:%ORANGE%M%ORANGE%a%WHITE%t%ORANGE%r%YELLOW%i%WHITE%a%GRAY%r%ORANGE%c%WHITE%h%ORANGE%a%GRAY%l%WHITE% %ORANGE%J%ORANGE%a%WHITE%v%YELLOW%e%GRAY%l%WHITE%i%ORANGE%n%CONTINUE%
 
-ItemDisplay[(SET OR UNI) !ID cap]:C a p%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xap]:W a r  H a t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uap]:S h a k o%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID skp]:S k u l l  C a p%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xkp]:S a l l e t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ukp]:H y d r a s k u l l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hlm]:H e l m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xlm]:C a s q u e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ulm]:A r m e t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID fhl]:F u l l  H e l m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xhl]:B a s i n e t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uhl]:G i a n t  C o n c h%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID msk]:M a s k%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xsk]:D e a t h  M a s k%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID usk]:D e m o n h e a d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bhm]:B o n e  H e l m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xh9]:G r i m  H e l m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uh9]:B o n e  V i s a g e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ghm]:G r e a t  H e l m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xhm]:W i n g e d  H e l m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uhm]:S p i r e d  H e l m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID crn]:C r o w n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xrn]:G r a n d  C r o w n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID urn]:C o r o n a%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID qui]:Q u i l t e d  A r m o r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xui]:G h o s t  A r m o r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uui]:D u s k  S h r o u d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lea]:L e a t h e r  A r m o r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xea]:S e r p e n t s k i n  A r m o r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uea]:W y r m h i d e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hla]:H a r d  L e a t h e r  A r m o r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xla]:D e m o n h i d e  A r m o r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ula]:S c a r a b  H u s k%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID stu]:S t u d d e d  L e a t h e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xtu]:T r e l l i s e d  A r m o r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID utu]:W i r e  F l e e c e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID rng]:R i n g  M a i l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xng]:L i n k e d  M a i l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ung]:D i a m o n d  M a i l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID scl]:S c a l e  M a i l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xcl]:T i g u l a t e d  M a i l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ucl]:L o r i c a t e d  M a i l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID chn]:C h a i n  M a i l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xhn]:M e s h  A r m o r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uhn]:B o n e w e a v e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID brs]:B r e a s t  P l a t e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xrs]:C u i r a s s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID urs]:G r e a t  H a u b e r k%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID spl]:S p l i n t  M a i l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xpl]:R u s s e t  A r m o r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID upl]:B a l r o g  S k i n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID plt]:P l a t e  M a i l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xlt]:T e m p l a r  C o a t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ult]:H e l l f o r g e  P l a t e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID fld]:F i e l d  P l a t e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xld]:S h a r k t o o t h  A r m o r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uld]:K r a k e n  S h e l l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gth]:G o t h i c  P l a t e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xth]:E m b o s s e d  P l a t e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uth]:L a c q u e r e d  P l a t e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ltp]:L i g h t  P l a t e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xtp]:M a g e  P l a t e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID utp]:A r c h o n  P l a t e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ful]:F u l l  P l a t e  M a i l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xul]:C h a o s  A r m o r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uul]:S h a d o w  P l a t e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID aar]:A n c i e n t  A r m o r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xar]:O r n a t e  P l a t e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uar]:S a c r e d  A r m o r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID buc]:B u c k l e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xuc]:D e f e n d e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uuc]:H e a t e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID sml]:S m a l l  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xml]:R o u n d  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uml]:L u n a%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lrg]:L a r g e  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xrg]:S c u t u m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID urg]:H y p e r i o n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID spk]:S p i k e d  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xpk]:B a r b e d  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID upk]:B l a d e  B a r r i e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID kit]:K i t e  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xit]:D r a g o n  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uit]:M o n a r c h%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bsh]:B o n e  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xsh]:G r i m  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ush]:T r o l l  N e s t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tow]:T o w e r  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xow]:P a v i s e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uow]:A e g i s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gts]:G o t h i c  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xts]:A n c i e n t  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uts]:W a r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lgl]:L e a t h e r  G l o v e s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xlg]:D e m o n h i d e  G l o v e s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ulg]:B r a m b l e  M i t t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID vgl]:H e a v y  G l o v e s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xvg]:S h a r k s k i n  G l o v e s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uvg]:V a m p i r e b o n e  G l o v e s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID mgl]:C h a i n  G l o v e s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xmg]:H e a v y  B r a c e r s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID umg]:V a m b r a c e s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tgl]:L i g h t  G a u n t l e t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xtg]:B a t t l e  G a u n t l e t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID utg]:C r u s a d e r  G a u n t l e t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hgl]:G a u n t l e t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xhg]:W a r  G a u n t l e t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uhg]:O g r e  G a u n t l e t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lbt]:B o o t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xlb]:D e m o n h i d e  B o o t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ulb]:W y r m h i d e  B o o t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID vbt]:H e a v y  B o o t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xvb]:S h a r k s k i n  B o o t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uvb]:S c a r a b s h e l l  B o o t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID mbt]:C h a i n  B o o t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xmb]:M e s h  B o o t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID umb]:B o n e w e a v e  B o o t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tbt]:L i g h t  P l a t e d  B o o t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xtb]:B a t t l e  B o o t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID utb]:M i r r o r e d  B o o t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hbt]:G r e a v e s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xhb]:W a r  B o o t s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uhb]:M y r m i d o n  G r e a v e s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lbl]:S a s h%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID zlb]:D e m o n h i d e  S a s h%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ulc]:S p i d e r w e b  S a s h%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID vbl]:L i g h t  B e l t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID zvb]:S h a r k s k i n  B e l t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uvc]:V a m p i r e f a n g  B e l t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID mbl]:B e l t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID zmb]:M e s h  B e l t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID umc]:M i t h r i l  C o i l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tbl]:H e a v y  B e l t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ztb]:B a t t l e  B e l t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID utc]:T r o l l  B e l t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hbl]:P l a t e d  B e l t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID zhb]:W a r  B e l t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uhc]:C o l o s s u s  G i r d l e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ci0]:C i r c l e t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ci1]:C o r o n e t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ci2]:T i a r a%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ci3]:D i a d e m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr1]:W o l f  H e a d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr6]:A l p h a  H e l m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID drb]:B l o o d  S p i r i t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr2]:H a w k  H e l m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr7]:G r i f f o n  H e a d r e s s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID drc]:S u n  S p i r i t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr3]:A n t l e r s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr8]:H u n t e r ' s  G u i s e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID drd]:E a r t h  S p i r i t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr4]:F a l c o n  M a s k%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr9]:S a c r e d  F e a t h e r s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dre]:S k y  S p i r i t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dr5]:S p i r i t  M a s k%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dra]:T o t e m i c  M a s k%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID drf]:D r e a m  S p i r i t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba1]:J a w b o n e  C a p%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba6]:J a w b o n e  V i s o r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bab]:C a r n a g e  H e l m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba2]:F a n g e d  H e l m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba7]:L i o n  H e l m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bac]:F u r y  V i s o r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba3]:H o r n e d  H e l m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba8]:R a g e  M a s k%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bad]:D e s t r o y e r  H e l m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba4]:A s s a u l t  H e l m e t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba9]:S a v a g e  H e l m e t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bae]:C o n q u e r o r  C r o w n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ba5]:A v e n g e r  G u a r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID baa]:S l a y e r  G u a r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID baf]:G u a r d i a n  C r o w n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa1]:T a r g e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa6]:A k a r a n  T a r g e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pab]:S a c r e d  T a r g e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa2]:R o n d a c h e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa7]:A k a r a n  R o n d a c h e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pac]:S a c r e d  R o n d a c h e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa3]:H e r a l d i c  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa8]:P r o t e c t o r  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pad]:K u r a s t  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa4]:A e r i n  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa9]:G i l d e d  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pae]:Z a k a r u m  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pa5]:C r o w n  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID paa]:R o y a l  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID paf]:V o r t e x  S h i e l d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne1]:P r e s e r v e d  H e a d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne6]:M u m m i f i e d  T r o p h y%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID neb]:M i n i o n  S k u l l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne2]:Z o m b i e  H e a d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne7]:F e t i s h  T r o p h y%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID neg]:H e l l s p a w n  S k u l l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne3]:U n r a v e l l e r  H e a d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne8]:S e x t o n  T r o p h y%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ned]:O v e r s e e r  S k u l l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne4]:G a r g o y l e  H e a d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne9]:C a n t o r  T r o p h y%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID nee]:S u c c u b u s  S k u l l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ne5]:D e m o n  H e a d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID nea]:H i e r o p h a n t  T r o p h y%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID nef]:B l o o d l o r d  S k u l l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hax]:H a n d  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ha]:H a t c h e t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ha]:T o m a h a w k%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID axe]:A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ax]:C l e a v e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ax]:S m a l l  C r e s c e n t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 2ax]:D o u b l e  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 92a]:T w i n  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 72a]:E t t i n  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID mpi]:M i l i t a r y  P i c k%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9mp]:C r o w b i l l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7mp]:W a r  S p i k e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID wax]:W a r  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9wa]:N a g a%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7wa]:B e r s e r k e r  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lax]:L a r g e  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9la]:M i l i t a r y  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7la]:F e r a l  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bax]:B r o a d  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ba]:B e a r d e d  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ba]:S i l v e r - e d g e d  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID btx]:B a t t l e  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9bt]:T a b a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7bt]:D e c a p i t a t o r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gax]:G r e a t  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ga]:G o t h i c  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ga]:C h a m p i o n  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gix]:G i a n t  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9gi]:A n c i e n t  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7gi]:G l o r i o u s  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID clb]:C l u b%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9cl]:C u d g e l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7cl]:T r u n c h e o n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID spc]:S p i k e d  C l u b%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9sp]:B a r b e d  C l u b%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7sp]:T y r a n t  C l u b%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID mac]:M a c e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ma]:F l a n g e d  M a c e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ma]:R e i n f o r c e d  M a c e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID mst]:M o r n i n g  S t a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9mt]:J a g g e d  S t a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7mt]:D e v i l  S t a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID fla]:F l a i l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9fl]:K n o u t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7fl]:S c o u r g e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID whm]:W a r  H a m m e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9wh]:B a t t l e  H a m m e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7wh]:L e g e n d a r y  M a l l e t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID mau]:M a u l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9m9]:W a r  C l u b%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7m7]:O g r e  M a u l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gma]:G r e a t  M a u l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9gm]:M a r t e l  d e  F e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7gm]:T h u n d e r  M a u l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ssd]:S h o r t  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ss]:G l a d i u s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ss]:F a l c a t a%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID scm]:S c i m i t a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9sm]:C u t l a s s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7sm]:A t a g h a n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID sbr]:S a b r e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9sb]:S h a m s h i r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7sb]:E l e g a n t  B l a d e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID flc]:F a l c h i o n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9fc]:T u l w a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7fc]:H y d r a  E d g e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID crs]:C r y s t a l  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9cr]:D i m e n s i o n a l  B l a d e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7cr]:P h a s e  B l a d e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bsd]:B r o a d  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9bs]:B a t t l e  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7bs]:C o n q u e s t  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lsd]:L o n g  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ls]:R u n e  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ls]:C r y p t i c  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID wsd]:W a r  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9wd]:A n c i e n t  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7wd]:M y t h i c a l  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 2hs]:T w o - h a n d e d  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 92h]:E s p a n d o n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 72h]:L e g e n d  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID clm]:C l a y m o r e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9cm]:D a c i a n  F a l x%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7cm]:H i g h l a n d  B l a d e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gis]:G i a n t  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9gs]:T u s k  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7gs]:B a l r o g  B l a d e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bsw]:B a s t a r d  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9b9]:G o t h i c  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7b7]:C h a m p i o n  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID flb]:F l a m b e r g e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9fb]:Z w e i h a n d e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7fb]:C o l o s s u s  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gsd]:G r e a t  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9gd]:E x e c u t i o n e r  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7gd]:C o l o s s u s  B l a d e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dgr]:D a g g e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9dg]:P o i g n a r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7dg]:B o n e  K n i f e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID dir]:D i r k%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9di]:R o n d e l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7di]:M i t h r i l  P o i n t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID kri]:K r i s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9kr]:C i n q u e d e a s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7kr]:F a n g e d  K n i f e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bld]:B l a d e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9bl]:S t i l e t t o%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7bl]:L e g e n d  S p i k e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tkf]:T h r o w i n g  K n i f e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9tk]:B a t t l e  D a r t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7tk]:F l y i n g  K n i f e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tax]:T h r o w i n g  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ta]:F r a n c i s c a%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ta]:F l y i n g  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bkf]:B a l a n c e d  K n i f e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9bk]:W a r  D a r t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7bk]:W i n g e d  K n i f e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bal]:B a l a n c e d  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9b8]:H u r l b a t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7b8]:W i n g e d  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID jav]:J a v e l i n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ja]:W a r  J a v e l i n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ja]:H y p e r i o n  J a v e l i n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pil]:P i l u m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9pi]:G r e a t  P i l u m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7pi]:S t y g i a n  P i l u m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ssp]:S h o r t  S p e a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9s9]:S i m b i l a n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7s7]:B a l r o g  S p e a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID glv]:G l a i v e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9gl]:S p i c u l u m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7gl]:G h o s t  G l a i v e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tsp]:T h r o w i n g  S p e a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ts]:H a r p o o n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ts]:W i n g e d  H a r p o o n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID spr]:S p e a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9sr]:W a r  S p e a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7sr]:H y p e r i o n  S p e a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tri]:T r i d e n t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9tr]:F u s c i n a%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7tr]:S t y g i a n  P i k e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID brn]:B r a n d i s t o c k%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9br]:W a r  F o r k%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7br]:M a n c a t c h e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID spt]:S p e t u m%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9st]:Y a r i%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7st]:G h o s t  S p e a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pik]:P i k e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9p9]:L a n c e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7p7]:W a r  P i k e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bar]:B a r d i c h e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9b7]:L o c h a b e r  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7o7]:O g r e  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID vou]:V o u l g e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9vo]:B i l l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7vo]:C o l o s s u s  V o u l g e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID scy]:S c y t h e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9s8]:B a t t l e  S c y t h e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7s8]:T h r e s h e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID pax]:P o l e a x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9pa]:P a r t i z a n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7pa]:C r y p t i c  A x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hal]:H a l b e r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9h9]:B e c - d e - C o r b i n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7h7]:G r e a t  P o l e a x e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID wsc]:W a r  S c y t h e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9wc]:G r i m  S c y t h e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7wc]:G i a n t  T h r e s h e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID sbw]:S h o r t  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8sb]:E d g e  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6sb]:S p i d e r  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hbw]:H u n t e r s  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8hb]:R a z o r  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6hb]:B l a d e  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lbw]:L o n g  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8lb]:C e d a r  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6lb]:S h a d o w  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID cbw]:C o m p o s i t e  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8cb]:D o u b l e  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6cb]:G r e a t  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID sbb]:S h o r t  B a t t l e  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8s8]:S h o r t  S i e g e  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6s7]:D i a m o n d  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lbb]:L o n g  B a t t l e  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8l8]:L a r g e  S i e g e  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6l7]:C r u s a d e r  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID swb]:S h o r t  W a r  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8sw]:R u n e  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6sw]:W a r d  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lwb]:L o n g  W a r  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8lw]:G o t h i c  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6lw]:H y d r a  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lxb]:L i g h t  C r o s s b o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8lx]:A r b a l e s t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6lx]:P e l l e t  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID mxb]:C r o s s b o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8mx]:S i e g e  C r o s s b o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6mx]:G o r g o n  C r o s s b o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hxb]:H e a v y  C r o s s b o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8hx]:B a l l i s t a%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6hx]:C o l o s s u s  C r o s s b o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID rxb]:R e p e a t i n g  C r o s s b o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8rx]:C h u - K o - N u%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6rx]:D e m o n  C r o s s b o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID sst]:S h o r t  S t a f f%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8ss]:J o  S t a f f%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6ss]:W a l k i n g  S t i c k%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lst]:L o n g  S t a f f%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8ls]:Q u a r t e r s t a f f%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6ls]:S t a l a g m i t e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID cst]:G n a r l e d  S t a f f%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8cs]:C e d a r  S t a f f%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6cs]:E l d e r  S t a f f%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bst]:B a t t l e  S t a f f%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8bs]:G o t h i c  S t a f f%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6bs]:S h i l l e l a g h%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID wst]:W a r  S t a f f%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8ws]:R u n e  S t a f f%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 6ws]:A r c h o n  S t a f f%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID wnd]:W a n d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9wn]:B u r n t  W a n d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7wn]:P o l i s h e d  W a n d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ywn]:Y e w  W a n d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9yw]:P e t r i f i e d  W a n d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7yw]:G h o s t  W a n d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bwn]:B o n e  W a n d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9bw]:T o m b  W a n d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7bw]:L i c h  W a n d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gwn]:G r i m  W a n d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9gw]:G r a v e  W a n d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7gw]:U n e a r t h e d  W a n d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID scp]:S c e p t e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9sc]:R u n e  S c e p t e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7sc]:M i g h t y  S c e p t e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gsc]:G r a n d  S c e p t e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9qs]:H o l y  W a t e r  S p r i n k l e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7qs]:S e r a p h  R o d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID wsp]:W a r  S c e p t e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ws]:D i v i n e  S c e p t e r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ws]:C a d u c e u s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ktr]:K a t a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ar]:Q u h a b%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ar]:S u w a y y a h%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID wrb]:W r i s t  B l a d e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9wb]:W r i s t  S p i k e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7wb]:W r i s t  S w o r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID axf]:H a t c h e t  H a n d s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9xf]:F a s c i a%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7xf]:W a r  F i s t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ces]:C e s t u s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9cs]:H a n d  S c y t h e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7cs]:B a t t l e  C e s t u s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID clw]:C l a w s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9lw]:G r e a t e r  C l a w s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7lw]:F e r a l  C l a w s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID btl]:B l a d e  T a l o n s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9tw]:G r e a t e r  T a l o n s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7tw]:R u n i c  T a l o n s%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID skr]:S c i s s o r s  K a t a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9qr]:S c i s s o r s  Q u h a b%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7qr]:S c i s s o r s  S u w a y y a h%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob1]:E a g l e  O r b%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob6]:G l o w i n g  O r b%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID obb]:H e a v e n l y  S t o n e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob2]:S a c r e d  G l o b e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob7]:C r y s t a l l i n e  G l o b e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID obc]:E l d r i t c h  O r b%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob3]:S m o k e d  S p h e r e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob8]:C l o u d y  S p h e r e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID obd]:D e m o n  H e a r t%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob4]:C l a s p e d  O r b%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob9]:S p a r k l i n g  B a l l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID obe]:V o r t e x  O r b%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ob5]:J a r e d ' s  S t o n e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID oba]:S w i r l i n g  C r y s t a l%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID obf]:D i m e n s i o n a l  S h a r d%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am1]:S t a g  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am6]:A s h w o o d  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID amb]:M a t r i a r c h a l  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am2]:R e f l e x  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am7]:C e r e m o n i a l  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID amc]:G r a n d  M a t r o n  B o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am3]:M a i d e n  S p e a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am8]:C e r e m o n i a l  S p e a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID amd]:M a t r i a r c h a l  S p e a r%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am4]:M a i d e n  P i k e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am9]:C e r e m o n i a l  P i k e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ame]:M a t r i a r c h a l  P i k e%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID am5]:M a i d e n  J a v e l i n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID ama]:C e r e m o n i a l  J a v e l i n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID amf]:M a t r i a r c h a l  J a v e l i n%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID aqv]:A r r o w%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID cqv]:B o l t%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID cap]:C%CORAL%ap%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xap]:W%CORAL%ar H%CORAL%at%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uap]:Sh%CORAL%ako%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID skp]:Sk%GOLD%ull C%CORAL%ap%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xkp]:S%CORAL%all%SAGE%et%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ukp]:Hydr%CORAL%ask%GOLD%ull%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hlm]:H%SAGE%elm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xlm]:C%CORAL%asq%GOLD%ue%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ulm]:Arm%SAGE%et%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID fhl]:F%GOLD%ull H%SAGE%elm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xhl]:B%CORAL%asin%SAGE%et%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uhl]:Gi%CORAL%ant C%CORAL%onch%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID msk]:M%CORAL%ask%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xsk]:D%SAGE%e%CORAL%ath M%CORAL%ask%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID usk]:D%SAGE%em%CORAL%onh%SAGE%e%CORAL%ad%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bhm]:B%CORAL%on%SAGE%e H%SAGE%elm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xh9]:Grim H%SAGE%elm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uh9]:B%CORAL%on%SAGE%e Vis%CORAL%age%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ghm]:Gr%SAGE%e%CORAL%at H%SAGE%elm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xhm]:Wing%SAGE%ed H%SAGE%elm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uhm]:Spir%SAGE%ed H%SAGE%elm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID crn]:Cr%CORAL%own%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xrn]:Gr%CORAL%and Cr%CORAL%own%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID urn]:C%CORAL%or%CORAL%ona%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID qui]:Q%GOLD%uilt%SAGE%ed%CORAL%arm%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xui]:Gh%CORAL%ost%CORAL%arm%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uui]:D%GOLD%uskShr%CORAL%o%GOLD%ud%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lea]:L%SAGE%e%CORAL%ath%SAGE%er%CORAL%arm%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xea]:S%SAGE%erp%SAGE%entskin%CORAL%arm%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uea]:Wyrmhide%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hla]:H%CORAL%ardL%SAGE%e%CORAL%ath%SAGE%er%CORAL%arm%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xla]:D%SAGE%em%CORAL%onhid%SAGE%e%CORAL%arm%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ula]:Sc%CORAL%ar%CORAL%ab H%GOLD%usk%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID stu]:St%GOLD%udd%SAGE%ed L%SAGE%e%CORAL%ath%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xtu]:Tr%SAGE%ellis%SAGE%ed%CORAL%arm%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID utu]:Wir%SAGE%e Fl%SAGE%eece%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID rng]:Ring M%CORAL%ail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xng]:Link%SAGE%ed M%CORAL%ail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ung]:Di%CORAL%am%CORAL%ond M%CORAL%ail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID scl]:Sc%CORAL%al%SAGE%e M%CORAL%ail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xcl]:Tig%GOLD%ul%CORAL%at%SAGE%ed M%CORAL%ail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ucl]:L%CORAL%oric%CORAL%at%SAGE%ed M%CORAL%ail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID chn]:Ch%CORAL%ain M%CORAL%ail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xhn]:M%SAGE%esh%CORAL%arm%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uhn]:B%CORAL%on%SAGE%ew%SAGE%e%CORAL%ave%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID brs]:Br%SAGE%e%CORAL%ast Pl%CORAL%ate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xrs]:C%GOLD%uir%CORAL%ass%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID urs]:Gr%SAGE%e%CORAL%at H%CORAL%a%GOLD%ub%SAGE%erk%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID spl]:Splint M%CORAL%ail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xpl]:R%GOLD%uss%SAGE%et%CORAL%arm%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID upl]:B%CORAL%alr%CORAL%og Skin%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID plt]:Pl%CORAL%at%SAGE%e M%CORAL%ail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xlt]:T%SAGE%empl%CORAL%ar C%CORAL%o%CORAL%at%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ult]:H%SAGE%ellf%CORAL%org%SAGE%e Pl%CORAL%ate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID fld]:Fi%SAGE%eld Pl%CORAL%ate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xld]:Sh%CORAL%arkt%CORAL%ooth%CORAL%arm%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uld]:Kr%CORAL%ak%SAGE%en Sh%SAGE%ell%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gth]:G%CORAL%othic Pl%CORAL%ate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xth]:Emb%CORAL%oss%SAGE%ed Pl%CORAL%ate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uth]:L%CORAL%acq%GOLD%u%SAGE%er%SAGE%ed Pl%CORAL%ate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ltp]:Light Pl%CORAL%ate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xtp]:M%CORAL%ag%SAGE%e Pl%CORAL%ate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID utp]:Arch%CORAL%on Pl%CORAL%ate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ful]:F%GOLD%ullPl%CORAL%at%SAGE%e M%CORAL%ail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xul]:Ch%CORAL%a%CORAL%os%CORAL%arm%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uul]:Sh%CORAL%ad%CORAL%ow Pl%CORAL%ate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID aar]:Anci%SAGE%ent%CORAL%arm%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xar]:Orn%CORAL%at%SAGE%e Pl%CORAL%ate%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uar]:S%CORAL%acr%SAGE%ed%CORAL%arm%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID buc]:B%GOLD%uckl%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xuc]:D%SAGE%ef%SAGE%end%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uuc]:H%SAGE%e%CORAL%at%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID sml]:Sm%CORAL%all Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xml]:R%CORAL%o%GOLD%und Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uml]:L%GOLD%una%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lrg]:L%CORAL%arg%SAGE%e Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xrg]:Sc%GOLD%ut%GOLD%um%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID urg]:Hyp%SAGE%eri%CORAL%on%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID spk]:Spik%SAGE%ed Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xpk]:B%CORAL%arb%SAGE%ed Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID upk]:Bl%CORAL%ad%SAGE%e B%CORAL%arri%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID kit]:Kit%SAGE%e Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xit]:Dr%CORAL%ag%CORAL%on Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uit]:M%CORAL%on%CORAL%arch%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bsh]:B%CORAL%on%SAGE%e Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xsh]:Grim Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ush]:Tr%CORAL%oll N%SAGE%est%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tow]:T%CORAL%ow%SAGE%er Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xow]:P%CORAL%avise%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uow]:A%SAGE%egis%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gts]:G%CORAL%othic Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xts]:Anci%SAGE%ent Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uts]:W%CORAL%ard%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lgl]:L%SAGE%e%CORAL%ath%SAGE%er Gl%CORAL%ov%SAGE%es%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xlg]:D%SAGE%em%CORAL%onhid%SAGE% eGl%CORAL%ov%SAGE%es%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ulg]:Br%CORAL%ambl%SAGE%e Mitts%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID vgl]:H%SAGE%e%CORAL%avy Gl%CORAL%ov%SAGE%es%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xvg]:Sh%CORAL%arkskin Gl%CORAL%ov%SAGE%es%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uvg]:V%CORAL%ampir%SAGE%eb%CORAL%on%SAGE%e Gl%CORAL%ov%SAGE%es%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID mgl]:Ch%CORAL%ain Gl%CORAL%ov%SAGE%es%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xmg]:H%SAGE%e%CORAL%avy Br%CORAL%ac%SAGE%ers%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID umg]:V%CORAL%ambr%CORAL%ac%SAGE%es%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tgl]:Light G%CORAL%a%GOLD%untl%SAGE%ets%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xtg]:B%CORAL%attl%SAGE%e G%CORAL%a%GOLD%untl%SAGE%ets%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID utg]:Cr%GOLD%us%CORAL%ad%SAGE%er G%CORAL%a%GOLD%untl%SAGE%ets%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hgl]:G%CORAL%a%GOLD%untl%SAGE%ets%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xhg]:W%CORAL%ar G%CORAL%a%GOLD%untl%SAGE%ets%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uhg]:Ogr%SAGE%e G%CORAL%a%GOLD%untl%SAGE%ets%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lbt]:B%CORAL%oots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xlb]:D%SAGE%em%CORAL%onhid%SAGE%e B%CORAL%oots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ulb]:Wyrmhid%SAGE%e B%CORAL%oots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID vbt]:H%SAGE%e%CORAL%avy B%CORAL%oots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xvb]:Sh%CORAL%arkskin B%CORAL%oots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uvb]:Sc%CORAL%ar%CORAL%absh%SAGE%ell B%CORAL%oots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID mbt]:Ch%CORAL%ain B%CORAL%oots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xmb]:M%SAGE%esh B%CORAL%oots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID umb]:B%CORAL%on%SAGE%ew%SAGE%e%CORAL%av%SAGE%e B%CORAL%oots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tbt]:LightPl%CORAL%at%SAGE%ed B%CORAL%oots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xtb]:B%CORAL%attl%SAGE%e B%CORAL%oots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID utb]:Mirr%CORAL%or%SAGE%ed B%CORAL%oots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hbt]:Gr%SAGE%e%CORAL%av%SAGE%es%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xhb]:W%CORAL%ar B%CORAL%oots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uhb]:Myrmid%CORAL%on Gr%SAGE%e%CORAL%av%SAGE%es%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lbl]:S%CORAL%ash%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID zlb]:D%SAGE%em%CORAL%onhid%SAGE%e S%CORAL%ash%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ulc]:Spid%SAGE%erw%SAGE%eb S%CORAL%ash%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID vbl]:Light B%SAGE%elt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID zvb]:Sh%CORAL%arkskin B%SAGE%elt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uvc]:V%CORAL%ampir%SAGE%ef%CORAL%ang B%SAGE%elt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID mbl]:B%SAGE%elt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID zmb]:M%SAGE%esh B%SAGE%elt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID umc]:Mithril C%CORAL%oil%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tbl]:H%SAGE%e%CORAL%avy B%SAGE%elt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ztb]:B%CORAL%attl%SAGE%e B%SAGE%elt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID utc]:Tr%CORAL%oll B%SAGE%elt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hbl]:Pl%CORAL%at%SAGE%ed B%SAGE%elt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID zhb]:W%CORAL%ar B%SAGE%elt%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uhc]:C%CORAL%ol%CORAL%oss%GOLD%us Girdle%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ci0]:Circl%SAGE%et%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ci1]:C%CORAL%or%CORAL%on%SAGE%et%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ci2]:Ti%CORAL%ara%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ci3]:Di%CORAL%ad%SAGE%em%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr1]:W%CORAL%olf H%SAGE%e%CORAL%ad%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr6]:Alph%CORAL%a H%SAGE%elm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID drb]:Bl%CORAL%ood Spirit%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr2]:H%CORAL%awk H%SAGE%elm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr7]:Griff%CORAL%on H%SAGE%e%CORAL%adr%SAGE%ess%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID drc]:S%GOLD%un Spirit%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr3]:Antl%SAGE%ers%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr8]:H%GOLD%unt%SAGE%er's G%GOLD%uise%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID drd]:E%CORAL%arth Spirit%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr4]:F%CORAL%alc%CORAL%on M%CORAL%ask%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr9]:S%CORAL%acr%SAGE%ed F%SAGE%e%CORAL%ath%SAGE%ers%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dre]:Sky Spirit%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dr5]:Spirit M%CORAL%ask%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dra]:T%CORAL%ot%SAGE%emic M%CORAL%ask%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID drf]:Dr%SAGE%e%CORAL%am Spirit%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba1]:J%CORAL%awb%CORAL%on%SAGE%e C%CORAL%ap%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba6]:J%CORAL%awb%CORAL%on%SAGE%e Vis%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bab]:C%CORAL%arn%CORAL%ag%SAGE%e H%SAGE%elm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba2]:F%CORAL%ang%SAGE%edH%SAGE%elm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba7]:Li%CORAL%on H%SAGE%elm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bac]:F%GOLD%ury Vis%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba3]:H%CORAL%orn%SAGE%ed H%SAGE%elm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba8]:R%CORAL%ag%SAGE%e M%CORAL%ask%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bad]:D%SAGE%estr%CORAL%oy%SAGE%er H%SAGE%elm%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba4]:Ass%CORAL%a%GOLD%ult H%SAGE%elm%SAGE%et%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba9]:S%CORAL%av%CORAL%ag%SAGE%e H%SAGE%elm%SAGE%et%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bae]:C%CORAL%onq%GOLD%u%SAGE%er%CORAL%or Cr%CORAL%own%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ba5]:Av%SAGE%eng%SAGE%er G%GOLD%u%CORAL%ard%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID baa]:Sl%CORAL%ay%SAGE%er G%GOLD%u%CORAL%ard%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID baf]:G%GOLD%u%CORAL%ardi%CORAL%an Cr%CORAL%own%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa1]:T%CORAL%arge%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa6]:Ak%CORAL%ar%CORAL%an T%CORAL%arge%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pab]:S%CORAL%acr%SAGE%ed T%CORAL%arge%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa2]:R%CORAL%ond%CORAL%ache%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa7]:Ak%CORAL%ar%CORAL%an R%CORAL%ond%CORAL%ache%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pac]:S%CORAL%acr%SAGE%ed R%CORAL%ond%CORAL%ache%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa3]:H%SAGE%er%CORAL%aldic Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa8]:Pr%CORAL%ot%SAGE%ect%CORAL%or Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pad]:K%GOLD%ur%CORAL%ast Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa4]:A%SAGE%erin Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa9]:Gild%SAGE%ed Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pae]:Z%CORAL%ak%CORAL%ar%GOLD%um Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pa5]:Cr%CORAL%own Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID paa]:R%CORAL%oy%CORAL%al Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID paf]:V%CORAL%ort%SAGE%ex Shi%SAGE%eld%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne1]:Pr%SAGE%es%SAGE%erv%SAGE%edH%SAGE%e%CORAL%ad%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne6]:M%GOLD%ummifi%SAGE%ed Tr%CORAL%ophy%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID neb]:Mini%CORAL%on Sk%GOLD%ull%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne2]:Z%CORAL%ombi%SAGE%e H%SAGE%e%CORAL%ad%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne7]:F%SAGE%etish Tr%CORAL%ophy%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID neg]:H%SAGE%ellsp%CORAL%awn Sk%GOLD%ull%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne3]:Unr%CORAL%av%SAGE%ell%SAGE%er H%SAGE%e%CORAL%ad%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne8]:S%SAGE%ext%CORAL%on Tr%CORAL%ophy%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ned]:Ov%SAGE%ers%SAGE%eer Sk%GOLD%ull%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne4]:G%CORAL%arg%CORAL%oyl%SAGE%e H%SAGE%e%CORAL%ad%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne9]:C%CORAL%ant%CORAL%or Tr%CORAL%ophy%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID nee]:S%GOLD%ucc%GOLD%ub%GOLD%us Sk%GOLD%ull%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ne5]:D%SAGE%em%CORAL%on H%SAGE%e%CORAL%ad%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID nea]:Hi%SAGE%er%CORAL%oph%CORAL%ant Tr%CORAL%ophy%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID nef]:Bl%CORAL%oodl%CORAL%ord Sk%GOLD%ull%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hax]:H%CORAL%and%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ha]:H%CORAL%atch%SAGE%et%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ha]:T%CORAL%om%CORAL%ah%CORAL%awk%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID axe]:Axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ax]:Cl%SAGE%e%CORAL%av%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ax]:Sm%CORAL%all Cr%SAGE%esc%SAGE%ent%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 2ax]:D%CORAL%o%GOLD%ubl%SAGE%e%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 92a]:Twin%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 72a]:Ettin%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID mpi]:Milit%CORAL%ary Pick%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9mp]:Cr%CORAL%owbill%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7mp]:W%CORAL%ar Spike%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID wax]:W%CORAL%ar%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9wa]:N%CORAL%aga%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7wa]:B%SAGE%ers%SAGE%erk%SAGE%er%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lax]:L%CORAL%arg%SAGE%e%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9la]:Milit%CORAL%ary%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7la]:F%SAGE%er%CORAL%al%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bax]:Br%CORAL%o%CORAL%ad%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ba]:B%SAGE%e%CORAL%ard%SAGE%ed%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ba]:Silv%SAGE%er-%SAGE%edg%SAGE%ed%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID btx]:B%CORAL%attl%SAGE%e%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9bt]:T%CORAL%ab%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7bt]:D%SAGE%ec%CORAL%apit%CORAL%at%CORAL%or%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gax]:Gr%SAGE%e%CORAL%at%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ga]:G%CORAL%othic%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ga]:Ch%CORAL%ampi%CORAL%on%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gix]:Gi%CORAL%ant%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9gi]:Anci%SAGE%ent%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7gi]:Gl%CORAL%ori%CORAL%o%GOLD%us%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID clb]:Cl%GOLD%ub%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9cl]:C%GOLD%udg%SAGE%el%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7cl]:Tr%GOLD%unch%SAGE%e%CORAL%on%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID spc]:Spik%SAGE%ed Cl%GOLD%ub%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9sp]:B%CORAL%arb%SAGE%ed Cl%GOLD%ub%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7sp]:Tyr%CORAL%ant Cl%GOLD%ub%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID mac]:M%CORAL%ace%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ma]:Fl%CORAL%ang%SAGE%ed M%CORAL%ace%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ma]:R%SAGE%einf%CORAL%orc%SAGE%ed M%CORAL%ace%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID mst]:M%CORAL%orning St%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9mt]:J%CORAL%agg%SAGE%ed St%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7mt]:D%SAGE%evil St%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID fla]:Fl%CORAL%ail%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9fl]:Kn%CORAL%o%GOLD%ut%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7fl]:Sc%CORAL%o%GOLD%urge%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID whm]:W%CORAL%ar H%CORAL%amm%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9wh]:B%CORAL%attl%SAGE%e H%CORAL%amm%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7wh]:L%SAGE%eg%SAGE%end%CORAL%ary M%CORAL%all%SAGE%et%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID mau]:M%CORAL%a%GOLD%ul%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9m9]:W%CORAL%ar Cl%GOLD%ub%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7m7]:Ogr%SAGE%e M%CORAL%a%GOLD%ul%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gma]:Gr%SAGE%e%CORAL%at M%CORAL%a%GOLD%ul%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9gm]:M%CORAL%art%SAGE%eld%SAGE%e F%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7gm]:Th%GOLD%und%SAGE%er M%CORAL%a%GOLD%ul%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ssd]:Sh%CORAL%ort Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ss]:Gl%CORAL%adi%GOLD%us%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ss]:F%CORAL%alc%CORAL%ata%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID scm]:Scimit%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9sm]:C%GOLD%utl%CORAL%ass%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7sm]:At%CORAL%agh%CORAL%an%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID sbr]:S%CORAL%abre%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9sb]:Sh%CORAL%amshir%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7sb]:El%SAGE%eg%CORAL%ant Bl%CORAL%ade%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID flc]:F%CORAL%alchi%CORAL%on%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9fc]:T%GOLD%ulw%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7fc]:Hydr%CORAL%a %SAGE%Edge%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID crs]:Cryst%CORAL%al Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9cr]:Dim%SAGE%ensi%CORAL%on%CORAL%al Bl%CORAL%ade%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7cr]:Ph%CORAL%as%SAGE%e Bl%CORAL%ade%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bsd]:Br%CORAL%o%CORAL%ad Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9bs]:B%CORAL%attl%SAGE%e Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7bs]:C%CORAL%onq%GOLD%u%SAGE%est Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lsd]:L%CORAL%ong Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ls]:R%GOLD%un%SAGE%e Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ls]:Cryptic Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID wsd]:W%CORAL%ar Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9wd]:Anci%SAGE%ent Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7wd]:Mythic%CORAL%al Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 2hs]:Tw%CORAL%o-h%CORAL%and%SAGE%ed Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 92h]:Esp%CORAL%and%CORAL%on%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 72h]:L%SAGE%eg%SAGE%end Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID clm]:Cl%CORAL%aym%CORAL%ore%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9cm]:D%CORAL%aci%CORAL%an F%CORAL%alx%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7cm]:Highl%CORAL%and Bl%CORAL%ade%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gis]:Gi%CORAL%ant Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9gs]:T%GOLD%usk Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7gs]:B%CORAL%alr%CORAL%og Bl%CORAL%ade%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bsw]:B%CORAL%ast%CORAL%ard Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9b9]:G%CORAL%othic Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7b7]:Ch%CORAL%ampi%CORAL%on Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID flb]:Fl%CORAL%amb%SAGE%erge%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9fb]:Zw%SAGE%eih%CORAL%and%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7fb]:C%CORAL%ol%CORAL%oss%GOLD%us Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gsd]:Gr%SAGE%e%CORAL%at Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9gd]:Ex%SAGE%ec%GOLD%uti%CORAL%on%SAGE%er Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7gd]:C%CORAL%ol%CORAL%oss%GOLD%us Bl%CORAL%ade%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dgr]:D%CORAL%agg%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9dg]:P%CORAL%oign%CORAL%ard%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7dg]:B%CORAL%on%SAGE%e Knife%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID dir]:Dirk%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9di]:R%CORAL%ond%SAGE%el%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7di]:Mithril P%CORAL%oint%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID kri]:Kris%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9kr]:Cinq%GOLD%u%SAGE%ed%SAGE%e%CORAL%as%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7kr]:F%CORAL%ang%SAGE%ed Knife%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bld]:Bl%CORAL%ade%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9bl]:Stil%SAGE%etto%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7bl]:L%SAGE%eg%SAGE%end Spike%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tkf]:Thr%CORAL%owing Knife%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9tk]:B%CORAL%attl%SAGE%e D%CORAL%art%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7tk]:Flying Knife%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tax]:Thr%CORAL%owing %CORAL%Axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ta]:Fr%CORAL%ancisca%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ta]:Flying %CORAL%Axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bkf]:B%CORAL%al%CORAL%anc%SAGE%ed Knife%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9bk]:W%CORAL%ar D%CORAL%art%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7bk]:Wing%SAGE%ed Knife%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bal]:B%CORAL%al%CORAL%anc%SAGE%ed %CORAL%Axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9b8]:H%GOLD%urlb%CORAL%at%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7b8]:Wing%SAGE%ed %CORAL%Axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID jav]:J%CORAL%av%SAGE%elin%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ja]:W%CORAL%ar J%CORAL%av%SAGE%elin%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ja]:Hyp%SAGE%eri%CORAL%on J%CORAL%av%SAGE%elin%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pil]:Pil%GOLD%um%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9pi]:Gr%SAGE%e%CORAL%at Pil%GOLD%um%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7pi]:Stygi%CORAL%an Pil%GOLD%um%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ssp]:Sh%CORAL%ort Sp%SAGE%e%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9s9]:Simbil%CORAL%an%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7s7]:B%CORAL%alr%CORAL%og Sp%SAGE%e%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID glv]:Gl%CORAL%aive%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9gl]:Spic%GOLD%ul%GOLD%um%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7gl]:Gh%CORAL%ost Gl%CORAL%aive%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tsp]:Thr%CORAL%owing Sp%SAGE%e%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ts]:H%CORAL%arp%CORAL%oon%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ts]:Wing%SAGE%ed H%CORAL%arp%CORAL%oon%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID spr]:Sp%SAGE%e%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9sr]:W%CORAL%ar Sp%SAGE%e%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7sr]:Hyp%SAGE%eri%CORAL%on Sp%SAGE%e%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tri]:Trid%SAGE%ent%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9tr]:F%GOLD%uscina%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7tr]:Stygi%CORAL%an Pike%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID brn]:Br%CORAL%andist%CORAL%ock%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9br]:W%CORAL%ar F%CORAL%ork%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7br]:M%CORAL%anc%CORAL%atch%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID spt]:Sp%SAGE%et%GOLD%um%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9st]:Y%CORAL%ari%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7st]:Gh%CORAL%ost Sp%SAGE%e%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pik]:Pike%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9p9]:L%CORAL%ance%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7p7]:W%CORAL%arPike%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bar]:B%CORAL%ardiche%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9b7]:L%CORAL%och%CORAL%ab%SAGE%er %CORAL%Axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7o7]:Ogr%SAGE%e %CORAL%Axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID vou]:V%CORAL%o%GOLD%ulge%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9vo]:Bill%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7vo]:C%CORAL%ol%CORAL%oss%GOLD%us V%CORAL%o%GOLD%ulge%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID scy]:Scythe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9s8]:B%CORAL%attl%SAGE%e Scythe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7s8]:Thr%SAGE%esh%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID pax]:P%CORAL%ol%SAGE%e%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9pa]:P%CORAL%artiz%CORAL%an%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7pa]:Cryptic %CORAL%Axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hal]:H%CORAL%alb%SAGE%erd%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9h9]:B%SAGE%ec-d%SAGE%e-C%CORAL%orbin%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7h7]:Gr%SAGE%e%CORAL%at P%CORAL%ol%SAGE%e%CORAL%axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID wsc]:W%CORAL%ar Scythe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9wc]:Grim Scythe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7wc]:Gi%CORAL%ant Thr%SAGE%esh%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID sbw]:Sh%CORAL%ort B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8sb]:Edg%SAGE%e B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6sb]:Spid%SAGE%er B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hbw]:H%GOLD%unt%SAGE%ers B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8hb]:R%CORAL%az%CORAL%or B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6hb]:Bl%CORAL%ad%SAGE%e B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lbw]:L%CORAL%ong B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8lb]:C%SAGE%ed%CORAL%ar B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6lb]:Sh%CORAL%ad%CORAL%ow B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID cbw]:C%CORAL%omp%CORAL%osit%SAGE%e B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8cb]:D%CORAL%o%GOLD%ubl%SAGE%e B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6cb]:Gr%SAGE%e%CORAL%at B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID sbb]:Sh%CORAL%ortB%CORAL%attl%SAGE%e B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8s8]:Sh%CORAL%ortSi%SAGE%eg%SAGE%e B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6s7]:Di%CORAL%am%CORAL%ond B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lbb]:L%CORAL%ong B%CORAL%attl%SAGE%eB%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8l8]:L%CORAL%arg%SAGE%eSi%SAGE%eg%SAGE%e B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6l7]:Cr%GOLD%us%CORAL%ad%SAGE%er B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID swb]:Sh%CORAL%ortW%CORAL%ar B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8sw]:R%GOLD%un%SAGE%e B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6sw]:W%CORAL%ard B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lwb]:L%CORAL%ongW%CORAL%ar B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8lw]:G%CORAL%othic B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6lw]:Hydr%CORAL%a B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lxb]:Light Cr%CORAL%ossb%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8lx]:Arb%CORAL%al%SAGE%est%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6lx]:P%SAGE%ell%SAGE%et B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID mxb]:Cr%CORAL%ossb%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8mx]:Si%SAGE%eg%SAGE%e Cr%CORAL%ossb%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6mx]:G%CORAL%org%CORAL%on Cr%CORAL%ossb%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hxb]:H%SAGE%e%CORAL%avy Cr%CORAL%ossb%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8hx]:B%CORAL%allista%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6hx]:C%CORAL%ol%CORAL%oss%GOLD%us Cr%CORAL%ossb%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID rxb]:R%SAGE%ep%SAGE%e%CORAL%ating Cr%CORAL%ossb%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8rx]:Ch%GOLD%u-K%CORAL%o-Nu%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6rx]:D%SAGE%em%CORAL%on Cr%CORAL%ossb%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID sst]:Sh%CORAL%ort St%CORAL%aff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8ss]:J%CORAL%o St%CORAL%aff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6ss]:W%CORAL%alking Stick%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lst]:L%CORAL%ong St%CORAL%aff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8ls]:Q%GOLD%u%CORAL%art%SAGE%erst%CORAL%aff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6ls]:St%CORAL%al%CORAL%agmite%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID cst]:Gn%CORAL%arl%SAGE%ed St%CORAL%aff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8cs]:C%SAGE%ed%CORAL%ar St%CORAL%aff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6cs]:Eld%SAGE%er St%CORAL%aff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bst]:B%CORAL%attl%SAGE%e St%CORAL%aff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8bs]:G%CORAL%othic St%CORAL%aff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6bs]:Shill%SAGE%el%CORAL%agh%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID wst]:W%CORAL%ar St%CORAL%aff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8ws]:R%GOLD%un%SAGE%e St%CORAL%aff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 6ws]:Arch%CORAL%on St%CORAL%aff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID wnd]:W%CORAL%and%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9wn]:B%GOLD%urnt W%CORAL%and%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7wn]:P%CORAL%olish%SAGE%ed W%CORAL%and%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ywn]:Y%SAGE%ew W%CORAL%and%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9yw]:P%SAGE%etrifi%SAGE%ed W%CORAL%and%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7yw]:Gh%CORAL%ost W%CORAL%and%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bwn]:B%CORAL%on%SAGE%e W%CORAL%and%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9bw]:T%CORAL%omb W%CORAL%and%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7bw]:Lich W%CORAL%and%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gwn]:Grim W%CORAL%and%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9gw]:Gr%CORAL%av%SAGE%e W%CORAL%and%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7gw]:Un%SAGE%e%CORAL%arth%SAGE%ed W%CORAL%and%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID scp]:Sc%SAGE%ept%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9sc]:R%GOLD%un%SAGE%e Sc%SAGE%ept%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7sc]:Mighty Sc%SAGE%ept%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gsc]:Gr%CORAL%and Sc%SAGE%ept%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9qs]:H%CORAL%olyW%CORAL%at%SAGE%er Sprinkl%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7qs]:S%SAGE%er%CORAL%aph R%CORAL%od%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID wsp]:W%CORAL%ar Sc%SAGE%ept%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ws]:Divin%SAGE%e Sc%SAGE%ept%SAGE%er%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ws]:C%CORAL%ad%GOLD%uc%SAGE%e%GOLD%us%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ktr]:K%CORAL%at%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ar]:Q%GOLD%uh%CORAL%ab%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ar]:S%GOLD%uw%CORAL%ayy%CORAL%ah%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID wrb]:Wrist Bl%CORAL%ade%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9wb]:Wrist Spike%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7wb]:Wrist Sw%CORAL%ord%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID axf]:H%CORAL%atch%SAGE%et H%CORAL%ands%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9xf]:F%CORAL%ascia%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7xf]:W%CORAL%ar Fist%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ces]:C%SAGE%est%GOLD%us%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9cs]:H%CORAL%and Scythe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7cs]:B%CORAL%attl%SAGE%e C%SAGE%est%GOLD%us%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID clw]:Cl%CORAL%aws%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9lw]:Gr%SAGE%e%CORAL%at%SAGE%er Cl%CORAL%aws%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7lw]:F%SAGE%er%CORAL%al Cl%CORAL%aws%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID btl]:Bl%CORAL%ad%SAGE%e T%CORAL%al%CORAL%ons%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9tw]:Gr%SAGE%e%CORAL%at%SAGE%er T%CORAL%al%CORAL%ons%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7tw]:R%GOLD%unic T%CORAL%al%CORAL%ons%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID skr]:Sciss%CORAL%ors K%CORAL%at%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9qr]:Sciss%CORAL%ors Q%GOLD%uh%CORAL%ab%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7qr]:Sciss%CORAL%ors S%GOLD%uw%CORAL%ayy%CORAL%ah%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob1]:E%CORAL%agl%SAGE%e %CORAL%Orb%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob6]:Gl%CORAL%owing %CORAL%Orb%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID obb]:H%SAGE%e%CORAL%av%SAGE%enly St%CORAL%one%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob2]:S%CORAL%acr%SAGE%ed Gl%CORAL%obe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob7]:Cryst%CORAL%allin%SAGE%e Gl%CORAL%obe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID obc]:Eldritch %CORAL%Orb%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob3]:Sm%CORAL%ok%SAGE%ed Sph%SAGE%ere%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob8]:Cl%CORAL%o%GOLD%udy Sph%SAGE%ere%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID obd]:D%SAGE%em%CORAL%onH%SAGE%e%CORAL%art%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob4]:Cl%CORAL%asp%SAGE%ed %CORAL%Orb%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob9]:Sp%CORAL%arkling B%CORAL%all%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID obe]:V%CORAL%ort%SAGE%ex %CORAL%Orb%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ob5]:J%CORAL%ar%SAGE%ed's St%CORAL%one%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID oba]:Swirling Cryst%CORAL%al%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID obf]:Dim%SAGE%ensi%CORAL%on%CORAL%al Sh%CORAL%ard%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am1]:St%CORAL%ag B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am6]:Ashw%CORAL%ood B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID amb]:M%CORAL%atri%CORAL%arch%CORAL%al B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am2]:R%SAGE%efl%SAGE%ex B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am7]:C%SAGE%er%SAGE%em%CORAL%oni%CORAL%al B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID amc]:Gr%CORAL%andM%CORAL%atr%CORAL%on B%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am3]:M%CORAL%aid%SAGE%en Sp%SAGE%e%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am8]:C%SAGE%er%SAGE%em%CORAL%oni%CORAL%al Sp%SAGE%e%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID amd]:M%CORAL%atri%CORAL%arch%CORAL%al Sp%SAGE%e%CORAL%ar%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am4]:M%CORAL%aid%SAGE%en Pike%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am9]:C%SAGE%er%SAGE%em%CORAL%oni%CORAL%al Pike%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ame]:M%CORAL%atri%CORAL%arch%CORAL%al Pike%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID am5]:M%CORAL%aid%SAGE%en J%CORAL%av%SAGE%elin%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID ama]:C%SAGE%er%SAGE%em%CORAL%oni%CORAL%al J%CORAL%av%SAGE%elin%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID amf]:M%CORAL%atri%CORAL%arch%CORAL%al J%CORAL%av%SAGE%elin%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID aqv]:Arr%CORAL%ow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID cqv]:B%CORAL%olt%CONTINUE%
 
 ItemDisplay[RARE ID cap]:%TEAL%+%YELLOW%Cap%PURPLE%+%NL%%YELLOW%%NAME%%CONTINUE%
 ItemDisplay[RARE ID xap]:%TEAL%+%YELLOW%War hat%PURPLE%+%NL%%YELLOW%%NAME%%CONTINUE%
