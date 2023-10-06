@@ -4410,7 +4410,7 @@ ItemDisplay[NMAG !RW !WP11 !WP12 (mxb OR 8mx OR 6mx)]:%NAME%{%NL%%WHITE%++ %GOLD
 ItemDisplay[NMAG !RW !WP11 !WP12 (hxb OR 8hx OR 6hx)]:%NAME%{%NL%%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %BLUE%(Slow) %WHITE%++%NAME%}%CONTINUE%
 ItemDisplay[NMAG !RW !WP11 !WP12 (rxb OR 8rx OR 6rx)]:%NAME%{%NL%%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %RED%(Very Fast) %WHITE%++%NAME%}%CONTINUE%
 ItemDisplay[NMAG !RW !WP11 !WP12 (scp OR 9sc OR 7sc)]:%NAME%{%NL%%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %GRAY%(Normal) %WHITE%++%NAME%}%CONTINUE%
-ItemDisplay[NMAG !RW !WP11 !WP12 (gsc OR 9gs OR 7qs)]:%NAME%{%NL%%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %BLUE%(Slow) %WHITE%++%NAME%}%CONTINUE%
+ItemDisplay[NMAG !RW !WP11 !WP12 (gsc OR 9qs OR 7qs)]:%NAME%{%NL%%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %BLUE%(Slow) %WHITE%++%NAME%}%CONTINUE%
 ItemDisplay[NMAG !RW !WP11 !WP12 (wsp OR 9ws OR 7ws)]:%NAME%{%NL%%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %RED%(Fast) %WHITE%++%NAME%}%CONTINUE%
 ItemDisplay[NMAG !RW !WP11 !WP12 ktr]:%NAME%{%NL%%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %RED%(Fast) %WHITE%++%NAME%}%CONTINUE%
 ItemDisplay[NMAG !RW !WP11 !WP12 (9ar OR 7ar)]:%NAME%{%NL%%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %GRAY%(Normal) %WHITE%++%NAME%}%CONTINUE%
@@ -7729,7 +7729,7 @@ ItemDisplay[!NMAG !RW !SET !WP11 !WP12 (mxb OR 8mx OR 6mx)]:%NAME%{%WHITE%++ %GO
 ItemDisplay[!NMAG !RW !SET !WP11 !WP12 (hxb OR 8hx OR 6hx)]:%NAME%{%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %BLUE%(Slow) %WHITE%++%NL%%NAME%}%CONTINUE%
 ItemDisplay[!NMAG !RW !SET !WP11 !WP12 (rxb OR 8rx OR 6rx)]:%NAME%{%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %RED%(Very Fast) %WHITE%++%NL%%NAME%}%CONTINUE%
 ItemDisplay[!NMAG !RW !SET !WP11 !WP12 (scp OR 9sc OR 7sc)]:%NAME%{%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %GRAY%(Normal) %WHITE%++%NL%%NAME%}%CONTINUE%
-ItemDisplay[!NMAG !RW !SET !WP11 !WP12 (gsc OR 9gs OR 7qs)]:%NAME%{%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %BLUE%(Slow) %WHITE%++%NL%%NAME%}%CONTINUE%
+ItemDisplay[!NMAG !RW !SET !WP11 !WP12 (gsc OR 9qs OR 7qs)]:%NAME%{%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %BLUE%(Slow) %WHITE%++%NL%%NAME%}%CONTINUE%
 ItemDisplay[!NMAG !RW !SET !WP11 !WP12 (wsp OR 9ws OR 7ws)]:%NAME%{%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %RED%(Fast) %WHITE%++%NL%%NAME%}%CONTINUE%
 ItemDisplay[!NMAG !RW !SET !WP11 !WP12 ktr]:%NAME%{%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %RED%(Fast) %WHITE%++%NL%%NAME%}%CONTINUE%
 ItemDisplay[!NMAG !RW !SET !WP11 !WP12 (9ar OR 7ar)]:%NAME%{%WHITE%++ %GOLD%Weapon Range:%WHITE%[%RANGE%] %YELLOW%and %GOLD%Speed:%ORANGE%[%WPNSPD%] %GRAY%(Normal) %WHITE%++%NL%%NAME%}%CONTINUE%
