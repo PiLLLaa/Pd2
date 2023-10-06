@@ -5445,7 +5445,6 @@ ItemDisplay[EQ3 NMAG AR=101]:%WHITE%101A %NAME%%CONTINUE%
 ItemDisplay[EQ3 NMAG AR=100]:%WHITE%100A %NAME%%CONTINUE%
 
 //STAVES
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0)]:%NAME%%PURPLE%(%CONTINUE%
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK58>2]:%NAME%%ORANGE%+3Es%PURPLE%* %CONTINUE%
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK60>2]:%NAME%%BLUE%+3Ca %CONTINUE%
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK50>2]:%NAME%%RED%+3Sa %CONTINUE%
