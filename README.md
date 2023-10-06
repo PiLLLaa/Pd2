@@ -133,3 +133,9 @@
       4) Marking fixed for Hustle, Innocence 
 
 ----------------------------------------------------------------------------------------------------------------------
+    10. 10/06
+      1) Filter bugs fixed (for Blank filter)
+      2) Deleted 4 Soc Runeword recipe (Famine, Kingslayer, Passion)
+      3) Hiding marking Weapon speed and range when gemmed, equipped
+
+----------------------------------------------------------------------------------------------------------------------
