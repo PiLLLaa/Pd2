@@ -2781,7 +2781,7 @@ ItemDisplay[UNI !ID 8rx]:%DOT-0C%%GOLD%@%RED%@  %RED%Demon Machine%TAN%[Chu-Ko-N
 ItemDisplay[UNI !ID 9gm !ETH]:%DOT-0C%%GOLD%@%RED%@    %RED%The Gavel of Pain    %GOLD%@@
 ItemDisplay[UNI !ID 9gm ETH]:%BORDER-62%%GOLD%@@%ORANGE%@@%YELLOW%@@%GOLD%@@%WHITE%@@%PURPLE%@@    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%The Gavel of Pain    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID 7wh !ETH]:%DOT-0C%%GOLD%@  %RED%StoneCrusher %TAN%Or %GREEN%Schaefer'sHammer %GRAY%-EL-  %GOLD%@
-ItemDisplay[UNI !ID 7wh ETH]:%DOT-0C%%GOLD%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%StoneCrusheror %TAN%Or %GREEN%Schaefer's Hammer %GRAY%-EL-  %GOLD%@
+ItemDisplay[UNI !ID 7wh ETH]:%DOT-0C%%GOLD%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%StoneCrusher %TAN%Or %GREEN%Schaefer's Hammer %GRAY%-EL-  %GOLD%@
 ItemDisplay[UNI !ID 7m7 !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%Windhammer%TAN%[Ogre Maul%PURPLE%] %GRAY%-EL- %GOLD%@%RED%@
 ItemDisplay[UNI !ID 7m7 ETH]:%BORDER-62%%GOLD%@@%ORANGE%@@%YELLOW%@@%GOLD%@@%WHITE%@@%PURPLE%@@    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Windhammer    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID am7]:%DOT-0C%%GOLD%@%RED%@  %RED%Lycander's Aim%TAN%[Ceremonial Bow%PURPLE%] %GRAY%-EX-  %RED%@%GOLD%@
