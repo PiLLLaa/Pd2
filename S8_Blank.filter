@@ -3052,7 +3052,7 @@ ItemDisplay[(RW) zvb]:%ORANGE%S h %GOLD%a r %TAN%k s %GOLD%k i %ORANGE%n   %GOLD
 ItemDisplay[cm3 UNI]:%TAN%G %ORANGE%h %GOLD%e %WHITE%e %GOLD%d' %ORANGE%s  %TAN%F o %GOLD%r t %ORANGE%u n %WHITE%e%CONTINUE%
 ItemDisplay[cm1 UNI]:%TAN%A %ORANGE%n %GOLD%n %WHITE%i %GOLD%h %ORANGE%i %TAN%l %GOLD%i %ORANGE%u %WHITE%s%CONTINUE%
 ItemDisplay[cm2 UNI]:%TAN%H %ORANGE%e %GOLD%l %WHITE%l %GOLD%f %ORANGE%i %TAN%r %GOLD%e  %ORANGE%T %WHITE%o %GOLD%r %TAN%c h%CONTINUE%
-ItemDisplay[jew UNI]:%CORAL%Jewel%NL%%RED%R %ORANGE%a %YELLOW%i %GREEN%n %BLUE%b %PURPLE%o %WHITE%w  %GOLD%F a c e t%CONTINUE%
+ItemDisplay[jew UNI]:%CORAL%Jewel %NL%%RED%R %ORANGE%a %YELLOW%i %GREEN%n %BLUE%b %PURPLE%o %WHITE%w  %GOLD%F a c e t%CONTINUE%
 
 
 //Gambling
