@@ -2138,7 +2138,7 @@ ItemDisplay[(SET) uea ID]:%DARK_GREEN%Wyrmhide%NL%%GREEN%Vidala's %WHITE%A %DARK
 ItemDisplay[(SET) lgl ID]:%DARK_GREEN%Leather Gloves%NL%%GREEN%Death's %WHITE%H a %DARK_GREEN%n %GREEN%d%CONTINUE%
 ItemDisplay[(SET) xlg ID]:%DARK_GREEN%Demonhide Gloves%NL%%GREEN%Death's %WHITE%H a %DARK_GREEN%n %GREEN%d%CONTINUE%
 ItemDisplay[(SET) ulg ID]:%DARK_GREEN%Bramble Mitts%NL%%GREEN%Death's %WHITE%H a %DARK_GREEN%n %GREEN%d%CONTINUE%
-ItemDisplay[(SET) ulg STAT121>149 ID]:%RED%%TEAL%Bramble Mitts%NL%%GREEN%Disciple's  %PURPLE%L %RED%a y %ORANGE%i n %WHITE%g  o %GOLD%f  H %WHITE%a %ORANGE%n d %PURPLE%s%CONTINUE%
+ItemDisplay[(SET) ulg STAT121>149 ID]:%RED%%TEAL%Bramble Mitts%NL%%GREEN%Disciple's  %PURPLE%L%RED%ay%ORANGE%in%WHITE%g  o %GOLD%f  H %WHITE%a %ORANGE%n d %PURPLE%s%CONTINUE%
 
 ItemDisplay[(SET) lrg ID]:%DARK_GREEN%Large Shield%NL%%GREEN%Civerb's %WHITE%W %DARK_GREEN%a r %GREEN%d%CONTINUE%
 ItemDisplay[(SET) xrg ID]:%DARK_GREEN%Scutum%NL%%GREEN%Civerb's %WHITE%W %DARK_GREEN%a r %GREEN%d%CONTINUE%
