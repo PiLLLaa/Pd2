@@ -5352,7 +5352,7 @@ ItemDisplay[(xtb OR utb OR xmb OR umb OR xlb OR ulb OR xhb OR uhb) ETH MAG !ID]:
 ItemDisplay[(zmb OR umc OR ztb OR utc OR zvb OR uvc OR zlb OR ulc) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%belt%GRAY%]
 ItemDisplay[(xpk OR upk OR xts OR uts OR xml OR uml OR xit OR uit OR xrg OR urg OR xow OR uow) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%shield%GRAY%]
 ItemDisplay[(xlt OR ult OR xld OR uld OR xtp OR utp OR xrs OR urs) ETH MAG !ID]:%BLUE%%NAME%%GRAY%[%GRAY%Craft %CORAL%chest%GRAY%]
-ItemDisplay[(am2 OR am7 OR amc) !ETH MAG !ID]: %DOT-75%%ORANGE%+%PURPLE%+ %NAME%%GRAY%[%GRAY%Craft %TEAL%bow%GRAY%] %PURPLE%+%ORANGE%+
+ItemDisplay[(am1 OR am2 OR am7 OR amc) !ETH MAG !ID]: %DOT-75%%ORANGE%+%PURPLE%+ %NAME%%GRAY%[%GRAY%Craft %TEAL%bow%GRAY%] %PURPLE%+%ORANGE%+
 //ItemDisplay[(6lw OR 8lw) !ETH MAG !ID]: %DOT-75%%ORANGE%+%PURPLE%+ %NAME%%GRAY%[%GRAY%Craft %TEAL%bow%GRAY%] %PURPLE%+%ORANGE%+
 //ItemDisplay[(8rx OR 6rx OR 6mx OR 6hx) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %TEAL%cbow%GRAY%]
 ItemDisplay[(tsp OR 9ts OR 7ts OR glv OR 9gl OR 7gl) !ETH MAG !ID]: %ORANGE%*%NAME%%GRAY%[%GRAY%Craft %TEAL%glave%GRAY%] %ORANGE%*
