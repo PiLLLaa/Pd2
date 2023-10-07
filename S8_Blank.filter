@@ -3496,7 +3496,7 @@ ItemDisplay[tsc DIFF>]:
 ItemDisplay[isc DIFF<2]:%WHITE%Id%CORAL%+
 ItemDisplay[isc DIFF>]:
 ItemDisplay[rvl]:%SAGE%[%PURPLE%RP%ORANGE%65%%SAGE%]{%TAN%-- -- -- -- -- -- -- -- -- --  %NL% %GOLD%heal 65% of your maximum %NL%health up to a limit of 2000 %NL%%TAN%-- --  -- -- -- -- -- -- -- --}
-ItemDisplay[rvs]:%SAGE%*%PURPLE%RP%WHITE%35%%SAGE%
+ItemDisplay[rvs]:%SAGE%*%PURPLE%RP%WHITE%35%
 ItemDisplay[key (MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%WHITE%%TEAL%Key%PURPLE%*
 ItemDisplay[key CLVL<30]:%WHITE%%TEAL%Key%PURPLE%*
 ItemDisplay[key CLVL>29]:
