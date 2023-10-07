@@ -3207,7 +3207,7 @@ ItemDisplay[SET amu !ID]:%GREEN%A m u l e t%CONTINUE%
 //ItemDisplay[UNI !ID cm1]:%BORDER-62%%BORDER-62%%TAN%A %ORANGE%n %GOLD%n %WHITE%i %GOLD%h %ORANGE%i %TAN%l %GOLD%i %ORANGE%u %WHITE%s
 //ItemDisplay[UNI !ID cm2]:%BORDER-62%%BORDER-62%%TAN%H %ORANGE%e %GOLD%l %WHITE%l %GOLD%f %ORANGE%i %TAN%r %GOLD%e  %ORANGE%T %WHITE%o %GOLD%r %TAN%c h
 //ItemDisplay[UNI !ID cm3]:%BORDER-62%%BORDER-62%%TAN%G %ORANGE%h %GOLD%e %WHITE%e %GOLD%d' %ORANGE%s  %TAN%F o %GOLD%r t %ORANGE%u n %WHITE%e
-ItemDisplay[UNI !ID jew]:%BORDER-62%%BORDER-62%%RED%R %ORANGE%a %YELLOW%i %GREEN%n %BLUE%b %PURPLE%o %WHITE%w  %GOLD%F a c e t
+ItemDisplay[UNI !ID jew]:%BORDER-62%%RED%R %ORANGE%a %YELLOW%i %GREEN%n %BLUE%b %PURPLE%o %WHITE%w  %GOLD%F a c e t
 
 //ItemDisplay[cm1 UNI]:%TAN%A %ORANGE%n %GOLD%n %WHITE%i %GOLD%h %ORANGE%i %TAN%l %GOLD%i %ORANGE%u %WHITE%s%CONTINUE%
 //ItemDisplay[cm2 UNI]:%TAN%H %ORANGE%e %GOLD%l %WHITE%l %GOLD%f %ORANGE%i %TAN%r %GOLD%e  %ORANGE%T %WHITE%o %GOLD%r %TAN%c h%CONTINUE%
