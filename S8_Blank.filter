@@ -1110,10 +1110,10 @@ ItemDisplay[(UNI) uh9 STAT156>24 ID]:%ORANGE%%CORAL%Bone Visage%NL%%PURPLE%G i %
 ItemDisplay[(UNI) ghm DTM>34 ID]:%GOLD%Great Helm%NL%%GOLD%H o %TAN%w l %WHITE%t u %TAN%s k%CONTINUE%
 ItemDisplay[(UNI) xhm DTM>34 ID]:%GOLD%Winged Helm%NL%%GOLD%H o %TAN%w l %WHITE%t u %TAN%s k%CONTINUE%
 ItemDisplay[(UNI) uhm DTM>34 ID]:%GOLD%Spired Helm%NL%%GOLD%H o %TAN%w l %WHITE%t u %TAN%s k%CONTINUE%
-ItemDisplay[(UNI) xhm CLSK0>0 ID]:%GOLD%Winged Helm%NL%%GOLD%V a %TAN%l k %WHITE%y r %TAN%i e %GOLD%  W %TAN%i n %WHITE%g%CONTINUE%
-ItemDisplay[(UNI) uhm CLSK0>0 ID]:%GOLD%Spired Helm%NL%%GOLD%V a %TAN%l k %WHITE%y r %TAN%i e %GOLD%  W %TAN%i n %WHITE%g%CONTINUE%
-ItemDisplay[(UNI) uhm !CLSK0>0 ALLSK>0 STR>14 ID]:%TAN%%CORAL%Spired Helm%NL%%ORANGE%V e %GOLD%i l %TAN%  o %GOLD%f  %ORANGE%S t %WHITE%e e %ORANGE%l%CONTINUE%
-ItemDisplay[(UNI) uhm !CLSK0>0 STAT335>0 DEX>9 STAT149>0 ID]:%TAN%%CORAL%Spired Helm%NL%%ORANGE%N i %GOLD%g h %TAN%t w %GOLD%i n %ORANGE%g ' %WHITE%s  %ORANGE%V e %GOLD%i l%CONTINUE%
+ItemDisplay[(UNI) xhm CLSK0>0 ID]:%CORAL%Winged Helm%NL%%PURPLE%V a %RED%l k %ORANGE%y r %GOLD%i e %WHITE%  W %GOLD%i n %RED%g%CONTINUE%
+ItemDisplay[(UNI) uhm CLSK0>0 ID]:%CORAL%Spired Helm%NL%%PURPLE%V a %RED%l k %ORANGE%y r %GOLD%i e %WHITE%  W %GOLD%i n %RED%g%CONTINUE%
+ItemDisplay[(UNI) uhm !CLSK0>0 ALLSK>0 STR>14 ID]:%TAN%%CORAL%Spired Helm%NL%%PURPLE%V e %RED%i l %ORANGE%  o %GOLD%f  %WHITE%S t %GOLD%e e %RED%l%CONTINUE%
+ItemDisplay[(UNI) uhm !CLSK0>0 STAT335>0 DEX>9 STAT149>0 ID]:%TAN%%CORAL%Spired Helm%NL%%PURPLE%N i %RED%g h %ORANGE%t w %GOLD%i n %WHITE%g ' %GOLD%s  %RED%V e %PURPLE%i l%CONTINUE%
 
 ItemDisplay[(UNI) crn STAT122>49 ID]:%GOLD%Crown%NL%%GOLD%U n %TAN%d e %WHITE%a d %TAN%  C %GOLD%r o %TAN%w n%CONTINUE%
 ItemDisplay[(UNI) xrn STAT122>49 ID]:%GOLD%Grand Crown%NL%%GOLD%U n %TAN%d e %WHITE%a d %TAN%  C %GOLD%r o %TAN%w n%CONTINUE%
