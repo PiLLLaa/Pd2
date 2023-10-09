@@ -1134,8 +1134,8 @@ ItemDisplay[(UNI) uea ID]:%TAN%%CORAL%Wyrmhide%NL%%ORANGE%S k %GOLD%i n %TAN% o 
 ItemDisplay[(UNI) lea FRW>19 FHR>39 (STAT48>0 OR STAT49>0) ID]:%GOLD%Leather Armor%NL%%GOLD%B l %TAN%i n %WHITE%k b %TAN%a t %GOLD%' s %TAN%  F %WHITE%o r %TAN%m%CONTINUE%
 ItemDisplay[(UNI) xea FRW>19 FHR>39 (STAT48>0 OR STAT49>0) ID]:%GOLD%Serpentskin Armor%NL%%GOLD%B l %TAN%i n %WHITE%k b %TAN%a t %GOLD%' s %TAN%  F %WHITE%o r %TAN%m%CONTINUE%
 ItemDisplay[(UNI) uea FRW>19 FHR>39 (STAT48>0 OR STAT49>0) ID]:%GOLD%Wyrmhide%NL%%GOLD%B l %TAN%i n %WHITE%k b %TAN%a t %GOLD%' s %TAN%  F %WHITE%o r %TAN%m%CONTINUE%
-ItemDisplay[(UNI) xea ALLSK>0 FCR>20 ID]:%GOLD%Serpentskin Armor%NL%%PURPLE%S k %RED%i n  %ORANGE%o f  %GOLD%V i %WHITE%p e %GOLD%r m %RED%a g i%CONTINUE%
-ItemDisplay[(UNI) uea ALLSK>0 FCR>20 ID]:%GOLD%Wyrmhide%NL%%PURPLE%S k %RED%i n  %ORANGE%o f  %GOLD%V i %WHITE%p e %GOLD%r m %RED%a g i%CONTINUE%
+ItemDisplay[(UNI) xea ALLSK>0 FCR>20 ID]:%GOLD%Serpentskin Armor%NL%%PURPLE%Sk%RED%in  %ORANGE%o f  %GOLD%V i %WHITE%p e %GOLD%r m %RED%a g i%CONTINUE%
+ItemDisplay[(UNI) uea ALLSK>0 FCR>20 ID]:%GOLD%Wyrmhide%NL%%PURPLE%Sk%RED%in  %ORANGE%o f  %GOLD%V i %WHITE%p e %GOLD%r m %RED%a g i%CONTINUE%
 
 ItemDisplay[(UNI) hla AR>49 ID]:%GOLD%Hard Leather Armor%NL%%GOLD%T h %TAN%e  %WHITE%C e %TAN%n t %GOLD%u r %TAN%i o %WHITE%n%CONTINUE%
 ItemDisplay[(UNI) xla AR>49 ID]:%GOLD%Demonhide Armor%NL%%GOLD%T h %TAN%e  %WHITE%C e %TAN%n t %GOLD%u r %TAN%i o %WHITE%n%CONTINUE%
