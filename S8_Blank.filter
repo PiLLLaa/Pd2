@@ -4257,7 +4257,7 @@ ItemDisplay[cm3 UNI ID]:%TAN%G %ORANGE%  h%GOLD%  e%WHITE%  e%GOLD%  d'  %ORANGE
 
 ItemDisplay[cm2f]:%MAP-0B%%PURPLE%++    %GOLD%H e %ORANGE%l l %LIGHT_GRAY%f i  %SAGE%r e  %ORANGE%A  %SAGE%s h %CORAL%e s %WHITE%* %GREEN%%QTY%    %PURPLE%++{%NL%%GOLD%Made by cubing the %RED%Torch %WHITE%+ %ORANGE%Key%NL%%GOLD%Stackable %RED%Hellfire Torch%GOLD% ingredient for Voidstone recipe%NL%}
 ItemDisplay[pvpp]:%MAP-0B%%PURPLE%++    %GOLD%D %ORANGE%u e %LIGHT_GRAY%l i  %SAGE%n g  %ORANGE%M  %SAGE%a %CORAL%n a %WHITE%* %GREEN%%QTY%    %PURPLE%++{%NL%%GOLD%Sold by PvP vendors for 1 gold%NL%%GOLD%Super Mana Potion equivalent for %RED%PvP arenas only%NL%}
-ItemDisplay[iwss]:%MAP-0B%%PURPLE%++    %GOLD%C a %ORANGE%t a %LIGHT_GRAY%l y  %SAGE%s t %ORANGE%S  %SAGE%h a %CORAL%r d %WHITE%* %GREEN%%QTY%    %PURPLE%++{%NL%%GOLD%Guarantees a map event%NL%%GOLD% Corrupted Map : %GREEN%Map %WHITE%+ %RED%Shard %NL%}
+ItemDisplay[iwss]:%MAP-0B%%PURPLE%++    %GOLD%C a %ORANGE%t a %LIGHT_GRAY%l y %SAGE%s t  %ORANGE%S %SAGE%h a %CORAL%r d %WHITE%* %GREEN%%QTY%    %PURPLE%++{%NL%%GOLD%Guarantees a map event%NL%%GOLD% Corrupted Map : %GREEN%Map %WHITE%+ %RED%Shard %NL%}
 
 ItemDisplay[tes]:%MAP-0B%%PURPLE%++    %GOLD%S u %ORANGE%f f %WHITE%e r %ORANGE%%CORAL%i n %GOLD%g %RED%( A n d a )%WHITE%* %GREEN%%QTY%    %PURPLE%O
 ItemDisplay[ceh]:%MAP-0B%%PURPLE%++    %GOLD%H a %ORANGE%t r %WHITE%e d %GREEN%( M e p h i s t o )%WHITE%* %GREEN%%QTY%    %PURPLE%O
