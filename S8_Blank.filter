@@ -1759,8 +1759,8 @@ ItemDisplay[(UNI) 7h7 STAT117>0 REPLIFE>39 ID]:%GOLD%Great Poleaxe%NL%%GOLD%H u 
 ItemDisplay[(UNI) wsc ID]:%GOLD%War Scythe%NL%%GOLD%T h %TAN%e  %WHITE%G r %TAN%i m %GOLD%  R %TAN%e a %WHITE%p e %TAN%r%CONTINUE%
 ItemDisplay[(UNI) 9wc ID]:%GOLD%Grim Scythe%NL%%GOLD%T h %TAN%e  %WHITE%G r %TAN%i m %GOLD%  R %TAN%e a %WHITE%p e %TAN%r%CONTINUE%
 ItemDisplay[(UNI) 7wc ID]:%GOLD%Giant Thresher%NL%%GOLD%T h %TAN%e  %WHITE%G r %TAN%i m %GOLD%  R %TAN%e a %WHITE%p e %TAN%r%CONTINUE%
-ItemDisplay[(UNI) 9wc CLSK2>0 ID]:%ORANGE%%CORAL%Grim Scythe%NL%%PURPLE%Gr%RED%im%ORANGE%'s %GOLD%  B %WHITE%u r %GOLD%n i %RED%n g %PURPLE%  D %RED%e a %ORANGE%d%CONTINUE%
-ItemDisplay[(UNI) 7wc CLSK2>0 ID]:%ORANGE%%CORAL%Giant Thresher%NL%%PURPLE%Gr%RED%im%ORANGE%'s %GOLD%  B %WHITE%u r %GOLD%n i %RED%n g %PURPLE%  D %RED%e a %ORANGE%d%CONTINUE%
+ItemDisplay[(UNI) 9wc CLSK2>0 ID]:%ORANGE%%CORAL%Grim Scythe%NL%%PURPLE%Gr%RED%im%ORANGE%'s %GOLD% B %WHITE%u r %GOLD%n i %RED%n g %PURPLE% D %RED%e a %ORANGE%d%CONTINUE%
+ItemDisplay[(UNI) 7wc CLSK2>0 ID]:%ORANGE%%CORAL%Giant Thresher%NL%%PURPLE%Gr%RED%im%ORANGE%'s %GOLD% B %WHITE%u r %GOLD%n i %RED%n g %PURPLE% D %RED%e a %ORANGE%d%CONTINUE%
 ItemDisplay[(UNI) 7wc STAT330>0 STR>9 IAS>29 ID]:%GOLD%Giant Thresher%NL%%GOLD%S t %TAN%o r %WHITE%m s %TAN%p i %GOLD%r e%CONTINUE%
 
 ItemDisplay[(UNI) sbw ID]:%GOLD%Short Bow%NL%%GOLD%P l %TAN%u c %WHITE%k e %TAN%y e%CONTINUE%
