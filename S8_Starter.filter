@@ -4141,10 +4141,10 @@ ItemDisplay[CL2 NMAG !RW (!SUP OR SUP) (SOCK=0 OR SOCK>1) (!ETH OR ETH) SK147=1]
 //CLUB
 //Elemental
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK225>2]:%GRAY%%NAME% %ORANGE%+3 ftorm%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK229>2]:%GRAY%%NAME% %BLUE%+3 molten%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK230>2]:%GRAY%%NAME% %RED%+3 ablast%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK229>2]:%GRAY%%NAME% %BLUE%+3 mol%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK230>2]:%GRAY%%NAME% %RED%+3 abl%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK234>2]:%GRAY%%NAME% %YELLOW%+3 fiss%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK235>2]:%GRAY%%NAME% %PURPLE%+3 carmor%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK235>2]:%GRAY%%NAME% %PURPLE%+3 car%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK240>2]:%GRAY%%NAME% %GOLD%+3 twis%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK244>2]:%GRAY%%NAME% %TAN%+3 volca%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK245>2]:%GRAY%%NAME% %GREEN%+3 torna%CONTINUE%
@@ -4153,10 +4153,10 @@ ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK249>2]:%GRAY%%NA
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK370>2]:%GRAY%%NAME% %WHITE%+3 gust%CONTINUE%
 
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK225=2]:%GRAY%%NAME% %ORANGE%+2 ftorm%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK229=2]:%GRAY%%NAME% %BLUE%+2 molten%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK230=2]:%GRAY%%NAME% %RED%+2 ablast%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK229=2]:%GRAY%%NAME% %BLUE%+2 mol%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK230=2]:%GRAY%%NAME% %RED%+2 abl%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK234=2]:%GRAY%%NAME% %YELLOW%+2 fiss%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK235=2]:%GRAY%%NAME% %PURPLE%+2 carmor%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK235=2]:%GRAY%%NAME% %PURPLE%+2 car%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK240=2]:%GRAY%%NAME% %GOLD%+2 twis%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK244=2]:%GRAY%%NAME% %TAN%+2 volca%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK245=2]:%GRAY%%NAME% %GREEN%+2 torna%CONTINUE%
@@ -4165,10 +4165,10 @@ ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK249=2]:%GRAY%%NA
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK370=2]:%GRAY%%NAME% %WHITE%+2 gust%CONTINUE%
 
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK225=1]:%GRAY%%NAME% %ORANGE%+1 ftorm%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK229=1]:%GRAY%%NAME% %BLUE%+1 molten%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK230=1]:%GRAY%%NAME% %RED%+1 ablast%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK229=1]:%GRAY%%NAME% %BLUE%+1 mol%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK230=1]:%GRAY%%NAME% %RED%+1 abl%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK234=1]:%GRAY%%NAME% %YELLOW%+1 fiss%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK235=1]:%GRAY%%NAME% %PURPLE%+1 carmor%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK235=1]:%GRAY%%NAME% %PURPLE%+1 car%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK240=1]:%GRAY%%NAME% %GOLD%+1 twis%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK244=1]:%GRAY%%NAME% %TAN%+1 volca%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK245=1]:%GRAY%%NAME% %GREEN%+1 torna%CONTINUE%
@@ -4213,36 +4213,36 @@ ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK248=1]:%GRAY%%NA
 //Summoning
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK221>2]:%GRAY%%NAME% %ORANGE%+3 raven%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK222>2]:%GRAY%%NAME% %RED%+3 pcre%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK226>2]:%GRAY%%NAME% %YELLOW%+3 oaksage%PURPLE%*%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK226>2]:%GRAY%%NAME% %YELLOW%+3 oak%PURPLE%*%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK227>2]:%GRAY%%NAME% %PURPLE%+3 swolf%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK231>2]:%GRAY%%NAME% %GOLD%+3 vine%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK236>2]:%GRAY%%NAME% %TAN%+3 wolverine%PURPLE%*%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK236>2]:%GRAY%%NAME% %TAN%+3 wol%PURPLE%*%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK237>2]:%GRAY%%NAME% %GREEN%+3 dwolf%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK241>2]:%GRAY%%NAME% %RED%+3 scre%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK246>2]:%GRAY%%NAME% %WHITE%+3 barbs%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK247>2]:%GRAY%%NAME% %ORANGE%+3 grizzly%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK247>2]:%GRAY%%NAME% %ORANGE%+3 griz%CONTINUE%
 
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK221=2]:%GRAY%%NAME% %ORANGE%+2 raven%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK222=2]:%GRAY%%NAME% %RED%+2 pcre%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK226=2]:%GRAY%%NAME% %YELLOW%+2 oaksage%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK226=2]:%GRAY%%NAME% %YELLOW%+2 oak%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK227=2]:%GRAY%%NAME% %PURPLE%+2 swolf%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK231=2]:%GRAY%%NAME% %GOLD%+2 vine%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK236=2]:%GRAY%%NAME% %TAN%+2 wolverine%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK236=2]:%GRAY%%NAME% %TAN%+2 wol%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK237=2]:%GRAY%%NAME% %GREEN%+2 dwolf%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK241=2]:%GRAY%%NAME% %RED%+2 scre%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK246=2]:%GRAY%%NAME% %WHITE%+2 barbs%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK247=2]:%GRAY%%NAME% %ORANGE%+2 grizzly%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK247=2]:%GRAY%%NAME% %ORANGE%+2 griz%CONTINUE%
 
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK221=1]:%GRAY%%NAME% %ORANGE%+1 raven%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK222=1]:%GRAY%%NAME% %RED%+1 pcre%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK226=1]:%GRAY%%NAME% %YELLOW%+1 oaksage%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK226=1]:%GRAY%%NAME% %YELLOW%+1 oak%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK227=1]:%GRAY%%NAME% %PURPLE%+1 swolf%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK231=1]:%GRAY%%NAME% %GOLD%+1 vine%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK236=1]:%GRAY%%NAME% %TAN%+1 wolverine%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK236=1]:%GRAY%%NAME% %TAN%+1 wol%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK237=1]:%GRAY%%NAME% %GREEN%+1 dwolf%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK241=1]:%GRAY%%NAME% %RED%+1 scre%CONTINUE%
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK246=1]:%GRAY%%NAME% %WHITE%+1 barbs%CONTINUE%
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK247=1]:%GRAY%%NAME% %ORANGE%+1 grizzly%CONTINUE%
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW SK247=1]:%GRAY%%NAME% %ORANGE%+1 griz%CONTINUE%
 
 //BOW
 ItemDisplay[(WP9 OR WP10) NMAG !RW (!SUP OR SUP) (SOCK=0 OR SOCK=4 OR SOCK=5) (!ETH OR ETH) TABSK0>2]:%NAME% %PURPLE%+3 Bow%RED%*%CONTINUE%
