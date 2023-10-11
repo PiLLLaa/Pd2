@@ -4,14 +4,14 @@
 //                                      Filter Level                                           //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 
-ItemDisplayFilterName[]: Stardard
-ItemDisplayFilterName[]: Add Magic Bolt&Arrow(Blocked)
-ItemDisplayFilterName[]: No Potion, Ring(Magic)
-ItemDisplayFilterName[]: ++No Javel(Magic),CraftArmor,NormalSet
-ItemDisplayFilterName[]: +++No Amulet+Glove+Wand+Claw+NecHead+Circlet(Magic)
-ItemDisplayFilterName[]: ++++No Bolt(Rare)
-ItemDisplayFilterName[]: +++++No Arrow(Rare)+Only GG base Item
-ItemDisplayFilterName[]: ++++++No CraftWeapon(OnlyActiveETH+GMB),AllSet(rin+amu)
+ItemDisplayFilterName[]: Stardard               //FILTLVL>0
+ItemDisplayFilterName[]: Add Magic Bolt&Arrow(Blocked)   //FILTLVL>1
+ItemDisplayFilterName[]: No Potion, Ring(Magic) //FILTLVL>2
+ItemDisplayFilterName[]: ++No Javel(Magic),CraftArmor,NormalSet //FILTLVL>3
+ItemDisplayFilterName[]: +++No Amulet+Glove+Wand+Claw+NecHead+Circlet(Magic) //FILTLVL>4
+ItemDisplayFilterName[]: ++++No Bolt(Rare) //FILTLVL>5
+ItemDisplayFilterName[]: +++++No Arrow(Rare)+Only GG base Item //FILTLVL>6
+ItemDisplayFilterName[]: ++++++No CraftWeapon(OnlyActiveETH+GMB),AllSet(rin+amu) //FILTLVL>7
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      Filter Level Disable Item                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
