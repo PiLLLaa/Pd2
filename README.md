@@ -139,3 +139,8 @@
       3) Hiding marking Weapon speed and range when gemmed, equipped
 
 ----------------------------------------------------------------------------------------------------------------------
+    11. 10/11
+      1) Filter bugs fixed (Runeword Marking for all filters)
+      2) Craft base added (Archon Staff, Stag bow)
+
+----------------------------------------------------------------------------------------------------------------------
