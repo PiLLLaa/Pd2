@@ -144,3 +144,9 @@
       2) Craft base added (Archon Staff, Stag bow)
 
 ----------------------------------------------------------------------------------------------------------------------
+    12. 10/12
+      1) Filter bugs fixed
+      2) Added comments for pile of rune about rune option socketed
+      3) Now, bolt and arrow have marking when enhanced damage over 40
+
+----------------------------------------------------------------------------------------------------------------------
