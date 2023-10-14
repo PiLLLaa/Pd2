@@ -1446,21 +1446,21 @@ ItemDisplay[(UNI) 9ax STAT152>0 STAT141>0 ID]:%GOLD%Cleaver%NL%%GOLD%B u %TAN%t 
 ItemDisplay[(UNI) 7ax STAT152>0 STAT141>0 ID]:%GOLD%Small Crescent%NL%%GOLD%B u %TAN%t c %WHITE%h e %TAN%r ' %GOLD%s  %TAN%P u %WHITE%p i %TAN%l%CONTINUE%
 
 ItemDisplay[(UNI) axe ID]:%GOLD%Axe%NL%%GOLD%D e %TAN%a t %WHITE%h s %TAN%p a %GOLD%d e%CONTINUE%
-ItemDisplay[(UNI) 72a SOCK>3 STAT44>0 ID]:%GOLD%Ettin Axe%NL%%GOLD%R u %TAN%n e %WHITE% M %TAN%a s %GOLD%t e %TAN%r%CONTINUE%
-ItemDisplay[(UNI) 72a CLSK5>1 ID]:%GOLD%Ettin Axe%NL%%GOLD%I s %TAN%l e %WHITE%s t %TAN%r i %GOLD%k e%CONTINUE%
-ItemDisplay[(UNI) 92a CLSK5>1 ID]:%GOLD%Twin Axe%NL%%GOLD%I s %TAN%l e %WHITE%s t %TAN%r i %GOLD%k e%CONTINUE%
-
 ItemDisplay[(UNI) 2ax ID]:%GOLD%Double Axe%NL%%GOLD%B l %TAN%a d %WHITE%e b %TAN%o n %GOLD%e%CONTINUE%
 ItemDisplay[(UNI) 92a ID]:%GOLD%Twin Axe%NL%%GOLD%B l %TAN%a d %WHITE%e b %TAN%o n %GOLD%e%CONTINUE%
 ItemDisplay[(UNI) 72a ID]:%GOLD%Ettin Axe%NL%%GOLD%B l %TAN%a d %WHITE%e b %TAN%o n %GOLD%e%CONTINUE%
 
-ItemDisplay[(UNI) 7mp STAT116>0 (STAT50>0 OR STAT51>0) MFIND>29 ID]:%GOLD%War Spike%NL%%GOLD%C r %TAN%a n %WHITE%e b %TAN%e a %GOLD%k%CONTINUE%
-ItemDisplay[(UNI) 7mp STAT150>0 ID]:%GOLD%War Spike%NL%%GOLD%P o %TAN%m p %WHITE%e i %TAN%i ' %GOLD%s  %TAN%W r %WHITE%a t %TAN%h%CONTINUE%
-ItemDisplay[(UNI) 9mp STAT150>0 ID]:%GOLD%Crowbill%NL%%GOLD%P o %TAN%m p %WHITE%e i %TAN%i ' %GOLD%s  %TAN%W r %WHITE%a t %TAN%h%CONTINUE%
+ItemDisplay[(UNI) 72a SOCK>3 STAT44>0 ID]:%GOLD%Ettin Axe%NL%%GOLD%R u %TAN%n e %WHITE% M %TAN%a s %GOLD%t e %TAN%r%CONTINUE%
+ItemDisplay[(UNI) 72a CLSK5>1 ID]:%GOLD%Ettin Axe%NL%%GOLD%I s %TAN%l e %WHITE%s t %TAN%r i %GOLD%k e%CONTINUE%
+ItemDisplay[(UNI) 92a CLSK5>1 ID]:%GOLD%Twin Axe%NL%%GOLD%I s %TAN%l e %WHITE%s t %TAN%r i %GOLD%k e%CONTINUE%
 
 ItemDisplay[(UNI) mpi ID]:%GOLD%Military Pick%NL%%GOLD%S k %TAN%u l %WHITE%l  %TAN%S p %GOLD%l i %TAN%t t %WHITE%e r%CONTINUE%
 ItemDisplay[(UNI) 9mp ID]:%GOLD%Crowbill%NL%%GOLD%S k %TAN%u l %WHITE%l  %TAN%S p %GOLD%l i %TAN%t t %WHITE%e r%CONTINUE%
 ItemDisplay[(UNI) 7mp ID]:%GOLD%War Spike%NL%%GOLD%S k %TAN%u l %WHITE%l  %TAN%S p %GOLD%l i %TAN%t t %WHITE%e r%CONTINUE%
+
+ItemDisplay[(UNI) 7mp STAT116>0 (STAT50>0 OR STAT51>0) MFIND>29 ID]:%GOLD%War Spike%NL%%GOLD%C r %TAN%a n %WHITE%e b %TAN%e a %GOLD%k%CONTINUE%
+ItemDisplay[(UNI) 7mp STAT150>0 ID]:%GOLD%War Spike%NL%%GOLD%P o %TAN%m p %WHITE%e i %TAN%i ' %GOLD%s  %TAN%W r %WHITE%a t %TAN%h%CONTINUE%
+ItemDisplay[(UNI) 9mp STAT150>0 ID]:%GOLD%Crowbill%NL%%GOLD%P o %TAN%m p %WHITE%e i %TAN%i ' %GOLD%s  %TAN%W r %WHITE%a t %TAN%h%CONTINUE%
 
 ItemDisplay[(UNI) wax ID]:%GOLD%War Axe%NL%%GOLD%R a %TAN%k e %WHITE%s c %TAN%a r%CONTINUE%
 ItemDisplay[(UNI) 9wa ID]:%GOLD%Naga%NL%%GOLD%R a %TAN%k e %WHITE%s c %TAN%a r%CONTINUE%
