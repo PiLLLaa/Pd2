@@ -2295,7 +2295,7 @@ ItemDisplay[(SET) 7wd ID]:%GREEN%Mythical Sword%NL%%GREEN%Death's %WHITE%T %GREE
 ItemDisplay[(SET) wsp ID]:%GREEN%War Scepter%NL%%GREEN%Milabrega's %WHITE%R %GREEN%o %DARK_GREEN%d%CONTINUE%
 ItemDisplay[(SET) 9ws ID]:%GREEN%Divine Scepter%NL%%GREEN%Milabrega's %WHITE%R %GREEN%o %DARK_GREEN%d%CONTINUE%
 ItemDisplay[(SET) 7ws ID]:%GREEN%Caduceus%NL%%GREEN%Milabrega's %WHITE%R %GREEN%o %DARK_GREEN%d%CONTINUE%
-ItemDisplay[(SET) 7ws IAS>39 STAT122>249 ID]:%RED%%TEAL%Caduceus%NL%%GREEN%Gris wold's %PURPLE%R %RED%e d %ORANGE%e m %GOLD%p t %WHITE%i o %GOLD%n%CONTINUE%
+ItemDisplay[(SET) 7ws IAS>39 ID]:%RED%%TEAL%Caduceus%NL%%GREEN%Gris wold's %PURPLE%R %RED%e d %ORANGE%e m %GOLD%p t %WHITE%i o %GOLD%n%CONTINUE%
 
 ItemDisplay[(SET) wst ID]:%GREEN%War Staff%NL%%GREEN%Arcanna's %WHITE%D %GREEN%e %WHITE%a t %DARK_GREEN%h w %WHITE%a n %GREEN%d%CONTINUE%
 ItemDisplay[(SET) 8ws ID]:%GREEN%Rune Staff%NL%%GREEN%Arcanna's %WHITE%D %GREEN%e %WHITE%a t %DARK_GREEN%h w %WHITE%a n %GREEN%d%CONTINUE%
