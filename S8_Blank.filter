@@ -1836,8 +1836,8 @@ ItemDisplay[(UNI) 6hx STAT218>0 ID]:%GOLD%Colossus Crossbow%NL%%PURPLE%B u %ORAN
 ItemDisplay[(UNI) 6hx STAT363>0 ID]:%GOLD%Colossus Crossbow%NL%%PURPLE%H e %ORANGE%l l %GOLD%r a %WHITE%c k%CONTINUE%
 
 ItemDisplay[(UNI) rxb ID]:%GOLD%Repeating Crossbow%NL%%GOLD%D o %TAN%o m %WHITE%s l %TAN%i n %GOLD%g e %TAN%r%CONTINUE%
-ItemDisplay[(UNI) 8rx ID]:%GOLD%Chu-Ko-Nu%NL%%GOLD%D o %TAN%o m %WHITE%s l %TAN%i n %GOLD%g e %TAN%r%CONTINUE%
-ItemDisplay[(UNI) 6rx ID]:%GOLD%Demon Crossbow%NL%%GOLD%D o %TAN%o m %WHITE%s l %TAN%i n %GOLD%g e %TAN%r%CONTINUE%
+ItemDisplay[(UNI) 8rx !MAXDMG>32 ID]:%GOLD%Chu-Ko-Nu%NL%%GOLD%D o %TAN%o m %WHITE%s l %TAN%i n %GOLD%g e %TAN%r%CONTINUE%
+ItemDisplay[(UNI) 6rx !MAXDMG>32 ID]:%GOLD%Demon Crossbow%NL%%GOLD%D o %TAN%o m %WHITE%s l %TAN%i n %GOLD%g e %TAN%r%CONTINUE%
 ItemDisplay[(UNI) 8rx MAXDMG>32 AR>332 MANA>32 ID]:%TAN%%CORAL%Chu-Ko-Nu%NL%%ORANGE%D e %GOLD%m o %TAN%n  %GOLD%M a %ORANGE%c h %WHITE%i n %ORANGE%e%CONTINUE%
 ItemDisplay[(UNI) 6rx MAXDMG>32 AR>332 MANA>32 ID]:%TAN%%CORAL%Demon Crossbow%NL%%ORANGE%D e %GOLD%m o %TAN%n  %GOLD%M a %ORANGE%c h %WHITE%i n %ORANGE%e%CONTINUE%
 ItemDisplay[(UNI) 6rx STAT150>0 ID]:%GOLD%Demon Crossbow%NL%%GOLD%G u %TAN%t  %WHITE%S i %TAN%p h %GOLD%o n%CONTINUE%
