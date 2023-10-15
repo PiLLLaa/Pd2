@@ -1944,7 +1944,7 @@ ItemDisplay[(UNI) obf ID]:%ORANGE%%CORAL%Dimensional Shard%NL%%PURPLE%D e %RED%a
 ItemDisplay[(UNI) obf STAT1>19 STAT3>19 ID]:%TAN%%CORAL%Dimensional Shard%NL%%ORANGE%T h %GOLD%e  %TAN%O c %GOLD%u l %ORANGE%u s%CONTINUE%
 
 
-ItemDisplay[(UNI) amb ID]:%TAN%%CORAL%Matriarchal Bow%NL%%ORANGE%B l %GOLD%o o %TAN%d  %GOLD%R a %ORANGE%v e %WHITE%n ' %ORANGE%s  %GOLD%C h %TAN%a r %GOLD%g e%CONTINUE%
+ItemDisplay[(UNI) amb ID]:%TAN%%CORAL%Matriarchal Bow%NL%%ORANGE%Bl%GOLD%oo%TAN%d %GOLD%Ra%ORANGE%ve%WHITE%n'%ORANGE%s  %GOLD%C h %TAN%a r %GOLD%g e%CONTINUE%
 ItemDisplay[(UNI) am7 ID]:%TAN%%CORAL%Ceremonial Bow%NL%%ORANGE%L y %GOLD%c a %TAN%n d %GOLD%e r %ORANGE%' s %WHITE% A %ORANGE%i m%CONTINUE%
 ItemDisplay[(UNI) amc ID]:%TAN%%CORAL%Grand Matron Bow%NL%%ORANGE%L y %GOLD%c a %TAN%n d %GOLD%e r %ORANGE%' s %WHITE% A %ORANGE%i m%CONTINUE%
 ItemDisplay[(UNI) amd ID]:%GOLD%Matriarchal Spear%NL%%GOLD%S t %TAN%o n %WHITE%e r %TAN%a v %GOLD%e n%CONTINUE%
