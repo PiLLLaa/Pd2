@@ -677,7 +677,7 @@ ItemDisplay[(SET OR UNI) !ID uvb]:Scarabshell Boots%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID mbt]:Chain Boots%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xmb]:Mesh Boots%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID umb]:Boneweave Boots%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID tbt]:LightPlated Boots%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID tbt]:Light Plated Boots%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xtb]:Battle Boots%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID utb]:Mirrored Boots%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID hbt]:Greaves%CONTINUE%
