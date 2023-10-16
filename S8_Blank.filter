@@ -762,36 +762,36 @@ ItemDisplay[(SET OR UNI) !ID nee]:Succubus Skull%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID ne5]:Demon Head%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID nea]:Hierophant Trophy%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID nef]:Bloodlord Skull%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hax]:Handaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hax]:Hand axe%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 9ha]:Hatchet%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 7ha]:Tomahawk%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID axe]:Axe%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 9ax]:Cleaver%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 7ax]:Small Crescent%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 2ax]:Doubleaxe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 92a]:Twinaxe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 72a]:Ettinaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 2ax]:Double axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 92a]:Twin axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 72a]:Ettin axe%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID mpi]:Military Pick%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 9mp]:Crowbill%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 7mp]:War Spike%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID wax]:Waraxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID wax]:War axe%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 9wa]:Naga%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7wa]:Berserkeraxe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lax]:Largeaxe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9la]:Militaryaxe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7la]:Feralaxe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID bax]:Broadaxe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ba]:Beardedaxe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ba]:Silver-edgedaxe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID btx]:Battleaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7wa]:Berserker axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lax]:Large axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9la]:Military axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7la]:Feral axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID bax]:Broad axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ba]:Bearded axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ba]:Silver-edged axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID btx]:Battle axe%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 9bt]:Tabar%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 7bt]:Decapitator%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gax]:Greataxe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9ga]:Gothicaxe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7ga]:Championaxe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID gix]:Giantaxe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 9gi]:Ancientaxe%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 7gi]:Gloriousaxe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gax]:Great axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9ga]:Gothic axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7ga]:Champion axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID gix]:Giant axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 9gi]:Ancient axe%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 7gi]:Glorious axe%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID clb]:Club%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 9cl]:Cudgel%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 7cl]:Truncheon%CONTINUE%
