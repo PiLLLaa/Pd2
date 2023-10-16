@@ -1556,8 +1556,8 @@ ItemDisplay[(UNI) 7m7 STAT136>49 IAS>39 ED>229 ID]:%TAN%%CORAL%Ogre Maul%NL%%ORA
 ItemDisplay[(UNI) gma ID]:%GOLD%Great Maul%NL%%GOLD%S t %TAN%e e %WHITE%l d %TAN%r i %GOLD%v e %TAN%r%CONTINUE%
 ItemDisplay[(UNI) 9gm ID]:%GOLD%Martel de Fer%NL%%GOLD%S t %TAN%e e %WHITE%l d %TAN%r i %GOLD%v e %TAN%r%CONTINUE%
 ItemDisplay[(UNI) 7gm ID]:%GOLD%Thunder Maul%NL%%GOLD%S t %TAN%e e %WHITE%l d %TAN%r i %GOLD%v e %TAN%r%CONTINUE%
-ItemDisplay[(UNI) 7gm MAXDMG>0 MINDMG>0 STAT78>259 ID]:%TAN%%CORAL%Thunder Maul%NL%%ORANGE%T h %GOLD%e  %TAN%G a %GOLD%v e %ORANGE%l  %WHITE%o f %ORANGE%  P %GOLD%a i %TAN%n%CONTINUE%
-ItemDisplay[(UNI) 9gm MAXDMG>0 MINDMG>0 STAT78>259 ID]:%TAN%%CORAL%Martel de Fer%NL%%ORANGE%T h %GOLD%e  %TAN%G a %GOLD%v e %ORANGE%l  %WHITE%o f %ORANGE%  P %GOLD%a i %TAN%n%CONTINUE%
+ItemDisplay[(UNI) 9gm STAT504>9 STAT78>259 ID]:%TAN%%CORAL%Martel de Fer%NL%%ORANGE%T h %GOLD%e  %TAN%G a %GOLD%v e %ORANGE%l  %WHITE%o f %ORANGE%  P %GOLD%a i %TAN%n%CONTINUE%
+ItemDisplay[(UNI) 7gm STAT504>9 STAT78>259 ID]:%TAN%%CORAL%Thunder Maul%NL%%ORANGE%T h %GOLD%e  %TAN%G a %GOLD%v e %ORANGE%l  %WHITE%o f %ORANGE%  P %GOLD%a i %TAN%n%CONTINUE%
 ItemDisplay[(UNI) 7gm TABSK42>0 ID]:%TAN%%CORAL%Thunder Maul%NL%%ORANGE%E a %GOLD%r t %TAN%h  %GOLD%S h %ORANGE%i f %WHITE%t e %ORANGE%r%CONTINUE%
 ItemDisplay[(UNI) 7gm !TABSK42>0 ID]:%TAN%%CORAL%Thunder Maul%NL%%ORANGE%T h %GOLD%e  %TAN%C r %GOLD%a n %ORANGE%i u %WHITE%m  %ORANGE%B a %GOLD%s h %TAN%e r%CONTINUE%
 
