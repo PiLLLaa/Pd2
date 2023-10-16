@@ -584,17 +584,17 @@ ItemDisplay[(SET OR UNI) !ID uhm]:Spired Helm%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID crn]:Crown%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xrn]:Grand Crown%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID urn]:Corona%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID qui]:Quiltedarmor%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xui]:Ghostarmor%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uui]:DuskShroud%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lea]:Leatherarmor%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xea]:Serpentskinarmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID qui]:Quilted Armor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xui]:Ghost Armor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uui]:Dusk Shroud%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lea]:Leather Armor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xea]:Serpentskin Armor%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID uea]:Wyrmhide%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID hla]:HardLeatherarmor%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xla]:Demonhidearmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID hla]:HardLeather Armor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xla]:Demonhide Armor%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID ula]:Scarab Husk%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID stu]:Studded Leather%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xtu]:Trellisedarmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xtu]:Trellised Armor%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID utu]:Wire Fleece%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID rng]:Ring Mail%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xng]:Linked Mail%CONTINUE%
@@ -603,19 +603,19 @@ ItemDisplay[(SET OR UNI) !ID scl]:Scale Mail%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xcl]:Tigulated Mail%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID ucl]:Loricated Mail%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID chn]:Chain Mail%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xhn]:Mesharmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xhn]:Mesh Armor%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID uhn]:Boneweave%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID brs]:Breast Plate%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xrs]:Cuirass%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID urs]:Great Hauberk%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID spl]:Splint Mail%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xpl]:Russetarmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xpl]:Russet Armor%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID upl]:Balrog Skin%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID plt]:Plate Mail%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xlt]:Templar Coat%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID ult]:Hellforge Plate%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID fld]:Field Plate%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xld]:Sharktootharmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xld]:Sharktooth Armor%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID uld]:Kraken Shell%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID gth]:Gothic Plate%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xth]:Embossed Plate%CONTINUE%
@@ -624,11 +624,11 @@ ItemDisplay[(SET OR UNI) !ID ltp]:Light Plate%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xtp]:Mage Plate%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID utp]:Archon Plate%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID ful]:FullPlate Mail%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xul]:Chaosarmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xul]:Chaos Armor%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID uul]:Shadow Plate%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID aar]:Ancientarmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID aar]:Ancient Armor%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xar]:Ornate Plate%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID uar]:Sacredarmor%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID uar]:Sacred Armor%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID buc]:Buckler%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xuc]:Defender%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID uuc]:Heater%CONTINUE%
@@ -654,7 +654,7 @@ ItemDisplay[(SET OR UNI) !ID gts]:Gothic Shield%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xts]:Ancient Shield%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID uts]:Ward%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID lgl]:Leather Gloves%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID xlg]:Demonhid eGloves%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID xlg]:Demonhide Gloves%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID ulg]:Bramble Mitts%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID vgl]:Heavy Gloves%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xvg]:Sharkskin Gloves%CONTINUE%
