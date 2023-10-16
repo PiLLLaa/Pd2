@@ -1715,8 +1715,8 @@ ItemDisplay[(UNI) 7br STAT365>2 ID]:%GOLD%Mancatcher%NL%%GOLD%V i %TAN%p e %WHIT
 ItemDisplay[(UNI) spt ID]:%GOLD%Spetum%NL%%GOLD%L a %TAN%n c %WHITE%e  %TAN%o f %GOLD%  Y %TAN%a g %WHITE%g a %TAN%i%CONTINUE%
 ItemDisplay[(UNI) 9st ID]:%GOLD%Yari%NL%%GOLD%L a %TAN%n c %WHITE%e  %TAN%o f %GOLD%  Y %TAN%a g %WHITE%g a %TAN%i%CONTINUE%
 ItemDisplay[(UNI) 7st ID]:%GOLD%Ghost Spear%NL%%GOLD%L a %TAN%n c %WHITE%e  %TAN%o f %GOLD%  Y %TAN%a g %WHITE%g a %TAN%i%CONTINUE%
-ItemDisplay[(UNI) 9st MAXDMG>0 MINDMG>0 STAT136>44 SOCK=3 ID]:%GOLD%Yari%NL%%GOLD%H o %TAN%n e %WHITE% S %TAN%u n %GOLD%d a %TAN%n%CONTINUE%
-ItemDisplay[(UNI) 7st MAXDMG>0 MINDMG>0 STAT136>44 SOCK=3 ID]:%GOLD%Ghost Spear%NL%%GOLD%H o %TAN%n e %WHITE% S %TAN%u n %GOLD%d a %TAN%n%CONTINUE%
+ItemDisplay[(UNI) 9st STAT136>44 SOCK=3 ID]:%GOLD%Yari%NL%%GOLD%H o %TAN%n e %WHITE% S %TAN%u n %GOLD%d a %TAN%n%CONTINUE%
+ItemDisplay[(UNI) 7st STAT136>44 SOCK=3 ID]:%GOLD%Ghost Spear%NL%%GOLD%H o %TAN%n e %WHITE% S %TAN%u n %GOLD%d a %TAN%n%CONTINUE%
 
 ItemDisplay[(UNI) pik ID]:%GOLD%Pike%NL%%GOLD%T h %TAN%e  %WHITE%T a %TAN%n n %GOLD%r  %TAN%G o %WHITE%r e %TAN%r o %GOLD%d%CONTINUE%
 ItemDisplay[(UNI) 9p9 ID]:%GOLD%Lance%NL%%GOLD%T h %TAN%e  %WHITE%T a %TAN%n n %GOLD%r  %TAN%G o %WHITE%r e %TAN%r o %GOLD%d%CONTINUE%
