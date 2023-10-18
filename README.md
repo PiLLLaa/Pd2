@@ -150,3 +150,9 @@
       3) Now, bolt and arrow have marking when enhanced damage over 40
 
 ----------------------------------------------------------------------------------------------------------------------
+    13. 10/18
+      1) Filter bugs fixed
+      2) Added comments for Craft  or Rare chest GG option (Damage & PDR) 
+      3) Modified High Marking for Gore Rider and Black Hades
+
+----------------------------------------------------------------------------------------------------------------------
