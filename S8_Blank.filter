@@ -943,16 +943,16 @@ ItemDisplay[(SET OR UNI) !ID 6lb]:Shadow Bow%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID cbw]:Composite Bow%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 8cb]:Double Bow%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 6cb]:Great Bow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID sbb]:ShortBattle Bow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8s8]:ShortSiege Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID sbb]:Short Battle Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8s8]:Short Siege Bow%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 6s7]:Diamond Bow%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID lbb]:Long BattleBow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8l8]:LargeSiege Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8l8]:Large Siege Bow%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 6l7]:Crusader Bow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID swb]:ShortWar Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID swb]:Short War Bow%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 8sw]:Rune Bow%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 6sw]:Ward Bow%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID lwb]:LongWar Bow%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID lwb]:Long War Bow%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 8lw]:Gothic Bow%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 6lw]:Hydra Bow%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID lxb]:Light Crossbow%CONTINUE%
@@ -971,7 +971,7 @@ ItemDisplay[(SET OR UNI) !ID sst]:Short Staff%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 8ss]:Jo Staff%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 6ss]:Walking Stick%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID lst]:Long Staff%CONTINUE%
-ItemDisplay[(SET OR UNI) !ID 8ls]:Quarterstaff%CONTINUE%
+ItemDisplay[(SET OR UNI) !ID 8ls]:Quarter staff%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 6ls]:Stalagmite%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID cst]:Gnarled Staff%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID 8cs]:Cedar Staff%CONTINUE%
