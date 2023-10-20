@@ -5919,7 +5919,6 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL<26 7s8 ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Ite
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 7h7 ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[3] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 7wc ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[3] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 amd ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[3] %PURPLE%+%NAME%}
-ItemDisplay[NMAG SOCK=0 !RW ILVL<26 am9 ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[3] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 ame ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[3] %PURPLE%+%NAME%}
 
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 72a ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[4] %PURPLE%+%NAME%}
@@ -5944,7 +5943,6 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL<26 7s8 ETH]:%NAME%{%TEAL%+ %SAGE%This Item Leve
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 7h7 ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[3] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 7wc ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[3] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 amd ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[3] %PURPLE%+%NAME%}
-ItemDisplay[NMAG SOCK=0 !RW ILVL<26 am9 ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[3] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 ame ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[3] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 7st ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[3] %PURPLE%+%NAME%}
 
@@ -5975,7 +5973,6 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL>25 ILVL<41 7s8 ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%
 ItemDisplay[NMAG SOCK=0 !RW ILVL>25 ILVL<41 7h7 ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[4] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 !RW ILVL>25 ILVL<41 7wc ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[4] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 !RW ILVL>25 ILVL<41 amd ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[4] %PURPLE%+%NAME%}
-ItemDisplay[NMAG SOCK=0 !RW ILVL>25 ILVL<41 am9 ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[4] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 !RW ILVL>25 ILVL<41 ame ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[4] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 !RW ILVL>25 ILVL<41 7st ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[4] %PURPLE%+%NAME%}
 
@@ -6001,7 +5998,6 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL>25 ILVL<41 7s8 ETH]:%NAME%{%TEAL%+ %SAGE%This I
 ItemDisplay[NMAG SOCK=0 !RW ILVL>25 ILVL<41 7h7 ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[4] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 !RW ILVL>25 ILVL<41 7wc ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[4] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 !RW ILVL>25 ILVL<41 amd ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[4] %PURPLE%+%NAME%}
-ItemDisplay[NMAG SOCK=0 !RW ILVL>25 ILVL<41 am9 ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[4] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 !RW ILVL>25 ILVL<41 ame ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[4] %PURPLE%+%NAME%}
 
 ItemDisplay[NMAG SOCK=0 ILVL>40 crs ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[6] %PURPLE%+%NAME%}
@@ -6033,7 +6029,6 @@ ItemDisplay[NMAG SOCK=0 ILVL>40 7p7 ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Le
 ItemDisplay[NMAG SOCK=0 ILVL>40 7tr ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[4] %PURPLE%+%NAME%}
 
 ItemDisplay[NMAG SOCK=0 ILVL>40 amd ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[6] %PURPLE%+%NAME%}
-ItemDisplay[NMAG SOCK=0 ILVL>40 am9 ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[6] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 ILVL>40 ame ED>0 !ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[6] %PURPLE%+%NAME%}
 
 ItemDisplay[NMAG SOCK=0 ILVL>40 7ls ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[4] %PURPLE%+%NAME%}
@@ -6060,19 +6055,18 @@ ItemDisplay[NMAG SOCK=0 ILVL>40 7p7 ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is
 ItemDisplay[NMAG SOCK=0 ILVL>40 7tr ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[4] %PURPLE%+%NAME%}
 
 ItemDisplay[NMAG SOCK=0 ILVL>40 amd ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[6] %PURPLE%+%NAME%}
-ItemDisplay[NMAG SOCK=0 ILVL>40 am9 ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[6] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 ILVL>40 ame ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[6] %PURPLE%+%NAME%}
 ItemDisplay[NMAG SOCK=0 ILVL>40 7st ETH]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[6] %PURPLE%+%NAME%}
 
 ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) !SOCK=1 !RW ED>9 NMAG]:%DOT-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 //ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) ETH !SOCK=1 !RW ED>9 NMAG]:%DOT-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR am9 OR 7st) ETH !SOCK=1 !SOCK=2 !SOCK=3 ED>9 !RW NMAG]:%DOT-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st) ETH !SOCK=1 !SOCK=2 !SOCK=3 ED>9 !RW NMAG]:%DOT-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
 ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) !ETH !SOCK=1 !RW NMAG ED>0 FILTLVL>6]:
 ItemDisplay[(7cr) SOCK=5 !RW NMAG FILTLVL>6]:%NAME%{%NAME%}
 ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) ETH !SOCK=1 !RW NMAG FILTLVL>6]:
-ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR am9 OR 7st) !ETH !SOCK=1 !SOCK=2 !SOCK=3 !RW NMAG ED>0 FILTLVL>6]:
-ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR am9 OR 7st) ETH !SOCK=1 !SOCK=2 !SOCK=3 !RW NMAG FILTLVL>6]:
+ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st) !ETH !SOCK=1 !SOCK=2 !SOCK=3 !RW NMAG ED>0 FILTLVL>6]:
+ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st) ETH !SOCK=1 !SOCK=2 !SOCK=3 !RW NMAG FILTLVL>6]:
 ItemDisplay[(crs OR bsd OR lsd OR fla) (SOCK=4 OR SOCK=5) !RW NMAG FILTLVL>6]:
 
 ItemDisplay[(crs OR bsd OR lsd OR fla) (SOCK=4 OR SOCK=5) !RW NMAG]:%NAME%{%NAME%}
@@ -6080,8 +6074,8 @@ ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h 
 ItemDisplay[(7cr) SOCK=5 !RW NMAG]:%NAME%{%NAME%}
 ItemDisplay[(7fb) !ETH !SOCK=1 !RW NMAG]:%NAME%{%NAME%}
 ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) ETH !SOCK=1 !RW NMAG]:%NAME%{%NAME%}
-ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR am9 OR 7st) !ETH !SOCK=1 !SOCK=2 !SOCK=3 !RW NMAG ED>0]:%NAME%{%NAME%}
-ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR am9 OR 7st) ETH !SOCK=1 !SOCK=2 !SOCK=3 !RW NMAG]:%NAME%{%NAME%}
+ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st) !ETH !SOCK=1 !SOCK=2 !SOCK=3 !RW NMAG ED>0]:%NAME%{%NAME%}
+ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st) ETH !SOCK=1 !SOCK=2 !SOCK=3 !RW NMAG]:%NAME%{%NAME%}
 
 //STAVES ACTIVE -COMPLETE
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 lst (SK58>2 OR SK60>2 OR SK50>2 OR SK57>2 OR SK59>2 OR SK62>2 OR SK64>2 OR SK48>2 OR SK63>2 OR SK369>2)]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[3] %PURPLE%+%NAME%}
