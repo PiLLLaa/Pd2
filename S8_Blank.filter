@@ -58,14 +58,9 @@ ItemDisplay[(9xf OR 7xf OR 9lw OR 7lw OR 9tw OR 7tw OR 9qr OR 7qr) !ETH MAG !ID 
 ItemDisplay[(9ws OR 7ws) !ETH MAG !ID FILTLVL>7]:
 ItemDisplay[(9ws OR 7ws) ETH MAG !ID FILTLVL>7]:
 ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7) !ETH MAG !ID FILTLVL>7]:
-
 ItemDisplay[(7mt OR 7wh) !ETH MAG !ID FILTLVL>7]:
-ItemDisplay[(7mt OR 7wh) ETH MAG !ID FILTLVL>7]:
-
 ItemDisplay[(oba OR obf) !ETH MAG !ID FILTLVL>7]:
-ItemDisplay[(oba OR obf) ETH MAG !ID FILTLVL>7]:
 ItemDisplay[(6ws) !ETH MAG !ID FILTLVL>7]:
-ItemDisplay[(6ws) ETH MAG !ID FILTLVL>7]:
 
 ItemDisplay[(NMAG) cap]:Cap%CONTINUE%
 ItemDisplay[(NMAG) xap]:War Hat%CONTINUE%
