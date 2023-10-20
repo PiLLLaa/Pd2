@@ -1438,8 +1438,8 @@ ItemDisplay[(UNI) 7ha IAS>59 ED>224 STAT116>32 STAT141>49 STAT135>49 ID]:%GOLD%T
 ItemDisplay[(UNI) hax ID]:%GOLD%Hand Axe%NL%%GOLD%T h %TAN%e  %WHITE%G n %TAN%a s %GOLD%h e %TAN%r%CONTINUE%
 ItemDisplay[(UNI) 9ax MINDMG>7 ARPER>14 ID]:%GOLD%Cleaver%NL%%GOLD%D e %TAN%a t %WHITE%h s %TAN%p a %GOLD%d e%CONTINUE%
 ItemDisplay[(UNI) 7ax MINDMG>7 ARPER>14 ID]:%GOLD%Small Crescent%NL%%GOLD%D e %TAN%a t %WHITE%h s %TAN%p a %GOLD%d e%CONTINUE%
-ItemDisplay[(UNI) 9ax STAT152>0 STAT141>0 ID]:%GOLD%Cleaver%NL%%GOLD%B u %TAN%t c %WHITE%h e %TAN%r ' %GOLD%s  %TAN%P u %WHITE%p i %TAN%l%CONTINUE%
-ItemDisplay[(UNI) 7ax STAT152>0 STAT141>0 ID]:%GOLD%Small Crescent%NL%%GOLD%B u %TAN%t c %WHITE%h e %TAN%r ' %GOLD%s  %TAN%P u %WHITE%p i %TAN%l%CONTINUE%
+ItemDisplay[(UNI) 9ax IAS>29 STAT136>24 STAT141>34 ID]:%GOLD%Cleaver%NL%%GOLD%B u %TAN%t c %WHITE%h e %TAN%r ' %GOLD%s  %TAN%P u %WHITE%p i %TAN%l%CONTINUE%
+ItemDisplay[(UNI) 7ax IAS>29 STAT136>24 STAT141>34 ID]:%GOLD%Small Crescent%NL%%GOLD%B u %TAN%t c %WHITE%h e %TAN%r ' %GOLD%s  %TAN%P u %WHITE%p i %TAN%l%CONTINUE%
 
 ItemDisplay[(UNI) axe ID]:%GOLD%Axe%NL%%GOLD%D e %TAN%a t %WHITE%h s %TAN%p a %GOLD%d e%CONTINUE%
 ItemDisplay[(UNI) 2ax ID]:%GOLD%Double Axe%NL%%GOLD%B l %TAN%a d %WHITE%e b %TAN%o n %GOLD%e%CONTINUE%
