@@ -1,16 +1,18 @@
-ItemDisplayFilterName[]:Stardard
-ItemDisplayFilterName[]: No Potion, rvs, Ring(Magic)
-ItemDisplayFilterName[]: +No Javel(Magic)
-ItemDisplayFilterName[]: ++No CraftArmor
-ItemDisplayFilterName[]: +++No Amulet+Glove+Wand+Claw+NecHead+Circlet(Magic)
-ItemDisplayFilterName[]: ++++No Normal Set
-ItemDisplayFilterName[]: +++++Only GG Base Activation
-ItemDisplayFilterName[]: ++++++No CraftWeapon(Only Active ETH+GMB)
+ItemDisplayFilterName[]:Stardard //FILTLVL>0
+ItemDisplayFilterName[]: No ThrowingPotion,Ring(Magic) //FILTLVL>1
+ItemDisplayFilterName[]: +No Javel(M) //FILTLVL>2
+ItemDisplayFilterName[]: ++No CraftArmor+Glove(M)+Wand(M)+HP/MP/R35 //FILTLVL>3
+ItemDisplayFilterName[]: +++No Amulet+Claw+NecHead+Circlet(M)  //FILTLVL>4
+ItemDisplayFilterName[]: ++++No Bolt(Rare)+Normal Set //FILTLVL>5
+ItemDisplayFilterName[]: +++++No Arrow(Rare)+Only GG Base Activation //FILTLVL>6
+ItemDisplayFilterName[]: ++++++No CraftWeapon(Only Active ETH+GMB)  //FILTLVL>7
 
-ItemDisplay[(hp5 OR mp5 OR rvs OR tpfl OR tpgl OR tpcl OR tpll) FILTLVL>1]:
-ItemDisplay[yps FILTLVL>1]:
+ItemDisplay[(tpfl OR tpgl OR tpcl OR tpll) FILTLVL>1]:
 ItemDisplay[MAG rin FILTLVL>1]:
 ItemDisplay[MAG (am5 OR ama OR amf) !ID FILTLVL>2]:
+
+ItemDisplay[(hp5 OR mp5 OR rvs OR yps) FILTLVL>3]:
+ItemDisplay[(EQ4 OR WP12) MAG !ID FILTLVL>3]:
 
 ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
 ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
@@ -21,7 +23,9 @@ ItemDisplay[(zmb OR umc OR ztb OR utc OR zvb OR uvc OR zlb OR ulc) (!ETH OR ETH)
 ItemDisplay[(xpk OR upk OR xts OR uts OR xml OR uml OR xit OR uit OR xrg OR urg OR xow OR uow) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
 ItemDisplay[(xlt OR ult OR xld OR uld OR xtp OR utp OR xrs OR urs) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
 
-ItemDisplay[(amu OR EQ4 OR EQ7 OR CL4 OR WP12 OR CL5) MAG !ID FILTLVL>4]:
+ItemDisplay[(amu OR EQ7 OR CL4 OR CL5) MAG !ID FILTLVL>4]:
+ItemDisplay[RARE (cqv) !ID FILTLVL>5]:
+ItemDisplay[RARE (aqv) !ID FILTLVL>6]:
 
 ItemDisplay[SET !ID (rng OR sbr) FILTLVL>5]:
 ItemDisplay[SET !ID (skp OR ltp OR wst) FILTLVL>5]:
@@ -3527,7 +3531,7 @@ ItemDisplay[GOLD<500 CLVL>19 CLVL<30]:
 ItemDisplay[GOLD<1000 CLVL>29 CLVL<40]:
 ItemDisplay[GOLD<1500 CLVL>39 CLVL<50]:
 ItemDisplay[GOLD<2000 CLVL>49 CLVL<60]:
-ItemDisplay[GOLD<2000 CLVL>60]:
+ItemDisplay[GOLD<4999 CLVL>60]:
 
 ItemDisplay[(aqv OR cqv) UNI !ID CLVL<80]: %NAME%
 ItemDisplay[(aqv OR cqv) UNI !ID CLVL>79]:
