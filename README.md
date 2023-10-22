@@ -156,3 +156,18 @@
       3) Modified High Marking for Gore Rider and Black Hades
 
 ----------------------------------------------------------------------------------------------------------------------
+    14. 10/22
+      1) Filter bugs fixed
+      2) Filter Level Change (Blank flter has a little different)
+         1) Level 3, No throwing Potion and Magic Amulet
+         2) Level 4 No Magic Javeline, No Craft Armor base, No Normal Set, No Magic Glove, No Magic Wand, No HP5/MP5/R35%/Antidote Potion
+         3) Level 5 No Magic Amulet, No Magic Claw, No Magic Nec Head, No Magic Circlet
+         4) Level 6 No Rare Bolt
+         5) Level 7 No Rare Arrow, Only active for GG base Item.
+         6) Level 8 No Craft Weapon(But, Etherial Item and Bows(Class focused) still be dropped), No All set(including ring+amulet)
+        High Level will contains all low filter level function.
+         ![image](https://github.com/PiLLLaa/Pd2/assets/76995697/c57a7c72-8dec-4864-a30e-2efbd2586520)
+     
+      3) Gold Piles will shows over 5000Gold when you're over character level 60.
+
+----------------------------------------------------------------------------------------------------------------------
