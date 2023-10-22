@@ -3,28 +3,27 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      Filter Level                                           //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-
-ItemDisplayFilterName[]: Stardard               //FILTLVL>0
-ItemDisplayFilterName[]: Add Magic Bolt&Arrow(Blocked)   //FILTLVL>1
-ItemDisplayFilterName[]: No Potion, Ring(Magic) //FILTLVL>2
-ItemDisplayFilterName[]: ++No Javel(Magic),CraftArmor,NormalSet //FILTLVL>3
-ItemDisplayFilterName[]: +++No Amulet+Glove+Wand+Claw+NecHead+Circlet(Magic) //FILTLVL>4
+ItemDisplayFilterName[]: Stardard //FILTLVL>0 
+ItemDisplayFilterName[]: Add Magic Bolt&Arrow(Blocked) //FILTLVL>1
+ItemDisplayFilterName[]: No ThrowingPotion, Ring(M) //FILTLVL>2
+ItemDisplayFilterName[]: ++No Javel(M),CraftArmor,NormalSet+Glove(M)+Wand(M)+HP/MP/R35 //FILTLVL>3
+ItemDisplayFilterName[]: +++No Amulet+Claw(M)+NecHead(M)+Circlet(M) //FILTLVL>4
 ItemDisplayFilterName[]: ++++No Bolt(Rare) //FILTLVL>5
 ItemDisplayFilterName[]: +++++No Arrow(Rare)+Only GG base Item //FILTLVL>6
-ItemDisplayFilterName[]: ++++++No CraftWeapon(OnlyActiveETH+GMB),AllSet(rin+amu) //FILTLVL>7
+ItemDisplayFilterName[]: ++++++No CraftWeapon(OnlyActiveETH+Bows(GMB)),AllSet(rin+amu) //FILTLVL>7
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      Filter Level Disable Item                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[(hp5 OR mp5 OR rvs OR tpfl OR tpgl OR tpcl OR tpll) FILTLVL>2]:
-ItemDisplay[yps FILTLVL>2]:
+ItemDisplay[(tpfl OR tpgl OR tpcl OR tpll) FILTLVL>2]:
 ItemDisplay[MAG rin !ID FILTLVL>2]: 
-ItemDisplay[MAG amu !ID FILTLVL>4]:
 //ItemDisplay[SET rin !ID FILTLVL=4]:
 //ItemDisplay[MAG cm2 !ID FILTLVL>5]:
-ItemDisplay[MAG (am5 OR ama OR amf) !ID FILTLVL>3]:
-ItemDisplay[(EQ4 OR EQ7 OR CL4 OR WP12 OR CL5) MAG !ID FILTLVL>4]:
+ItemDisplay[MAG (am5 OR ama OR amf OR EQ4 OR WP12) !ID FILTLVL>3]:
+ItemDisplay[(hp5 OR mp5 OR rvs OR yps) FILTLVL>3]:
+ItemDisplay[(EQ7 OR CL4 OR CL5 OR amu) MAG !ID FILTLVL>4]:
 ItemDisplay[RARE (cqv) !ID FILTLVL>5]: 
 ItemDisplay[RARE (aqv) !ID FILTLVL>6]: 
+
 ItemDisplay[leg]: %NAME% %ORANGE%[L%ILVL%] %PURPLE%[%SOCKETS%]
 //ItemDisplay[MAG (aqv OR cqv) !ID FILTLVL=2]:%NAME%%ORANGE%[Skill %WHITE%c%ORANGE%h%RED%e%GREEN%c%PURPLE%k%GRAY%]
 
@@ -291,7 +290,7 @@ ItemDisplay[GOLD<500 CLVL>19 CLVL<30]:
 ItemDisplay[GOLD<1000 CLVL>29 CLVL<40]:
 ItemDisplay[GOLD<1500 CLVL>39 CLVL<50]:
 ItemDisplay[GOLD<2000 CLVL>49 CLVL<60]:
-ItemDisplay[GOLD<2000 CLVL>60]:
+ItemDisplay[GOLD<4999 CLVL>60]:
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                     INF ITEM DELETION                                       //
 /////////////////////////////////////////////////////////////////////////////////////////////////
