@@ -166,8 +166,8 @@
          5) Level 7 No Rare Arrow, Only active for GG base Item.
          6) Level 8 No Craft Weapon(But, Etherial Item and Bows(Class focused) still be dropped), No All set(including ring+amulet)
         High Level will contains all low filter level function.
-         ![image](https://github.com/PiLLLaa/Pd2/assets/76995697/c57a7c72-8dec-4864-a30e-2efbd2586520)
-     
+             
       3) Gold Piles will shows over 5000Gold when you're over character level 60.
 
 ----------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/PiLLLaa/Pd2/assets/76995697/c57a7c72-8dec-4864-a30e-2efbd2586520)
