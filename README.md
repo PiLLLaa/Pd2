@@ -159,7 +159,7 @@
     14. 10/22
       1) Filter bugs fixed
       2) Filter Level Change (Blank flter has a little different)
-         1) Level 3, No throwing Potion and Magic Amulet
+         1) Level 3, No throwing Potion and Magic Ring
          2) Level 4 No Magic Javeline, No Craft Armor base, No Normal Set, No Magic Glove, No Magic Wand, No HP5/MP5/R35%/Antidote Potion
          3) Level 5 No Magic Amulet, No Magic Claw, No Magic Nec Head, No Magic Circlet
          4) Level 6 No Rare Bolt
