@@ -1651,7 +1651,7 @@ ItemDisplay[(UNI) 9gd ID]:%GOLD%Executioner Sword%NL%%GOLD%T h %TAN%e  %WHITE%P 
 ItemDisplay[(UNI) 7gd ID]:%GOLD%Colossus Blade%NL%%GOLD%T h %TAN%e  %WHITE%P a %TAN%t r %GOLD%i a %TAN%r c %WHITE%h%CONTINUE%
 ItemDisplay[(UNI) 9gd FBR>39 FHR>39 ID]:%GOLD%Executioner Sword%NL%%GOLD%S w %TAN%o r %WHITE%d g %TAN%u a %GOLD%r d%CONTINUE%
 ItemDisplay[(UNI) 7gd FBR>39 FHR>39 ID]:%GOLD%Colossus Blade%NL%%GOLD%S w %TAN%o r %WHITE%d g %TAN%u a %GOLD%r d%CONTINUE%
-ItemDisplay[(UNI) 7gd SK154>0 ALLSK>1 ID]:%ORANGE%%CORAL%Colossus Blade%NL%%PURPLE%T h %RED%e  %ORANGE%G r %GOLD%a n %WHITE%d f %GOLD%a t %RED%h e %PURPLE%r%CONTINUE%
+ItemDisplay[(UNI) 7gd SK154>0 ALLSK>1 ID]:%ORANGE%%CORAL%Colossus Blade%NL%%PURPLE%T h %RED%e  %ORANGE%G r %GOLD%a n %WHITE%d  f %GOLD%a t %RED%h e %PURPLE%r%CONTINUE%
 
 ItemDisplay[(UNI) dgr ID]:%ORANGE%%CORAL%Dagger%NL%%GOLD%G u %TAN%l l%CONTINUE%
 ItemDisplay[(UNI) 9dg ID]:%ORANGE%%CORAL%Poignard%NL%%GOLD%G u %TAN%l l%CONTINUE%
