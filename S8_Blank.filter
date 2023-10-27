@@ -3435,7 +3435,7 @@ ItemDisplay[UNI !ID 7st !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Uldyss
 ItemDisplay[UNI !ID 6cs !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Ondals Wisdom    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 7cr !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Lightsabre %TAN%Or %TEAL%Azurewrath    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 7cm !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Leoric's Mithril Bane%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID 7bk !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%TAN%Warshrike    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID 7bk !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Warshrike    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID ama !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Titans Revenge    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID rng !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Darkglow    %SAGE%++%CORAL%++%ORANGE%++
 
@@ -3488,7 +3488,7 @@ ItemDisplay[UNI !ID 7st ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %
 ItemDisplay[UNI !ID 6cs ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Ondals Wisdom    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 7cr ETH]:%ORANGE%++%CORAL%++%SAGE%++  %DOT-0C%%WHITE%(e) %RED%Lightsabre %TAN%Or %TEAL%Azurewrath  %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 7cm ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Leoric's Mithril Bane%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID 7bk ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %TAN%Warshrike    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID 7bk ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Warshrike    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID rng ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Darkglow    %SAGE%++%CORAL%++%ORANGE%++
 
 ItemDisplay[UNI !ID 9s8]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Athena's Wrath%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
@@ -3523,6 +3523,7 @@ ItemDisplay[UNI !ID 7dg]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Wizardspike%PU
 ItemDisplay[UNI !ID 7o7]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Bonehew%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID 9ws]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Hand of Blessed Light%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID 7sc]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Heaven'sLight or the Redeemer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 7cs]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Shadow Killer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 
 //Unique Non Poppular
 ItemDisplay[UNI !ID 7ta]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Gimmershred%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+ 
@@ -3762,7 +3763,6 @@ ItemDisplay[UNI !ID 9yw]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %TAN%Carin Shard%PURPLE%[%
 ItemDisplay[UNI !ID 9gw]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %TAN%Blackhand Key%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID 9tk]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %TAN%Deathbit%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID 9ta]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %TAN%The Scalper%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 7cs]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Shadow Killer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 
 ItemDisplay[UNI !ID 7wb]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Jade Talon%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID bac]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Wolfhowl%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
