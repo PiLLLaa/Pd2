@@ -4788,11 +4788,11 @@ ItemDisplay[cm2f]:%MAP-0B%%PURPLE%++    %GOLD%H e %ORANGE%l l %LIGHT_GRAY%f i  %
 ItemDisplay[pvpp]:%MAP-0B%%PURPLE%++    %GOLD%D %ORANGE%u e %LIGHT_GRAY%l i  %SAGE%n g  %ORANGE%M  %SAGE%a %CORAL%n a %WHITE%* %GREEN%%QTY%    %PURPLE%++{%NL%%GOLD%Sold by PvP vendors for 1 gold%NL%%GOLD%Super Mana Potion equivalent for %RED%PvP arenas only%NL%}
 ItemDisplay[iwss]:%MAP-0B%%PURPLE%++    %GOLD%C a %ORANGE%t a %LIGHT_GRAY%l y %SAGE%s t  %ORANGE%S %SAGE%h a %CORAL%r d %WHITE%* %GREEN%%QTY%    %PURPLE%++{%NL%%GOLD%Guarantees a map event%NL%%GOLD% Corrupted Map : %GREEN%Map %WHITE%+ %RED%Shard %NL%}
 
-ItemDisplay[tes]:%MAP-0B%%PURPLE%++    %GOLD%S u %ORANGE%f f %WHITE%e r %ORANGE%%CORAL%i n %GOLD%g %RED%( A n d a )%WHITE%* %GREEN%%QTY%    %PURPLE%O
-ItemDisplay[ceh]:%MAP-0B%%PURPLE%++    %GOLD%H a %ORANGE%t r %WHITE%e d %GREEN%( M e p h i s t o )%WHITE%* %GREEN%%QTY%    %PURPLE%O
-ItemDisplay[bet]:%MAP-0B%%PURPLE%++    %GOLD%T e %ORANGE%r r %WHITE%o %ORANGE%%CORAL%r %PURPLE%( D i a b l o )%WHITE%* %GREEN%%QTY%    %PURPLE%O
-ItemDisplay[fed]:%MAP-0B%%PURPLE%++    %GOLD%D e %ORANGE%s t %WHITE%r u %ORANGE%%CORAL%c t %GOLD%i o n %BLUE%( B a a l )%WHITE%* %GREEN%%QTY%    %PURPLE%O
-ItemDisplay[toa]:%MAP-0B%%PURPLE%++    %GOLD%T o %ORANGE%k e %WHITE%n    %PURPLE%O
+ItemDisplay[tes]:%MAP-0B%%PURPLE%++    %GOLD%S u %ORANGE%f f %WHITE%e r %ORANGE%%CORAL%i n %GOLD%g %RED%( A n d a )%WHITE%* %GREEN%%QTY%    %PURPLE%++
+ItemDisplay[ceh]:%MAP-0B%%PURPLE%++    %GOLD%H a %ORANGE%t r %WHITE%e d %GREEN%( M e p h i s t o )%WHITE%* %GREEN%%QTY%    %PURPLE%++
+ItemDisplay[bet]:%MAP-0B%%PURPLE%++    %GOLD%T e %ORANGE%r r %WHITE%o %ORANGE%%CORAL%r %PURPLE%( D i a b l o )%WHITE%* %GREEN%%QTY%    %PURPLE%++
+ItemDisplay[fed]:%MAP-0B%%PURPLE%++    %GOLD%D e %ORANGE%s t %WHITE%r u %ORANGE%%CORAL%c t %GOLD%i o n %BLUE%( B a a l )%WHITE%* %GREEN%%QTY%    %PURPLE%++
+ItemDisplay[toa]:%MAP-0B%%PURPLE%++    %GOLD%T o %ORANGE%k e %WHITE%n    %PURPLE%++
 ItemDisplay[wss]:%MAP-62%%PURPLE%+%RED%+%ORANGE%+%WHITE%+   %ORANGE%S %WHITE%h %PURPLE%a %RED%r %YELLOW%d%WHITE%* %GREEN%%QTY%    %WHITE%+%ORANGE%+%RED%+%PURPLE%+{%NL%%GOLD%corrupts items%NL%}
 ItemDisplay[lbox]:%MAP-62%%TEAL%++++    %GOLD%P u %ORANGE%z z %GOLD%l e  %WHITE%B o %PURPLE%x%WHITE%* %GREEN%%QTY%    %TEAL%++++{%RED%For all items but, much valuable than piece%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items%NL%}
 ItemDisplay[lpp]:%MAP-62%%TEAL%++++    %GOLD%P u %ORANGE%z z %GOLD%l e  %WHITE%P i %PURPLE%e c %ORANGE%%CORAL%e%WHITE%* %GREEN%%QTY%    %TEAL%++++{%RED%For rare, craft items%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%(Non %TAN%uni/%GREEN%set%WHITE%) %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items (not uniques,sets) items%NL%}
