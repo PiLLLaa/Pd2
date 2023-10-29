@@ -4819,7 +4819,7 @@ ItemDisplay[upmp]:%MAP-0B%%GOLD%C a r t o g r a p h e r ' s %ORANGE%O r b%WHITE%
 ItemDisplay[fort]:%MAP-0B%%ORANGE%O r b o f %GOLD%F o r t i f i c a t i o n%WHITE%* %GREEN%%QTY%{%GOLD%Orb of Fortification  : 2x health, 2x exp,2x drop, 20% add damage %NL%}
 ItemDisplay[scrb]:%MAP-0B%%GOLD%H o r a d r i m %ORANGE%Scarab%WHITE%* %GREEN%%QTY%{%GOLD%Horadrim Scarab%GOLD%+%WHITE%T3 MAP%NL%%GOLD%Horadrim Scarab : turns t3 maps into dungeons %NL%}
 
-ItemDisplay[uba]:%MAP-0B%%GOLD%R e %ORANGE%l i %WHITE%c  o %ORANGE%%CORAL%f  t %TAN%h e %GOLD%A n %PURPLE%c i %ORANGE%e n %WHITE%t s{%NL%%GOLD%Relic of the Ancients : accesses Uber Ancients%NL%}
+ItemDisplay[uba]:%MAP-0B%%GOLD%R e %ORANGE%l i %WHITE%c  o %ORANGE%%CORAL%f  t %TAN%h e  %GOLD%A n %PURPLE%c i %ORANGE%e n %WHITE%t s{%NL%%GOLD%Relic of the Ancients : accesses Uber Ancients%NL%}
 ItemDisplay[ubaa]:%MAP-0B%%PURPLE%++ %GOLD%S i %ORANGE%g i %TAN%l  o %ORANGE%%CORAL%f  %BLUE%M a d a w c%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Sigil of Madawc : Uber Ancients ingredient, from T1 maps%NL%}
 ItemDisplay[ubab]:%MAP-0B%%PURPLE%++ %GOLD%S i %ORANGE%g i %TAN%l  o %ORANGE%%CORAL%f  %GREEN%T a l i c%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Sigil of Talic : Uber Ancients ingredient, from T2 maps%NL%}
 ItemDisplay[ubac]:%MAP-0B%%PURPLE%++ %GOLD%S i %ORANGE%g i %TAN%l  o %ORANGE%%CORAL%f  %RED%K o r l i c%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Sigil of Korlic : Uber Ancients ingredient, from T3 maps%NL%}
