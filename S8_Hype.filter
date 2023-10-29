@@ -1099,7 +1099,7 @@ ItemDisplay[scrb]: %MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      UBER                                                   //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[uba]:%MAP-0B%%GOLD%Re%ORANGE%li%WHITE%c o%ORANGE%f t%TAN%he%GOLD%An%PURPLE%ci%ORANGE%en%WHITE%ts{%NL%%GOLD%Relic of the Ancients : accesses Uber Ancients%NL%}
+ItemDisplay[uba]:%MAP-0B%%GOLD%Re%ORANGE%li%WHITE%c o%ORANGE%f t%TAN%he %GOLD%An%PURPLE%ci%ORANGE%en%WHITE%ts{%NL%%GOLD%Relic of the Ancients : accesses Uber Ancients%NL%}
 ItemDisplay[ubaa]:%MAP-0B%%PURPLE%O %GOLD%Si%ORANGE%gi%TAN%l o%ORANGE%f %BLUE%Madawc%WHITE%* %PURPLE%(%QTY%) %PURPLE%O{%NL%%GOLD%Sigil of Madawc : Uber Ancients ingredient, from T1 maps%NL%}
 ItemDisplay[ubab]:%MAP-0B%%PURPLE%O %GOLD%Si%ORANGE%gi%TAN%l o%ORANGE%f %GREEN%Talic%WHITE%* %PURPLE%(%QTY%) %PURPLE%O{%NL%%GOLD%Sigil of Talic : Uber Ancients ingredient, from T2 maps%NL%}
 ItemDisplay[ubac]:%MAP-0B%%PURPLE%O %GOLD%Si%ORANGE%gi%TAN%l o%ORANGE%f %RED%Korlic%WHITE%* %PURPLE%(%QTY%) %PURPLE%O{%NL%%GOLD%Sigil of Korlic : Uber Ancients ingredient, from T3 maps%NL%}
