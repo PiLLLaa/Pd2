@@ -5767,21 +5767,12 @@ ItemDisplay[7gw CRAFT (CLSK2=2 OR TABSK18>1 OR TABSK17>1 OR TABSK16>1)]:%ORANGE%
 ItemDisplay[(am5 OR ama OR amf) !ID !UNI !RW DIFF=2]: %NAME% %NL%%GRAY%[javelin]{%NAME%}
 ItemDisplay[(am5 OR ama OR amf) !ID !UNI !RW DIFF<2]: %NAME%{%NAME%}
 
-ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=6 IAS=30]:%SAGE%+6Jav %TEAL%30%Ias %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=6 IAS=20]:%SAGE%+6Jav %TEAL%20%Ias %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=6 IAS=10]:%SAGE%+6Jav %TEAL%10%Ias %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=5 IAS=30]:%SAGE%+5Jav %TEAL%30%Ias %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=5 IAS=20]:%SAGE%+5Jav %TEAL%20%Ias %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=5 IAS=10]:%SAGE%+5Jav %TEAL%10%Ias %NAME%{%NAME%}%CONTINUE%
 
-ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=4 CLSK0=2 IAS=30]:%SAGE%+4Jav %CORAL%+2Ama %TEAL%30%Ias %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=3 CLSK0=2 IAS=30]:%SAGE%+3Jav %CORAL%+2Ama %TEAL%30%Ias %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=6 IAS>0]:%SAGE%+6Jav %TEAL%%STAT68%%Ias %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=5 IAS>0]:%SAGE%+5Jav %TEAL%%STAT68%%Ias %NAME%{%NAME%}%CONTINUE%
 
-ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=4 CLSK0=2 IAS=20]:%SAGE%+4Jav %CORAL%+2Ama %TEAL%20%Ias %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=3 CLSK0=2 IAS=20]:%SAGE%+3Jav %CORAL%+2Ama %TEAL%20%Ias %NAME%{%NAME%}%CONTINUE%
-
-ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=4 CLSK0=2 IAS=10]:%SAGE%+4Jav %CORAL%+2Ama %TEAL%10%Ias %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=3 CLSK0=2 IAS=10]:%SAGE%+3Jav %CORAL%+2Ama %TEAL%10%Ias %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=4 CLSK0=2 IAS>0]:%SAGE%+4Jav %CORAL%+2Ama %TEAL%%STAT68%%Ias %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=3 CLSK0=2 IAS>0]:%SAGE%+3Jav %CORAL%+2Ama %TEAL%%STAT68%%Ias %NAME%{%NAME%}%CONTINUE%
 
 ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW !(IAS>0 OR TABSK2>2)]:%NAME%{%NAME%}%CONTINUE%
 
