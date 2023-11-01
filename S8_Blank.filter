@@ -6001,6 +6001,7 @@ ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK48>
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK63>2]:%NAME%%RED%+3Lm%PURPLE%* %CONTINUE%
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK369>2]:%NAME%%BLUE%+3Ib %CONTINUE%
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK53>2]:%NAME%%BLUE%+3Cl %CONTINUE%
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK65>2]:%NAME%%BLUE%+3Cm %CONTINUE%
 
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK58=2]:%NAME%%ORANGE%+2Es%PURPLE%* %CONTINUE%
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK60=2]:%NAME%%BLUE%+2Ca %CONTINUE%
@@ -6013,6 +6014,7 @@ ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK48=
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK63=2]:%NAME%%RED%+2Lm%PURPLE%* %CONTINUE%
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK369=2]:%NAME%%BLUE%+2Ib %CONTINUE%
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK53=2]:%NAME%%BLUE%+2Cl %CONTINUE%
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK65=2]:%NAME%%BLUE%+2Cm %CONTINUE%
 
 //CLAW
 ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) SK277>2]:%NAME%%ORANGE%+3Bs %CONTINUE%
