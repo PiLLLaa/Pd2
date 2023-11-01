@@ -177,3 +177,7 @@
     15. 10/27
       1) Filter bugs fixed
       2) Changed "drop expression of unique item" for Blank filter 
+----------------------------------------------------------------------------------------------------------------------
+    16. 11/01
+      1) Filter bugs fixed
+         - PURPLE, GRAY, BLANK, HYPE FILTER had modified base item drop functin.
