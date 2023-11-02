@@ -5535,8 +5535,9 @@ ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=5 IAS>0]:%GREEN%+5Jav %PURPLE
 
 ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=4 CLSK0=2 IAS>0]:%GREEN%+4Jav %RED%+2Ama %PURPLE%%STAT68%%Ias %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=3 CLSK0=2 IAS>0]:%GREEN%+3Jav %RED%+2Ama %PURPLE%%STAT68%%Ias %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW TABSK2=2 CLSK0=2 IAS>0]:%GREEN%+2Jav %RED%+2Ama %PURPLE%%STAT68%%Ias %NAME%{%NAME%}%CONTINUE%
 
-ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW !(IAS>0 OR TABSK2>2)]:%NAME%{%NAME%}%CONTINUE%
+ItemDisplay[(am5 OR ama OR amf) ID !UNI !RW !(IAS>0 OR TABSK2>1)]:%NAME%{%NAME%}%CONTINUE%
 
 //+3 JAVEL/BOW Magical/RARE Gloves
 ItemDisplay[EQ4 MAG !ID ILVL<61]: %NAME%%NL%%ORANGE%{%NAME%}
