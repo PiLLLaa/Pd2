@@ -4302,38 +4302,38 @@ ItemDisplay[(ob5 OR oba OR obf) !RW NMAG (SOCK>1 OR SOCK=0) SK62=1]:%NAME% %RED%
 
 
 //WAND WHITE
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK84>2 (SOCK=0 OR SOCK>1)]:%NAME% %ORANGE%+3 Bs %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK92>2 (SOCK=0 OR SOCK>1)]:%NAME% %RED%+3 Pv %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK83>2 (SOCK=0 OR SOCK>1)]:%NAME% %PURPLE%+3 De %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK74>2 (SOCK=0 OR SOCK>1)]:%NAME% %WHITE%+3 Ce %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK67>2 (SOCK=0 OR SOCK>1)]:%NAME% %GREEN%+3 Tt %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK69>2 (SOCK=0 OR SOCK>1)]:%NAME% %GREEN%+3 Sma%PURPLE%* %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK70>2 (SOCK=0 OR SOCK>1)]:%NAME% %BLUE%+3 Rs%PURPLE%* %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK80>2 (SOCK=0 OR SOCK>1)]:%NAME% %YELLOW%+3 Rm%PURPLE%* %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK89>2 (SOCK=0 OR SOCK>1)]:%NAME% %DARK_GREEN%+3 Ra %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK68>2 (SOCK=0 OR SOCK>1)]:%NAME% %WHITE%+3 Ba %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK84>2 (SOCK=0 OR SOCK>1)]:%NAME% %ORANGE%+3 Bs %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK92>2 (SOCK=0 OR SOCK>1)]:%NAME% %RED%+3 Pv %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK83>2 (SOCK=0 OR SOCK>1)]:%NAME% %PURPLE%+3 De %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK74>2 (SOCK=0 OR SOCK>1)]:%NAME% %WHITE%+3 Ce %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK67>2 (SOCK=0 OR SOCK>1)]:%NAME% %GREEN%+3 Tt %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK69>2 (SOCK=0 OR SOCK>1)]:%NAME% %GREEN%+3 Sma%PURPLE%* %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK70>2 (SOCK=0 OR SOCK>1)]:%NAME% %BLUE%+3 Rs%PURPLE%* %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK80>2 (SOCK=0 OR SOCK>1)]:%NAME% %YELLOW%+3 Rm%PURPLE%* %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK89>2 (SOCK=0 OR SOCK>1)]:%NAME% %DARK_GREEN%+3 Ra %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK68>2 (SOCK=0 OR SOCK>1)]:%NAME% %WHITE%+3 Ba %CONTINUE%
 
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK84=2 (SOCK=0 OR SOCK>1)]:%NAME% %ORANGE%+2 Bs %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK92=2 (SOCK=0 OR SOCK>1)]:%NAME% %RED%+2 Pv %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK83=2 (SOCK=0 OR SOCK>1)]:%NAME% %PURPLE%+2 De %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK74=2 (SOCK=0 OR SOCK>1)]:%NAME% %WHITE%+2 Ce %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK67=2 (SOCK=0 OR SOCK>1)]:%NAME% %GREEN%+2 Tt %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK69=2 (SOCK=0 OR SOCK>1)]:%NAME% %GREEN%+2 Sma %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK70=2 (SOCK=0 OR SOCK>1)]:%NAME% %BLUE%+2 Rs %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK80=2 (SOCK=0 OR SOCK>1)]:%NAME% %YELLOW%+2 Rm %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK89=2 (SOCK=0 OR SOCK>1)]:%NAME% %DARK_GREEN%+2 Ra %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK68=2 (SOCK=0 OR SOCK>1)]:%NAME% %WHITE%+2 Ba %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK84=2 (SOCK=0 OR SOCK>1)]:%NAME% %ORANGE%+2 Bs %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK92=2 (SOCK=0 OR SOCK>1)]:%NAME% %RED%+2 Pv %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK83=2 (SOCK=0 OR SOCK>1)]:%NAME% %PURPLE%+2 De %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK74=2 (SOCK=0 OR SOCK>1)]:%NAME% %WHITE%+2 Ce %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK67=2 (SOCK=0 OR SOCK>1)]:%NAME% %GREEN%+2 Tt %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK69=2 (SOCK=0 OR SOCK>1)]:%NAME% %GREEN%+2 Sma %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK70=2 (SOCK=0 OR SOCK>1)]:%NAME% %BLUE%+2 Rs %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK80=2 (SOCK=0 OR SOCK>1)]:%NAME% %YELLOW%+2 Rm %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK89=2 (SOCK=0 OR SOCK>1)]:%NAME% %DARK_GREEN%+2 Ra %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK68=2 (SOCK=0 OR SOCK>1)]:%NAME% %WHITE%+2 Ba %CONTINUE%
 
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK84=1 (SOCK=0 OR SOCK>1)]:%NAME% %ORANGE%+1 Bs %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK92=1 (SOCK=0 OR SOCK>1)]:%NAME% %RED%+1 Pn %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK83=1 (SOCK=0 OR SOCK>1)]:%NAME% %PURPLE%+1 De %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK74=1 (SOCK=0 OR SOCK>1)]:%NAME% %WHITE%+1 Ce %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK67=1 (SOCK=0 OR SOCK>1)]:%NAME% %GREEN%+1 Tt %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK69=1 (SOCK=0 OR SOCK>1)]:%NAME% %GREEN%+1 Sma %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK70=1 (SOCK=0 OR SOCK>1)]:%NAME% %BLUE%+1 Rs %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK80=1 (SOCK=0 OR SOCK>1)]:%NAME% %YELLOW%+1 Rm %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK89=1 (SOCK=0 OR SOCK>1)]:%NAME% %DARK_GREEN%+1 Ra %CONTINUE%
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG =SK68=1 (SOCK=0 OR SOCK>1)]:%NAME% %WHITE%+1 Ba %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK84=1 (SOCK=0 OR SOCK>1)]:%NAME% %ORANGE%+1 Bs %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK92=1 (SOCK=0 OR SOCK>1)]:%NAME% %RED%+1 Pn %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK83=1 (SOCK=0 OR SOCK>1)]:%NAME% %PURPLE%+1 De %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK74=1 (SOCK=0 OR SOCK>1)]:%NAME% %WHITE%+1 Ce %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK67=1 (SOCK=0 OR SOCK>1)]:%NAME% %GREEN%+1 Tt %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK69=1 (SOCK=0 OR SOCK>1)]:%NAME% %GREEN%+1 Sma %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK70=1 (SOCK=0 OR SOCK>1)]:%NAME% %BLUE%+1 Rs %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK80=1 (SOCK=0 OR SOCK>1)]:%NAME% %YELLOW%+1 Rm %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK89=1 (SOCK=0 OR SOCK>1)]:%NAME% %DARK_GREEN%+1 Ra %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK68=1 (SOCK=0 OR SOCK>1)]:%NAME% %WHITE%+1 Ba %CONTINUE%
 
 //COMMENTS
 ItemDisplay[EQ1 NMAG !RW !SUP SOCK=0]:%NAME%{%NL%%YELLOW%(Helmet Random Soc:%GOLD%Ral%WHITE%+%GOLD%Thul%WHITE%+%ORANGE%P%WHITE%Sapphire%BLUE%@%YELLOW%)}%CONTINUE%
