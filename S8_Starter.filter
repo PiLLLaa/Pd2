@@ -3,7 +3,7 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      Filter Level                                           //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplayFilterName[]: Stardard //FILTLVL>0
+ItemDisplayFilterName[]: Standard //FILTLVL>0
 ItemDisplayFilterName[]: No Magic Bolt&Arrow //FILTLVL>1
 ItemDisplayFilterName[]: No ThrowingPotion, Ring(M) //FILTLVL>2
 ItemDisplayFilterName[]: ++No Javel(M),CraftArmor,NormalSet+Glove(M)+Wand(M)+HP/MP/R35 //FILTLVL>3
