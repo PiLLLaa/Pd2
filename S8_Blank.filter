@@ -1,4 +1,4 @@
-ItemDisplayFilterName[]:Stardard //FILTLVL>0
+ItemDisplayFilterName[]:Standard //FILTLVL>0
 ItemDisplayFilterName[]: No ThrowingPotion,Ring(Magic) //FILTLVL>1
 ItemDisplayFilterName[]: +No Javel(M) //FILTLVL>2
 ItemDisplayFilterName[]: ++No CraftArmor+Glove(M)+Wand(M)+HP/MP/R35 //FILTLVL>3
