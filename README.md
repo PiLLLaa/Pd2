@@ -181,3 +181,8 @@
     16. 11/01
       1) Filter bugs fixed
          - PURPLE, GRAY, BLANK, HYPE FILTER had modified base item drop functin.
+----------------------------------------------------------------------------------------------------------------------
+    17. 11/04
+      1) Filter Level Change
+         - Craft Base for Dru pelt, bar helmet and R32 potion be disabled when select Filter level 5 (Previous Level4)
+    
