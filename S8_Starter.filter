@@ -6,8 +6,8 @@
 ItemDisplayFilterName[]: Standard //FILTLVL>0
 ItemDisplayFilterName[]: No Magic Bolt&Arrow //FILTLVL>1
 ItemDisplayFilterName[]: No ThrowingPotion, Ring(M) //FILTLVL>2
-ItemDisplayFilterName[]: ++No Javel(M),CraftArmor,NormalSet+Glove(M)+Wand(M)+HP/MP/R35 //FILTLVL>3
-ItemDisplayFilterName[]: +++No Amulet+Claw(M)+NecHead(M)+Circlet(M) //FILTLVL>4
+ItemDisplayFilterName[]: ++No Javel(M),CraftArmor,NormalSet+Glove(M)+Wand(M)+HP/MP //FILTLVL>3
+ItemDisplayFilterName[]: +++No Amulet+Claw(M)+NecHead(M)+Circlet(M)+ClassHelmet(M)+R35 //FILTLVL>4
 ItemDisplayFilterName[]: ++++No Bolt(Rare) //FILTLVL>5
 ItemDisplayFilterName[]: +++++No Arrow(Rare)+Only GG base Item //FILTLVL>6
 ItemDisplayFilterName[]: ++++++No CraftWeapon(OnlyActiveETH+Bows(GMB)),AllSet(rin+amu) //FILTLVL>7
@@ -20,7 +20,8 @@ ItemDisplay[MAG rin !ID FILTLVL>2]:
 //ItemDisplay[SET rin !ID FILTLVL=4]:
 //ItemDisplay[MAG cm2 !ID FILTLVL>5]:
 ItemDisplay[MAG (am5 OR ama OR amf OR EQ4 OR WP12) !ID FILTLVL>3]:
-ItemDisplay[(hp5 OR mp5 OR rvs OR yps) FILTLVL>3]:
+ItemDisplay[(hp5 OR mp5 OR yps) FILTLVL>3]:
+ItemDisplay[(rvs) FILTLVL>4]:
 ItemDisplay[(EQ7 OR CL4 OR CL5 OR amu) MAG !ID FILTLVL>4]:
 ItemDisplay[RARE (cqv) !ID FILTLVL>5]: 
 ItemDisplay[RARE (aqv) !ID FILTLVL>6]: 
@@ -3523,8 +3524,8 @@ ItemDisplay[SET !ID (WEAPON OR ARMOR OR rin)]: %GREEN%**** %GREEN%%NAME% %GREEN%
 
 ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
 ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
-ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
-ItemDisplay[(dr8 OR dra OR drf OR drd OR drb) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
+ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) (!ETH OR ETH) MAG !ID FILTLVL>4]: 
+ItemDisplay[(dr8 OR dra OR drf OR drd OR drb) (!ETH OR ETH) MAG !ID FILTLVL>4]: 
 ItemDisplay[(xtb OR utb OR xmb OR umb OR xlb OR ulb OR xhb OR uhb) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
 ItemDisplay[(zmb OR umc OR ztb OR utc OR zvb OR uvc OR zlb OR ulc) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
 ItemDisplay[(xpk OR upk OR xts OR uts OR xml OR uml OR xit OR uit OR xrg OR urg OR xow OR uow) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
