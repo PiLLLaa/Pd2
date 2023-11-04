@@ -1,8 +1,8 @@
 ItemDisplayFilterName[]:Standard //FILTLVL>0
 ItemDisplayFilterName[]: No ThrowingPotion,Ring(Magic) //FILTLVL>1
 ItemDisplayFilterName[]: +No Javel(M) //FILTLVL>2
-ItemDisplayFilterName[]: ++No CraftArmor+Glove(M)+Wand(M)+HP/MP/R35 //FILTLVL>3
-ItemDisplayFilterName[]: +++No Amulet+Claw+NecHead+Circlet(M)  //FILTLVL>4
+ItemDisplayFilterName[]: ++No CraftArmor+Glove(M)+Wand(M)+HP/MP //FILTLVL>3
+ItemDisplayFilterName[]: +++No Amulet+Claw+NecHead+Circlet(M)+ClassHelmet(M)+R35  //FILTLVL>4
 ItemDisplayFilterName[]: ++++No Bolt(Rare)+Normal Set //FILTLVL>5
 ItemDisplayFilterName[]: +++++No Arrow(Rare)+Only GG Base Activation //FILTLVL>6
 ItemDisplayFilterName[]: ++++++No CraftWeapon(Only Active ETH+GMB)  //FILTLVL>7
@@ -11,13 +11,14 @@ ItemDisplay[(tpfl OR tpgl OR tpcl OR tpll) FILTLVL>1]:
 ItemDisplay[MAG rin FILTLVL>1]:
 ItemDisplay[MAG (am5 OR ama OR amf) !ID FILTLVL>2]:
 
-ItemDisplay[(hp5 OR mp5 OR rvs OR yps) FILTLVL>3]:
+ItemDisplay[(hp5 OR mp5 OR yps) FILTLVL>3]:
+ItemDisplay[(rvs) FILTLVL>4]:
 ItemDisplay[(EQ4 OR WP12) MAG !ID FILTLVL>3]:
 
 ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
 ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
-ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
-ItemDisplay[(dr8 OR dra OR drf OR drd OR drb) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
+ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) (!ETH OR ETH) MAG !ID FILTLVL>4]: 
+ItemDisplay[(dr8 OR dra OR drf OR drd OR drb) (!ETH OR ETH) MAG !ID FILTLVL>4]: 
 ItemDisplay[(xtb OR utb OR xmb OR umb OR xlb OR ulb OR xhb OR uhb) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
 ItemDisplay[(zmb OR umc OR ztb OR utc OR zvb OR uvc OR zlb OR ulc) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
 ItemDisplay[(xpk OR upk OR xts OR uts OR xml OR uml OR xit OR uit OR xrg OR urg OR xow OR uow) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
