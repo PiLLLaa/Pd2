@@ -2454,6 +2454,12 @@ ItemDisplay[(aqv OR cqv) RARE ID]:%NAME%{%GRAY%And...Skill+ManaLeech+MagicFind%N
 //ItemDisplay[RARE (EQ1) ETH !ID]:%PURPLE%eth %YELLOW%%NAME%: Helm%CONTINUE%
 //ItemDisplay[RARE (CHEST) ETH !ID]:%PURPLE%eth %YELLOW%%NAME%: Chest%CONTINUE%
 //ItemDisplay[RARE (EQ3) ETH !ID]:%PURPLE%eth %YELLOW%%NAME%: Shield%CONTINUE%
+
+ItemDisplay[RARE (mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm OR flb OR 9fb OR 7fb) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %PURPLE%ETH %YELLOW%%NAME%  %GREEN%*%SAGE%*
+ItemDisplay[RARE (gsd OR 9gd OR 7gd OR glv OR 9gl OR 7gl OR pil OR 9pi OR 7pi OR tsp OR 9ts OR 7ts) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %PURPLE%ETH %YELLOW%%NAME%  %GREEN%*%SAGE%*
+ItemDisplay[RARE (am5 OR ama OR amf) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %PURPLE%ETH %YELLOW%%NAME%  %GREEN%*%SAGE%*
+ItemDisplay[RARE (CL5) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %PURPLE%ETH %YELLOW%%NAME%  %GREEN%*%SAGE%*
+
 ItemDisplay[RARE (EQ4) !ETH !ID]:%DOT-75%%GREEN%*%TEAL%*  %YELLOW%%NAME%  %GREEN%*%TEAL%*
 ItemDisplay[RARE (EQ5) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %YELLOW%%NAME%  %GREEN%*%SAGE%*
 //ItemDisplay[RARE (EQ6) ETH !ID]:%PURPLE%eth %YELLOW%%NAME%: Belt%CONTINUE%
