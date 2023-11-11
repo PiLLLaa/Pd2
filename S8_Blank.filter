@@ -3832,6 +3832,10 @@ ItemDisplay[MAG cm3 !ID]:%DOT-97%%SAGE%+%GREEN%+%WHITE%+%LIGHT_GRAY%+    %NAME% 
 
 ItemDisplay[MAG jew !ID]:%DOT-6F%%GREEN%+%PURPLE%+%CORAL%+%ORANGE%+    %NAME% %GRAY%[L%ILVL%]    %ORANGE%+%CORAL%+%PURPLE%+%GREEN%+
 ItemDisplay[RARE EQ7 !ID]:%DOT-6F%%GREEN%++%TEAL%++    %NAME%    %TEAL%++%GREEN%++
+ItemDisplay[RARE (mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm OR flb OR 9fb OR 7fb) ETH !ID]:%DOT-6F%%GREEN%+%SAGE%+%BLUE%+%PURPLE%+    %NAME%    %PURPLE%+%BLUE%+%SAGE%+%GREEN%+
+ItemDisplay[RARE (gsd OR 9gd OR 7gd OR glv OR 9gl OR 7gl OR pil OR 9pi OR 7pi OR tsp OR 9ts OR 7ts) ETH !ID]:%DOT-6F%%GREEN%+%SAGE%+%BLUE%+%PURPLE%+    %NAME%    %PURPLE%+%BLUE%+%SAGE%+%GREEN%+
+ItemDisplay[RARE (am5 OR ama OR amf) ETH !ID]:%DOT-6F%%GREEN%+%SAGE%+%BLUE%+%PURPLE%+    %NAME%    %PURPLE%+%BLUE%+%SAGE%+%GREEN%+
+ItemDisplay[RARE (CL5) ETH !ID]:%DOT-6F%%GREEN%+%SAGE%+%BLUE%+%PURPLE%+    %NAME%    %PURPLE%+%BLUE%+%SAGE%+%GREEN%+
 ItemDisplay[RARE (aqv) !ID]:%DOT-6F%%GREEN%+%SAGE%+%BLUE%+%PURPLE%+    %NAME%    %PURPLE%+%BLUE%+%SAGE%+%GREEN%+
 ItemDisplay[RARE (cqv) !ID]:%GREEN%+%SAGE%+    %NAME%    %SAGE%+%GREEN%+
 //ItemDisplay[RARE (rin OR amu) !ID]:%DOT-6F%%GREEN%OO    %NAME%    %GREEN%OO
