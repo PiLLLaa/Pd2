@@ -5384,7 +5384,7 @@ ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW (SOCK=0 OR SOCK=3)
 
 //6 soc weapon bases
 ItemDisplay[(crs OR mpi OR wax OR hal OR spt OR lbb) !RW NMAG SOCK=6 FILTLVL>6]:
-ItemDisplay[(crs OR mpi OR wax OR hal OR spt OR lbb) !RW NMAG SOCK=6]:%GRAY%%NAME%{%WHITE%*******      %TAN%6Soc Base Item      %WHITE%*******%NL%%NAME%}
+ItemDisplay[(crs OR mpi OR wax OR hal OR spt OR lbb) !RW NMAG SOCK=6]:%GRAY%%NAME% %PURPLE%[%ORANGE%6Soc %SAGE%Base%PURPLE%]{%WHITE%*******      %TAN%6Soc Base Item      %WHITE%*******%NL%%NAME%}
 
 //imbue
 ItemDisplay[ci3 !ETH NMAG (SOCK=0 OR SOCK=3) FILTLVL>6]:
