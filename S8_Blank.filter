@@ -1195,7 +1195,7 @@ ItemDisplay[(UNI) xld STR>9 STAT34>0 STAT36>0 ID]:%GOLD%Sharktooth Armor%NL%%GOL
 ItemDisplay[(UNI) uld STR>9 STAT34>0 STAT36>0 ID]:%GOLD%Kraken Shell%NL%%GOLD%R o %TAN%c k %WHITE%f l %TAN%e e %GOLD%c e%CONTINUE%
 ItemDisplay[(UNI) xld STAT141>24 STAT135>39 ID]:%GOLD%Sharktooth Armor%NL%%GOLD%T o %TAN%o t %WHITE%h r %TAN%o w%CONTINUE%
 ItemDisplay[(UNI) uld STAT141>24 STAT135>39 ID]:%GOLD%Kraken Shell%NL%%GOLD%T o %TAN%o t %WHITE%h r %TAN%o w%CONTINUE%
-ItemDisplay[(UNI) uld STR>39 STAT152>0 STAT36>19 ID]:%TAN%%CORAL%Kraken Shell%NL%%ORANGE%L e %GOLD%v i %TAN%a t %GOLD%h a %ORANGE%n%CONTINUE%
+ItemDisplay[(UNI) uld STR>39 STAT152>0 STAT36>14 ID]:%TAN%%CORAL%Kraken Shell%NL%%ORANGE%L e %GOLD%v i %TAN%a t %GOLD%h a %ORANGE%n%CONTINUE%
 
 ItemDisplay[(UNI) gth AR>99 STAT112>0 ID]:%GOLD%Gothic Plate%NL%%GOLD%R a %TAN%t t %WHITE%l e %TAN%c a %GOLD%g e%CONTINUE%
 ItemDisplay[(UNI) xth AR>99 STAT112>0 ID]:%GOLD%Embossed Plate%NL%%GOLD%R a %TAN%t t %WHITE%l e %TAN%c a %GOLD%g e%CONTINUE%
