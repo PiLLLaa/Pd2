@@ -3940,8 +3940,8 @@ ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK62>
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK64>2]:%NAME% %ORANGE%+3 Fob%CONTINUE%
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK48>2]:%NAME% %WHITE%+3 Nova%PURPLE%*%CONTINUE%
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK63>2]:%NAME% %RED%+3 LightM.%CONTINUE%
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK369>2]:%NAME% %BLUE%+3 Icb%CONTINUE%
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK53>2]:%NAME% %SAGE%+3 Cli%CONTINUE%
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK369>2]:%NAME% %BLUE%+3 Icb%PURPLE%*%CONTINUE%
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK53>2]:%NAME% %SAGE%+3 Cli%PURPLE%*%CONTINUE%
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK65>2]:%NAME% %BLUE%+3 Cm%CONTINUE%
 
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK>3 OR SOCK=0) SK58=2]:%NAME% %ORANGE%+2 Es%PURPLE%*%CONTINUE%
