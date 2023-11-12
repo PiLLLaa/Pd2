@@ -185,4 +185,9 @@
     17. 11/04
       1) Filter Level Change
          - Craft Base for Dru pelt, bar helmet and R32 potion be disabled when select Filter level 5 (Previous Level4)
+----------------------------------------------------------------------------------------------------------------------
+    18. 11/11
+      1) Etherial Rare drop message on for Katar, Maul, throwing weapons.
+      2) Armor and throwing weapon has enhanced damage marking for Blank filter
+    
     
