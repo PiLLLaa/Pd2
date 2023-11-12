@@ -7270,7 +7270,7 @@ ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW (SOCK=0 OR SOCK=3)
 
 //6 soc weapon bases
 ItemDisplay[(crs OR mpi OR wax OR hal OR spt OR lbb) !RW NMAG SOCK=6 FILTLVL>6]:
-ItemDisplay[(crs OR mpi OR wax OR hal OR spt OR lbb) !RW NMAG SOCK=6]:%GRAY%%NAME%%ORANGE%6Soc Base{%WHITE%++++++      %TAN%6 S o c  B a s e  I t e m      %WHITE%++++++%NL%%NAME%}
+ItemDisplay[(crs OR mpi OR wax OR hal OR spt OR lbb) !RW NMAG SOCK=6]:%GRAY%%NAME% %PURPLE%[%ORANGE%6Soc %SAGE%Base%PURPLE%]{%WHITE%++++++      %TAN%6 S o c  B a s e  I t e m      %WHITE%++++++%NL%%NAME%}
 
 //VENDING ITEM       
 ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk OR 7dg OR 7di OR 9tk OR 9ta OR 9bk OR tkf OR tax OR bkf) !RW !ob5 !oba !obf PRICE>30000 DIFF>1]:%NAME%%ORANGE%[$%PRICE%]{%NL%%WHITE%*****        %RED%Sell this item for Money        %WHITE%*****%NL%%NAME%}
