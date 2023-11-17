@@ -189,5 +189,9 @@
     18. 11/11
       1) Etherial Rare drop message on for Katar, Maul, throwing weapons.
       2) Armor and throwing weapon has enhanced damage marking for Blank filter
-    
+----------------------------------------------------------------------------------------------------------------------
+    19. 11/17
+      1) Armor and throwing weapon has enhanced damage marking for All filters
+      2) Magic Javeline filter level be up from 3 to 4
+        
     
