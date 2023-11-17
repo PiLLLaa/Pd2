@@ -192,5 +192,6 @@
 ----------------------------------------------------------------------------------------------------------------------
     19. 11/17
       1) Armor and throwing weapon has enhanced damage marking for All filters
+      2) Magic Javeline filter level be up from 3 to 4
         
     
