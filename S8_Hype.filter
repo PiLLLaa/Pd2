@@ -268,7 +268,7 @@ ItemDisplay[key CLVL<30]:%WHITE%[%GRAY%Key%WHITE%]
 ItemDisplay[key CLVL>29]:
 ItemDisplay[wms CLVL<20]:%WHITE%[Tha]
 ItemDisplay[wms CLVL>19]:
-ItemDisplay[yps]:Anti%PURPLE%*
+ItemDisplay[yps]:%WHITE%[Anti%WHITE%]
 ItemDisplay[gpm CLVL<20]:%WHITE%[%GREEN%Gas2%WHITE%]
 ItemDisplay[gpm CLVL>19]:
 ItemDisplay[opm CLVL<20]:%WHITE%[%ORANGE%Oil2%WHITE%]
