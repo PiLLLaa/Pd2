@@ -6,8 +6,8 @@
 ItemDisplayFilterName[]: Standard //FILTLVL>0 
 ItemDisplayFilterName[]: Add Magic Bolt&Arrow(Blocked) //FILTLVL>1
 ItemDisplayFilterName[]: No ThrowingPotion, Ring(M) //FILTLVL>2
-ItemDisplayFilterName[]: ++No Javel(M),CraftArmor,NormalSet+Glove(M)+Wand(M)+HP/MP //FILTLVL>3
-ItemDisplayFilterName[]: +++No Amulet+Claw(M)+NecHead(M)+Circlet(M)+ClassHelmet(M)+R35 //FILTLVL>4
+ItemDisplayFilterName[]: ++No CraftArmor,NormalSet+Glove(M)+Wand(M)+HP/MP //FILTLVL>3
+ItemDisplayFilterName[]: +++No Amulet+Claw(M)+NecHead(M)+Circlet(M)+ClassHelmet(M)+Javel(M)+R35 //FILTLVL>4
 ItemDisplayFilterName[]: ++++No Bolt(Rare) //FILTLVL>5
 ItemDisplayFilterName[]: +++++No Arrow(Rare)+Only GG base Item //FILTLVL>6
 ItemDisplayFilterName[]: ++++++No CraftWeapon(OnlyActiveETH+Bows(GMB)),AllSet(rin+amu) //FILTLVL>7
@@ -18,10 +18,10 @@ ItemDisplay[(tpfl OR tpgl OR tpcl OR tpll) FILTLVL>2]:
 ItemDisplay[MAG rin !ID FILTLVL>2]: 
 //ItemDisplay[SET rin !ID FILTLVL=4]:
 //ItemDisplay[MAG cm2 !ID FILTLVL>5]:
-ItemDisplay[MAG (am5 OR ama OR amf OR EQ4 OR WP12) !ID FILTLVL>3]:
+ItemDisplay[MAG (EQ4 OR WP12) !ID FILTLVL>3]:
 ItemDisplay[(hp5 OR mp5 OR yps) FILTLVL>3]:
 ItemDisplay[(rvs) FILTLVL>4]:
-ItemDisplay[(EQ7 OR CL4 OR CL5 OR amu) MAG !ID FILTLVL>4]:
+ItemDisplay[(EQ7 OR CL4 OR CL5 OR amu OR am5 OR ama OR amf) MAG !ID FILTLVL>4]:
 ItemDisplay[RARE (cqv) !ID FILTLVL>5]: 
 ItemDisplay[RARE (aqv) !ID FILTLVL>6]: 
 
