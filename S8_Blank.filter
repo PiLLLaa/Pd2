@@ -8097,7 +8097,9 @@ ItemDisplay[RARE ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7) EXC (!ETH O
 ItemDisplay[RARE ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7) ELT (!ETH OR ETH)]:%NAME%{%TEAL%+ %CORAL%Elite %PURPLE%+}%CONTINUE%
 
 ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) WEAPON NORM (!ETH OR ETH)]:%NAME%{%TEAL%+ %DARK_GREEN%Normal %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ort %WHITE%and %ORANGE%Amn %WHITE%and %SAGE%P %WHITE%Sapphire%BLUE%@ %PURPLE%++}%CONTINUE%
-ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) WEAPON EXC (!ETH OR ETH)]:%NAME%{%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Fal %WHITE%and %ORANGE%Um %WHITE%and %SAGE%P %WHITE%Sapphire%BLUE%@ %PURPLE%++}%CONTINUE%
+ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) !CL5 WEAPON EXC (!ETH OR ETH)]:%NAME%{%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Fal %WHITE%and %ORANGE%Um %WHITE%and %SAGE%P %WHITE%Sapphire%BLUE%@ %PURPLE%++}%CONTINUE%
+ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) CL5 EXC (!ETH OR ETH) !STAT360>0]:%NAME%{%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Fal %WHITE%and %ORANGE%Um %WHITE%and %SAGE%P %WHITE%Sapphire%BLUE%@ %PURPLE%++}%CONTINUE%
+ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) CL5 EXC (!ETH OR ETH) STAT360>0]:%NAME%{%TEAL%+ %ORANGE%Exceptional %PURPLE%+%LIGHT_GRAY%Up:%GOLD%Fal%WHITE%+%ORANGE%Um%WHITE%+%SAGE%P%WHITE%Sapphire}%CONTINUE%
 ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) WEAPON ELT (!ETH OR ETH)]:%NAME%{%TEAL%+ %CORAL%Elite %PURPLE%+}%CONTINUE%
 
 ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) (ci0 OR ci1) (!ETH OR ETH)]:%NAME%{%NL%%RED%(Upgrade Circlet,Coronet before Corruption)}%CONTINUE%
@@ -8214,7 +8216,8 @@ ItemDisplay[(WEAPON OR ARMOR OR cqv OR aqv OR rin OR amu OR ram) ID (MAG OR RARE
 ItemDisplay[(WEAPON OR ARMOR OR cqv OR aqv OR rin OR amu OR ram) ID (CRAFT) STAT360=2]:%NAME%{%PURPLE%[%YELLOW%ED %TEAL%Corrupted%PURPLE%]%NL%%NAME%}%CONTINUE%
 ItemDisplay[(WEAPON OR ARMOR OR cqv OR aqv OR rin OR amu OR ram) ID (CRAFT) STAT360=3]:%NAME%{%PURPLE%[%YELLOW%Attack Rating %TEAL%Corrupted%PURPLE%]%NL%%NAME%}%CONTINUE%
 ItemDisplay[(WEAPON OR ARMOR OR cqv OR aqv OR rin OR amu OR ram) ID (CRAFT) STAT360=4]:%NAME%{%PURPLE%[%YELLOW%Life Stolen per Hit %TEAL%Corrupted%PURPLE%]%NL%%NAME%}%CONTINUE%
-ItemDisplay[(WEAPON OR ARMOR OR cqv OR aqv OR rin OR amu OR ram) ID (CRAFT) STAT360=5]:%NAME%{%PURPLE%[%YELLOW%Attack Rating+%ORANGE%Enhanced Damage(Demon) %TEAL%Corrupted%PURPLE%]%NL%%NAME%}%CONTINUE%
+ItemDisplay[(WEAPON OR ARMOR OR cqv OR aqv OR rin OR amu OR ram) !CL5 ID (CRAFT) STAT360=5]:%NAME%{%PURPLE%[%YELLOW%Attack Rating+%ORANGE%Enhanced Damage(Demon) %TEAL%Corrupted%PURPLE%]%NL%%NAME%}%CONTINUE%
+ItemDisplay[(CL5) ID (CRAFT) STAT360=5]:%NAME%{%PURPLE%[%YELLOW%AR+%ORANGE%ED(De) %TEAL%C%PURPLE%]%NL%%NAME%}%CONTINUE%
 ItemDisplay[(WEAPON OR ARMOR OR cqv OR aqv OR rin OR amu OR ram) ID (CRAFT) STAT360=6]:%NAME%{%PURPLE%[%YELLOW%Reduced Requirements %TEAL%Corrupted%PURPLE%]%NL%%NAME%}%CONTINUE%
 ItemDisplay[(WEAPON OR ARMOR OR cqv OR aqv OR rin OR amu OR ram) ID (CRAFT) STAT360=7]:%NAME%{%PURPLE%[%YELLOW%Better Chance of Getting Magic Items %TEAL%Corrupted%PURPLE%]%NL%%NAME%}%CONTINUE%
 ItemDisplay[(WEAPON OR ARMOR OR cqv OR aqv OR rin OR amu OR ram) ID (CRAFT) STAT360=8]:%NAME%{%PURPLE%[%YELLOW%Life after each kill %TEAL%Corrupted%PURPLE%]%NL%%NAME%}%CONTINUE%
