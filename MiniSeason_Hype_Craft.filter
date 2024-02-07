@@ -272,12 +272,12 @@ ItemDisplay[NMAG]:%GRAY%%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[MAG]:%BLUE%%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[RARE WEAPON]:%YELLOW%%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[RARE ARMOR]:%GREEN%%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[RARE rin]:%PURPLE%%NAME%{%NAME%}%CONTINUE%
+ItemDisplay[RARE rin]:%SAGE%%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[RARE amu]:%RED%%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[CRAFT WEAPON]:%ORANGE%%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[CRAFT ARMOR]:%CORAL%%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[CRAFT (rin)]:%SAGE%%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[CRAFT (amu)]:%TEAL%%NAME%{%NAME%}%CONTINUE%
+ItemDisplay[CRAFT rin]:%PURPLE%%NAME%{%NAME%}%CONTINUE%
+ItemDisplay[CRAFT amu]:%TEAL%%NAME%{%NAME%}%CONTINUE%
 
 ItemDisplay[SET]:%GREEN%%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[UNI]:%GOLD%%NAME%{%NAME%}%CONTINUE%
@@ -2445,7 +2445,7 @@ ItemDisplay[(9ws OR 7ws OR 9sc OR 7sc OR 9qs OR 7qs) !ETH MAG !ID FILTLVL>6]:
 ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7 OR 9br OR 7br) !ETH MAG !ID FILTLVL>6]:
 ItemDisplay[(7mt OR 7wh OR 9mt OR 9fl OR 7fl OR 9wh) !ETH MAG !ID FILTLVL>6]:
 ItemDisplay[(oba OR obf) !ETH MAG !ID FILTLVL>6]:
-//ItemDisplay[(6ws) !ETH MAG !ID FILTLVL>6]:
+ItemDisplay[(9s8 OR 7s8 OR 9pa OR 7pa OR 9h9 OR 7h7 OR 9wc OR 7wc) !ETH MAG !ID FILTLVL>6]:
 
 //bow
 ItemDisplay[(am1) !ETH MAG !ID]:%BLUE%%NAME%%NL%%GRAY%[%WHITE%c%ORANGE%r%RED%a%GREEN%f%BLUE%t %PURPLE%bow%GRAY%]
@@ -2471,6 +2471,10 @@ ItemDisplay[(oba OR obf) ETH MAG !ID]: %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] 
 
 ItemDisplay[(6ws OR cst OR 8cs OR 6cs OR bst OR 8bs OR 6bs OR 8ws OR wst) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[%TEAL%craft %CORAL%staff%GRAY%]
 ItemDisplay[(6ws OR wst OR 8ws) ETH MAG !ID]: %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %BLUE%%NAME%%NL%%GRAY%[%TEAL%craft %CORAL%staff%GRAY%]
+
+ItemDisplay[(9s8 OR 7s8 OR 9pa OR 7pa OR 9h9 OR 7h7 OR 9wc OR 7wc) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[%TEAL%craft %CORAL%Polearms%GRAY%]
+ItemDisplay[(9s8 OR 7s8 OR 9pa OR 7pa OR 9h9 OR 7h7 OR 9wc OR 7wc OR scy OR pax OR hal OR wsc) ETH MAG !ID]: %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %BLUE%%NAME%%NL%%GRAY%[%TEAL%craft %CORAL%Polearms%GRAY%]
+
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                         BASE ITEM                                           //
@@ -4895,8 +4899,8 @@ ItemDisplay[WEAPON NMAG ID !RW !WP11 !WP12 !CL6 EDAM>0]:%ORANGE%%EDAM%%GREEN%d %
 ItemDisplay[CHEST RARE ID EDAM>0]:%ORANGE%%EDAM%%GREEN%d %YELLOW%%NAME%%CONTINUE%
 ItemDisplay[CHEST CRAFT ID EDAM>0]:%PURPLE%%EDAM%%GREEN%d %ORANGE%%NAME%%CONTINUE%
 
-ItemDisplay[MAG !ID (WEAPON OR ARMOR) FILTLVL>3]:
-ItemDisplay[MAG !ID (WEAPON OR ARMOR)]:%NAME%%LIGHT_GRAY%(c)
+ItemDisplay[MAG !ID (WEAPON OR ARMOR) !WP4 FILTLVL>3]:
+ItemDisplay[MAG !ID (WEAPON OR ARMOR) !WP4]:%NAME%%LIGHT_GRAY%(c)
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                       CORRUPTED MARKING AND CRAFTING AMULET                                //
