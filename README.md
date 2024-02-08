@@ -1,4 +1,4 @@
-![image](https://github.com/PiLLLaa/Pd2/assets/76995697/8b9cbad5-eaf5-49f3-9941-012f25958e39)
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=%20PiLLLa'sPD2filter%20%20&height=300&fontSize=80)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PiLLLaa&show_icons=true&theme=synthwave)](https://github.com/PiLLLaa/github-readme-stats)
 
@@ -58,9 +58,10 @@
     
     16 Normal Base item
   https://docs.google.com/document/d/1kiT3-O6ivWPo6VSfA5nKvIYQUhdw-Y90-fLabVoKJrY/edit?usp=sharing
-   
+    
     17.Unique Drop Level
   https://docs.google.com/spreadsheets/d/1UuX9-e5zadlooaitTC5MADL023IdJvstd9-sXB52MsI/edit?usp=sharing
+
 ----------------------------------------------------------------------------------------------------------------------   
 ## IMAGE    
  ![image](https://user-images.githubusercontent.com/76995697/185507965-8546a887-d6c1-4b69-9acb-40fcfad1a71d.png)
@@ -78,9 +79,9 @@
      1. 8.Feb
       1) Uploaded Craft season hype filter & hype filter(Colored)
       2) Basically drops all magic items, but you can choose the recommended items by filter level
-      3) List of Craft base items(Recommended) -when you choose filter level
-      https://docs.google.com/spreadsheets/d/1fz03-G3y0cuj9g7Nd3VzE0f5d_UG41aiwrPrWI67GTU/edit?usp=sharing
-      4) Javeline, Glove, Circlet, nec shield, wand and katar be dropped always.
+      3) Javeline, Glove, Circlet, nec shield, wand and katar be dropped always.
 ----------------------------------------------------------------------------------------------------------------------
 
+      4) List of Craft base items(Recommended) -when you choose filter level
+         https://docs.google.com/spreadsheets/d/1fz03-G3y0cuj9g7Nd3VzE0f5d_UG41aiwrPrWI67GTU/edit?usp=sharing
     
