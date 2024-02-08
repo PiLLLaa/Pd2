@@ -1,4 +1,4 @@
-
+![image](https://github.com/PiLLLaa/Pd2/assets/76995697/8b9cbad5-eaf5-49f3-9941-012f25958e39)
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=%20PiLLLa'sPD2filter%20%20&height=300&fontSize=80)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PiLLLaa&show_icons=true&theme=synthwave)](https://github.com/PiLLLaa/github-readme-stats)
 
@@ -25,6 +25,7 @@
  ### S6 Updated 26.Nov
  ### S7 Updated 23.Apr
  ### S8 Updated 20.Sep
+ ### Craft Season updated 2.Feb,2024
 
  ### Explanation for Each Filter 
     1. Hype : Various colour table
@@ -55,8 +56,6 @@
     15. Crafting Base item list
   https://docs.google.com/document/d/1iUZUWnUJicrWWVpPXxHppIu4ZdhMit3LUwb_L-GIcTE/edit?usp=sharing
     
-
-
     16 Normal Base item
   https://docs.google.com/document/d/1kiT3-O6ivWPo6VSfA5nKvIYQUhdw-Y90-fLabVoKJrY/edit?usp=sharing
    
@@ -72,126 +71,16 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 ### UPDATE HISTORY
-   : Previous Update List before S8
+   : Previous Update List before S9
   https://docs.google.com/document/d/15kbZSRRPhfTrehFSQHBgoh_rFrf38TQDNBSsV9RHv6g/edit?usp=sharing
 
 ----------------------------------------------------------------------------------------------------------------------
-     1. 9/20
-      1) Uploaded S8 Starter filter
-      
-----------------------------------------------------------------------------------------------------------------------
-     2. 9/23
-      1) Uploaded S8 all filters
-      
-----------------------------------------------------------------------------------------------------------------------
-    3. 9/25
-      1) Filter bugs fixed
-      2) New Map resi updated.
-----------------------------------------------------------------------------------------------------------------------
-    4. 9/26
-      1) Filter bugs fixed
-      2) Added Marking ice barrage for staves.
-----------------------------------------------------------------------------------------------------------------------
-    5. 9/29
-      1) Filter bugs fixed
-      2) Added Marking for Weapon speed & range.
-       : Not avaliable for Runeword, Set, Wand and Staves
-       : Only shown Weponspeed & Range value when exceptional & Normal item.
-       : Elite Item can show special markinng (Very fast > Fast > Normal > Slow > Very Slow)
-
-----------------------------------------------------------------------------------------------------------------------
-![image](https://github.com/PiLLLaa/Pd2/assets/76995697/31c3ba6b-6c7a-4b46-a4ca-a702bc91b9e4)
-
-
-    6. 10/01
-      1) Filter bugs fixed
-          - Hyper filter double marking for base item's socket
-      2) Added Marking for Weapon speed & range for base item.
-      3) Craft Item added for etherial "maul, war club and ogre maul"
-
+     1. 8.Feb
+      1) Uploaded Craft season hype filter & hype filter(Colored)
+      2) Basically drops all magic items, but you can choose the recommended items by filter level
+      3) List of Craft base items(Recommended) -when you choose filter level
+      https://docs.google.com/spreadsheets/d/1fz03-G3y0cuj9g7Nd3VzE0f5d_UG41aiwrPrWI67GTU/edit?usp=sharing
+      4) Javeline, Glove, Circlet, nec shield, wand and katar be dropped always.
 ----------------------------------------------------------------------------------------------------------------------
 
-    7. 10/01
-      1) Filter bugs fixed
-      2) Gambling Marking Added
-
-----------------------------------------------------------------------------------------------------------------------
-
-![image](https://github.com/PiLLLaa/Pd2/assets/76995697/7b2668d8-b145-4463-a406-6e0d67fc0d0f)
-
-    8. 10/03
-      1) Filter bugs fixed
-      2) Craft base deleted for bow/crossbow (if possilbe to buy it on the shop)
-      3) LAEK/MAEK jewel mirroed status updated (Black/White)
-      4) No XXXD marking without Ehanced damage option.
-
-----------------------------------------------------------------------------------------------------------------------
-    9. 10/04
-      1) Filter bugs fixed (Ex Stoncrusheror)
-      2) Blank Filter renewal
-      3) Base Elite Staff has special marking **
-      4) Marking fixed for Hustle, Innocence 
-
-----------------------------------------------------------------------------------------------------------------------
-    10. 10/06
-      1) Filter bugs fixed (for Blank filter)
-      2) Deleted 4 Soc Runeword recipe (Famine, Kingslayer, Passion)
-      3) Hiding marking Weapon speed and range when gemmed, equipped
-
-----------------------------------------------------------------------------------------------------------------------
-    11. 10/11
-      1) Filter bugs fixed (Runeword Marking for all filters)
-      2) Craft base added (Archon Staff, Stag bow)
-
-----------------------------------------------------------------------------------------------------------------------
-    12. 10/12
-      1) Filter bugs fixed
-      2) Added comments for pile of rune about rune option socketed
-      3) Now, bolt and arrow have marking when enhanced damage over 40
-
-----------------------------------------------------------------------------------------------------------------------
-    13. 10/18
-      1) Filter bugs fixed
-      2) Added comments for Craft  or Rare chest GG option (Damage & PDR) 
-      3) Modified High Marking for Gore Rider and Black Hades
-
-----------------------------------------------------------------------------------------------------------------------
-    14. 10/22
-      1) Filter bugs fixed
-      2) Filter Level Change (Blank flter has a little different)
-         1) Level 3, No throwing Potion and Magic Ring
-         2) Level 4 No Magic Javeline, No Craft Armor base, No Normal Set, No Magic Glove, No Magic Wand, No HP5/MP5/R35%/Antidote Potion
-         3) Level 5 No Magic Amulet, No Magic Claw, No Magic Nec Head, No Magic Circlet
-         4) Level 6 No Rare Bolt
-         5) Level 7 No Rare Arrow, Only active for GG base Item.
-         6) Level 8 No Craft Weapon(But, Etherial Item and Bows(Class focused) still be dropped), No All set(including ring+amulet)
-        High Level will contains all low filter level function.
-             
-      3) Gold Piles will shows over 5000Gold when you're over character level 60.
-
-----------------------------------------------------------------------------------------------------------------------
-![image](https://github.com/PiLLLaa/Pd2/assets/76995697/c57a7c72-8dec-4864-a30e-2efbd2586520)
-
-
-----------------------------------------------------------------------------------------------------------------------
-    15. 10/27
-      1) Filter bugs fixed
-      2) Changed "drop expression of unique item" for Blank filter 
-----------------------------------------------------------------------------------------------------------------------
-    16. 11/01
-      1) Filter bugs fixed
-         - PURPLE, GRAY, BLANK, HYPE FILTER had modified base item drop functin.
-----------------------------------------------------------------------------------------------------------------------
-    17. 11/04
-      1) Filter Level Change
-         - Craft Base for Dru pelt, bar helmet and R32 potion be disabled when select Filter level 5 (Previous Level4)
-----------------------------------------------------------------------------------------------------------------------
-    18. 11/11
-      1) Etherial Rare drop message on for Katar, Maul, throwing weapons.
-      2) Armor and throwing weapon has enhanced damage marking for Blank filter
-----------------------------------------------------------------------------------------------------------------------
-    19. 11/17
-      1) Armor and throwing weapon has enhanced damage marking for All filters
-      2) Magic Javeline filter level be up from 3 to 4
-        
     
