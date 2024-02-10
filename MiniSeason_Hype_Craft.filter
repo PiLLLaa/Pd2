@@ -22,12 +22,12 @@ ItemDisplay[leg]: %NAME% %ORANGE%[L%ILVL%] %PURPLE%[%SOCKETS%]
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                       MISC                                                  //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[crfb]:%PURPLE% (blood)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %RED%Blood Crafting Item %GOLD% when cubing}
-ItemDisplay[crfc]:%PURPLE% (caster)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %BLUE%Caster Crafting Item %GOLD% when cubing}
-ItemDisplay[crfs]:%PURPLE% (safety)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %GREEN%Safety Crafting Item %GOLD% when cubing}
-ItemDisplay[crfh]:%PURPLE% (hitpower)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %PURPLE%Hitpower Crafting Item %GOLD% when cubing} 
-ItemDisplay[crfv]:%PURPLE% (vampiric)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %GRAY%Vampiric Crafting Item %GOLD% when cubing}
-ItemDisplay[crfu]:%PURPLE% (bountiful)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %YELLOW%Bountiful Crafting Item %GOLD% when cubing}
+ItemDisplay[crfb]:%MAP-0B%%PURPLE% (blood)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %RED%Blood Crafting Item %GOLD% when cubing}
+ItemDisplay[crfc]:%MAP-0B%%PURPLE% (caster)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %BLUE%Caster Crafting Item %GOLD% when cubing}
+ItemDisplay[crfs]:%MAP-0B%%PURPLE% (safety)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %GREEN%Safety Crafting Item %GOLD% when cubing}
+ItemDisplay[crfh]:%MAP-0B%%PURPLE% (hitpower)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %PURPLE%Hitpower Crafting Item %GOLD% when cubing} 
+ItemDisplay[crfv]:%MAP-0B%%PURPLE% (vampiric)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %GRAY%Vampiric Crafting Item %GOLD% when cubing}
+ItemDisplay[crfu]:%MAP-0B%%PURPLE% (bountiful)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %YELLOW%Bountiful Crafting Item %GOLD% when cubing}
  
 ItemDisplay[box]:%PURPLE%[%RED%Ho%WHITE%ra%ORANGE%dr%GOLD%ic %PURPLE%Cube %ORANGE%[L%ILVL%]%PURPLE%]%CONTINUE%
 ItemDisplay[box]:%NAME%{%NL%%YELLOW%eth repair and recharge: %RED%zod%WHITE%+%GOLD%pskull+%GRAY%ethereal item%NL%}%CONTINUE%
