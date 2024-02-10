@@ -22,12 +22,12 @@ ItemDisplay[leg]: %NAME% %ORANGE%[L%ILVL%] %PURPLE%[%SOCKETS%]
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                       MISC                                                  //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[crfb]:%PURPLE% (blood)%GOLD%infusion 
- ItemDisplay[crfc]:%PURPLE% (caster)%GOLD%infusion 
- ItemDisplay[crfs]:%PURPLE% (safety)%GOLD%infusion 
- ItemDisplay[crfh]:%PURPLE% (hitpower)%GOLD%infusion 
- ItemDisplay[crfv]:%PURPLE% (vampiric)%GOLD%infusion 
- ItemDisplay[crfu]:%PURPLE% (bountiful)%GOLD%infusion 
+ItemDisplay[crfb]:%PURPLE% (blood)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %RED%Blood Crafting Item %GOLD% when cubing}
+ItemDisplay[crfc]:%PURPLE% (caster)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %BLUE%Caster Crafting Item %GOLD% when cubing}
+ItemDisplay[crfs]:%PURPLE% (safety)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %GREEN%Safety Crafting Item %GOLD% when cubing}
+ItemDisplay[crfh]:%PURPLE% (hitpower)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %PURPLE%Hitpower Crafting Item %GOLD% when cubing} 
+ItemDisplay[crfv]:%PURPLE% (vampiric)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %GRAY%Vampiric Crafting Item %GOLD% when cubing}
+ItemDisplay[crfu]:%PURPLE% (bountiful)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %YELLOW%Bountiful Crafting Item %GOLD% when cubing}
  
 ItemDisplay[box]:%PURPLE%[%RED%Ho%WHITE%ra%ORANGE%dr%GOLD%ic %PURPLE%Cube %ORANGE%[L%ILVL%]%PURPLE%]%CONTINUE%
 ItemDisplay[box]:%NAME%{%NL%%YELLOW%eth repair and recharge: %RED%zod%WHITE%+%GOLD%pskull+%GRAY%ethereal item%NL%}%CONTINUE%
@@ -238,7 +238,7 @@ ItemDisplay[tsc DIFF>0]:
 ItemDisplay[isc DIFF<1]:%RED%[%WHITE%Id %CORAL%Scroll%RED%]
 ItemDisplay[isc DIFF>0]:
 ItemDisplay[rvl]:%SAGE%[%PURPLE%RP%ORANGE%65%%SAGE%]{%TAN%-- -- -- -- -- -- -- -- -- --  %NL% %GOLD%heal 65% of your maximum %NL%health up to a limit of 2000 %NL%%TAN%-- --  -- -- -- -- -- -- -- --}
-ItemDisplay[rvs]:%SAGE%[%PURPLE%RP%WHITE%35%%SAGE%]
+ItemDisplay[rvs]:%SAGE%[%PURPLE%RP%SAGE%]
 ItemDisplay[key (MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%WHITE%[%GRAY%Key%WHITE%]
 ItemDisplay[key CLVL<30]:%WHITE%[%GRAY%Key%WHITE%]
 ItemDisplay[key CLVL>29]:
