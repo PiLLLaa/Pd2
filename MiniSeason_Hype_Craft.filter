@@ -18,7 +18,7 @@ ItemDisplay[(tpfl OR tpgl OR tpcl OR tpll) FILTLVL>1]:
 ItemDisplay[(hp5 OR mp5 OR yps) FILTLVL>4]:
 ItemDisplay[(rvs) FILTLVL>4]:
 ItemDisplay[leg]: %NAME% %ORANGE%[L%ILVL%] %PURPLE%[%SOCKETS%]
-//ItemDisplay[NMAG (WEAPON OR ARMOR) FILTLVL>2]:
+ItemDisplay[NMAG (WEAPON OR ARMOR) FILTLVL>2]:
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                       MISC                                                  //
 /////////////////////////////////////////////////////////////////////////////////////////////////
