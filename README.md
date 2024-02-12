@@ -85,3 +85,9 @@
       4) List of Craft base items(Recommended) -when you choose filter level
 
 https://docs.google.com/spreadsheets/d/1fz03-G3y0cuj9g7Nd3VzE0f5d_UG41aiwrPrWI67GTU/edit?usp=sharing
+
+----------------------------------------------------------------------------------------------------------------------
+     2. 13.Feb
+      1) Colored Filter had been allowcated special color to each variants of base (Rare)
+      2) Craft base for clubs was added when drop
+----------------------------------------------------------------------------------------------------------------------
