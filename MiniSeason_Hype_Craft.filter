@@ -2320,6 +2320,7 @@ ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7 OR 9br OR 7br) !ETH MAG !ID 
 ItemDisplay[(7mt OR 7wh OR 9mt OR 9fl OR 7fl OR 9wh) !ETH MAG !ID FILTLVL>6]:
 ItemDisplay[(oba OR obf) !ETH MAG !ID FILTLVL>6]:
 ItemDisplay[(9s8 OR 7s8 OR 9pa OR 7pa OR 9h9 OR 7h7 OR 9wc OR 7wc) !ETH MAG !ID FILTLVL>6]:
+ItemDisplay[(CLUB) !clb !spc !ETH MAG !ID FILTLVL>6]:
 
 //bow
 ItemDisplay[(am1) !ETH MAG !ID]:%BLUE%%NAME%%NL%%GRAY%[%WHITE%c%ORANGE%r%RED%a%GREEN%f%BLUE%t %PURPLE%bow%GRAY%]
@@ -2348,6 +2349,9 @@ ItemDisplay[(6ws OR wst OR 8ws) ETH MAG !ID]: %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%W
 
 ItemDisplay[(9s8 OR 7s8 OR 9pa OR 7pa OR 9h9 OR 7h7 OR 9wc OR 7wc) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[%TEAL%craft %CORAL%Polearms%GRAY%]
 ItemDisplay[(9s8 OR 7s8 OR 9pa OR 7pa OR 9h9 OR 7h7 OR 9wc OR 7wc OR scy OR pax OR hal OR wsc) ETH MAG !ID]: %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %BLUE%%NAME%%NL%%GRAY%[%TEAL%craft %CORAL%Polearms%GRAY%]
+
+ItemDisplay[(CLUB) !clb !spc !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[%TEAL%craft %CORAL%club%GRAY%]
+ItemDisplay[(CLUB) !clb !spc ETH MAG !ID]: %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %BLUE%%NAME%%NL%%GRAY%[%TEAL%craft %CORAL%club%GRAY%]
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
