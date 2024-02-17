@@ -4665,6 +4665,14 @@ ItemDisplay[(MAG OR RARE OR CRAFT) (EQ3) (CLSK4>1 AND ALLSK>0) ID !CL4]:%WHITE%+
 ItemDisplay[(MAG OR RARE OR CRAFT) (EQ3) (CLSK5>1 AND ALLSK>0) ID !CL4]:%WHITE%+3%RED%Sk%ORANGE%ill %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[(MAG OR RARE OR CRAFT) (EQ3) (CLSK6>1 AND ALLSK>0) ID !CL4]:%WHITE%+3%RED%Sk%ORANGE%ill %NAME%{%NAME%}%CONTINUE%
 
+ItemDisplay[(MAG OR RARE OR CRAFT) (EQ3) (CLSK0=2) ID !CL4]:%WHITE%+2%RED%Sk%ORANGE%ill %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[(MAG OR RARE OR CRAFT) (EQ3) (CLSK1=2) ID !CL4]:%WHITE%+2%RED%Sk%ORANGE%ill %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[(MAG OR RARE OR CRAFT) (EQ3) (CLSK2=2) ID !CL4]:%WHITE%+2%RED%Sk%ORANGE%ill %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[(MAG OR RARE OR CRAFT) (EQ3) (CLSK3=2) ID !CL4]:%WHITE%+2%RED%Sk%ORANGE%ill %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[(MAG OR RARE OR CRAFT) (EQ3) (CLSK4=2) ID !CL4]:%WHITE%+2%RED%Sk%ORANGE%ill %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[(MAG OR RARE OR CRAFT) (EQ3) (CLSK5=2) ID !CL4]:%WHITE%+2%RED%Sk%ORANGE%ill %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[(MAG OR RARE OR CRAFT) (EQ3) (CLSK6=2) ID !CL4]:%WHITE%+2%RED%Sk%ORANGE%ill %NAME%{%NAME%}%CONTINUE%
+
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                       CORRUPTED MARKING AND CRAFTING AMULET                                //
 /////////////////////////////////////////////////////////////////////////////////////////////////
