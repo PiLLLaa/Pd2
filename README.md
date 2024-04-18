@@ -77,18 +77,8 @@
   https://docs.google.com/document/d/15kbZSRRPhfTrehFSQHBgoh_rFrf38TQDNBSsV9RHv6g/edit?usp=sharing
 
 ----------------------------------------------------------------------------------------------------------------------
-     1. 8.Feb
-      1) Uploaded Craft season hype filter & hype filter(Colored)
-      2) Basically drops all magic items, but you can choose the recommended items by filter level
-      3) Javeline, Glove, Circlet, nec shield, wand and katar be dropped always.
+     1. 18.Apr
+      1) Uploaded Purple Gold Filter
+      2) Added Diamond recipe for Brilliant Craft
 ----------------------------------------------------------------------------------------------------------------------
 
-      4) List of Craft base items(Recommended) -when you choose filter level
-
-https://docs.google.com/spreadsheets/d/1fz03-G3y0cuj9g7Nd3VzE0f5d_UG41aiwrPrWI67GTU/edit?usp=sharing
-
-----------------------------------------------------------------------------------------------------------------------
-     2. 13.Feb
-      1) Colored Filter had been allowcated special color to each variants of base (Rare)
-      2) Craft base for clubs was added when drop
-----------------------------------------------------------------------------------------------------------------------
