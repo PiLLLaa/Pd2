@@ -3938,6 +3938,11 @@ ItemDisplay[ned NMAG !RW]:%DARK_GREEN%Overseer Skull%CONTINUE%
 ItemDisplay[nee NMAG !RW]:%DARK_GREEN%Succubus Skull%CONTINUE%
 ItemDisplay[nef NMAG !RW]:%DARK_GREEN%Bloodlord Skull%CONTINUE%
 
+//Daggers
+ItemDisplay[kri NMAG !RW]:%DARK_GREEN%Kris%CONTINUE%
+ItemDisplay[9kr NMAG !RW]:%DARK_GREEN%Cinquedeas%CONTINUE%
+ItemDisplay[7kr NMAG !RW]:%DARK_GREEN%Fanged Knife%CONTINUE%
+
 //IDENTIFY
 ItemDisplay[(WEAPON OR ARMOR) !RW NMAG !SOCK=0]:%DARK_GREEN%%NAME% %PURPLE%[%SOCKETS%]%CONTINUE%
 ItemDisplay[(WEAPON OR ARMOR) !RW NMAG SOCK=0]:%DARK_GREEN%%NAME%%CONTINUE%
