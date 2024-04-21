@@ -3851,6 +3851,11 @@ ItemDisplay[ned NMAG !RW]:%GRAY%Overseer Skull%CONTINUE%
 ItemDisplay[nee NMAG !RW]:%GRAY%Succubus Skull%CONTINUE%
 ItemDisplay[nef NMAG !RW]:%GRAY%Bloodlord Skull%CONTINUE%
 
+//Daggers
+ItemDisplay[kri NMAG !RW]:%GRAY%Kris%CONTINUE%
+ItemDisplay[9kr NMAG !RW]:%GRAY%Cinquedeas%CONTINUE%
+ItemDisplay[7kr NMAG !RW]:%GRAY%Fanged Knife%CONTINUE%
+
 ItemDisplay[(WEAPON OR ARMOR) !RW NMAG SOCK=0]:%GRAY%%NAME%%CONTINUE%
 
 //OPTION
