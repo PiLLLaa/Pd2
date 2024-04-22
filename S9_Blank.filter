@@ -3181,6 +3181,7 @@ ItemDisplay[NMAG]:%GRAY%%NAME%%CONTINUE%
 ItemDisplay[MAG]:%BLUE%%NAME%%CONTINUE%
 ItemDisplay[RARE]:%YELLOW%%NAME%%CONTINUE%
 ItemDisplay[CRAFT]:%ORANGE%%NAME%%CONTINUE%
+ItemDisplay[SET !ID]:%GREEN%%NAME%%CONTINUE%
 //ItemDisplay[UNI (7bs OR 7gd OR 7b8 OR 7p7 OR 9wc OR 7s8 OR 8s8 OR 6lw OR 6ws OR 7gw OR 7qr OR obc OR obf OR xh9 OR uap OR ulm OR usk OR uh9 OR urn OR uhl OR ci2 OR ci3 OR baa OR baf OR dra OR drb OR drd OR drf OR xth OR utp OR uul OR uth OR rar OR uit OR ush OR uts OR nea OR nee OR ned OR pa9 OR uvg OR umg OR utg OR uhg OR xtb OR umb OR utb OR ulc OR umc OR rbe OR ram OR 9gm OR 7m7 OR 7fb OR 9bl OR 7s7 OR 7gl OR 7ts OR 7pa OR 6l7 OR 8mx OR 8rx OR 7qs OR 8ws OR 6bs OR 6cs OR 9bw OR 7bw OR am7 OR amb OR am9 OR ame OR ama OR amf OR 9tw OR 7tw OR 7lw OR ob6 OR oba OR ba6 OR bae OR dr2 OR dre OR rng OR ltp OR xea OR xhn OR xlt OR xtp OR xul OR xar OR uui OR utu OR upl OR uld OR xow OR uow OR ne6 OR nef OR xhg OR xmb OR xhb OR ulb OR uvb OR uhb OR zlb OR zvb OR zhb OR uvc OR 7ws)]:%RED%%NAME%%CONTINUE%
 //ItemDisplay[UNI !(7bs OR 7gd OR 7b8 OR 7p7 OR 9wc OR 7s8 OR 8s8 OR 6lw OR 6ws OR 7gw OR 7qr OR obc OR obf OR xh9 OR uap OR ulm OR usk OR uh9 OR urn OR uhl OR ci2 OR ci3 OR baa OR baf OR dra OR drb OR drd OR drf OR xth OR utp OR uul OR uth OR rar OR uit OR ush OR uts OR nea OR nee OR ned OR pa9 OR uvg OR umg OR utg OR uhg OR xtb OR umb OR utb OR ulc OR umc OR rbe OR ram OR 9gm OR 7m7 OR 7fb OR 9bl OR 7s7 OR 7gl OR 7ts OR 7pa OR 6l7 OR 8mx OR 8rx OR 7qs OR 8ws OR 6bs OR 6cs OR 9bw OR 7bw OR am7 OR amb OR am9 OR ame OR ama OR amf OR 9tw OR 7tw OR 7lw OR ob6 OR oba OR ba6 OR bae OR dr2 OR dre OR rng OR ltp OR xea OR xhn OR xlt OR xtp OR xul OR xar OR uui OR utu OR upl OR uld OR xow OR uow OR ne6 OR nef OR xhg OR xmb OR xhb OR ulb OR uvb OR uhb OR zlb OR zvb OR zhb OR uvc OR 7ws)]:%GOLD%%NAME%%CONTINUE%
 
@@ -3843,46 +3844,46 @@ ItemDisplay[SET !ID (xhl OR 7ls OR upl) !ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%P
 ItemDisplay[SET !ID (7fb OR 7gd) !ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Bul-Kathos' Children] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
 
 
-ItemDisplay[SET !ID mbl ETH]:%GREEN%+%PURPLE%+  %WHITE%(e)%DARK_GREEN%H s a r u s %WHITE%or %GREEN%H w a n i n %SAGE%[Belt]  %PURPLE%+%GREEN%+
-ItemDisplay[SET !ID cap ETH]:%GREEN%+%PURPLE%+  %WHITE%(e)%DARK_GREEN%I n f e r n a l %WHITE%or %GREEN%S a n d e r %SAGE%[Cap]  %PURPLE%+%GREEN%+
-ItemDisplay[SET !ID tbl ETH]:%GREEN%+%PURPLE%+  %WHITE%(e)%DARK_GREEN%I n f e r n a l %WHITE%or %GREEN%I r a t h a %SAGE%[Heavy Belt]  %PURPLE%+%GREEN%+
-ItemDisplay[SET !ID crn ETH]:%GREEN%+%PURPLE%+  %WHITE%(e)%DARK_GREEN%M i l a b r e g a %WHITE%or %GREEN%I r a t h a %SAGE%[Crown]  %PURPLE%+%GREEN%+
-ItemDisplay[SET !ID vbt ETH]:%GREEN%+%PURPLE%+  %WHITE%(e)%DARK_GREEN%C o w K i n g %WHITE%or %GREEN%S a n d e r %SAGE%[Heavy Boots]  %PURPLE%+%GREEN%+
-ItemDisplay[SET !ID (ulg OR uui OR xlb OR umc) ETH]:%DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[disciple] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
-ItemDisplay[SET !ID (dr8 OR xtb OR uul OR 9mt) ETH]:  %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[aldur] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
-ItemDisplay[SET !ID (ba5 OR 7m7 OR uar OR zhb OR xhg OR xhb) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[immortal] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
-ItemDisplay[SET !ID (xh9 OR 7qr OR ucl OR xmb) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[natalya] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
-ItemDisplay[SET !ID (oba OR xsk OR zmb) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[tal rasha] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
-ItemDisplay[SET !ID uth ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[tal rasha] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
-ItemDisplay[SET !ID (uh9 OR xul OR ne9 OR utc OR xmg) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[trang oul] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
+ItemDisplay[SET !ID mbl ETH]:%GREEN%+%PURPLE%+  %DARK_GREEN%H s a r u s %WHITE%or %GREEN%H w a n i n %SAGE%[Belt]  %PURPLE%+%GREEN%+
+ItemDisplay[SET !ID cap ETH]:%GREEN%+%PURPLE%+  %DARK_GREEN%I n f e r n a l %WHITE%or %GREEN%S a n d e r %SAGE%[Cap]  %PURPLE%+%GREEN%+
+ItemDisplay[SET !ID tbl ETH]:%GREEN%+%PURPLE%+  %DARK_GREEN%I n f e r n a l %WHITE%or %GREEN%I r a t h a %SAGE%[Heavy Belt]  %PURPLE%+%GREEN%+
+ItemDisplay[SET !ID crn ETH]:%GREEN%+%PURPLE%+  %DARK_GREEN%M i l a b r e g a %WHITE%or %GREEN%I r a t h a %SAGE%[Crown]  %PURPLE%+%GREEN%+
+ItemDisplay[SET !ID vbt ETH]:%GREEN%+%PURPLE%+  %DARK_GREEN%C o w K i n g %WHITE%or %GREEN%S a n d e r %SAGE%[Heavy Boots]  %PURPLE%+%GREEN%+
+ItemDisplay[SET !ID (ulg OR uui OR xlb OR umc) ETH]:%DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[disciple] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
+ItemDisplay[SET !ID (dr8 OR xtb OR uul OR 9mt) ETH]:  %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[aldur] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
+ItemDisplay[SET !ID (ba5 OR 7m7 OR uar OR zhb OR xhg OR xhb) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[immortal] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
+ItemDisplay[SET !ID (xh9 OR 7qr OR ucl OR xmb) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[natalya] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
+ItemDisplay[SET !ID (oba OR xsk OR zmb) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[tal rasha] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
+ItemDisplay[SET !ID uth ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[tal rasha] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
+ItemDisplay[SET !ID (uh9 OR xul OR ne9 OR utc OR xmg) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[trang oul] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
 
-ItemDisplay[SET !ID (rng OR sbr) ETH]: %GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Angelic] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (skp OR ltp OR wst) ETH]: %GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Arcanna] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (qui OR vbl OR tgl OR swb) ETH]: %GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Arctic] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (hlm OR spl OR 2ax) ETH]: %GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Berserker] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (msk OR chn OR bst) ETH]: %GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Cathan] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (gsc OR lrg) ETH]: %GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Civerb] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (lsd OR mgl OR sml) ETH]: %GREEN%+%PURPLE%+ %WHITE%(e)%GREEN% %NAME%%SAGE%[Cleglaw] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (wsd OR lgl OR lbl) ETH]: %GREEN%+%PURPLE%+ %WHITE%(e)%GREEN% %NAME%%SAGE%[Death] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (buc OR mbt) ETH]: %GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Hsarus] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (rng OR sbr) ETH]: %GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Angelic] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (skp OR ltp OR wst) ETH]: %GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Arcanna] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (qui OR vbl OR tgl OR swb) ETH]: %GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Arctic] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (hlm OR spl OR 2ax) ETH]: %GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Berserker] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (msk OR chn OR bst) ETH]: %GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Cathan] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (gsc OR lrg) ETH]: %GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Civerb] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (lsd OR mgl OR sml) ETH]: %GREEN%+%PURPLE%+ %GREEN% %NAME%%SAGE%[Cleglaw] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (wsd OR lgl OR lbl) ETH]: %GREEN%+%PURPLE%+ %GREEN% %NAME%%SAGE%[Death] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (buc OR mbt) ETH]: %GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Hsarus] %GREEN%+%PURPLE%+
 
-ItemDisplay[SET !ID gwn ETH]: %GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Infernal] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (bsd OR fhl OR brs OR gts) ETH]: %GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Isenhart] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (aar OR kit OR wsp) ETH]: %GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Milabrega] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (ghm OR gth OR hbt OR tow OR hbl OR hgl) ETH]: %GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Sigon] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (bhm OR ful OR lbt OR mpi) ETH]: %GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Tancred] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (lbb OR lea OR tbt) ETH]: %GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Vidala] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (7gd OR 7wd) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Bul-Kathos] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
-ItemDisplay[SET !ID (xap OR stu) ETH]: %GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Cow King] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (xar OR urn OR 7ws OR paf) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Griswold] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
-ItemDisplay[SET !ID (xrs OR 7ma OR uts OR uhm) ETH]: %DOT-84%%GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Heaven] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (xrn OR 9vo OR xcl) ETH]: %DOT-84%%GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Hwanin] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (ci3 OR amc OR uld OR xtg OR zvb) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Mavina] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
-ItemDisplay[SET !ID (ci0 OR ult OR 6cs) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Naj] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
-ItemDisplay[SET !ID (xhm OR xml OR xvg OR ztb) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Orphan] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
-ItemDisplay[SET !ID (bwn OR vgl) ETH]: %DOT-84%%GREEN%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Sander] %GREEN%+%PURPLE%+
-ItemDisplay[SET !ID (xhl OR 7ls OR upl) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[sazabi] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
-ItemDisplay[SET !ID (7fb OR 7gd) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %WHITE%(e)%GREEN%%NAME% %SAGE%[Bul-Kathos' Children] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
+ItemDisplay[SET !ID gwn ETH]: %GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Infernal] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (bsd OR fhl OR brs OR gts) ETH]: %GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Isenhart] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (aar OR kit OR wsp) ETH]: %GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Milabrega] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (ghm OR gth OR hbt OR tow OR hbl OR hgl) ETH]: %GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Sigon] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (bhm OR ful OR lbt OR mpi) ETH]: %GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Tancred] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (lbb OR lea OR tbt) ETH]: %GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Vidala] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (7gd OR 7wd) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Bul-Kathos] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
+ItemDisplay[SET !ID (xap OR stu) ETH]: %GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Cow King] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (xar OR urn OR 7ws OR paf) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Griswold] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
+ItemDisplay[SET !ID (xrs OR 7ma OR uts OR uhm) ETH]: %DOT-84%%GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Heaven] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (xrn OR 9vo OR xcl) ETH]: %DOT-84%%GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Hwanin] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (ci3 OR amc OR uld OR xtg OR zvb) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Mavina] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
+ItemDisplay[SET !ID (ci0 OR ult OR 6cs) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Naj] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
+ItemDisplay[SET !ID (xhm OR xml OR xvg OR ztb) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Orphan] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
+ItemDisplay[SET !ID (bwn OR vgl) ETH]: %DOT-84%%GREEN%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Sander] %GREEN%+%PURPLE%+
+ItemDisplay[SET !ID (xhl OR 7ls OR upl) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[sazabi] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
+ItemDisplay[SET !ID (7fb OR 7gd) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Bul-Kathos' Children] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
 
 ItemDisplay[(WEAPON OR ARMOR) SET !ID]:%GREEN%+%PURPLE%+       %GREEN%%NAME%       %PURPLE%+%GREEN%+
 ItemDisplay[SET !ID amu]: %DOT-84%%PURPLE%++    %GREEN%%NAME%    %PURPLE%++
