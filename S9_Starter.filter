@@ -1364,30 +1364,30 @@ ItemDisplay[(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 
 //ItemDisplay[t32 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%130 %GREEN%Poison %SAGE%115%PURPLE%]}%CONTINUE%
 //ItemDisplay[t16 ID]:%NAME%{%PURPLE%[%BLUE%Cold %TEAL%115 %GREEN%Poison %SAGE%140%GOLD% %ORANGE%Magic %YELLOW%125)}%CONTINUE%
 
-ItemDisplay[t23 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%130% %YELLOW%Light %ORANGE%100% %BLUE%Cold %TEAL%80% %GREEN%Poison %SAGE%85% %PURPLE%]}%CONTINUE% //Arreat Battlefield
-ItemDisplay[t15 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%80% %BLUE%Cold %TEAL%125% %ORANGE%Magic %YELLOW%150% %GREEN%Poison %SAGE%105% %PURPLE%]}%CONTINUE% //Royal Crypts
-ItemDisplay[t12 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%135% %YELLOW%Light %ORANGE%80% %BLUE%Cold %TEAL%130% %GREEN%Poison %SAGE%75% %PURPLE%]}%CONTINUE% //Horazon's Memory
-ItemDisplay[t26 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%85% %GRAY%Phys %LIGHT_GRAY%100% %GREEN%Poison %SAGE%135% %PURPLE%]}%CONTINUE% //Shadows of Westmarch
-ItemDisplay[t25 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%135% %BLUE%Cold %TEAL%85% %GREEN%Poison %SAGE%125% %PURPLE%]}%CONTINUE% //Sewers of Harrogath
-ItemDisplay[t22 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%125% %YELLOW%Light %ORANGE%105% %BLUE%Cold %TEAL%75% %GREEN%Poison %SAGE%85% %PURPLE%]}%CONTINUE% //Torajan Jungle
-ItemDisplay[t36 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%95% %YELLOW%Light %ORANGE%100% %BLUE%Cold %TEAL%130% %GREEN%Poison %SAGE%80% %PURPLE%]}%CONTINUE% //Fall of Caldeum
+ItemDisplay[t23 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%130% %YELLOW%Light %ORANGE%100% %BLUE%Cold %TEAL%80% %GREEN%Poison %SAGE%85% %PURPLE%]}%CONTINUE% //Arreat Battlefield  ***
+ItemDisplay[t15 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%80% %BLUE%Cold %TEAL%125% %ORANGE%Magic %YELLOW%150% %GREEN%Poison %SAGE%105% %PURPLE%]}%CONTINUE% //Royal Crypts ***
+ItemDisplay[t12 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%135% %YELLOW%Light %ORANGE%80% %BLUE%Cold %TEAL%130% %GREEN%Poison %SAGE%75% %PURPLE%]}%CONTINUE% //Horazon's Memory ***
+ItemDisplay[t26 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%85% %GRAY%Phys %LIGHT_GRAY%100% %GREEN%Poison %SAGE%135% %PURPLE%]}%CONTINUE% //Shadows of Westmarch ***
+ItemDisplay[t25 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%135% %BLUE%Cold %TEAL%85% %GREEN%Poison %SAGE%125% %PURPLE%]}%CONTINUE% //Sewers of Harrogath ***
+ItemDisplay[t22 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%125% %YELLOW%Light %ORANGE%105% %BLUE%Cold %TEAL%75% %GREEN%Poison %SAGE%85% %PURPLE%]}%CONTINUE% //Torajan Jungle ***
+ItemDisplay[t36 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%95% %YELLOW%Light %ORANGE%100% %BLUE%Cold %TEAL%130% %GREEN%Poison %SAGE%80% %PURPLE%]}%CONTINUE% //Fall of Caldeum ****
 
-ItemDisplay[t34 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%130% %BLUE%Cold %TEAL%75% %GREEN%Poison %SAGE%120%%PURPLE%]}%CONTINUE% //Ancestral Trial
-ItemDisplay[t31 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%90% %YELLOW%Light %ORANGE%85% %BLUE%Cold %TEAL%180% %ORANGE%Magic %YELLOW%100% %GREEN%Poison %SAGE%130%%PURPLE%]}%CONTINUE% //River of Blood
-ItemDisplay[t24 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%85% %YELLOW%Light %ORANGE%120% %BLUE%Cold %TEAL%75% %GRAY%Phys %LIGHT_GRAY%105% %GREEN%Poison %SAGE%110%%PURPLE%]}%CONTINUE% //Tomb of Zoltun Kulle
-ItemDisplay[t11 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%130% %YELLOW%Light %ORANGE%120% %BLUE%Cold %TEAL%75% %GRAY%Phys %LIGHT_GRAY%80% %GREEN%Poison %SAGE%80%%PURPLE%]}%CONTINUE% //Ruins of Viz-jun
-ItemDisplay[t33 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%120% %YELLOW%Light %ORANGE%80% %BLUE%Cold %TEAL%110% %GREEN%Poison %SAGE%80%%PURPLE%]}%CONTINUE% //Lost Temple
-ItemDisplay[t13 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%125% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%130% %GRAY%Phys %LIGHT_GRAY%110% %GREEN%Poison %SAGE%85%%PURPLE%]}%CONTINUE% //Bastion Keep
+ItemDisplay[t34 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%130% %BLUE%Cold %TEAL%75% %GREEN%Poison %SAGE%120%%PURPLE%]}%CONTINUE% //Ancestral Trial ***
+ItemDisplay[t31 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%90% %YELLOW%Light %ORANGE%85% %BLUE%Cold %TEAL%180% %ORANGE%Magic %YELLOW%100% %GREEN%Poison %SAGE%130%%PURPLE%]}%CONTINUE% //River of Blood ***
+ItemDisplay[t24 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%85% %YELLOW%Light %ORANGE%120% %BLUE%Cold %TEAL%75% %GRAY%Phys %LIGHT_GRAY%105% %GREEN%Poison %SAGE%110%%PURPLE%]}%CONTINUE% //Tomb of Zoltun Kulle ***
+ItemDisplay[t11 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%130% %YELLOW%Light %ORANGE%120% %BLUE%Cold %TEAL%75% %GRAY%Phys %LIGHT_GRAY%80% %GREEN%Poison %SAGE%80%%PURPLE%]}%CONTINUE% //Ruins of Viz-jun ***
+ItemDisplay[t33 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%120% %YELLOW%Light %ORANGE%80% %BLUE%Cold %TEAL%110% %GREEN%Poison %SAGE%80%%PURPLE%]}%CONTINUE% //Lost Temple ***
+ItemDisplay[t13 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%125% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%130% %GRAY%Phys %LIGHT_GRAY%110% %GREEN%Poison %SAGE%85%%PURPLE%]}%CONTINUE% //Bastion Keep ***
 
-ItemDisplay[t3a ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%80% %BLUE%Cold %TEAL%130% %ORANGE%Magic %YELLOW% 120% %GREEN%Poison %SAGE%130%%PURPLE%]}%CONTINUE% //Ashen Plains
+ItemDisplay[t3a ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%80% %BLUE%Cold %TEAL%130% %ORANGE%Magic %YELLOW% 120% %GREEN%Poison %SAGE%130%%PURPLE%]}%CONTINUE% //Ashen Plains ***
 ItemDisplay[t35 ID]:%NAME%{%PURPLE%[%RED%G%ORANGE%O%YELLOW%O%GREEN%D %BLUE%L%PURPLE%U%RED%C%GREEN%K%YELLOW%!%PURPLE%]}%CONTINUE% //Blood Moon
-ItemDisplay[t38 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%130% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%80% %GRAY%Phys %LIGHT_GRAY%120% %ORANGE%Magic %YELLOW%70% %GREEN%Poison %SAGE%110%%PURPLE%]}%CONTINUE% //Canyon of Sescheron
-ItemDisplay[t39 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%125% %YELLOW%Light %ORANGE%90% %BLUE%Cold %TEAL%130% %GREEN%Poison %SAGE%110, 1000(Fire TOWER)%%PURPLE%]}%CONTINUE% //Kehjistan Marketplace
-ItemDisplay[t37 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%135% %BLUE%Cold %TEAL%75% %GRAY%Phys %LIGHT_GRAY%100% %GREEN%Poison %SAGE%130%%PURPLE%]}%CONTINUE% //Pandemonium Citadel
+ItemDisplay[t38 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%130% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%80% %GRAY%Phys %LIGHT_GRAY%120% %ORANGE%Magic %YELLOW%70% %GREEN%Poison %SAGE%110%%PURPLE%]}%CONTINUE% //Canyon of Sescheron ***
+ItemDisplay[t39 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%125% %YELLOW%Light %ORANGE%90% %BLUE%Cold %TEAL%130% %GREEN%Poison %SAGE%110, 1000(Fire TOWER)%%PURPLE%]}%CONTINUE% //Kehjistan Marketplace ***
+ItemDisplay[t37 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%135% %BLUE%Cold %TEAL%75% %GRAY%Phys %LIGHT_GRAY%100% %GREEN%Poison %SAGE%130%%PURPLE%]}%CONTINUE% //Pandemonium Citadel ***
 ItemDisplay[t14 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%125% %BLUE%Cold %TEAL%75% %GREEN%Poison %SAGE%130%%PURPLE%]}%CONTINUE% //Sanatorium
-ItemDisplay[t21 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%140% %YELLOW%Light %ORANGE%125% %BLUE%Cold %TEAL%80% %GRAY%Phys %LIGHT_GRAY%75% %GREEN%Poison %SAGE%75%%PURPLE%]}%CONTINUE% //Phlegethon
+ItemDisplay[t21 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%140% %YELLOW%Light %ORANGE%125% %BLUE%Cold %TEAL%80% %GRAY%Phys %LIGHT_GRAY%75% %GREEN%Poison %SAGE%75%%PURPLE%]}%CONTINUE% //Phlegethon ***
 ItemDisplay[t32 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%130% %BLUE%Cold %TEAL%130% %ORANGE%Magic %YELLOW%75% %GREEN%Poison %SAGE%85%%PURPLE%]}%CONTINUE% //Throne of Insanity
-ItemDisplay[t16 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%115% %ORANGE%Magic %YELLOW%125% %GREEN%Poison %SAGE%140%%PURPLE%]}%CONTINUE% //Ruined Cistern
+ItemDisplay[t16 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%135% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%115% %ORANGE%Magic %YELLOW%125% %GREEN%Poison %SAGE%??%%PURPLE%]}%CONTINUE% //Ruined Cistern **
 
 //T5
 ItemDisplay[t51 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%85 %YELLOW%Light %YELLOW%85 %BLUE%Cold %TEAL%85 %GREEN%Poison %SAGE%95 %ORANGE%Magic %YELLOW%40 %WHITE%Phys %LIGHT_GRAY%65%PURPLE%]}%CONTINUE%
