@@ -4832,8 +4832,8 @@ ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG ELT (SOCK=0 OR SOCK>3) (
 
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK=0 OR SOCK>3) (!ETH OR ETH) (SK65>2 OR SK53>1 OR SK58>1 OR SK60>1 OR SK50>1 OR SK57>1 OR SK59>1 OR SK62>1 OR SK64>1 OR SK48>1 OR SK63>1 OR SK369>1) FILTLVL>6]:
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK=0 OR SOCK>3) (!ETH OR ETH) (SK65>2 OR SK53>1 OR SK58>1 OR SK60>1 OR SK50>1 OR SK57>1 OR SK59>1 OR SK62>1 OR SK64>1 OR SK48>1 OR SK63>1 OR SK369>1)]:%NAME%{%NAME%}
-ItemDisplay[WP11 NMAG ELT !6ss !6ls (SOCK>3 OR SOCK=0) FILTLVL>6]:
-ItemDisplay[WP11 NMAG ELT !6ss !6ls (SOCK>3 OR SOCK=0)]:%NAME%{%NAME%}
+ItemDisplay[WP11 !RW NMAG ELT !6ss !6ls (SOCK>3 OR SOCK=0) FILTLVL>6]:
+ItemDisplay[WP11 !RW NMAG ELT !6ss !6ls (SOCK>3 OR SOCK=0)]:%NAME%{%NAME%}
 
 //CLAW ACTIVE -COMPLETE
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 9ar]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%2 %RED%by larzuk%YELLOW%)%NAME%}%CONTINUE%
@@ -5547,7 +5547,7 @@ ItemDisplay[(crs OR mpi OR wax OR hal OR spt OR lbb) !RW NMAG SOCK=6 FILTLVL>6]:
 ItemDisplay[(crs OR mpi OR wax OR hal OR spt OR lbb) !RW NMAG SOCK=6]:%GRAY%%NAME% %PURPLE%[%ORANGE%6Soc %SAGE%Base%PURPLE%]{%WHITE%*******      %TAN%6Soc Base Item      %WHITE%*******%NL%%NAME%}
 
 //imbue
-ItemDisplay[ci3 !ETH NMAG (SOCK=0 OR SOCK=3) FILTLVL>6]:
+ItemDisplay[ci3 !ETH NMAG !RW (SOCK=0 OR SOCK=3) FILTLVL>6]:
 ItemDisplay[ci3 !ETH NMAG (SOCK=0]: %GRAY%%NAME%%ORANGE%(imbue)
 ItemDisplay[ci3 !ETH NMAG (SOCK=3]: %GRAY%%NAME%
 
