@@ -3606,6 +3606,8 @@ ItemDisplay[(7mt OR 7wh) !ETH MAG !ID FILTLVL>7]:
 ItemDisplay[(oba OR obf) !ETH MAG !ID FILTLVL>7]:
 ItemDisplay[(6ws) !ETH MAG !ID FILTLVL>7]:
 
+ItemDisplay[(clb OR 9cl OR 7cl OR spc OR 9sp OR 7sp) !ETH MAG !ID ILVL>50 FILTLVL>7]:
+
 ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft glove]
 ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft helmet]
 ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft helmet(Bar)]
@@ -3651,6 +3653,8 @@ ItemDisplay[(oba OR obf) ETH MAG !ID]: %PURPLE%ETH %BLUE%%NAME%%NL%%GRAY%[craft 
 
 ItemDisplay[(6ws) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft staff]
 ItemDisplay[(6ws) ETH MAG !ID]: %PURPLE%ETH %BLUE%%NAME%%NL%%GRAY%[craft staff]
+
+ItemDisplay[(clb OR 9cl OR 7cl OR spc OR 9sp OR 7sp) !ETH MAG !ID ILVL>50]:%BLUE%%NAME%%NL%%GRAY%[craft club]
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                         BASE ITEM                                           //
