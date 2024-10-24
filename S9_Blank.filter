@@ -67,6 +67,8 @@ ItemDisplay[(7mt OR 7wh) !ETH MAG !ID FILTLVL>7]:
 ItemDisplay[(oba OR obf) !ETH MAG !ID FILTLVL>7]:
 ItemDisplay[(6ws) !ETH MAG !ID FILTLVL>7]:
 
+ItemDisplay[(clb OR 9cl OR 7cl OR spc OR 9sp OR 7sp) !ETH MAG !ID ILVL>50 FILTLVL>7]:
+
 ItemDisplay[(NMAG) cap]:Cap%CONTINUE%
 ItemDisplay[(NMAG) xap]:War Hat%CONTINUE%
 ItemDisplay[(NMAG) uap]:Shako%CONTINUE%
@@ -5985,6 +5987,8 @@ ItemDisplay[(oba OR obf) ETH MAG !ID]:%NAME%%NL%%GRAY%[%GRAY%Craft %TEAL%orb%GRA
 
 ItemDisplay[(6ws) !ETH MAG !ID]:%NAME%%NL%%GRAY%[%GRAY%Craft %TEAL%staff%GRAY%]
 ItemDisplay[(6ws) ETH MAG !ID]:%NAME%%NL%%GRAY%[%GRAY%Craft %TEAL%staff%GRAY%]
+
+ItemDisplay[(clb OR 9cl OR 7cl OR spc OR 9sp OR 7sp) !ETH MAG !ID ILVL>50]:%NAME%%NL%%GRAY%[%GRAY%Craft %TEAL%club%GRAY%]
 
 //OPTION
 ItemDisplay[(WEAPON OR ARMOR) NMAG STAT91=-10]:%RED%10Q %NAME%%CONTINUE%
