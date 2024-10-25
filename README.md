@@ -22,11 +22,11 @@
  ### This is the first Pd2 Filter for Everyone. 
  ### Please feed back to me what is your needs.
  
- ## S6 Updated 26.Nov
- ## S7 Updated 23.Apr
- ## S8 Updated 20.Sep
- ## Craft Season updated 2.Feb,2024
- ## S9 updated 10.Apr,2024
+ #### S6 Updated 26.Nov
+ #### S7 Updated 23.Apr
+ #### S8 Updated 20.Sep
+ #### Craft Season updated 2.Feb,2024
+ #### S9 updated 10.Apr,2024
  ### S10 updated 25.Oct,2024
 
  ### Explanation for Each Filter 
