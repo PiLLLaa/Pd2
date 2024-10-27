@@ -75,6 +75,11 @@ ItemDisplay[SET !ID (WEAPON OR ARMOR OR rin OR amu) FILTLVL>7]:
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                       MISC                                                  //
 /////////////////////////////////////////////////////////////////////////////////////////////////
+//S10
+// PD2 Items - S10 Boss mats
+ItemDisplay[lucb OR lucc OR lucd]:%MAP-0B% %GOLD%%NAME% %RED%(New Uber){%TAN%-- -- -- -- -- -- -- -- -- --  %NL% %GOLD%New Uber Part %NL%%TAN%-- --  -- -- -- -- -- -- -- --}
+ItemDisplay[luca]:%GOLD% %NAME%{%TAN%-- -- -- -- -- -- -- -- -- --  %NL% %GOLD%New Uber Stage %NL%%TAN%-- --  -- -- -- -- -- -- -- --}
+
 ItemDisplay[crfb !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%MAP-0B% %RED%(blood)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %RED%Blood Crafting Item %GOLD% when cubing}
 ItemDisplay[crfc !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%MAP-0B% %BLUE%(caster)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %BLUE%Caster Crafting Item %GOLD% when cubing}
 ItemDisplay[crfs !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%MAP-0B% %GREEN%(safety)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %GREEN%Safety Crafting Item %GOLD% when cubing}
