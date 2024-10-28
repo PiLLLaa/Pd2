@@ -2764,12 +2764,12 @@ ItemDisplay[RW MULTI151,100=1]:%NAME% %RED%+1 FAura%CONTINUE%
 //                                           UNIQUE                                            //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //s10
-ItemDisplay[UNI !ID ulg !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Titan’s Grip%PURPLE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID ulg ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Titan’s Grip%PURPLE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID ulg !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Titan's Grip%PURPLE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID ulg ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Titan's Grip%PURPLE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID ung !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Wraithskin%PURPLE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID ung ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Wraithskin%PURPLE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID urg !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Twilight’s Reflection%PURPLE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID urg ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Twilight’s Reflection%PURPLE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID urg !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Twilight's Reflection%PURPLE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID urg ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Twilight's Reflection%PURPLE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID drc !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Denmother%PURPLE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID drc ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Denmother%PURPLE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID amc !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Ebonbane%PURPLE%(New)     %GOLD%@@@@
