@@ -7585,8 +7585,11 @@ ItemDisplay[SET ID !EQUIPPED mbl LIFE=20]:			%NAME%{%SAGE%+[2-247] Defense (+2.5
 ItemDisplay[SET ID !EQUIPPED buc]:				%NAME%{%SAGE%+[2-247] Defense (+2.5 per Character Level) %ORANGE%<2 Sets>%NL%%NAME%}%CONTINUE%									// Hsarus' Iron Fist
 //ItemDisplay[SET ID !EQUIPPED (hlm OR (spl CLSK4=1) OR 2ax)]: %NAME%{%GOLD%Poison Length Reduced by 75%%NL%+50 to Life %ORANGE%<2 Sets>%NL%%GOLD%+75 Defense%NL%Adds 13-17 poison damage over 3 seconds%NL%+20% Faster Run/Walk%NL%+1 to Barbarian Skill Levels%NL%%WHITE%Set Bonuses:%NL%%NAME%}%CONTINUE%	// Berserker's Arsenal
 ItemDisplay[SET ID !EQUIPPED hlm]:				%NAME%{%SAGE%+[8-792] to Attack Rating (+8 per Character Level) %ORANGE%<2 Sets>%NL%%SAGE%+1 to Barbarian Skill Levels %GOLD%<All Sets>%NL%%NAME%}%CONTINUE%				// Berserker's Headgear
-ItemDisplay[SET ID !EQUIPPED spl CLSK4=1]:			%NAME%{%SAGE%+[4-445] Defense (+4.5 per Character Level) %ORANGE%<2 Sets>%NL%%SAGE%+[3-346]% Enhanced Maximum Damage (+3.5% per Character Level) %GOLD%<All Sets>%NL%%NAME%}%CONTINUE%// Berserker's Hauberk
-ItemDisplay[SET ID !EQUIPPED 2ax]:				%NAME%{%SAGE%+50% Enhanced Damage %ORANGE%<2 Sets>%NL%%SAGE%+1 to Barbarian Skill Levels %GOLD%<All Sets>%NL%%NAME%}%CONTINUE%							// Berserker's Hatchet
+//S10
+ItemDisplay[SET ID !EQUIPPED spl CLSK4=1]:			%NAME%{%SAGE%+[4-445] Defense (+4.5 per Character Level) %ORANGE%<2 Sets>%NL%%SAGE%+[3-346]% Enhanced Maximum Damage (+3% per Character Level) %GOLD%<All Sets>%NL%%NAME%}%CONTINUE%// Berserker's Hauberk
+ItemDisplay[SET ID !EQUIPPED 2ax]:				%NAME%{%SAGE%+50% Enhanced Damage %ORANGE%<2 Sets>%NL%%SAGE%+1 Maximum Damage (Based on Character Level) %GOLD%<All Sets>%NL%%NAME%}%CONTINUE%							// Berserker's Hatchet
+//ItemDisplay[SET ID !EQUIPPED 2ax]:				%NAME%{%SAGE%+50% Enhanced Damage %ORANGE%<2 Sets>%NL%%SAGE%+1 to Barbarian Skill Levels %GOLD%<All Sets>%NL%%NAME%}%CONTINUE%							// Berserker's Hatchet
+
 //ItemDisplay[SET ID !EQUIPPED ((mgl !FCR>19) OR (sml STAT110>74) OR (lsd !(STAT152>0 STAT121>317)))]: %NAME%{%GOLD%+50 Defense %ORANGE%<2 Sets>%GOLD%, +100 %WHITE%<All>%NL%%GOLD%+35% Chance of Crushing Blow%NL%6% Mana stolen per hit%NL%+20% Increased Attack Speed%NL%%WHITE%Set Bonuses:%NL%%NAME%}%CONTINUE%	// Cleglaw's Brace
 ItemDisplay[SET ID !EQUIPPED mgl !FCR>19]:			%NAME%{%SAGE%+[10-990] to Attack Rating (+10 per Character Level) %ORANGE%<2 Sets>%NL%%NAME%}%CONTINUE%								// Cleglaw's Pincers
 ItemDisplay[SET ID !EQUIPPED sml STAT110>74]:			%NAME%{%SAGE%All Resistances +15 %ORANGE%<2 Sets>%NL%%NAME%}%CONTINUE%												// Cleglaw's Claw
@@ -7612,15 +7615,21 @@ ItemDisplay[SET ID !EQUIPPED brs !STAT32>199]:		%NAME%{%SAGE%+[2-198] Defense (+
 ItemDisplay[SET ID !EQUIPPED gts STAT238>0]:			%NAME%{%SAGE%Fire Resist +[1-99]% (+1% per Character Level) %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%									// Isenhart's Parry
 ItemDisplay[SET ID !EQUIPPED bsd]:				%NAME%{%SAGE%+[5-495] to Maximum Lightning Damage (+5 per Character Level) %ORANGE%<2 Sets>%NL%%NAME%}%CONTINUE%							// Isenhart's Lightbrand
 //ItemDisplay[SET ID !EQUIPPED (lrg OR gsc OR (amu STAT27=40))]: %NAME%{%GOLD%Fire Resist +25% %ORANGE%<2 Sets>%NL%%GOLD%Lightning Resist +25%%NL%+15 to Strength%NL%+200% Damage to Undead%NL%%WHITE%Set Bonuses:%NL%%NAME%}%CONTINUE%	// Civerb's Vestments
-ItemDisplay[SET ID !EQUIPPED lrg]:				%NAME%{%SAGE%+22 to Mana %GRAY%<with Icon>%NL%%SAGE%Poison Resist +26% %GRAY%<with Cudgel>%NL%%NAME%}%CONTINUE%								// Civerb's Ward
-//ItemDisplay[SET ID !EQUIPPED gsc]:				%NAME%{%NAME%}%CONTINUE%																	// Civerb's Cudgel
+//s10
+ItemDisplay[SET ID !EQUIPPED lrg]:				%NAME%{%SAGE%Physical Damage Taken Reduced by 10% %GRAY%<with Icon>%NL%%SAGE%Poison Resist +26% %GRAY%<with Cudgel>%NL%%NAME%}%CONTINUE%								// Civerb's Ward
+//ItemDisplay[SET ID !EQUIPPED lrg]:				%NAME%{%SAGE%+22 to Mana %GRAY%<with Icon>%NL%%SAGE%Poison Resist +26% %GRAY%<with Cudgel>%NL%%NAME%}%CONTINUE%								// Civerb's Ward
+//ItemDisplay[SET ID !EQUIPPED gsc]:				%NAME%{%NAME%}%CONTINUE%	
 ItemDisplay[SET ID !EQUIPPED amu STAT27=40]:			%NAME%{%SAGE%Cold Resist +25% %ORANGE%<2 Sets>%NL%%SAGE%Physical Damage Taken Reduced by 10% %GOLD%<All Sets>%NL%%NAME%}%CONTINUE%							// Civerb's Icon
 //ItemDisplay[SET ID !EQUIPPED ((msk !STAT60>5) OR chn OR bst OR (amu FHR>9 STAT41>19) OR (rin STAT60>5 STAT34>1))]: %NAME%{%GOLD%Magic Damage Taken Reduced by 3%NL%All Resistances +25%NL%+20 to Mana%NL%Adds 15-20 fire damage %ORANGE%<2 Sets>%NL%%GOLD%+60 to Attack Rating%NL%+10% Faster Cast Rate%NL%+2 to Traps (Assassin Only)%NL%%WHITE%Set Bonuses:%NL%%NAME%}%CONTINUE%	// Cathan's Traps
+//cathan
 ItemDisplay[SET ID !EQUIPPED msk !STAT60>5]:			%NAME%{%SAGE%+[2-198] Defense (+2 per Character Level) %ORANGE%<2 Sets>%NL%%NAME%}%CONTINUE%										// Cathan's Visage
 ItemDisplay[SET ID !EQUIPPED chn]:				%NAME%{%SAGE%Attacker Takes Damage of [1-99] (1 per Character Level) %ORANGE%<2 Sets>%NL%%SAGE%Fire Resist +30% %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%			// Cathan's Mesh
 ItemDisplay[SET ID !EQUIPPED bst]:				%NAME%{%SAGE%+50 to Mana %ORANGE%<2 Sets>%NL%%SAGE%All Resistances +10 %CORAL%<3 Sets>%NL%%SAGE%-35% Target Defense %PURPLE%<4 Sets>%NL%%SAGE%+40% Increased Attack Speed %GOLD%<All Sets>%NL%%NAME%}%CONTINUE%	// Cathan's Rule
 ItemDisplay[SET ID !EQUIPPED amu FHR>9 STAT41>19]:		%NAME%{%SAGE%+50 to Attack Rating %ORANGE%<2 Sets>%NL%%SAGE%25% Better Chance of Getting Magic Items %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%					// Cathan's Sigil
-ItemDisplay[SET ID !EQUIPPED rin STAT60>5 STAT34>1]:		%NAME%{%SAGE%+10 to Strength %ORANGE%<2 Sets>%NL%%SAGE%+10 to Maximum Damage %PURPLE%<4 Sets>%NL%%NAME%}%CONTINUE%								// Cathan's Seal
+//s10
+ItemDisplay[SET ID !EQUIPPED rin STAT60>5 STAT34>1]:		%NAME%{%SAGE%+10 to Strength %ORANGE%<2 Sets>%NL%%SAGE%+10 to Maximum Damage %PURPLE%<3 Sets>%NL%%NAME%}%CONTINUE%								// Cathan's Seal
+//ItemDisplay[SET ID !EQUIPPED rin STAT60>5 STAT34>1]:		%NAME%{%SAGE%+10 to Strength %ORANGE%<2 Sets>%NL%%SAGE%+10 to Maximum Damage %PURPLE%<4 Sets>%NL%%NAME%}%CONTINUE%								// Cathan's Seal
+
 //ItemDisplay[SET ID !EQUIPPED (rng OR sbr OR (amu STAT89=3) OR (rin REPLIFE=6))]: %NAME%{%GOLD%40% Better Chance of Getting Magic Items%NL%Cannot Be Frozen%NL%All Resistances +25%NL%Regenerate Mana 8%%NL%+50 to Mana %CORAL%<3 Sets>%NL%%GOLD%+10 to Dexterity %ORANGE%<2 Sets>%NL%%WHITE%Set Bonuses:%NL%%NAME%}%CONTINUE%	// Angelic Raiment
 ItemDisplay[SET ID !EQUIPPED rng]:				%NAME%{%SAGE%+150 Defense %ORANGE%<2 Sets>%NL%%SAGE%Fire Resistance +50% %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%								// Angelic Mantle
 ItemDisplay[SET ID !EQUIPPED sbr]:				%NAME%{%SAGE%+75% Enhanced Damage %ORANGE%<2 Sets>%NL%%SAGE%+30% Increased Attack Speed %CORAL%<3 Sets>%NL%%SAGE%10% Chance to cast level 1 Fist of the Heavens on striking %GOLD%<All Sets>%NL%%NAME%}%CONTINUE%	// Angelic Sickle
@@ -7642,16 +7651,23 @@ ItemDisplay[SET ID !EQUIPPED tbl !LIFE=20]:			%NAME%{%SAGE%+10 to Dexterity %ORA
 ItemDisplay[SET ID !EQUIPPED tgl STAT118>0]:			%NAME%{%SAGE%+20% Increased Attack Speed %ORANGE%<2 Sets>%NL%%NAME%}%CONTINUE%											// Iratha's Cuff
 ItemDisplay[SET ID !EQUIPPED amu STAT110>24]:			%NAME%{%SAGE%All Resistances +10 %ORANGE%<2 Sets>%NL%%SAGE%+1 to Amazon Skill Levels %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%							// Iratha's Collar
 //ItemDisplay[SET ID !EQUIPPED ((crn LIFE>14 MANA>14 STAT55>34) OR (aar CLSK3=0 TABSK32=0) OR kit OR (wsp CLSK3=1))]: %NAME%{%GOLD%Poison Resist +15%%NL%8% Life stolen per hit%NL%10% Mana stolen per hit%NL%+75 to Attack Rating %ORANGE%<2 Sets>%GOLD%, +200 %CORAL%<3 Sets>%NL%%GOLD%+2 to Paladin Skills%NL%%WHITE%Set Bonuses:%NL%%NAME%}%CONTINUE%	// Milabrega's Regalia
+//Milabrega
 ItemDisplay[SET ID !EQUIPPED crn LIFE>14 MANA>14 STAT55>34]:	%NAME%{%SAGE%Cold Resist +40% %ORANGE%<2 Sets>%NL%%NAME%}%CONTINUE%													// Milabrega's Diadem
-ItemDisplay[SET ID !EQUIPPED aar CLSK3=0 TABSK32=0]:		%NAME%{%SAGE%+100% Enhanced Defense %ORANGE%<2 Sets>%NL%%SAGE%14% Chance to cast level 5 Frost Nova on striking %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%			// Milabrega's Robe
+//s10
+ItemDisplay[SET ID !EQUIPPED aar CLSK3=0 TABSK32=0]:		%NAME%{%SAGE%14% Chance to cast level 5 Frost Nova on striking %CORAL%<2 Sets>%NL%%NAME%}%CONTINUE%			// Milabrega's Robe
 ItemDisplay[SET ID !EQUIPPED kit]:				%NAME%{%SAGE%25% Chance to cast level 6 Frost Nova when struck %ORANGE%<2 Sets>%NL%%SAGE%+50% Enhanced Defense %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%			// Milabrega's Orb
-ItemDisplay[SET ID !EQUIPPED wsp CLSK3=1]:			%NAME%{%SAGE%12% Chance to cast level 6 Frost Nova on striking %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%									// Milabrega's Rod
+//s10
+ItemDisplay[SET ID !EQUIPPED wsp CLSK3=1]:			%NAME%{%SAGE%12% Chance to cast level 6 Frost Nova on striking %CORAL%<2 Sets>%NL%%NAME%}%CONTINUE%									// Milabrega's Rod
+//ItemDisplay[SET ID !EQUIPPED wsp CLSK3=1]:			%NAME%{%SAGE%12% Chance to cast level 6 Frost Nova on striking %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%									// Milabrega's Rod
+
 //ItemDisplay[SET ID !EQUIPPED ((bhm !MANA>149 !(DEX>19 STR>9 STAT35>2)) OR (ful TABSK18=0 TABSK41=0) OR (lbt STAT36>4) OR mpi OR (amu STAT34>2))]: %NAME%{%GOLD%75% Extra Gold from Monsters%NL%All Resistances +10%NL%Slows Target by 35%%NL%5% Life stolen per hit %CORAL%<3 Sets>%NL%%GOLD%+[0-74] to Maximum Lightning Damage (+0.75 per Character Level)%NL%%WHITE%Set Bonuses:%NL%%NAME%}%CONTINUE%	// Tancred's Battlegear
+//Tancred
 ItemDisplay[SET ID !EQUIPPED bhm !MANA>149 !(DEX>19 STR>9)]:	%NAME%{%SAGE%All Resistances +10 %ORANGE%<2 Sets>%NL%%NAME%}%CONTINUE%												// Tancred's Skull
 ItemDisplay[SET ID !EQUIPPED ful TABSK18=0 TABSK41=0]:	%NAME%{%SAGE%+[6-594] Defense (+6 per Character Level) %ORANGE%<2 Sets>%NL%%NAME%}%CONTINUE%										// Tancred's Spine
 ItemDisplay[SET ID !EQUIPPED lbt STAT36>4]:			%NAME%{%SAGE%+30% Faster Run/Walk %ORANGE%<2 Sets>%NL%%SAGE%+10 to Strength %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%								// Tancred's Hobnails
 ItemDisplay[SET ID !EQUIPPED mpi]:				%NAME%{%SAGE%+20% Increased Attack Speed %ORANGE%<2 Sets>%NL%%SAGE%20% Chance to cast level 12 Charged bolt on attack %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%			// Tancred's Crowbill
 ItemDisplay[SET ID !EQUIPPED amu STAT34>2]:			%NAME%{%SAGE%78% Better Chance of Getting Magic Items %ORANGE%<2 Sets>%NL%%SAGE%+160 to Attack Rating %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%
+
 // ... Uncommon Sets																												
 //ItemDisplay[SET ID !EQUIPPED ((xap ALLSK>0 STAT153>0 DTM>34 STAT78>9) OR stu OR (vbt DEX>19 STAT80>24))]: %NAME%{%GOLD%100% Better Chance of Getting Magic Items%NL%100% Extra Gold from Monsters%NL%Poison Resist +25% %ORANGE%<2 Sets>%NL%%GOLD%+100 Maximum Stamina%NL%+30% Increased Attack Speed%NL%25% Chance to cast level 18 Static Field when struck%NL%%WHITE%Set Bonuses:%NL%%NL%%NAME%}%CONTINUE%	// Cow King's Leathers
 //ItemDisplay[SET ID !EQUIPPED ((cap STAT214>0) OR (vbt STR>4 AR>99 FRW>39) OR (vgl !STAT156>19) OR bwn)]: %NAME%{%GOLD%50% Better Chance of Getting Magic Items%NL%+50 to Mana%NL%+50 Defense %ORANGE%<2 Sets>%NL%%GOLD%4% Life stolen per hit%NL%+75 to Attack Rating %CORAL%<3 Sets>%NL%%GOLD%+1 to All Skills%NL%%WHITE%Set Bonuses:%NL%%NL%%NAME%}%CONTINUE%	// Sander's Folly
@@ -7659,10 +7675,14 @@ ItemDisplay[SET ID !EQUIPPED bwn]:				%NAME%{%SAGE%+2 to All Skills %ORANGE%<2 S
 //ItemDisplay[SET ID !EQUIPPED ((xrn REPLIFE>29 STAT43>36) OR (xcl !TABSK49>1) OR (mbl STAT144>3) OR 9vo)]: %NAME%{%GOLD%All Resistances +30%NL%+100 Defense %ORANGE%<2 Sets>%GOLD%, +300 %CORAL%<3 Sets>%NL%%GOLD%20% Life stolen per hit%NL%+100% Damage to Demons%NL%+30% Faster Run/Walk%NL%+2 to All Skills%NL%%WHITE%Set Bonuses:%NL%%NL%%NAME%}%CONTINUE%	// Hwanin's Majesty
 ItemDisplay[SET ID !EQUIPPED 9vo]:				%NAME%{%SAGE%20% Chance to cast level 16 Static Field on striking %ORANGE%<2 Sets>%NL%%NAME%}%CONTINUE%								// Hwanin's Justice
 //ItemDisplay[SET ID !EQUIPPED ((xhm STAT136=35) OR (ztb STAT62>3) OR (xvg STAT156>19) OR (xml !STAT110>74))]: %NAME%{%GOLD%80% Better Chance of Getting Magic Items%NL%Attacker Takes Damage of 250 %CORAL%<3 Sets>%NL%%GOLD%All Resistances +30%NL%+35 to Life %ORANGE%<2 Sets>%GOLD%, +135 %GRAY%<All>%NL%%GOLD%+10 to Dexterity%NL%+20 to Strength%NL%+100 Defense%NL%%WHITE%Set Bonuses:%NL%%NL%%NAME%}%CONTINUE%	// Orphan's Call
+//Orphan
 ItemDisplay[SET ID !EQUIPPED xhm STAT136=35]:			%NAME%{%SAGE%-20% Target Defense %ORANGE%<2 Sets>%NL%%NAME%}%CONTINUE%												// Guillaume's Face
-ItemDisplay[SET ID !EQUIPPED ztb STAT62>3]:			%NAME%{%SAGE%+100% Damage to Demons %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%												// Wilhelm's Pride
-ItemDisplay[SET ID !EQUIPPED xvg STAT156>19]:			%NAME%{%SAGE%+100% Damage to Undead %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%												// Magnus' Skin
+//s10
+ItemDisplay[SET ID !EQUIPPED ztb STAT62>3]:			%NAME%{%SAGE%+150% Damage to Demons %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%												// Wilhelm's Pride
+ItemDisplay[SET ID !EQUIPPED xvg STAT156>19]:			%NAME%{%SAGE%+150% Damage to Undead %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%												// Magnus' Skin
+
 ItemDisplay[SET ID !EQUIPPED xml !STAT110>74]:		%NAME%{%SAGE%+150% Enhanced Damage %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%												// Whitstan's Guard
+
 //ItemDisplay[SET ID !EQUIPPED ((uui STAT122>199) OR (xlb !STAT36>4) OR (umc RES>14) OR (ulg STAT39>29) OR (amu ALLSK>0 STAT45>34))]: %NAME%{%GOLD%All Resistances +50%NL%+100 to Mana%NL%+10 to Strength %PURPLE%<4 Sets>%NL%%GOLD%+150 Defense %ORANGE%<2 Sets>%NL%%GOLD%+150% Damage to Undead%NL%+150% Damage to Demons%NL%+2 to All Skills%NL%%WHITE%Set Bonuses:%NL%%NL%%NAME%}%CONTINUE%	// The Disciple
 ItemDisplay[SET ID !EQUIPPED umc RES>14]:			%NAME%{%SAGE%+20% Faster Hit Recovery %CORAL%<3 Sets>%NL%%NAME%}%CONTINUE%												// Credendum
 ItemDisplay[SET ID !EQUIPPED ulg STAT39>29]:			%NAME%{%SAGE%+220 poison damage over 2 seconds %ORANGE%<2 Sets>%NL%%NAME%}%CONTINUE%											// Laying of Hands
