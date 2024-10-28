@@ -2724,12 +2724,12 @@ ItemDisplay[RW MULTI151,100=1]:%NAME% %RED%+1 FAura%CONTINUE%
 //                                           UNIQUE                                            //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //s10
-ItemDisplay[UNI !ID ulg !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Titan’s Grip%PURPLE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
-ItemDisplay[UNI !ID ulg ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Titan’s Grip%PURPLE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID ulg !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Titan's Grip%PURPLE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID ulg ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Titan's Grip%PURPLE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID ung !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Wraithskin%PURPLE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID ung ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Wraithskin%PURPLE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
-ItemDisplay[UNI !ID urg !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Twilight’s Reflection%PURPLE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
-ItemDisplay[UNI !ID urg ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Twilight’s Reflection%PURPLE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID urg !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Twilight's Reflection%PURPLE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID urg ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Twilight's Reflection%PURPLE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID drc !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Denmother%PURPLE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID drc ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Denmother%PURPLE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID amc !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Ebonbane%PURPLE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
