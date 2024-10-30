@@ -108,5 +108,5 @@
          Leve10 No Arrow(Rare)+Only GG base Item
          Level1 No CraftWeapon(Only Active ETH+Bows(GMB))
          Level2 No AllSet(rin+amu)
-      
+      3) The expression of New uber materials are changed
 ----------------------------------------------------------------------------------------------------------------------
