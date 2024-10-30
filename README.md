@@ -92,3 +92,21 @@
       1) Bug fixed for drop of circle base
       
 ----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+     4. 30.Oct
+      1) Witchwild string/Grim burning hand drop level change from rainbow to Red
+      2) Filter level rebuiled 
+         Level Standard 
+         Leve2 No Bolt(M)+Arrow(M)+ThrowingPotion+Ring(M)
+         Leve3 No CraftArmor
+         Leve4 No Claw(M)+ClassHelmet(M)+Javel(M)
+         Leve5 No NormalSet(Only Active Sigon)
+         Leve6 No NecHead(M)+Wand(M)
+         Leve7 No Amulet(M)+Circlet(M)+Glove(M)
+         Leve8 No Sigon+HP/MP+Anti
+         Leve9 No Bolt(Rare)+R35
+         Leve10 No Arrow(Rare)+Only GG base Item
+         Level1 No CraftWeapon(Only Active ETH+Bows(GMB))
+         Level2 No AllSet(rin+amu)
+      
+----------------------------------------------------------------------------------------------------------------------
