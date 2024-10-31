@@ -273,26 +273,29 @@ ItemDisplay[tpfs DIFF<1]:%RED%!%WHITE%F1{%GOLD%Reducing %RED%fire resistance %GO
 ItemDisplay[tpfs DIFF>0]:
 ItemDisplay[tpfm DIFF<2]:%RED%!%WHITE%F2{%GOLD%Reducing %RED%fire resistance %GOLD% of enemies}
 ItemDisplay[tpfm DIFF>0]:
-ItemDisplay[tpfl]:%RED%!%WHITE%F3{%GOLD%Reducing %RED%fire resistance %GOLD% of enemies}
+ItemDisplay[tpfl DIFF<2]:%RED%!%WHITE%F3{%GOLD%Reducing %RED%fire resistance %GOLD% of enemies}
+ItemDisplay[tpfl DIFF>0]:
 
 ItemDisplay[tpgs DIFF<1]:%GREEN%!%WHITE%P1{%GOLD%Reducing %GREEN%Poison resistance %GOLD% of enemies}
 ItemDisplay[tpgs DIFF>0]:
 ItemDisplay[tpgm DIFF<2]:%GREEN%!%WHITE%P2{%GOLD%Reducing %GREEN%Poison resistance %GOLD% of enemies}
 ItemDisplay[tpgm DIFF>0]:
-ItemDisplay[tpgl]:%GREEN%!%WHITE%P3{%GOLD%Reducing %GREEN%Poison resistance %GOLD% of enemies}
+ItemDisplay[tpgl DIFF<2]:%GREEN%!%WHITE%P3{%GOLD%Reducing %GREEN%Poison resistance %GOLD% of enemies}
+ItemDisplay[tpgl DIFF>0]:
 
 ItemDisplay[tpcs DIFF<1]:%BLUE%!%WHITE%C1{%GOLD%Reducing %BLUE%Cold resistance %GOLD% of enemies}
 ItemDisplay[tpcs DIFF>0]:
 ItemDisplay[tpcm DIFF<2]:%BLUE%!%WHITE%C2{%GOLD%Reducing %BLUE%Cold resistance %GOLD% of enemies}
 ItemDisplay[tpcm DIFF>0]:
-ItemDisplay[tpcl]:%BLUE%!%WHITE%C3{%GOLD%Reducing %BLUE%Cold resistance %GOLD% of enemies}
+ItemDisplay[tpcl DIFF<2]:%BLUE%!%WHITE%C3{%GOLD%Reducing %BLUE%Cold resistance %GOLD% of enemies}
+ItemDisplay[tpcl DIFF>0]:
 
 ItemDisplay[tpls DIFF<1]:%YELLOW%!%WHITE%L1{%GOLD%Reducing %YELLOW%Lightning resistance %GOLD% of enemies}
 ItemDisplay[tpls DIFF>0]:
 ItemDisplay[tplm DIFF<2]:%YELLOW%!%WHITE%L2{%GOLD%Reducing %YELLOW%Lightning resistance %GOLD% of enemies}
 ItemDisplay[tplm DIFF>0]:
-ItemDisplay[tpll]:%YELLOW%!%WHITE%L3{%GOLD%Reducing %YELLOW%Lightning resistance %GOLD% of enemies}
-
+ItemDisplay[tpll DIFF<2]:%YELLOW%!%WHITE%L3{%GOLD%Reducing %YELLOW%Lightning resistance %GOLD% of enemies}
+ItemDisplay[tpll DIFF>0]:
 ItemDisplay[hp5]:%RED%!%WHITE%HP
 ItemDisplay[mp5]:%BLUE%!%WHITE%MP
 ItemDisplay[hp4 DIFF<1]:%RED%!%WHITE%HP4
