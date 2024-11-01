@@ -3819,18 +3819,18 @@ ItemDisplay[UNI !ID dr2]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Quetzalcoatl%PUR
 ItemDisplay[UNI !ID pa3]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Sankekurs Fall%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 
 //S10
-ItemDisplay[UNI !ID ulg !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Titan's Grip%PURPLE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID ulg ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Titan's Grip%PURPLE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID ung !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Wraithskin%PURPLE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID ung ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Wraithskin%PURPLE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID urg !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Twilight's Reflection%PURPLE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID urg ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Twilight's Reflection%PURPLE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID drc !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Denmother%PURPLE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID drc ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Denmother%PURPLE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID amc !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Ebonbane%PURPLE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID amc ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Ebonbane%PURPLE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID 7di !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Shatterblade%PURPLE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID 7di ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Shatterblade%PURPLE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID ulg !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Titan's Grip%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID ulg ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Titan's Grip%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID ung !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Wraithskin%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID ung ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Wraithskin%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID urg !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Twilight's Reflection%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID urg ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Twilight's Reflection%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID drc !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Denmother%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID drc ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Denmother%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID amc !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Ebonbane%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID amc ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Ebonbane%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID 7di !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Shatterblade%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID 7di ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Shatterblade%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
 
 ItemDisplay[(WEAPON OR ARMOR) UNI !ID]:%GOLD%+%ORANGE%+       %GOLD%%NAME%       %ORANGE%+%GOLD%+
 
