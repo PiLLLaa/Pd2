@@ -6778,7 +6778,7 @@ ItemDisplay[(rin OR amu OR ram) ID (SET OR UNI OR RW) STAT360=45]:%NAME% %RED%*%
 ItemDisplay[(rin OR amu OR ram) ID (SET OR UNI OR RW) STAT360=46]:%NAME% %RED%*%WHITE%Pdr.{%NAME%}%CONTINUE%
 ItemDisplay[(rin OR amu OR ram) ID (SET OR UNI OR RW) STAT360=47]:%NAME% %RED%*%WHITE%Mdr{%NAME%}%CONTINUE%
 ItemDisplay[(rin OR amu OR ram) ID (SET OR UNI OR RW) STAT360=48]:%NAME% %RED%*%WHITE%ind.*{%NAME%}%CONTINUE%
-ItemDisplay[(rin OR amu OR ram) ID (SET OR UNI OR RW) STAT360=49]:%NAME% %RED%*%WHITE%Reduced Curse Duration{%NAME%}%CONTINUE%
+ItemDisplay[(rin OR amu OR ram) ID (SET OR UNI OR RW) STAT360=49]:%NAME% %RED%*%WHITE%Curse{%NAME%}%CONTINUE%
 
 ItemDisplay[(rin OR amu OR ram) ID (SET OR UNI OR RW) STAT360=50]:%NAME% %RED%*%WHITE%Allsk{%NAME%}%CONTINUE%
 ItemDisplay[(rin OR amu OR ram) ID (SET OR UNI OR RW) STAT360=51]:%NAME% %RED%*%WHITE%AllRes{%NAME%}%CONTINUE%
