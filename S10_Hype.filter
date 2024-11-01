@@ -1521,8 +1521,8 @@ ItemDisplay[t60 OR t61 OR t62 OR t63 OR t64 OR t65 OR t66 OR t67 OR t68 OR t69]:
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                   QUIVERS&BOLTS                                             //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[(aqv) RARE !ID]: %DOT-6F%%GREEN%*%ORANGE%*%YELLOW%*%PURPLE%*    %YELLOW%%NAME%    %PURPLE%*%ORANGE%*%YELLOW%*%GREEN%*
-ItemDisplay[(cqv) RARE !ID]: %YELLOW%*%GREEN%*    %YELLOW%%NAME%    %YELLOW%*%GREEN%*
+ItemDisplay[(aqv) RARE !ID]: %DOT-6F%%GREEN%*%ORANGE%*%YELLOW%*%PURPLE%*    %WHITE%[%YELLOW%Arrow%WHITE%]    %PURPLE%*%ORANGE%*%YELLOW%*%GREEN%*
+ItemDisplay[(cqv) RARE !ID]: %YELLOW%*%GREEN%*    %WHITE%[%YELLOW%Bolt%WHITE%]    %YELLOW%*%GREEN%*
 ItemDisplay[(aqv OR cqv) UNI !ID CLVL<80]: %NAME%
 ItemDisplay[(aqv OR cqv) UNI !ID CLVL>79]:
 ItemDisplay[(aqv OR cqv) MAG !ID CLVL<10]: %NAME%
@@ -2007,8 +2007,15 @@ ItemDisplay[MAG rin ID]: %BLUE%%NAME%%CONTINUE%
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                        CIRCLET                                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[RARE EQ7 !ETH !ID]: %DOT-6F%%GREEN%%CORAL%*****    %YELLOW%%NAME%    %GREEN%%CORAL%*****
-ItemDisplay[RARE EQ7 ETH !ID]: %DOT-6F%%GREEN%%CORAL%*****   %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %YELLOW%%NAME%    %GREEN%%CORAL%*****
+ItemDisplay[RARE ci0 !ETH !ID]: %DOT-6F%GREEN%CORAL%*****    %GREEN%[%YELLOW%Circlet%GREEN%]    %GREEN%%CORAL%*****
+ItemDisplay[RARE ci0 ETH !ID]: %DOT-6F%GREEN%CORAL%*****   %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %GREEN%[%YELLOW%Circlet%GREEN%]    %GREEN%%CORAL%*****
+ItemDisplay[RARE ci1 !ETH !ID]: %DOT-6F%GREEN%CORAL%*****    %GREEN%[%YELLOW%Coronet%GREEN%]    %GREEN%%CORAL%*****
+ItemDisplay[RARE ci1 ETH !ID]: %DOT-6F%GREEN%CORAL%*****   %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %GREEN%[%YELLOW%Coronet%GREEN%]    %GREEN%%CORAL%*****
+ItemDisplay[RARE ci2 !ETH !ID]: %DOT-6F%GREEN%CORAL%*****    %GREEN%[%YELLOW%Tiara%GREEN%]    %GREEN%%CORAL%*****
+ItemDisplay[RARE ci2 ETH !ID]: %DOT-6F%GREEN%CORAL%*****   %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %GREEN%[%YELLOW%Tiara%GREEN%]    %GREEN%%CORAL%*****
+ItemDisplay[RARE ci3 !ETH !ID]: %DOT-6F%GREEN%CORAL%*****    %GREEN%[%YELLOW%Diadem%WHITE%]    %GREEN%%CORAL%*****
+ItemDisplay[RARE ci3 ETH !ID]: %DOT-6F%GREEN%CORAL%*****   %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %GREEN%[%YELLOW%Diadem%GREEN%]    %GREEN%%CORAL%*****
+
 //CLSK1 SORCERESS, CLSK2 NECROMANCER, CLSK3 PALADIN, CLSK6 ASSASIN, CLSK0 AMAZON
 
 ItemDisplay[RARE EQ7 !ETH ID (CLSK1>1 AND STAT105>0)]:%YELLOW%%NAME%%NL%%RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*%GREEN%+2Soc %RED%F%ORANGE%c%PURPLE%r%RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*%CONTINUE%
@@ -2043,9 +2050,11 @@ ItemDisplay[RARE EQ7 !ETH ID !(CLSK0>1 OR CLSK1>1 OR CLSK2>1 OR CLSK3>1 OR CLSK4
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                    RARE/SET AMU/RIN/JEW DROP                                //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[RARE (amu OR rin OR jew) !ID]: %DOT-6F%%GREEN%%TEAL%****    %YELLOW%%NAME%    %GREEN%%TEAL%****
-ItemDisplay[SET !ID amu]: %DOT-84%%PURPLE%****    %GREEN%%NAME%    %PURPLE%****
-ItemDisplay[SET !ID rin]: %DOT-84%%PURPLE%%SAGE%****    %GREEN%%NAME%    %PURPLE%%SAGE%****
+ItemDisplay[RARE (amu) !ID]: %DOT-6F%%GREEN%%TEAL%****    %WHITE%[%YELLOW%%NAME%%WHITE%]    %GREEN%%TEAL%****
+ItemDisplay[RARE (rin) !ID]: %DOT-6F%%GREEN%%TEAL%****    %WHITE%[  %YELLOW%%NAME%  %WHITE%]    %GREEN%%TEAL%****
+ItemDisplay[RARE (jew) !ID]: %DOT-6F%%GREEN%%TEAL%****    %WHITE%[%YELLOW%%NAME%%WHITE%]    %GREEN%%TEAL%****
+ItemDisplay[SET !ID amu]: %DOT-84%%PURPLE%****    %WHITE%[%GREEN%%NAME%%WHITE%]    %PURPLE%****
+ItemDisplay[SET !ID rin]: %DOT-84%%PURPLE%%SAGE%****    %WHITE%[  %GREEN%%NAME%  %WHITE%]    %PURPLE%%SAGE%****
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                     ARROWS MARKING                                         //
 /////////////////////////////////////////////////////////////////////////////////////////////////
