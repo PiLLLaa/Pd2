@@ -1469,8 +1469,8 @@ ItemDisplay[t60 OR t61 OR t62 OR t63 OR t64 OR t65 OR t66 OR t67 OR t68 OR t69]:
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                   QUIVERS&BOLTS                                             //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[(aqv) RARE !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*%CORAL%*    %WHITE%[%YELLOW%Arrow%WHITE%]    %CORAL%*%ORANGE%*%BLUE%*%PURPLE%*
-ItemDisplay[(cqv) RARE !ID]: %ORANGE%*%BLUE%*    %WHITE%[%YELLOW%Bolt%WHITE%]   %ORANGE%*%BLUE%*
+ItemDisplay[(aqv) RARE !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*%CORAL%*    %WHITE%[ %YELLOW%Arrow %WHITE%]    %CORAL%*%ORANGE%*%BLUE%*%PURPLE%*
+ItemDisplay[(cqv) RARE !ID]: %ORANGE%*%BLUE%*    %WHITE%[ %YELLOW%Bolt %WHITE%]   %ORANGE%*%BLUE%*
 ItemDisplay[(aqv OR cqv) UNI !ID CLVL<80]: %NAME%
 ItemDisplay[(aqv OR cqv) UNI !ID CLVL>79]:
 ItemDisplay[(aqv OR cqv) MAG !ID CLVL<10]: %NAME%
@@ -1955,14 +1955,14 @@ ItemDisplay[MAG rin ID]: %BLUE%%NAME%%CONTINUE%
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                        CIRCLET                                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[RARE ci0 !ETH !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*    %GREEN%[%YELLOW%Circlet%GREEN%]    %ORANGE%*%BLUE%*%PURPLE%*
-ItemDisplay[RARE ci0 ETH !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*   %WHITE%eth %GREEN%[%YELLOW%Circlet%GREEN%]    %ORANGE%*%BLUE%*%PURPLE%*
-ItemDisplay[RARE ci1 !ETH !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*    %GREEN%[%YELLOW%Coronet%GREEN%]    %ORANGE%*%BLUE%*%PURPLE%*
-ItemDisplay[RARE ci1 ETH !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*   %WHITE%eth %GREEN%[%YELLOW%Coronet%GREEN%]    %ORANGE%*%BLUE%*%PURPLE%*
-ItemDisplay[RARE ci2 !ETH !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*    %GREEN%[%YELLOW%Tiara%GREEN%]    %ORANGE%*%BLUE%*%PURPLE%*
-ItemDisplay[RARE ci2 ETH !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*   %WHITE%eth %GREEN%[%YELLOW%Tiara%GREEN%]    %ORANGE%*%BLUE%*%PURPLE%*
-ItemDisplay[RARE ci3 !ETH !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*    %GREEN%[%YELLOW%Diadem%WHITE%]    %ORANGE%*%BLUE%*%PURPLE%*
-ItemDisplay[RARE ci3 ETH !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*   %WHITE%eth %GREEN%[%YELLOW%Diadem%WHITE%]    %ORANGE%*%BLUE%*%PURPLE%*
+ItemDisplay[RARE ci0 !ETH !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*    %GREEN%[ %YELLOW%Circlet %GREEN%]    %ORANGE%*%BLUE%*%PURPLE%*
+ItemDisplay[RARE ci0 ETH !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*   %WHITE%eth %GREEN%[ %YELLOW%Circlet %GREEN%]    %ORANGE%*%BLUE%*%PURPLE%*
+ItemDisplay[RARE ci1 !ETH !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*    %GREEN%[ %YELLOW%Coronet %GREEN%]    %ORANGE%*%BLUE%*%PURPLE%*
+ItemDisplay[RARE ci1 ETH !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*   %WHITE%eth %GREEN%[ %YELLOW%Coronet %GREEN%]    %ORANGE%*%BLUE%*%PURPLE%*
+ItemDisplay[RARE ci2 !ETH !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*    %GREEN%[ %YELLOW%Tiara %GREEN%]    %ORANGE%*%BLUE%*%PURPLE%*
+ItemDisplay[RARE ci2 ETH !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*   %WHITE%eth %GREEN%[ %YELLOW%Tiara %GREEN%]    %ORANGE%*%BLUE%*%PURPLE%*
+ItemDisplay[RARE ci3 !ETH !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*    %GREEN%[ %YELLOW%Diadem %GREEN%]    %ORANGE%*%BLUE%*%PURPLE%*
+ItemDisplay[RARE ci3 ETH !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*   %WHITE%eth %GREEN%[ %YELLOW%Diadem %GREEN%]    %ORANGE%*%BLUE%*%PURPLE%*
 //CLSK1 SORCERESS, CLSK2 NECROMANCER, CLSK3 PALADIN, CLSK6 ASSASIN, CLSK0 AMAZON
 
 ItemDisplay[RARE EQ7 !ETH ID (CLSK1>1 AND STAT105>0)]:%YELLOW%%NAME%%NL%%PURPLE%*%ORANGE%*%GOLD%*%WHITE%*%GOLD%*%ORANGE%*%PURPLE%*%GREEN%+2Soc %RED%F%ORANGE%c%PURPLE%r%PURPLE%*%ORANGE%*%GOLD%*%WHITE%*%GOLD%*%ORANGE%*%PURPLE%*%CONTINUE%
@@ -1997,10 +1997,10 @@ ItemDisplay[RARE EQ7 !ETH ID !(CLSK0>1 OR CLSK1>1 OR CLSK2>1 OR CLSK3>1 OR CLSK4
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                    RARE/SET AMU/RIN/JEW DROP                                //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[RARE (amu) !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*%CORAL%*    %WHITE%[%YELLOW%%NAME%%WHITE%]    %ORANGE%*%BLUE%*%PURPLE%*%CORAL%*
+ItemDisplay[RARE (amu) !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*%CORAL%*    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %ORANGE%*%BLUE%*%PURPLE%*%CORAL%*
 ItemDisplay[RARE (rin) !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*%CORAL%*    %WHITE%[  %YELLOW%%NAME%  %WHITE%]    %ORANGE%*%BLUE%*%PURPLE%*%CORAL%*
-ItemDisplay[RARE (jew) !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*%CORAL%*    %WHITE%[%YELLOW%%NAME%%WHITE%]    %ORANGE%*%BLUE%*%PURPLE%*%CORAL%*
-ItemDisplay[SET !ID amu]: %DOT-84%%PURPLE%*%SAGE%*%CORAL%*  %WHITE%[%GREEN%%NAME%%WHITE%]  %PURPLE%*%SAGE%*%CORAL%*
+ItemDisplay[RARE (jew) !ID]: %DOT-6F%%ORANGE%*%BLUE%*%PURPLE%*%CORAL%*    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %ORANGE%*%BLUE%*%PURPLE%*%CORAL%*
+ItemDisplay[SET !ID amu]: %DOT-84%%PURPLE%*%SAGE%*%CORAL%*  %WHITE%[ %GREEN%%NAME% %WHITE%]  %PURPLE%*%SAGE%*%CORAL%*
 ItemDisplay[SET !ID rin]: %DOT-84%%PURPLE%*%SAGE%*%CORAL%*  %WHITE%[  %GREEN%%NAME%  %WHITE%]  %PURPLE%*%SAGE%*%CORAL%*
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                     ARROWS MARKING                                         //
