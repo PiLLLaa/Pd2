@@ -3474,10 +3474,10 @@ ItemDisplay[UNI !ID xh9 !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Vampir
 ItemDisplay[UNI !ID xmb !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Silkweave    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID xhb !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Gore Rider    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID uvb !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Sandstorm Trek    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID 7st !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Uldyssian's Awakening%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID 7st !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Uldyssian's Awakening    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 6cs !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Ondals Wisdom    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 7cr !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Lightsabre %TAN%Or %TEAL%Azurewrath    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID 7cm !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Leoric's Mithril Bane%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID 7cm !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Leoric's Mithril Bane    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 7bk !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Warshrike    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID ama !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Titans Revenge    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID rng !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Darkglow    %SAGE%++%CORAL%++%ORANGE%++
@@ -3527,10 +3527,10 @@ ItemDisplay[UNI !ID xea ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %
 ItemDisplay[UNI !ID xmb ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Silkweave    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID xhb ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Gore Rider    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID uvb ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Sandstorm Trek    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID 7st ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Uldyssian's Awakening%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID 7st ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Uldyssian's Awakening    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 6cs ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Ondals Wisdom    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 7cr ETH]:%ORANGE%++%CORAL%++%SAGE%++  %DOT-0C%%WHITE%(e) %RED%Lightsabre %TAN%Or %TEAL%Azurewrath  %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID 7cm ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Leoric's Mithril Bane%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID 7cm ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Leoric's Mithril Bane    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 7bk ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Warshrike    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID rng ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Darkglow    %SAGE%++%CORAL%++%ORANGE%++
 
