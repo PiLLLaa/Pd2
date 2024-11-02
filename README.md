@@ -118,12 +118,11 @@
 ----------------------------------------------------------------------------------------------------------------------
      6. 02.Nov
       1) Visual change when drop : Arrow, Circlets, Bolt, Rare Jewel/Ring/Amulet, Set Ring/Amulet
-      ![image](https://github.com/user-attachments/assets/ff8d48ce-9933-4302-a3fb-bfdc5e0babf5)
-
       2) Visual change for shop items such as lower resistance charge 
-      ![image](https://github.com/user-attachments/assets/925f20ee-35f0-4f55-af11-2ea136243a06)
-
       3) Delete price marking for item which is shown on shop.
-      ![image](https://github.com/user-attachments/assets/54d088f3-8272-4bf7-b00d-566350047b6d)
-
 ----------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/ff8d48ce-9933-4302-a3fb-bfdc5e0babf5)
+![image](https://github.com/user-attachments/assets/925f20ee-35f0-4f55-af11-2ea136243a06)
+![image](https://github.com/user-attachments/assets/54d088f3-8272-4bf7-b00d-566350047b6d)
+      
