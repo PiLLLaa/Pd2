@@ -2007,14 +2007,14 @@ ItemDisplay[MAG rin ID]: %BLUE%%NAME%%CONTINUE%
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                        CIRCLET                                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[RARE ci0 !ETH !ID]: %DOT-6F%GREEN%CORAL%*****    %GREEN%[ %YELLOW%Circlet %GREEN%]    %GREEN%%CORAL%*****
-ItemDisplay[RARE ci0 ETH !ID]: %DOT-6F%GREEN%CORAL%*****   %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %GREEN%[ %YELLOW%Circlet %GREEN%]    %GREEN%%CORAL%*****
-ItemDisplay[RARE ci1 !ETH !ID]: %DOT-6F%GREEN%CORAL%*****    %GREEN%[ %YELLOW%Coronet %GREEN%]    %GREEN%%CORAL%*****
-ItemDisplay[RARE ci1 ETH !ID]: %DOT-6F%GREEN%CORAL%*****   %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %GREEN%[ %YELLOW%Coronet %GREEN%]    %GREEN%%CORAL%*****
-ItemDisplay[RARE ci2 !ETH !ID]: %DOT-6F%GREEN%CORAL%*****    %GREEN%[ %YELLOW%Tiara %GREEN%]    %GREEN%%CORAL%*****
-ItemDisplay[RARE ci2 ETH !ID]: %DOT-6F%GREEN%CORAL%*****   %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %GREEN%[ %YELLOW%Tiara %GREEN%]    %GREEN%%CORAL%*****
-ItemDisplay[RARE ci3 !ETH !ID]: %DOT-6F%GREEN%CORAL%*****    %GREEN%[ %YELLOW%Diadem %GREEN%]    %GREEN%%CORAL%*****
-ItemDisplay[RARE ci3 ETH !ID]: %DOT-6F%GREEN%CORAL%*****   %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %GREEN%[ %YELLOW%Diadem %GREEN%]    %GREEN%%CORAL%*****
+ItemDisplay[RARE ci0 !ETH !ID]: %DOT-6F%%CORAL%*****    %GREEN%[ %YELLOW%Circlet %GREEN%]    %GREEN%%CORAL%*****
+ItemDisplay[RARE ci0 ETH !ID]: %DOT-6F%%CORAL%*****   %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %GREEN%[ %YELLOW%Circlet %GREEN%]    %GREEN%%CORAL%*****
+ItemDisplay[RARE ci1 !ETH !ID]: %DOT-6F%%CORAL%*****    %GREEN%[ %YELLOW%Coronet %GREEN%]    %GREEN%%CORAL%*****
+ItemDisplay[RARE ci1 ETH !ID]: %DOT-6F%%CORAL%*****   %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %GREEN%[ %YELLOW%Coronet %GREEN%]    %GREEN%%CORAL%*****
+ItemDisplay[RARE ci2 !ETH !ID]: %DOT-6F%%CORAL%*****    %GREEN%[ %YELLOW%Tiara %GREEN%]    %GREEN%%CORAL%*****
+ItemDisplay[RARE ci2 ETH !ID]: %DOT-6F%%CORAL%*****   %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %GREEN%[ %YELLOW%Tiara %GREEN%]    %GREEN%%CORAL%*****
+ItemDisplay[RARE ci3 !ETH !ID]: %DOT-6F%%CORAL%*****    %GREEN%[ %YELLOW%Diadem %GREEN%]    %GREEN%%CORAL%*****
+ItemDisplay[RARE ci3 ETH !ID]: %DOT-6F%%CORAL%*****   %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %GREEN%[ %YELLOW%Diadem %GREEN%]    %GREEN%%CORAL%*****
 
 //CLSK1 SORCERESS, CLSK2 NECROMANCER, CLSK3 PALADIN, CLSK6 ASSASIN, CLSK0 AMAZON
 
