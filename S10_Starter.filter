@@ -6408,12 +6408,12 @@ ItemDisplay[WEAPON MAG SHOP TABSK34>2]:%NAME%%NL%%ORANGE%+3Wc{%NAME%}%CONTINUE%
 ItemDisplay[(WP1 OR WP3 OR WP5 OR WP6) !UNI TABSK34>2]:%NAME%%NL%%YELLOW%+3Bo {%NAME%}%CONTINUE%
 
 // Staves with charges
-ItemDisplay[WEAPON MAG SHOP (SUFFIX=532 OR SUFFIX=533)]:%NAME%%NL%%GREEN%[%PURPLE%Te%ORANGE%le%GOLD%po%WHITE%rt %GOLD%Charge%GREEN%]{%NAME%}%CONTINUE%
-ItemDisplay[WEAPON MAG SHOP SK357>0]:%NAME%%NL%%GREEN%[%WHITE%Bl%BLUE%in%RED%k%GREEN%]{%NAME%}%CONTINUE%
+ItemDisplay[WEAPON MAG SHOP (SUFFIX=532 OR SUFFIX=533)]:%NAME%%NL%%GREEN%[%RED%Teleport %GOLD%Charge%GREEN%]{%NAME%}%CONTINUE%
+ItemDisplay[WEAPON MAG SHOP SK357>0]:%NAME%%NL%%GREEN%[%RED%Blink%GREEN%]{%NAME%}%CONTINUE%
 
 // Wands with charges
-ItemDisplay[WP12 MAG SHOP (SUFFIX=578 OR SUFFIX=579)]:%NAME%%NL%%GREEN%[%PURPLE%Li%RED%fe %ORANGE%Ta%WHITE%p %GOLD%Charge%GREEN%]{%NAME%}%CONTINUE%
-ItemDisplay[WP12 MAG SHOP (SUFFIX=594 OR SUFFIX=595)]:%NAME%%NL%%GREEN%[%PURPLE%Lo%RED%%ORANGE%we%WHITE%r R%CORAL%es%SAGE%i %GOLD%Charge%GREEN%]{%NAME%}%CONTINUE%
+ItemDisplay[WP12 MAG SHOP (SUFFIX=578 OR SUFFIX=579)]:%NAME%%NL%%GREEN%[%RED%Life Tap %GOLD%Charge%GREEN%]{%NAME%}%CONTINUE%
+ItemDisplay[WP12 MAG SHOP (SUFFIX=594 OR SUFFIX=595)]:%NAME%%NL%%GREEN%[%RED%Lower Resi %GOLD%Charge%GREEN%]{%NAME%}%CONTINUE%
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                     STARTING MAGIC ITEM                                     //
