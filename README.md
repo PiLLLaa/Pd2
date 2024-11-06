@@ -126,3 +126,8 @@
 ![image](https://github.com/user-attachments/assets/925f20ee-35f0-4f55-af11-2ea136243a06)
 ![image](https://github.com/user-attachments/assets/54d088f3-8272-4bf7-b00d-566350047b6d)
       
+----------------------------------------------------------------------------------------------------------------------
+     7. 07.Nov
+      1) Filter level bug fixed
+      2) Gray white filter upload, but it's ongoing test(needs to update s10)
+----------------------------------------------------------------------------------------------------------------------
