@@ -25,7 +25,8 @@ ItemDisplay[MAG rin !ID FILTLVL>1]:
 ItemDisplay[MAG (amu OR EQ4 OR EQ7) !ID FILTLVL>6]:
 ItemDisplay[(hp5 OR mp5 OR yps) FILTLVL>7]:
 ItemDisplay[(rvs) FILTLVL>8]:
-ItemDisplay[(CL4 OR am5 OR ama OR amf) MAG !ID FILTLVL>3]:
+ItemDisplay[(CL5 OR CL1 OR CL2 OR am5 OR ama OR amf) MAG !ID FILTLVL>3]:
+ItemDisplay[(CL4 OR WP12) MAG !ID FILTLVL>5]:
 //ItemDisplay[(EQ7 OR CL4 OR CL5 OR am5 OR ama OR amf) MAG !ID FILTLVL>4]:
 ItemDisplay[RARE (cqv) !ID FILTLVL>8]: 
 ItemDisplay[RARE (aqv) !ID FILTLVL>9]: 
