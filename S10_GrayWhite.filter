@@ -1465,8 +1465,8 @@ ItemDisplay[t60 OR t61 OR t62 OR t63 OR t64 OR t65 OR t66 OR t67 OR t68 OR t69]:
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                   QUIVERS&BOLTS                                             //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[(aqv) RARE !ID]: %DOT-6F%%GREEN%%SAGE%****    %YELLOW%%NAME%    %GREEN%%SAGE%****
-ItemDisplay[(cqv) RARE !ID]: %GREEN%%SAGE%*    %YELLOW%%NAME%    %GREEN%%SAGE%*
+ItemDisplay[(aqv) RARE !ID]: %DOT-6F%%GREEN%%SAGE%****    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %GREEN%%SAGE%****
+ItemDisplay[(cqv) RARE !ID]: %GREEN%%SAGE%*    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %GREEN%%SAGE%*
 ItemDisplay[(aqv OR cqv) UNI !ID CLVL<80]: %NAME%
 ItemDisplay[(aqv OR cqv) UNI !ID CLVL>79]:
 ItemDisplay[(aqv OR cqv) MAG !ID CLVL<10]: %NAME%
@@ -1951,8 +1951,8 @@ ItemDisplay[MAG rin ID]: %BLUE%%NAME%%CONTINUE%
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                        CIRCLET                                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[RARE EQ7 !ETH !ID]: %DOT-6F%%GREEN%%CORAL%*****    %YELLOW%%NAME%    %GREEN%%CORAL%****
-ItemDisplay[RARE EQ7 ETH !ID]: %DOT-6F%%GREEN%%CORAL%****   %PURPLE%%TEAL%Eth %YELLOW%%NAME%    %GREEN%%CORAL%****
+ItemDisplay[RARE EQ7 !ETH !ID]: %DOT-6F%%GREEN%%CORAL%*****    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %GREEN%%CORAL%****
+ItemDisplay[RARE EQ7 ETH !ID]: %DOT-6F%%GREEN%%CORAL%****   %WHITE%[ %PURPLE%%TEAL%Eth %YELLOW%%NAME% %WHITE%]    %GREEN%%CORAL%****
 //CLSK1 SORCERESS, CLSK2 NECROMANCER, CLSK3 PALADIN, CLSK6 ASSASIN, CLSK0 AMAZON
 
 ItemDisplay[RARE EQ7 !ETH ID (CLSK1>1 AND STAT105>0)]:%YELLOW%%NAME%%NL%%CORAL%*%GRAY%*%LIGHT_GRAY%*%SAGE%*%WHITE%*%TEAL%*%SAGE%+2Soc %WHITE%F%CORAL%c%GRAY%r%CORAL%*%GRAY%*%LIGHT_GRAY%*%SAGE%*%WHITE%*%TEAL%*%CONTINUE%
@@ -1987,9 +1987,9 @@ ItemDisplay[RARE EQ7 !ETH ID !(CLSK0>1 OR CLSK1>1 OR CLSK2>1 OR CLSK3>1 OR CLSK4
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                    RARE/SET AMU/RIN/JEW DROP                                //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[RARE (amu OR rin OR jew) !ID]: %DOT-6F%%GREEN%%TEAL%****    %YELLOW%%NAME%    %GREEN%%TEAL%****
-ItemDisplay[SET !ID amu]: %DOT-84%%PURPLE%****    %GREEN%%NAME%    %PURPLE%****
-ItemDisplay[SET !ID rin]: %DOT-84%%PURPLE%%SAGE%****    %GREEN%%NAME%    %PURPLE%%SAGE%****
+ItemDisplay[RARE (amu OR rin OR jew) !ID]: %DOT-6F%%GREEN%%TEAL%****     %WHITE%[ %YELLOW%%NAME% %WHITE%]    %GREEN%%TEAL%****
+ItemDisplay[SET !ID amu]: %DOT-84%%PURPLE%****     %WHITE%[ %GREEN%%NAME% %WHITE%]    %PURPLE%****
+ItemDisplay[SET !ID rin]: %DOT-84%%PURPLE%%SAGE%****     %WHITE%[ %GREEN%%NAME% %WHITE%]    %PURPLE%%SAGE%****
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                     ARROWS MARKING                                         //
 /////////////////////////////////////////////////////////////////////////////////////////////////
@@ -2511,16 +2511,16 @@ ItemDisplay[(aqv OR cqv) RARE ID]:%NAME%{%GRAY%And...Skill+ManaLeech+MagicFind%N
 //ItemDisplay[RARE (CHEST) ETH !ID]:%TEAL%Eth %YELLOW%%NAME%: Chest%CONTINUE%
 //ItemDisplay[RARE (EQ3) ETH !ID]:%TEAL%Eth %YELLOW%%NAME%: Shield%CONTINUE%
 
-ItemDisplay[RARE (mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm OR flb OR 9fb OR 7fb) ETH !ID]:%DOT-75%%CORAL%**  %TEAL%Eth %YELLOW%%NAME%  %CORAL%**
-ItemDisplay[RARE (gsd OR 9gd OR 7gd OR glv OR 9gl OR 7gl OR pil OR 9pi OR 7pi OR tsp OR 9ts OR 7ts) ETH !ID]:%DOT-75%%CORAL%**  %TEAL%Eth %YELLOW%%NAME%  %CORAL%**
-ItemDisplay[RARE (am5 OR ama OR amf OR whm OR 9wh OR 7wh) ETH !ID]:%DOT-75%%CORAL%**  %TEAL%Eth %YELLOW%%NAME%  %CORAL%**
-ItemDisplay[RARE (CL5) ETH !ID]:%DOT-75%%CORAL%**  %TEAL%Eth %YELLOW%%NAME%  %CORAL%**
+ItemDisplay[RARE (mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm OR flb OR 9fb OR 7fb) ETH !ID]:%DOT-75%%CORAL%**  %WHITE%[ %TEAL%Eth %YELLOW%%NAME% %WHITE%]  %CORAL%**
+ItemDisplay[RARE (gsd OR 9gd OR 7gd OR glv OR 9gl OR 7gl OR pil OR 9pi OR 7pi OR tsp OR 9ts OR 7ts) ETH !ID]:%DOT-75%%CORAL%**  %WHITE%[ %TEAL%Eth %YELLOW%%NAME% %WHITE%]  %CORAL%**
+ItemDisplay[RARE (am5 OR ama OR amf OR whm OR 9wh OR 7wh) ETH !ID]:%DOT-75%%CORAL%**  %WHITE%[ %TEAL%Eth %YELLOW%%NAME% %WHITE%]  %CORAL%**
+ItemDisplay[RARE (CL5) ETH !ID]:%DOT-75%%CORAL%**   %WHITE%[ %TEAL%Eth %YELLOW%%NAME% %WHITE%]  %CORAL%**
 
-ItemDisplay[RARE (EQ4) !ETH !ID]:%DOT-75%%TEAL%**  %YELLOW%%NAME%  %TEAL%**
-ItemDisplay[RARE (EQ5) !ETH !ID]:%DOT-75%%SAGE%**  %YELLOW%%NAME%  %SAGE%**
+ItemDisplay[RARE (EQ4) !ETH !ID]:%DOT-75%%TEAL%**   %WHITE%[ %YELLOW%%NAME% %WHITE%]  %TEAL%**
+ItemDisplay[RARE (EQ5) !ETH !ID]:%DOT-75%%SAGE%**   %WHITE%[ %YELLOW%%NAME% %WHITE%]  %SAGE%**
 //ItemDisplay[RARE (EQ6) ETH !ID]:%TEAL%Eth %YELLOW%%NAME%: Belt%CONTINUE%
 //ItemDisplay[RARE (EQ7) ETH !ID]:%TEAL%Eth %YELLOW%%NAME%: Circ%CONTINUE%
-ItemDisplay[RARE (am2 OR am7 OR amc OR lwb OR 8lw OR 6lw) !ETH !ID]: %DOT-75%%CORAL%**  %YELLOW%%NAME%  %CORAL%**
+ItemDisplay[RARE (am2 OR am7 OR amc OR lwb OR 8lw OR 6lw) !ETH !ID]: %DOT-75%%CORAL%**   %WHITE%[ %YELLOW%%NAME% %WHITE%]  %CORAL%**
 ItemDisplay[RARE (WEAPON OR ARMOR) !ETH !ID]: %YELLOW%%NAME%
 ItemDisplay[RARE (WEAPON OR ARMOR) ETH !ID]: %TEAL%Eth %YELLOW%%NAME%
 /////////////////////////////////////////////////////////////////////////////////////////////////
