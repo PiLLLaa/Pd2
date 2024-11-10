@@ -140,3 +140,10 @@
      9. 09.Nov
       1) After desecreated, now amulet has special mark when they reach maximum skill "HAPPY END"
 ----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+     10. 11.Nov
+      1) Odium drop level change to Red (Etherial still has rainbow)
+      2) Bug fixed desecreated options
+      3) Buriza-Do Kyanon turns to Rainbow level
+      4) All rare cross bow has symbol when drop
+----------------------------------------------------------------------------------------------------------------------
