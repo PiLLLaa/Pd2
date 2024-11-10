@@ -145,4 +145,5 @@
       1) Odium drop level change to Red (Etherial still has rainbow)
       2) Bug fixed desecreated options
       3) Buriza-Do Kyanon turns to Rainbow level
+      4) All rare cross bow has symbol when drop
 ----------------------------------------------------------------------------------------------------------------------
