@@ -148,4 +148,5 @@
       4) All rare cross bow has symbol when drop
       5) Modified infusion comments (Safety and Bountiful)
       6) Gambling item list updated regarding new items
+      7) Blank filter expression change for GG unique items
 ----------------------------------------------------------------------------------------------------------------------
