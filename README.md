@@ -147,4 +147,5 @@
       3) Buriza-Do Kyanon turns to Rainbow level
       4) All rare cross bow has symbol when drop
       5) Modified infusion comments (Safety and Bountiful)
+      6) Gambling item list updated regarding new items
 ----------------------------------------------------------------------------------------------------------------------
