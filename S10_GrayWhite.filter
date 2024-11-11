@@ -112,11 +112,16 @@ ItemDisplay[crfu (MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%Y
 ItemDisplay[crfp (MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%ORANGE%(Brilliant)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%RED%(Wea)%GRAY%20-40Ed,20Ias,50-100Ar %ORANGE%(Shi)%GRAY%5-10Res,10-20Icb Hfd %YELLOW%(Che)%GRAY%5-10Res,10-20Icb %GREEN%(He)%GRAY%5-10Ias %NL%%BLUE%(Bo)%GRAY%10PLR,100-150DvsM %PURPLE%(Glv)%GRAY%5-10Ias,10-20Ar% %WHITE%(Be)%GRAY%5-10Ias %GOLD%(Rin)%GRAY%3-5Res,50-100DvsM %WHITE%(Amu)%GRAY%5-10Res,4-8Attri.,100-150DvsM%GOLD%Making %ORANGE%Brilliant Crafting Item %GOLD% when cubing}
 
 ItemDisplay[box]:%NAME% %GRAY%[L%ILVL%]%CONTINUE%
-ItemDisplay[box]:%NAME%{%NL%%LIGHT_GRAY%eth repair and recharge: %CORAL%zod%WHITE%+%GOLD%pskull+%GRAY%ethereal item%NL%}%CONTINUE%
-ItemDisplay[box]:%NAME%{%NL%%CORAL%(uber1)%GOLD%relic of the ancients: %GRAY%sigil of madawc%WHITE%+%WHITE%sigil oftalic%WHITE%+%SAGE%sigil of korlic %NAME%}%CONTINUE%
-ItemDisplay[box]:%NAME%{%NL%%CORAL%(uber2)%GOLD%pandemonium Talisman: %LIGHT_GRAY%mephisto's brain%WHITE%+%CORAL%diablo's horn%WHITE%+%WHITE%baal's eye%WHITE%+%GOLD%key%NAME%}%CONTINUE%
-ItemDisplay[box]:%NAME%{%NL%%CORAL%(uber3)%GOLD%vision of terror:%GRAY%prime evilsoul%WHITE%+%WHITE%black soulstone%WHITE%+%CORAL%pure demonicessence%NAME%}%CONTINUE%
-ItemDisplay[box]:%NAME%{%NL%%CORAL%(uber4)%GOLD%voidstone: %CORAL%hellfire torch%WHITE%+%LIGHT_GRAY%splinter of the void%WHITE%+%SAGE%trang-oul's jawbone %NAME%}
+//ItemDisplay[box]:%NAME%{%NL%%LIGHT_GRAY%eth repair and recharge: %CORAL%zod%WHITE%+%GOLD%pskull+%GRAY%ethereal item%NL%}%CONTINUE%
+//ItemDisplay[box]:%NAME%{%NL%%CORAL%(uber1)%GOLD%relic of the ancients: %GRAY%sigil of madawc%WHITE%+%WHITE%sigil oftalic%WHITE%+%SAGE%sigil of korlic %NAME%}%CONTINUE%
+//ItemDisplay[box]:%NAME%{%NL%%CORAL%(uber2)%GOLD%pandemonium Talisman: %LIGHT_GRAY%mephisto's brain%WHITE%+%CORAL%diablo's horn%WHITE%+%WHITE%baal's eye%WHITE%+%GOLD%key%NAME%}%CONTINUE%
+//ItemDisplay[box]:%NAME%{%NL%%CORAL%(uber3)%GOLD%vision of terror:%GRAY%prime evilsoul%WHITE%+%WHITE%black soulstone%WHITE%+%CORAL%pure demonicessence%NAME%}%CONTINUE%
+//ItemDisplay[box]:%NAME%{%NL%%CORAL%(uber4)%GOLD%voidstone: %CORAL%hellfire torch%WHITE%+%LIGHT_GRAY%splinter of the void%WHITE%+%SAGE%trang-oul's jawbone %NAME%}
+ItemDisplay[box]:%NAME%{%NL%%RED%(Ancients)%GOLD%relic of the ancients: %ORANGE%sigil of madawc%WHITE%+%BLUE%sigil oftalic%WHITE%+%GREEN%sigil of korlic %NAME%}%CONTINUE%
+ItemDisplay[box]:%NAME%{%NL%%RED%(Tristram)%GOLD%pandemonium Talisman: %YELLOW%mephisto's brain%WHITE%+%RED%diablo's horn%WHITE%+%BLUE%baal's eye%WHITE%+%GOLD%key%NAME%}%CONTINUE%
+ItemDisplay[box]:%NAME%{%NL%%RED%(Dclone)%GOLD%vision of terror:%ORANGE%prime evilsoul%WHITE%+%BLUE%black soulstone%WHITE%+%RED%pure demonicessence%NAME%}%CONTINUE%
+ItemDisplay[box]:%NAME%{%NL%%RED%(Rathma)%GOLD%voidstone: %RED%hellfire torch%WHITE%+%YELLOW%splinter of the void%WHITE%+%GREEN%trang-oul's jawbone %NAME%}%CONTINUE%
+ItemDisplay[box]:%NAME%{%NL%%RED%(Lucion)%GOLD%Shadow of Hatred: %WHITE%Demonic Insignia%WHITE%+%CORAL%Talisman of Transgression%WHITE%+%SAGE%%GREEN%Flesh of Malic %NAME%}
 ItemDisplay[bks]:%TEAL%[%CORAL%Scroll%TEAL%] %GOLD%of Inifuss
 ItemDisplay[bkd]:%TEAL%[%CORAL%Key%TEAL%] %GOLD%to the Cairn Stonee
 ItemDisplay[hdm]:%TEAL%[%CORAL%Horadric%TEAL%] %GOLD%Malus
