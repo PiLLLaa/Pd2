@@ -146,4 +146,5 @@
       2) Bug fixed desecreated options
       3) Buriza-Do Kyanon turns to Rainbow level
       4) All rare cross bow has symbol when drop
+      5) Modified infusion comments (Safety and Bountiful)
 ----------------------------------------------------------------------------------------------------------------------
