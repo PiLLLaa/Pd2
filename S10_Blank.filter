@@ -3335,7 +3335,6 @@ ItemDisplay[UNI !ID uts !ETH]:%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %B
 ItemDisplay[UNI !ID umb !ETH]:%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Marrowwalk    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 
 ItemDisplay[UNI !ID 7wh !ETH]:%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%## %BORDER-62%%PURPLE%StoneCrusher %TAN%Or %GREEN%Schaefer'sHammer %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%## 
-ItemDisplay[UNI !ID 7m7 !ETH]:%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Windhammer    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID amb !ETH]:%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Blood raven's Charge    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID bae !ETH]:%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Halaberd's Reign    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID drb !ETH]:%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Cerebus' Bite    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
@@ -3434,6 +3433,7 @@ ItemDisplay[UNI !ID utb ETH]:%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e
 ItemDisplay[UNI !ID 7qr ETH]:%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e) %PURPLE%Aidans Scar    %ORANGE%##%PURPLE%##%RED%##
 
 //s10
+ItemDisplay[UNI !ID 7m7 !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%PURPLE%Windhammer   %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 9wc !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%PURPLE%Grim's Burning Dead   %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 7fb !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%PURPLE%Odium    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 8s8 !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Witchwild String    %SAGE%++%CORAL%++%ORANGE%++
