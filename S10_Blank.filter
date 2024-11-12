@@ -1,73 +1,83 @@
 ItemDisplayFilterName[]:Standard //FILTLVL>0
-ItemDisplayFilterName[]: No ThrowingPotion,Ring(Magic) //FILTLVL>1
+ItemDisplayFilterName[]: No Ring(M) //FILTLVL>1
 ItemDisplayFilterName[]: +No CraftArmor//FILTLVL>2
-ItemDisplayFilterName[]: ++No Glove(M)+Wand(M)+HP/MP //FILTLVL>3
-ItemDisplayFilterName[]: +++No Amulet+Claw+NecHead+Circlet(M)+ClassHelmet(M)+Javel(M)+R35  //FILTLVL>4
-ItemDisplayFilterName[]: ++++No Bolt(Rare)+Normal Set //FILTLVL>5
-ItemDisplayFilterName[]: +++++No Arrow(Rare)+Only GG Base Activation //FILTLVL>6
-ItemDisplayFilterName[]: ++++++No CraftWeapon(Only Active ETH+GMB)  //FILTLVL>7
+ItemDisplayFilterName[]: ++No Clubs(M)+Claw(M)+ClassHelmet(M)+Javel(M)//FILTLVL>3
+ItemDisplayFilterName[]: +++No Normal Set //FILTLVL4 
+ItemDisplayFilterName[]: ++++No Wand(M)+NecHead(M) //FILTLVL5 
+ItemDisplayFilterName[]: +++++No Amulet(M)+Circlet(M)+Glove(M)  //FILTLVL>6
+ItemDisplayFilterName[]: ++++++No HP+MP+Anti //FILTLVL>7
+ItemDisplayFilterName[]: +++++++No Bolt(Rare)+R35 //FILTLVL>8
+ItemDisplayFilterName[]: ++++++++No Arrow(Rare)+Only GG Base Activation //FILTLVL>9
+ItemDisplayFilterName[]: +++++++++No CraftWeapon(Only Active ETH+GMB)  //FILTLVL>10
+ItemDisplayFilterName[]: ++++++++++No AllSet(rin+Amu)  //FILTLVL>11
 
-ItemDisplay[(tpfl OR tpgl OR tpcl OR tpll) FILTLVL>1]:
+//ItemDisplay[(tpfl OR tpgl OR tpcl OR tpll) FILTLVL>1]:
 ItemDisplay[MAG rin FILTLVL>1]:
 //ItemDisplay[MAG (am5 OR ama OR amf) !ID FILTLVL>2]:
-
-ItemDisplay[(hp5 OR mp5 OR yps) FILTLVL>3]:
-ItemDisplay[(rvs) FILTLVL>4]:
-ItemDisplay[(EQ4 OR WP12) MAG !ID FILTLVL>3]:
-
+//ok
 ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) (!ETH OR ETH) MAG !ID FILTLVL>2]: 
 ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) (!ETH OR ETH) MAG !ID FILTLVL>2]: 
 ItemDisplay[(xtb OR utb OR xmb OR umb OR xlb OR ulb OR xhb OR uhb) (!ETH OR ETH) MAG !ID FILTLVL>2]: 
 ItemDisplay[(zmb OR umc OR ztb OR utc OR zvb OR uvc OR zlb OR ulc) (!ETH OR ETH) MAG !ID FILTLVL>2]: 
 ItemDisplay[(xpk OR upk OR xts OR uts OR xml OR uml OR xit OR uit OR xrg OR urg OR xow OR uow) (!ETH OR ETH) MAG !ID FILTLVL>2]: 
 ItemDisplay[(xlt OR ult OR xld OR uld OR xtp OR utp OR xrs OR urs) (!ETH OR ETH) MAG !ID FILTLVL>2]: 
-
-ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) (!ETH OR ETH) MAG !ID FILTLVL>4]: 
-ItemDisplay[(dr8 OR dra OR drf OR drd OR drb) (!ETH OR ETH) MAG !ID FILTLVL>4]: 
-ItemDisplay[(amu OR EQ7 OR CL4 OR CL5 OR am5 OR ama OR amf) MAG !ID FILTLVL>4]:
-ItemDisplay[RARE (cqv) !ID FILTLVL>5]:
-ItemDisplay[RARE (aqv) !ID FILTLVL>6]:
-
-ItemDisplay[SET !ID (rng OR sbr) FILTLVL>5]:
-ItemDisplay[SET !ID (skp OR ltp OR wst) FILTLVL>5]:
-ItemDisplay[SET !ID (qui OR vbl OR tgl OR swb) FILTLVL>5]:
-ItemDisplay[SET !ID (hlm OR spl OR 2ax) FILTLVL>5]: 
-ItemDisplay[SET !ID (msk OR chn OR bst) FILTLVL>5]:
-ItemDisplay[SET !ID (gsc OR lrg) FILTLVL>5]:
-ItemDisplay[SET !ID (lsd OR mgl OR sml) FILTLVL>5]:
-ItemDisplay[SET !ID (wsd OR lgl OR lbl) FILTLVL>5]:
-ItemDisplay[SET !ID (buc OR mbt) FILTLVL>5]:
-ItemDisplay[SET !ID mbl FILTLVL>5]:
-ItemDisplay[SET !ID cap FILTLVL>5]:
-ItemDisplay[SET !ID tbl FILTLVL>5]:
-ItemDisplay[SET !ID gwn FILTLVL>5]:
-ItemDisplay[SET !ID (bsd OR fhl OR brs OR gts) FILTLVL>5]:
-ItemDisplay[SET !ID crn FILTLVL>5]: 
-ItemDisplay[SET !ID (aar OR kit OR wsp) FILTLVL>5]:
-ItemDisplay[SET !ID (ghm OR gth OR hbt OR tow OR hbl OR hgl) FILTLVL>5]:
-ItemDisplay[SET !ID (bhm OR ful OR lbt OR mpi) FILTLVL>5]:
-ItemDisplay[SET !ID (lbb OR lea OR tbt) FILTLVL>5]:
-ItemDisplay[SET !ID (xap OR stu) FILTLVL>5]:
-ItemDisplay[SET !ID vbt FILTLVL>5]:
-ItemDisplay[SET !ID (xrs OR 7ma OR uts OR uhm) FILTLVL>5]:
-ItemDisplay[SET !ID (bwn OR vgl) FILTLVL>5]:
-ItemDisplay[SET !ID dgr  FILTLVL>5]:
-
-ItemDisplay[(6lw OR 8lw) !ETH MAG !ID FILTLVL>7]:
-ItemDisplay[(8rx OR 6rx OR 6mx OR 6hx) !ETH MAG !ID FILTLVL>7]:
-ItemDisplay[(tsp OR 9ts OR 7ts OR glv OR 9gl OR 7gl) !ETH MAG !ID FILTLVL>7]:
-ItemDisplay[(9ta OR 7ta OR 9s9 OR 7s7 OR 9b8 OR 7b8) !ETH MAG !ID FILTLVL>7]:
-ItemDisplay[(9gm OR 7gm) !ETH MAG !ID FILTLVL>7]:
-ItemDisplay[(9gd OR 7gd OR 9ls OR 7ls) !ETH MAG !ID FILTLVL>7]:
-ItemDisplay[(9xf OR 7xf OR 9lw OR 7lw OR 9tw OR 7tw OR 9qr OR 7qr) !ETH MAG !ID FILTLVL>7]:
-ItemDisplay[(9ws OR 7ws) !ETH MAG !ID FILTLVL>7]:
-ItemDisplay[(9ws OR 7ws) ETH MAG !ID FILTLVL>7]:
-ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7) !ETH MAG !ID FILTLVL>7]:
-ItemDisplay[(7mt OR 7wh) !ETH MAG !ID FILTLVL>7]:
-ItemDisplay[(oba OR obf) !ETH MAG !ID FILTLVL>7]:
-ItemDisplay[(6ws) !ETH MAG !ID FILTLVL>7]:
-
-ItemDisplay[(clb OR 9cl OR 7cl OR spc OR 9sp OR 7sp) !ETH MAG !ID ILVL>50 FILTLVL>7]:
+//ok
+ItemDisplay[(clb OR 9cl OR 7cl OR spc OR 9sp OR 7sp) !ETH MAG !ID ILVL>50 FILTLVL>3]:
+ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
+ItemDisplay[(dr8 OR dra OR drf OR drd OR drb) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
+ItemDisplay[(CL5 OR am5 OR ama OR amf) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
+//ok
+ItemDisplay[SET !ID (rng OR sbr) FILTLVL>4]:
+ItemDisplay[SET !ID (skp OR ltp OR wst) FILTLVL>4]:
+ItemDisplay[SET !ID (qui OR vbl OR tgl OR swb) FILTLVL>4]:
+ItemDisplay[SET !ID (hlm OR spl OR 2ax) FILTLVL>4]: 
+ItemDisplay[SET !ID (msk OR chn OR bst) FILTLVL>4]:
+ItemDisplay[SET !ID (gsc OR lrg) FILTLVL>4]:
+ItemDisplay[SET !ID (lsd OR mgl OR sml) FILTLVL>4]:
+ItemDisplay[SET !ID (wsd OR lgl OR lbl) FILTLVL>4]:
+ItemDisplay[SET !ID (buc OR mbt) FILTLVL>4]:
+ItemDisplay[SET !ID mbl FILTLVL>4]:
+ItemDisplay[SET !ID cap FILTLVL>4]:
+ItemDisplay[SET !ID tbl FILTLVL>4]:
+ItemDisplay[SET !ID gwn FILTLVL>4]:
+ItemDisplay[SET !ID (bsd OR fhl OR brs OR gts) FILTLVL>4]:
+ItemDisplay[SET !ID crn FILTLVL>4]: 
+ItemDisplay[SET !ID (aar OR kit OR wsp) FILTLVL>4]:
+ItemDisplay[SET !ID (ghm OR gth OR hbt OR tow OR hbl OR hgl) FILTLVL>4]:
+ItemDisplay[SET !ID (bhm OR ful OR lbt OR mpi) FILTLVL>4]:
+ItemDisplay[SET !ID (lbb OR lea OR tbt) FILTLVL>4]:
+ItemDisplay[SET !ID (xap OR stu) FILTLVL>4]:
+ItemDisplay[SET !ID vbt FILTLVL>4]:
+ItemDisplay[SET !ID (xrs OR 7ma OR uts OR uhm) FILTLVL>4]:
+ItemDisplay[SET !ID (bwn OR vgl) FILTLVL>4]:
+ItemDisplay[SET !ID dgr  FILTLVL>4]:
+//ok
+ItemDisplay[(CL4 OR WP12) MAG !ID FILTLVL>5]:
+//ok
+//ItemDisplay[(amu OR EQ7 OR CL4 OR CL5 OR am5 OR ama OR amf) MAG !ID FILTLVL>4]:
+ItemDisplay[(amu OR EQ7 OR EQ4) MAG !ID FILTLVL>6]:
+//ok
+ItemDisplay[(hp5 OR mp5 OR yps) FILTLVL>7]:
+ItemDisplay[(rvs) FILTLVL>8]:
+//ok
+ItemDisplay[RARE (cqv) !ID FILTLVL>8]:
+ItemDisplay[RARE (aqv) !ID FILTLVL>9]:
+//ok
+ItemDisplay[(6lw OR 8lw) !ETH MAG !ID FILTLVL>10]:
+ItemDisplay[(8rx OR 6rx OR 6mx OR 6hx) !ETH MAG !ID FILTLVL>10]:
+ItemDisplay[(tsp OR 9ts OR 7ts OR glv OR 9gl OR 7gl) !ETH MAG !ID FILTLVL>10]:
+ItemDisplay[(9ta OR 7ta OR 9s9 OR 7s7 OR 9b8 OR 7b8) !ETH MAG !ID FILTLVL>10]:
+ItemDisplay[(9gm OR 7gm) !ETH MAG !ID FILTLVL>10]:
+ItemDisplay[(9gd OR 7gd OR 9ls OR 7ls) !ETH MAG !ID FILTLVL>10]:
+ItemDisplay[(9xf OR 7xf OR 9lw OR 7lw OR 9tw OR 7tw OR 9qr OR 7qr) !ETH MAG !ID FILTLVL>10]:
+ItemDisplay[(9ws OR 7ws) !ETH MAG !ID FILTLVL>10]:
+ItemDisplay[(9ws OR 7ws) ETH MAG !ID FILTLVL>10]:
+ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7) !ETH MAG !ID FILTLVL>10]:
+ItemDisplay[(7mt OR 7wh) !ETH MAG !ID FILTLVL>10]:
+ItemDisplay[(oba OR obf) !ETH MAG !ID FILTLVL>10]:
+ItemDisplay[(6ws) !ETH MAG !ID FILTLVL>10]:
+//ok
+ItemDisplay[SET !ID (rin OR amu OR WEAPON OR ARMOR) FILTLVL>11]:
 
 ItemDisplay[(NMAG) cap]:Cap%CONTINUE%
 ItemDisplay[(NMAG) xap]:War Hat%CONTINUE%
@@ -6777,15 +6787,15 @@ ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h 
 //ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) ETH !SOCK=1 !RW ED>9 NMAG]:%DOT-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 7sr) ETH !SOCK=1 !SOCK=2 !SOCK=3 ED>9 !RW NMAG]:%DOT-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
-ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) !ETH !SOCK=1 !RW NMAG ED>0 FILTLVL>6]:
-ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) ETH !SOCK=1 !RW NMAG FILTLVL>6]:
+ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) !ETH !SOCK=1 !RW NMAG ED>0 FILTLVL>9]:
+ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) ETH !SOCK=1 !RW NMAG FILTLVL>9]:
 
-ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 9sr OR 7sr) !ETH !SOCK=1 !SOCK=2 !SOCK=3 !RW NMAG ED>0 FILTLVL>6]:
-ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 9sr OR 7sr) ETH !SOCK=1 !SOCK=2 !SOCK=3 !RW NMAG FILTLVL>6]:
+ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 9sr OR 7sr) !ETH !SOCK=1 !SOCK=2 !SOCK=3 !RW NMAG ED>0 FILTLVL>9]:
+ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 9sr OR 7sr) ETH !SOCK=1 !SOCK=2 !SOCK=3 !RW NMAG FILTLVL>9]:
 
-ItemDisplay[(crs OR bsd OR lsd OR fla) (SOCK=4 OR SOCK=5) !RW NMAG FILTLVL>6]:
-ItemDisplay[(7cr) SOCK=5 !RW NMAG FILTLVL>6]:
-ItemDisplay[(7fb) !ETH !SOCK=1 !RW NMAG FILTLVL>6]:
+ItemDisplay[(crs OR bsd OR lsd OR fla) (SOCK=4 OR SOCK=5) !RW NMAG FILTLVL>9]:
+ItemDisplay[(7cr) SOCK=5 !RW NMAG FILTLVL>9]:
+ItemDisplay[(7fb) !ETH !SOCK=1 !RW NMAG FILTLVL>9]:
 
 ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) !ETH !SOCK=1 !RW NMAG ED>0]:%NAME%{%NAME%}
 ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) ETH !SOCK=1 !RW NMAG]:%NAME%{%NAME%}
@@ -6858,12 +6868,12 @@ ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG ELT (SOCK=0 OR SOCK=5) (
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG ELT (SOCK=0 OR SOCK=5) (!ETH OR ETH) (SK369>2 AND SK65=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG ELT (SOCK=0 OR SOCK=5) (!ETH OR ETH) (SK369=2 AND SK65>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG ELT (SOCK=0 OR SOCK>3) (!ETH OR ETH) (SK65>2 OR SK53>2 OR SK58>2 OR SK60>2 OR SK50>2 OR SK57>2 OR SK59>2 OR SK62>2 OR SK64>2 OR SK48>2 OR SK63>2 OR SK369>2) FILTLVL>6]:
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG ELT (SOCK=0 OR SOCK>3) (!ETH OR ETH) (SK65>2 OR SK53>2 OR SK58>2 OR SK60>2 OR SK50>2 OR SK57>2 OR SK59>2 OR SK62>2 OR SK64>2 OR SK48>2 OR SK63>2 OR SK369>2) FILTLVL>9]:
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG ELT (SOCK=0 OR SOCK>3) (!ETH OR ETH) (SK65>2 OR SK53>2 OR SK58>2 OR SK60>2 OR SK50>2 OR SK57>2 OR SK59>2 OR SK62>2 OR SK64>2 OR SK48>2 OR SK63>2 OR SK369>2)]:%NAME%{%NAME%}
 
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK=0 OR SOCK>3) (!ETH OR ETH) (SK65>2 OR SK53>2 OR SK58>2 OR SK60>2 OR SK50>2 OR SK57>2 OR SK59>2 OR SK62>2 OR SK64>2 OR SK48>2 OR SK63>2 OR SK369>2) FILTLVL>6]:
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK=0 OR SOCK>3) (!ETH OR ETH) (SK65>2 OR SK53>2 OR SK58>2 OR SK60>2 OR SK50>2 OR SK57>2 OR SK59>2 OR SK62>2 OR SK64>2 OR SK48>2 OR SK63>2 OR SK369>2) FILTLVL>9]:
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !6ls !RW NMAG (SOCK=0 OR SOCK>3) (!ETH OR ETH) (SK65>2 OR SK53>2 OR SK58>2 OR SK60>2 OR SK50>2 OR SK57>2 OR SK59>2 OR SK62>2 OR SK64>2 OR SK48>2 OR SK63>2 OR SK369>2)]:%NAME%{%NAME%}
-ItemDisplay[WP11 !RW NMAG ELT !6ss !6ls (SOCK>3 OR SOCK=0) FILTLVL>6]:
+ItemDisplay[WP11 !RW NMAG ELT !6ss !6ls (SOCK>3 OR SOCK=0) FILTLVL>9]:
 ItemDisplay[WP11 !RW NMAG ELT !6ss !6ls (SOCK>3 OR SOCK=0)]:%NAME%{%NAME%}
 
 //CLAW ACTIVE -COMPLETE
@@ -6955,9 +6965,9 @@ ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK273>2 AND STAT258=2)]:%DOT-75%%OR
 ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK273=2 AND STAT258>2)]:%DOT-75%%ORANGE%+%PURPLE%+ %NAME% %ORANGE%+%PURPLE%+{%NAME%}
 ItemDisplay[7xf NMAG !RW (SOCK=0 OR SOCK=3) ETH ED>9]:%DOT-75%%NAME%{%NAME%}
 
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK263>2 OR SK277>2 OR SK252>2 OR SK269>2 OR SK262>2 OR SK271>2 OR SK267>2 OR SK278>2 OR SK273>2 OR SK276>2 OR SK366>2 OR SK280>2 OR SK265>2 OR SK254>2 OR SK255>2 OR SK258>2 OR SK270>2 OR SK257>2) FILTLVL>6]:
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK263>2 OR SK277>2 OR SK252>2 OR SK269>2 OR SK262>2 OR SK271>2 OR SK267>2 OR SK278>2 OR SK273>2 OR SK276>2 OR SK366>2 OR SK280>2 OR SK265>2 OR SK254>2 OR SK255>2 OR SK258>2 OR SK270>2 OR SK257>2) FILTLVL>9]:
 ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK263>2 OR SK277>2 OR SK252>2 OR SK269>2 OR SK262>2 OR SK271>2 OR SK267>2 OR SK278>2 OR SK273>2 OR SK276>2 OR SK366>2 OR SK280>2 OR SK265>2 OR SK254>2 OR SK255>2 OR SK258>2 OR SK270>2 OR SK257>2)]:%NAME%{%NAME%}
-ItemDisplay[7xf NMAG !RW (SOCK=0 OR SOCK=3) ETH FILTLVL>6]:
+ItemDisplay[7xf NMAG !RW (SOCK=0 OR SOCK=3) ETH FILTLVL>9]:
 ItemDisplay[7xf NMAG !RW (SOCK=0 OR SOCK=3) ETH]:%DOT-75%%NAME%{%NAME%}
 
 //SCEPTERS ACTIVE -COMPLETE
@@ -7005,7 +7015,7 @@ ItemDisplay[WP13 NMAG !RW (SOCK=0 OR SOCK=3) (SK112>2 AND SK113>2)]:%DOT-75%%ORA
 ItemDisplay[WP13 NMAG !RW (SOCK=0 OR SOCK=3) (SK112>2 AND SK113=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 ItemDisplay[WP13 NMAG !RW (SOCK=0 OR SOCK=3) (SK113>2 AND SK112=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
-ItemDisplay[WP13 NMAG !RW (SOCK=0 OR SOCK>2) (SK97>2 OR SK101>2 OR SK106>2 OR SK107>2 OR SK111>2 OR SK112>2 OR SK113>2 OR SK115>2 OR SK117>2 OR SK118>2 OR SK121>2 OR SK122>2 OR SK123>2 OR SK124>2 OR SK125>2 OR SK364>2 OR SK371>2 OR SK378>2 OR SK99>2) FILTLVL>6]:
+ItemDisplay[WP13 NMAG !RW (SOCK=0 OR SOCK>2) (SK97>2 OR SK101>2 OR SK106>2 OR SK107>2 OR SK111>2 OR SK112>2 OR SK113>2 OR SK115>2 OR SK117>2 OR SK118>2 OR SK121>2 OR SK122>2 OR SK123>2 OR SK124>2 OR SK125>2 OR SK364>2 OR SK371>2 OR SK378>2 OR SK99>2) FILTLVL>9]:
 ItemDisplay[WP13 NMAG !RW (SOCK=0 OR SOCK>2) (SK97>2 OR SK101>2 OR SK106>2 OR SK107>2 OR SK111>2 OR SK112>2 OR SK113>2 OR SK115>2 OR SK117>2 OR SK118>2 OR SK121>2 OR SK122>2 OR SK123>2 OR SK124>2 OR SK125>2 OR SK364>2 OR SK371>2 OR SK378>2 OR SK99>2)]:%NAME%{%NAME%}
 
 //orb -COMPLETE
@@ -7026,7 +7036,7 @@ ItemDisplay[(ob5 OR oba OR obf) !RW NMAG (SOCK=0 OR SOCK=3) (!ETH OR ETH) (SK58>
 ItemDisplay[(ob5 OR oba OR obf) !RW NMAG (SOCK=0 OR SOCK=3) (!ETH OR ETH) (SK58>2 AND SK60>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 ItemDisplay[(ob5 OR oba OR obf) !RW NMAG (SOCK=0 OR SOCK=3) (!ETH OR ETH) (SK58>2 AND SK60=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
-ItemDisplay[(ob5 OR oba OR obf) !RW NMAG !ETH (SOCK=0 OR SOCK=3) (SK63>2 OR SK58>2 OR SK57>2 OR SK48>2 OR SK50>2 OR SK60>2 OR SK59>2 OR SK64>2 OR SK65>2 OR SK61>2 OR SK369>2 OR SK376>2 OR SK383>2 OR SK62>2) FILTLVL>6]:
+ItemDisplay[(ob5 OR oba OR obf) !RW NMAG !ETH (SOCK=0 OR SOCK=3) (SK63>2 OR SK58>2 OR SK57>2 OR SK48>2 OR SK50>2 OR SK60>2 OR SK59>2 OR SK64>2 OR SK65>2 OR SK61>2 OR SK369>2 OR SK376>2 OR SK383>2 OR SK62>2) FILTLVL>9]:
 ItemDisplay[(ob5 OR oba OR obf) !RW NMAG !ETH (SOCK=0 OR SOCK=3) (SK63>2 OR SK58>2 OR SK57>2 OR SK48>2 OR SK50>2 OR SK60>2 OR SK59>2 OR SK64>2 OR SK65>2 OR SK61>2 OR SK369>2 OR SK376>2 OR SK383>2 OR SK62>2)]:%NAME%{%NAME%}
 
 //wand -COMPLETE
@@ -7119,7 +7129,7 @@ ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69=2 AND SK89>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK68=2 AND SK78>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
-ItemDisplay[(CL4 OR WP12)!RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK84>2 OR SK92>2 OR SK83>2 OR SK74>2 OR SK67>2 OR SK69>2 OR SK80>2 OR SK89>2 OR SK70>2 OR SK68>2) FILTLVL>6]:
+ItemDisplay[(CL4 OR WP12)!RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK84>2 OR SK92>2 OR SK83>2 OR SK74>2 OR SK67>2 OR SK69>2 OR SK80>2 OR SK89>2 OR SK70>2 OR SK68>2) FILTLVL>9]:
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK84>2 OR SK92>2 OR SK83>2 OR SK74>2 OR SK67>2 OR SK69>2 OR SK80>2 OR SK89>2 OR SK70>2 OR SK68>2)]:%NAME%{%NAME%}
 
 //SHIELD ACTIVE - COMPLETE
@@ -7193,11 +7203,11 @@ ItemDisplay[(uit OR uow OR uts) (SOCK=0 OR SOCK=3 OR SOCK=4) !RW NMAG STAT91=-10
 ItemDisplay[(CL3) (SOCK=0 OR SOCK=3 OR SOCK=4) !RW NMAG ELT (EDAM>40)]:%DOT-75%%ORANGE%+%PURPLE%+ %NAME% %ORANGE%+%PURPLE%+{%NAME%}
 ItemDisplay[(CL3) (SOCK=0 OR SOCK=3 OR SOCK=4) !RW NMAG ELT (RES>24)]:%DOT-75%%ORANGE%+%PURPLE%+ %NAME% %ORANGE%+%PURPLE%+{%NAME%}
 
-ItemDisplay[(uit OR uow OR uts) SOCK=4 !RW NMAG !ETH FILTLVL>6]:
-ItemDisplay[(uow OR uts OR urg OR ush) !SOCK=1 !RW NMAG !ETH (ED>0 OR STAT91=-10) FILTLVL>6]:
-ItemDisplay[(uit OR uow OR uts OR urg OR ush) !SOCK=1 !RW NMAG ETH FILTLVL>6]:
-ItemDisplay[(CL3) !SOCK=1 !RW NMAG !ETH (ED>0 OR STAT91=-10 OR RES>15 OR AR>99 OR EDAM>40) FILTLVL>6]:
-ItemDisplay[(CL3) !SOCK=1 !RW NMAG ELT ETH FILTLVL>6]:
+ItemDisplay[(uit OR uow OR uts) SOCK=4 !RW NMAG !ETH FILTLVL>9]:
+ItemDisplay[(uow OR uts OR urg OR ush) !SOCK=1 !RW NMAG !ETH (ED>0 OR STAT91=-10) FILTLVL>9]:
+ItemDisplay[(uit OR uow OR uts OR urg OR ush) !SOCK=1 !RW NMAG ETH FILTLVL>9]:
+ItemDisplay[(CL3) !SOCK=1 !RW NMAG !ETH (ED>0 OR STAT91=-10 OR RES>15 OR AR>99 OR EDAM>40) FILTLVL>9]:
+ItemDisplay[(CL3) !SOCK=1 !RW NMAG ELT ETH FILTLVL>9]:
 
 ItemDisplay[(uit OR uow OR uts) SOCK=4 !RW NMAG !ETH]:%NAME%{%NAME%}
 ItemDisplay[(uow OR uts OR urg OR ush) !SOCK=1 !RW NMAG !ETH (ED>0 OR STAT91=-10)]:%NAME%{%NAME%}
@@ -7303,10 +7313,10 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL<26 xrs]:%NAME%{%TEAL%+ %SAGE%This Item Level is
 ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) (SOCK=0 OR SOCK>2) !RW NMAG ETH ED>9]:%DOT-75%%ORANGE%+%PURPLE%+ %NAME% %ORANGE%+%PURPLE%+{%NAME%}
 ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) (SOCK=0 OR SOCK>2) !RW NMAG !ETH ED>9]:%DOT-75%%ORANGE%+%PURPLE%+ %NAME% %ORANGE%+%PURPLE%+{%NAME%}
 
-ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) !SOCK=1 !RW NMAG !ETH (ED>0 OR STAT91=-10) FILTLVL>6]:
-ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) !SOCK=1 !RW NMAG ETH FILTLVL>6]:
-ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) SOCK=3 !RW NMAG !ETH FILTLVL>6]:
-ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) SOCK=4 !RW NMAG !ETH FILTLVL>6]:
+ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) !SOCK=1 !RW NMAG !ETH (ED>0 OR STAT91=-10) FILTLVL>9]:
+ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) !SOCK=1 !RW NMAG ETH FILTLVL>9]:
+ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) SOCK=3 !RW NMAG !ETH FILTLVL>9]:
+ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) SOCK=4 !RW NMAG !ETH FILTLVL>9]:
 
 ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) !SOCK=1 !RW NMAG !ETH (ED>0 OR STAT91=-10)]:%NAME%{%NAME%}
 ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) !SOCK=1 !RW NMAG ETH]:%NAME%{%NAME%}
@@ -7375,8 +7385,8 @@ ItemDisplay[CL2 NMAG !RW (SOCK=0 OR SOCK=3) (SK146>2 AND SK149>2)]:%DOT-75%%ORAN
 ItemDisplay[CL2 NMAG !RW (SOCK=0 OR SOCK=3) (SK146>2 AND SK149=2)]:%DOT-75%%ORANGE%+%PURPLE%+ %NAME% %ORANGE%+%PURPLE%+{%NAME%}
 ItemDisplay[CL2 NMAG !RW (SOCK=0 OR SOCK=3) (SK146=2 AND SK149>2)]:%DOT-75%%ORANGE%+%PURPLE%+ %NAME% %ORANGE%+%PURPLE%+{%NAME%}
 
-ItemDisplay[(msk OR uh9 OR urn) NMAG !RW !SOCK=1 FILTLVL>6]:
-ItemDisplay[CL2 NMAG !RW (SOCK=0 OR SOCK>1) (SK146>2 OR SK155>2 OR SK154>2 OR SK150>2 OR SK149>2 OR SK133>2 OR SK140>2 OR SK147>2) FILTLVL>6]:
+ItemDisplay[(msk OR uh9 OR urn) NMAG !RW !SOCK=1 FILTLVL>9]:
+ItemDisplay[CL2 NMAG !RW (SOCK=0 OR SOCK>1) (SK146>2 OR SK155>2 OR SK154>2 OR SK150>2 OR SK149>2 OR SK133>2 OR SK140>2 OR SK147>2) FILTLVL>9]:
 ItemDisplay[(msk OR uh9 OR urn) NMAG !RW !SOCK=1]:%NAME%{%NAME%}
 ItemDisplay[CL2 NMAG !RW (SOCK=0 OR SOCK>1) (SK146>2 OR SK155>2 OR SK154>2 OR SK150>2 OR SK149>2 OR SK133>2 OR SK140>2 OR SK147>2)]:%NAME%{%NAME%}
 
@@ -7436,7 +7446,7 @@ ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK=3) (SK236>2 AND SK226>2)]:%DOT-75%%ORAN
 ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK=3) (SK236>2 AND SK226=2)]:%DOT-75%%ORANGE%+%PURPLE%+ %NAME% %ORANGE%+%PURPLE%+{%NAME%}
 ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK=3) (SK236=2 AND SK226>2)]:%DOT-75%%ORANGE%+%PURPLE%+ %NAME% %ORANGE%+%PURPLE%+{%NAME%}
 
-ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK>1) (SK249>2 OR SK250>2 OR SK245>2 OR SK235>2 OR SK237>2 OR SK247>2 OR SK227>2 OR SK240>0 OR SK244>0) FILTLVL>6]:
+ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK>1) (SK249>2 OR SK250>2 OR SK245>2 OR SK235>2 OR SK237>2 OR SK247>2 OR SK227>2 OR SK240>0 OR SK244>0) FILTLVL>9]:
 ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK>1) (SK249>2 OR SK250>2 OR SK245>2 OR SK235>2 OR SK237>2 OR SK247>2 OR SK227>2 OR SK240>0 OR SK244>0)]:%NAME%{%NAME%}
 
 //BOW ACTIVE
@@ -7477,10 +7487,10 @@ ItemDisplay[(6hx OR 6mx) (SOCK=0 OR SOCK=4 OR SOCK=5 OR SOCK=6) !RW NMAG ED=15]:
 ItemDisplay[(6hx OR 6mx) (SOCK=0 OR SOCK=4 OR SOCK=5 OR SOCK=6) !RW NMAG ED=14]:%DOT-75%%ORANGE%+%PURPLE%+ %NAME% %ORANGE%+%PURPLE%+{%NAME%}
 ItemDisplay[(6hx OR 6mx) (SOCK=0 OR SOCK=4 OR SOCK=5 OR SOCK=6) !RW NMAG ED=13]:%DOT-75%%ORANGE%+%PURPLE%+ %NAME% %ORANGE%+%PURPLE%+{%NAME%}
 
-ItemDisplay[(am1 OR amb OR amc) !SOCK=1 !RW NMAG TABSK0>2 FILTLVL>6]:
-ItemDisplay[(am1 OR amb OR amc) (SOCK=4 OR SOCK=5) !RW NMAG FILTLVL>6]:
-ItemDisplay[(6cb OR 6lw OR 6rx OR 6hx OR 6mx) !SOCK=1 !RW NMAG ED>0 FILTLVL>6]:
-ItemDisplay[(6cb OR 6lw OR 6rx OR 6hx OR 6mx) (SOCK=4 OR SOCK=5 OR SOCK=6) !RW NMAG FILTLVL>6]:
+ItemDisplay[(am1 OR amb OR amc) !SOCK=1 !RW NMAG TABSK0>2 FILTLVL>9]:
+ItemDisplay[(am1 OR amb OR amc) (SOCK=4 OR SOCK=5) !RW NMAG FILTLVL>9]:
+ItemDisplay[(6cb OR 6lw OR 6rx OR 6hx OR 6mx) !SOCK=1 !RW NMAG ED>0 FILTLVL>9]:
+ItemDisplay[(6cb OR 6lw OR 6rx OR 6hx OR 6mx) (SOCK=4 OR SOCK=5 OR SOCK=6) !RW NMAG FILTLVL>9]:
 
 ItemDisplay[(am1 OR amb OR amc) !SOCK=1 !RW NMAG TABSK0>2]:%NAME%{%NAME%}
 ItemDisplay[(am1 OR amb OR amc) (SOCK=4 OR SOCK=5) !RW NMAG]:%NAME%{%NAME%}
@@ -7523,7 +7533,7 @@ ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW (SOCK=0 OR SOCK=3)
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW (SOCK=0 OR SOCK=3) (SK250>2 AND SK240=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW (SOCK=0 OR SOCK=3) (SK250=2 AND SK240>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
-ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW (SOCK=0 OR SOCK=3) (SK225>2 OR SK229>2 OR SK230>2 OR SK234>2 OR SK235>2 OR SK240>2 OR SK244>2 OR SK245>2 OR SK250>2 OR SK249>2 OR SK370>2 OR SK223>2 OR SK224>2 OR SK228>2 OR SK232>2 OR SK233>2 OR SK238>2 OR SK239>2 OR SK242>2 OR SK243>2 OR SK248>2 OR SK221>2 OR SK222>2 OR SK226>2 OR SK227>2 OR SK231>2 OR SK236>2 OR SK237>2 OR SK241>2 OR SK246>2 OR SK247>2) FILTLVL>6]:
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW (SOCK=0 OR SOCK=3) (SK225>2 OR SK229>2 OR SK230>2 OR SK234>2 OR SK235>2 OR SK240>2 OR SK244>2 OR SK245>2 OR SK250>2 OR SK249>2 OR SK370>2 OR SK223>2 OR SK224>2 OR SK228>2 OR SK232>2 OR SK233>2 OR SK238>2 OR SK239>2 OR SK242>2 OR SK243>2 OR SK248>2 OR SK221>2 OR SK222>2 OR SK226>2 OR SK227>2 OR SK231>2 OR SK236>2 OR SK237>2 OR SK241>2 OR SK246>2 OR SK247>2) FILTLVL>9]:
 ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW (SOCK=0 OR SOCK=3) (SK225>2 OR SK229>2 OR SK230>2 OR SK234>2 OR SK235>2 OR SK240>2 OR SK244>2 OR SK245>2 OR SK250>2 OR SK249>2 OR SK370>2 OR SK223>2 OR SK224>2 OR SK228>2 OR SK232>2 OR SK233>2 OR SK238>2 OR SK239>2 OR SK242>2 OR SK243>2 OR SK248>2 OR SK221>2 OR SK222>2 OR SK226>2 OR SK227>2 OR SK231>2 OR SK236>2 OR SK237>2 OR SK241>2 OR SK246>2 OR SK247>2)]:%GRAY%%NAME%{%NAME%}
 
 //s9 daggers
@@ -7566,7 +7576,7 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL<26 bld]:%NAME%{%TEAL%+ %SAGE%This Item Level is
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 9bl]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[2] %PURPLE%+%NAME%}%CONTINUE%
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 7bl]:%NAME%{%TEAL%+ %SAGE%This Item Level is:%ORANGE%L%ILVL%,%WHITE%It can be %PURPLE%Adding Socket:%GREEN%[2] %PURPLE%+%NAME%}%CONTINUE%
 
-ItemDisplay[(kri OR 9kr OR 7kr) !RW NMAG FILTLVL>6]:
+ItemDisplay[(kri OR 9kr OR 7kr) !RW NMAG FILTLVL>9]:
 ItemDisplay[(kri OR 9kr OR 7kr) !RW NMAG !SOCK=2 !SOCK=1 (SK73>2 OR SK254>2 OR SK259>2 OR SK269>2 OR SK274>2 OR SK265>2 OR SK280>2 OR SK255>2 OR SK270>2 OR SK275>2)]:%GRAY%%NAME%{%NAME%}
 
 //6 soc weapon bases
