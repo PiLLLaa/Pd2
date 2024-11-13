@@ -158,4 +158,5 @@
      12. 13.Nov
       1) Purple Gold filter Hide version uploaded
       2) BLank filter's filter level redesigned similar like others
+      3) Claw expression redesigned for all filter (except for blank)
 ----------------------------------------------------------------------------------------------------------------------
