@@ -1183,13 +1183,13 @@ ItemDisplay[rtmf]:%MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%P
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                    Uber Keys                                               //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[pk1]:%MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[ %DARK_GREEN%Key of %RED%Terror%WHITE%* %GREEN%%QTY% %WHITE%]%PURPLE%--%BLUE%--%GREEN%--%YELLOW%--%ORANGE%--%RED%--%WHITE%*
-ItemDisplay[pk2]:%MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[ %DARK_GREEN%Key of %YELLOW%Hatred%WHITE%* %GREEN%%QTY% %WHITE%]%PURPLE%--%BLUE%--%GREEN%--%YELLOW%--%ORANGE%--%RED%--%WHITE%*
-ItemDisplay[pk3]:%MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[ %DARK_GREEN%Key of %BLUE%Destruction%WHITE%* %GREEN%%QTY% %WHITE%]%PURPLE%--%BLUE%--%GREEN%--%YELLOW%--%ORANGE%--%RED%--%WHITE%*
-ItemDisplay[dhn]:%MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[ %DARK_GREEN%Diablo's %RED%Horn%WHITE%* %GREEN%%QTY% %WHITE%]%PURPLE%--%BLUE%--%GREEN%--%YELLOW%--%ORANGE%--%RED%--%WHITE%*
-ItemDisplay[bey]:%MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[ %DARK_GREEN%Baal's %BLUE%Eye%WHITE%* %GREEN%%QTY% %WHITE%]%PURPLE%--%BLUE%--%GREEN%--%YELLOW%--%ORANGE%--%RED%--%WHITE%*\
-ItemDisplay[mbr]:%MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[ %DARK_GREEN%Mephisto's %YELLOW%Brain%WHITE%* %GREEN%%QTY% %WHITE%]%PURPLE%--%BLUE%--%GREEN%--%YELLOW%--%ORANGE%--%RED%--%WHITE%*
-ItemDisplay[(std)]: %MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[ %DARK_GREEN%Standard of %RED%Heroes%WHITE%* %GREEN%%QTY% %WHITE%]%PURPLE%--%BLUE%--%GREEN%--%YELLOW%--%ORANGE%--%RED%--%WHITE%*{%GOLD% Standard of Heroes%GOLD%+%ORANGE%MAP %WHITE%OR %RED%DUNGEON%NL%%GOLD% Standard of Heroes : adds Heroic bonuses: +10% Experience, +20% Monster Density, +20% Magic and Gold Find %NL%}
+ItemDisplay[pk1]:%MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[ %DARK_GREEN%Key of %RED%Terror%WHITE%* %GREEN%%QTY% %WHITE%]%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%*
+ItemDisplay[pk2]:%MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[ %DARK_GREEN%Key of %YELLOW%Hatred%WHITE%* %GREEN%%QTY% %WHITE%]%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%*
+ItemDisplay[pk3]:%MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[ %DARK_GREEN%Key of %BLUE%Destruction%WHITE%* %GREEN%%QTY% %WHITE%]%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%*
+ItemDisplay[dhn]:%MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[ %DARK_GREEN%Diablo's %RED%Horn%WHITE%* %GREEN%%QTY% %WHITE%]%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%*
+ItemDisplay[bey]:%MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[ %DARK_GREEN%Baal's %BLUE%Eye%WHITE%* %GREEN%%QTY% %WHITE%]%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%*
+ItemDisplay[mbr]:%MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[ %DARK_GREEN%Mephisto's %YELLOW%Brain%WHITE%* %GREEN%%QTY% %WHITE%]%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%*
+ItemDisplay[(std)]: %MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[ %DARK_GREEN%Standard of %RED%Heroes%WHITE%* %GREEN%%QTY% %WHITE%]%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%*{%GOLD% Standard of Heroes%GOLD%+%ORANGE%MAP %WHITE%OR %RED%DUNGEON%NL%%GOLD% Standard of Heroes : adds Heroic bonuses: +10% Experience, +20% Monster Density, +20% Magic and Gold Find %NL%}
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      PD2 Maps                                               //
 /////////////////////////////////////////////////////////////////////////////////////////////////
