@@ -1417,38 +1417,38 @@ ItemDisplay[(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 
 //ItemDisplay[t32 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%130 %GREEN%Poison %SAGE%115%PURPLE%]}%CONTINUE%
 //ItemDisplay[t16 ID]:%NAME%{%PURPLE%[%BLUE%Cold %TEAL%115 %GREEN%Poison %SAGE%140%GOLD% %ORANGE%Magic %YELLOW%125)}%CONTINUE%
 
-ItemDisplay[t23 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%130% %YELLOW%Light %ORANGE%100% %BLUE%Cold %TEAL%80% %GREEN%Poison %SAGE%85% %PURPLE%]}%CONTINUE% //Arreat Battlefield  ***
-ItemDisplay[t15 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%80% %BLUE%Cold %TEAL%125% %ORANGE%Magic %YELLOW%150% %GREEN%Poison %SAGE%105% %PURPLE%]}%CONTINUE% //Royal Crypts ***
-ItemDisplay[t12 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%135% %YELLOW%Light %ORANGE%80% %BLUE%Cold %TEAL%130% %GREEN%Poison %SAGE%75% %PURPLE%]}%CONTINUE% //Horazon's Memory ***
-ItemDisplay[t26 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%85% %GRAY%Phys %LIGHT_GRAY%100% %GREEN%Poison %SAGE%135% %PURPLE%]}%CONTINUE% //Shadows of Westmarch ***
-ItemDisplay[t25 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%135% %BLUE%Cold %TEAL%85% %GREEN%Poison %SAGE%125% %PURPLE%]}%CONTINUE% //Sewers of Harrogath ***
-ItemDisplay[t22 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%125% %YELLOW%Light %ORANGE%105% %BLUE%Cold %TEAL%75% %GREEN%Poison %SAGE%85% %PURPLE%]}%CONTINUE% //Torajan Jungle ***
-ItemDisplay[t36 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%95% %YELLOW%Light %ORANGE%100% %BLUE%Cold %TEAL%130% %GREEN%Poison %SAGE%80% %PURPLE%]}%CONTINUE% //Fall of Caldeum ****
+ItemDisplay[t23 ID]:%NAME%{%GOLD%Immunes: %RED%Fire %YELLOW%Lightn %GOLD%---%PURPLE%[%RED%Fire %CORAL%130% %YELLOW%Light %ORANGE%100% %BLUE%Cold %TEAL%80% %GREEN%Poison %SAGE%85% %PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire 113}%CONTINUE% //Arreat Battlefield  ***
+ItemDisplay[t15 ID]:%NAME%{%GOLD%Immunes: %BLUE%Cold %GREEN%Poision %ORANGE%Magic %GOLD%---%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%80% %BLUE%Cold %TEAL%125% %ORANGE%Magic %YELLOW%150% %GREEN%Poison %SAGE%105% %PURPLE%] %WHITE%X %GOLD%Infinity: %BLUE%Cold 108 %GREEN%Poision %ORANGE%Magic}%CONTINUE% //Royal Crypts ***
+ItemDisplay[t12 ID]:%NAME%{%GOLD%Immunes: %RED%Fire %BLUE%Cold %GOLD%---%PURPLE%[%RED%Fire %CORAL%135% %YELLOW%Light %ORANGE%80% %BLUE%Cold %TEAL%130% %GREEN%Poison %SAGE%75% %PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire 118 %BLUE%Cold 113}%CONTINUE% //Horazon's Memory ***
+ItemDisplay[t26 ID]:%NAME%{%GOLD%Immunes: %GREEN%Poision %WHITE%Phys.%GOLD%---%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%85% %GRAY%Phys %LIGHT_GRAY%100% %GREEN%Poison %SAGE%135% %PURPLE%] %WHITE%X %GOLD%Infinity: %GREEN%Poision %WHITE%Phys.}%CONTINUE% //Shadows of Westmarch ***
+ItemDisplay[t25 ID]:%NAME%{%GOLD%Immunes: %YELLOW%Lightn %GREEN%Poision%GOLD%---%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%135% %BLUE%Cold %TEAL%85% %GREEN%Poison %SAGE%125% %PURPLE%] %WHITE%X %GOLD%Infinity: %YELLOW%Lightn 118 %GREEN%Poision}%CONTINUE% //Sewers of Harrogath ***
+ItemDisplay[t22 ID]:%NAME%{%GOLD%Immunes: %RED%Fire %YELLOW%Lightn %GOLD%---%PURPLE%[%RED%Fire %CORAL%125% %YELLOW%Light %ORANGE%105% %BLUE%Cold %TEAL%75% %GREEN%Poison %SAGE%85% %PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire 108}%CONTINUE% //Torajan Jungle ***
+ItemDisplay[t36 ID]:%NAME%{%GOLD%Immunes: %BLUE%Cold %YELLOW%Lightn %GOLD%---%PURPLE%[%RED%Fire %CORAL%95% %YELLOW%Light %ORANGE%100% %BLUE%Cold %TEAL%130% %GREEN%Poison %SAGE%80% %PURPLE%] %WHITE%X %GOLD%Infinity: %BLUE%Cold 113}%CONTINUE% //Fall of Caldeum ****
+ItemDisplay[t34 ID]:%NAME%{%GOLD%Immunes: %YELLOW%Lightn %GREEN%Poision %GOLD%---%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%130% %BLUE%Cold %TEAL%75% %GREEN%Poison %SAGE%120%%PURPLE%] %WHITE%X %GOLD%Infinity: %YELLOW%Lightn 113 %GREEN%Poision}%CONTINUE% //Ancestral Trial ***
+ItemDisplay[t31 ID]:%NAME%{%GOLD%Immunes: %BLUE%Cold %GREEN%Poision %ORANGE%Magic %GOLD%---%PURPLE%[%RED%Fire %CORAL%90% %YELLOW%Light %ORANGE%85% %BLUE%Cold %TEAL%180% %ORANGE%Magic %YELLOW%100% %GREEN%Poison %SAGE%130%%PURPLE%] %WHITE%X %GOLD%Infinity: %BLUE%Cold 163 %GREEN%Poision %ORANGE%Magic}%CONTINUE% //River of Blood ***
+ItemDisplay[t24 ID]:%NAME%{%GOLD%Immunes: %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %GOLD%---%PURPLE%[%RED%Fire %CORAL%85% %YELLOW%Light %ORANGE%120% %BLUE%Cold %TEAL%75% %GRAY%Phys %LIGHT_GRAY%105% %GREEN%Poison %SAGE%110%%PURPLE%] %WHITE%X %GOLD%Infinity: %YELLOW%Lightn 103 %GREEN%Poision %WHITE%Phys.}%CONTINUE% //Tomb of Zoltun Kulle ***
+ItemDisplay[t11 ID]:%NAME%{%GOLD%Immunes: %RED%Fire %YELLOW%Lightn %GOLD%---%PURPLE%[%RED%Fire %CORAL%130% %YELLOW%Light %ORANGE%120% %BLUE%Cold %TEAL%75% %GRAY%Phys %LIGHT_GRAY%80% %GREEN%Poison %SAGE%80%%PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire 113 %YELLOW%Lightn 103}%CONTINUE% //Ruins of Viz-jun ***
+ItemDisplay[t33 ID]:%NAME%{%GOLD%Immunes: %RED%Fire %BLUE%Cold %GOLD%---%PURPLE%[%RED%Fire %CORAL%120% %YELLOW%Light %ORANGE%80% %BLUE%Cold %TEAL%110% %GREEN%Poison %SAGE%80%%PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire 103}%CONTINUE% //Lost Temple ***
+ItemDisplay[t13 ID]:%NAME%{%GOLD%Immunes: %RED%Fire %BLUE%Cold %WHITE%Phys. %GOLD%---%PURPLE%[%RED%Fire %CORAL%125% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%130% %GRAY%Phys %LIGHT_GRAY%110% %GREEN%Poison %SAGE%85%%PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire 108 %BLUE%Cold 113 %WHITE%Phys.}%CONTINUE% //Bastion Keep ***
 
-ItemDisplay[t34 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%130% %BLUE%Cold %TEAL%75% %GREEN%Poison %SAGE%120%%PURPLE%]}%CONTINUE% //Ancestral Trial ***
-ItemDisplay[t31 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%90% %YELLOW%Light %ORANGE%85% %BLUE%Cold %TEAL%180% %ORANGE%Magic %YELLOW%100% %GREEN%Poison %SAGE%130%%PURPLE%]}%CONTINUE% //River of Blood ***
-ItemDisplay[t24 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%85% %YELLOW%Light %ORANGE%120% %BLUE%Cold %TEAL%75% %GRAY%Phys %LIGHT_GRAY%105% %GREEN%Poison %SAGE%110%%PURPLE%]}%CONTINUE% //Tomb of Zoltun Kulle ***
-ItemDisplay[t11 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%130% %YELLOW%Light %ORANGE%120% %BLUE%Cold %TEAL%75% %GRAY%Phys %LIGHT_GRAY%80% %GREEN%Poison %SAGE%80%%PURPLE%]}%CONTINUE% //Ruins of Viz-jun ***
-ItemDisplay[t33 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%120% %YELLOW%Light %ORANGE%80% %BLUE%Cold %TEAL%110% %GREEN%Poison %SAGE%80%%PURPLE%]}%CONTINUE% //Lost Temple ***
-ItemDisplay[t13 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%125% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%130% %GRAY%Phys %LIGHT_GRAY%110% %GREEN%Poison %SAGE%85%%PURPLE%]}%CONTINUE% //Bastion Keep ***
+ItemDisplay[t3a ID]:%NAME%{%GOLD%Immunes: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic %GOLD%---%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%80% %BLUE%Cold %TEAL%130% %ORANGE%Magic %YELLOW% 120% %GREEN%Poison %SAGE%130%%PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic}%CONTINUE% //Ashen Plains ***
 
-ItemDisplay[t3a ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%80% %BLUE%Cold %TEAL%130% %ORANGE%Magic %YELLOW% 120% %GREEN%Poison %SAGE%130%%PURPLE%]}%CONTINUE% //Ashen Plains ***
-ItemDisplay[t35 ID]:%NAME%{%PURPLE%[%RED%G%ORANGE%O%YELLOW%O%GREEN%D %BLUE%L%PURPLE%U%RED%C%GREEN%K%YELLOW%!%PURPLE%]}%CONTINUE% //Blood Moon
-ItemDisplay[t38 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%130% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%80% %GRAY%Phys %LIGHT_GRAY%120% %ORANGE%Magic %YELLOW%70% %GREEN%Poison %SAGE%110%%PURPLE%]}%CONTINUE% //Canyon of Sescheron ***
-ItemDisplay[t39 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%125% %YELLOW%Light %ORANGE%90% %BLUE%Cold %TEAL%130% %GREEN%Poison %SAGE%110, 1000(Fire TOWER)%%PURPLE%]}%CONTINUE% //Kehjistan Marketplace ***
-ItemDisplay[t37 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%135% %BLUE%Cold %TEAL%75% %GRAY%Phys %LIGHT_GRAY%100% %GREEN%Poison %SAGE%130%%PURPLE%]}%CONTINUE% //Pandemonium Citadel ***
-ItemDisplay[t14 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%125% %BLUE%Cold %TEAL%75% %GREEN%Poison %SAGE%130%%PURPLE%]}%CONTINUE% //Sanatorium
-ItemDisplay[t21 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%140% %YELLOW%Light %ORANGE%125% %BLUE%Cold %TEAL%80% %GRAY%Phys %LIGHT_GRAY%75% %GREEN%Poison %SAGE%75%%PURPLE%]}%CONTINUE% //Phlegethon ***
-ItemDisplay[t32 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%130% %BLUE%Cold %TEAL%130% %ORANGE%Magic %YELLOW%75% %GREEN%Poison %SAGE%85%%PURPLE%]}%CONTINUE% //Throne of Insanity
-ItemDisplay[t16 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%135% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%115% %ORANGE%Magic %YELLOW%125% %GREEN%Poison %SAGE%??%%PURPLE%]}%CONTINUE% //Ruined Cistern **
+ItemDisplay[t35 ID]:%NAME%{%GOLD%Immunes: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic %GOLD%---%PURPLE%[%RED%G%ORANGE%O%YELLOW%O%GREEN%D %BLUE%L%PURPLE%U%RED%C%GREEN%K%YELLOW%!%PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic}%CONTINUE% //Blood Moon
+ItemDisplay[t38 ID]:%NAME%{%GOLD%Immunes: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic %GOLD%---%PURPLE%[%RED%Fire %CORAL%130% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%80% %GRAY%Phys %LIGHT_GRAY%120% %ORANGE%Magic %YELLOW%70% %GREEN%Poison %SAGE%110%%PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic}%CONTINUE% //Canyon of Sescheron ***
+ItemDisplay[t39 ID]:%NAME%{%GOLD%Immunes: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic %GOLD%---%PURPLE%[%RED%Fire %CORAL%125% %YELLOW%Light %ORANGE%90% %BLUE%Cold %TEAL%130% %GREEN%Poison %SAGE%110, 1000(Fire TOWER)%%PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic}%CONTINUE% //Kehjistan Marketplace ***
+ItemDisplay[t37 ID]:%NAME%{%GOLD%Immunes: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic %GOLD%---%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%135% %BLUE%Cold %TEAL%75% %GRAY%Phys %LIGHT_GRAY%100% %GREEN%Poison %SAGE%130%%PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic}%CONTINUE% //Pandemonium Citadel ***
+ItemDisplay[t14 ID]:%NAME%{%GOLD%Immunes: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic %GOLD%---%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%125% %BLUE%Cold %TEAL%75% %GREEN%Poison %SAGE%130%%PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic}%CONTINUE% //Sanatorium
+ItemDisplay[t21 ID]:%NAME%{%GOLD%Immunes: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic %GOLD%---%PURPLE%[%RED%Fire %CORAL%140% %YELLOW%Light %ORANGE%125% %BLUE%Cold %TEAL%80% %GRAY%Phys %LIGHT_GRAY%75% %GREEN%Poison %SAGE%75%%PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic}%CONTINUE% //Phlegethon ***
+ItemDisplay[t32 ID]:%NAME%{%GOLD%Immunes: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic %GOLD%---%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%130% %BLUE%Cold %TEAL%130% %ORANGE%Magic %YELLOW%75% %GREEN%Poison %SAGE%85%%PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic}%CONTINUE% //Throne of Insanity
+ItemDisplay[t16 ID]:%NAME%{%GOLD%Immunes: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic %GOLD%---%PURPLE%[%RED%Fire %CORAL%135% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%115% %ORANGE%Magic %YELLOW%125% %GREEN%Poison %SAGE%??%%PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire %BLUE%Cold %YELLOW%Lightn %GREEN%Poision %WHITE%Phys. %ORANGE%Magic}%CONTINUE% //Ruined Cistern **
 
 //T5
-ItemDisplay[t51 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%85 %YELLOW%Light %YELLOW%85 %BLUE%Cold %TEAL%85 %GREEN%Poison %SAGE%95 %ORANGE%Magic %YELLOW%40 %WHITE%Phys %LIGHT_GRAY%65%PURPLE%]}%CONTINUE%
-ItemDisplay[t52 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%65 %YELLOW%Light %YELLOW%60 %BLUE%Cold %TEAL%65 %GREEN%Poison %SAGE%75 %ORANGE%Magic %YELLOW%50 %WHITE%Phys %LIGHT_GRAY%50%PURPLE%]}%CONTINUE%
-ItemDisplay[t53 ID]:%NAME%{%PURPLE%[%RED%Fire %CORAL%70 %YELLOW%Light %YELLOW%75 %BLUE%Cold %TEAL%65 %GREEN%Poison %SAGE%80 %ORANGE%Magic %YELLOW%80 %WHITE%Phys %LIGHT_GRAY%60%PURPLE%]}%CONTINUE%
+ItemDisplay[t51 ID]:%NAME%{%GOLD%Immunes: %WHITE%Free %GOLD%---%PURPLE%[%RED%Fire %CORAL%85 %YELLOW%Light %YELLOW%85 %BLUE%Cold %TEAL%85 %GREEN%Poison %SAGE%95 %ORANGE%Magic %YELLOW%40 %WHITE%Phys %LIGHT_GRAY%65%PURPLE%] %WHITE%X %GOLD%Infinity: %WHITE%Free}%CONTINUE%
+ItemDisplay[t52 ID]:%NAME%{%GOLD%Immunes: %WHITE%Free %GOLD%---%PURPLE%[%RED%Fire %CORAL%65 %YELLOW%Light %YELLOW%60 %BLUE%Cold %TEAL%65 %GREEN%Poison %SAGE%75 %ORANGE%Magic %YELLOW%50 %WHITE%Phys %LIGHT_GRAY%50%PURPLE%] %WHITE%X %GOLD%Infinity: %WHITE%Free}%CONTINUE%
+ItemDisplay[t53 ID]:%NAME%{%GOLD%Immunes: %WHITE%Free %GOLD%---%PURPLE%[%RED%Fire %CORAL%70 %YELLOW%Light %YELLOW%75 %BLUE%Cold %TEAL%65 %GREEN%Poison %SAGE%80 %ORANGE%Magic %YELLOW%80 %WHITE%Phys %LIGHT_GRAY%60%PURPLE%] %WHITE%X %GOLD%Infinity: %WHITE%Free}%CONTINUE%
 //S10
-ItemDisplay[t27]: %NAME%{%PURPLE%[%RED%Fire %CORAL%85 %YELLOW%Light %YELLOW%85 %BLUE%Cold %TEAL%85 %GREEN%Poison %SAGE%85 %ORANGE%Magic %YELLOW%40 %WHITE%Phys %LIGHT_GRAY%45%PURPLE%]}%CONTINUE% // Demon Road
-ItemDisplay[t28]: %NAME%{%PURPLE%[%RED%Fire %CORAL%85 %YELLOW%Light %YELLOW%85 %BLUE%Cold %TEAL%85 %GREEN%Poison %SAGE%85 %ORANGE%Magic %YELLOW%40 %WHITE%Phys %LIGHT_GRAY%45%PURPLE%]}%CONTINUE% // Skovos Stronghold
+ItemDisplay[t27]: %NAME%{%GOLD%Immunes: %WHITE%Free %GOLD%---%PURPLE%[%RED%Fire %CORAL%85 %YELLOW%Light %YELLOW%85 %BLUE%Cold %TEAL%85 %GREEN%Poison %SAGE%85 %ORANGE%Magic %YELLOW%40 %WHITE%Phys %LIGHT_GRAY%45%PURPLE%] %WHITE%X %GOLD%Infinity: %WHITE%Free}%CONTINUE% // Demon Road
+ItemDisplay[t28]: %NAME%{%GOLD%Immunes: %WHITE%Free %GOLD%---%PURPLE%[%RED%Fire %CORAL%85 %YELLOW%Light %YELLOW%85 %BLUE%Cold %TEAL%85 %GREEN%Poison %SAGE%85 %ORANGE%Magic %YELLOW%40 %WHITE%Phys %LIGHT_GRAY%45%PURPLE%] %WHITE%X %GOLD%Infinity: %WHITE%Free}%CONTINUE% // Skovos Stronghold
 
 //ItemDisplay[(t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19 OR t20 OR t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29 OR t30 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t37 OR t38 OR t39 OR t40 OR t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) ID]:%NAME%{%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--}%CONTINUE%
 //ItemDisplay[(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19 OR t20 OR t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29 OR t30 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t37 OR t38 OR t39) ID]:%NAME%{%GOLD%--- --- --- --- --- --- --- --- --- --- --- --- --- ---}%CONTINUE%
@@ -4507,6 +4507,10 @@ ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK70>2 (SOCK=0 OR SOCK>1)]
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK80>2 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %YELLOW%+3 Rm%PURPLE%* %CONTINUE%
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK89>2 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %DARK_GREEN%+3 Ra %CONTINUE%
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK68>2 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %WHITE%+3 Ba %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK94>2 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %RED%+3 Fg %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK95>2 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %SAGE%+3 Re %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK91>2 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %CORAL%+3 Lr %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK367>2 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %BLUE%+3 Bw %CONTINUE%
 
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK84=2 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %ORANGE%+2 Bs %CONTINUE%
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK92=2 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %RED%+2 Pv %CONTINUE%
@@ -4518,6 +4522,10 @@ ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK70=2 (SOCK=0 OR SOCK>1)]
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK80=2 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %YELLOW%+2 Rm %CONTINUE%
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK89=2 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %DARK_GREEN%+2 Ra %CONTINUE%
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK68=2 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %WHITE%+2 Ba %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK94=2 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %RED%+2 Fg %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK95=2 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %SAGE%+2 Re %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK91=2 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %CORAL%+2 Lr %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK367=2 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %BLUE%+2 Bw %CONTINUE%
 
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK84=1 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %ORANGE%+1 Bs %CONTINUE%
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK92=1 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %RED%+1 Pn %CONTINUE%
@@ -4529,6 +4537,10 @@ ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK70=1 (SOCK=0 OR SOCK>1)]
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK80=1 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %YELLOW%+1 Rm %CONTINUE%
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK89=1 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %DARK_GREEN%+1 Ra %CONTINUE%
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK68=1 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %WHITE%+1 Ba %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK94=1 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %RED%+1 Fg %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK95=1 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %SAGE%+1 Re %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK91=1 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %CORAL%+1 Lr %CONTINUE%
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW NMAG SK367=1 (SOCK=0 OR SOCK>1)]:%NAME%%CL% %BLUE%+1 Bw %CONTINUE%
 
 //COMMENTS
 ItemDisplay[EQ1 NMAG !RW !SUP SOCK=0]:%NAME%{%NL%%YELLOW%(Helmet Random Soc:%GOLD%Ral%WHITE%+%GOLD%Thul%WHITE%+%ORANGE%P%WHITE%Sapphire%BLUE%@%YELLOW%)}%CONTINUE%
@@ -5197,9 +5209,11 @@ ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69>2 AND SK89=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69=2 AND SK89>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK68=2 AND SK78>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK94>2 AND SK95>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK94>2 AND SK91>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK84>1 OR SK92>1 OR SK83>1 OR SK74>1 OR SK67>1 OR SK69>1 OR SK80>1 OR SK89>1 OR SK70>1 OR SK68>1) FILTLVL>9]:
-ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK84>1 OR SK92>1 OR SK83>1 OR SK74>1 OR SK67>1 OR SK69>1 OR SK80>1 OR SK89>1 OR SK70>1 OR SK68>1)]:%NAME%{%NAME%}
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK84>1 OR SK92>1 OR SK83>1 OR SK74>1 OR SK67>1 OR SK69>1 OR SK80>1 OR SK89>1 OR SK70>1 OR SK68>1 OR SK94>1 OR SK95>1 OR SK91>1 OR SK367>1) FILTLVL>9]:
+ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK84>1 OR SK92>1 OR SK83>1 OR SK74>1 OR SK67>1 OR SK69>1 OR SK80>1 OR SK89>1 OR SK70>1 OR SK68>1 OR SK94>1 OR SK95>1 OR SK91>1 OR SK367>1)]:%NAME%{%NAME%}
 
 //SHIELD ACTIVE - COMPLETE
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 urg]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%3 %RED%by larzuk%YELLOW%)%NAME%}%CONTINUE%
