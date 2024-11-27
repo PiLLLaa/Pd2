@@ -4763,8 +4763,8 @@ ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame 
 
 ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) !ETH !SOCK=1 !RW NMAG ED>0 FILTLVL>9]:
 ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) ETH !SOCK=1 !RW NMAG FILTLVL>9]:
-ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 9sr OR 7sr) !ETH !SOCK=1 !SOCK=2 !SOCK=3 !RW NMAG ED>0 FILTLVL>9]:
-ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 9sr OR 7sr) ETH !SOCK=1 !SOCK=2 !SOCK=3 !RW NMAG FILTLVL>9]:
+ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 9sr OR 7sr) !ETH !SOCK=1 !SOCK=2 !RW NMAG ED>0 FILTLVL>9]:
+ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 9sr OR 7sr) ETH !SOCK=1 !SOCK=2 !RW NMAG FILTLVL>9]:
 
 ItemDisplay[(crs OR bsd OR lsd OR fla) (SOCK=4 OR SOCK=5) !RW NMAG FILTLVL>9]:
 ItemDisplay[(7cr) SOCK=5 !RW NMAG FILTLVL>9]:
@@ -4772,8 +4772,8 @@ ItemDisplay[(7fb) !ETH !SOCK=1 !RW NMAG FILTLVL>9]:
 
 ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) !ETH !SOCK=1 !RW NMAG ED>0]:%NAME%{%NAME%}
 ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) ETH !SOCK=1 !RW NMAG]:%NAME%{%NAME%}
-ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 9sr OR 7sr) !ETH !SOCK=1 !SOCK=2 !SOCK=3 !RW NMAG ED>0]:%NAME%{%NAME%}
-ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 9sr OR 7sr) ETH !SOCK=1 !SOCK=2 !SOCK=3 !RW NMAG]:%NAME%{%NAME%}
+ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 9sr OR 7sr) !ETH !SOCK=1 !SOCK=2 !RW NMAG ED>0]:%NAME%{%NAME%}
+ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 9sr OR 7sr) ETH !SOCK=1 !SOCK=2 !RW NMAG]:%NAME%{%NAME%}
 ItemDisplay[(crs OR bsd OR lsd OR fla) (SOCK=4 OR SOCK=5) !RW NMAG]:%NAME%{%NAME%}
 ItemDisplay[(7cr) SOCK=5 !RW NMAG]:%NAME%{%NAME%}
 ItemDisplay[(7fb) !ETH !SOCK=1 !RW NMAG]:%NAME%{%NAME%}
