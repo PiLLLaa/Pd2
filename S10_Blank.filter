@@ -1210,11 +1210,11 @@ ItemDisplay[(UNI) upl ALLSK>0 STAT240>0 ID]:%RED%Ba%ORANGE%lr%YELLOW%og %GREEN%S
 //ItemDisplay[(UNI) xpl ALLSK>0 STAT240>0 ID]:%GOLD%Russet Armor%NL%%PURPLE%S k %RED%u l %ORANGE%l d %GOLD%e r %WHITE%' s %RED%  I %PURPLE%r e%CONTINUE%
 //ItemDisplay[(UNI) upl ALLSK>0 STAT240>0 ID]:%GOLD%Balrog Skin%NL%%PURPLE%S k %RED%u l %ORANGE%l d %GOLD%e r %WHITE%' s %RED%  I %PURPLE%r e%CONTINUE%
 
-ItemDisplay[(UNI) plt ID]:%GOLD%Plate Mail%NL%%GOLD%B o %TAN%n e %WHITE%f l %TAN%e s %GOLD%h%CONTINUE%
-ItemDisplay[(UNI) xlt ID]:%GOLD%Templar Coat%NL%%GOLD%B o %TAN%n e %WHITE%f l %TAN%e s %GOLD%h%CONTINUE%
-ItemDisplay[(UNI) ult ID]:%GOLD%Hellforge Plate%NL%%GOLD%B o %TAN%n e %WHITE%f l %TAN%e s %GOLD%h%CONTINUE%
-ItemDisplay[(UNI) xlt CLSK3>0 ID]:%TAN%%CORAL%Templar Coat%NL%%ORANGE%G u %GOLD%a r %TAN%d i %GOLD%a n %ORANGE%  A %WHITE%n g %ORANGE%e l%CONTINUE%
-ItemDisplay[(UNI) ult CLSK3>0 ID]:%TAN%%CORAL%Hellforge Plate%NL%%ORANGE%G u %GOLD%a r %TAN%d i %GOLD%a n %ORANGE%  A %WHITE%n g %ORANGE%e l%CONTINUE%
+ItemDisplay[(UNI) plt !(ALLSK>0 AND FBR>0) ID]:%GOLD%Plate Mail%NL%%GOLD%B o %TAN%n e %WHITE%f l %TAN%e s %GOLD%h%CONTINUE%
+ItemDisplay[(UNI) xlt !(ALLSK>0 AND FBR>0) ID]:%GOLD%Templar Coat%NL%%GOLD%B o %TAN%n e %WHITE%f l %TAN%e s %GOLD%h%CONTINUE%
+ItemDisplay[(UNI) ult !(ALLSK>0 AND FBR>0) ID]:%GOLD%Hellforge Plate%NL%%GOLD%B o %TAN%n e %WHITE%f l %TAN%e s %GOLD%h%CONTINUE%
+ItemDisplay[(UNI) xlt ALLSK>0 FBR>0 ID]:%TAN%%CORAL%Templar Coat%NL%%ORANGE%G u %GOLD%a r %TAN%d i %GOLD%a n %ORANGE%  A %WHITE%n g %ORANGE%e l%CONTINUE%
+ItemDisplay[(UNI) ult ALLSK>0 FBR>0 ID]:%TAN%%CORAL%Hellforge Plate%NL%%ORANGE%G u %GOLD%a r %TAN%d i %GOLD%a n %ORANGE%  A %WHITE%n g %ORANGE%e l%CONTINUE%
 
 ItemDisplay[(UNI) fld STR>9 STAT34>0 STAT36>0 ID]:%GOLD%Field Plate%NL%%GOLD%R o %TAN%c k %WHITE%f l %TAN%e e %GOLD%c e%CONTINUE%
 ItemDisplay[(UNI) xld STR>9 STAT34>0 STAT36>0 ID]:%GOLD%Sharktooth Armor%NL%%GOLD%R o %TAN%c k %WHITE%f l %TAN%e e %GOLD%c e%CONTINUE%
