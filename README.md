@@ -161,7 +161,9 @@
       3) Claw expression redesigned for all filter (except for blank)
 ----------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------
-     13. 27.Nov
+     13. 27/28.Nov
       1) Starter filter can drop the Purity base always
       2) All filter can drop the purity base when 3 socket with ED (Etherial always)
+      3) Guardian angel expression corrected for Blank filter
+      4) Void of Terror comments was modfied - Thanks to report ## (LethalLoki)
 ----------------------------------------------------------------------------------------------------------------------
