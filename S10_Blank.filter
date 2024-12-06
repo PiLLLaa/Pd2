@@ -8854,7 +8854,7 @@ ItemDisplay[amu MAG ID ALVL>89]:%NAME%{%NL%%PURPLE%[%CORAL%AffixLevel:%PURPLE%L%
 ItemDisplay[amu MAG ID ALVL<90]:%NAME%{%NL%%PURPLE%[%CORAL%AffixLevel:%PURPLE%L%ALVL% %GOLD%Not %RED%recommended %GOLD%for %ORANGE%crafting%PURPLE%]%NL%%NAME%}%CONTINUE%
 
 ItemDisplay[rin MAG ID ALVL>85]:%NAME%{%NL%%PURPLE%[%CORAL%AffixLevel:%PURPLE%L%ALVL% %GOLD%%GOLD%All %RED% affixes %GOLD%added via %ORANGE%crafting%PURPLE%]%NL%%NAME%}%CONTINUE%
-ItemDisplay[rin MAG ID ALVL<86]:%NAME%{%NL%%PURPLE%[%CORAL%AffixLevel:%PURPLE%L%ALVL% %GOLD%Not %RED%recommended %GOLD%for %ORANGE%crafting %ORANGE%crafting%PURPLE%]%NL%%NAME%}%CONTINUE%
+ItemDisplay[rin MAG ID ALVL<86]:%NAME%{%NL%%PURPLE%[%CORAL%AffixLevel:%PURPLE%L%ALVL% %GOLD%Not %RED%recommended %GOLD%for %ORANGE%crafting%PURPLE%]%NL%%NAME%}%CONTINUE%
 
 ItemDisplay[(UNI OR SET OR RARE OR CRAFT) (WEAPON OR ARMOR OR rin OR amu OR rar OR rbe OR ram) ID STAT477=4]:%NAME%{%RED%+%GRAY%Black Mirrored%RED%+%NL%%NAME%}%CONTINUE%
 ItemDisplay[(UNI OR SET OR RARE OR CRAFT) (WEAPON OR ARMOR OR rin OR amu OR rar OR rbe OR ram) ID STAT477=21]:%NAME%{%RED%+%WHITE%White Mirrored%RED%+%NL%%NAME%}%CONTINUE%
