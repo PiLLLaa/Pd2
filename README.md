@@ -167,3 +167,8 @@
       3) Guardian angel expression corrected for Blank filter
       4) Void of Terror comments was modfied - Thanks to report ## (LethalLoki)
 ----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+     14. 06.Dec
+      1) Now Magic items have crafting comments
+      2) Half freeze duration has special comments when two items makes "Can not be frozen"
+----------------------------------------------------------------------------------------------------------------------
