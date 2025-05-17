@@ -27,7 +27,8 @@
  #### S8 Updated 20.Sep
  #### Craft Season updated 2.Feb,2024
  #### S9 updated 10.Apr,2024
- ### S10 updated 25.Oct,2024
+ #### S10 updated 25.Oct,2024
+ ### S11 updated 17.May,2025
 
  ### Explanation for Each Filter 
     1. Hype : Various colour table
@@ -74,101 +75,11 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 ### UPDATE HISTORY
-   : Previous Update List before S9
+   : Previous Update List before S10
   https://docs.google.com/document/d/15kbZSRRPhfTrehFSQHBgoh_rFrf38TQDNBSsV9RHv6g/edit?usp=sharing
 
 ----------------------------------------------------------------------------------------------------------------------
-     1. 25.Oct
-      1) Uploaded S10 filters
+     1. 17.May
+      1) Uploaded S11 filter (Starter updated)
       
-----------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------
-     2. 27.Oct
-      1) Normal Base Items have a Cut line function. Now, it shows two line when they have options,
-      
-----------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------
-     3. 29.Oct
-      1) Bug fixed for drop of circle base
-      
-----------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------
-     4. 30.Oct
-      1) Witchwild string/Grim burning hand drop level change from rainbow to Red
-      2) Filter level rebuiled 
-         Level Standard 
-         Leve2 No Bolt(M)+Arrow(M)+ThrowingPotion+Ring(M)
-         Leve3 No CraftArmor
-         Leve4 No Claw(M)+ClassHelmet(M)+Javel(M)
-         Leve5 No NormalSet(Only Active Sigon)
-         Leve6 No NecHead(M)+Wand(M)
-         Leve7 No Amulet(M)+Circlet(M)+Glove(M)
-         Leve8 No Sigon+HP/MP+Anti
-         Leve9 No Bolt(Rare)+R35
-         Leve10 No Arrow(Rare)+Only GG base Item
-         Level1 No CraftWeapon(Only Active ETH+Bows(GMB))
-         Level2 No AllSet(rin+amu)
-      3) The expression of New uber materials are changed
-----------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------
-     5. 31.Oct
-      1) Bug fixed
-      2) Blank filter updated
-----------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------
-     6. 02.Nov
-      1) Visual change when drop : Arrow, Circlets, Bolt, Rare Jewel/Ring/Amulet, Set Ring/Amulet
-      2) Visual change for shop items such as lower resistance charge 
-      3) Delete price marking for item which is shown on shop.
-----------------------------------------------------------------------------------------------------------------------
-
-![image](https://github.com/user-attachments/assets/ff8d48ce-9933-4302-a3fb-bfdc5e0babf5)
-![image](https://github.com/user-attachments/assets/925f20ee-35f0-4f55-af11-2ea136243a06)
-![image](https://github.com/user-attachments/assets/54d088f3-8272-4bf7-b00d-566350047b6d)
-      
-----------------------------------------------------------------------------------------------------------------------
-     7. 07.Nov
-      1) Filter level bug fixed
-      2) Gray white filter upload, but it's ongoing test(needs to update s10)
-----------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------
-     8. 08.Nov
-      1) Filter bug fixed : Lucion entrance comments and expression
-      2) Expression change for Some rare items 
-----------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------
-     9. 09.Nov
-      1) After desecreated, now amulet has special mark when they reach maximum skill "HAPPY END"
-----------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------
-     10. 11.Nov
-      1) Odium drop level change to Red (Etherial still has rainbow)
-      2) Bug fixed desecreated options
-      3) Buriza-Do Kyanon turns to Rainbow level
-      4) All rare cross bow has symbol when drop
-      5) Modified infusion comments (Safety and Bountiful)
-      6) Gambling item list updated regarding new items
-      7) Blank filter expression change for GG unique items
-----------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------
-     11. 12.Nov
-      1) Purple Gold filter changed his symbol for corruption.
-----------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------
-     12. 13.Nov
-      1) Purple Gold filter Hide version uploaded
-      2) BLank filter's filter level redesigned similar like others
-      3) Claw expression redesigned for all filter (except for blank)
-----------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------
-     13. 27/28.Nov
-      1) Starter filter can drop the Purity base always
-      2) All filter can drop the purity base when 3 socket with ED (Etherial always)
-      3) Guardian angel expression corrected for Blank filter
-      4) Void of Terror comments was modfied - Thanks to report ## (LethalLoki)
-----------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------
-     14. 06.Dec
-      1) Now Magic items have crafting comments
-      2) Half freeze duration has special comments when two items makes "Can not be frozen"
 ----------------------------------------------------------------------------------------------------------------------
