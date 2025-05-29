@@ -5794,8 +5794,8 @@ ItemDisplay[(crs OR mpi OR wax OR hal OR spt OR lbb) !RW NMAG SOCK=6 FILTLVL>9]:
 ItemDisplay[(crs OR mpi OR wax OR hal OR spt OR lbb) !RW NMAG SOCK=6]:%GRAY%%NAME% %PURPLE%[%ORANGE%6Soc %SAGE%Base%PURPLE%]{%WHITE%*******      %TAN%6Soc Base Item      %WHITE%*******%NL%%NAME%}
 
 //imbue
-ItemDisplay[ci3 !ETH NMAG !RW (SOCK=0 OR SOCK=3) FILTLVL>9]:
-ItemDisplay[ci3 !ETH NMAG (SOCK=0)]: %GRAY%%NAME%%ORANGE%(imbue)
+ItemDisplay[(ci3 OR 7cr) !ETH NMAG !RW (SOCK=0 OR SOCK=3) FILTLVL>9]:
+ItemDisplay[(ci3 OR 7cr) !ETH NMAG (SOCK=0)]: %GRAY%%NAME%%ORANGE%(imbue)
 ItemDisplay[ci3 !ETH NMAG (SOCK=3)]: %GRAY%%NAME%
 
 //VENDING ITEM
