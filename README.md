@@ -96,5 +96,6 @@
      3. 02.Aug
       1) Added High marking and Gambling itemlist
       2) Constricting Loop Ring has comments on the name.
+      3) Purple gold version uploaded
       
 ----------------------------------------------------------------------------------------------------------------------
