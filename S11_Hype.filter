@@ -1176,13 +1176,13 @@ ItemDisplay[lmal]:%PURPLE%O%WHITE%--%ORANGE%--%YELLOW%--%GREEN%--%PURPLE%--%WHIT
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      PD2 ITEM                                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[rkey]:%MAP-0B%%WHITE%O%PURPLE%**%ORANGE%**%RED%**%WHITE%**%PURPLE%**%WHITE%[ %GOLD%%NAME% %WHITE%]%PURPLE%**%ORANGE%**%RED%**%WHITE%**%PURPLE%**%WHITE%O{%NL%%GOLD%Skeleton Key : unlimited use key %NL%}
+ItemDisplay[rkey]:%SOUNDID-2664%%MAP-0B%%WHITE%O%PURPLE%**%ORANGE%**%RED%**%WHITE%**%PURPLE%**%WHITE%[ %GOLD%%NAME% %WHITE%]%PURPLE%**%ORANGE%**%RED%**%WHITE%**%PURPLE%**%WHITE%O{%NL%%GOLD%Skeleton Key : unlimited use key %NL%}
 ItemDisplay[lsvl]:%SOUNDID-2664%%MAP-0B%%RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y     %GOLD%Vial of %RED%LIGHTSONG %TAN%ð     %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y %RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O{%NL%%GOLD%Makes item Ethereal : %RED%Vial of Lightsong %WHITE%+ %GREEN%Item%NL%%BLUE%doesnt work with set items or items that lack durability (indestructible items)%NL%}
 ItemDisplay[llmr]:%SOUNDID-2664%%MAP-0B%%RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y     %GOLD%Lilith's %ORANGE%Mirror     %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y %RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O{%NL%%GOLD%Mirrors items : %RED%Lilith's Mirror %WHITE%+ %GREEN%Item%NL%%BLUE%color changed to white,black and cannot be used in any cube recipes%NL%}
 ItemDisplay[jewf]:%GOLD%Jewel %WHITE%Frag%PURPLE%ments%WHITE%O %GREEN%(%QTY%) {%NL%%GOLD%Jewel Fragments : stackable jewel%NL%}
-ItemDisplay[cwss]:%MAP-0B%%WHITE%O%PURPLE%**%ORANGE%**%RED%**%WHITE%**%PURPLE%**%WHITE%[ %GOLD%Tainted WSS%WHITE%O %GREEN%%QTY% %WHITE%]%PURPLE%**%ORANGE%**%RED%**%WHITE%**%PURPLE%**%WHITE%O{%NL%%GOLD%Tainted Worldstone Shard : corrupts Annihilus, from Rathma %NL%}
-ItemDisplay[rid]:%MAP-0B%%WHITE%O%PURPLE%**%ORANGE%**%RED%**%WHITE%**%PURPLE%**%WHITE%[ %GOLD%%NAME% %WHITE%]%PURPLE%**%ORANGE%**%RED%**%WHITE%**%PURPLE%**%WHITE%O{%NL%%GOLD%Horadrim Almanac : unlimited ID tome, from Rathma %NL%}
-ItemDisplay[rtp]:%MAP-0B%%WHITE%O%PURPLE%**%ORANGE%**%RED%**%WHITE%**%PURPLE%**%WHITE%[ %GOLD%%NAME% %WHITE%]%PURPLE%**%ORANGE%**%RED%**%WHITE%**%PURPLE%**%WHITE%O{%NL%%GOLD%Horadrim Navigator : unlimited TP tome, from Rathma %NL%}
+ItemDisplay[cwss]:%SOUNDID-2664%%MAP-0B%%WHITE%O%PURPLE%**%ORANGE%**%RED%**%WHITE%**%PURPLE%**%WHITE%[ %GOLD%Tainted WSS%WHITE%O %GREEN%%QTY% %WHITE%]%PURPLE%**%ORANGE%**%RED%**%WHITE%**%PURPLE%**%WHITE%O{%NL%%GOLD%Tainted Worldstone Shard : corrupts Annihilus, from Rathma %NL%}
+ItemDisplay[rid]:%SOUNDID-2664%%MAP-0B%%WHITE%O%PURPLE%**%ORANGE%**%RED%**%WHITE%**%PURPLE%**%WHITE%[ %GOLD%%NAME% %WHITE%]%PURPLE%**%ORANGE%**%RED%**%WHITE%**%PURPLE%**%WHITE%O{%NL%%GOLD%Horadrim Almanac : unlimited ID tome, from Rathma %NL%}
+ItemDisplay[rtp]:%SOUNDID-2664%%MAP-0B%%WHITE%O%PURPLE%**%ORANGE%**%RED%**%WHITE%**%PURPLE%**%WHITE%[ %GOLD%%NAME% %WHITE%]%PURPLE%**%ORANGE%**%RED%**%WHITE%**%PURPLE%**%WHITE%O{%NL%%GOLD%Horadrim Navigator : unlimited TP tome, from Rathma %NL%}
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                               PD2 MAP ORB ITEM                                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
@@ -1386,7 +1386,7 @@ ItemDisplay[t28 !ID]: %MAP-62%%PURPLE%@%WHITE%@   %NAME% %GREEN%%RED%T%GREEN%i%W
 
 //deletion?
 ItemDisplay[t10 !ID]: %MAP-62%%PURPLE%@%WHITE%@   %NAME% %DARK_GREEN%%SAGE%Tier1   %WHITE%@%PURPLE%@
-ItemDisplay[t17 !ID]: %MAP-62%%PURPLE%@%WHITE%@   %NAME% %DARK_GREEN%%SAGE%Tier1   %WHITE%@%PURPLE%@
+//ItemDisplay[t17 !ID]: %MAP-62%%PURPLE%@%WHITE%@   %NAME% %DARK_GREEN%%SAGE%Tier1   %WHITE%@%PURPLE%@
 ItemDisplay[t18 !ID]: %MAP-62%%PURPLE%@%WHITE%@   %NAME% %DARK_GREEN%%SAGE%Tier1   %WHITE%@%PURPLE%@
 ItemDisplay[t19 !ID]: %MAP-62%%PURPLE%@%WHITE%@   %NAME% %DARK_GREEN%%SAGE%Tier1   %WHITE%@%PURPLE%@
 ItemDisplay[t20 !ID]: %MAP-62%%PURPLE%@%WHITE%@   %NAME% %GREEN%Tier2   %WHITE%@%PURPLE%@
