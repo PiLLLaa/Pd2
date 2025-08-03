@@ -1154,14 +1154,14 @@ ItemDisplay[lmal]:%PURPLE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      PD2 ITEM                                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[rkey (MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%MAP-0B%%WHITE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%[ %GOLD%%NAME% %WHITE%]%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%*{%NL%%GOLD%Skeleton Key : unlimited use key %NL%}
+ItemDisplay[rkey (MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%SOUNDID-2664%%MAP-0B%%WHITE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%[ %GOLD%%NAME% %WHITE%]%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%*{%NL%%GOLD%Skeleton Key : unlimited use key %NL%}
 ItemDisplay[lsvl (MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%SOUNDID-2664%%MAP-0B%%RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y     %GOLD%Vial of %RED%LIGHTSONG %TAN%ð     %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y %RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O{%NL%%GOLD%Makes item Ethereal : %RED%Vial of Lightsong %WHITE%+ %GREEN%Item%NL%%BLUE%doesnt work with set items or items that lack durability (indestructible items)%NL%}
 //s11
 ItemDisplay[llmr (MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%SOUNDID-2664%%MAP-0B%%RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y     %GOLD%Lilith's %ORANGE%Mirror     %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y %RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O{%NL%%GOLD%Mirrors items : %RED%Lilith's Mirror %WHITE%+ %GREEN%Item%NL%%BLUE%color changed to white,black and cannot be used in any cube recipes%NL%}
 ItemDisplay[jewf]:%GOLD%%NAME%%WHITE%* %GREEN%%QTY% {%NL%%GOLD%Jewel Fragments : stackable jewel%NL%}
-ItemDisplay[cwss]:%MAP-0B%%WHITE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%[ %GOLD%Tainted WSS%WHITE%* %GREEN%%QTY% %WHITE%]%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%*{%NL%%GOLD%Tainted Worldstone Shard : corrupts Annihilus, from Rathma %NL%}
-ItemDisplay[rid (MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%MAP-0B%%WHITE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%[ %GOLD%%NAME% %WHITE%]%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%*{%NL%%GOLD%Horadrim Almanac : unlimited ID tome, from Rathma %NL%}
-ItemDisplay[rtp (MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%MAP-0B%%WHITE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%[ %GOLD%%NAME% %WHITE%]%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%*{%NL%%GOLD%Horadrim Navigator : unlimited TP tome, from Rathma %NL%}
+ItemDisplay[cwss]:%SOUNDID-2664%%MAP-0B%%WHITE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%[ %GOLD%Tainted WSS%WHITE%* %GREEN%%QTY% %WHITE%]%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%*{%NL%%GOLD%Tainted Worldstone Shard : corrupts Annihilus, from Rathma %NL%}
+ItemDisplay[rid (MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%SOUNDID-2664%%MAP-0B%%WHITE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%[ %GOLD%%NAME% %WHITE%]%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%*{%NL%%GOLD%Horadrim Almanac : unlimited ID tome, from Rathma %NL%}
+ItemDisplay[rtp (MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%SOUNDID-2664%%MAP-0B%%WHITE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%[ %GOLD%%NAME% %WHITE%]%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%*{%NL%%GOLD%Horadrim Navigator : unlimited TP tome, from Rathma %NL%}
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                               PD2 MAP ORB ITEM                                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
@@ -1365,7 +1365,7 @@ ItemDisplay[t28 !ID]: %MAP-62%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@   %NAME% %GREEN%
 
 //deletion?
 ItemDisplay[t10 !ID]: %MAP-62%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@   %NAME% %DARK_GREEN%%SAGE%Tier1   %PURPLE%@%WHITE%@%GOLD%@%ORANGE%@
-ItemDisplay[t17 !ID]: %MAP-62%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@   %NAME% %DARK_GREEN%%SAGE%Tier1   %PURPLE%@%WHITE%@%GOLD%@%ORANGE%@
+//ItemDisplay[t17 !ID]: %MAP-62%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@   %NAME% %DARK_GREEN%%SAGE%Tier1   %PURPLE%@%WHITE%@%GOLD%@%ORANGE%@
 ItemDisplay[t18 !ID]: %MAP-62%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@   %NAME% %DARK_GREEN%%SAGE%Tier1   %PURPLE%@%WHITE%@%GOLD%@%ORANGE%@
 ItemDisplay[t19 !ID]: %MAP-62%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@   %NAME% %DARK_GREEN%%SAGE%Tier1   %PURPLE%@%WHITE%@%GOLD%@%ORANGE%@
 ItemDisplay[t20 !ID]: %MAP-62%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@   %NAME% %GREEN%Tier2   %PURPLE%@%WHITE%@%GOLD%@%ORANGE%@
@@ -7702,9 +7702,9 @@ ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7) ELT (!ETH 
 
 //CORRUPTED AND !SOCK=0
 //s11
-ItemDisplay[(UNI OR SET OR RARE OR CRAFT) ID (SOCK=1) (tkf OR tax OR jav) STAT360=32]:%NAME%{%RED%**%ORANGE%**%YELLOW%**%GREEN%**%BLUE%**  %RED%Fu%ORANGE%ll %YELLOW%So%GREEN%ck%BLUE%et %PURPLE%Ar%WHITE%m%GOLD%or  %RED%**%ORANGE%**%YELLOW%**%GREEN%**%BLUE%**%NL%%NAME%}%CONTINUE%
-ItemDisplay[(UNI OR SET OR RARE OR CRAFT) ID (SOCK=2) (9tk OR 7tk OR 9ta OR 7ta OR bkf OR 9bk OR 7bk OR 9ja OR 7ja OR pil OR 9pi OR 7pi OR ssp OR 9s9 OR 7s7 OR am5 OR ama OR amf) STAT360=32]:%NAME%{%RED%**%ORANGE%**%YELLOW%**%GREEN%**%BLUE%**  %RED%Fu%ORANGE%ll %YELLOW%So%GREEN%ck%BLUE%et %PURPLE%Ar%WHITE%m%GOLD%or  %RED%**%ORANGE%**%YELLOW%**%GREEN%**%BLUE%**%NL%%NAME%}%CONTINUE%
-ItemDisplay[(UNI OR SET OR RARE OR CRAFT) ID (SOCK=3) (bal OR 9b8 OR 7b8 OR glv OR 9gl OR 7gl OR tsp OR 9ts OR 7ts) STAT360=32]:%NAME%{%RED%**%ORANGE%**%YELLOW%**%GREEN%**%BLUE%**  %RED%Fu%ORANGE%ll %YELLOW%So%GREEN%ck%BLUE%et %PURPLE%Ar%WHITE%m%GOLD%or  %RED%**%ORANGE%**%YELLOW%**%GREEN%**%BLUE%**%NL%%NAME%}%CONTINUE%
+ItemDisplay[(UNI OR SET OR RARE OR CRAFT) ID (SOCK=1) (tkf OR tax OR jav) STAT360=32]:%NAME%{%RED%**%ORANGE%**%YELLOW%**%GREEN%**%BLUE%**  %RED%Fu%ORANGE%ll %YELLOW%So%GREEN%ck%BLUE%et %RED%We%ORANGE%ap%PURPLE%on  %RED%**%ORANGE%**%YELLOW%**%GREEN%**%BLUE%**%NL%%NAME%}%CONTINUE%
+ItemDisplay[(UNI OR SET OR RARE OR CRAFT) ID (SOCK=2) (9tk OR 7tk OR 9ta OR 7ta OR bkf OR 9bk OR 7bk OR 9ja OR 7ja OR pil OR 9pi OR 7pi OR ssp OR 9s9 OR 7s7 OR am5 OR ama OR amf) STAT360=32]:%NAME%{%RED%**%ORANGE%**%YELLOW%**%GREEN%**%BLUE%**  %RED%Fu%ORANGE%ll %YELLOW%So%GREEN%ck%BLUE%et %RED%We%ORANGE%ap%PURPLE%on  %RED%**%ORANGE%**%YELLOW%**%GREEN%**%BLUE%**%NL%%NAME%}%CONTINUE%
+ItemDisplay[(UNI OR SET OR RARE OR CRAFT) ID (SOCK=3) (bal OR 9b8 OR 7b8 OR glv OR 9gl OR 7gl OR tsp OR 9ts OR 7ts) STAT360=32]:%NAME%{%RED%**%ORANGE%**%YELLOW%**%GREEN%**%BLUE%**  %RED%Fu%ORANGE%ll %YELLOW%So%GREEN%ck%BLUE%et %RED%We%ORANGE%ap%PURPLE%on  %RED%**%ORANGE%**%YELLOW%**%GREEN%**%BLUE%**%NL%%NAME%}%CONTINUE%
 
 ItemDisplay[(UNI OR SET OR RARE OR CRAFT) ID (SOCK=1) (tkf OR tax OR jav) !STAT360=32 STAT360>0]:%NAME%{%PURPLE%**%RED%**%GOLD%**%WHITE%**%GOLD%**  %PURPLE%Fu%RED%ll %GOLD%So%WHITE%ck%GOLD%et %RED%We%ORANGE%ap%PURPLE%on%GOLD%(lb)  %PURPLE%**%RED%**%GOLD%**%WHITE%**%GOLD%**%NL%%NAME%}%CONTINUE%
 ItemDisplay[(UNI OR SET OR RARE OR CRAFT) ID (SOCK=2) !EXC !ELT (9tk OR 7tk OR 9ta OR 7ta OR bkf OR 9bk OR 7bk OR 9ja OR 7ja OR pil OR 9pi OR 7pi OR ssp OR 9s9 OR 7s7 OR am5 OR ama OR amf) !STAT360=32 STAT360>0]:%NAME%{%PURPLE%**%RED%**%GOLD%**%WHITE%**%GOLD%**  %PURPLE%Fu%RED%ll %GOLD%So%WHITE%ck%GOLD%et %RED%We%ORANGE%ap%PURPLE%on%GOLD%(lb)  %PURPLE%**%RED%**%GOLD%**%WHITE%**%GOLD%**%NL%%NAME%}%CONTINUE%
