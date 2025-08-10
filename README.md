@@ -34,11 +34,11 @@
 
  ### Explanation for Each Filter 
     1. Hype : Various colour table
-    2. PurpleGold : Purple & Gold colour table
-    3. Standard : Rainbow colour table
+    2. PurpleGold : Purple & Gold colour table (Hidden mode)
+    ~~3. Standard : Rainbow colour table (Deleted)~~
     4. Starter : Rainbow colour table with magic bolt&arrow, many drops for base items
      #### Starter filter will be dropped base for weapon without Enhanced damage. -> easily drop the base items
-    5. GrayWhite : Gray & White colour table
+    ~~5. GrayWhite : Gray & White colour table (Deleted)~~
     6. Blank : New style of naming but, obviously much hyper visual.
      #### Blank filter now updating, please feedback to me when you find out someting.
  ----------------------------------------------------------------------------------------------------------------------
