@@ -578,6 +578,8 @@ ItemDisplay[(NMAG OR MAG) ame]:Matriarchal Pike%CONTINUE%
 ItemDisplay[(NMAG OR MAG) am5]:Maiden Javelin%CONTINUE%
 ItemDisplay[(NMAG OR MAG) ama]:Ceremonial Javelin%CONTINUE%
 ItemDisplay[(NMAG OR MAG) amf]:Matriarchal Javelin%CONTINUE%
+ItemDisplay[(MAG) rin]:Ring%CONTINUE%
+ItemDisplay[(MAG) amu]:Amulet%CONTINUE%
 
 ItemDisplay[(SET OR UNI) !ID cap]:Cap%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xap]:War Hat%CONTINUE%
