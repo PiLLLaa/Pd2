@@ -85,501 +85,501 @@ ItemDisplay[(6ws) !ETH MAG !ID FILTLVL>10]:
 //ok
 ItemDisplay[SET !ID (rin OR amu OR WEAPON OR ARMOR) FILTLVL>11]:
 
-ItemDisplay[(NMAG OR MAG) cap]:Cap%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xap]:War Hat%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uap]:Shako%CONTINUE%
-ItemDisplay[(NMAG OR MAG) skp]:Skull Cap%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xkp]:Sallet%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ukp]:Hydraskull%CONTINUE%
-ItemDisplay[(NMAG OR MAG) hlm]:Helm%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xlm]:Casque%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ulm]:Armet%CONTINUE%
-ItemDisplay[(NMAG OR MAG) fhl]:Full Helm%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xhl]:Basinet%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uhl]:Giant Conch%CONTINUE%
-ItemDisplay[(NMAG OR MAG) msk]:Mask%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xsk]:Death Mask%CONTINUE%
-ItemDisplay[(NMAG OR MAG) usk]:Demonhead%CONTINUE%
-ItemDisplay[(NMAG OR MAG) bhm]:Bone Helm%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xh9]:Grim Helm%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uh9]:Bone Visage%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ghm]:Great Helm%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xhm]:Winged Helm%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uhm]:Spired Helm%CONTINUE%
-ItemDisplay[(NMAG OR MAG) crn]:Crown%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xrn]:Grand Crown%CONTINUE%
-ItemDisplay[(NMAG OR MAG) urn]:Corona%CONTINUE%
-ItemDisplay[(NMAG OR MAG) qui]:Quilted Armor%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xui]:Ghost Armor%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uui]:Dusk Shroud%CONTINUE%
-ItemDisplay[(NMAG OR MAG) lea]:Leather Armor%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xea]:Serpentskin Armor%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uea]:Wyrmhide%CONTINUE%
-ItemDisplay[(NMAG OR MAG) hla]:Hard Leather Armor%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xla]:Demonhide Armor%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ula]:Scarab Husk%CONTINUE%
-ItemDisplay[(NMAG OR MAG) stu]:Studded Leather%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xtu]:Trellised Armor%CONTINUE%
-ItemDisplay[(NMAG OR MAG) utu]:Wire Fleece%CONTINUE%
-ItemDisplay[(NMAG OR MAG) rng]:Ring Mail%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xng]:Linked Mail%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ung]:Diamond Mail%CONTINUE%
-ItemDisplay[(NMAG OR MAG) scl]:Scale Mail%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xcl]:Tigulated Mail%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ucl]:Loricated Mail%CONTINUE%
-ItemDisplay[(NMAG OR MAG) chn]:Chain Mail%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xhn]:Mesh Armor%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uhn]:Boneweave%CONTINUE%
-ItemDisplay[(NMAG OR MAG) brs]:Breast Plate%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xrs]:Cuirass%CONTINUE%
-ItemDisplay[(NMAG OR MAG) urs]:Great Hauberk%CONTINUE%
-ItemDisplay[(NMAG OR MAG) spl]:Splint Mail%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xpl]:Russet Armor%CONTINUE%
-ItemDisplay[(NMAG OR MAG) upl]:Balrog Skin%CONTINUE%
-ItemDisplay[(NMAG OR MAG) plt]:Plate Mail%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xlt]:Templar Coat%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ult]:Hellforge Plate%CONTINUE%
-ItemDisplay[(NMAG OR MAG) fld]:Field Plate%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xld]:Sharktooth Armor%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uld]:Kraken Shell%CONTINUE%
-ItemDisplay[(NMAG OR MAG) gth]:Gothic Plate%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xth]:Embossed Plate%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uth]:Lacquered Plate%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ltp]:Light Plate%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xtp]:Mage Plate%CONTINUE%
-ItemDisplay[(NMAG OR MAG) utp]:Archon Plate%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ful]:Full Plate Mail%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xul]:Chaos Armor%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uul]:Shadow Plate%CONTINUE%
-ItemDisplay[(NMAG OR MAG) aar]:Ancient Armor%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xar]:Ornate Plate%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uar]:Sacred Armor%CONTINUE%
-ItemDisplay[(NMAG OR MAG) buc]:Buckler%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xuc]:Defender%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uuc]:Heater%CONTINUE%
-ItemDisplay[(NMAG OR MAG) sml]:Small Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xml]:Round Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uml]:Luna%CONTINUE%
-ItemDisplay[(NMAG OR MAG) lrg]:Large Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xrg]:Scutum%CONTINUE%
-ItemDisplay[(NMAG OR MAG) urg]:Hyperion%CONTINUE%
-ItemDisplay[(NMAG OR MAG) spk]:Spiked Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xpk]:Barbed Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) upk]:Blade Barrier%CONTINUE%
-ItemDisplay[(NMAG OR MAG) kit]:Kite Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xit]:Dragon Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uit]:Monarch%CONTINUE%
-ItemDisplay[(NMAG OR MAG) bsh]:Bone Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xsh]:Grim Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ush]:Troll Nest%CONTINUE%
-ItemDisplay[(NMAG OR MAG) tow]:Tower Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xow]:Pavise%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uow]:Aegis%CONTINUE%
-ItemDisplay[(NMAG OR MAG) gts]:Gothic Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xts]:Ancient Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uts]:Ward%CONTINUE%
-ItemDisplay[(NMAG OR MAG) lgl]:Leather Gloves%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xlg]:Demonhide Gloves%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ulg]:Bramble Mitts%CONTINUE%
-ItemDisplay[(NMAG OR MAG) vgl]:Heavy Gloves%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xvg]:Sharkskin Gloves%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uvg]:Vampirebone Gloves%CONTINUE%
-ItemDisplay[(NMAG OR MAG) mgl]:Chain Gloves%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xmg]:Heavy Bracers%CONTINUE%
-ItemDisplay[(NMAG OR MAG) umg]:Vambraces%CONTINUE%
-ItemDisplay[(NMAG OR MAG) tgl]:Light Gauntlets%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xtg]:Battle Gauntlets%CONTINUE%
-ItemDisplay[(NMAG OR MAG) utg]:Crusader Gauntlets%CONTINUE%
-ItemDisplay[(NMAG OR MAG) hgl]:Gauntlets%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xhg]:War Gauntlets%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uhg]:Ogre Gauntlets%CONTINUE%
-ItemDisplay[(NMAG OR MAG) lbt]:Boots%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xlb]:Demonhide Boots%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ulb]:Wyrmhide Boots%CONTINUE%
-ItemDisplay[(NMAG OR MAG) vbt]:Heavy Boots%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xvb]:Sharkskin Boots%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uvb]:Scarabshell Boots%CONTINUE%
-ItemDisplay[(NMAG OR MAG) mbt]:Chain Boots%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xmb]:Mesh Boots%CONTINUE%
-ItemDisplay[(NMAG OR MAG) umb]:Boneweave Boots%CONTINUE%
-ItemDisplay[(NMAG OR MAG) tbt]:Light Plated Boots%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xtb]:Battle Boots%CONTINUE%
-ItemDisplay[(NMAG OR MAG) utb]:Mirrored Boots%CONTINUE%
-ItemDisplay[(NMAG OR MAG) hbt]:Greaves%CONTINUE%
-ItemDisplay[(NMAG OR MAG) xhb]:War Boots%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uhb]:Myrmidon Greaves%CONTINUE%
-ItemDisplay[(NMAG OR MAG) lbl]:Sash%CONTINUE%
-ItemDisplay[(NMAG OR MAG) zlb]:Demonhide Sash%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ulc]:Spiderweb Sash%CONTINUE%
-ItemDisplay[(NMAG OR MAG) vbl]:Light Belt%CONTINUE%
-ItemDisplay[(NMAG OR MAG) zvb]:Sharkskin Belt%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uvc]:Vampirefang Belt%CONTINUE%
-ItemDisplay[(NMAG OR MAG) mbl]:Belt%CONTINUE%
-ItemDisplay[(NMAG OR MAG) zmb]:Mesh Belt%CONTINUE%
-ItemDisplay[(NMAG OR MAG) umc]:Mithril Coil%CONTINUE%
-ItemDisplay[(NMAG OR MAG) tbl]:Heavy Belt%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ztb]:Battle Belt%CONTINUE%
-ItemDisplay[(NMAG OR MAG) utc]:Troll Belt%CONTINUE%
-ItemDisplay[(NMAG OR MAG) hbl]:Plated Belt%CONTINUE%
-ItemDisplay[(NMAG OR MAG) zhb]:War Belt%CONTINUE%
-ItemDisplay[(NMAG OR MAG) uhc]:Colossus Girdle%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ci0]:Circlet%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ci1]:Coronet%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ci2]:Tiara%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ci3]:Diadem%CONTINUE%
-ItemDisplay[(NMAG OR MAG) dr1]:Wolf Head%CONTINUE%
-ItemDisplay[(NMAG OR MAG) dr6]:Alpha Helm%CONTINUE%
-ItemDisplay[(NMAG OR MAG) drb]:Blood Spirit%CONTINUE%
-ItemDisplay[(NMAG OR MAG) dr2]:Hawk Helm%CONTINUE%
-ItemDisplay[(NMAG OR MAG) dr7]:Griffon Headress%CONTINUE%
-ItemDisplay[(NMAG OR MAG) drc]:Sun Spirit%CONTINUE%
-ItemDisplay[(NMAG OR MAG) dr3]:Antlers%CONTINUE%
-ItemDisplay[(NMAG OR MAG) dr8]:Hunter's Guise%CONTINUE%
-ItemDisplay[(NMAG OR MAG) drd]:Earth Spirit%CONTINUE%
-ItemDisplay[(NMAG OR MAG) dr4]:Falcon Mask%CONTINUE%
-ItemDisplay[(NMAG OR MAG) dr9]:Sacred Feathers%CONTINUE%
-ItemDisplay[(NMAG OR MAG) dre]:Sky Spirit%CONTINUE%
-ItemDisplay[(NMAG OR MAG) dr5]:Spirit Mask%CONTINUE%
-ItemDisplay[(NMAG OR MAG) dra]:Totemic Mask%CONTINUE%
-ItemDisplay[(NMAG OR MAG) drf]:Dream Spirit%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ba1]:Jawbone Cap%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ba6]:Jawbone Visor%CONTINUE%
-ItemDisplay[(NMAG OR MAG) bab]:Carnage Helm%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ba2]:Fanged Helm%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ba7]:Lion Helm%CONTINUE%
-ItemDisplay[(NMAG OR MAG) bac]:Fury Visor%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ba3]:Horned Helm%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ba8]:Rage Mask%CONTINUE%
-ItemDisplay[(NMAG OR MAG) bad]:Destroyer Helm%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ba4]:Assault Helmet%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ba9]:Savage Helmet%CONTINUE%
-ItemDisplay[(NMAG OR MAG) bae]:Conqueror Crown%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ba5]:Avenger Guard%CONTINUE%
-ItemDisplay[(NMAG OR MAG) baa]:Slayer Guard%CONTINUE%
-ItemDisplay[(NMAG OR MAG) baf]:Guardian Crown%CONTINUE%
-ItemDisplay[(NMAG OR MAG) pa1]:Targe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) pa6]:Akaran Targe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) pab]:Sacred Targe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) pa2]:Rondache%CONTINUE%
-ItemDisplay[(NMAG OR MAG) pa7]:Akaran Rondache%CONTINUE%
-ItemDisplay[(NMAG OR MAG) pac]:Sacred Rondache%CONTINUE%
-ItemDisplay[(NMAG OR MAG) pa3]:Heraldic Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) pa8]:Protector Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) pad]:Kurast Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) pa4]:Aerin Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) pa9]:Gilded Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) pae]:Zakarum Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) pa5]:Crown Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) paa]:Royal Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) paf]:Vortex Shield%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ne1]:Preserved Head%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ne6]:Mummified Trophy%CONTINUE%
-ItemDisplay[(NMAG OR MAG) neb]:Minion Skull%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ne2]:Zombie Head%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ne7]:Fetish Trophy%CONTINUE%
-ItemDisplay[(NMAG OR MAG) neg]:Hellspawn Skull%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ne3]:Unraveller Head%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ne8]:Sexton Trophy%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ned]:Overseer Skull%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ne4]:Gargoyle Head%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ne9]:Cantor Trophy%CONTINUE%
-ItemDisplay[(NMAG OR MAG) nee]:Succubus Skull%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ne5]:Demon Head%CONTINUE%
-ItemDisplay[(NMAG OR MAG) nea]:Hierophant Trophy%CONTINUE%
-ItemDisplay[(NMAG OR MAG) nef]:Bloodlord Skull%CONTINUE%
-ItemDisplay[(NMAG OR MAG) hax]:Hand Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9ha]:Hatchet%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7ha]:Tomahawk%CONTINUE%
-ItemDisplay[(NMAG OR MAG) axe]:Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9ax]:Cleaver%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7ax]:Small Crescent%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 2ax]:Double Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 92a]:Twin Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 72a]:Ettin Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) mpi]:Military Pick%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9mp]:Crowbill%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7mp]:War Spike%CONTINUE%
-ItemDisplay[(NMAG OR MAG) wax]:War Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9wa]:Naga%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7wa]:Berserker Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) lax]:Large Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9la]:Military Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7la]:Feral Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) bax]:Broad Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9ba]:Bearded Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7ba]:Silver-edged Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) btx]:Battle Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9bt]:Tabar%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7bt]:Decapitator%CONTINUE%
-ItemDisplay[(NMAG OR MAG) gax]:Great Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9ga]:Gothic Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7ga]:Champion Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) gix]:Giant Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9gi]:Ancient Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7gi]:Glorious Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) clb]:Club%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9cl]:Cudgel%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7cl]:Truncheon%CONTINUE%
-ItemDisplay[(NMAG OR MAG) spc]:Spiked Club%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9sp]:Barbed Club%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7sp]:Tyrant Club%CONTINUE%
-ItemDisplay[(NMAG OR MAG) mac]:Mace%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9ma]:Flanged Mace%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7ma]:Reinforced Mace%CONTINUE%
-ItemDisplay[(NMAG OR MAG) mst]:Morning Star%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9mt]:Jagged Star%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7mt]:Devil Star%CONTINUE%
-ItemDisplay[(NMAG OR MAG) fla]:Flail%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9fl]:Knout%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7fl]:Scourge%CONTINUE%
-ItemDisplay[(NMAG OR MAG) whm]:War Hammer%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9wh]:Battle Hammer%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7wh]:Legendary Mallet%CONTINUE%
-ItemDisplay[(NMAG OR MAG) mau]:Maul%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9m9]:War Club%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7m7]:Ogre Maul%CONTINUE%
-ItemDisplay[(NMAG OR MAG) gma]:Great Maul%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9gm]:Martel de Fer%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7gm]:Thunder Maul%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ssd]:Short Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9ss]:Gladius%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7ss]:Falcata%CONTINUE%
-ItemDisplay[(NMAG OR MAG) scm]:Scimitar%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9sm]:Cutlass%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7sm]:Ataghan%CONTINUE%
-ItemDisplay[(NMAG OR MAG) sbr]:Sabre%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9sb]:Shamshir%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7sb]:Elegant Blade%CONTINUE%
-ItemDisplay[(NMAG OR MAG) flc]:Falchion%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9fc]:Tulwar%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7fc]:Hydra Edge%CONTINUE%
-ItemDisplay[(NMAG OR MAG) crs]:Crystal Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9cr]:Dimensional Blade%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7cr]:Phase Blade%CONTINUE%
-ItemDisplay[(NMAG OR MAG) bsd]:Broad Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9bs]:Battle Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7bs]:Conquest Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) lsd]:Long Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9ls]:Rune Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7ls]:Cryptic Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) wsd]:War Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9wd]:Ancient Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7wd]:Mythical Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 2hs]:Two-handed Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 92h]:Espandon%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 72h]:Legend Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) clm]:Claymore%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9cm]:Dacian Falx%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7cm]:Highland Blade%CONTINUE%
-ItemDisplay[(NMAG OR MAG) gis]:Giant Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9gs]:Tusk Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7gs]:Balrog Blade%CONTINUE%
-ItemDisplay[(NMAG OR MAG) bsw]:Bastard Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9b9]:Gothic Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7b7]:Champion Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) flb]:Flamberge%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9fb]:Zweihander%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7fb]:Colossus Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) gsd]:Great Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9gd]:Executioner Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7gd]:Colossus Blade%CONTINUE%
-ItemDisplay[(NMAG OR MAG) dgr]:Dagger%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9dg]:Poignard%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7dg]:Bone Knife%CONTINUE%
-ItemDisplay[(NMAG OR MAG) dir]:Dirk%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9di]:Rondel%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7di]:Mithril Point%CONTINUE%
-ItemDisplay[(NMAG OR MAG) kri]:Kris%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9kr]:Cinquedeas%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7kr]:Fanged Knife%CONTINUE%
-ItemDisplay[(NMAG OR MAG) bld]:Blade%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9bl]:Stiletto%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7bl]:Legend Spike%CONTINUE%
-ItemDisplay[(NMAG OR MAG) tkf]:Throwing Knife%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9tk]:Battle Dart%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7tk]:Flying Knife%CONTINUE%
-ItemDisplay[(NMAG OR MAG) tax]:Throwing Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9ta]:Francisca%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7ta]:Flying Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) bkf]:Balanced Knife%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9bk]:War Dart%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7bk]:Winged Knife%CONTINUE%
-ItemDisplay[(NMAG OR MAG) bal]:Balanced Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9b8]:Hurlbat%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7b8]:Winged Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) jav]:Javelin%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9ja]:War Javelin%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7ja]:Hyperion Javelin%CONTINUE%
-ItemDisplay[(NMAG OR MAG) pil]:Pilum%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9pi]:Great Pilum%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7pi]:Stygian Pilum%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ssp]:Short Spear%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9s9]:Simbilan%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7s7]:Balrog Spear%CONTINUE%
-ItemDisplay[(NMAG OR MAG) glv]:Glaive%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9gl]:Spiculum%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7gl]:Ghost Glaive%CONTINUE%
-ItemDisplay[(NMAG OR MAG) tsp]:Throwing Spear%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9ts]:Harpoon%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7ts]:Winged Harpoon%CONTINUE%
-ItemDisplay[(NMAG OR MAG) spr]:Spear%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9sr]:War Spear%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7sr]:Hyperion Spear%CONTINUE%
-ItemDisplay[(NMAG OR MAG) tri]:Trident%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9tr]:Fuscina%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7tr]:Stygian Pike%CONTINUE%
-ItemDisplay[(NMAG OR MAG) brn]:Brandistock%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9br]:War Fork%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7br]:Mancatcher%CONTINUE%
-ItemDisplay[(NMAG OR MAG) spt]:Spetum%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9st]:Yari%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7st]:Ghost Spear%CONTINUE%
-ItemDisplay[(NMAG OR MAG) pik]:Pike%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9p9]:Lance%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7p7]:War Pike%CONTINUE%
-ItemDisplay[(NMAG OR MAG) bar]:Bardiche%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9b7]:Lochaber Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7o7]:Ogre Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) vou]:Voulge%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9vo]:Bill%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7vo]:Colossus Voulge%CONTINUE%
-ItemDisplay[(NMAG OR MAG) scy]:Scythe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9s8]:Battle Scythe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7s8]:Thresher%CONTINUE%
-ItemDisplay[(NMAG OR MAG) pax]:Poleaxe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9pa]:Partizan%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7pa]:Cryptic Axe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) hal]:Halberd%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9h9]:Bec-de-Corbin%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7h7]:Great Poleaxe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) wsc]:War Scythe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9wc]:Grim Scythe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7wc]:Giant Thresher%CONTINUE%
-ItemDisplay[(NMAG OR MAG) sbw]:Short Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8sb]:Edge Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6sb]:Spider Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) hbw]:Hunter's Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8hb]:Razor Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6hb]:Blade Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) lbw]:Long Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8lb]:Cedar Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6lb]:Shadow Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) cbw]:Composite Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8cb]:Double Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6cb]:Great Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) sbb]:Short Battle Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8s8]:Short Siege Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6s7]:Diamond Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) lbb]:Long Battle Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8l8]:Large Siege Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6l7]:Crusader Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) swb]:Short War Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8sw]:Rune Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6sw]:Ward Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) lwb]:Long War Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8lw]:Gothic Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6lw]:Hydra Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) lxb]:Light Crossbow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8lx]:Arbalest%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6lx]:Pellet Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) mxb]:Crossbow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8mx]:Siege Crossbow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6mx]:Gorgon Crossbow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) hxb]:Heavy Crossbow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8hx]:Ballista%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6hx]:Colossus Crossbow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) rxb]:Repeating Crossbow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8rx]:Chu-Ko-Nu%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6rx]:Demon Crossbow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) sst]:Short Staff%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8ss]:Jo Staff%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6ss]:Walking Stick%CONTINUE%
-ItemDisplay[(NMAG OR MAG) lst]:Long Staff%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8ls]:Quarterstaff%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6ls]:Stalagmite%CONTINUE%
-ItemDisplay[(NMAG OR MAG) cst]:Gnarled Staff%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8cs]:Cedar Staff%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6cs]:Elder Staff%CONTINUE%
-ItemDisplay[(NMAG OR MAG) bst]:Battle Staff%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8bs]:Gothic Staff%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6bs]:Shillelagh%CONTINUE%
-ItemDisplay[(NMAG OR MAG) wst]:War Staff%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 8ws]:Rune Staff%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 6ws]:Archon Staff%CONTINUE%
-ItemDisplay[(NMAG OR MAG) wnd]:Wand%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9wn]:Burnt Wand%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7wn]:Polished Wand%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ywn]:Yew Wand%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9yw]:Petrified Wand%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7yw]:Ghost Wand%CONTINUE%
-ItemDisplay[(NMAG OR MAG) bwn]:Bone Wand%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9bw]:Tomb Wand%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7bw]:Lich Wand%CONTINUE%
-ItemDisplay[(NMAG OR MAG) gwn]:Grim Wand%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9gw]:Grave Wand%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7gw]:Unearthed Wand%CONTINUE%
-ItemDisplay[(NMAG OR MAG) scp]:Scepter%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9sc]:Rune Scepter%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7sc]:Mighty Scepter%CONTINUE%
-ItemDisplay[(NMAG OR MAG) gsc]:Grand Scepter%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9qs]:Holy Water Sprinkler%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7qs]:Seraph Rod%CONTINUE%
-ItemDisplay[(NMAG OR MAG) wsp]:War Scepter%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9ws]:Divine Scepter%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7ws]:Caduceus%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ktr]:Katar%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9ar]:Quhab%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7ar]:Suwayyah%CONTINUE%
-ItemDisplay[(NMAG OR MAG) wrb]:Wrist Blade%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9wb]:Wrist Spike%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7wb]:Wrist Sword%CONTINUE%
-ItemDisplay[(NMAG OR MAG) axf]:Hatchet Hands%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9xf]:Fascia%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7xf]:War Fist%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ces]:Cestus%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9cs]:Hand Scythe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7cs]:Battle Cestus%CONTINUE%
-ItemDisplay[(NMAG OR MAG) clw]:Claws%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9lw]:Greater Claws%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7lw]:Feral Claws%CONTINUE%
-ItemDisplay[(NMAG OR MAG) btl]:Blade Talons%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9tw]:Greater Talons%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7tw]:Runic Talons%CONTINUE%
-ItemDisplay[(NMAG OR MAG) skr]:Scissors Katar%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 9qr]:Scissors Quhab%CONTINUE%
-ItemDisplay[(NMAG OR MAG) 7qr]:Scissors Suwayyah%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ob1]:Eagle Orb%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ob6]:Glowing Orb%CONTINUE%
-ItemDisplay[(NMAG OR MAG) obb]:Heavenly Stone%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ob2]:Sacred Globe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ob7]:Crystalline Globe%CONTINUE%
-ItemDisplay[(NMAG OR MAG) obc]:Eldritch Orb%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ob3]:Smoked Sphere%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ob8]:Cloudy Sphere%CONTINUE%
-ItemDisplay[(NMAG OR MAG) obd]:Demon Heart%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ob4]:Clasped Orb%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ob9]:Sparkling Ball%CONTINUE%
-ItemDisplay[(NMAG OR MAG) obe]:Vortex Orb%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ob5]:Jared's Stone%CONTINUE%
-ItemDisplay[(NMAG OR MAG) oba]:Swirling Crystal%CONTINUE%
-ItemDisplay[(NMAG OR MAG) obf]:Dimensional Shard%CONTINUE%
-ItemDisplay[(NMAG OR MAG) am1]:Stag Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) am6]:Ashwood Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) amb]:Matriarchal Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) am2]:Reflex Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) am7]:Ceremonial Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) amc]:Grand Matron Bow%CONTINUE%
-ItemDisplay[(NMAG OR MAG) am3]:Maiden Spear%CONTINUE%
-ItemDisplay[(NMAG OR MAG) am8]:Ceremonial Spear%CONTINUE%
-ItemDisplay[(NMAG OR MAG) amd]:Matriarchal Spear%CONTINUE%
-ItemDisplay[(NMAG OR MAG) am4]:Maiden Pike%CONTINUE%
-ItemDisplay[(NMAG OR MAG) am9]:Ceremonial Pike%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ame]:Matriarchal Pike%CONTINUE%
-ItemDisplay[(NMAG OR MAG) am5]:Maiden Javelin%CONTINUE%
-ItemDisplay[(NMAG OR MAG) ama]:Ceremonial Javelin%CONTINUE%
-ItemDisplay[(NMAG OR MAG) amf]:Matriarchal Javelin%CONTINUE%
-ItemDisplay[(MAG) rin]:Ring%CONTINUE%
-ItemDisplay[(MAG) amu]:Amulet%CONTINUE%
+ItemDisplay[(NMAG) cap]:Cap%CONTINUE%
+ItemDisplay[(NMAG) xap]:War Hat%CONTINUE%
+ItemDisplay[(NMAG) uap]:Shako%CONTINUE%
+ItemDisplay[(NMAG) skp]:Skull Cap%CONTINUE%
+ItemDisplay[(NMAG) xkp]:Sallet%CONTINUE%
+ItemDisplay[(NMAG) ukp]:Hydraskull%CONTINUE%
+ItemDisplay[(NMAG) hlm]:Helm%CONTINUE%
+ItemDisplay[(NMAG) xlm]:Casque%CONTINUE%
+ItemDisplay[(NMAG) ulm]:Armet%CONTINUE%
+ItemDisplay[(NMAG) fhl]:Full Helm%CONTINUE%
+ItemDisplay[(NMAG) xhl]:Basinet%CONTINUE%
+ItemDisplay[(NMAG) uhl]:Giant Conch%CONTINUE%
+ItemDisplay[(NMAG) msk]:Mask%CONTINUE%
+ItemDisplay[(NMAG) xsk]:Death Mask%CONTINUE%
+ItemDisplay[(NMAG) usk]:Demonhead%CONTINUE%
+ItemDisplay[(NMAG) bhm]:Bone Helm%CONTINUE%
+ItemDisplay[(NMAG) xh9]:Grim Helm%CONTINUE%
+ItemDisplay[(NMAG) uh9]:Bone Visage%CONTINUE%
+ItemDisplay[(NMAG) ghm]:Great Helm%CONTINUE%
+ItemDisplay[(NMAG) xhm]:Winged Helm%CONTINUE%
+ItemDisplay[(NMAG) uhm]:Spired Helm%CONTINUE%
+ItemDisplay[(NMAG) crn]:Crown%CONTINUE%
+ItemDisplay[(NMAG) xrn]:Grand Crown%CONTINUE%
+ItemDisplay[(NMAG) urn]:Corona%CONTINUE%
+ItemDisplay[(NMAG) qui]:Quilted Armor%CONTINUE%
+ItemDisplay[(NMAG) xui]:Ghost Armor%CONTINUE%
+ItemDisplay[(NMAG) uui]:Dusk Shroud%CONTINUE%
+ItemDisplay[(NMAG) lea]:Leather Armor%CONTINUE%
+ItemDisplay[(NMAG) xea]:Serpentskin Armor%CONTINUE%
+ItemDisplay[(NMAG) uea]:Wyrmhide%CONTINUE%
+ItemDisplay[(NMAG) hla]:Hard Leather Armor%CONTINUE%
+ItemDisplay[(NMAG) xla]:Demonhide Armor%CONTINUE%
+ItemDisplay[(NMAG) ula]:Scarab Husk%CONTINUE%
+ItemDisplay[(NMAG) stu]:Studded Leather%CONTINUE%
+ItemDisplay[(NMAG) xtu]:Trellised Armor%CONTINUE%
+ItemDisplay[(NMAG) utu]:Wire Fleece%CONTINUE%
+ItemDisplay[(NMAG) rng]:Ring Mail%CONTINUE%
+ItemDisplay[(NMAG) xng]:Linked Mail%CONTINUE%
+ItemDisplay[(NMAG) ung]:Diamond Mail%CONTINUE%
+ItemDisplay[(NMAG) scl]:Scale Mail%CONTINUE%
+ItemDisplay[(NMAG) xcl]:Tigulated Mail%CONTINUE%
+ItemDisplay[(NMAG) ucl]:Loricated Mail%CONTINUE%
+ItemDisplay[(NMAG) chn]:Chain Mail%CONTINUE%
+ItemDisplay[(NMAG) xhn]:Mesh Armor%CONTINUE%
+ItemDisplay[(NMAG) uhn]:Boneweave%CONTINUE%
+ItemDisplay[(NMAG) brs]:Breast Plate%CONTINUE%
+ItemDisplay[(NMAG) xrs]:Cuirass%CONTINUE%
+ItemDisplay[(NMAG) urs]:Great Hauberk%CONTINUE%
+ItemDisplay[(NMAG) spl]:Splint Mail%CONTINUE%
+ItemDisplay[(NMAG) xpl]:Russet Armor%CONTINUE%
+ItemDisplay[(NMAG) upl]:Balrog Skin%CONTINUE%
+ItemDisplay[(NMAG) plt]:Plate Mail%CONTINUE%
+ItemDisplay[(NMAG) xlt]:Templar Coat%CONTINUE%
+ItemDisplay[(NMAG) ult]:Hellforge Plate%CONTINUE%
+ItemDisplay[(NMAG) fld]:Field Plate%CONTINUE%
+ItemDisplay[(NMAG) xld]:Sharktooth Armor%CONTINUE%
+ItemDisplay[(NMAG) uld]:Kraken Shell%CONTINUE%
+ItemDisplay[(NMAG) gth]:Gothic Plate%CONTINUE%
+ItemDisplay[(NMAG) xth]:Embossed Plate%CONTINUE%
+ItemDisplay[(NMAG) uth]:Lacquered Plate%CONTINUE%
+ItemDisplay[(NMAG) ltp]:Light Plate%CONTINUE%
+ItemDisplay[(NMAG) xtp]:Mage Plate%CONTINUE%
+ItemDisplay[(NMAG) utp]:Archon Plate%CONTINUE%
+ItemDisplay[(NMAG) ful]:Full Plate Mail%CONTINUE%
+ItemDisplay[(NMAG) xul]:Chaos Armor%CONTINUE%
+ItemDisplay[(NMAG) uul]:Shadow Plate%CONTINUE%
+ItemDisplay[(NMAG) aar]:Ancient Armor%CONTINUE%
+ItemDisplay[(NMAG) xar]:Ornate Plate%CONTINUE%
+ItemDisplay[(NMAG) uar]:Sacred Armor%CONTINUE%
+ItemDisplay[(NMAG) buc]:Buckler%CONTINUE%
+ItemDisplay[(NMAG) xuc]:Defender%CONTINUE%
+ItemDisplay[(NMAG) uuc]:Heater%CONTINUE%
+ItemDisplay[(NMAG) sml]:Small Shield%CONTINUE%
+ItemDisplay[(NMAG) xml]:Round Shield%CONTINUE%
+ItemDisplay[(NMAG) uml]:Luna%CONTINUE%
+ItemDisplay[(NMAG) lrg]:Large Shield%CONTINUE%
+ItemDisplay[(NMAG) xrg]:Scutum%CONTINUE%
+ItemDisplay[(NMAG) urg]:Hyperion%CONTINUE%
+ItemDisplay[(NMAG) spk]:Spiked Shield%CONTINUE%
+ItemDisplay[(NMAG) xpk]:Barbed Shield%CONTINUE%
+ItemDisplay[(NMAG) upk]:Blade Barrier%CONTINUE%
+ItemDisplay[(NMAG) kit]:Kite Shield%CONTINUE%
+ItemDisplay[(NMAG) xit]:Dragon Shield%CONTINUE%
+ItemDisplay[(NMAG) uit]:Monarch%CONTINUE%
+ItemDisplay[(NMAG) bsh]:Bone Shield%CONTINUE%
+ItemDisplay[(NMAG) xsh]:Grim Shield%CONTINUE%
+ItemDisplay[(NMAG) ush]:Troll Nest%CONTINUE%
+ItemDisplay[(NMAG) tow]:Tower Shield%CONTINUE%
+ItemDisplay[(NMAG) xow]:Pavise%CONTINUE%
+ItemDisplay[(NMAG) uow]:Aegis%CONTINUE%
+ItemDisplay[(NMAG) gts]:Gothic Shield%CONTINUE%
+ItemDisplay[(NMAG) xts]:Ancient Shield%CONTINUE%
+ItemDisplay[(NMAG) uts]:Ward%CONTINUE%
+ItemDisplay[(NMAG) lgl]:Leather Gloves%CONTINUE%
+ItemDisplay[(NMAG) xlg]:Demonhide Gloves%CONTINUE%
+ItemDisplay[(NMAG) ulg]:Bramble Mitts%CONTINUE%
+ItemDisplay[(NMAG) vgl]:Heavy Gloves%CONTINUE%
+ItemDisplay[(NMAG) xvg]:Sharkskin Gloves%CONTINUE%
+ItemDisplay[(NMAG) uvg]:Vampirebone Gloves%CONTINUE%
+ItemDisplay[(NMAG) mgl]:Chain Gloves%CONTINUE%
+ItemDisplay[(NMAG) xmg]:Heavy Bracers%CONTINUE%
+ItemDisplay[(NMAG) umg]:Vambraces%CONTINUE%
+ItemDisplay[(NMAG) tgl]:Light Gauntlets%CONTINUE%
+ItemDisplay[(NMAG) xtg]:Battle Gauntlets%CONTINUE%
+ItemDisplay[(NMAG) utg]:Crusader Gauntlets%CONTINUE%
+ItemDisplay[(NMAG) hgl]:Gauntlets%CONTINUE%
+ItemDisplay[(NMAG) xhg]:War Gauntlets%CONTINUE%
+ItemDisplay[(NMAG) uhg]:Ogre Gauntlets%CONTINUE%
+ItemDisplay[(NMAG) lbt]:Boots%CONTINUE%
+ItemDisplay[(NMAG) xlb]:Demonhide Boots%CONTINUE%
+ItemDisplay[(NMAG) ulb]:Wyrmhide Boots%CONTINUE%
+ItemDisplay[(NMAG) vbt]:Heavy Boots%CONTINUE%
+ItemDisplay[(NMAG) xvb]:Sharkskin Boots%CONTINUE%
+ItemDisplay[(NMAG) uvb]:Scarabshell Boots%CONTINUE%
+ItemDisplay[(NMAG) mbt]:Chain Boots%CONTINUE%
+ItemDisplay[(NMAG) xmb]:Mesh Boots%CONTINUE%
+ItemDisplay[(NMAG) umb]:Boneweave Boots%CONTINUE%
+ItemDisplay[(NMAG) tbt]:Light Plated Boots%CONTINUE%
+ItemDisplay[(NMAG) xtb]:Battle Boots%CONTINUE%
+ItemDisplay[(NMAG) utb]:Mirrored Boots%CONTINUE%
+ItemDisplay[(NMAG) hbt]:Greaves%CONTINUE%
+ItemDisplay[(NMAG) xhb]:War Boots%CONTINUE%
+ItemDisplay[(NMAG) uhb]:Myrmidon Greaves%CONTINUE%
+ItemDisplay[(NMAG) lbl]:Sash%CONTINUE%
+ItemDisplay[(NMAG) zlb]:Demonhide Sash%CONTINUE%
+ItemDisplay[(NMAG) ulc]:Spiderweb Sash%CONTINUE%
+ItemDisplay[(NMAG) vbl]:Light Belt%CONTINUE%
+ItemDisplay[(NMAG) zvb]:Sharkskin Belt%CONTINUE%
+ItemDisplay[(NMAG) uvc]:Vampirefang Belt%CONTINUE%
+ItemDisplay[(NMAG) mbl]:Belt%CONTINUE%
+ItemDisplay[(NMAG) zmb]:Mesh Belt%CONTINUE%
+ItemDisplay[(NMAG) umc]:Mithril Coil%CONTINUE%
+ItemDisplay[(NMAG) tbl]:Heavy Belt%CONTINUE%
+ItemDisplay[(NMAG) ztb]:Battle Belt%CONTINUE%
+ItemDisplay[(NMAG) utc]:Troll Belt%CONTINUE%
+ItemDisplay[(NMAG) hbl]:Plated Belt%CONTINUE%
+ItemDisplay[(NMAG) zhb]:War Belt%CONTINUE%
+ItemDisplay[(NMAG) uhc]:Colossus Girdle%CONTINUE%
+ItemDisplay[(NMAG) ci0]:Circlet%CONTINUE%
+ItemDisplay[(NMAG) ci1]:Coronet%CONTINUE%
+ItemDisplay[(NMAG) ci2]:Tiara%CONTINUE%
+ItemDisplay[(NMAG) ci3]:Diadem%CONTINUE%
+ItemDisplay[(NMAG) dr1]:Wolf Head%CONTINUE%
+ItemDisplay[(NMAG) dr6]:Alpha Helm%CONTINUE%
+ItemDisplay[(NMAG) drb]:Blood Spirit%CONTINUE%
+ItemDisplay[(NMAG) dr2]:Hawk Helm%CONTINUE%
+ItemDisplay[(NMAG) dr7]:Griffon Headress%CONTINUE%
+ItemDisplay[(NMAG) drc]:Sun Spirit%CONTINUE%
+ItemDisplay[(NMAG) dr3]:Antlers%CONTINUE%
+ItemDisplay[(NMAG) dr8]:Hunter's Guise%CONTINUE%
+ItemDisplay[(NMAG) drd]:Earth Spirit%CONTINUE%
+ItemDisplay[(NMAG) dr4]:Falcon Mask%CONTINUE%
+ItemDisplay[(NMAG) dr9]:Sacred Feathers%CONTINUE%
+ItemDisplay[(NMAG) dre]:Sky Spirit%CONTINUE%
+ItemDisplay[(NMAG) dr5]:Spirit Mask%CONTINUE%
+ItemDisplay[(NMAG) dra]:Totemic Mask%CONTINUE%
+ItemDisplay[(NMAG) drf]:Dream Spirit%CONTINUE%
+ItemDisplay[(NMAG) ba1]:Jawbone Cap%CONTINUE%
+ItemDisplay[(NMAG) ba6]:Jawbone Visor%CONTINUE%
+ItemDisplay[(NMAG) bab]:Carnage Helm%CONTINUE%
+ItemDisplay[(NMAG) ba2]:Fanged Helm%CONTINUE%
+ItemDisplay[(NMAG) ba7]:Lion Helm%CONTINUE%
+ItemDisplay[(NMAG) bac]:Fury Visor%CONTINUE%
+ItemDisplay[(NMAG) ba3]:Horned Helm%CONTINUE%
+ItemDisplay[(NMAG) ba8]:Rage Mask%CONTINUE%
+ItemDisplay[(NMAG) bad]:Destroyer Helm%CONTINUE%
+ItemDisplay[(NMAG) ba4]:Assault Helmet%CONTINUE%
+ItemDisplay[(NMAG) ba9]:Savage Helmet%CONTINUE%
+ItemDisplay[(NMAG) bae]:Conqueror Crown%CONTINUE%
+ItemDisplay[(NMAG) ba5]:Avenger Guard%CONTINUE%
+ItemDisplay[(NMAG) baa]:Slayer Guard%CONTINUE%
+ItemDisplay[(NMAG) baf]:Guardian Crown%CONTINUE%
+ItemDisplay[(NMAG) pa1]:Targe%CONTINUE%
+ItemDisplay[(NMAG) pa6]:Akaran Targe%CONTINUE%
+ItemDisplay[(NMAG) pab]:Sacred Targe%CONTINUE%
+ItemDisplay[(NMAG) pa2]:Rondache%CONTINUE%
+ItemDisplay[(NMAG) pa7]:Akaran Rondache%CONTINUE%
+ItemDisplay[(NMAG) pac]:Sacred Rondache%CONTINUE%
+ItemDisplay[(NMAG) pa3]:Heraldic Shield%CONTINUE%
+ItemDisplay[(NMAG) pa8]:Protector Shield%CONTINUE%
+ItemDisplay[(NMAG) pad]:Kurast Shield%CONTINUE%
+ItemDisplay[(NMAG) pa4]:Aerin Shield%CONTINUE%
+ItemDisplay[(NMAG) pa9]:Gilded Shield%CONTINUE%
+ItemDisplay[(NMAG) pae]:Zakarum Shield%CONTINUE%
+ItemDisplay[(NMAG) pa5]:Crown Shield%CONTINUE%
+ItemDisplay[(NMAG) paa]:Royal Shield%CONTINUE%
+ItemDisplay[(NMAG) paf]:Vortex Shield%CONTINUE%
+ItemDisplay[(NMAG) ne1]:Preserved Head%CONTINUE%
+ItemDisplay[(NMAG) ne6]:Mummified Trophy%CONTINUE%
+ItemDisplay[(NMAG) neb]:Minion Skull%CONTINUE%
+ItemDisplay[(NMAG) ne2]:Zombie Head%CONTINUE%
+ItemDisplay[(NMAG) ne7]:Fetish Trophy%CONTINUE%
+ItemDisplay[(NMAG) neg]:Hellspawn Skull%CONTINUE%
+ItemDisplay[(NMAG) ne3]:Unraveller Head%CONTINUE%
+ItemDisplay[(NMAG) ne8]:Sexton Trophy%CONTINUE%
+ItemDisplay[(NMAG) ned]:Overseer Skull%CONTINUE%
+ItemDisplay[(NMAG) ne4]:Gargoyle Head%CONTINUE%
+ItemDisplay[(NMAG) ne9]:Cantor Trophy%CONTINUE%
+ItemDisplay[(NMAG) nee]:Succubus Skull%CONTINUE%
+ItemDisplay[(NMAG) ne5]:Demon Head%CONTINUE%
+ItemDisplay[(NMAG) nea]:Hierophant Trophy%CONTINUE%
+ItemDisplay[(NMAG) nef]:Bloodlord Skull%CONTINUE%
+ItemDisplay[(NMAG) hax]:Hand Axe%CONTINUE%
+ItemDisplay[(NMAG) 9ha]:Hatchet%CONTINUE%
+ItemDisplay[(NMAG) 7ha]:Tomahawk%CONTINUE%
+ItemDisplay[(NMAG) axe]:Axe%CONTINUE%
+ItemDisplay[(NMAG) 9ax]:Cleaver%CONTINUE%
+ItemDisplay[(NMAG) 7ax]:Small Crescent%CONTINUE%
+ItemDisplay[(NMAG) 2ax]:Double Axe%CONTINUE%
+ItemDisplay[(NMAG) 92a]:Twin Axe%CONTINUE%
+ItemDisplay[(NMAG) 72a]:Ettin Axe%CONTINUE%
+ItemDisplay[(NMAG) mpi]:Military Pick%CONTINUE%
+ItemDisplay[(NMAG) 9mp]:Crowbill%CONTINUE%
+ItemDisplay[(NMAG) 7mp]:War Spike%CONTINUE%
+ItemDisplay[(NMAG) wax]:War Axe%CONTINUE%
+ItemDisplay[(NMAG) 9wa]:Naga%CONTINUE%
+ItemDisplay[(NMAG) 7wa]:Berserker Axe%CONTINUE%
+ItemDisplay[(NMAG) lax]:Large Axe%CONTINUE%
+ItemDisplay[(NMAG) 9la]:Military Axe%CONTINUE%
+ItemDisplay[(NMAG) 7la]:Feral Axe%CONTINUE%
+ItemDisplay[(NMAG) bax]:Broad Axe%CONTINUE%
+ItemDisplay[(NMAG) 9ba]:Bearded Axe%CONTINUE%
+ItemDisplay[(NMAG) 7ba]:Silver-edged Axe%CONTINUE%
+ItemDisplay[(NMAG) btx]:Battle Axe%CONTINUE%
+ItemDisplay[(NMAG) 9bt]:Tabar%CONTINUE%
+ItemDisplay[(NMAG) 7bt]:Decapitator%CONTINUE%
+ItemDisplay[(NMAG) gax]:Great Axe%CONTINUE%
+ItemDisplay[(NMAG) 9ga]:Gothic Axe%CONTINUE%
+ItemDisplay[(NMAG) 7ga]:Champion Axe%CONTINUE%
+ItemDisplay[(NMAG) gix]:Giant Axe%CONTINUE%
+ItemDisplay[(NMAG) 9gi]:Ancient Axe%CONTINUE%
+ItemDisplay[(NMAG) 7gi]:Glorious Axe%CONTINUE%
+ItemDisplay[(NMAG) clb]:Club%CONTINUE%
+ItemDisplay[(NMAG) 9cl]:Cudgel%CONTINUE%
+ItemDisplay[(NMAG) 7cl]:Truncheon%CONTINUE%
+ItemDisplay[(NMAG) spc]:Spiked Club%CONTINUE%
+ItemDisplay[(NMAG) 9sp]:Barbed Club%CONTINUE%
+ItemDisplay[(NMAG) 7sp]:Tyrant Club%CONTINUE%
+ItemDisplay[(NMAG) mac]:Mace%CONTINUE%
+ItemDisplay[(NMAG) 9ma]:Flanged Mace%CONTINUE%
+ItemDisplay[(NMAG) 7ma]:Reinforced Mace%CONTINUE%
+ItemDisplay[(NMAG) mst]:Morning Star%CONTINUE%
+ItemDisplay[(NMAG) 9mt]:Jagged Star%CONTINUE%
+ItemDisplay[(NMAG) 7mt]:Devil Star%CONTINUE%
+ItemDisplay[(NMAG) fla]:Flail%CONTINUE%
+ItemDisplay[(NMAG) 9fl]:Knout%CONTINUE%
+ItemDisplay[(NMAG) 7fl]:Scourge%CONTINUE%
+ItemDisplay[(NMAG) whm]:War Hammer%CONTINUE%
+ItemDisplay[(NMAG) 9wh]:Battle Hammer%CONTINUE%
+ItemDisplay[(NMAG) 7wh]:Legendary Mallet%CONTINUE%
+ItemDisplay[(NMAG) mau]:Maul%CONTINUE%
+ItemDisplay[(NMAG) 9m9]:War Club%CONTINUE%
+ItemDisplay[(NMAG) 7m7]:Ogre Maul%CONTINUE%
+ItemDisplay[(NMAG) gma]:Great Maul%CONTINUE%
+ItemDisplay[(NMAG) 9gm]:Martel de Fer%CONTINUE%
+ItemDisplay[(NMAG) 7gm]:Thunder Maul%CONTINUE%
+ItemDisplay[(NMAG) ssd]:Short Sword%CONTINUE%
+ItemDisplay[(NMAG) 9ss]:Gladius%CONTINUE%
+ItemDisplay[(NMAG) 7ss]:Falcata%CONTINUE%
+ItemDisplay[(NMAG) scm]:Scimitar%CONTINUE%
+ItemDisplay[(NMAG) 9sm]:Cutlass%CONTINUE%
+ItemDisplay[(NMAG) 7sm]:Ataghan%CONTINUE%
+ItemDisplay[(NMAG) sbr]:Sabre%CONTINUE%
+ItemDisplay[(NMAG) 9sb]:Shamshir%CONTINUE%
+ItemDisplay[(NMAG) 7sb]:Elegant Blade%CONTINUE%
+ItemDisplay[(NMAG) flc]:Falchion%CONTINUE%
+ItemDisplay[(NMAG) 9fc]:Tulwar%CONTINUE%
+ItemDisplay[(NMAG) 7fc]:Hydra Edge%CONTINUE%
+ItemDisplay[(NMAG) crs]:Crystal Sword%CONTINUE%
+ItemDisplay[(NMAG) 9cr]:Dimensional Blade%CONTINUE%
+ItemDisplay[(NMAG) 7cr]:Phase Blade%CONTINUE%
+ItemDisplay[(NMAG) bsd]:Broad Sword%CONTINUE%
+ItemDisplay[(NMAG) 9bs]:Battle Sword%CONTINUE%
+ItemDisplay[(NMAG) 7bs]:Conquest Sword%CONTINUE%
+ItemDisplay[(NMAG) lsd]:Long Sword%CONTINUE%
+ItemDisplay[(NMAG) 9ls]:Rune Sword%CONTINUE%
+ItemDisplay[(NMAG) 7ls]:Cryptic Sword%CONTINUE%
+ItemDisplay[(NMAG) wsd]:War Sword%CONTINUE%
+ItemDisplay[(NMAG) 9wd]:Ancient Sword%CONTINUE%
+ItemDisplay[(NMAG) 7wd]:Mythical Sword%CONTINUE%
+ItemDisplay[(NMAG) 2hs]:Two-handed Sword%CONTINUE%
+ItemDisplay[(NMAG) 92h]:Espandon%CONTINUE%
+ItemDisplay[(NMAG) 72h]:Legend Sword%CONTINUE%
+ItemDisplay[(NMAG) clm]:Claymore%CONTINUE%
+ItemDisplay[(NMAG) 9cm]:Dacian Falx%CONTINUE%
+ItemDisplay[(NMAG) 7cm]:Highland Blade%CONTINUE%
+ItemDisplay[(NMAG) gis]:Giant Sword%CONTINUE%
+ItemDisplay[(NMAG) 9gs]:Tusk Sword%CONTINUE%
+ItemDisplay[(NMAG) 7gs]:Balrog Blade%CONTINUE%
+ItemDisplay[(NMAG) bsw]:Bastard Sword%CONTINUE%
+ItemDisplay[(NMAG) 9b9]:Gothic Sword%CONTINUE%
+ItemDisplay[(NMAG) 7b7]:Champion Sword%CONTINUE%
+ItemDisplay[(NMAG) flb]:Flamberge%CONTINUE%
+ItemDisplay[(NMAG) 9fb]:Zweihander%CONTINUE%
+ItemDisplay[(NMAG) 7fb]:Colossus Sword%CONTINUE%
+ItemDisplay[(NMAG) gsd]:Great Sword%CONTINUE%
+ItemDisplay[(NMAG) 9gd]:Executioner Sword%CONTINUE%
+ItemDisplay[(NMAG) 7gd]:Colossus Blade%CONTINUE%
+ItemDisplay[(NMAG) dgr]:Dagger%CONTINUE%
+ItemDisplay[(NMAG) 9dg]:Poignard%CONTINUE%
+ItemDisplay[(NMAG) 7dg]:Bone Knife%CONTINUE%
+ItemDisplay[(NMAG) dir]:Dirk%CONTINUE%
+ItemDisplay[(NMAG) 9di]:Rondel%CONTINUE%
+ItemDisplay[(NMAG) 7di]:Mithril Point%CONTINUE%
+ItemDisplay[(NMAG) kri]:Kris%CONTINUE%
+ItemDisplay[(NMAG) 9kr]:Cinquedeas%CONTINUE%
+ItemDisplay[(NMAG) 7kr]:Fanged Knife%CONTINUE%
+ItemDisplay[(NMAG) bld]:Blade%CONTINUE%
+ItemDisplay[(NMAG) 9bl]:Stiletto%CONTINUE%
+ItemDisplay[(NMAG) 7bl]:Legend Spike%CONTINUE%
+ItemDisplay[(NMAG) tkf]:Throwing Knife%CONTINUE%
+ItemDisplay[(NMAG) 9tk]:Battle Dart%CONTINUE%
+ItemDisplay[(NMAG) 7tk]:Flying Knife%CONTINUE%
+ItemDisplay[(NMAG) tax]:Throwing Axe%CONTINUE%
+ItemDisplay[(NMAG) 9ta]:Francisca%CONTINUE%
+ItemDisplay[(NMAG) 7ta]:Flying Axe%CONTINUE%
+ItemDisplay[(NMAG) bkf]:Balanced Knife%CONTINUE%
+ItemDisplay[(NMAG) 9bk]:War Dart%CONTINUE%
+ItemDisplay[(NMAG) 7bk]:Winged Knife%CONTINUE%
+ItemDisplay[(NMAG) bal]:Balanced Axe%CONTINUE%
+ItemDisplay[(NMAG) 9b8]:Hurlbat%CONTINUE%
+ItemDisplay[(NMAG) 7b8]:Winged Axe%CONTINUE%
+ItemDisplay[(NMAG) jav]:Javelin%CONTINUE%
+ItemDisplay[(NMAG) 9ja]:War Javelin%CONTINUE%
+ItemDisplay[(NMAG) 7ja]:Hyperion Javelin%CONTINUE%
+ItemDisplay[(NMAG) pil]:Pilum%CONTINUE%
+ItemDisplay[(NMAG) 9pi]:Great Pilum%CONTINUE%
+ItemDisplay[(NMAG) 7pi]:Stygian Pilum%CONTINUE%
+ItemDisplay[(NMAG) ssp]:Short Spear%CONTINUE%
+ItemDisplay[(NMAG) 9s9]:Simbilan%CONTINUE%
+ItemDisplay[(NMAG) 7s7]:Balrog Spear%CONTINUE%
+ItemDisplay[(NMAG) glv]:Glaive%CONTINUE%
+ItemDisplay[(NMAG) 9gl]:Spiculum%CONTINUE%
+ItemDisplay[(NMAG) 7gl]:Ghost Glaive%CONTINUE%
+ItemDisplay[(NMAG) tsp]:Throwing Spear%CONTINUE%
+ItemDisplay[(NMAG) 9ts]:Harpoon%CONTINUE%
+ItemDisplay[(NMAG) 7ts]:Winged Harpoon%CONTINUE%
+ItemDisplay[(NMAG) spr]:Spear%CONTINUE%
+ItemDisplay[(NMAG) 9sr]:War Spear%CONTINUE%
+ItemDisplay[(NMAG) 7sr]:Hyperion Spear%CONTINUE%
+ItemDisplay[(NMAG) tri]:Trident%CONTINUE%
+ItemDisplay[(NMAG) 9tr]:Fuscina%CONTINUE%
+ItemDisplay[(NMAG) 7tr]:Stygian Pike%CONTINUE%
+ItemDisplay[(NMAG) brn]:Brandistock%CONTINUE%
+ItemDisplay[(NMAG) 9br]:War Fork%CONTINUE%
+ItemDisplay[(NMAG) 7br]:Mancatcher%CONTINUE%
+ItemDisplay[(NMAG) spt]:Spetum%CONTINUE%
+ItemDisplay[(NMAG) 9st]:Yari%CONTINUE%
+ItemDisplay[(NMAG) 7st]:Ghost Spear%CONTINUE%
+ItemDisplay[(NMAG) pik]:Pike%CONTINUE%
+ItemDisplay[(NMAG) 9p9]:Lance%CONTINUE%
+ItemDisplay[(NMAG) 7p7]:War Pike%CONTINUE%
+ItemDisplay[(NMAG) bar]:Bardiche%CONTINUE%
+ItemDisplay[(NMAG) 9b7]:Lochaber Axe%CONTINUE%
+ItemDisplay[(NMAG) 7o7]:Ogre Axe%CONTINUE%
+ItemDisplay[(NMAG) vou]:Voulge%CONTINUE%
+ItemDisplay[(NMAG) 9vo]:Bill%CONTINUE%
+ItemDisplay[(NMAG) 7vo]:Colossus Voulge%CONTINUE%
+ItemDisplay[(NMAG) scy]:Scythe%CONTINUE%
+ItemDisplay[(NMAG) 9s8]:Battle Scythe%CONTINUE%
+ItemDisplay[(NMAG) 7s8]:Thresher%CONTINUE%
+ItemDisplay[(NMAG) pax]:Poleaxe%CONTINUE%
+ItemDisplay[(NMAG) 9pa]:Partizan%CONTINUE%
+ItemDisplay[(NMAG) 7pa]:Cryptic Axe%CONTINUE%
+ItemDisplay[(NMAG) hal]:Halberd%CONTINUE%
+ItemDisplay[(NMAG) 9h9]:Bec-de-Corbin%CONTINUE%
+ItemDisplay[(NMAG) 7h7]:Great Poleaxe%CONTINUE%
+ItemDisplay[(NMAG) wsc]:War Scythe%CONTINUE%
+ItemDisplay[(NMAG) 9wc]:Grim Scythe%CONTINUE%
+ItemDisplay[(NMAG) 7wc]:Giant Thresher%CONTINUE%
+ItemDisplay[(NMAG) sbw]:Short Bow%CONTINUE%
+ItemDisplay[(NMAG) 8sb]:Edge Bow%CONTINUE%
+ItemDisplay[(NMAG) 6sb]:Spider Bow%CONTINUE%
+ItemDisplay[(NMAG) hbw]:Hunter's Bow%CONTINUE%
+ItemDisplay[(NMAG) 8hb]:Razor Bow%CONTINUE%
+ItemDisplay[(NMAG) 6hb]:Blade Bow%CONTINUE%
+ItemDisplay[(NMAG) lbw]:Long Bow%CONTINUE%
+ItemDisplay[(NMAG) 8lb]:Cedar Bow%CONTINUE%
+ItemDisplay[(NMAG) 6lb]:Shadow Bow%CONTINUE%
+ItemDisplay[(NMAG) cbw]:Composite Bow%CONTINUE%
+ItemDisplay[(NMAG) 8cb]:Double Bow%CONTINUE%
+ItemDisplay[(NMAG) 6cb]:Great Bow%CONTINUE%
+ItemDisplay[(NMAG) sbb]:Short Battle Bow%CONTINUE%
+ItemDisplay[(NMAG) 8s8]:Short Siege Bow%CONTINUE%
+ItemDisplay[(NMAG) 6s7]:Diamond Bow%CONTINUE%
+ItemDisplay[(NMAG) lbb]:Long Battle Bow%CONTINUE%
+ItemDisplay[(NMAG) 8l8]:Large Siege Bow%CONTINUE%
+ItemDisplay[(NMAG) 6l7]:Crusader Bow%CONTINUE%
+ItemDisplay[(NMAG) swb]:Short War Bow%CONTINUE%
+ItemDisplay[(NMAG) 8sw]:Rune Bow%CONTINUE%
+ItemDisplay[(NMAG) 6sw]:Ward Bow%CONTINUE%
+ItemDisplay[(NMAG) lwb]:Long War Bow%CONTINUE%
+ItemDisplay[(NMAG) 8lw]:Gothic Bow%CONTINUE%
+ItemDisplay[(NMAG) 6lw]:Hydra Bow%CONTINUE%
+ItemDisplay[(NMAG) lxb]:Light Crossbow%CONTINUE%
+ItemDisplay[(NMAG) 8lx]:Arbalest%CONTINUE%
+ItemDisplay[(NMAG) 6lx]:Pellet Bow%CONTINUE%
+ItemDisplay[(NMAG) mxb]:Crossbow%CONTINUE%
+ItemDisplay[(NMAG) 8mx]:Siege Crossbow%CONTINUE%
+ItemDisplay[(NMAG) 6mx]:Gorgon Crossbow%CONTINUE%
+ItemDisplay[(NMAG) hxb]:Heavy Crossbow%CONTINUE%
+ItemDisplay[(NMAG) 8hx]:Ballista%CONTINUE%
+ItemDisplay[(NMAG) 6hx]:Colossus Crossbow%CONTINUE%
+ItemDisplay[(NMAG) rxb]:Repeating Crossbow%CONTINUE%
+ItemDisplay[(NMAG) 8rx]:Chu-Ko-Nu%CONTINUE%
+ItemDisplay[(NMAG) 6rx]:Demon Crossbow%CONTINUE%
+ItemDisplay[(NMAG) sst]:Short Staff%CONTINUE%
+ItemDisplay[(NMAG) 8ss]:Jo Staff%CONTINUE%
+ItemDisplay[(NMAG) 6ss]:Walking Stick%CONTINUE%
+ItemDisplay[(NMAG) lst]:Long Staff%CONTINUE%
+ItemDisplay[(NMAG) 8ls]:Quarterstaff%CONTINUE%
+ItemDisplay[(NMAG) 6ls]:Stalagmite%CONTINUE%
+ItemDisplay[(NMAG) cst]:Gnarled Staff%CONTINUE%
+ItemDisplay[(NMAG) 8cs]:Cedar Staff%CONTINUE%
+ItemDisplay[(NMAG) 6cs]:Elder Staff%CONTINUE%
+ItemDisplay[(NMAG) bst]:Battle Staff%CONTINUE%
+ItemDisplay[(NMAG) 8bs]:Gothic Staff%CONTINUE%
+ItemDisplay[(NMAG) 6bs]:Shillelagh%CONTINUE%
+ItemDisplay[(NMAG) wst]:War Staff%CONTINUE%
+ItemDisplay[(NMAG) 8ws]:Rune Staff%CONTINUE%
+ItemDisplay[(NMAG) 6ws]:Archon Staff%CONTINUE%
+ItemDisplay[(NMAG) wnd]:Wand%CONTINUE%
+ItemDisplay[(NMAG) 9wn]:Burnt Wand%CONTINUE%
+ItemDisplay[(NMAG) 7wn]:Polished Wand%CONTINUE%
+ItemDisplay[(NMAG) ywn]:Yew Wand%CONTINUE%
+ItemDisplay[(NMAG) 9yw]:Petrified Wand%CONTINUE%
+ItemDisplay[(NMAG) 7yw]:Ghost Wand%CONTINUE%
+ItemDisplay[(NMAG) bwn]:Bone Wand%CONTINUE%
+ItemDisplay[(NMAG) 9bw]:Tomb Wand%CONTINUE%
+ItemDisplay[(NMAG) 7bw]:Lich Wand%CONTINUE%
+ItemDisplay[(NMAG) gwn]:Grim Wand%CONTINUE%
+ItemDisplay[(NMAG) 9gw]:Grave Wand%CONTINUE%
+ItemDisplay[(NMAG) 7gw]:Unearthed Wand%CONTINUE%
+ItemDisplay[(NMAG) scp]:Scepter%CONTINUE%
+ItemDisplay[(NMAG) 9sc]:Rune Scepter%CONTINUE%
+ItemDisplay[(NMAG) 7sc]:Mighty Scepter%CONTINUE%
+ItemDisplay[(NMAG) gsc]:Grand Scepter%CONTINUE%
+ItemDisplay[(NMAG) 9qs]:Holy Water Sprinkler%CONTINUE%
+ItemDisplay[(NMAG) 7qs]:Seraph Rod%CONTINUE%
+ItemDisplay[(NMAG) wsp]:War Scepter%CONTINUE%
+ItemDisplay[(NMAG) 9ws]:Divine Scepter%CONTINUE%
+ItemDisplay[(NMAG) 7ws]:Caduceus%CONTINUE%
+ItemDisplay[(NMAG) ktr]:Katar%CONTINUE%
+ItemDisplay[(NMAG) 9ar]:Quhab%CONTINUE%
+ItemDisplay[(NMAG) 7ar]:Suwayyah%CONTINUE%
+ItemDisplay[(NMAG) wrb]:Wrist Blade%CONTINUE%
+ItemDisplay[(NMAG) 9wb]:Wrist Spike%CONTINUE%
+ItemDisplay[(NMAG) 7wb]:Wrist Sword%CONTINUE%
+ItemDisplay[(NMAG) axf]:Hatchet Hands%CONTINUE%
+ItemDisplay[(NMAG) 9xf]:Fascia%CONTINUE%
+ItemDisplay[(NMAG) 7xf]:War Fist%CONTINUE%
+ItemDisplay[(NMAG) ces]:Cestus%CONTINUE%
+ItemDisplay[(NMAG) 9cs]:Hand Scythe%CONTINUE%
+ItemDisplay[(NMAG) 7cs]:Battle Cestus%CONTINUE%
+ItemDisplay[(NMAG) clw]:Claws%CONTINUE%
+ItemDisplay[(NMAG) 9lw]:Greater Claws%CONTINUE%
+ItemDisplay[(NMAG) 7lw]:Feral Claws%CONTINUE%
+ItemDisplay[(NMAG) btl]:Blade Talons%CONTINUE%
+ItemDisplay[(NMAG) 9tw]:Greater Talons%CONTINUE%
+ItemDisplay[(NMAG) 7tw]:Runic Talons%CONTINUE%
+ItemDisplay[(NMAG) skr]:Scissors Katar%CONTINUE%
+ItemDisplay[(NMAG) 9qr]:Scissors Quhab%CONTINUE%
+ItemDisplay[(NMAG) 7qr]:Scissors Suwayyah%CONTINUE%
+ItemDisplay[(NMAG) ob1]:Eagle Orb%CONTINUE%
+ItemDisplay[(NMAG) ob6]:Glowing Orb%CONTINUE%
+ItemDisplay[(NMAG) obb]:Heavenly Stone%CONTINUE%
+ItemDisplay[(NMAG) ob2]:Sacred Globe%CONTINUE%
+ItemDisplay[(NMAG) ob7]:Crystalline Globe%CONTINUE%
+ItemDisplay[(NMAG) obc]:Eldritch Orb%CONTINUE%
+ItemDisplay[(NMAG) ob3]:Smoked Sphere%CONTINUE%
+ItemDisplay[(NMAG) ob8]:Cloudy Sphere%CONTINUE%
+ItemDisplay[(NMAG) obd]:Demon Heart%CONTINUE%
+ItemDisplay[(NMAG) ob4]:Clasped Orb%CONTINUE%
+ItemDisplay[(NMAG) ob9]:Sparkling Ball%CONTINUE%
+ItemDisplay[(NMAG) obe]:Vortex Orb%CONTINUE%
+ItemDisplay[(NMAG) ob5]:Jared's Stone%CONTINUE%
+ItemDisplay[(NMAG) oba]:Swirling Crystal%CONTINUE%
+ItemDisplay[(NMAG) obf]:Dimensional Shard%CONTINUE%
+ItemDisplay[(NMAG) am1]:Stag Bow%CONTINUE%
+ItemDisplay[(NMAG) am6]:Ashwood Bow%CONTINUE%
+ItemDisplay[(NMAG) amb]:Matriarchal Bow%CONTINUE%
+ItemDisplay[(NMAG) am2]:Reflex Bow%CONTINUE%
+ItemDisplay[(NMAG) am7]:Ceremonial Bow%CONTINUE%
+ItemDisplay[(NMAG) amc]:Grand Matron Bow%CONTINUE%
+ItemDisplay[(NMAG) am3]:Maiden Spear%CONTINUE%
+ItemDisplay[(NMAG) am8]:Ceremonial Spear%CONTINUE%
+ItemDisplay[(NMAG) amd]:Matriarchal Spear%CONTINUE%
+ItemDisplay[(NMAG) am4]:Maiden Pike%CONTINUE%
+ItemDisplay[(NMAG) am9]:Ceremonial Pike%CONTINUE%
+ItemDisplay[(NMAG) ame]:Matriarchal Pike%CONTINUE%
+ItemDisplay[(NMAG) am5]:Maiden Javelin%CONTINUE%
+ItemDisplay[(NMAG) ama]:Ceremonial Javelin%CONTINUE%
+ItemDisplay[(NMAG) amf]:Matriarchal Javelin%CONTINUE%
+//ItemDisplay[(MAG) rin]:Ring%CONTINUE%
+//ItemDisplay[(MAG) amu]:Amulet%CONTINUE%
 
 ItemDisplay[(SET OR UNI) !ID cap]:Cap%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xap]:War Hat%CONTINUE%
@@ -3438,1078 +3438,6 @@ ItemDisplay[SET amu !ID]:%GREEN%A m u l e t%CONTINUE%
 //ItemDisplay[(7cm OR 7st) UNI !ID]:%BORDER-62%%RED%+%ORANGE%+%YELLOW%+%WHITE%+    %RED%%NAME%%WHITE%(New)    %RED%+%ORANGE%+%YELLOW%+%WHITE%+
 //ItemDisplay[(7fb OR 7gd OR 7ls OR 7m7 OR 7qr OR 7ws OR 9mt OR 9vo OR amc OR ba5 OR ci0 OR ci3 OR dr8 OR ne9 OR oba OR paf OR uar OR ucl OR uh9 OR uhm OR uld OR ulg OR ult OR umc OR upl OR urn OR utc OR uth OR uts OR uui OR uul OR xar OR xcl OR xh9 OR xhb OR xhg OR xhl OR xhm OR xlb OR xmb OR xmg OR xml OR xrn OR xsk OR xtb OR xtg OR xul OR xvg OR zhb OR zmb OR ztb OR zvb) SET !ID]:%BORDER-62%%GREEN%+%SAGE%+%WHITE%+%TEAL%+    %GREEN%%NAME%    %TEAL%+%WHITE%+%SAGE%+%GREEN%+
 //ItemDisplay[UNI !ID]:%GOLD%%NAME%{%NAME%}%CONTINUE%
-
-/////MAGIC PREFIX
-ItemDisplay[MAG ID PREFIX=968]:%GRAY%[Stout %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=969]:%GRAY%[Stout %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=970]:%GRAY%[Stout %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=971]:%GRAY%[Burly %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=972]:%GRAY%[Burly %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=973]:%GRAY%[Burly %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=974]:%GRAY%[Stalwart %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=975]:%GRAY%[Stalwart %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=976]:%GRAY%[Stalwart %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=977]:%GRAY%[Stout %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=978]:%GRAY%[Stout %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=979]:%GRAY%[Stout %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=980]:%GRAY%[Burly %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=981]:%GRAY%[Burly %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=982]:%GRAY%[Stalwart %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=983]:%GRAY%[Stalwart %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=984]:%GRAY%[Stout %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=985]:%GRAY%[Stout %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=986]:%GRAY%[Burly %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=987]:%GRAY%[Stalwart %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=988]:%GRAY%[Blanched %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=989]:%GRAY%[Eburin %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=990]:%GRAY%[Bone %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=991]:%GRAY%[Ivory %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=992]:%GRAY%[Sturdy %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=993]:%GRAY%[Sturdy %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=994]:%GRAY%[Strong %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=995]:%GRAY%[Glorious %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=996]:%GRAY%[Blessed %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=997]:%GRAY%[Saintly %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=998]:%GRAY%[Holy %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=999]:%GRAY%[Godly %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1015]:%GRAY%[Scarlet %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1016]:%GRAY%[Crimson %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1032]:%GRAY%[Carbuncle %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1033]:%GRAY%[Carmine %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1034]:%GRAY%[Vermillion %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1035]:%GRAY%[Jagged %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1036]:%GRAY%[Deadly %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1037]:%GRAY%[Vicious %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1038]:%GRAY%[Brutal %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1039]:%GRAY%[Massive %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1040]:%GRAY%[Savage %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1041]:%GRAY%[Merciless %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1042]:%GRAY%[Ferocious %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1043]:%GRAY%[Cruel %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1044]:%GRAY%[Cinnabar %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1045]:%GRAY%[Rusty %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1046]:%GRAY%[Realgar %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1047]:%GRAY%[Ruby %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1048]:%GRAY%[Vulpine %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1049]:%GRAY%[Dun %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1050]:%GRAY%[Tireless %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1051]:%GRAY%[Tireless %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1067]:%GRAY%[Bronze %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1068]:%GRAY%[Bronze %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1069]:%GRAY%[Bronze %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1070]:%GRAY%[Iron %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1071]:%GRAY%[Iron %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1072]:%GRAY%[Iron %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1073]:%GRAY%[Steel %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1074]:%GRAY%[Steel %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1075]:%GRAY%[Steel %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1076]:%GRAY%[Bronze %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1077]:%GRAY%[Bronze %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1078]:%GRAY%[Bronze %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1079]:%GRAY%[Iron %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1080]:%GRAY%[Iron %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1081]:%GRAY%[Steel %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1082]:%GRAY%[Steel %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1083]:%GRAY%[Bronze %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1084]:%GRAY%[Bronze %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1085]:%GRAY%[Iron %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1086]:%GRAY%[Steel %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1087]:%GRAY%[Bronze %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1088]:%GRAY%[Iron %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1089]:%GRAY%[Steel %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1090]:%GRAY%[Silver %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1091]:%GRAY%[Gold %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1092]:%GRAY%[Platinum %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1093]:%GRAY%[Meteoric %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1094]:%GRAY%[Strange %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1095]:%GRAY%[Weird %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1096]:%GRAY%[Nickel %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1097]:%GRAY%[Tin %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1098]:%GRAY%[Silver %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1099]:%GRAY%[Argent %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1100]:%GRAY%[Fine %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1101]:%GRAY%[Fine %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1102]:%GRAY%[Sharp %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1103]:%GRAY%[Fine %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1104]:%GRAY%[Sharp %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1105]:%GRAY%[Fine %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1106]:%GRAY%[Sharp %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1107]:%GRAY%[Fine %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1108]:%GRAY%[Warrior's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1109]:%GRAY%[Soldier's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1110]:%GRAY%[Knight's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1111]:%GRAY%[Lord's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1112]:%GRAY%[King's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1113]:%GRAY%[Master's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1114]:%GRAY%[Grandmaster's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1115]:%GRAY%[Glimmering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1116]:%GRAY%[Glowing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1117]:%GRAY%[Bright %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1118]:%GRAY%[Screaming %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1119]:%GRAY%[Howling %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1120]:%GRAY%[Wailing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1121]:%GRAY%[Screaming %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1122]:%GRAY%[Howling %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1123]:%GRAY%[Wailing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1124]:%GRAY%[Lucky %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1125]:%GRAY%[Lucky %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1126]:%GRAY%[Lucky %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1127]:%GRAY%[Lucky %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1128]:%GRAY%[Lucky %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1129]:%GRAY%[Lucky %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1130]:%GRAY%[Felicitous %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1131]:%GRAY%[Fortuitous %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1132]:%GRAY%[Emerald %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1133]:%GRAY%[Lizard's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1134]:%GRAY%[Lizard's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1135]:%GRAY%[Lizard's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1136]:%GRAY%[Snake's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1137]:%GRAY%[Snake's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1138]:%GRAY%[Snake's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1139]:%GRAY%[Serpent's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1140]:%GRAY%[Serpent's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1141]:%GRAY%[Serpent's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1142]:%GRAY%[Lizard's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1143]:%GRAY%[Lizard's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1144]:%GRAY%[Lizard's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1145]:%GRAY%[Snake's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1146]:%GRAY%[Snake's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1147]:%GRAY%[Serpent's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1148]:%GRAY%[Serpent's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1149]:%GRAY%[Lizard's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1150]:%GRAY%[Lizard's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1151]:%GRAY%[Snake's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1152]:%GRAY%[Serpent's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1153]:%GRAY%[Lizard's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1154]:%GRAY%[Snake's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1155]:%GRAY%[Serpent's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1156]:%GRAY%[Serpent's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1157]:%GRAY%[Drake's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1158]:%GRAY%[Dragon's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1159]:%GRAY%[Dragon's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1160]:%GRAY%[Wyrm's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1161]:%GRAY%[Great Wyrm's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1162]:%GRAY%[Bahamut's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1163]:%GRAY%[Zircon %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1164]:%GRAY%[Jacinth %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1165]:%GRAY%[Turquoise %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1166]:%GRAY%[Shimmering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1167]:%GRAY%[Shimmering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1168]:%GRAY%[Shimmering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1169]:%GRAY%[Shimmering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1170]:%GRAY%[Shimmering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1171]:%GRAY%[Shimmering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1172]:%GRAY%[Shimmering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1173]:%GRAY%[Rainbow %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1174]:%GRAY%[Scintillating %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1175]:%GRAY%[Prismatic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1176]:%GRAY%[Chromatic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1177]:%GRAY%[Shimmering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1178]:%GRAY%[Rainbow %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1179]:%GRAY%[Scintillating %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1180]:%GRAY%[Prismatic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1181]:%GRAY%[Chromatic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1182]:%GRAY%[Shimmering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1183]:%GRAY%[Rainbow %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1184]:%GRAY%[Scintillating %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1185]:%GRAY%[Shimmering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1186]:%GRAY%[Scintillating %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1187]:%GRAY%[Azure %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1188]:%GRAY%[Lapis %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1189]:%GRAY%[Cobalt %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1190]:%GRAY%[Sapphire %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1191]:%GRAY%[Azure %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1192]:%GRAY%[Lapis %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1193]:%GRAY%[Cobalt %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1194]:%GRAY%[Sapphire %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1195]:%GRAY%[Azure %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1196]:%GRAY%[Lapis %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1197]:%GRAY%[Cobalt %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1198]:%GRAY%[Sapphire %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1199]:%GRAY%[Azure %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1200]:%GRAY%[Lapis %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1201]:%GRAY%[Lapis %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1202]:%GRAY%[Cobalt %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1203]:%GRAY%[Cobalt %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1204]:%GRAY%[Sapphire %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1205]:%GRAY%[Lapis Lazuli %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1206]:%GRAY%[Sapphire %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1207]:%GRAY%[Crimson %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1208]:%GRAY%[Russet %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1209]:%GRAY%[Garnet %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1210]:%GRAY%[Ruby %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1211]:%GRAY%[Crimson %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1212]:%GRAY%[Russet %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1213]:%GRAY%[Garnet %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1214]:%GRAY%[Ruby %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1215]:%GRAY%[Crimson %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1216]:%GRAY%[Russet %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1217]:%GRAY%[Garnet %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1218]:%GRAY%[Ruby %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1219]:%GRAY%[Russet %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1220]:%GRAY%[Russet %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1221]:%GRAY%[Garnet %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1222]:%GRAY%[Garnet %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1223]:%GRAY%[Ruby %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1224]:%GRAY%[Garnet %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1225]:%GRAY%[Ruby %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1226]:%GRAY%[Tangerine %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1227]:%GRAY%[Ocher %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1228]:%GRAY%[Coral %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1229]:%GRAY%[Amber %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1230]:%GRAY%[Tangerine %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1231]:%GRAY%[Ocher %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1232]:%GRAY%[Coral %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1233]:%GRAY%[Amber %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1234]:%GRAY%[Tangerine %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1235]:%GRAY%[Ocher %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1236]:%GRAY%[Coral %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1237]:%GRAY%[Amber %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1238]:%GRAY%[Tangerine %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1239]:%GRAY%[Ocher %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1240]:%GRAY%[Ocher %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1241]:%GRAY%[Coral %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1242]:%GRAY%[Coral %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1243]:%GRAY%[Amber %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1244]:%GRAY%[Camphor %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1245]:%GRAY%[Ambergris %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1246]:%GRAY%[Beryl %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1247]:%GRAY%[Viridian %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1248]:%GRAY%[Jade %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1249]:%GRAY%[Emerald %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1250]:%GRAY%[Beryl %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1251]:%GRAY%[Viridian %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1252]:%GRAY%[Jade %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1253]:%GRAY%[Emerald %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1254]:%GRAY%[Beryl %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1255]:%GRAY%[Viridian %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1256]:%GRAY%[Jade %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1257]:%GRAY%[Emerald %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1258]:%GRAY%[Beryl %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1259]:%GRAY%[Viridian %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1260]:%GRAY%[Viridian %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1261]:%GRAY%[Jade %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1262]:%GRAY%[Jade %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1263]:%GRAY%[Emerald %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1264]:%GRAY%[Beryl %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1265]:%GRAY%[Jade %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1266]:%GRAY%[Triumphant %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1267]:%GRAY%[Victorious %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1268]:%GRAY%[Aureolin %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1269]:%GRAY%[Mechanist's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1270]:%GRAY%[Artificer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1271]:%GRAY%[Jeweler's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1272]:%GRAY%[Assamic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1273]:%GRAY%[Arcadian %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1274]:%GRAY%[Unearthly %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1275]:%GRAY%[Astral %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1276]:%GRAY%[Elysian %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1277]:%GRAY%[Celestial %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1278]:%GRAY%[Diamond %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1279]:%GRAY%[Fletcher's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1280]:%GRAY%[Acrobat's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1281]:%GRAY%[Harpoonist's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1282]:%GRAY%[Fletcher's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1283]:%GRAY%[Bowyer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1284]:%GRAY%[Archer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1285]:%GRAY%[Acrobat's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1286]:%GRAY%[Gymnast's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1287]:%GRAY%[Athlete's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1288]:%GRAY%[Harpoonist's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1289]:%GRAY%[Spearmaiden's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1290]:%GRAY%[Lancer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1291]:%GRAY%[Burning %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1292]:%GRAY%[Sparking %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1293]:%GRAY%[Chilling %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1294]:%GRAY%[Burning %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1295]:%GRAY%[Blazing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1296]:%GRAY%[Volcanic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1297]:%GRAY%[Sparking %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1298]:%GRAY%[Charged %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1299]:%GRAY%[Powered %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1300]:%GRAY%[Chilling %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1301]:%GRAY%[Freezing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1302]:%GRAY%[Glacial %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1303]:%GRAY%[Hexing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1304]:%GRAY%[Fungal %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1305]:%GRAY%[Graverobber's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1306]:%GRAY%[Hexing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1307]:%GRAY%[Blighting %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1308]:%GRAY%[Accursed %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1309]:%GRAY%[Fungal %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1310]:%GRAY%[Noxious %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1311]:%GRAY%[Venomous %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1312]:%GRAY%[Graverobber's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1313]:%GRAY%[Vodoun %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1314]:%GRAY%[Golemlord's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1315]:%GRAY%[Lion Branded %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1316]:%GRAY%[Captain's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1317]:%GRAY%[Preserver's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1318]:%GRAY%[Lion Branded %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1319]:%GRAY%[Hawk Branded %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1320]:%GRAY%[Rose Branded %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1321]:%GRAY%[Captain's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1322]:%GRAY%[Commander's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1323]:%GRAY%[Marshal's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1324]:%GRAY%[Preserver's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1325]:%GRAY%[Warder's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1326]:%GRAY%[Guardian's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1327]:%GRAY%[Expert's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1328]:%GRAY%[Fanatic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1329]:%GRAY%[Sounding %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1330]:%GRAY%[Expert's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1331]:%GRAY%[Veteran's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1332]:%GRAY%[Master's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1333]:%GRAY%[Fanatic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1334]:%GRAY%[Raging %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1335]:%GRAY%[Furious %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1336]:%GRAY%[Sounding %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1337]:%GRAY%[Resonant %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1338]:%GRAY%[Echoing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1339]:%GRAY%[Trainer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1340]:%GRAY%[Spiritual %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1341]:%GRAY%[Nature's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1342]:%GRAY%[Trainer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1343]:%GRAY%[Caretaker's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1344]:%GRAY%[Keeper's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1345]:%GRAY%[Spiritual %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1346]:%GRAY%[Feral %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1347]:%GRAY%[Communal %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1348]:%GRAY%[Nature's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1349]:%GRAY%[Terra's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1350]:%GRAY%[Gaea's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1351]:%GRAY%[Entrapping %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1352]:%GRAY%[Mentalist's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1353]:%GRAY%[Shogukusha's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1354]:%GRAY%[Entrapping %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1355]:%GRAY%[Trickster's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1356]:%GRAY%[Cunning %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1357]:%GRAY%[Mentalist's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1358]:%GRAY%[Psychic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1359]:%GRAY%[Shadow %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1360]:%GRAY%[Shogukusha's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1361]:%GRAY%[Sensei's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1362]:%GRAY%[Kenshi's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1369]:%GRAY%[Paleocene %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1370]:%GRAY%[Paleocene %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1375]:%GRAY%[Trump %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1380]:%GRAY%[Gritty %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1386]:%GRAY%[Hawkeye %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1388]:%GRAY%[Visionary %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1389]:%GRAY%[Mnemonic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1390]:%GRAY%[Snowflake %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1391]:%GRAY%[Shivering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1392]:%GRAY%[Boreal %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1393]:%GRAY%[Hibernal %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1394]:%GRAY%[Ember %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1395]:%GRAY%[Smoldering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1396]:%GRAY%[Smoking %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1397]:%GRAY%[Flaming %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1398]:%GRAY%[Scorching %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1399]:%GRAY%[Static %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1400]:%GRAY%[Glowing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1401]:%GRAY%[Buzzing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1402]:%GRAY%[Arcing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1403]:%GRAY%[Shocking %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1404]:%GRAY%[Septic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1405]:%GRAY%[Envenomed %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1406]:%GRAY%[Corosive %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1407]:%GRAY%[Toxic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1408]:%GRAY%[Pestilent %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1409]:%GRAY%[Maiden's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1410]:%GRAY%[Valkyrie's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1411]:%GRAY%[Maiden's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1412]:%GRAY%[Valkyrie's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1413]:%GRAY%[Monk's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1414]:%GRAY%[Priest's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1415]:%GRAY%[Monk's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1416]:%GRAY%[Priest's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1417]:%GRAY%[Monk's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1418]:%GRAY%[Priest's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1419]:%GRAY%[Summoner's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1420]:%GRAY%[Necromancer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1421]:%GRAY%[Summoner's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1422]:%GRAY%[Necromancer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1423]:%GRAY%[Angel's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1424]:%GRAY%[Arch-Angel's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1425]:%GRAY%[Angel's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1426]:%GRAY%[Arch-Angel's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1427]:%GRAY%[Slayer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1428]:%GRAY%[Berserker's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1429]:%GRAY%[Slayer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1430]:%GRAY%[Berserker's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1431]:%GRAY%[Slayer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1432]:%GRAY%[Berserker's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1433]:%GRAY%[Shaman's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1434]:%GRAY%[Hierophant's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1435]:%GRAY%[Shaman's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1436]:%GRAY%[Hierophant's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1437]:%GRAY%[Magekiller's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1438]:%GRAY%[Witch-hunter's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1439]:%GRAY%[Magekiller's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1440]:%GRAY%[Witch-hunter's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1444]:%GRAY%[Consecrated %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1445]:%GRAY%[Pure %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1446]:%GRAY%[Sacred %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1447]:%GRAY%[Hallowed %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1448]:%GRAY%[Divine %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1449]:%GRAY%[Pearl %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1450]:%GRAY%[Crimson %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1451]:%GRAY%[Red %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1452]:%GRAY%[Sanguinary %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1453]:%GRAY%[Bloody %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1454]:%GRAY%[Red %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1455]:%GRAY%[Sanguinary %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1456]:%GRAY%[Red %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1457]:%GRAY%[Jagged %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1458]:%GRAY%[Forked %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1459]:%GRAY%[Serrated %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1460]:%GRAY%[Jagged %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1461]:%GRAY%[Forked %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1462]:%GRAY%[Jagged %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1463]:%GRAY%[Snowflake %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1464]:%GRAY%[Shivering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1465]:%GRAY%[Boreal %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1466]:%GRAY%[Hibernal %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1467]:%GRAY%[Snowflake %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1468]:%GRAY%[Shivering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1469]:%GRAY%[Boreal %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1470]:%GRAY%[Hibernal %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1471]:%GRAY%[Snowflake %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1472]:%GRAY%[Shivering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1473]:%GRAY%[Boreal %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1474]:%GRAY%[Hibernal %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1475]:%GRAY%[Ember %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1476]:%GRAY%[Smoldering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1477]:%GRAY%[Smoking %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1478]:%GRAY%[Flaming %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1479]:%GRAY%[Ember %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1480]:%GRAY%[Smoldering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1481]:%GRAY%[Smoking %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1482]:%GRAY%[Flaming %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1483]:%GRAY%[Ember %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1484]:%GRAY%[Smoldering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1485]:%GRAY%[Smoking %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1486]:%GRAY%[Flaming %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1487]:%GRAY%[Static %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1488]:%GRAY%[Glowing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1489]:%GRAY%[Arcing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1490]:%GRAY%[Shocking %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1491]:%GRAY%[Static %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1492]:%GRAY%[Glowing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1493]:%GRAY%[Arcing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1494]:%GRAY%[Shocking %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1495]:%GRAY%[Static %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1496]:%GRAY%[Glowing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1497]:%GRAY%[Arcing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1498]:%GRAY%[Shocking %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1499]:%GRAY%[Septic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1500]:%GRAY%[Envenomed %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1501]:%GRAY%[Toxic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1502]:%GRAY%[Pestilent %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1503]:%GRAY%[Septic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1504]:%GRAY%[Envenomed %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1505]:%GRAY%[Toxic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1506]:%GRAY%[Pestilent %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1507]:%GRAY%[Septic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1508]:%GRAY%[Envenomed %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1509]:%GRAY%[Toxic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1510]:%GRAY%[Pestilent %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1511]:%GRAY%[Tireless %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1512]:%GRAY%[Lizard's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1513]:%GRAY%[Azure %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1514]:%GRAY%[Crimson %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1515]:%GRAY%[Tangerine %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1516]:%GRAY%[Beryl %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1517]:%GRAY%[Godly %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1518]:%GRAY%[Cruel %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1520]:%GRAY%[Champion's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1521]:%GRAY%[Flaming %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1522]:%GRAY%[Ember %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1523]:%GRAY%[Smoldering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1524]:%GRAY%[Hibernal %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1525]:%GRAY%[Snowflake %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1526]:%GRAY%[Shivering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1527]:%GRAY%[Static %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1528]:%GRAY%[Glowing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1529]:%GRAY%[Arcing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1530]:%GRAY%[Toxic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1531]:%GRAY%[Pestilent %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1532]:%GRAY%[Septic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1533]:%GRAY%[Magic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1534]:%GRAY%[Arcane %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1535]:%GRAY%[Ancient %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1536]:%GRAY%[Promoted %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1537]:%GRAY%[Elevated %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1538]:%GRAY%[Ascended %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1539]:%GRAY%[Silver %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1540]:%GRAY%[Shining %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1541]:%GRAY%[Opulent %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1542]:%GRAY%[Fast %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1543]:%GRAY%[Speedy %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1544]:%GRAY%[Ludicrous %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1545]:%GRAY%[Large %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1546]:%GRAY%[Huge %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1547]:%GRAY%[Colossal %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1548]:%GRAY%[Strong %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1549]:%GRAY%[Mighty %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1550]:%GRAY%[Formidable %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1551]:%GRAY%[Splashing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1552]:%GRAY%[Splashing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1553]:%GRAY%[Splashing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1554]:%GRAY%[Bloody %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1555]:%GRAY%[Gory %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1556]:%GRAY%[Sanguinary %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1557]:%GRAY%[Unhealthy %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1558]:%GRAY%[Sickly %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1559]:%GRAY%[Diseased %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1560]:%GRAY%[Crushing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1561]:%GRAY%[Smashing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1562]:%GRAY%[Obliterating %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1563]:%GRAY%[Sparking %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1564]:%GRAY%[Shocking %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1565]:%GRAY%[Thunderous %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1566]:%GRAY%[Chilling %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1567]:%GRAY%[Boreal %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1568]:%GRAY%[Glacial %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1569]:%GRAY%[Smoking %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1570]:%GRAY%[Molten %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1571]:%GRAY%[Volcanic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1572]:%GRAY%[Poisonous %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1573]:%GRAY%[Envenomed %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1574]:%GRAY%[Plagued %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1575]:%GRAY%[Runic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1576]:%GRAY%[Taboo %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1577]:%GRAY%[Occult %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1578]:%GRAY%[Stygian %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1579]:%GRAY%[Lustful %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1580]:%GRAY%[Vampiric %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1581]:%GRAY%[Bovine %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1582]:%GRAY%[Reanimated %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1583]:%GRAY%[Ghastly %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1584]:%GRAY%[Blood Letting %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1585]:%GRAY%[Murderous %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1586]:%GRAY%[Blood Sucking %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1587]:%GRAY%[Channeling %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1588]:%GRAY%[Cold %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1589]:%GRAY%[Cinder %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1590]:%GRAY%[Morbid %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1591]:%GRAY%[Sparkling %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1592]:%GRAY%[Discharging %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1593]:%GRAY%[Frigid %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1594]:%GRAY%[Wildfire %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1595]:%GRAY%[Malicious %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1596]:%GRAY%[Effervescent %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1597]:%GRAY%[Conduit %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1598]:%GRAY%[Numbing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1599]:%GRAY%[Inferno %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1600]:%GRAY%[Infectious %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1601]:%GRAY%[Scintillating %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1602]:%GRAY%[Visceral %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1603]:%GRAY%[Divine %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1604]:%GRAY%[Celestial %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1605]:%GRAY%[Grandmaster's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1606]:%GRAY%[Supporting %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1607]:%GRAY%[Reinforcing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1608]:%GRAY%[Empowering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1609]:%GRAY%[Bolstering %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1610]:%GRAY%[Fortifying %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1611]:%GRAY%[Embattled %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1612]:%GRAY%[Rampaging %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1613]:%GRAY%[Lancer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1614]:%GRAY%[Archer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1615]:%GRAY%[Artificer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1616]:%GRAY%[Artificer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1617]:%GRAY%[Lancer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1618]:%GRAY%[Maiden's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1619]:%GRAY%[Monk's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1620]:%GRAY%[Summoner's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1621]:%GRAY%[Angel's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1622]:%GRAY%[Slayer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1623]:%GRAY%[Shaman's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1624]:%GRAY%[Magekiller's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1625]:%GRAY%[Cerulean %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1626]:%GRAY%[Lancer's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1627]:%GRAY%[Souless %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1628]:%GRAY%[Shamanic %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1629]:%GRAY%[Strange %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1630]:%GRAY%[Unearthly %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1631]:%GRAY%[Plague %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1632]:%GRAY%[Savage %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1633]:%GRAY%[Cardinal %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1634]:%GRAY%[Penetrating %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1635]:%GRAY%[Puncturing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1636]:%GRAY%[Piercing %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1637]:%GRAY%[Impaling %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1638]:%GRAY%[Devout %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1639]:%GRAY%[Consecrated %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1640]:%GRAY%[Pure %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1641]:%GRAY%[Duplicated %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1642]:%GRAY%[Champion's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1643]:%GRAY%[Champion's %GRAY%]%NAME%{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID PREFIX=1644]:%GRAY%[Shrieking %GRAY%]%NAME%{%NAME%}%CONTINUE%
-/////MAGIC SUFFIX
-ItemDisplay[MAG ID SUFFIX=115]:%NAME% %TEAL%[of Health%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=116]:%NAME% %TEAL%[of Protection%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=117]:%NAME% %TEAL%[of Absorption%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=118]:%NAME% %TEAL%[of Life%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=119]:%NAME% %TEAL%[of Life Everlasting%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=120]:%NAME% %TEAL%[of Protection%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=121]:%NAME% %TEAL%[of Absorption%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=122]:%NAME% %TEAL%[of Life%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=123]:%NAME% %TEAL%[of Anima%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=124]:%NAME% %TEAL%[of Warding%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=125]:%NAME% %TEAL%[of the Sentinel%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=126]:%NAME% %TEAL%[of Guarding%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=127]:%NAME% %TEAL%[of Negation%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=128]:%NAME% %TEAL%[of the Sentinel%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=129]:%NAME% %TEAL%[of Guarding%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=130]:%NAME% %TEAL%[of Negation%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=158]:%NAME% %TEAL%[of Piercing%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=161]:%NAME% %TEAL%[of Thorns%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=162]:%NAME% %TEAL%[of Spikes%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=163]:%NAME% %TEAL%[of Razors%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=164]:%NAME% %TEAL%[of Swords%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=165]:%NAME% %TEAL%[of Malice%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=166]:%NAME% %TEAL%[of Readiness%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=167]:%NAME% %TEAL%[of Alacrity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=168]:%NAME% %TEAL%[of Swiftness%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=169]:%NAME% %TEAL%[of Quickness%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=170]:%NAME% %TEAL%[of Alacrity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=171]:%NAME% %TEAL%[of Fervor%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=172]:%NAME% %TEAL%[of Blocking%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=173]:%NAME% %TEAL%[of Deflecting%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=174]:%NAME% %TEAL%[of the Apprentice%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=175]:%NAME% %TEAL%[of the Magus%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=176]:%NAME% %TEAL%[of Frost%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=177]:%NAME% %TEAL%[of the Icicle%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=178]:%NAME% %TEAL%[of the Glacier%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=179]:%NAME% %TEAL%[of Winter%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=180]:%NAME% %TEAL%[of Frost%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=181]:%NAME% %TEAL%[of Frigidity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=182]:%NAME% %TEAL%[of Warmth%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=183]:%NAME% %TEAL%[of Flame%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=184]:%NAME% %TEAL%[of Fire%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=185]:%NAME% %TEAL%[of Burning%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=186]:%NAME% %TEAL%[of Incineration%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=187]:%NAME% %TEAL%[of Flame%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=188]:%NAME% %TEAL%[of Passion%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=189]:%NAME% %TEAL%[of Shock%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=190]:%NAME% %TEAL%[of Lightning%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=191]:%NAME% %TEAL%[of Thunder%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=192]:%NAME% %TEAL%[of Storms%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=193]:%NAME% %TEAL%[of Shock%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=194]:%NAME% %TEAL%[of Ennui%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=195]:%NAME% %TEAL%[of Craftsmanship%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=196]:%NAME% %TEAL%[of Quality%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=197]:%NAME% %TEAL%[of Maiming%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=198]:%NAME% %TEAL%[of Slaying%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=199]:%NAME% %TEAL%[of Gore%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=200]:%NAME% %TEAL%[of Carnage%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=201]:%NAME% %TEAL%[of Slaughter%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=202]:%NAME% %TEAL%[of Butchery%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=203]:%NAME% %TEAL%[of Evisceration%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=204]:%NAME% %TEAL%[of Maiming%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=205]:%NAME% %TEAL%[of Craftsmanship%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=206]:%NAME% %TEAL%[of Craftsmanship%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=207]:%NAME% %TEAL%[of Craftsmanship%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=208]:%NAME% %TEAL%[of Quality%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=209]:%NAME% %TEAL%[of Quality%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=210]:%NAME% %TEAL%[of Maiming%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=211]:%NAME% %TEAL%[of Maiming%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=220]:%NAME% %TEAL%[of Ire%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=221]:%NAME% %TEAL%[of Wrath%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=222]:%NAME% %TEAL%[of Carnage%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=223]:%NAME% %TEAL%[of Worth%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=224]:%NAME% %TEAL%[of Measure%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=225]:%NAME% %TEAL%[of Excellence%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=226]:%NAME% %TEAL%[of Performance%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=227]:%NAME% %TEAL%[of Transcendence%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=228]:%NAME% %TEAL%[of Worth%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=229]:%NAME% %TEAL%[of Measure%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=230]:%NAME% %TEAL%[of Excellence%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=231]:%NAME% %TEAL%[of Performance%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=232]:%NAME% %TEAL%[of Joyfulness%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=233]:%NAME% %TEAL%[of Bliss%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=234]:%NAME% %TEAL%[of Blight%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=235]:%NAME% %TEAL%[of Venom%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=236]:%NAME% %TEAL%[of Pestilence%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=237]:%NAME% %TEAL%[of Anthrax%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=238]:%NAME% %TEAL%[of Blight%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=239]:%NAME% %TEAL%[of Envy%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=240]:%NAME% %TEAL%[of Dexterity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=241]:%NAME% %TEAL%[of Skill%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=242]:%NAME% %TEAL%[of Accuracy%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=243]:%NAME% %TEAL%[of Precision%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=244]:%NAME% %TEAL%[of Perfection%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=245]:%NAME% %TEAL%[of Nirvana%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=246]:%NAME% %TEAL%[of Dexterity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=247]:%NAME% %TEAL%[of Skill%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=248]:%NAME% %TEAL%[of Accuracy%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=249]:%NAME% %TEAL%[of Precision%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=250]:%NAME% %TEAL%[of Perfection%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=251]:%NAME% %TEAL%[of Dexterity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=252]:%NAME% %TEAL%[of Skill%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=253]:%NAME% %TEAL%[of Accuracy%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=254]:%NAME% %TEAL%[of Precision%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=255]:%NAME% %TEAL%[of Dexterity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=256]:%NAME% %TEAL%[of Dexterity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=257]:%NAME% %TEAL%[of Dexterity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=258]:%NAME% %TEAL%[of Dexterity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=259]:%NAME% %TEAL%[of Dexterity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=260]:%NAME% %TEAL%[of Dexterity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=261]:%NAME% %TEAL%[of Daring%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=262]:%NAME% %TEAL%[of Balance%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=263]:%NAME% %TEAL%[of Equilibrium%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=264]:%NAME% %TEAL%[of Stability%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=265]:%NAME% %TEAL%[of Balance%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=266]:%NAME% %TEAL%[of Balance%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=267]:%NAME% %TEAL%[of Balance%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=268]:%NAME% %TEAL%[of Truth%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=269]:%NAME% %TEAL%[of Regeneration%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=270]:%NAME% %TEAL%[of Regeneration%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=271]:%NAME% %TEAL%[of Regeneration%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=272]:%NAME% %TEAL%[of Regrowth%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=273]:%NAME% %TEAL%[of Regrowth%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=274]:%NAME% %TEAL%[of Revivification%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=275]:%NAME% %TEAL%[of Honor%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=276]:%NAME% %TEAL%[of Vileness%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=277]:%NAME% %TEAL%[of Greed%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=278]:%NAME% %TEAL%[of Wealth%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=279]:%NAME% %TEAL%[of Greed%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=280]:%NAME% %TEAL%[of Greed%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=281]:%NAME% %TEAL%[of Greed%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=282]:%NAME% %TEAL%[of Greed%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=283]:%NAME% %TEAL%[of Greed%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=284]:%NAME% %TEAL%[of Greed%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=285]:%NAME% %TEAL%[of Avarice%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=286]:%NAME% %TEAL%[of Chance%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=287]:%NAME% %TEAL%[of Fortune%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=288]:%NAME% %TEAL%[of Fortune%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=289]:%NAME% %TEAL%[of Luck%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=290]:%NAME% %TEAL%[of Fortune%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=291]:%NAME% %TEAL%[of Good Luck%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=292]:%NAME% %TEAL%[of Prosperity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=293]:%NAME% %TEAL%[of Energy%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=294]:%NAME% %TEAL%[of the Mind%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=295]:%NAME% %TEAL%[of Brilliance%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=296]:%NAME% %TEAL%[of Sorcery%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=297]:%NAME% %TEAL%[of Wizardry%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=298]:%NAME% %TEAL%[of Enlightenment%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=299]:%NAME% %TEAL%[of Energy%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=300]:%NAME% %TEAL%[of the Mind%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=301]:%NAME% %TEAL%[of Brilliance%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=302]:%NAME% %TEAL%[of Sorcery%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=303]:%NAME% %TEAL%[of Wizardry%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=304]:%NAME% %TEAL%[of Energy%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=305]:%NAME% %TEAL%[of the Mind%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=306]:%NAME% %TEAL%[of Brilliance%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=307]:%NAME% %TEAL%[of Sorcery%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=308]:%NAME% %TEAL%[of Knowledge%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=309]:%NAME% %TEAL%[of the Bear%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=310]:%NAME% %TEAL%[of Light%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=311]:%NAME% %TEAL%[of Radiance%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=312]:%NAME% %TEAL%[of the Sun%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=313]:%NAME% %TEAL%[of the Jackal%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=314]:%NAME% %TEAL%[of the Fox%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=315]:%NAME% %TEAL%[of the Wolf%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=316]:%NAME% %TEAL%[of the Tiger%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=317]:%NAME% %TEAL%[of the Mammoth%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=318]:%NAME% %TEAL%[of the Colosuss%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=319]:%NAME% %TEAL%[of the Squid%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=320]:%NAME% %TEAL%[of the Whale%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=321]:%NAME% %TEAL%[of the Jackal%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=322]:%NAME% %TEAL%[of the Fox%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=323]:%NAME% %TEAL%[of the Wolf%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=324]:%NAME% %TEAL%[of the Tiger%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=325]:%NAME% %TEAL%[of the Mammoth%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=326]:%NAME% %TEAL%[of the Colosuss%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=327]:%NAME% %TEAL%[of the Jackal%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=328]:%NAME% %TEAL%[of the Fox%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=329]:%NAME% %TEAL%[of the Wolf%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=330]:%NAME% %TEAL%[of the Tiger%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=331]:%NAME% %TEAL%[of the Mammoth%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=332]:%NAME% %TEAL%[of Life%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=333]:%NAME% %TEAL%[of Life%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=334]:%NAME% %TEAL%[of Life%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=335]:%NAME% %TEAL%[of Substinence%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=336]:%NAME% %TEAL%[of Substinence%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=337]:%NAME% %TEAL%[of Substinence%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=338]:%NAME% %TEAL%[of Vita%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=339]:%NAME% %TEAL%[of Vita%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=340]:%NAME% %TEAL%[of Vita%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=341]:%NAME% %TEAL%[of Life%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=342]:%NAME% %TEAL%[of Life%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=343]:%NAME% %TEAL%[of Substinence%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=344]:%NAME% %TEAL%[of Substinence%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=345]:%NAME% %TEAL%[of Vita%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=346]:%NAME% %TEAL%[of Vita%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=347]:%NAME% %TEAL%[of Life%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=348]:%NAME% %TEAL%[of Substinence%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=349]:%NAME% %TEAL%[of Vita%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=350]:%NAME% %TEAL%[of Spirit%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=351]:%NAME% %TEAL%[of Hope%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=352]:%NAME% %TEAL%[of the Leech%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=353]:%NAME% %TEAL%[of the Locust%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=354]:%NAME% %TEAL%[of the Lamprey%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=355]:%NAME% %TEAL%[of the Leech%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=356]:%NAME% %TEAL%[of the Locust%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=357]:%NAME% %TEAL%[of the Lamprey%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=358]:%NAME% %TEAL%[of the Leech%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=359]:%NAME% %TEAL%[of the Bat%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=360]:%NAME% %TEAL%[of the Wraith%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=361]:%NAME% %TEAL%[of the Vampire%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=362]:%NAME% %TEAL%[of the Bat%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=363]:%NAME% %TEAL%[of the Wraith%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=364]:%NAME% %TEAL%[of the Vampire%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=365]:%NAME% %TEAL%[of the Bat%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=366]:%NAME% %TEAL%[of Defiance%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=367]:%NAME% %TEAL%[of Amelioration%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=368]:%NAME% %TEAL%[of Remedy%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=369]:%NAME% %TEAL%[of Simplicity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=370]:%NAME% %TEAL%[of Ease%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=371]:%NAME% %TEAL%[of Freedom%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=372]:%NAME% %TEAL%[of Strength%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=373]:%NAME% %TEAL%[of Might%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=374]:%NAME% %TEAL%[of the Ox%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=375]:%NAME% %TEAL%[of the Giant%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=376]:%NAME% %TEAL%[of the Titan%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=377]:%NAME% %TEAL%[of Atlus%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=378]:%NAME% %TEAL%[of Strength%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=379]:%NAME% %TEAL%[of Might%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=380]:%NAME% %TEAL%[of the Ox%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=381]:%NAME% %TEAL%[of the Giant%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=382]:%NAME% %TEAL%[of the Titan%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=383]:%NAME% %TEAL%[of Strength%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=384]:%NAME% %TEAL%[of Might%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=385]:%NAME% %TEAL%[of the Ox%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=386]:%NAME% %TEAL%[of the Giant%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=387]:%NAME% %TEAL%[of Strength%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=388]:%NAME% %TEAL%[of Strength%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=389]:%NAME% %TEAL%[of Strength%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=390]:%NAME% %TEAL%[of Strength%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=391]:%NAME% %TEAL%[of Strength%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=392]:%NAME% %TEAL%[of Strength%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=393]:%NAME% %TEAL%[of Virility%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=394]:%NAME% %TEAL%[of Pacing%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=395]:%NAME% %TEAL%[of Haste%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=396]:%NAME% %TEAL%[of Speed%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=397]:%NAME% %TEAL%[of Traveling%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=398]:%NAME% %TEAL%[of Acceleration%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=399]:%NAME% %TEAL%[of Inertia%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=400]:%NAME% %TEAL%[of Inertia%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=401]:%NAME% %TEAL%[of Inertia%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=402]:%NAME% %TEAL%[of Self-Repair%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=403]:%NAME% %TEAL%[of Fast Repair%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=404]:%NAME% %TEAL%[of Ages%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=407]:%NAME% %TEAL%[of the Kraken%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=408]:%NAME% %TEAL%[of Memory%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=409]:%NAME% %TEAL%[of the Elephant%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=418]:%NAME% %TEAL%[of Firebolts%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=419]:%NAME% %TEAL%[of Firebolts%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=420]:%NAME% %TEAL%[of Firebolts%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=421]:%NAME% %TEAL%[of Charged Shield%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=422]:%NAME% %TEAL%[of Charged Shield%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=423]:%NAME% %TEAL%[of Charged Shield%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=424]:%NAME% %TEAL%[of Icebolt%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=427]:%NAME% %TEAL%[of Telekinesis%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=428]:%NAME% %TEAL%[of Frost Shield%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=432]:%NAME% %TEAL%[of Nova%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=433]:%NAME% %TEAL%[of Nova%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=434]:%NAME% %TEAL%[of Nova Shield%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=435]:%NAME% %TEAL%[of Nova Shield%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=436]:%NAME% %TEAL%[of Nova Shield%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=437]:%NAME% %TEAL%[of Lightning%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=442]:%NAME% %TEAL%[of Chain Lightning%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=443]:%NAME% %TEAL%[of Chain Lightning%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=444]:%NAME% %TEAL%[of Chain Lightning%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=454]:%NAME% %TEAL%[of Hydra Shield%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=511]:%NAME% %TEAL%[of Telekinesis%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=532]:%NAME% %TEAL%[of Teleportation%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=533]:%NAME% %TEAL%[of Teleportation%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=578]:%NAME% %TEAL%[of Life Tap%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=579]:%NAME% %TEAL%[of Life Tap%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=594]:%NAME% %TEAL%[of Lower Resistance%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=595]:%NAME% %TEAL%[of Lower Resistance%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=662]:%NAME% %TEAL%[of Damage Amplification%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=663]:%NAME% %TEAL%[of the Icicle%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=664]:%NAME% %TEAL%[of the Glacier%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=665]:%NAME% %TEAL%[of Fire%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=666]:%NAME% %TEAL%[of Burning%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=667]:%NAME% %TEAL%[of Lightning%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=668]:%NAME% %TEAL%[of Thunder%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=669]:%NAME% %TEAL%[of Daring%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=670]:%NAME% %TEAL%[of Daring%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=671]:%NAME% %TEAL%[of Knowledge%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=672]:%NAME% %TEAL%[of Knowledge%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=673]:%NAME% %TEAL%[of Virility%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=674]:%NAME% %TEAL%[of Virility%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=675]:%NAME% %TEAL%[of Readiness%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=676]:%NAME% %TEAL%[of Craftsmanship%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=677]:%NAME% %TEAL%[of Quality%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=678]:%NAME% %TEAL%[of Maiming%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=679]:%NAME% %TEAL%[of Craftsmanship%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=680]:%NAME% %TEAL%[of Quality%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=681]:%NAME% %TEAL%[of Craftsmanship%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=682]:%NAME% %TEAL%[of Blight%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=683]:%NAME% %TEAL%[of Venom%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=684]:%NAME% %TEAL%[of Pestilence%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=685]:%NAME% %TEAL%[of Anthrax%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=686]:%NAME% %TEAL%[of Blight%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=687]:%NAME% %TEAL%[of Venom%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=688]:%NAME% %TEAL%[of Pestilence%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=689]:%NAME% %TEAL%[of Anthrax%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=690]:%NAME% %TEAL%[of Blight%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=691]:%NAME% %TEAL%[of Venom%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=692]:%NAME% %TEAL%[of Pestilence%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=693]:%NAME% %TEAL%[of Anthrax%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=694]:%NAME% %TEAL%[of Frost%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=695]:%NAME% %TEAL%[of the Icicle%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=696]:%NAME% %TEAL%[of the Glacier%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=697]:%NAME% %TEAL%[of Winter%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=698]:%NAME% %TEAL%[of Frost%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=699]:%NAME% %TEAL%[of the Icicle%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=700]:%NAME% %TEAL%[of the Glacier%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=701]:%NAME% %TEAL%[of Winter%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=702]:%NAME% %TEAL%[of Frost%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=703]:%NAME% %TEAL%[of the Icicle%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=704]:%NAME% %TEAL%[of the Glacier%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=705]:%NAME% %TEAL%[of Winter%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=706]:%NAME% %TEAL%[of Flame%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=707]:%NAME% %TEAL%[of Fire%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=708]:%NAME% %TEAL%[of Burning%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=709]:%NAME% %TEAL%[of Incineration%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=710]:%NAME% %TEAL%[of Flame%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=711]:%NAME% %TEAL%[of Fire%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=712]:%NAME% %TEAL%[of Burning%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=713]:%NAME% %TEAL%[of Incineration%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=714]:%NAME% %TEAL%[of Flame%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=715]:%NAME% %TEAL%[of Fire%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=716]:%NAME% %TEAL%[of Burning%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=717]:%NAME% %TEAL%[of Incineration%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=718]:%NAME% %TEAL%[of Shock%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=719]:%NAME% %TEAL%[of Lightning%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=720]:%NAME% %TEAL%[of Thunder%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=721]:%NAME% %TEAL%[of Storms%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=722]:%NAME% %TEAL%[of Shock%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=723]:%NAME% %TEAL%[of Lightning%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=724]:%NAME% %TEAL%[of Thunder%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=725]:%NAME% %TEAL%[of Storms%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=726]:%NAME% %TEAL%[of Shock%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=727]:%NAME% %TEAL%[of Lightning%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=728]:%NAME% %TEAL%[of Thunder%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=729]:%NAME% %TEAL%[of Storms%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=730]:%NAME% %TEAL%[of Dexterity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=731]:%NAME% %TEAL%[of Dexterity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=732]:%NAME% %TEAL%[of Strength%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=733]:%NAME% %TEAL%[of Strength%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=734]:%NAME% %TEAL%[of Thorns%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=735]:%NAME% %TEAL%[of Frost%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=736]:%NAME% %TEAL%[of Flame%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=737]:%NAME% %TEAL%[of Blight%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=738]:%NAME% %TEAL%[of Shock%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=739]:%NAME% %TEAL%[of Regeneration%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=740]:%NAME% %TEAL%[of Energy%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=741]:%NAME% %TEAL%[of Light%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=742]:%NAME% %TEAL%[of the Leech%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=743]:%NAME% %TEAL%[of the Locust%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=744]:%NAME% %TEAL%[of the Lamprey%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=745]:%NAME% %TEAL%[of the Bat%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=746]:%NAME% %TEAL%[of the Wraith%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=747]:%NAME% %TEAL%[of the Vampire%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=749]:%NAME% %TEAL%[of Sturdiness%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=750]:%NAME% %TEAL%[of Stability%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=751]:%NAME% %TEAL%[of Vigor%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=752]:%NAME% %TEAL%[of Crimson%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=753]:%NAME% %TEAL%[of Crimson%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=754]:%NAME% %TEAL%[of Crimson%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=755]:%NAME% %TEAL%[of Tangerine%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=756]:%NAME% %TEAL%[of Tangerine%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=757]:%NAME% %TEAL%[of Tangerine%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=758]:%NAME% %TEAL%[of Opal%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=759]:%NAME% %TEAL%[of Opal%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=760]:%NAME% %TEAL%[of Opal%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=761]:%NAME% %TEAL%[of Azure%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=762]:%NAME% %TEAL%[of Azure%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=763]:%NAME% %TEAL%[of Azure%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=764]:%NAME% %TEAL%[of Protection%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=765]:%NAME% %TEAL%[of Security%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=766]:%NAME% %TEAL%[of Safety%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=767]:%NAME% %TEAL%[of Swiftness%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=768]:%NAME% %TEAL%[of Quickness%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=769]:%NAME% %TEAL%[of Velocity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=770]:%NAME% %TEAL%[of Regeneration%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=771]:%NAME% %TEAL%[of Renewal%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=772]:%NAME% %TEAL%[of Rebirth%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=773]:%NAME% %TEAL%[of the Leech%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=774]:%NAME% %TEAL%[of the Parasite%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=775]:%NAME% %TEAL%[of the Bloodsucker%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=776]:%NAME% %TEAL%[of Resilience%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=777]:%NAME% %TEAL%[of Hardiness%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=778]:%NAME% %TEAL%[of Fortitude%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=779]:%NAME% %TEAL%[of Health%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=780]:%NAME% %TEAL%[of Vitality%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=781]:%NAME% %TEAL%[of Vim%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=782]:%NAME% %TEAL%[of Imbalance%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=783]:%NAME% %TEAL%[of Inequality%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=784]:%NAME% %TEAL%[of Uneveness%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=785]:%NAME% %TEAL%[of Warding%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=786]:%NAME% %TEAL%[of Guarding%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=787]:%NAME% %TEAL%[of Preservation%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=788]:%NAME% %TEAL%[of Hindrance%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=789]:%NAME% %TEAL%[of Aversion%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=790]:%NAME% %TEAL%[of Permeability%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=791]:%NAME% %TEAL%[of Cracking%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=792]:%NAME% %TEAL%[of Crumbling%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=793]:%NAME% %TEAL%[of Disintegration%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=794]:%NAME% %TEAL%[of Fumbling%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=795]:%NAME% %TEAL%[of Bumbling%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=796]:%NAME% %TEAL%[of Blundering%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=797]:%NAME% %TEAL%[of Defending%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=798]:%NAME% %TEAL%[of Defending%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=799]:%NAME% %TEAL%[of Protecting%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=800]:%NAME% %TEAL%[of Guardianship%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=801]:%NAME% %TEAL%[of Savagery%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=802]:%NAME% %TEAL%[of Devastation%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=803]:%NAME% %TEAL%[of Havoc%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=804]:%NAME% %TEAL%[of Destruction%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=805]:%NAME% %TEAL%[of Desolation%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=806]:%NAME% %TEAL%[of Bleeding%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=807]:%NAME% %TEAL%[of Siphoning%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=808]:%NAME% %TEAL%[of Gory%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=809]:%NAME% %TEAL%[of Sanguinary%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=810]:%NAME% %TEAL%[of Hematic%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=811]:%NAME% %TEAL%[of Chipping%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=812]:%NAME% %TEAL%[of Crumbling%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=813]:%NAME% %TEAL%[of Breaking%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=814]:%NAME% %TEAL%[of Crushing%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=815]:%NAME% %TEAL%[of Pulverizing%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=816]:%NAME% %TEAL%[of the Apprentice%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=817]:%NAME% %TEAL%[of the Apprentice%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=818]:%NAME% %TEAL%[of the Magus%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=819]:%NAME% %TEAL%[of the Squid%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=820]:%NAME% %TEAL%[of the Whale%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=821]:%NAME% %TEAL%[of the Kraken%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=822]:%NAME% %TEAL%[of Clarity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=823]:%NAME% %TEAL%[of Divinity%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=824]:%NAME% %TEAL%[of the Dawn%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=825]:%NAME% %TEAL%[of Pacing%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=826]:%NAME% %TEAL%[of Haste%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=827]:%NAME% %TEAL%[of Evisceration%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=828]:%NAME% %TEAL%[of Carnage%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=834]:%NAME% %TEAL%[of the Bear%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=835]:%NAME% %TEAL%[of the Lamprey%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=836]:%NAME% %TEAL%[of the Vampire%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=840]:%NAME% %TEAL%[of the Smith%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=841]:%NAME% %TEAL%[of the Smith%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=842]:%NAME% %TEAL%[of the Smith%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=843]:%NAME% %TEAL%[of the Armorer%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=844]:%NAME% %TEAL%[of the Armorer%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=845]:%NAME% %TEAL%[of the Armorer%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=846]:%NAME% %TEAL%[of the Crafter%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=847]:%NAME% %TEAL%[of the Crafter%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=848]:%NAME% %TEAL%[of the Crafter%TEAL%]{%NAME%}%CONTINUE%
-ItemDisplay[MAG ID SUFFIX=849]:%NAME% %TEAL%[of the Adventurer%TEAL%]{%NAME%}%CONTINUE%
 
 ///////////////////// UNIQUE
 ItemDisplay[UNI !ID jew]:%SOUNDID-2664%%BORDER-62%%ORANGE%+%CORAL%+%SAGE%+ %RED%R %ORANGE%a %YELLOW%i %GREEN%n %BLUE%b %PURPLE%o %WHITE%w  %GOLD%F a c e t %SAGE%+%CORAL%+%ORANGE%+
