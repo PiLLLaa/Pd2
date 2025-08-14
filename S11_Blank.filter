@@ -3355,7 +3355,7 @@ ItemDisplay[SET !ID]:%GREEN%%NAME%%CONTINUE%
 //ItemDisplay[UNI !(7bs OR 7gd OR 7b8 OR 7p7 OR 9wc OR 7s8 OR 8s8 OR 6lw OR 6ws OR 7gw OR 7qr OR obc OR obf OR xh9 OR uap OR ulm OR usk OR uh9 OR urn OR uhl OR ci2 OR ci3 OR baa OR baf OR dra OR drb OR drd OR drf OR xth OR utp OR uul OR uth OR rar OR uit OR ush OR uts OR nea OR nee OR ned OR pa9 OR uvg OR umg OR utg OR uhg OR xtb OR umb OR utb OR ulc OR umc OR rbe OR ram OR 9gm OR 7m7 OR 7fb OR 9bl OR 7s7 OR 7gl OR 7ts OR 7pa OR 6l7 OR 8mx OR 8rx OR 7qs OR 8ws OR 6bs OR 6cs OR 9bw OR 7bw OR am7 OR amb OR am9 OR ame OR ama OR amf OR 9tw OR 7tw OR 7lw OR ob6 OR oba OR ba6 OR bae OR dr2 OR dre OR rng OR ltp OR xea OR xhn OR xlt OR xtp OR xul OR xar OR uui OR utu OR upl OR uld OR xow OR uow OR ne6 OR nef OR xhg OR xmb OR xhb OR ulb OR uvb OR uhb OR zlb OR zvb OR zhb OR uvc OR 7ws)]:%GOLD%%NAME%%CONTINUE%
 
 ItemDisplay[ETH NMAG !RW]:%PURPLE%[%WHITE%e%YELLOW%t%ORANGE%h%TEAL%] %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[ETH !NMAG !RW]:%PURPLE%[%WHITE%e%YELLOW%t%ORANGE%h%TEAL%] %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[ETH !NMAG !RW]:%WHITE%e%YELLOW%t%ORANGE%h %NAME%{%NAME%}%CONTINUE%
 
 ItemDisplay[SOCK=1 !RW]:%NAME% %TEAL%[1]{%NAME%}%CONTINUE%
 ItemDisplay[SOCK=2 !RW]:%NAME% %CORAL%[2]{%NAME%}%CONTINUE%
