@@ -3792,6 +3792,7 @@ ItemDisplay[(9tr OR 7tr OR 9st OR 7st OR 9p9 OR 7p7) !ETH MAG !ID FILTLVL>10]:
 ItemDisplay[(7mt OR 7wh) !ETH MAG !ID FILTLVL>10]:
 ItemDisplay[(oba OR obf) !ETH MAG !ID FILTLVL>10]:
 ItemDisplay[(6ws) !ETH MAG !ID FILTLVL>10]:
+ItemDisplay[(7ga) !ETH MAG !ID FILTLVL>10]:
 
 ItemDisplay[(clb OR 9cl OR 7cl OR spc OR 9sp OR 7sp) !ETH MAG !ID ILVL>50 FILTLVL>10]:
 
@@ -3840,6 +3841,9 @@ ItemDisplay[(oba OR obf) ETH MAG !ID]: %PURPLE%Eth %BLUE%%NAME%%NL%%GRAY%[craft 
 
 ItemDisplay[(6ws) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft staff]
 ItemDisplay[(6ws) ETH MAG !ID]: %PURPLE%Eth %BLUE%%NAME%%NL%%GRAY%[craft staff]
+
+ItemDisplay[(7ga) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft axe]
+ItemDisplay[(7ga) ETH MAG !ID]: %PURPLE%Eth %BLUE%%NAME%%NL%%GRAY%[craft axe]
 
 ItemDisplay[(clb OR 9cl OR 7cl OR spc OR 9sp OR 7sp) !ETH MAG !ID ILVL>50]:%BLUE%%NAME%%NL%%GRAY%[craft club]
 
