@@ -3917,9 +3917,9 @@ ItemDisplay[xrs NMAG !RW]:%DARK_GREEN%Cuirass%CONTINUE%
 
 //SHIELD
 ItemDisplay[uit NMAG !RW]:%DARK_GREEN%Monarch%CONTINUE%
-ItemDisplay[pab NMAG !RW]:%DARK_GREEN%Sacred Targe%CONTINUE%
-ItemDisplay[paf NMAG !RW]:%DARK_GREEN%Vortex Shield%CONTINUE%
-ItemDisplay[pac NMAG !RW]:%DARK_GREEN%Sacred Rondache%CONTINUE%
+ItemDisplay[pab NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Sacred Targe%CONTINUE%
+ItemDisplay[paf NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Vortex Shield%CONTINUE%
+ItemDisplay[pac NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Sacred Rondache%CONTINUE%
 ItemDisplay[uow NMAG !RW]:%DARK_GREEN%Aegis%CONTINUE%
 ItemDisplay[uts NMAG !RW]:%DARK_GREEN%Ward%CONTINUE%
 ItemDisplay[urg NMAG !RW]:%DARK_GREEN%Hyperion%CONTINUE%
@@ -3931,10 +3931,10 @@ ItemDisplay[pa2 NMAG !RW]:%DARK_GREEN%Rondache%CONTINUE%
 ItemDisplay[pa7 NMAG !RW]:%DARK_GREEN%Akaran Rondache%CONTINUE%
 ItemDisplay[pa3 NMAG !RW]:%DARK_GREEN%Heraldic Shield%CONTINUE%
 ItemDisplay[pa8 NMAG !RW]:%DARK_GREEN%Protector Shield%CONTINUE%
-ItemDisplay[pad NMAG !RW]:%DARK_GREEN%Kurast Shield%CONTINUE%
+ItemDisplay[pad NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Kurast Shield%CONTINUE%
 ItemDisplay[pa4 NMAG !RW]:%DARK_GREEN%Aerin Shield%CONTINUE%
 ItemDisplay[pa9 NMAG !RW]:%DARK_GREEN%Gilded Shield%CONTINUE%
-ItemDisplay[pae NMAG !RW]:%DARK_GREEN%Zakarum Shield%CONTINUE%
+ItemDisplay[pae NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Zakarum Shield%CONTINUE%
 ItemDisplay[pa5 NMAG !RW]:%DARK_GREEN%Crown Shield%CONTINUE%
 ItemDisplay[paa NMAG !RW]:%DARK_GREEN%Royal Shield%CONTINUE%
 
@@ -3953,13 +3953,13 @@ ItemDisplay[7fl NMAG !RW]:%DARK_GREEN%Scourge%CONTINUE%
 
 ItemDisplay[whm NMAG !RW]:%DARK_GREEN%War Hammer%CONTINUE%
 ItemDisplay[9wh NMAG !RW]:%DARK_GREEN%Battle Hammer%CONTINUE%
-ItemDisplay[7wh NMAG !RW]:%DARK_GREEN%Legendary Mallet%CONTINUE%
+ItemDisplay[7wh NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Legendary Mallet%CONTINUE%
 ItemDisplay[mau NMAG !RW]:%DARK_GREEN%Maul%CONTINUE%
 ItemDisplay[9m9 NMAG !RW]:%DARK_GREEN%War Club%CONTINUE%
-ItemDisplay[7m7 NMAG !RW]:%DARK_GREEN%Ogre Maul%CONTINUE%
+ItemDisplay[7m7 NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Ogre Maul%CONTINUE%
 ItemDisplay[gma NMAG !RW]:%DARK_GREEN%Great Maul%CONTINUE%
 ItemDisplay[9gm NMAG !RW]:%DARK_GREEN%Martel de Fer%CONTINUE%
-ItemDisplay[7gm NMAG !RW]:%DARK_GREEN%Thunder Maul%CONTINUE%
+ItemDisplay[7gm NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Thunder Maul%CONTINUE%
 
 //axe
 ItemDisplay[72a NMAG !RW]:%DARK_GREEN%Ettin Axe%CONTINUE%
@@ -3969,21 +3969,21 @@ ItemDisplay[7gi NMAG !RW]:%DARK_GREEN%Glorious Axe%CONTINUE%
 //SCEPTERS
 ItemDisplay[scp NMAG !RW]:%DARK_GREEN%Scepter%CONTINUE%
 ItemDisplay[9sc NMAG !RW]:%DARK_GREEN%Rune Scepter%CONTINUE%
-ItemDisplay[7sc NMAG !RW]:%DARK_GREEN%Mighty Scepter%CONTINUE%
+ItemDisplay[7sc NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Mighty Scepter%CONTINUE%
 ItemDisplay[gsc NMAG !RW]:%DARK_GREEN%Grand Scepter%CONTINUE%
 ItemDisplay[9qs NMAG !RW]:%DARK_GREEN%Holy Water Sprinkler%CONTINUE%
-ItemDisplay[7qs NMAG !RW]:%DARK_GREEN%Seraph Rod%CONTINUE%
+ItemDisplay[7qs NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Seraph Rod%CONTINUE%
 ItemDisplay[wsp NMAG !RW]:%DARK_GREEN%War Scepter%CONTINUE%
 ItemDisplay[9ws NMAG !RW]:%DARK_GREEN%Divine Scepter%CONTINUE%
-ItemDisplay[7ws NMAG !RW]:%DARK_GREEN%Caduceus%CONTINUE%
+ItemDisplay[7ws NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Caduceus%CONTINUE%
 
 //club 
 ItemDisplay[clb NMAG !RW]:%DARK_GREEN%Club%CONTINUE%
 ItemDisplay[9cl NMAG !RW]:%DARK_GREEN%Cudgel%CONTINUE%
-ItemDisplay[7cl NMAG !RW]:%DARK_GREEN%Truncheon%CONTINUE%
+ItemDisplay[7cl NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Truncheon%CONTINUE%
 ItemDisplay[spc NMAG !RW]:%DARK_GREEN%Spiked Club%CONTINUE%
 ItemDisplay[9sp NMAG !RW]:%DARK_GREEN%Barbed Club%CONTINUE%
-ItemDisplay[7sp NMAG !RW]:%DARK_GREEN%Tyrant Club%CONTINUE%
+ItemDisplay[7sp NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Tyrant Club%CONTINUE%
 
 //Polearm+SPEAR ALL
 ItemDisplay[7wc NMAG !RW]:%DARK_GREEN%Giant Thresher%CONTINUE%
@@ -4016,16 +4016,16 @@ ItemDisplay[7gs NMAG !RW]:%DARK_GREEN%Balrog Blade%CONTINUE%
 ItemDisplay[7ls NMAG !RW]:%DARK_GREEN%Cryptic Sword%CONTINUE%
 
 //Staves
-ItemDisplay[6ws NMAG !RW]:%DARK_GREEN%Archon Staff%CONTINUE%
+ItemDisplay[6ws NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Archon Staff%CONTINUE%
 ItemDisplay[lst NMAG !RW]:%DARK_GREEN%Long Staff%CONTINUE%
 ItemDisplay[8ls NMAG !RW]:%DARK_GREEN%Quarterstaff%CONTINUE%
-ItemDisplay[6ls NMAG !RW]:%DARK_GREEN%Stalagmite%CONTINUE%
+ItemDisplay[6ls NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Stalagmite%CONTINUE%
 ItemDisplay[cst NMAG !RW]:%DARK_GREEN%Gnarled Staff%CONTINUE%
 ItemDisplay[8cs NMAG !RW]:%DARK_GREEN%Cedar Staff%CONTINUE%
-ItemDisplay[6cs NMAG !RW]:%DARK_GREEN%Elder Staff%CONTINUE%
+ItemDisplay[6cs NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Elder Staff%CONTINUE%
 ItemDisplay[bst NMAG !RW]:%DARK_GREEN%Battle Staff%CONTINUE%
 ItemDisplay[8bs NMAG !RW]:%DARK_GREEN%Gothic Staff%CONTINUE%
-ItemDisplay[6bs NMAG !RW]:%DARK_GREEN%Shillelagh%CONTINUE%
+ItemDisplay[6bs NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Shillelagh%CONTINUE%
 ItemDisplay[wst NMAG !RW]:%DARK_GREEN%War Staff%CONTINUE%
 ItemDisplay[8ws NMAG !RW]:%DARK_GREEN%Rune Staff%CONTINUE%
 
@@ -4047,22 +4047,22 @@ ItemDisplay[wrb NMAG !RW]:%DARK_GREEN%Wrist Blade%CONTINUE%
 ItemDisplay[axf NMAG !RW]:%DARK_GREEN%Hatchet Hands%CONTINUE%
 ItemDisplay[ces NMAG !RW]:%DARK_GREEN%Cestus%CONTINUE%
 ItemDisplay[9ar NMAG !RW]:%DARK_GREEN%Quhab%CONTINUE%
-ItemDisplay[7ar NMAG !RW]:%DARK_GREEN%Suwayyah%CONTINUE%
+ItemDisplay[7ar NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Suwayyah%CONTINUE%
 ItemDisplay[9wb NMAG !RW]:%DARK_GREEN%Wrist Spike%CONTINUE%
-ItemDisplay[7wb NMAG !RW]:%DARK_GREEN%Wrist Sword%CONTINUE%
+ItemDisplay[7wb NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Wrist Sword%CONTINUE%
 ItemDisplay[9xf NMAG !RW]:%DARK_GREEN%Fascia%CONTINUE%
-ItemDisplay[7xf NMAG !RW]:%DARK_GREEN%War Fist%CONTINUE%
+ItemDisplay[7xf NMAG !RW]:%ORANGE%Eli %DARK_GREEN%War Fist%CONTINUE%
 ItemDisplay[9cs NMAG !RW]:%DARK_GREEN%Hand Scythe%CONTINUE%
-ItemDisplay[7cs NMAG !RW]:%DARK_GREEN%Battle Cestus%CONTINUE%
+ItemDisplay[7cs NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Battle Cestus%CONTINUE%
 ItemDisplay[clw NMAG !RW]:%DARK_GREEN%Claws%CONTINUE%
 ItemDisplay[9lw NMAG !RW]:%DARK_GREEN%Greater Claws%CONTINUE%
-ItemDisplay[7lw NMAG !RW]:%DARK_GREEN%Feral Claws%CONTINUE%
+ItemDisplay[7lw NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Feral Claws%CONTINUE%
 ItemDisplay[btl NMAG !RW]:%DARK_GREEN%Blade Talons%CONTINUE%
 ItemDisplay[9tw NMAG !RW]:%DARK_GREEN%Greater Talons%CONTINUE%
-ItemDisplay[7tw NMAG !RW]:%DARK_GREEN%Runic Talons%CONTINUE%
+ItemDisplay[7tw NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Runic Talons%CONTINUE%
 ItemDisplay[skr NMAG !RW]:%DARK_GREEN%Scissors Katar%CONTINUE%
 ItemDisplay[9qr NMAG !RW]:%DARK_GREEN%Scissors Quhab%CONTINUE%
-ItemDisplay[7qr NMAG !RW]:%DARK_GREEN%Scissors Suwayyah%CONTINUE%
+ItemDisplay[7qr NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Scissors Suwayyah%CONTINUE%
 
 //helmet
 ItemDisplay[msk NMAG !RW]:%DARK_GREEN%Mask%CONTINUE%
@@ -4140,7 +4140,7 @@ ItemDisplay[nef NMAG !RW]:%DARK_GREEN%Bloodlord Skull%CONTINUE%
 //Daggers
 ItemDisplay[kri NMAG !RW]:%DARK_GREEN%Kris%CONTINUE%
 ItemDisplay[9kr NMAG !RW]:%DARK_GREEN%Cinquedeas%CONTINUE%
-ItemDisplay[7kr NMAG !RW]:%DARK_GREEN%Fanged Knife%CONTINUE%
+ItemDisplay[7kr NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Fanged Knife%CONTINUE%
 
 //IDENTIFY
 ItemDisplay[(WEAPON OR ARMOR) !RW NMAG !SOCK=0]:%DARK_GREEN%%NAME% %PURPLE%[%SOCKETS%]%CONTINUE%
