@@ -5662,7 +5662,7 @@ ItemDisplay[(ci3 OR 7cr) !ETH NMAG (SOCK=0)]: %GRAY%%NAME%%ORANGE%(imbue)
 ItemDisplay[ci3 !ETH NMAG (SOCK=3)]: %GRAY%%NAME%
 
 //VENDING ITEM
-ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk OR 7dg OR 7di OR 9tk OR 9ta OR 9bk OR tkf OR tax OR bkf) !RW !ob5 !oba !obf PRICE>30000 DIFF>1]:%NAME%%ORANGE%[$%PRICE%]{%NL%%WHITE%*****        %RED%Sell this item for Money        %WHITE%*****%NL%%NAME%}
+ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk OR 7dg OR 7di OR 9tk OR 9ta OR 9bk OR tkf OR tax OR bkf) !RW !ob5 !oba !obf PRICE>30000 DIFF>1]:%ORANGE%[$%PRICE%]%NL%%NAME%{%NL%%WHITE%*****        %RED%Sell this item for Money        %WHITE%*****%NL%%NAME%}
 //ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>34999 DIFF>1]:%NAME%%ORANGE%[$%PRICE%]{%NAME%}
 ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>29999 DIFF=1]:%NAME%%ORANGE%[$%PRICE%]{%NAME%}
 ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>4999 DIFF=0]:%NAME%%ORANGE%[$%PRICE%]{%NAME%}
