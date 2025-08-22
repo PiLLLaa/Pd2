@@ -3893,9 +3893,9 @@ ItemDisplay[xrs NMAG !RW]:%GRAY%Cuirass%CONTINUE%
 
 //SHIELD
 ItemDisplay[uit NMAG !RW]:%GRAY%Monarch%CONTINUE%
-ItemDisplay[pab NMAG !RW]:%GRAY%Sacred Targe%CONTINUE%
-ItemDisplay[paf NMAG !RW]:%GRAY%Vortex Shield%CONTINUE%
-ItemDisplay[pac NMAG !RW]:%GRAY%Sacred Rondache%CONTINUE%
+ItemDisplay[pab NMAG !RW]:%ORANGE%Eli %GRAY%Sacred Targe%CONTINUE%
+ItemDisplay[paf NMAG !RW]:%ORANGE%Eli %GRAY%Vortex Shield%CONTINUE%
+ItemDisplay[pac NMAG !RW]:%ORANGE%Eli %GRAY%Sacred Rondache%CONTINUE%
 ItemDisplay[uow NMAG !RW]:%GRAY%Aegis%CONTINUE%
 ItemDisplay[uts NMAG !RW]:%GRAY%Ward%CONTINUE%
 ItemDisplay[urg NMAG !RW]:%GRAY%Hyperion%CONTINUE%
@@ -3907,10 +3907,10 @@ ItemDisplay[pa2 NMAG !RW]:%GRAY%Rondache%CONTINUE%
 ItemDisplay[pa7 NMAG !RW]:%GRAY%Akaran Rondache%CONTINUE%
 ItemDisplay[pa3 NMAG !RW]:%GRAY%Heraldic Shield%CONTINUE%
 ItemDisplay[pa8 NMAG !RW]:%GRAY%Protector Shield%CONTINUE%
-ItemDisplay[pad NMAG !RW]:%GRAY%Kurast Shield%CONTINUE%
+ItemDisplay[pad NMAG !RW]:%ORANGE%Eli %GRAY%Kurast Shield%CONTINUE%
 ItemDisplay[pa4 NMAG !RW]:%GRAY%Aerin Shield%CONTINUE%
 ItemDisplay[pa9 NMAG !RW]:%GRAY%Gilded Shield%CONTINUE%
-ItemDisplay[pae NMAG !RW]:%GRAY%Zakarum Shield%CONTINUE%
+ItemDisplay[pae NMAG !RW]:%ORANGE%Eli %GRAY%Zakarum Shield%CONTINUE%
 ItemDisplay[pa5 NMAG !RW]:%GRAY%Crown Shield%CONTINUE%
 ItemDisplay[paa NMAG !RW]:%GRAY%Royal Shield%CONTINUE%
 
@@ -3929,13 +3929,13 @@ ItemDisplay[7fl NMAG !RW]:%GRAY%Scourge%CONTINUE%
 
 ItemDisplay[whm NMAG !RW]:%GRAY%War Hammer%CONTINUE%
 ItemDisplay[9wh NMAG !RW]:%GRAY%Battle Hammer%CONTINUE%
-ItemDisplay[7wh NMAG !RW]:%GRAY%Legendary Mallet%CONTINUE%
+ItemDisplay[7wh NMAG !RW]:%ORANGE%Eli %GRAY%Legendary Mallet%CONTINUE%
 ItemDisplay[mau NMAG !RW]:%GRAY%Maul%CONTINUE%
 ItemDisplay[9m9 NMAG !RW]:%GRAY%War Club%CONTINUE%
-ItemDisplay[7m7 NMAG !RW]:%GRAY%Ogre Maul%CONTINUE%
+ItemDisplay[7m7 NMAG !RW]:%ORANGE%Eli %GRAY%Ogre Maul%CONTINUE%
 ItemDisplay[gma NMAG !RW]:%GRAY%Great Maul%CONTINUE%
 ItemDisplay[9gm NMAG !RW]:%GRAY%Martel de Fer%CONTINUE%
-ItemDisplay[7gm NMAG !RW]:%GRAY%Thunder Maul%CONTINUE%
+ItemDisplay[7gm NMAG !RW]:%ORANGE%Eli %GRAY%Thunder Maul%CONTINUE%
 
 //axe
 ItemDisplay[72a NMAG !RW]:%GRAY%Ettin Axe%CONTINUE%
@@ -3945,21 +3945,21 @@ ItemDisplay[7gi NMAG !RW]:%GRAY%Glorious Axe%CONTINUE%
 //SCEPTERS
 ItemDisplay[scp NMAG !RW]:%GRAY%Scepter%CONTINUE%
 ItemDisplay[9sc NMAG !RW]:%GRAY%Rune Scepter%CONTINUE%
-ItemDisplay[7sc NMAG !RW]:%GRAY%Mighty Scepter%CONTINUE%
+ItemDisplay[7sc NMAG !RW]:%ORANGE%Eli %GRAY%Mighty Scepter%CONTINUE%
 ItemDisplay[gsc NMAG !RW]:%GRAY%Grand Scepter%CONTINUE%
 ItemDisplay[9qs NMAG !RW]:%GRAY%Holy Water Sprinkler%CONTINUE%
-ItemDisplay[7qs NMAG !RW]:%GRAY%Seraph Rod%CONTINUE%
+ItemDisplay[7qs NMAG !RW]:%ORANGE%Eli %GRAY%Seraph Rod%CONTINUE%
 ItemDisplay[wsp NMAG !RW]:%GRAY%War Scepter%CONTINUE%
 ItemDisplay[9ws NMAG !RW]:%GRAY%Divine Scepter%CONTINUE%
-ItemDisplay[7ws NMAG !RW]:%GRAY%Caduceus%CONTINUE%
+ItemDisplay[7ws NMAG !RW]:%ORANGE%Eli %GRAY%Caduceus%CONTINUE%
 
 //club 
 ItemDisplay[clb NMAG !RW]:%GRAY%Club%CONTINUE%
 ItemDisplay[9cl NMAG !RW]:%GRAY%Cudgel%CONTINUE%
-ItemDisplay[7cl NMAG !RW]:%GRAY%Truncheon%CONTINUE%
+ItemDisplay[7cl NMAG !RW]:%ORANGE%Eli %GRAY%Truncheon%CONTINUE%
 ItemDisplay[spc NMAG !RW]:%GRAY%Spiked Club%CONTINUE%
 ItemDisplay[9sp NMAG !RW]:%GRAY%Barbed Club%CONTINUE%
-ItemDisplay[7sp NMAG !RW]:%GRAY%Tyrant Club%CONTINUE%
+ItemDisplay[7sp NMAG !RW]:%ORANGE%Eli %GRAY%Tyrant Club%CONTINUE%
 
 //Polearm+SPEAR ALL
 ItemDisplay[7wc NMAG !RW]:%GRAY%Giant Thresher%CONTINUE%
@@ -3976,7 +3976,7 @@ ItemDisplay[am9 NMAG !RW]:%GRAY%Ceremonial Pike%CONTINUE%
 ItemDisplay[7st NMAG !RW]:%GRAY%Ghost Spear%CONTINUE%
 //s10
 ItemDisplay[9sr NMAG !RW]:%GRAY%War Spear%CONTINUE%
-ItemDisplay[7sr NMAG !RW]:%GRAY%Hyperion Spear%CONTINUE%
+ItemDisplay[7sr NMAG !RW]:%ORANGE%Eli %GRAY%Hyperion Spear%CONTINUE%
 
 //sword(normal)
 ItemDisplay[crs NMAG !RW]:%GRAY%Crystal Sword%CONTINUE%
@@ -3992,16 +3992,16 @@ ItemDisplay[7gs NMAG !RW]:%GRAY%Balrog Blade%CONTINUE%
 ItemDisplay[7ls NMAG !RW]:%GRAY%Cryptic Sword%CONTINUE%
 
 //Staves
-ItemDisplay[6ws NMAG !RW]:%GRAY%Archon Staff%CONTINUE%
+ItemDisplay[6ws NMAG !RW]:%ORANGE%Eli %GRAY%Archon Staff%CONTINUE%
 ItemDisplay[lst NMAG !RW]:%GRAY%Long Staff%CONTINUE%
 ItemDisplay[8ls NMAG !RW]:%GRAY%Quarterstaff%CONTINUE%
-ItemDisplay[6ls NMAG !RW]:%GRAY%Stalagmite%CONTINUE%
+ItemDisplay[6ls NMAG !RW]:%ORANGE%Eli %GRAY%Stalagmite%CONTINUE%
 ItemDisplay[cst NMAG !RW]:%GRAY%Gnarled Staff%CONTINUE%
 ItemDisplay[8cs NMAG !RW]:%GRAY%Cedar Staff%CONTINUE%
-ItemDisplay[6cs NMAG !RW]:%GRAY%Elder Staff%CONTINUE%
+ItemDisplay[6cs NMAG !RW]:%ORANGE%Eli %GRAY%Elder Staff%CONTINUE%
 ItemDisplay[bst NMAG !RW]:%GRAY%Battle Staff%CONTINUE%
 ItemDisplay[8bs NMAG !RW]:%GRAY%Gothic Staff%CONTINUE%
-ItemDisplay[6bs NMAG !RW]:%GRAY%Shillelagh%CONTINUE%
+ItemDisplay[6bs NMAG !RW]:%ORANGE%Eli %GRAY%Shillelagh%CONTINUE%
 ItemDisplay[wst NMAG !RW]:%GRAY%War Staff%CONTINUE%
 ItemDisplay[8ws NMAG !RW]:%GRAY%Rune Staff%CONTINUE%
 
@@ -4023,22 +4023,22 @@ ItemDisplay[wrb NMAG !RW]:%GRAY%Wrist Blade%CONTINUE%
 ItemDisplay[axf NMAG !RW]:%GRAY%Hatchet Hands%CONTINUE%
 ItemDisplay[ces NMAG !RW]:%GRAY%Cestus%CONTINUE%
 ItemDisplay[9ar NMAG !RW]:%GRAY%Quhab%CONTINUE%
-ItemDisplay[7ar NMAG !RW]:%GRAY%Suwayyah%CONTINUE%
+ItemDisplay[7ar NMAG !RW]:%ORANGE%Eli %GRAY%Suwayyah%CONTINUE%
 ItemDisplay[9wb NMAG !RW]:%GRAY%Wrist Spike%CONTINUE%
-ItemDisplay[7wb NMAG !RW]:%GRAY%Wrist Sword%CONTINUE%
+ItemDisplay[7wb NMAG !RW]:%ORANGE%Eli %GRAY%Wrist Sword%CONTINUE%
 ItemDisplay[9xf NMAG !RW]:%GRAY%Fascia%CONTINUE%
-ItemDisplay[7xf NMAG !RW]:%GRAY%War Fist%CONTINUE%
+ItemDisplay[7xf NMAG !RW]:%ORANGE%Eli %GRAY%War Fist%CONTINUE%
 ItemDisplay[9cs NMAG !RW]:%GRAY%Hand Scythe%CONTINUE%
-ItemDisplay[7cs NMAG !RW]:%GRAY%Battle Cestus%CONTINUE%
+ItemDisplay[7cs NMAG !RW]:%ORANGE%Eli %GRAY%Battle Cestus%CONTINUE%
 ItemDisplay[clw NMAG !RW]:%GRAY%Claws%CONTINUE%
 ItemDisplay[9lw NMAG !RW]:%GRAY%Greater Claws%CONTINUE%
-ItemDisplay[7lw NMAG !RW]:%GRAY%Feral Claws%CONTINUE%
+ItemDisplay[7lw NMAG !RW]:%ORANGE%Eli %GRAY%Feral Claws%CONTINUE%
 ItemDisplay[btl NMAG !RW]:%GRAY%Blade Talons%CONTINUE%
 ItemDisplay[9tw NMAG !RW]:%GRAY%Greater Talons%CONTINUE%
-ItemDisplay[7tw NMAG !RW]:%GRAY%Runic Talons%CONTINUE%
+ItemDisplay[7tw NMAG !RW]:%ORANGE%Eli %GRAY%Runic Talons%CONTINUE%
 ItemDisplay[skr NMAG !RW]:%GRAY%Scissors Katar%CONTINUE%
 ItemDisplay[9qr NMAG !RW]:%GRAY%Scissors Quhab%CONTINUE%
-ItemDisplay[7qr NMAG !RW]:%GRAY%Scissors Suwayyah%CONTINUE%
+ItemDisplay[7qr NMAG !RW]:%ORANGE%Eli %GRAY%Scissors Suwayyah%CONTINUE%
 
 //helmet
 ItemDisplay[msk NMAG !RW]:%GRAY%Mask%CONTINUE%
@@ -4116,7 +4116,7 @@ ItemDisplay[nef NMAG !RW]:%GRAY%Bloodlord Skull%CONTINUE%
 //Daggers
 ItemDisplay[kri NMAG !RW]:%GRAY%Kris%CONTINUE%
 ItemDisplay[9kr NMAG !RW]:%GRAY%Cinquedeas%CONTINUE%
-ItemDisplay[7kr NMAG !RW]:%GRAY%Fanged Knife%CONTINUE%
+ItemDisplay[7kr NMAG !RW]:%ORANGE%Eli %GRAY%Fanged Knife%CONTINUE%
 
 //IDENTIFY
 ItemDisplay[(WEAPON OR ARMOR) !RW NMAG !SOCK=0]:%GRAY%%NAME% %WHITE%[%SOCKETS%]%CONTINUE%
