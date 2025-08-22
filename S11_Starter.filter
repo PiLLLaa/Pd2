@@ -3999,8 +3999,8 @@ ItemDisplay[ame NMAG !RW]:%DARK_GREEN%Matriarchal Pike%CONTINUE%
 ItemDisplay[am9 NMAG !RW]:%DARK_GREEN%Ceremonial Pike%CONTINUE%
 ItemDisplay[7st NMAG !RW]:%DARK_GREEN%Ghost Spear%CONTINUE%
 //s10
-ItemDisplay[9sr NMAG !RW]:%GRAY%War Spear%CONTINUE%
-ItemDisplay[7sr NMAG !RW]:%GRAY%Hyperion Spear%CONTINUE%
+ItemDisplay[9sr NMAG !RW]:%DARK_GREEN%War Spear%CONTINUE%
+ItemDisplay[7sr NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Hyperion Spear%CONTINUE%
 
 //sword(normal)
 ItemDisplay[crs NMAG !RW]:%DARK_GREEN%Crystal Sword%CONTINUE%
