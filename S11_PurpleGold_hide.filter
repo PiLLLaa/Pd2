@@ -4122,6 +4122,7 @@ ItemDisplay[7kr NMAG !RW]:%ORANGE%Eli %GRAY%Fanged Knife%CONTINUE%
 ItemDisplay[7dg NMAG !RW]:%GRAY%Bone Knife%CONTINUE%
 ItemDisplay[7di NMAG !RW]:%GRAY%Mithril Point%CONTINUE%
 ItemDisplay[ywn NMAG !RW]:%GRAY%Yew Wand%CONTINUE%
+ItemDisplay[Ob4 NMAG !RW]:%GRAY%Clasped Orb%CONTINUE%
 
 //IDENTIFY
 ItemDisplay[(WEAPON OR ARMOR) !RW NMAG !SOCK=0]:%GRAY%%NAME% %WHITE%[%SOCKETS%]%CONTINUE%
