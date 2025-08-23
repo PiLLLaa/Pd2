@@ -2565,7 +2565,9 @@ ItemDisplay[(aqv OR cqv) RARE ID]:%NAME%{%GRAY%And...Skill+ManaLeech+MagicFind%N
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                            RARE                                             //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-
+ItemDisplay[RARE (WEAPON OR ARMOR) !ID ELT]:%ORANGE%El - %YELLOW%%NAME%%CONTINUE%
+ItemDisplay[RARE (WEAPON OR ARMOR) !ID EXC]:%YELLOW%Ex - %YELLOW%%NAME%%CONTINUE%
+ItemDisplay[RARE (WEAPON OR ARMOR) !ID NORM]:%WHITE%N - %YELLOW%%NAME%%CONTINUE%
 ItemDisplay[RARE (mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm OR flb OR 9fb OR 7fb) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %YELLOW%%NAME%    %GREEN%*%SAGE%*%BLUE%*%PURPLE%*
 ItemDisplay[RARE (gsd OR 9gd OR 7gd OR glv OR 9gl OR 7gl OR pil OR 9pi OR 7pi OR tsp OR 9ts OR 7ts) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %YELLOW%%NAME%    %GREEN%*%SAGE%*%BLUE%*%PURPLE%*
 ItemDisplay[RARE (am5 OR ama OR amf OR whm OR 9wh OR 7wh) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %YELLOW%%NAME%    %GREEN%*%SAGE%*%BLUE%*%PURPLE%*
@@ -2573,6 +2575,9 @@ ItemDisplay[RARE (CL5) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHIT
 
 ItemDisplay[RARE (EQ4) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %GREEN%*%SAGE%*%BLUE%*%PURPLE%*
 ItemDisplay[RARE (EQ5) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %GREEN%*%SAGE%*%BLUE%*%PURPLE%*
+
+ItemDisplay[RARE (CL4) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
+
 ItemDisplay[RARE (am2 OR am7 OR amc OR lwb OR 8lw OR 6lw OR WP10) !ETH !ID]: %DOT-75%%GREEN%*%CORAL%*%PURPLE%*%WHITE%*    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %GREEN%*%CORAL%*%PURPLE%*%WHITE%*
 ItemDisplay[RARE (WEAPON OR ARMOR) !ETH !ID]: %YELLOW%%NAME%
 ItemDisplay[RARE (WEAPON OR ARMOR) ETH !ID]: %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %YELLOW%%NAME%
@@ -4026,6 +4031,8 @@ ItemDisplay[7dg NMAG !RW]:%GRAY%Bone Knife%CONTINUE%
 ItemDisplay[7di NMAG !RW]:%GRAY%Mithril Point%CONTINUE%
 ItemDisplay[ywn NMAG !RW]:%GRAY%Yew Wand%CONTINUE%
 ItemDisplay[ob4 NMAG !RW]:%GRAY%Clasped Orb%CONTINUE%
+ItemDisplay[ob3 NMAG !RW]:%GRAY%Smoked Sphere%CONTINUE%
+ItemDisplay[7ta NMAG !RW]:%GRAY%Flying Axe%CONTINUE%
 
 ItemDisplay[(WEAPON OR ARMOR) !RW NMAG SOCK=0]:%GRAY%%NAME%%CONTINUE%
 
