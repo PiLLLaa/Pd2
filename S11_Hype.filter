@@ -3036,6 +3036,9 @@ ItemDisplay[UNI !ID nef !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%Darkforce Spawn%PURPLE
 ItemDisplay[UNI !ID nef ETH]:%DOT-0C%%GOLD%@%RED%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Darkforce Spawn%PURPLE%[%GRAY%Bloodlord Skull%PURPLE%] %GRAY%-EL-   %GOLD%@%RED%@
 ItemDisplay[UNI !ID 7ws !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%Astreon's Iron Ward%PURPLE%[%GRAY%Caduceus%PURPLE%] %GRAY%-EL-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID 7ws ETH]:%DOT-0C%%GOLD%@%RED%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Astreon's Iron Ward%PURPLE%[%GRAY%Caduceus%PURPLE%] %GRAY%-EL-  %ORANGE%+%WHITE%+
+ItemDisplay[UNI !ID xhm !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%Valkyrie Wing%PURPLE%[%GRAY%Winged Helm%PURPLE%] %GRAY%-EX-  %RED%@%GOLD%@
+ItemDisplay[UNI !ID xhm ETH]:%DOT-0C%%GOLD%@%RED%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Valkyrie Wing%PURPLE%[%GRAY%Winged Helm%PURPLE%] %GRAY%-EX-  %RED%@%GOLD%@
+
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%%NAME%    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID jew]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%R%ORANGE%a%YELLOW%i%GREEN%n%BLUE%b%PURPLE%o%WHITE%w %GOLD%Facet    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
@@ -3081,8 +3084,6 @@ ItemDisplay[UNI !ID xlm !ETH]:%ORANGE%@%WHITE%@  %TAN%Stealskull%PURPLE%[%GRAY%C
 ItemDisplay[UNI !ID xlm ETH]:%ORANGE%@%WHITE%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Stealskull%PURPLE%[%GRAY%Casque%PURPLE%] %GRAY%-EX-  %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID xhl !ETH]:%ORANGE%@%WHITE%@  %TAN%Darksight Helm%PURPLE%[%GRAY%Basinet%PURPLE%] %GRAY%-EX-  %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID xhl ETH]:%ORANGE%@%WHITE%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Darksight Helm%PURPLE%[%GRAY%Basinet%PURPLE%] %GRAY%-EX-  %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID xhm !ETH]:%ORANGE%@%WHITE%@  %TAN%Valkyrie Wing%PURPLE%[%GRAY%Winged Helm%PURPLE%] %GRAY%-EX-  %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID xhm ETH]:%ORANGE%@%WHITE%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Valkyrie Wing%PURPLE%[%GRAY%Winged Helm%PURPLE%] %GRAY%-EX-  %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID xsk !ETH]:%ORANGE%@%WHITE%@  %TAN%Blackhorn's Face%PURPLE%[%GRAY%Death Mask%PURPLE%] %GRAY%-EX-  %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID xsk ETH]:%ORANGE%@%WHITE%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Blackhorn's Face%PURPLE%[%GRAY%Death Mask%PURPLE%] %GRAY%-EX-  %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID xrn !ETH]:%ORANGE%@%WHITE%@  %TAN%Crown of Thieves%PURPLE%[%GRAY%Grand Crown%PURPLE%] %GRAY%-EX-  %ORANGE%@%WHITE%@
