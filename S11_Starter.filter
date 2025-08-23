@@ -3127,6 +3127,9 @@ ItemDisplay[UNI !ID nef !ETH]:%DOT-0C%%GOLD%@@  %RED%Darkforce Spawn%GOLD%[Blood
 ItemDisplay[UNI !ID nef ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Darkforce Spawn%GOLD%[Bloodlord Skull] %ORANGE%(EL)  %GOLD%@@
 ItemDisplay[UNI !ID 7ws !ETH]:%DOT-0C%%GOLD%@@  %RED%Astreon's Iron Ward%GOLD%[Caduceus] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID 7ws ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Astreon's Iron Ward%GOLD%[Caduceus] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID xhm !ETH]:%DOT-0C%%GOLD%@@  %RED%Valkyrie Wing%GOLD%[Winged Helm] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xhm ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Valkyrie Wing%GOLD%[Winged Helm] %ORANGE%(EX) %GOLD%@@
+
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%%NAME%    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID jew]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%R%ORANGE%a%YELLOW%i%GREEN%n%BLUE%b%PURPLE%o%WHITE%w %GOLD%Facet    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
@@ -3172,8 +3175,6 @@ ItemDisplay[UNI !ID xlm !ETH]:%ORANGE%@@  %TAN%Stealskull%GOLD%[Casque] %ORANGE%
 ItemDisplay[UNI !ID xlm ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Stealskull%GOLD%[Casque] %ORANGE%(EX) %ORANGE%@@
 ItemDisplay[UNI !ID xhl !ETH]:%ORANGE%@@  %TAN%Darksight Helm%GOLD%[Basinet] %ORANGE%(EX) %ORANGE%@@
 ItemDisplay[UNI !ID xhl ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Darksight Helm%GOLD%[Basinet] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID xhm !ETH]:%ORANGE%@@  %TAN%Valkyrie Wing%GOLD%[Winged Helm] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID xhm ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Valkyrie Wing%GOLD%[Winged Helm] %ORANGE%(EX) %ORANGE%@@
 ItemDisplay[UNI !ID xsk !ETH]:%ORANGE%@@  %TAN%Blackhorn's Face%GOLD%[Death Mask] %ORANGE%(EX) %ORANGE%@@
 ItemDisplay[UNI !ID xsk ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Blackhorn's Face%GOLD%[Death Mask] %ORANGE%(EX) %ORANGE%@@
 ItemDisplay[UNI !ID xrn !ETH]:%ORANGE%@@  %TAN%Crown of Thieves%GOLD%[Grand Crown] %ORANGE%(EX) %ORANGE%@@
