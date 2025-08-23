@@ -2600,9 +2600,9 @@ ItemDisplay[(aqv OR cqv) RARE ID]:%NAME%{%GRAY%And...Skill+ManaLeech+MagicFind%N
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                            RARE                                             //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-//ItemDisplay[RARE (WEAPON OR ARMOR) !ID ELT]:%YELLOW%(el) %NAME%%CONTINUE%
-//ItemDisplay[RARE (WEAPON OR ARMOR) !ID EXC]:%YELLOW%(ex) %NAME%%CONTINUE%
-//ItemDisplay[RARE (WEAPON OR ARMOR) !ID NORM]:%YELLOW%(n) %NAME%%CONTINUE%
+ItemDisplay[RARE (WEAPON OR ARMOR) !ID ELT]:%ORANGE%El - %YELLOW%%NAME%%CONTINUE%
+ItemDisplay[RARE (WEAPON OR ARMOR) !ID EXC]:%YELLOW%Ex - %YELLOW%%NAME%%CONTINUE%
+ItemDisplay[RARE (WEAPON OR ARMOR) !ID NORM]:%WHITE%N - %YELLOW%%NAME%%CONTINUE%
 //ItemDisplay[RARE (WP1) !tax !9ta !7ta !bal !9b8 !7b8 !ETH !ID]: %YELLOW%%NAME%: Axe%CONTINUE%
 //ItemDisplay[RARE (clb OR 9cl OR 7cl OR spc OR 9sp OR 7sp) !ETH !ID]: %YELLOW%%NAME%: Club%CONTINUE%
 //ItemDisplay[RARE (fla OR 9fl OR 7fl) !ETH !ID]: %YELLOW%%NAME%: Flail%CONTINUE%
@@ -2665,6 +2665,9 @@ ItemDisplay[RARE (CL5) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %Y
 
 ItemDisplay[RARE (EQ4) !ETH !ID]:%DOT-75%%GREEN%*%TEAL%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%TEAL%*
 ItemDisplay[RARE (EQ5) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
+
+ItemDisplay[RARE (CL4) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
+
 //ItemDisplay[RARE (EQ6) ETH !ID]:%PURPLE%Eth %YELLOW%%NAME%: Belt%CONTINUE%
 //ItemDisplay[RARE (EQ7) ETH !ID]:%PURPLE%Eth %YELLOW%%NAME%: Circ%CONTINUE%
 ItemDisplay[RARE (am2 OR am7 OR amc OR lwb OR 8lw OR 6lw OR WP10) !ETH !ID]: %DOT-75%%GREEN%*%CORAL%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%CORAL%*
@@ -4147,7 +4150,9 @@ ItemDisplay[7dg NMAG !RW]:%DARK_GREEN%Bone Knife%CONTINUE%
 ItemDisplay[7di NMAG !RW]:%DARK_GREEN%Mithril Point%CONTINUE%
 ItemDisplay[ywn NMAG !RW]:%DARK_GREEN%Yew Wand%CONTINUE%
 ItemDisplay[ob4 NMAG !RW]:%DARK_GREEN%Clasped Orb%CONTINUE%
-
+ItemDisplay[ob3 NMAG !RW]:%DARK_GREEN%Smoked Sphere%CONTINUE%
+ItemDisplay[7ta NMAG !RW]:%DARK_GREEN%Flying Axe%CONTINUE%
+	
 //IDENTIFY
 ItemDisplay[(WEAPON OR ARMOR) !RW NMAG !SOCK=0]:%DARK_GREEN%%NAME% %PURPLE%[%SOCKETS%]%CONTINUE%
 ItemDisplay[(WEAPON OR ARMOR) !RW NMAG SOCK=0]:%DARK_GREEN%%NAME%%CONTINUE%
