@@ -3638,6 +3638,7 @@ ItemDisplay[UNI !ID 7cm !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Leoric
 ItemDisplay[UNI !ID 7bk !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Warshrike    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID ama !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Titans Revenge    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID rng !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Darkglow    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID xhm !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Valkyrie Wing    %SAGE%++%CORAL%++%ORANGE%++
 
 ItemDisplay[UNI !ID 7gm ETH]:%RED%++%PURPLE%++%ORANGE%++%CORAL%++%SAGE%++ %DOT-0C%%WHITE%(e) %RED%TheCraniumBasher %TAN%Or %GREEN%EarthShifter %SAGE%++%CORAL%++%ORANGE%++%PURPLE%++%RED%++
 ItemDisplay[UNI !ID 7s8 ETH]:%RED%++%PURPLE%++%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%The Reapers Toll    %SAGE%++%CORAL%++%ORANGE%++%PURPLE%++%RED%++
@@ -3690,6 +3691,7 @@ ItemDisplay[UNI !ID 7cr ETH]:%ORANGE%++%CORAL%++%SAGE%++  %DOT-0C%%WHITE%(e) %RE
 ItemDisplay[UNI !ID 7cm ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Leoric's Mithril Bane    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 7bk ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Warshrike    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID rng ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Darkglow    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID xhm ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Valkyrie Wing    %SAGE%++%CORAL%++%ORANGE%++
 
 ItemDisplay[UNI !ID 9s8]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Athena's Wrath%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID 9ls]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Plague Bearer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
@@ -3705,7 +3707,6 @@ ItemDisplay[UNI !ID amd]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Stoneraven%PUR
 ItemDisplay[UNI !ID pac]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%AlmaNegra%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID fld]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %DOT-0C%%TAN%Rockfleece%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID xlm]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Stealskull%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID xhm]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Valkyrie Wing%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID ful]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %DOT-0C%%TAN%Goldskin%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID xlg]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Venom Grip%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID xvg]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Gravepalm%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
