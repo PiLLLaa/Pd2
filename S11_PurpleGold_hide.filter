@@ -3095,6 +3095,8 @@ ItemDisplay[UNI !ID nef !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Dar
 ItemDisplay[UNI !ID nef ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %PURPLE%Eth %RED%Darkforce Spawn%GOLD%[Bloodlord Skull] %ORANGE%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 7ws !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Astreon's Iron Ward%GOLD%[Caduceus] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 7ws ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Astreon's Iron Ward%GOLD%[Caduceus] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID xhm !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Valkyrie Wing%GOLD%[Winged Helm] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID xhm ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Valkyrie Wing%GOLD%[Winged Helm] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@ %RED%%NAME% %PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@
@@ -3141,8 +3143,6 @@ ItemDisplay[UNI !ID xlm !ETH]:%ORANGE%@%WHITE%@  %TAN%Stealskull%GOLD%[Casque] %
 ItemDisplay[UNI !ID xlm ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Stealskull%GOLD%[Casque] %GRAY%(EX) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID xhl !ETH]:%ORANGE%@%WHITE%@  %TAN%Darksight Helm%GOLD%[Basinet] %GRAY%(EX) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID xhl ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Darksight Helm%GOLD%[Basinet] %GRAY%(EX) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID xhm !ETH]:%ORANGE%@%WHITE%@  %TAN%Valkyrie Wing%GOLD%[Winged Helm] %GRAY%(EX) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID xhm ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Valkyrie Wing%GOLD%[Winged Helm] %GRAY%(EX) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID xsk !ETH]:%ORANGE%@%WHITE%@  %TAN%Blackhorn's Face%GOLD%[Death Mask] %GRAY%(EX) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID xsk ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Blackhorn's Face%GOLD%[Death Mask] %GRAY%(EX) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID xrn !ETH]:%ORANGE%@%WHITE%@  %TAN%Crown of Thieves%GOLD%[Grand Crown] %GRAY%(EX) %ORANGE%@%WHITE%@
