@@ -4146,7 +4146,7 @@ ItemDisplay[7kr NMAG !RW]:%ORANGE%Eli %DARK_GREEN%Fanged Knife%CONTINUE%
 ItemDisplay[7dg NMAG !RW]:%DARK_GREEN%Bone Knife%CONTINUE%
 ItemDisplay[7di NMAG !RW]:%DARK_GREEN%Mithril Point%CONTINUE%
 ItemDisplay[ywn NMAG !RW]:%DARK_GREEN%Yew Wand%CONTINUE%
-
+ItemDisplay[Ob4 NMAG !RW]:%DARK_GREEN%Clasped Orb%CONTINUE%
 
 //IDENTIFY
 ItemDisplay[(WEAPON OR ARMOR) !RW NMAG !SOCK=0]:%DARK_GREEN%%NAME% %PURPLE%[%SOCKETS%]%CONTINUE%
