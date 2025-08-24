@@ -2565,9 +2565,9 @@ ItemDisplay[(aqv OR cqv) RARE ID]:%NAME%{%GRAY%And...Skill+ManaLeech+MagicFind%N
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                            RARE                                             //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[RARE (WEAPON OR ARMOR) !ID ELT]:%ORANGE%El - %YELLOW%%NAME%%CONTINUE%
-ItemDisplay[RARE (WEAPON OR ARMOR) !ID EXC]:%WHITE%Ex - %YELLOW%%NAME%%CONTINUE%
-ItemDisplay[RARE (WEAPON OR ARMOR) !ID NORM]:%YELLOW%N - %YELLOW%%NAME%%CONTINUE%
+ItemDisplay[RARE (WEAPON OR ARMOR) !ID ELT]:%ORANGE%El-%YELLOW%%NAME%%CONTINUE%
+ItemDisplay[RARE (WEAPON OR ARMOR) !ID EXC]:%YELLOW%Ex-%YELLOW%%NAME%%CONTINUE%
+ItemDisplay[RARE (WEAPON OR ARMOR) !ID NORM]:%GRAY%n-%YELLOW%%NAME%%CONTINUE%
 ItemDisplay[RARE (mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm OR flb OR 9fb OR 7fb) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %YELLOW%%NAME%    %GREEN%*%SAGE%*%BLUE%*%PURPLE%*
 ItemDisplay[RARE (gsd OR 9gd OR 7gd OR glv OR 9gl OR 7gl OR pil OR 9pi OR 7pi OR tsp OR 9ts OR 7ts) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %YELLOW%%NAME%    %GREEN%*%SAGE%*%BLUE%*%PURPLE%*
 ItemDisplay[RARE (am5 OR ama OR amf OR whm OR 9wh OR 7wh) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %YELLOW%%NAME%    %GREEN%*%SAGE%*%BLUE%*%PURPLE%*
