@@ -2573,8 +2573,8 @@ ItemDisplay[(aqv OR cqv) RARE ID]:%NAME%{%GRAY%And...Skill+ManaLeech+MagicFind%N
 //                                            RARE                                             //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[RARE (WEAPON OR ARMOR) !ID ELT]:%ORANGE%El - %YELLOW%%NAME%%CONTINUE%
-ItemDisplay[RARE (WEAPON OR ARMOR) !ID EXC]:%YELLOW%Ex - %YELLOW%%NAME%%CONTINUE%
-ItemDisplay[RARE (WEAPON OR ARMOR) !ID NORM]:%WHITE%N - %YELLOW%%NAME%%CONTINUE%
+ItemDisplay[RARE (WEAPON OR ARMOR) !ID EXC]:%WHITE%Ex - %YELLOW%%NAME%%CONTINUE%
+ItemDisplay[RARE (WEAPON OR ARMOR) !ID NORM]:%YELLOW%N - %YELLOW%%NAME%%CONTINUE%
 //ItemDisplay[RARE (WP1) !tax !9ta !7ta !bal !9b8 !7b8 !ETH !ID]: %YELLOW%%NAME%: Axe%CONTINUE%
 //ItemDisplay[RARE (clb OR 9cl OR 7cl OR spc OR 9sp OR 7sp) !ETH !ID]: %YELLOW%%NAME%: Club%CONTINUE%
 //ItemDisplay[RARE (fla OR 9fl OR 7fl) !ETH !ID]: %YELLOW%%NAME%: Flail%CONTINUE%
