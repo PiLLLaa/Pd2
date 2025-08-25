@@ -4155,6 +4155,9 @@ ItemDisplay[ob4 NMAG !RW]:%DARK_GREEN%Clasped Orb%CONTINUE%
 ItemDisplay[ob3 NMAG !RW]:%DARK_GREEN%Smoked Sphere%CONTINUE%
 ItemDisplay[7ta NMAG !RW]:%DARK_GREEN%Flying Axe%CONTINUE%
 ItemDisplay[9wn NMAG !RW]:%DARK_GREEN%Burnt Wand%CONTINUE%
+ItemDisplay[ob7 NMAG !RW]:%DARK_GREEN%Crystalline Globe%CONTINUE%
+ItemDisplay[obc NMAG !RW]:%DARK_GREEN%Eldritch Orb%CONTINUE%
+ItemDisplay[obd NMAG !RW]:%DARK_GREEN%Demon Heart%CONTINUE%
 	
 //IDENTIFY
 ItemDisplay[(WEAPON OR ARMOR) !RW NMAG !SOCK=0]:%DARK_GREEN%%NAME% %PURPLE%[%SOCKETS%]%CONTINUE%
