@@ -3402,8 +3402,10 @@ ItemDisplay[UNI ID rin]:%CORAL%R i n g%NL%%NAME%%CONTINUE%
 ItemDisplay[UNI ID amu]:%TEAL%A m u l e t%NL%%NAME%%CONTINUE%
 ItemDisplay[SET ID rin]:%CORAL%R i n g%NL%%NAME%%CONTINUE%
 ItemDisplay[SET ID amu]:%TEAL%A m u l e t%NL%%NAME%%CONTINUE%
-ItemDisplay[SET rin !ID]:%GREEN%R i n g%CONTINUE%
-ItemDisplay[SET amu !ID]:%GREEN%A m u l e t%CONTINUE%
+//ItemDisplay[SET rin !ID]:%GREEN%R i n g%CONTINUE%
+//ItemDisplay[SET amu !ID]:%GREEN%A m u l e t%CONTINUE%
+ItemDisplay[SET rin !ID]:%GREEN%Ring%CONTINUE%
+ItemDisplay[SET amu !ID]:%GREEN%Amulet%CONTINUE%
 
 //ItemDisplay[UNI !ID cm1]:%BORDER-62%%BORDER-62%%TAN%A %ORANGE%n %GOLD%n %WHITE%i %GOLD%h %ORANGE%i %TAN%l %GOLD%i %ORANGE%u %WHITE%s
 //ItemDisplay[UNI !ID cm2]:%BORDER-62%%BORDER-62%%TAN%H %ORANGE%e %GOLD%l %WHITE%l %GOLD%f %ORANGE%i %TAN%r %GOLD%e  %ORANGE%T %WHITE%o %GOLD%r %TAN%c h
@@ -4094,8 +4096,8 @@ ItemDisplay[SET !ID (xhl OR 7ls OR upl) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PU
 ItemDisplay[SET !ID (7fb OR 7gd) ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Bul-Kathos' Children] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
 
 ItemDisplay[(WEAPON OR ARMOR) SET !ID]:%GREEN%+%PURPLE%+       %GREEN%%NAME%       %PURPLE%+%GREEN%+
-ItemDisplay[SET !ID amu]: %DOT-84%%PURPLE%++    %GREEN%%NAME%    %PURPLE%++
-ItemDisplay[SET !ID rin]: %DOT-84%%PURPLE%++    %GREEN%%NAME%    %PURPLE%++
+ItemDisplay[SET !ID amu]: %DOT-84%%PURPLE%++++    %GREEN%%NAME%    %PURPLE%++++
+ItemDisplay[SET !ID rin]: %DOT-84%%PURPLE%++++    %GREEN%%NAME%    %PURPLE%++++
 
 //ItemDisplay[(WEAPON OR ARMOR OR rar OR rbe OR ram) UNI ID]:%NAME%{%NAME%}%CONTINUE%
 //ItemDisplay[(WEAPON OR ARMOR) SET ID]:%NAME%{%NAME%}%CONTINUE%
