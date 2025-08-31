@@ -1348,8 +1348,8 @@ ItemDisplay[t28 NMAG]:%GRAY%Skovos Stronghold %WHITE%Map%CONTINUE%
 ItemDisplay[t27 MAG]:%BLUE%Demon Road %WHITE%Map%CONTINUE%
 ItemDisplay[t28 MAG]:%BLUE%Skovos Stronghol %WHITE%Map%CONTINUE%
 
-ItemDisplay[t27 NMAG]:%YELLOW%Demon %GOLD%Road %WHITE%Map%CONTINUE%
-ItemDisplay[t28 NMAG]:%YELLOW%Skovos %ORANGE%Stronghold %WHITE%Map%CONTINUE%
+ItemDisplay[t27 RARE]:%YELLOW%Demon %GOLD%Road %WHITE%Map%CONTINUE%
+ItemDisplay[t28 RARE]:%YELLOW%Skovos %ORANGE%Stronghold %WHITE%Map%CONTINUE%
 //S11 Maps
 ItemDisplay[t17 NMAG]:%GRAY%Halls of Torture %WHITE%Map%CONTINUE%
 ItemDisplay[t17 MAG]:%BLUE%Halls of Torture %WHITE%Map%CONTINUE%
