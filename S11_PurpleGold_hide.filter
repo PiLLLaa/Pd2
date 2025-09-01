@@ -6870,8 +6870,6 @@ ItemDisplay[UNI uui ID SK369>0]:%TEAL%IceB %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[UNI uui ID SK376>0]:%RED%Comb %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[UNI (EQ2 OR EQ3) ID STAT504>0]:%WHITE%%STAT504%%cr %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[UNI amu ID STAT121>0]:%WHITE%%STAT121%% %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[SET ulg ID STAT121>0]:%WHITE%%STAT121%% %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[SET (EQ1 OR EQ2) ID RES>0]:%WHITE%%RES%%res %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[UNI ID hgl STAT333>0 STAT335>0]:%CORAL%%STAT333%%+%SAGE%%STAT335%% %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[UNI ID uvg STAT60>0 STAT86>0]:%CORAL%%STAT60%%+%SAGE%%STAT86%% %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[UNI ID zhb STAT51>0]:%WHITE%%STAT51% %NAME%{%NAME%}%CONTINUE%
@@ -6899,6 +6897,10 @@ ItemDisplay[UNI ID rin STAT60>0]:%CORAL%%STAT60%ll %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[UNI ID rin STAT40>0 STAT42>0 STAT44>0 STAT46>0]:%CORAL%%STAT40%/%STAT42%/%STAT44%/%STAT46% %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[UNI ID rin STAT144>0]:%CORAL%%STAT144%%la %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[UNI ID rin STAT86>0]:%CORAL%%STAT86%%lk %NAME%{%NAME%}%CONTINUE%
+
+ItemDisplay[SET ulg ID STAT121>0]:%WHITE%%STAT121%% %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[SET (EQ1 OR EQ2) ID RES>0]:%WHITE%%RES%%res %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[SET uth ID MFIND>0]:%GREEN%%MFIND%%mf %NAME%{%NAME%}%CONTINUE%
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                       CORRUPTED MARKING AND CRAFTING AMULET                                //
