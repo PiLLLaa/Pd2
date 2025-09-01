@@ -380,6 +380,11 @@ ItemDisplay[GOLD<4999 CLVL>60]:
 /////////////////////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[INF WEAPON NMAG]:
 ItemDisplay[INF ARMOR NMAG]:
+ItemDisplay[MAG]:%BLUE%%NAME%{%NAME%}%CONTINUE%
+ItemDisplay[RARE]:%YELLOW%%NAME%{%NAME%}%CONTINUE%
+ItemDisplay[CRAFT]:%ORANGE%%NAME%{%NAME%}%CONTINUE%
+ItemDisplay[SET]:%GREEN%%NAME%{%NAME%}%CONTINUE%
+ItemDisplay[UNI]:%GOLD%%NAME%{%NAME%}%CONTINUE%
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                     Charms/JEWELS                                           //
 /////////////////////////////////////////////////////////////////////////////////////////////////
