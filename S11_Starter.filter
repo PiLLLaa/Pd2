@@ -6978,7 +6978,7 @@ ItemDisplay[UNI (EQ2 OR EQ3) ID STAT504>0]:%WHITE%%STAT504%%cr %NAME%{%NAME%}%CO
 ItemDisplay[UNI amu ID STAT121>0]:%WHITE%%STAT121%% %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[UNI ID hgl STAT333>0 STAT335>0]:%CORAL%%STAT333%%+%SAGE%%STAT335%% %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[UNI ID uvg STAT60>0 STAT86>0]:%CORAL%%STAT60%%+%SAGE%%STAT86%% %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[UNI ID zhb STAT51>0]:%WHITE%%STAT51% %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[UNI ID zhb STAT51>0]:%WHITE%%STAT51%l %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[UNI ID (uow OR zmb OR ulc) FCR>0]:%WHITE%%FCR%%fc %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[UNI ID uts CLSK0>0]:%SAGE%Ama %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[UNI ID uts CLSK1>0]:%WHITE%Sor %NAME%{%NAME%}%CONTINUE%
@@ -7004,9 +7004,20 @@ ItemDisplay[UNI ID rin STAT40>0 STAT42>0 STAT44>0 STAT46>0]:%CORAL%%STAT40%/%STA
 ItemDisplay[UNI ID rin STAT144>0]:%CORAL%%STAT144%%la %NAME%{%NAME%}%CONTINUE%
 ItemDisplay[UNI ID rin STAT86>0]:%CORAL%%STAT86%%lk %NAME%{%NAME%}%CONTINUE%
 
-ItemDisplay[SET ulg ID STAT121>0]:%WHITE%%STAT121%% %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[SET (EQ1 OR EQ2) ID RES>0]:%WHITE%%RES%%res %NAME%{%NAME%}%CONTINUE%
-ItemDisplay[SET uth ID MFIND>0]:%GREEN%%MFIND%%mf %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[SET (ulg OR upl OR 9mt) ID STAT121>0]:%WHITE%%STAT121%%dd %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[SET (EQ1 OR EQ2 OR paf) ID RES>0]:%WHITE%%RES%%res %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[SET (uth OR kit OR bhm OR ful OR urn OR zmb) ID MFIND>0]:%CORAL%%MFIND%%mf %NAME%{%NAME%}%CONTINUE%
+//ItemDisplay[SET (wsd OR lbb OR wst OR 9vo OR 7ls OR 7fb OR 7gd OR 7ws OR 7m7 OR amc OR 7qr) ID EDAM>0]:%CORAL%%EDAM%%ed %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[SET (fhl OR gsc OR sbr) ID MAXDMG>0]:%ORANGE%%MAXDMG%dm %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[SET (msk OR zvb) ID STAT62>0]:%TEAL%%STAT62%%ml %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[SET (lbt OR mpi OR rin) ID STAT36>0]:%WHITE%%STAT36%%pd %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[SET ID STAT144>0]:%CORAL%%STAT144%%la %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[SET (ztb OR zvb OR xsk) ID STAT60>0 STAT62>0]:%CORAL%%STAT60%%ll%WHITE%+%SAGE%%STAT62%%ml %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[SET (uui) ID STAT122>0]:%ORANGE%%STAT122%ud %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[SET (xmg) ID STAT332>0]:%ORANGE%%STAT332%p %NAME%{%NAME%}%CONTINUE%
+//ItemDisplay[SET (xar) ID CLSK3>0]:%ORANGE%%CLSK3%Skill %NAME%{%NAME%}%CONTINUE%
+ItemDisplay[SET (uar) ID TABSK32>0]:%ORANGE%%TABSK32%Skill %NAME%{%NAME%}%CONTINUE%
+
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                       CORRUPTED MARKING AND CRAFTING AMULET                                //
