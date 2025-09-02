@@ -4055,6 +4055,9 @@ ItemDisplay[9wn NMAG !RW]:%GRAY%Burnt Wand%CONTINUE%
 ItemDisplay[ob7 NMAG !RW]:%GRAY%Crystalline Globe%CONTINUE%
 ItemDisplay[obc NMAG !RW]:%GRAY%Eldritch Orb%CONTINUE%
 ItemDisplay[obd NMAG !RW]:%GRAY%Demon Heart%CONTINUE%
+ItemDisplay[ob9 NMAG !RW]:%GRAY%Sparkling Ball%CONTINUE%
+ItemDisplay[obb NMAG !RW]:%GRAY%Heavenly Stone%CONTINUE%
+ItemDisplay[ob2 NMAG !RW]:%GRAY%Sacred Globe%CONTINUE%
 
 ItemDisplay[(WEAPON OR ARMOR) !RW NMAG SOCK=0]:%GRAY%%NAME%%CONTINUE%
 
