@@ -3798,6 +3798,9 @@ ItemDisplay[SET !ID (WEAPON OR ARMOR OR rin)]: %ORANGE%*%BLUE%*%PURPLE%* %GREEN%
 //9gd : Executioner Sword, 7gd Colossus Blade
 //9gm : Martel de Fer, 7gm Thunder Maul
 //9ls : Rune Sword, 7ls Cryptic Sword
+ItemDisplay[(WEAPON OR ARMOR) MAG NORM !ID]:%GRAY%n-%BLUE%%NAME%{%NAME%}%CONTINUE%
+ItemDisplay[(WEAPON OR ARMOR) MAG EXC !ID]:%LIGHT_GRAY%Ex-%BLUE%%NAME%{%NAME%}%CONTINUE%
+ItemDisplay[(WEAPON OR ARMOR) MAG ELT !ID]:%ORANGE%El-%BLUE%%NAME%{%NAME%}%CONTINUE%
 
 ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) (!ETH OR ETH) MAG !ID FILTLVL>2]: 
 ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) (!ETH OR ETH) MAG !ID FILTLVL>2]: 
