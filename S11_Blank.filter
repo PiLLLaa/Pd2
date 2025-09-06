@@ -9066,7 +9066,7 @@ ItemDisplay[(WEAPON OR ARMOR OR cqv OR aqv OR rin OR amu OR ram) ID (MAG OR RARE
 ItemDisplay[(WEAPON OR rin OR amu OR ram) ID (MAG OR RARE OR SET OR UNI OR RW) STAT360=49]:%NAME%{%PURPLE%[%RED%Indestructible+%BLUE%Enhanced Damage* %TEAL%Corrupted%PURPLE%]%NL%%NAME%}%CONTINUE%
 ItemDisplay[(cqv OR aqv) ID (MAG OR RARE OR SET OR UNI OR RW) STAT360=49]:%NAME%{%PURPLE%[%RED%Reduced Curse Duration %TEAL%Corrupted%PURPLE%]%NL%%NAME%}%CONTINUE%
 ItemDisplay[(EQ3) ID (MAG OR RARE OR SET OR UNI OR RW) STAT360=49]:%NAME%{%PURPLE%[%RED%Indestructible+%BLUE%Reduced Curse Duration %TEAL%Corrupted%PURPLE%]%NL%%NAME%}%CONTINUE%
-ItemDisplay[(CHEST OR EQ1) ID (MAG OR RARE OR SET OR UNI OR RW) STAT360=49]:%NAME%{%PURPLE%[%RED%Reduced Curse Duration* %TEAL%Corrupted%PURPLE%]%NL%%NAME%}%CONTINUE%
+ItemDisplay[(CHEST OR EQ1 OR EQ5) ID (MAG OR RARE OR SET OR UNI OR RW) STAT360=49]:%NAME%{%PURPLE%[%RED%Reduced Curse Duration* %TEAL%Corrupted%PURPLE%]%NL%%NAME%}%CONTINUE%
 ItemDisplay[(EQ4 OR EQ6 OR EQ7) ID (MAG OR RARE OR SET OR UNI OR RW) STAT360=49]:%NAME%{%PURPLE%[%RED%Indestructible+%BLUE%Enhanced Damage* %TEAL%Corrupted%PURPLE%]%NL%%NAME%}%CONTINUE%
 
 ItemDisplay[(WEAPON OR ARMOR OR cqv OR aqv OR rin OR amu OR ram) ID (MAG OR RARE OR SET OR UNI OR RW) STAT360=50]:%NAME%{%PURPLE%[%RED%Allskill %TEAL%Corrupted%PURPLE%]%NL%%NAME%}%CONTINUE%
