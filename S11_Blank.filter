@@ -3728,6 +3728,10 @@ ItemDisplay[UNI !ID 9ws]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Hand of Bless
 ItemDisplay[UNI !ID 7sc]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Heaven'sLight or the Redeemer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID 7cs]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Shadow Killer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 
+ItemDisplay[UNI !ID pae]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Dragonscale%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 7ga]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Messerschmidt's Reaver%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 7gi]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Executioner's Justice%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+
 //Unique Non Poppular
 ItemDisplay[UNI !ID 7ta]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Gimmershred%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+ 
 ItemDisplay[UNI !ID mgl]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Chance Guards%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
@@ -3826,8 +3830,6 @@ ItemDisplay[UNI !ID 7ha]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Razor's Edge%PURPLE%[%
 ItemDisplay[UNI !ID 7mp]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Cranebeak%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID 7ba]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Ethereal Edge%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID 7bt]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Hellslayer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 7ga]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Messerschmidt's Reaver%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 7gi]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Executioner's Justice%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 
 ItemDisplay[UNI !ID sbw]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Pluckeye%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID hbw]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Witherstring%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
@@ -3970,7 +3972,7 @@ ItemDisplay[UNI !ID 9ta]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %TAN%The Scalper%PURPLE%[%
 ItemDisplay[UNI !ID 7wb]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Jade Talon%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID bac]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Wolfhowl%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID bad]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Demonhorn's Edge%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID pae]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Dragonscale%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+
 //PD2 uniq
 ItemDisplay[UNI !ID am5]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%True Silver %PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID 9ar]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %TAN%Mage Slayer %PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
