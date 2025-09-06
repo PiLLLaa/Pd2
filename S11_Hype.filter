@@ -2595,7 +2595,7 @@ ItemDisplay[RARE (EQ5) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHI
 
 ItemDisplay[RARE (CL4) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
 
-ItemDisplay[RARE (am2 OR am7 OR amc OR lwb OR 8lw OR 6lw OR WP10) !ETH !ID]: %DOT-75%%GREEN%*%CORAL%*%PURPLE%*%WHITE%*    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %GREEN%*%CORAL%*%PURPLE%*%WHITE%*
+ItemDisplay[RARE (am2 OR am7 OR amc OR lwb OR 8lw OR 6lw OR hxb OR 8hx OR 6hx) !ETH !ID]: %DOT-75%%GREEN%*%CORAL%*%PURPLE%*%WHITE%*    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %GREEN%*%CORAL%*%PURPLE%*%WHITE%*
 ItemDisplay[RARE (WEAPON OR ARMOR) !ETH !ID]: %YELLOW%%NAME%
 ItemDisplay[RARE (WEAPON OR ARMOR) ETH !ID]: %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %YELLOW%%NAME%
 /////////////////////////////////////////////////////////////////////////////////////////////////
