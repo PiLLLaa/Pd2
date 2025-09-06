@@ -3155,6 +3155,8 @@ ItemDisplay[UNI !ID 7bt !ETH]:%DOT-0C%%GOLD%@@  %RED%Hellslayer%GOLD%[Decapitato
 ItemDisplay[UNI !ID 7bt ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Hellslayer%GOLD%[Decapitator] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID 7ga !ETH]:%DOT-0C%%GOLD%@@  %RED%Messerschmidt's Reaver%GOLD%[Champion Axe] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID 7ga ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Messerschmidt's Reaver%GOLD%[Champion Axe] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID ztb !ETH]:%DOT-0C%%GOLD%@@  %RED%Snowclash%GOLD%[Battle Belt] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID ztb ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Snowclash%GOLD%[Battle Belt] %ORANGE%(EX) %GOLD%@@
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%%NAME%    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
@@ -3317,8 +3319,7 @@ ItemDisplay[UNI !ID hbl !ETH]:%ORANGE%@@  %TAN%Bladebuckle%GOLD%[Plated Belt] %O
 ItemDisplay[UNI !ID hbl ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Bladebuckle%GOLD%[Plated Belt] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID zmb !ETH]:%ORANGE%@@  %TAN%Gloom's Trap%GOLD%[Mesh Belt] %ORANGE%(EX) %ORANGE%@@
 ItemDisplay[UNI !ID zmb ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Gloom's Trap%GOLD%[Mesh Belt] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID ztb !ETH]:%ORANGE%@@  %TAN%Snowclash%GOLD%[Battle Belt] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID ztb ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Snowclash%GOLD%[Battle Belt] %ORANGE%(EX) %ORANGE%@@
+
 ItemDisplay[UNI !ID hax !ETH]:%ORANGE%@@  %TAN%The Gnasher%GOLD%[Hand Axe] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID hax ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%The Gnasher%GOLD%[Hand Axe] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID axe !ETH]:%ORANGE%@@  %TAN%Deathspade%GOLD%[Axe] %ORANGE%(N) %ORANGE%@@
