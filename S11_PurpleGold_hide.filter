@@ -3125,6 +3125,8 @@ ItemDisplay[UNI !ID 7bt !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Hel
 ItemDisplay[UNI !ID 7bt ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Hellslayer%GOLD%[Decapitator] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 7ga !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Messerschmidt's Reaver%GOLD%[Champion Axe] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 7ga ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Messerschmidt's Reaver%GOLD%[Champion Axe] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID ztb !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %TAN%Snowclash%GOLD%[Battle Belt] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID ztb ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %TAN%Snowclash%GOLD%[Battle Belt] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@ %RED%%NAME% %PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@
@@ -3289,8 +3291,7 @@ ItemDisplay[UNI !ID zlb !ETH]:%DOT-0C%%ORANGE%@%WHITE%@  %RED%String of Ears%GOL
 ItemDisplay[UNI !ID zlb ETH]:%DOT-0C%%ORANGE%@%WHITE%@  %WHITE%eth %RED%String of Ears%GOLD%[Demonhide Sash] %GRAY%(EX) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID zmb !ETH]:%ORANGE%@%WHITE%@  %TAN%Gloom's Trap%GOLD%[Mesh Belt] %GRAY%(EX) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID zmb ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Gloom's Trap%GOLD%[Mesh Belt] %GRAY%(EX) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID ztb !ETH]:%ORANGE%@%WHITE%@  %TAN%Snowclash%GOLD%[Battle Belt] %GRAY%(EX) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID ztb ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Snowclash%GOLD%[Battle Belt] %GRAY%(EX) %ORANGE%@%WHITE%@
+
 ItemDisplay[UNI !ID hax !ETH]:%ORANGE%@%WHITE%@  %TAN%The Gnasher%GOLD%[Hand Axe] %GRAY%(N) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID hax ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%The Gnasher%GOLD%[Hand Axe] %GRAY%(N) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID axe !ETH]:%ORANGE%@%WHITE%@  %TAN%Deathspade%GOLD%[Axe] %GRAY%(N) %ORANGE%@%WHITE%@
