@@ -3149,6 +3149,12 @@ ItemDisplay[UNI !ID 7ws !ETH]:%DOT-0C%%GOLD%@@  %RED%Astreon's Iron Ward%GOLD%[C
 ItemDisplay[UNI !ID 7ws ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Astreon's Iron Ward%GOLD%[Caduceus] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID xhm !ETH]:%DOT-0C%%GOLD%@@  %RED%Valkyrie Wing%GOLD%[Winged Helm] %ORANGE%(EX) %GOLD%@@
 ItemDisplay[UNI !ID xhm ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Valkyrie Wing%GOLD%[Winged Helm] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID pae !ETH]:%DOT-0C%%GOLD%@@  %RED%Dragonscale%GOLD%[Zakarum Shield] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID pae ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Dragonscale%GOLD%[Zakarum Shield] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7bt !ETH]:%DOT-0C%%GOLD%@@  %RED%Hellslayer%GOLD%[Decapitator] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7bt ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Hellslayer%GOLD%[Decapitator] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7ga !ETH]:%DOT-0C%%GOLD%@@  %RED%Messerschmidt's Reaver%GOLD%[Champion Axe] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7ga ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Messerschmidt's Reaver%GOLD%[Champion Axe] %ORANGE%(EL) %GOLD%@@
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%%NAME%    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
@@ -3362,10 +3368,6 @@ ItemDisplay[UNI !ID 7mp ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Cranebeak%GOLD%[War Sp
 ItemDisplay[UNI !ID 7wa !ETH]:%ORANGE%@@  %TAN%Death Cleaver%GOLD%[Berserker Axe] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID 7wa ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Death Cleaver%GOLD%[Berserker Axe] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID 7ba ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Ethereal Edge%GOLD%[Silver Edged Axe] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID 7bt !ETH]:%ORANGE%@@  %TAN%Hellslayer%GOLD%[Decapitator] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID 7bt ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Hellslayer%GOLD%[Decapitator] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID 7ga !ETH]:%ORANGE%@@  %TAN%Messerschmidt's Reaver%GOLD%[Champion Axe] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID 7ga ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Messerschmidt's Reaver%GOLD%[Champion Axe] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID 7gi !ETH]:%ORANGE%@@  %TAN%Executioner's Justice%GOLD%[Glorious Axe] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID 7gi ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Executioner's Justice%GOLD%[Glorious Axe] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID sbw]:%ORANGE%@@  %TAN%Pluckeye%GOLD%[Short Bow] %ORANGE%(N) %ORANGE%@@
@@ -3614,8 +3616,7 @@ ItemDisplay[UNI !ID bac !ETH]:%ORANGE%@@  %TAN%Wolfhowl%GOLD%[Fury Visor] %ORANG
 ItemDisplay[UNI !ID bac ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Wolfhowl%GOLD%[Fury Visor] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID bad !ETH]:%ORANGE%@@  %TAN%Demonhorn's Edge%GOLD%[Destroyer Helm] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID bad ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Demonhorn's Edge%GOLD%[Destroyer Helm] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID pae !ETH]:%ORANGE%@@  %TAN%Dragonscale%GOLD%[Zakarum Shield] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID pae ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Dragonscale%GOLD%[Zakarum Shield] %ORANGE%(EL) %ORANGE%@@
+
 
 //PD2 uniq
 ItemDisplay[UNI !ID ame !ETH]: %DOT-0C%%GOLD%@@ %RED%Zeraes Resolve%GOLD%[Matriarchal Pike] %ORANGE%(EL) %GOLD%@@
