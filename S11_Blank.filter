@@ -6495,6 +6495,10 @@ ItemDisplay[EQ6 CRAFT ID]:%NAME%{%NAME%}%CONTINUE%
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                         CRAFT BASE ITEM                                     //
 /////////////////////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[(WEAPON OR ARMOR) MAG NORM !ID]:%GRAY%n-%BLUE%%NAME%{%NAME%}%CONTINUE%
+ItemDisplay[(WEAPON OR ARMOR) MAG EXC !ID]:%LIGHT_GRAY%Ex-%BLUE%%NAME%{%NAME%}%CONTINUE%
+ItemDisplay[(WEAPON OR ARMOR) MAG ELT !ID]:%ORANGE%El-%BLUE%%NAME%{%NAME%}%CONTINUE%
+
 ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%glove%GRAY%]
 ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%helmet%GRAY%]
 ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) !ETH MAG !ID]:%NAME%%GRAY%[%GRAY%Craft %CORAL%helmet(Bar)%GRAY%]
