@@ -3074,8 +3074,6 @@ ItemDisplay[UNI !ID rng !ETH]:%DOT-0C%%GOLD%@@  %RED%Darkglow%TAN%[Ring Mail] %O
 ItemDisplay[UNI !ID rng ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Darkglow%TAN%[Ring Mail] %ORANGE%(N) %GOLD%@@
 ItemDisplay[UNI !ID xth !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Atma's Wail    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID xth ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Atma's Wail%TAN%[Embossed Plate] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID xul !ETH]:%DOT-0C%%GOLD%@@  %RED%Black Hades%TAN%[Chaos Armor] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID xul ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Black Hades%TAN%[Chaos Armor] %ORANGE%(EX) %GOLD%@@
 ItemDisplay[UNI !ID xar !ETH]:%DOT-0C%%GOLD%@@ %RED%Corpsemourn%TAN%[Ornate Armor] %ORANGE%(EX) %GOLD%@@
 ItemDisplay[UNI !ID xar ETH]:%DOT-0C%%GOLD%@@ %PURPLE%Eth %RED%Corpsemourn%TAN%[Ornate Armor] %ORANGE%(EX) %GOLD%@@
 ItemDisplay[UNI !ID uul !ETH]:%DOT-0C%%GOLD%@@  %RED%Steel Carapace%TAN%[Shadow Plate] %ORANGE%(EL) %GOLD%@@
@@ -3157,12 +3155,19 @@ ItemDisplay[UNI !ID 7ga !ETH]:%DOT-0C%%GOLD%@@  %RED%Messerschmidt's Reaver%GOLD
 ItemDisplay[UNI !ID 7ga ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Messerschmidt's Reaver%GOLD%[Champion Axe] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID ztb !ETH]:%DOT-0C%%GOLD%@@  %RED%Snowclash%GOLD%[Battle Belt] %ORANGE%(EX) %GOLD%@@
 ItemDisplay[UNI !ID ztb ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Snowclash%GOLD%[Battle Belt] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 7sc !ETH]:%DOT-0C%%GOLD%@@  %RED%Heaven's Light or the Redeemer%GOLD%[Mighty Scepter] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7sc ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Heaven's Light or ETH the Redeemer%GOLD%[Mighty Scepter] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 6hx]:%DOT-0C%%GOLD%@@  %RED%Hellrack%GOLD%[Colossus Crossbow] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 6rx]:%DOT-0C%%GOLD%@@  %RED%Gut Siphon%GOLD%[Demon Crossbow] %ORANGE%(EL) %GOLD%@@
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%%NAME%    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID jew]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%R%ORANGE%a%YELLOW%i%GREEN%n%BLUE%b%PURPLE%o%WHITE%w %GOLD%Facet    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 
 //Unique Non Poppular
+ItemDisplay[UNI !ID xul !ETH]:%ORANGE%@@  %TAN%Black Hades%TAN%[Chaos Armor] %ORANGE%(EX) %ORANGE%@@
+ItemDisplay[UNI !ID xul ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Black Hades%TAN%[Chaos Armor] %ORANGE%(EX) %ORANGE%@@
+
 ItemDisplay[UNI !ID 7ta !ETH]:%ORANGE%@@  %TAN%Gimmershred%GOLD%[Flying Axe] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID 7ta ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Gimmershred%GOLD%[Flying Axe] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID mgl !ETH]:%ORANGE%@@  %TAN%Chance Guards%GOLD%[Chain Gloves] %ORANGE%(N) %ORANGE%@@
@@ -3393,8 +3398,7 @@ ItemDisplay[UNI !ID hxb]:%ORANGE%@@  %TAN%Hellcast%GOLD%[Heavy Crossbow] %ORANGE
 ItemDisplay[UNI !ID rxb]:%ORANGE%@@  %TAN%Doomslinger%GOLD%[Repeating Crossbow] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID 8lx]:%ORANGE%@@  %TAN%Langer Briser%GOLD%[Arbalest] %ORANGE%(EX) %ORANGE%@@
 
-ItemDisplay[UNI !ID 6hx]:%ORANGE%@@  %TAN%Hellrack%GOLD%[Colossus Crossbow] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID 6rx]:%ORANGE%@@  %TAN%Gut Siphon%GOLD%[Demon Crossbow] %ORANGE%(EL) %ORANGE%@@
+
 ItemDisplay[UNI !ID dgr !ETH]:%ORANGE%@@  %TAN%Gull%GOLD%[Dagger] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID dgr ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Gull%GOLD%[Dagger] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID dir !ETH]:%ORANGE%@@  %TAN%The Diggler%GOLD%[Dirk] %ORANGE%(N) %ORANGE%@@
@@ -3486,8 +3490,7 @@ ItemDisplay[UNI !ID 9qs !ETH]:%ORANGE%@@  %TAN%The Fetid Sprinkler%GOLD%[Holy Wa
 ItemDisplay[UNI !ID 9qs ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%The Fetid Sprinkler%GOLD%[Holy Water Sprinkler] %ORANGE%(EX) %ORANGE%@@
 ItemDisplay[UNI !ID 9ws !ETH]:%ORANGE%@@  %TAN%Hand of Blessed Light%GOLD%[Divine Scepter] %ORANGE%(EX) %ORANGE%@@
 ItemDisplay[UNI !ID 9ws ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Hand of Blessed Light%GOLD%[Divine Scepter] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID 7sc !ETH]:%ORANGE%@@  %TAN%Heaven's Light or the Redeemer%GOLD%[Mighty Scepter] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID 7sc ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Heaven's Light or ETH the Redeemer%GOLD%[Mighty Scepter] %ORANGE%(EL) %ORANGE%@@
+
 ItemDisplay[UNI !ID spr !ETH]:%ORANGE%@@  %TAN%The Dragon Chang%GOLD%[Spear] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID spr ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%The Dragon Chang%GOLD%[Spear] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID tri !ETH]:%ORANGE%@@  %TAN%Razortine%GOLD%[Trident] %ORANGE%(N) %ORANGE%@@
