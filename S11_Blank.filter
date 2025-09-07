@@ -3621,7 +3621,7 @@ ItemDisplay[UNI !ID 6l7 !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Eagleh
 ItemDisplay[UNI !ID 8mx !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Pus Spitter    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 8rx !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Demon Machine    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 9gm !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%The Gavel of Pain    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID xul !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Black Hades    %SAGE%++%CORAL%++%ORANGE%++
+
 ItemDisplay[UNI !ID xar !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Corpsemourn    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID oba !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%The Oculus    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID uld !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%RED%Leviathan    %SAGE%++%CORAL%++%ORANGE%++
@@ -3677,7 +3677,7 @@ ItemDisplay[UNI !ID xow ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %
 ItemDisplay[UNI !ID 6l7 ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Eaglehorn    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 8mx ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Pus Spitter    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 8rx ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Demon Machine    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID xul ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Black Hades    %SAGE%++%CORAL%++%ORANGE%++
+
 ItemDisplay[UNI !ID xar ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Corpsemourn    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID oba ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%The Oculus    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID uld ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Leviathan    %SAGE%++%CORAL%++%ORANGE%++
@@ -3731,8 +3731,13 @@ ItemDisplay[UNI !ID 7cs]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Shadow Killer%
 ItemDisplay[UNI !ID pae]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Dragonscale%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID 7ga]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Messerschmidt's Reaver%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID 7gi]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Executioner's Justice%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 6rx]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Gut Siphon%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 
 //Unique Non Poppular
+
+ItemDisplay[UNI !ID xul !ETH]:%GOLD%+%PURPLE%+ %TAN%Black Hades%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+ 
+ItemDisplay[UNI !ID xul ETH]:%GOLD%+%PURPLE%+ %WHITE%(e) %TAN%Black Hades%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+ 
+
 ItemDisplay[UNI !ID 7ta]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Gimmershred%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+ 
 ItemDisplay[UNI !ID mgl]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Chance Guards%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID 9sb]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %TAN%Hexfire%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
@@ -3855,7 +3860,6 @@ ItemDisplay[UNI !ID mxb]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Ichorsting%PURPL
 ItemDisplay[UNI !ID hxb]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Hellcast%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID rxb]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Doomslinger%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 
-ItemDisplay[UNI !ID 6rx]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Gut Siphon%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID dgr]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Gull%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID dir]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%The Diggler%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID kri]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%The Jade Tan Do%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
