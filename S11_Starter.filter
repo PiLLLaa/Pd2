@@ -2678,7 +2678,7 @@ ItemDisplay[RARE (WEAPON OR ARMOR) !ID NORM]:%GRAY%n-%YELLOW%%NAME%%CONTINUE%
 //ItemDisplay[RARE (CHEST) ETH !ID]:%PURPLE%Eth %YELLOW%%NAME%: Chest%CONTINUE%
 //ItemDisplay[RARE (EQ3) ETH !ID]:%PURPLE%Eth %YELLOW%%NAME%: Shield%CONTINUE%
 
-ItemDisplay[RARE (mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm OR flb OR 9fb OR 7fb) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*   %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
+ItemDisplay[RARE (mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm OR flb OR 9fb OR 7fb OR gax OR 9ga OR 7ga) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*   %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
 ItemDisplay[RARE (gsd OR 9gd OR 7gd OR glv OR 9gl OR 7gl OR pil OR 9pi OR 7pi OR tsp OR 9ts OR 7ts) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
 ItemDisplay[RARE (am5 OR ama OR amf OR whm OR 9wh OR 7wh) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
 ItemDisplay[RARE (CL5) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
@@ -2686,7 +2686,7 @@ ItemDisplay[RARE (CL5) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %Y
 ItemDisplay[RARE (EQ4) !ETH !ID]:%DOT-75%%GREEN%*%TEAL%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%TEAL%*
 ItemDisplay[RARE (EQ5) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
 
-ItemDisplay[RARE (CL4) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
+ItemDisplay[RARE (CL4 OR gax OR 9ga OR 7ga) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
 
 //ItemDisplay[RARE (EQ6) ETH !ID]:%PURPLE%Eth %YELLOW%%NAME%: Belt%CONTINUE%
 //ItemDisplay[RARE (EQ7) ETH !ID]:%PURPLE%Eth %YELLOW%%NAME%: Circ%CONTINUE%
@@ -3159,6 +3159,8 @@ ItemDisplay[UNI !ID 7sc !ETH]:%DOT-0C%%GOLD%@@  %RED%Heaven's Light or the Redee
 ItemDisplay[UNI !ID 7sc ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Heaven's Light or ETH the Redeemer%GOLD%[Mighty Scepter] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID 6hx]:%DOT-0C%%GOLD%@@  %RED%Hellrack%GOLD%[Colossus Crossbow] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID 6rx]:%DOT-0C%%GOLD%@@  %RED%Gut Siphon%GOLD%[Demon Crossbow] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID xts !ETH]:%DOT-0C%%GOLD%@@  %RED%Radament's Sphere%GOLD%[Ancient Shield] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xts ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Radament's Sphere%GOLD%[Ancient Shield] %ORANGE%(EX) %GOLD%@@
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%%NAME%    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
@@ -3278,8 +3280,7 @@ ItemDisplay[UNI !ID xit !ETH]:%ORANGE%@@  %TAN%Tiamat's Rebuke%GOLD%[Dragon Shie
 ItemDisplay[UNI !ID xit ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Tiamat's Rebuke%GOLD%[Dragon Shield] %ORANGE%(EX) %ORANGE%@@
 ItemDisplay[UNI !ID xpk !ETH]:%ORANGE%@@  %TAN%Lance Guard%GOLD%[Barbed Shield] %ORANGE%(EX) %ORANGE%@@
 ItemDisplay[UNI !ID xpk ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Lance Guard%GOLD%[Barbed Shield] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID xts !ETH]:%ORANGE%@@  %TAN%Radament's Sphere%GOLD%[Ancient Shield] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID xts ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Radament's Sphere%GOLD%[Ancient Shield] %ORANGE%(EX) %ORANGE%@@
+
 ItemDisplay[UNI !ID uml !ETH]:%ORANGE%@@  %TAN%Blackoak Shield%GOLD%[Luna] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID uml ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Blackoak Shield%GOLD%[Luna] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID upk !ETH]:%ORANGE%@@  %TAN%Spike Thorn%GOLD%[Blade Barrier] %ORANGE%(EL) %ORANGE%@@
