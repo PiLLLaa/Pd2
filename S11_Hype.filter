@@ -2980,8 +2980,6 @@ ItemDisplay[UNI !ID rng !ETH]:%DOT-0C%%GOLD%+%RED%+  %RED%Darkglow%TAN%[Ring Mai
 ItemDisplay[UNI !ID rng ETH]:%DOT-0C%%GOLD%+%RED%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Darkglow%TAN%[Ring Mail%PURPLE%] %GRAY%-N-  %GOLD%+%RED%+
 ItemDisplay[UNI !ID xth !ETH]:%SOUNDID-2664%%BORDER-62%%BLUE%++%WHITE%++%YELLOW%++%GREEN%++%BLUE%++%RED%++    %RED%Atma's Wail    %RED%++%ORANGE%++%YELLOW%++%GREEN%++%BLUE%++%PURPLE%++
 ItemDisplay[UNI !ID xth ETH]:%DOT-0C%%GOLD%+%RED%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Atma's Wail%TAN%[Embossed Plate%PURPLE%] %GRAY%-EX-  %GOLD%+%RED%+
-ItemDisplay[UNI !ID xul !ETH]:%DOT-0C%%GOLD%+%RED%+  %RED%Black Hades%TAN%[Chaos Armor%PURPLE%] %GRAY%-EX-  %GOLD%+%RED%+
-ItemDisplay[UNI !ID xul ETH]:%DOT-0C%%GOLD%+%RED%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Black Hades%TAN%[Chaos Armor%PURPLE%] %GRAY%-EX-  %GOLD%+%RED%+
 ItemDisplay[UNI !ID xar !ETH]:%DOT-0C%%GOLD%+%RED%+ %RED%Corpsemourn%TAN%[Ornate Armor%PURPLE%] %GRAY%-EX-  %GOLD%+%RED%+
 ItemDisplay[UNI !ID xar ETH]:%DOT-0C%%GOLD%+%RED%+ %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Corpsemourn%TAN%[Ornate Armor%PURPLE%] %GRAY%-EX-  %GOLD%+%RED%+
 ItemDisplay[UNI !ID uul !ETH]:%DOT-0C%%GOLD%+%RED%+  %RED%Steel Carapace%TAN%[Shadow Plate%PURPLE%] %GRAY%-EL- %GOLD%+%RED%+
@@ -3063,12 +3061,19 @@ ItemDisplay[UNI !ID 7ga !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%Messerschmidt's Reaver
 ItemDisplay[UNI !ID 7ga ETH]:%DOT-0C%%GOLD%@%RED%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Messerschmidt's Reaver%PURPLE%[%GRAY%Champion Axe%PURPLE%] %GRAY%-EL-  %RED%@%GOLD%@
 ItemDisplay[UNI !ID ztb !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%Snowclash%PURPLE%[%GRAY%Battle Belt%PURPLE%] %GRAY%-EX-  %RED%@%GOLD%@
 ItemDisplay[UNI !ID ztb ETH]:%DOT-0C%%GOLD%@%RED%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Snowclash%PURPLE%[%GRAY%Battle Belt%PURPLE%] %GRAY%-EX-  %RED%@%GOLD%@
+ItemDisplay[UNI !ID 7sc !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%Heaven's Light or the Redeemer%PURPLE%[%GRAY%Mighty Scepter%PURPLE%] %GRAY%-EL-  %RED%@%GOLD%@
+ItemDisplay[UNI !ID 7sc ETH]:%DOT-0C%%GOLD%@%RED%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Heaven's Light or ETH the Redeemer%PURPLE%[%GRAY%Mighty Scepter%PURPLE%] %GRAY%-EL-  %RED%@%GOLD%@
+ItemDisplay[UNI !ID 6hx]:%DOT-0C%%GOLD%@%RED%@  %RED%Hellrack%PURPLE%[%GRAY%Colossus Crossbow%PURPLE%] %GRAY%-EL-  %RED%@%GOLD%@
+ItemDisplay[UNI !ID 6rx]:%DOT-0C%%GOLD%@%RED%@  %RED%Gut Siphon%PURPLE%[%GRAY%Demon Crossbow%PURPLE%] %GRAY%-EL-  %RED%@%GOLD%@
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%%NAME%    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID jew]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%R%ORANGE%a%YELLOW%i%GREEN%n%BLUE%b%PURPLE%o%WHITE%w %GOLD%Facet    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 
 //Unique Non Poppular
+ItemDisplay[UNI !ID xul !ETH]:%ORANGE%@%WHITE%@  %TAN%Black Hades%TAN%[Chaos Armor%PURPLE%] %GRAY%-EX-  %ORANGE%@%WHITE%@
+ItemDisplay[UNI !ID xul ETH]:%ORANGE%@%WHITE%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Black Hades%TAN%[Chaos Armor%PURPLE%] %GRAY%-EX-  %ORANGE%@%WHITE%@
+
 ItemDisplay[UNI !ID 7ta !ETH]:%ORANGE%@%WHITE%@  %TAN%Gimmershred%PURPLE%[%GRAY%Flying Axe%PURPLE%] %GRAY%-EL-  %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID 7ta ETH]:%ORANGE%@%WHITE%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Gimmershred%PURPLE%[%GRAY%Flying Axe%PURPLE%] %GRAY%-EL-  %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID mgl !ETH]:%ORANGE%@%WHITE%@  %TAN%Chance Guards%PURPLE%[%GRAY%Chain Gloves%PURPLE%] %GRAY%-N-  %ORANGE%@%WHITE%@
@@ -3298,8 +3303,6 @@ ItemDisplay[UNI !ID hxb]:%ORANGE%*%WHITE%*  %TAN%Hellcast%PURPLE%[%GRAY%Heavy Cr
 ItemDisplay[UNI !ID rxb]:%ORANGE%*%WHITE%*  %TAN%Doomslinger%PURPLE%[%GRAY%Repeating Crossbow%PURPLE%] %GRAY%-N-  %ORANGE%*%WHITE%*
 ItemDisplay[UNI !ID 8lx]:%ORANGE%*%WHITE%*  %TAN%Langer Briser%PURPLE%[%GRAY%Arbalest%PURPLE%] %GRAY%-EX-  %ORANGE%*%WHITE%*
 
-ItemDisplay[UNI !ID 6hx]:%ORANGE%*%WHITE%*  %TAN%Hellrack%PURPLE%[%GRAY%Colossus Crossbow%PURPLE%] %GRAY%-EL-  %ORANGE%*%WHITE%*
-ItemDisplay[UNI !ID 6rx]:%ORANGE%*%WHITE%*  %TAN%Gut Siphon%PURPLE%[%GRAY%Demon Crossbow%PURPLE%] %GRAY%-EL-  %ORANGE%*%WHITE%*
 ItemDisplay[UNI !ID dgr !ETH]:%ORANGE%*%WHITE%*  %TAN%Gull%PURPLE%[%GRAY%Dagger%PURPLE%] %GRAY%-N-  %ORANGE%*%WHITE%*
 ItemDisplay[UNI !ID dgr ETH]:%ORANGE%*%WHITE%*  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Gull%PURPLE%[%GRAY%Dagger%PURPLE%] %GRAY%-N-  %ORANGE%*%WHITE%*
 ItemDisplay[UNI !ID dir !ETH]:%ORANGE%*%WHITE%*  %TAN%The Diggler%PURPLE%[%GRAY%Dirk%PURPLE%] %GRAY%-N-  %ORANGE%*%WHITE%*
@@ -3391,8 +3394,6 @@ ItemDisplay[UNI !ID 9qs !ETH]:%ORANGE%+%WHITE%+  %TAN%The Fetid Sprinkler%PURPLE
 ItemDisplay[UNI !ID 9qs ETH]:%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%The Fetid Sprinkler%PURPLE%[%GRAY%Holy Water Sprinkler%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID 9ws !ETH]:%ORANGE%+%WHITE%+  %TAN%Hand of Blessed Light%PURPLE%[%GRAY%Divine Scepter%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID 9ws ETH]:%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Hand of Blessed Light%PURPLE%[%GRAY%Divine Scepter%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
-ItemDisplay[UNI !ID 7sc !ETH]:%ORANGE%+%WHITE%+  %TAN%Heaven's Light or the Redeemer%PURPLE%[%GRAY%Mighty Scepter%PURPLE%] %GRAY%-EL-  %ORANGE%+%WHITE%+
-ItemDisplay[UNI !ID 7sc ETH]:%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Heaven's Light or ETH the Redeemer%PURPLE%[%GRAY%Mighty Scepter%PURPLE%] %GRAY%-EL-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID spr !ETH]:%ORANGE%+%WHITE%+  %TAN%The Dragon Chang%PURPLE%[%GRAY%Spear%PURPLE%] %GRAY%-N-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID spr ETH]:%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%The Dragon Chang%PURPLE%[%GRAY%Spear%PURPLE%] %GRAY%-N-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID tri !ETH]:%ORANGE%+%WHITE%+  %TAN%Razortine%PURPLE%[%GRAY%Trident%PURPLE%] %GRAY%-N-  %ORANGE%+%WHITE%+
