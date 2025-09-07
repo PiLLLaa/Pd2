@@ -185,5 +185,5 @@
      16. 7.Sep
       1) Black hades goes to normal drop
       2) Hellrack Gutsiphon, snowclash go to red drop level
-      
+      3) 6SOC ITEM NO LONGER TO DROP IN MAPS
 ----------------------------------------------------------------------------------------------------------------------
