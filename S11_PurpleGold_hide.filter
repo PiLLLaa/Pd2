@@ -2652,7 +2652,7 @@ ItemDisplay[RARE (WEAPON OR ARMOR) !ID NORM]:%GRAY%n-%YELLOW%%NAME%%CONTINUE%
 //ItemDisplay[RARE (CHEST) ETH !ID]:%PURPLE%Eth %YELLOW%%NAME%: Chest%CONTINUE%
 //ItemDisplay[RARE (EQ3) ETH !ID]:%PURPLE%Eth %YELLOW%%NAME%: Shield%CONTINUE%
 
-ItemDisplay[RARE (mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm OR flb OR 9fb OR 7fb) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
+ItemDisplay[RARE (mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm OR flb OR 9fb OR 7fb OR gax OR 9ga OR 7ga) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
 ItemDisplay[RARE (gsd OR 9gd OR 7gd OR glv OR 9gl OR 7gl OR pil OR 9pi OR 7pi OR tsp OR 9ts OR 7ts) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
 ItemDisplay[RARE (am5 OR ama OR amf OR whm OR 9wh OR 7wh) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
 ItemDisplay[RARE (CL5) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
@@ -2660,7 +2660,7 @@ ItemDisplay[RARE (CL5) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %Y
 ItemDisplay[RARE (EQ4) !ETH !ID]:%DOT-75%%GREEN%*%TEAL%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%TEAL%*
 ItemDisplay[RARE (EQ5) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
 
-ItemDisplay[RARE (CL4) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
+ItemDisplay[RARE (CL4 OR gax OR 9ga OR 7ga) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
 
 //ItemDisplay[RARE (EQ6) ETH !ID]:%PURPLE%Eth %YELLOW%%NAME%: Belt%CONTINUE%
 //ItemDisplay[RARE (EQ7) ETH !ID]:%PURPLE%Eth %YELLOW%%NAME%: Circ%CONTINUE%
@@ -3129,6 +3129,8 @@ ItemDisplay[UNI !ID 7sc !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Hea
 ItemDisplay[UNI !ID 7sc ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Heaven's Light or ETH the Redeemer%GOLD%[Mighty Scepter] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 6hx]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Hellrack%GOLD%[Colossus Crossbow] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 6rx]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Gut Siphon%GOLD%[Demon Crossbow] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID xts !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Radament's Sphere%GOLD%[Ancient Shield] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID xts ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Radament's Sphere%GOLD%[Ancient Shield] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@ %RED%%NAME% %PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@
@@ -3248,8 +3250,6 @@ ItemDisplay[UNI !ID xit !ETH]:%ORANGE%@%WHITE%@  %TAN%Tiamat's Rebuke%GOLD%[Drag
 ItemDisplay[UNI !ID xit ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Tiamat's Rebuke%GOLD%[Dragon Shield] %GRAY%(EX) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID xpk !ETH]:%ORANGE%@%WHITE%@  %TAN%Lance Guard%GOLD%[Barbed Shield] %GRAY%(EX) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID xpk ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Lance Guard%GOLD%[Barbed Shield] %GRAY%(EX) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID xts !ETH]:%ORANGE%@%WHITE%@  %TAN%Radament's Sphere%GOLD%[Ancient Shield] %GRAY%(EX) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID xts ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Radament's Sphere%GOLD%[Ancient Shield] %GRAY%(EX) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID uml !ETH]:%ORANGE%@%WHITE%@  %TAN%Blackoak Shield%GOLD%[Luna] %GRAY%(EL) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID uml ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Blackoak Shield%GOLD%[Luna] %GRAY%(EL) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID upk !ETH]:%ORANGE%@%WHITE%@  %TAN%Spike Thorn%GOLD%[Blade Barrier] %GRAY%(EL) %ORANGE%@%WHITE%@
