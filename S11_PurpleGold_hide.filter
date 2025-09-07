@@ -3045,8 +3045,6 @@ ItemDisplay[UNI !ID rng !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Dar
 ItemDisplay[UNI !ID rng ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Darkglow%TAN%[Ring Mail] %GRAY%(N) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID xth !ETH]:%SOUNDID-2664%%BORDER-62%%PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@ %RED%Atma's Wail %PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@
 ItemDisplay[UNI !ID xth ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Atma's Wail%TAN%[Embossed Plate] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
-ItemDisplay[UNI !ID xul !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@  %RED%Black Hades%TAN%[Chaos Armor] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
-ItemDisplay[UNI !ID xul ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@  %WHITE%eth %RED%Black Hades%TAN%[Chaos Armor] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID xar !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@  %RED%Corpsemourn%TAN%[Ornate Armor] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID xar ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@  %WHITE%eth %RED%Corpsemourn%TAN%[Ornate Armor] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID uul !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Steel Carapace%TAN%[Shadow Plate] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
@@ -3125,14 +3123,21 @@ ItemDisplay[UNI !ID 7bt !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Hel
 ItemDisplay[UNI !ID 7bt ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Hellslayer%GOLD%[Decapitator] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 7ga !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Messerschmidt's Reaver%GOLD%[Champion Axe] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 7ga ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Messerschmidt's Reaver%GOLD%[Champion Axe] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
-ItemDisplay[UNI !ID ztb !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %TAN%Snowclash%GOLD%[Battle Belt] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
-ItemDisplay[UNI !ID ztb ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %TAN%Snowclash%GOLD%[Battle Belt] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID ztb !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Snowclash%GOLD%[Battle Belt] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID ztb ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Snowclash%GOLD%[Battle Belt] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID 7sc !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Heaven's Light or the Redeemer%GOLD%[Mighty Scepter] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID 7sc ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Heaven's Light or ETH the Redeemer%GOLD%[Mighty Scepter] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID 6hx]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Hellrack%GOLD%[Colossus Crossbow] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID 6rx]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Gut Siphon%GOLD%[Demon Crossbow] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@ %RED%%NAME% %PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@
 ItemDisplay[UNI !ID jew]:%SOUNDID-2664%%BORDER-62%%PURPLE%@%ORANGE%@%GOLD%@%WHITE%@%GOLD%@%ORANGE%@%RED%@%PURPLE%@ %RED%R%ORANGE%a%YELLOW%i%GREEN%n%BLUE%b%PURPLE%o%WHITE%w %GOLD%Facet %PURPLE%@%ORANGE%@%GOLD%@%WHITE%@%GOLD%@%ORANGE%@%RED%@%PURPLE%@
 
 //Unique Non Poppular
+ItemDisplay[UNI !ID xul !ETH]:%ORANGE%@%WHITE%@  %TAN%Black Hades%TAN%[Chaos Armor] %GRAY%(EX) %ORANGE%@%WHITE%@
+ItemDisplay[UNI !ID xul ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Black Hades%TAN%[Chaos Armor] %GRAY%(EX) %ORANGE%@%WHITE%@
+
 ItemDisplay[UNI !ID amd !ETH]:%ORANGE%@%WHITE%@  %GOLD%Stoneraven%TAN%[Matriarchal Spear] %GRAY%(EL) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID amd ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %GOLD%Stoneraven%TAN%[Matriarchal Spear] %GRAY%(EL) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID mgl !ETH]:%ORANGE%@%WHITE%@  %TAN%Chance Guards%GOLD%[Chain Gloves] %GRAY%(N) %ORANGE%@%WHITE%@
@@ -3365,8 +3370,6 @@ ItemDisplay[UNI !ID hxb]:%ORANGE%@%WHITE%@  %TAN%Hellcast%GOLD%[Heavy Crossbow] 
 ItemDisplay[UNI !ID rxb]:%ORANGE%@%WHITE%@  %TAN%Doomslinger%GOLD%[Repeating Crossbow] %GRAY%(N) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID 8lx]:%ORANGE%@%WHITE%@  %TAN%Langer Briser%GOLD%[Arbalest] %GRAY%(EX) %ORANGE%@%WHITE%@
 
-ItemDisplay[UNI !ID 6hx]:%ORANGE%@%WHITE%@  %TAN%Hellrack%GOLD%[Colossus Crossbow] %GRAY%(EL) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID 6rx]:%ORANGE%@%WHITE%@  %TAN%Gut Siphon%GOLD%[Demon Crossbow] %GRAY%(EL) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID dgr !ETH]:%ORANGE%@%WHITE%@  %TAN%Gull%GOLD%[Dagger] %GRAY%(N) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID dgr ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Gull%GOLD%[Dagger] %GRAY%(N) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID dir !ETH]:%ORANGE%@%WHITE%@  %TAN%The Diggler%GOLD%[Dirk] %GRAY%(N) %ORANGE%@%WHITE%@
@@ -3458,8 +3461,7 @@ ItemDisplay[UNI !ID 9qs !ETH]:%ORANGE%@%WHITE%@  %TAN%The Fetid Sprinkler%GOLD%[
 ItemDisplay[UNI !ID 9qs ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%The Fetid Sprinkler%GOLD%[Holy Water Sprinkler] %GRAY%(EX) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID 9ws !ETH]:%ORANGE%@%WHITE%@  %TAN%Hand of Blessed Light%GOLD%[Divine Scepter] %GRAY%(EX) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID 9ws ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Hand of Blessed Light%GOLD%[Divine Scepter] %GRAY%(EX) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID 7sc !ETH]:%ORANGE%@%WHITE%@  %TAN%Heaven's Light or the Redeemer%GOLD%[Mighty Scepter] %GRAY%(EL) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID 7sc ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Heaven's Light or ETH the Redeemer%GOLD%[Mighty Scepter] %GRAY%(EL) %ORANGE%@%WHITE%@
+
 ItemDisplay[UNI !ID spr !ETH]:%ORANGE%@%WHITE%@  %TAN%The Dragon Chang%GOLD%[Spear] %GRAY%(N) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID spr ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%The Dragon Chang%GOLD%[Spear] %GRAY%(N) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID tri !ETH]:%ORANGE%@%WHITE%@  %TAN%Razortine%GOLD%[Trident] %GRAY%(N) %ORANGE%@%WHITE%@
