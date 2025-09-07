@@ -2585,7 +2585,7 @@ ItemDisplay[(aqv OR cqv) RARE ID]:%NAME%{%GRAY%And...Skill+ManaLeech+MagicFind%N
 ItemDisplay[RARE (WEAPON OR ARMOR) !ID ELT]:%ORANGE%El-%YELLOW%%NAME%%CONTINUE%
 ItemDisplay[RARE (WEAPON OR ARMOR) !ID EXC]:%LIGHT_GRAY%Ex-%YELLOW%%NAME%%CONTINUE%
 ItemDisplay[RARE (WEAPON OR ARMOR) !ID NORM]:%GRAY%n-%YELLOW%%NAME%%CONTINUE%
-ItemDisplay[RARE (mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm OR flb OR 9fb OR 7fb) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %YELLOW%%NAME%    %GREEN%*%SAGE%*%BLUE%*%PURPLE%*
+ItemDisplay[RARE (mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm OR flb OR 9fb OR 7fb OR gax OR 9ga OR 7ga) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %YELLOW%%NAME%    %GREEN%*%SAGE%*%BLUE%*%PURPLE%*
 ItemDisplay[RARE (gsd OR 9gd OR 7gd OR glv OR 9gl OR 7gl OR pil OR 9pi OR 7pi OR tsp OR 9ts OR 7ts) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %YELLOW%%NAME%    %GREEN%*%SAGE%*%BLUE%*%PURPLE%*
 ItemDisplay[RARE (am5 OR ama OR amf OR whm OR 9wh OR 7wh) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %YELLOW%%NAME%    %GREEN%*%SAGE%*%BLUE%*%PURPLE%*
 ItemDisplay[RARE (CL5) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %YELLOW%%NAME%    %GREEN%*%SAGE%*%BLUE%*%PURPLE%*
@@ -2593,7 +2593,7 @@ ItemDisplay[RARE (CL5) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHIT
 ItemDisplay[RARE (EQ4) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %GREEN%*%SAGE%*%BLUE%*%PURPLE%*
 ItemDisplay[RARE (EQ5) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*%BLUE%*%PURPLE%*    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %GREEN%*%SAGE%*%BLUE%*%PURPLE%*
 
-ItemDisplay[RARE (CL4) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
+ItemDisplay[RARE (CL4 OR gax OR 9ga OR 7ga) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
 
 ItemDisplay[RARE (am2 OR am7 OR amc OR lwb OR 8lw OR 6lw OR hxb OR 8hx OR 6hx) !ETH !ID]: %DOT-75%%GREEN%*%CORAL%*%PURPLE%*%WHITE%*    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %GREEN%*%CORAL%*%PURPLE%*%WHITE%*
 ItemDisplay[RARE (WEAPON OR ARMOR) !ETH !ID]: %YELLOW%%NAME%
@@ -3065,6 +3065,8 @@ ItemDisplay[UNI !ID 7sc !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%Heaven's Light or the 
 ItemDisplay[UNI !ID 7sc ETH]:%DOT-0C%%GOLD%@%RED%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Heaven's Light or ETH the Redeemer%PURPLE%[%GRAY%Mighty Scepter%PURPLE%] %GRAY%-EL-  %RED%@%GOLD%@
 ItemDisplay[UNI !ID 6hx]:%DOT-0C%%GOLD%@%RED%@  %RED%Hellrack%PURPLE%[%GRAY%Colossus Crossbow%PURPLE%] %GRAY%-EL-  %RED%@%GOLD%@
 ItemDisplay[UNI !ID 6rx]:%DOT-0C%%GOLD%@%RED%@  %RED%Gut Siphon%PURPLE%[%GRAY%Demon Crossbow%PURPLE%] %GRAY%-EL-  %RED%@%GOLD%@
+ItemDisplay[UNI !ID xts !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%Radament's Sphere%PURPLE%[%GRAY%Ancient Shield%PURPLE%] %GRAY%-EX-  %RED%@%GOLD%@
+ItemDisplay[UNI !ID xts ETH]:%DOT-0C%%GOLD%@%RED%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Radament's Sphere%PURPLE%[%GRAY%Ancient Shield%PURPLE%] %GRAY%-EX-  %RED%@%GOLD%@
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%%NAME%    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
@@ -3184,8 +3186,6 @@ ItemDisplay[UNI !ID xit !ETH]:%ORANGE%@%WHITE%@  %TAN%Tiamat's Rebuke%PURPLE%[%G
 ItemDisplay[UNI !ID xit ETH]:%ORANGE%@%WHITE%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Tiamat's Rebuke%PURPLE%[%GRAY%Dragon Shield%PURPLE%] %GRAY%-EX-  %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID xpk !ETH]:%ORANGE%@%WHITE%@  %TAN%Lance Guard%PURPLE%[%GRAY%Barbed Shield%PURPLE%] %GRAY%-EX-  %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID xpk ETH]:%ORANGE%@%WHITE%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Lance Guard%PURPLE%[%GRAY%Barbed Shield%PURPLE%] %GRAY%-EX-  %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID xts !ETH]:%ORANGE%@%WHITE%@  %TAN%Radament's Sphere%PURPLE%[%GRAY%Ancient Shield%PURPLE%] %GRAY%-EX-  %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID xts ETH]:%ORANGE%@%WHITE%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Radament's Sphere%PURPLE%[%GRAY%Ancient Shield%PURPLE%] %GRAY%-EX-  %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID uml !ETH]:%ORANGE%@%WHITE%@  %TAN%Blackoak Shield%PURPLE%[%GRAY%Luna%PURPLE%] %GRAY%-EL-  %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID uml ETH]:%ORANGE%@%WHITE%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Blackoak Shield%PURPLE%[%GRAY%Luna%PURPLE%] %GRAY%-EL-  %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID upk !ETH]:%ORANGE%@%WHITE%@  %TAN%Spike Thorn%PURPLE%[%GRAY%Blade Barrier%PURPLE%] %GRAY%-EL-  %ORANGE%@%WHITE%@
