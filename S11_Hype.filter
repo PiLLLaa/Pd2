@@ -3921,6 +3921,7 @@ ItemDisplay[7fb NMAG !RW]:%GRAY%Colossus Sword%CONTINUE%
 ItemDisplay[7gd NMAG !RW]:%GRAY%Colossus Blade%CONTINUE%
 ItemDisplay[7gs NMAG !RW]:%GRAY%Balrog Blade%CONTINUE%
 ItemDisplay[7ls NMAG !RW]:%GRAY%Cryptic Sword%CONTINUE%
+ItemDisplay[7wd NMAG !RW]:%GRAY%Mythical Sword%CONTINUE%
 
 //Staves
 ItemDisplay[6ws NMAG !RW]:%ORANGE%El %GRAY%Archon Staff%CONTINUE%
@@ -4894,14 +4895,16 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL>40 7st]:%NAME%{%RED%X%ORANGE%X%GREEN%X      %RE
 //s10
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 9sr]:%NAME%{%RED%X%ORANGE%X%GREEN%X      %RED%M%ORANGE%a%GOLD%x%GRAY%Soc:%PURPLE%4 %GRAY%by larzuk      %RED%X%ORANGE%X%GREEN%X%NAME%}%CONTINUE%
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 7sr]:%NAME%{%RED%X%ORANGE%X%GREEN%X      %RED%M%ORANGE%a%GOLD%x%GRAY%Soc:%PURPLE%6 %GRAY%by larzuk      %RED%X%ORANGE%X%GREEN%X%NAME%}%CONTINUE%
+//s11 mythical Sword
+ItemDisplay[NMAG SOCK=0 !RW ILVL>40 7wd]:%NAME%{%RED%X%ORANGE%X%GREEN%X      %RED%M%ORANGE%a%GOLD%x%GRAY%Soc:%PURPLE%3 %GRAY%by larzuk      %RED%X%ORANGE%X%GREEN%X%NAME%}%CONTINUE%
 
-ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) !SOCK=1 !RW ED>9 NMAG]:%DOT-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-//ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) ETH !SOCK=1 !RW ED>9 NMAG]:%DOT-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs OR 7wd) !SOCK=1 !RW ED>9 NMAG]:%DOT-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+//ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs OR 7wd) ETH !SOCK=1 !RW ED>9 NMAG]:%DOT-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 //s10
 ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 7sr) ETH !SOCK=1 !SOCK=2 !SOCK=3 ED>9 !RW NMAG]:%DOT-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
-ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) !ETH !SOCK=1 !RW NMAG ED>0 FILTLVL>9]:
-ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) ETH !SOCK=1 !RW NMAG FILTLVL>9]:
+ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs OR 7wd) !ETH !SOCK=1 !RW NMAG ED>0 FILTLVL>9]:
+ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs OR 7wd) ETH !SOCK=1 !RW NMAG FILTLVL>9]:
 //s10
 ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 9sr OR 7sr) !ETH !SOCK=1 !SOCK=2 !RW NMAG ED>0 FILTLVL>9]:
 ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 9sr OR 7sr) ETH !SOCK=1 !SOCK=2 !RW NMAG FILTLVL>9]:
@@ -4910,8 +4913,8 @@ ItemDisplay[(crs OR bsd OR lsd OR fla) (SOCK=4 OR SOCK=5) !RW NMAG FILTLVL>9]:
 ItemDisplay[(7cr) SOCK=5 !RW NMAG FILTLVL>9]:
 ItemDisplay[(7fb) !ETH !SOCK=1 !RW NMAG FILTLVL>9]:
 
-ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) !ETH !SOCK=1 !RW NMAG ED>0]:%NAME%{%NAME%}
-ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs) ETH !SOCK=1 !RW NMAG]:%NAME%{%NAME%}
+ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs OR 7wd) !ETH !SOCK=1 !RW NMAG ED>0]:%NAME%{%NAME%}
+ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs OR 7wd) ETH !SOCK=1 !RW NMAG]:%NAME%{%NAME%}
 //s10
 ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 9sr OR 7sr) !ETH !SOCK=1 !SOCK=2 !RW NMAG ED>0]:%NAME%{%NAME%}
 ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 9sr OR 7sr) ETH !SOCK=1 !SOCK=2 !RW NMAG]:%NAME%{%NAME%}
