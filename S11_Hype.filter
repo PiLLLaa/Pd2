@@ -1154,7 +1154,7 @@ ItemDisplay[cm3 UNI ID]:%TAN%G %ORANGE%  h%GOLD%  e%WHITE%  e%GOLD%  d'  %ORANGE
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                         S11 New Items                                        //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[imrn]:%SOUNDID-2664%%MAP-0B%%PURPLE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%[    %GOLD%Demonic  %ORANGE%Cube%WHITE%* %GREEN%%QTY%    %WHITE%]%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%PURPLE%*{%NL%%GOLD% Maintains the sockets of a unique/set item + Socketed items%GOLD%Reroll the stats for Set/Unique Items%RED%(Not Apply for Corrupted or Mirroed item)%NL%}
+ItemDisplay[imrn]:%SOUNDID-2664%%MAP-0B%%PURPLE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%[    %GOLD%Demonic  %ORANGE%Cube%WHITE%* %GREEN%%QTY%    %WHITE%]%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%PURPLE%*{%NL%%GOLD% Maintains the sockets of a unique/set item + Socketed items%NL%%GOLD%Reroll the stats for Set/Unique Items%NL%%RED%(Not Apply for Corrupted or Mirroed item)%NL%}
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
