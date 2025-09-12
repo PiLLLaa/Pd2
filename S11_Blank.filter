@@ -5145,6 +5145,10 @@ ItemDisplay[(cm3 OR cm2 OR cm1 OR cm1p OR cm2p OR cm3p) ID MAG !UNI (GFIND OR !S
 //ItemDisplay[cm3 UNI ID]:%PURPLE%G%ORANGE%h%GOLD%e%WHITE%e%GOLD%d'%ORANGE%s %TAN%Fortune
 
 ItemDisplay[cm3 UNI ID]:%TAN%G %ORANGE%  h%GOLD%  e%WHITE%  e%GOLD%  d'  %ORANGE%s    %TAN%F  o  %GOLD%r  t  %ORANGE%u  n  %WHITE%e{%PURPLE%**%ORANGE%**%GOLD%**%WHITE%**%GOLD%**%ORANGE%**%PURPLE%**%PURPLE%**%ORANGE%**%GOLD%**%WHITE%**%GOLD%**%ORANGE%**%PURPLE%**%PURPLE%**%ORANGE%**%GOLD%**%WHITE%**%GOLD%**%ORANGE%**%PURPLE%**%NL%     %PURPLE%Gheed's Fortune     %NL%%PURPLE%**%ORANGE%**%GOLD%**%WHITE%**%GOLD%**%ORANGE%**%PURPLE%**%PURPLE%**%ORANGE%**%GOLD%**%WHITE%**%GOLD%**%ORANGE%**%PURPLE%**%PURPLE%**%ORANGE%**%GOLD%**%WHITE%**%GOLD%**%ORANGE%**%PURPLE%**}
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                         S11 New Items                                        //
+/////////////////////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[imrn]:%SOUNDID-2664%%MAP-0B%%PURPLE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[    %GOLD%Demonic  %ORANGE%Cube%WHITE%* %GREEN%%QTY%    %WHITE%]%PURPLE%--%BLUE%--%GREEN%--%YELLOW%--%ORANGE%--%RED%--%PURPLE%*{%NL%%GOLD% Maintains the sockets of a unique/set item + Socketed items%NL%%GOLD%Reroll the stats for Set/Unique Items%NL%%RED%(Not Apply for Corrupted or Mirroed item)%NL%}
 
 ItemDisplay[cm2f]:%MAP-0B%%PURPLE%++    %GOLD%H e %ORANGE%l l %LIGHT_GRAY%f i  %SAGE%r e  %ORANGE%A  %SAGE%s h %CORAL%e s %WHITE%* %GREEN%%QTY%    %PURPLE%++{%NL%%GOLD%Made by cubing the %RED%Torch %WHITE%+ %ORANGE%Key%NL%%GOLD%Stackable %RED%Hellfire Torch%GOLD% ingredient for Voidstone recipe%NL%}
 ItemDisplay[pvpp]:%MAP-0B%%PURPLE%++    %GOLD%D %ORANGE%u e %LIGHT_GRAY%l i  %SAGE%n g  %ORANGE%M  %SAGE%a %CORAL%n a %WHITE%* %GREEN%%QTY%    %PURPLE%++{%NL%%GOLD%Sold by PvP vendors for 1 gold%NL%%GOLD%Super Mana Potion equivalent for %RED%PvP arenas only%NL%}
