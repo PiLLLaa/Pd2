@@ -3131,6 +3131,8 @@ ItemDisplay[UNI !ID 6hx]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Hellrack
 ItemDisplay[UNI !ID 6rx]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Gut Siphon%GOLD%[Demon Crossbow] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID xts !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Radament's Sphere%GOLD%[Ancient Shield] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID xts ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Radament's Sphere%GOLD%[Ancient Shield] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID 7b7 !ETH]:%DOT-0C%%ORANGE%@%WHITE%@  %RED%Doombringer%GOLD%[Champion Sword] %GRAY%(EL) %ORANGE%@%WHITE%@
+ItemDisplay[UNI !ID 7b7 ETH]:%DOT-0C%%ORANGE%@%WHITE%@  %WHITE%eth %RED%Doombringer%GOLD%[Champion Sword] %GRAY%(EL) %ORANGE%@%WHITE%@
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@ %RED%%NAME% %PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@
@@ -3564,8 +3566,7 @@ ItemDisplay[UNI !ID 7ls !ETH]:%ORANGE%@%WHITE%@  %TAN%Frostwind%GOLD%[Cryptic Sw
 ItemDisplay[UNI !ID 7ls ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Frostwind%GOLD%[Cryptic Sword] %GRAY%(EL) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID 7gs !ETH]:%ORANGE%@%WHITE%@  %TAN%Flamebellow%GOLD%[Balrog Blade] %GRAY%(EL) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID 7gs ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Flamebellow%GOLD%[Balrog Blade] %GRAY%(EL) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID 7b7 !ETH]:%ORANGE%@%WHITE%@  %TAN%Doombringer%GOLD%[Champion Sword] %GRAY%(EL) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID 7b7 ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Doombringer%GOLD%[Champion Sword] %GRAY%(EL) %ORANGE%@%WHITE%@
+
 ItemDisplay[UNI !ID wnd !ETH]:%ORANGE%@%WHITE%@  %TAN%Torch of Iro%GOLD%[Wand] %GRAY%(N) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID wnd ETH]:%ORANGE%@%WHITE%@  %WHITE%eth %TAN%Torch of Iro%GOLD%[Wand] %GRAY%(N) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID ywn !ETH]:%ORANGE%@%WHITE%@  %TAN%Maelstrom%GOLD%[Yew Wand] %GRAY%(N) %ORANGE%@%WHITE%@
