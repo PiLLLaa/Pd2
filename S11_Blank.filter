@@ -3733,6 +3733,8 @@ ItemDisplay[UNI !ID 7ga]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Messerschmidt'
 ItemDisplay[UNI !ID 7gi]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Executioner's Justice%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID 6rx]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Gut Siphon%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID xts]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Radament's Sphere%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 7b7]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Doombringer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+
 //Unique Non Poppular
 
 ItemDisplay[UNI !ID xul !ETH]:%GOLD%+%PURPLE%+ %TAN%Black Hades%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+ 
@@ -3960,7 +3962,6 @@ ItemDisplay[UNI !ID 9gd]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %TAN%Swordguard%PURPLE%[%G
 
 ItemDisplay[UNI !ID 7sb]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Bloodmoon%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID 7gs]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Flamebellow%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 7b7]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Doombringer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 
 ItemDisplay[UNI !ID wnd]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Torch of Iro%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID ywn]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Maelstrom%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
