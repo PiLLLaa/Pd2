@@ -3161,6 +3161,8 @@ ItemDisplay[UNI !ID 6hx]:%DOT-0C%%GOLD%@@  %RED%Hellrack%GOLD%[Colossus Crossbow
 ItemDisplay[UNI !ID 6rx]:%DOT-0C%%GOLD%@@  %RED%Gut Siphon%GOLD%[Demon Crossbow] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID xts !ETH]:%DOT-0C%%GOLD%@@  %RED%Radament's Sphere%GOLD%[Ancient Shield] %ORANGE%(EX) %GOLD%@@
 ItemDisplay[UNI !ID xts ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Radament's Sphere%GOLD%[Ancient Shield] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 7b7 !ETH]:%DOT-0C%%ORANGE%@@  %RED%Doombringer%GOLD%[Champion Sword] %ORANGE%(EL) %ORANGE%@@
+ItemDisplay[UNI !ID 7b7 ETH]:%DOT-0C%%ORANGE%@@  %PURPLE%Eth %RED%Doombringer%GOLD%[Champion Sword] %ORANGE%(EL) %ORANGE%@@
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%%NAME%    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
@@ -3594,8 +3596,7 @@ ItemDisplay[UNI !ID 7ls !ETH]:%ORANGE%@@  %TAN%Frostwind%GOLD%[Cryptic Sword] %O
 ItemDisplay[UNI !ID 7ls ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Frostwind%GOLD%[Cryptic Sword] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID 7gs !ETH]:%ORANGE%@@  %TAN%Flamebellow%GOLD%[Balrog Blade] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID 7gs ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Flamebellow%GOLD%[Balrog Blade] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID 7b7 !ETH]:%ORANGE%@@  %TAN%Doombringer%GOLD%[Champion Sword] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID 7b7 ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Doombringer%GOLD%[Champion Sword] %ORANGE%(EL) %ORANGE%@@
+
 ItemDisplay[UNI !ID wnd !ETH]:%ORANGE%@@  %TAN%Torch of Iro%GOLD%[Wand] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID wnd ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Torch of Iro%GOLD%[Wand] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID ywn !ETH]:%ORANGE%@@  %TAN%Maelstrom%GOLD%[Yew Wand] %ORANGE%(N) %ORANGE%@@
