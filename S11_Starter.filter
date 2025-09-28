@@ -2917,8 +2917,8 @@ ItemDisplay[UNI !ID ba2 !ETH]: %SOUNDID-2664%%DOT-0C% %GOLD%@@@@     %RED%Wildsp
 ItemDisplay[UNI !ID ba2 ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Wildspeaker%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID 9b8 !ETH]: %SOUNDID-2664%%DOT-0C% %GOLD%@@@@     %RED%Achilles Strike%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID 9b8 ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Achilles Strike%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID uhc !ETH]:%SOUNDID-2664% %DOT-0C% %GOLD%@@@@     %RED%Siggard’s Staunch%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID uhc ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Siggard’s Staunch%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID uhc !ETH]:%SOUNDID-2664% %DOT-0C% %GOLD%@@@@     %RED%Siggards Staunch%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID uhc ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Siggards Staunch%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID neg !ETH]: %SOUNDID-2664%%DOT-0C% %GOLD%@@@@     %RED%Sacred Totem%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID neg ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Sacred Totem%WHITE%(New)     %GOLD%@@@@
 
