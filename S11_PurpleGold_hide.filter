@@ -2893,8 +2893,8 @@ ItemDisplay[UNI !ID ba2 !ETH]:%SOUNDID-2664%%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PUR
 ItemDisplay[UNI !ID ba2 ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %WHITE%eth %RED%Wildspeaker%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 9b8 !ETH]:%SOUNDID-2664%%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %RED%Achilles Strike%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 9b8 ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %WHITE%eth %RED%Achilles Strike%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
-ItemDisplay[UNI !ID uhc !ETH]:%SOUNDID-2664% %DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %RED%Siggard’s Staunch%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
-ItemDisplay[UNI !ID uhc ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %WHITE%eth %RED%Siggard’s Staunch%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID uhc !ETH]:%SOUNDID-2664% %DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %RED%Siggards Staunch%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID uhc ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %WHITE%eth %RED%Siggards Staunch%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID neg !ETH]:%SOUNDID-2664%%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %RED%Sacred Totem%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID neg ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %WHITE%eth %RED%Sacred Totem%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 
