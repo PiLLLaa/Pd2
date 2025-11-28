@@ -1629,11 +1629,13 @@ ItemDisplay[(aqv3) RARE !ID]: %DOT-6F%%GREEN%%SAGE%****    %ORANGE%El-%WHITE%[ %
 ItemDisplay[(cqv3) RARE !ID]: %DOT-6F%%GREEN%%SAGE%*    %ORANGE%El-%WHITE%[ %YELLOW%Bolt %WHITE%]    %GREEN%%SAGE%*
 ItemDisplay[(aqv2) RARE !ID]:%LIGHT_GRAY%Ex-%WHITE%[ %YELLOW%Arrow %WHITE%]
 ItemDisplay[(cqv2) RARE !ID]:%LIGHT_GRAY%Ex-%WHITE%[ %YELLOW%Bolt %WHITE%]
+ItemDisplay[(aqv) RARE !ID]:%GRAY%n-%WHITE%[ %YELLOW%Arrow %WHITE%]
+ItemDisplay[(cqv) RARE !ID]:%GRAY%n-%WHITE%[ %YELLOW%Bolt %WHITE%]
 
-ItemDisplay[(aqv OR cqv) UNI !ID CLVL<80]: %NAME%
-ItemDisplay[(aqv OR cqv) UNI !ID CLVL>79]:
-ItemDisplay[(aqv OR cqv) MAG !ID CLVL<10]: %NAME%
-ItemDisplay[(aqv OR cqv) MAG !ID CLVL>9]:
+//ItemDisplay[(aqv OR cqv) UNI !ID CLVL<80]: %NAME%
+//ItemDisplay[(aqv OR cqv) UNI !ID CLVL>79]:
+ItemDisplay[(aqv OR cqv OR aqv2 OR aqv3 OR cqv2 OR cqv3) MAG !ID CLVL<30]: %NAME%
+ItemDisplay[(aqv OR cqv OR aqv2 OR aqv3 OR cqv2 OR cqv3) MAG !ID CLVL>29]:
 
 //ItemDisplay[cqv RARE !ID CLVL<80]: %NAME%
 //ItemDisplay[cqv RARE !ID CLVL>79]:
