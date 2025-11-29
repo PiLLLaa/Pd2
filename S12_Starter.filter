@@ -2633,10 +2633,10 @@ ItemDisplay[EQ6 (RARE OR CRAFT) ID (!(FCR>0 AND STAT99>0) OR !(STAT99>0 AND (STA
 //s12
 ItemDisplay[(aqv OR cqv OR aqv2 OR aqv3 OR cqv2 OR cqv3) RARE ID (!ED>39 OR !IAS>0)]:%NAME%%CONTINUE%
 ItemDisplay[(aqv OR cqv OR aqv2 OR aqv3 OR cqv2 OR cqv3) RARE ID]:%NAME%{%GRAY%And...Skill+ManaLeech+MagicFind%NL%%GOLD%Good option: %RED%High Ed with %GRAY%Ias+Deadly}%CONTINUE%
-ItemDisplay[(aqv OR cqv OR aqv2 OR aqv3 OR cqv2 OR cqv3) (MAG OR RARE) ID]:%NAME%{%WHITE%Max Socket : 2%NL%%NAME%}%CONTINUE%
-ItemDisplay[(aqv OR cqv) NORM]:%NAME%{%NL%%DARK_GREEN%(NORMAL)%NL%%NAME%}%CONTINUE%
-ItemDisplay[(aqv2 OR cqv2) EXC]:%NAME%{%NL%%ORANGE%(EXCEPTIONAL)%NL%%NAME%}%CONTINUE%
-ItemDisplay[(aqv3 OR cqv3) ELT]:%NAME%{%NL%%PURPLE%(ELITE)%NL%%NAME%}%CONTINUE%
+ItemDisplay[(aqv OR cqv OR aqv2 OR aqv3 OR cqv2 OR cqv3) SOCK=0 (NMAG OR MAG OR RARE) ID]:%NAME%{%WHITE%Max Socket : 2%NL%%NAME%}%CONTINUE%
+ItemDisplay[(aqv OR cqv)]:%NAME%{%NL%%DARK_GREEN%(NORMAL)%NL%%NAME%}%CONTINUE%
+ItemDisplay[(aqv2 OR cqv2)]:%NAME%{%NL%%ORANGE%(EXCEPTIONAL)%NL%%NAME%}%CONTINUE%
+ItemDisplay[(aqv3 OR cqv3)]:%NAME%{%NL%%PURPLE%(ELITE)%NL%%NAME%}%CONTINUE%
 
 
 //ItemDisplay[EQ5 RARE ID STAT96>19]: %RED%FRW %YELLOW%%NAME%%CONTINUE%
