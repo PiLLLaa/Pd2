@@ -4022,6 +4022,11 @@ ItemDisplay[UNI !ID uhc ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e)
 ItemDisplay[UNI !ID neg !ETH]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Sacred Totem%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID neg ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Sacred Totem%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
 
+//s12
+ItemDisplay[UNI !ID 6hb]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Crackleshot%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID (aqv OR aqv2 OR aqv3)]:%GOLD%+%PURPLE%+ %TAN%Arrow%WHITE%(New) %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID (cqv OR cqv2 OR cqv3)]:%GOLD%+%PURPLE%+ %TAN%Bolt%WHITE%(New) %PURPLE%+%GOLD%+
+
 ItemDisplay[(WEAPON OR ARMOR) UNI !ID]:%GOLD%+%ORANGE%+       %GOLD%%NAME%       %ORANGE%+%GOLD%+
 
 ItemDisplay[SET !ID mbl !ETH]:%GREEN%+%PURPLE%+    %DARK_GREEN%H s a r u s %WHITE%or %GREEN%H w a n i n %SAGE%[Belt]    %PURPLE%+%GREEN%+
