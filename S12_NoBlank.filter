@@ -4881,12 +4881,12 @@ ItemDisplay[(cm1) (MAG) !UNI STAT48>0 STAT49>0]:%RED%FireDmg %NAME%%CONTINUE%
 ItemDisplay[(cm1) (MAG) !UNI STAT50>0 STAT51>0]:%YELLOW%LightnDmg %NAME%%CONTINUE%
 ItemDisplay[(cm1) (MAG) !UNI STAT54>0 STAT55>0]:%BLUE%ColdDmg %NAME%%CONTINUE%
 
-ItemDisplay[cm3 MAG !UNI]: %TEAL%+  %RED%G r a n d  %BLUE%Charm  %PURPLE%+%NL%%NAME%{%NAME%}
-ItemDisplay[cm2 MAG !UNI]: %TEAL%+  %YELLOW%L a r g e  %BLUE%Charm  %PURPLE%+%NL%%NAME%{%NAME%}
-ItemDisplay[cm1 MAG !UNI]: %TEAL%+  %ORANGE%S m a l l  %BLUE%Charm  %PURPLE%+%NL%%NAME%{%NAME%}
-ItemDisplay[cm3p MAG !UNI]: %TEAL%+  %RED%G r a n d  %BLUE%Charm  %PURPLE%+%NL%%NAME%{%NAME%}
-ItemDisplay[cm2p MAG !UNI]: %TEAL%+  %YELLOW%L a r g e  %BLUE%Charm  %PURPLE%+%NL%%NAME%{%NAME%}
-ItemDisplay[cm1p MAG !UNI]: %TEAL%+  %ORANGE%S m a l l  %BLUE%Charm  %PURPLE%+%NL%%NAME%{%NAME%}
+ItemDisplay[cm3 MAG !UNI]: %TEAL%+  %RED%Grand %BLUE%Charm  %PURPLE%+%NL%%NAME%{%NAME%}
+ItemDisplay[cm2 MAG !UNI]: %TEAL%+  %YELLOW%Large %BLUE%Charm  %PURPLE%+%NL%%NAME%{%NAME%}
+ItemDisplay[cm1 MAG !UNI]: %TEAL%+  %ORANGE%Small %BLUE%Charm  %PURPLE%+%NL%%NAME%{%NAME%}
+ItemDisplay[cm3p MAG !UNI]: %TEAL%+  %RED%Grand %BLUE%Charm  %PURPLE%+%NL%%NAME%{%NAME%}
+ItemDisplay[cm2p MAG !UNI]: %TEAL%+  %YELLOW%Large %BLUE%Charm  %PURPLE%+%NL%%NAME%{%NAME%}
+ItemDisplay[cm1p MAG !UNI]: %TEAL%+  %ORANGE%Small %BLUE%Charm  %PURPLE%+%NL%%NAME%{%NAME%}
 ItemDisplay[(cm3 OR cm2 OR cm1 OR cm1p OR cm2p OR cm3p) ID MAG !UNI (GFIND OR !STR>0 OR !DEX>0 !STAT22>0 OR !STAT96>0 OR !STAT99>0 OR !RES>0 OR !LIFE>0 OR !MANA>0 OR !STAT80>0 OR !STAT329>0 OR !STAT330>0 OR !STAT331>0 OR !STAT332>0 OR !STAT333>0 OR !TABSK0>0 OR !TABSK1>0 OR !TABSK2>0 OR !TABSK8>0 OR !TABSK9>0 OR !TABSK10>0 OR !TABSK16>0 OR !TABSK17>0 OR !TABSK18>0 OR !TABSK24>0 OR !TABSK25>0 OR !TABSK26>0 OR !TABSK32>0 OR !TABSK33>0 OR !TABSK34>0 OR !TABSK40>0 OR !TABSK41>0 OR !TABSK42>0 OR !TABSK48>0 OR !TABSK49>0 OR !TABSK50>0)]: %NAME% %ORANGE%[L%ILVL%]
 
 //ItemDisplay[cm3 UNI ID]:%PURPLE%G%ORANGE%h%GOLD%e%WHITE%e%GOLD%d'%ORANGE%s %TAN%Fortune
@@ -4897,36 +4897,36 @@ ItemDisplay[cm3 UNI ID]:%TAN%G %ORANGE%  h%GOLD%  e%WHITE%  e%GOLD%  d'  %ORANGE
 /////////////////////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[imrn]:%SOUNDID-2664%%MAP-0B%%PURPLE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[    %GOLD%Demonic  %ORANGE%Cube%WHITE%* %GREEN%%QTY%    %WHITE%]%PURPLE%--%BLUE%--%GREEN%--%YELLOW%--%ORANGE%--%RED%--%PURPLE%*{%NL%%GOLD% Maintains the sockets of a unique/set item + Socketed items%NL%%GOLD%Reroll the stats for Set/Unique Items%NL%%RED%(Not Apply for Corrupted or Mirroed item)%NL%}
 
-ItemDisplay[cm2f]:%MAP-0B%%PURPLE%++    %GOLD%H e %ORANGE%l l %LIGHT_GRAY%f i  %SAGE%r e  %ORANGE%A  %SAGE%s h %CORAL%e s %WHITE%* %GREEN%%QTY%    %PURPLE%++{%NL%%GOLD%Made by cubing the %RED%Torch %WHITE%+ %ORANGE%Key%NL%%GOLD%Stackable %RED%Hellfire Torch%GOLD% ingredient for Voidstone recipe%NL%}
-ItemDisplay[pvpp]:%MAP-0B%%PURPLE%++    %GOLD%D %ORANGE%u e %LIGHT_GRAY%l i  %SAGE%n g  %ORANGE%M  %SAGE%a %CORAL%n a %WHITE%* %GREEN%%QTY%    %PURPLE%++{%NL%%GOLD%Sold by PvP vendors for 1 gold%NL%%GOLD%Super Mana Potion equivalent for %RED%PvP arenas only%NL%}
-ItemDisplay[iwss]:%MAP-0B%%PURPLE%++    %GOLD%C a %ORANGE%t a %LIGHT_GRAY%l y %SAGE%s t  %ORANGE%S %SAGE%h a %CORAL%r d %WHITE%* %GREEN%%QTY%    %PURPLE%++{%NL%%GOLD%Guarantees a map event%NL%%GOLD% Corrupted Map : %GREEN%Map %WHITE%+ %RED%Shard %NL%}
+ItemDisplay[cm2f]:%MAP-0B%%PURPLE%++    %GOLD%He%ORANGE%ll %LIGHT_GRAY%fi%SAGE%re %ORANGE%A%SAGE%sh%CORAL%es %WHITE%* %GREEN%%QTY%    %PURPLE%++{%NL%%GOLD%Made by cubing the %RED%Torch %WHITE%+ %ORANGE%Key%NL%%GOLD%Stackable %RED%Hellfire Torch%GOLD% ingredient for Voidstone recipe%NL%}
+ItemDisplay[pvpp]:%MAP-0B%%PURPLE%++    %GOLD%D%ORANGE%ue%LIGHT_GRAY%li%SAGE%ng %ORANGE%M%SAGE%a%CORAL%na %WHITE%* %GREEN%%QTY%    %PURPLE%++{%NL%%GOLD%Sold by PvP vendors for 1 gold%NL%%GOLD%Super Mana Potion equivalent for %RED%PvP arenas only%NL%}
+ItemDisplay[iwss]:%MAP-0B%%PURPLE%++    %GOLD%Ca%ORANGE%ta %LIGHT_GRAY%ly%SAGE%st %ORANGE%S%SAGE%ha%CORAL%rd %WHITE%* %GREEN%%QTY%    %PURPLE%++{%NL%%GOLD%Guarantees a map event%NL%%GOLD% Corrupted Map : %GREEN%Map %WHITE%+ %RED%Shard %NL%}
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                   Essences (Respec Token)                                   //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[tes]:%MAP-0B%%PURPLE%++    %GOLD%S u %ORANGE%f f %WHITE%e r %ORANGE%%CORAL%i n %GOLD%g %RED%( A n d a )%WHITE%* %GREEN%%QTY%    %PURPLE%++
-ItemDisplay[ceh]:%MAP-0B%%PURPLE%++    %GOLD%H a %ORANGE%t r %WHITE%e d %GREEN%( M e p h i s t o )%WHITE%* %GREEN%%QTY%    %PURPLE%++
-ItemDisplay[bet]:%MAP-0B%%PURPLE%++    %GOLD%T e %ORANGE%r r %WHITE%o %ORANGE%%CORAL%r %PURPLE%( D i a b l o )%WHITE%* %GREEN%%QTY%    %PURPLE%++
-ItemDisplay[fed]:%MAP-0B%%PURPLE%++    %GOLD%D e %ORANGE%s t %WHITE%r u %ORANGE%%CORAL%c t %GOLD%i o n %BLUE%( B a a l )%WHITE%* %GREEN%%QTY%    %PURPLE%++
-ItemDisplay[toa]:%MAP-0B%%PURPLE%++    %GOLD%T o %ORANGE%k e %WHITE%n    %PURPLE%++
+ItemDisplay[tes]:%MAP-0B%%PURPLE%++    %GOLD%Su%ORANGE%ff%WHITE%er%ORANGE%%CORAL%in%GOLD%g %RED%(Anda)%WHITE%* %GREEN%%QTY%    %PURPLE%++
+ItemDisplay[ceh]:%MAP-0B%%PURPLE%++    %GOLD%Ha%ORANGE%tr%WHITE%ed %GREEN%(Mephisto)%WHITE%* %GREEN%%QTY%    %PURPLE%++
+ItemDisplay[bet]:%MAP-0B%%PURPLE%++    %GOLD%Te%ORANGE%rr%WHITE%o%ORANGE%%CORAL%r %PURPLE%(Diablo)%WHITE%* %GREEN%%QTY%    %PURPLE%++
+ItemDisplay[fed]:%MAP-0B%%PURPLE%++    %GOLD%De%ORANGE%st%WHITE%ru%ORANGE%%CORAL%ct%GOLD%ion %BLUE%(Baal)%WHITE%* %GREEN%%QTY%    %PURPLE%++
+ItemDisplay[toa]:%MAP-0B%%PURPLE%++    %GOLD%To%ORANGE%ke%WHITE%n    %PURPLE%++
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                   PD2 Corruption Items                                      //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[wss]:%MAP-62%%GREEN%*%BLUE%--%TEAL%--%SAGE%--%WHITE%-- %WHITE%[   %ORANGE%S%RED%h%YELLOW%a%GOLD%r%WHITE%d%WHITE%* %GREEN%%QTY%   %WHITE%]%WHITE%--%SAGE%--%TEAL%--%BLUE%--%GREEN%*{%NL%%GOLD%corrupts items%NL%}
-ItemDisplay[lbox]:%SOUNDID-2664%%MAP-62%%TEAL%++++    %GOLD%P u %ORANGE%z z %GOLD%l e  %WHITE%B o %PURPLE%x%WHITE%* %GREEN%%QTY%    %TEAL%++++{%RED%For all items but, much valuable than piece%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items%NL%}
-ItemDisplay[lpp]:%MAP-62%%TEAL%++++    %GOLD%P u %ORANGE%z z %GOLD%l e  %WHITE%P i %PURPLE%e c %ORANGE%%CORAL%e%WHITE%* %GREEN%%QTY%    %TEAL%++++{%RED%For rare, craft items%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%(Non %TAN%uni/%GREEN%set%WHITE%) %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items (not uniques,sets) items%NL%}
-ItemDisplay[lmal]:%TEAL%++++    %GOLD%L a %ORANGE%r z %GOLD%u k %WHITE%' s  %PURPLE%m a %ORANGE%%CORAL%l u %WHITE%s    %TEAL%++++{%NL%%YELLOW%Others %WHITE%soc : %GREEN%1 %WHITE%(based item)%NL%}
+ItemDisplay[lbox]:%SOUNDID-2664%%MAP-62%%TEAL%++++    %GOLD%Pu%ORANGE%zz%GOLD%le %WHITE%Bo%PURPLE%x%WHITE%* %GREEN%%QTY%    %TEAL%++++{%RED%For all items but, much valuable than piece%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items%NL%}
+ItemDisplay[lpp]:%MAP-62%%TEAL%++++    %GOLD%Pu%ORANGE%zz%GOLD%le %WHITE%Pi%PURPLE%ec %ORANGE%%CORAL%e%WHITE%* %GREEN%%QTY%    %TEAL%++++{%RED%For rare, craft items%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%(Non %TAN%uni/%GREEN%set%WHITE%) %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items (not uniques,sets) items%NL%}
+ItemDisplay[lmal]:%TEAL%++++    %GOLD%La%ORANGE%rz%GOLD%uk%WHITE%'s %PURPLE%ma%ORANGE%%CORAL%lu%WHITE%s    %TEAL%++++{%NL%%YELLOW%Others %WHITE%soc : %GREEN%1 %WHITE%(based item)%NL%}
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      PD2 ITEM                                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[rkey]:%SOUNDID-2664%%MAP-0B%%TEAL%++++    %GOLD%S k %ORANGE%e l %WHITE%e t %ORANGE%%CORAL%o n  %PURPLE%K e %WHITE%y    %TEAL%++++{%NL%%GOLD%Skeleton Key : unlimited use key %NL%}
+ItemDisplay[rkey]:%SOUNDID-2664%%MAP-0B%%TEAL%++++    %GOLD%Sk%ORANGE%el%WHITE%et%ORANGE%%CORAL%on %PURPLE%Ke%WHITE%y    %TEAL%++++{%NL%%GOLD%Skeleton Key : unlimited use key %NL%}
 //s11
 ItemDisplay[lsvl]:%SOUNDID-2664%%MAP-0B%%RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y   %GOLD%Vial of %RED%LIGHTSONG   %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y %RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O{%NL%%GOLD%Makes item Ethereal : %RED%Vial of Lightsong %WHITE%+ %GREEN%Item%NL%%BLUE%doesnt work with set items or items that lack durability (indestructible items)%NL%}
 ItemDisplay[llmr]:%SOUNDID-2664%%MAP-0B%%RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y   %GOLD%Lilith's %ORANGE%Mirror   %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y %RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O{%NL%%GOLD%Mirrors items : %RED%Lilith's Mirror %WHITE%+ %GREEN%Item%NL%%BLUE%color changed to white,black and cannot be used in any cube recipes%NL%}
 
-ItemDisplay[jewf]:%GOLD%J e %WHITE%w e %TAN%l    F %WHITE%r a %GOLD%g m %ORANGE%%CORAL%e n %PURPLE%t s%WHITE%* %GREEN%%QTY% {%NL%%GOLD%Jewel Fragments : stackable jewel%NL%}
-ItemDisplay[cwss]:%SOUNDID-2664%%MAP-0B%%PURPLE%++    %GOLD%T a %ORANGE%i n %WHITE%t e %ORANGE%%CORAL%d  W %GOLD%S S%WHITE%* %GREEN%%QTY%    %PURPLE%++{%NL%%GOLD%Tainted Worldstone Shard : corrupts Annihilus, from Rathma %NL%}
-ItemDisplay[rid]:%SOUNDID-2664%%MAP-0B%%PURPLE%++    %GOLD%H o %ORANGE%r a %WHITE%d r %ORANGE%%CORAL%i m  %GOLD%A l m a n a c    %PURPLE%++{%NL%%GOLD%Horadrim Almanac : unlimited ID tome, from Rathma %NL%}
-ItemDisplay[rtp]:%SOUNDID-2664%%MAP-0B%%PURPLE%++    %GOLD%H o %ORANGE%r a %WHITE%d r %ORANGE%%CORAL%i m  %GOLD%N a v i g a t o r    %PURPLE%++{%NL%%GOLD%Horadrim Navigator : unlimited TP tome, from Rathma %NL%}
+ItemDisplay[jewf]:%GOLD%Je%WHITE%we%TAN%l F%WHITE%ra%GOLD%gm%ORANGE%%CORAL%en%PURPLE%ts%WHITE%* %GREEN%%QTY% {%NL%%GOLD%Jewel Fragments : stackable jewel%NL%}
+ItemDisplay[cwss]:%SOUNDID-2664%%MAP-0B%%PURPLE%++    %GOLD%Ta%ORANGE%in%WHITE%te%ORANGE%%CORAL%d W%GOLD%SS%WHITE%* %GREEN%%QTY%    %PURPLE%++{%NL%%GOLD%Tainted Worldstone Shard : corrupts Annihilus, from Rathma %NL%}
+ItemDisplay[rid]:%SOUNDID-2664%%MAP-0B%%PURPLE%++    %GOLD%Ho%ORANGE%ra%WHITE%dr%ORANGE%%CORAL%im %GOLD%Almanac    %PURPLE%++{%NL%%GOLD%Horadrim Almanac : unlimited ID tome, from Rathma %NL%}
+ItemDisplay[rtp]:%SOUNDID-2664%%MAP-0B%%PURPLE%++    %GOLD%Ho%ORANGE%ra%WHITE%dr%ORANGE%%CORAL%im %GOLD%Navigator    %PURPLE%++{%NL%%GOLD%Horadrim Navigator : unlimited TP tome, from Rathma %NL%}
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                               PD2 MAP ORB ITEM                                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
@@ -4973,21 +4973,32 @@ ItemDisplay[scrb]:%MAP-0B%%GOLD%Horadrim %ORANGE%Scarab%WHITE%* %GREEN%%QTY%{%GO
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      UBER                                                   //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[uba]:%MAP-0B%%GOLD%R e %ORANGE%l i %WHITE%c  o %ORANGE%%CORAL%f  t %TAN%h e  %GOLD%A n %PURPLE%c i %ORANGE%e n %WHITE%t s{%NL%%GOLD%Relic of the Ancients : accesses Uber Ancients%NL%}
-ItemDisplay[ubaa]:%MAP-0B%%PURPLE%++ %GOLD%S i %ORANGE%g i %TAN%l  o %ORANGE%%CORAL%f  %BLUE%M a d a w c%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Sigil of Madawc : Uber Ancients ingredient, from T1 maps%NL%}
-ItemDisplay[ubab]:%MAP-0B%%PURPLE%++ %GOLD%S i %ORANGE%g i %TAN%l  o %ORANGE%%CORAL%f  %GREEN%T a l i c%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Sigil of Talic : Uber Ancients ingredient, from T2 maps%NL%}
-ItemDisplay[ubac]:%MAP-0B%%PURPLE%++ %GOLD%S i %ORANGE%g i %TAN%l  o %ORANGE%%CORAL%f  %RED%K o r l i c%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Sigil of Korlic : Uber Ancients ingredient, from T3 maps%NL%}
-ItemDisplay[ubtm]:%MAP-0B%%GOLD%P a %ORANGE%n d %WHITE%e m %ORANGE%%CORAL%o n %TAN%i u %GOLD%m  T %PURPLE%a l %ORANGE%i s %WHITE%m a n{%NL%%GOLD%Pandemonium Talisman : accesses Uber Tristram%NL%}
+ItemDisplay[uba]:%MAP-0B%%GOLD%Re%ORANGE%li%WHITE%c o%ORANGE%%CORAL%f t%TAN%he %GOLD%An%PURPLE%ci%ORANGE%en%WHITE%ts{%NL%%GOLD%Relic of the Ancients : accesses Uber Ancients%NL%}
+ItemDisplay[ubaa]:%MAP-0B%%PURPLE%++ %GOLD%Si%ORANGE%gi%TAN%l o%ORANGE%%CORAL%f %BLUE%Madawc%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Sigil of Madawc : Uber Ancients ingredient, from T1 maps%NL%}
+ItemDisplay[ubab]:%MAP-0B%%PURPLE%++ %GOLD%Si%ORANGE%gi%TAN%l o%ORANGE%%CORAL%f %GREEN%Talic%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Sigil of Talic : Uber Ancients ingredient, from T2 maps%NL%}
+ItemDisplay[ubac]:%MAP-0B%%PURPLE%++ %GOLD%Si%ORANGE%gi%TAN%l o%ORANGE%%CORAL%f %RED%Korlic%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Sigil of Korlic : Uber Ancients ingredient, from T3 maps%NL%}
+ItemDisplay[ubtm]:%MAP-0B%%GOLD%Pa%ORANGE%nd%WHITE%em%ORANGE%%CORAL%on%TAN%iu%GOLD%m T%PURPLE%al%ORANGE%is%WHITE%man{%NL%%GOLD%Pandemonium Talisman : accesses Uber Tristram%NL%}
 
-ItemDisplay[dcma]:%MAP-0B%%GOLD%V i %ORANGE%s i %WHITE%o n  %ORANGE%o f  %TAN%T e %PURPLE%r r %WHITE%o r{%WHITE%When Tier2-%ORANGE%Anni.+Item Drop rate Up%RED%(Higher Difficulty)%NL%%BLUE%When Tier1-%ORANGE%Anni.+Item Drop%RED%(High Difficulty)%NL%%GREEN%When Tier0-%ORANGE%Only Anni.%RED%(No Item Drop)%NL%%NL%%GOLD%Item Cubing=%WHITE%Goes to Tier%CORAL%2%NL%%GOLD%Item Cubing=%WHITE%Goes to Tier%CORAL%1%NL%%RED%Cubing%NL%%NL%Natural Status: Tier0(No Item Drop)%NL%%GOLD%Accesses Diablo Clone}
-ItemDisplay[dcso]:%MAP-0B%%PURPLE%++ %GOLD%P r %ORANGE%i m %WHITE%e  E %ORANGE%%CORAL%v i %TAN%l  S %PURPLE%o u %WHITE%l%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Prime Evil Soul : DClone ingredient, from Hell Diablo,Baal%NL%}
-ItemDisplay[dcbl]:%MAP-0B%%PURPLE%++ %GOLD%P u %ORANGE%r e  %WHITE%D e %ORANGE%%CORAL%m o %TAN%n i %PURPLE%c  %WHITE%E s s e n c e%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Pure Demonic Essence : Diablo Clone ingredient, from map bosses%NL%}
-ItemDisplay[dcho]:%MAP-0B%%PURPLE%++ %GOLD%B l %ORANGE%a c %WHITE%k  S %ORANGE%%CORAL%o u %TAN%l s %PURPLE%t o %WHITE%n e%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Black Soulstone : Diablo Clone ingredient, from Uber Tristram%NL%}
+//ItemDisplay[dcma]:%MAP-0B%%GOLD%V i %ORANGE%s i %WHITE%o n  %ORANGE%o f  %TAN%T e %PURPLE%r r %WHITE%o r{%WHITE%When Tier2-%ORANGE%Anni.+Item Drop rate Up%RED%(Higher Difficulty)%NL%%BLUE%When Tier1-%ORANGE%Anni.+Item Drop%RED%(High Difficulty)%NL%%GREEN%When Tier0-%ORANGE%Only Anni.%RED%(No Item Drop)%NL%%NL%%GOLD%Item Cubing=%WHITE%Goes to Tier%CORAL%2%NL%%GOLD%Item Cubing=%WHITE%Goes to Tier%CORAL%1%NL%%RED%Cubing%NL%%NL%Natural Status: Tier0(No Item Drop)%NL%%GOLD%Accesses Diablo Clone}
+//ItemDisplay[dcso]:%MAP-0B%%PURPLE%++ %GOLD%P r %ORANGE%i m %WHITE%e  E %ORANGE%%CORAL%v i %TAN%l  S %PURPLE%o u %WHITE%l%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Prime Evil Soul : DClone ingredient, from Hell Diablo,Baal%NL%}
+//ItemDisplay[dcbl]:%MAP-0B%%PURPLE%++ %GOLD%P u %ORANGE%r e  %WHITE%D e %ORANGE%%CORAL%m o %TAN%n i %PURPLE%c  %WHITE%E s s e n c e%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Pure Demonic Essence : Diablo Clone ingredient, from map bosses%NL%}
+//ItemDisplay[dcho]:%MAP-0B%%PURPLE%++ %GOLD%B l %ORANGE%a c %WHITE%k  S %ORANGE%%CORAL%o u %TAN%l s %PURPLE%t o %WHITE%n e%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Black Soulstone : Diablo Clone ingredient, from Uber Tristram%NL%}
 
-ItemDisplay[rtma]:%MAP-0B%%GOLD%V o %ORANGE%i d %WHITE%s t %ORANGE%o n %TAN%e{%NL%%GOLD%Voidstone : accesses Rathma%NL%}
-ItemDisplay[rtmv]:%MAP-0B%%PURPLE%++ %GOLD%S p %ORANGE%l i %WHITE%n t %ORANGE%%CORAL%e r  %TAN%o f  %PURPLE%t h e V o i d%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Splinter of the Void : Rathma ingredient, from Mendeln map event%NL%}
-ItemDisplay[rtmo]:%MAP-0B%%PURPLE%++ %GOLD%T r %ORANGE%a n %WHITE%g O %ORANGE%%CORAL%u l %TAN%' s  %PURPLE%J a w b o n e%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%TrangOuls Jawbone : Rathma ingredient, from undead%NL%}
-ItemDisplay[rtmf]:%MAP-0B%%PURPLE%++ %GOLD%A n %ORANGE%c i %WHITE%e n %ORANGE%%CORAL%t B %TAN%o n e %PURPLE% F r a g m e n t s%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Ancient Bone Fragments : TrangOuls Jawbone ingredient,from undead%NL%}
+//ItemDisplay[rtma]:%MAP-0B%%GOLD%V o %ORANGE%i d %WHITE%s t %ORANGE%o n %TAN%e{%NL%%GOLD%Voidstone : accesses Rathma%NL%}
+//ItemDisplay[rtmv]:%MAP-0B%%PURPLE%++ %GOLD%S p %ORANGE%l i %WHITE%n t %ORANGE%%CORAL%e r  %TAN%o f  %PURPLE%t h e V o i d%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Splinter of the Void : Rathma ingredient, from Mendeln map event%NL%}
+//ItemDisplay[rtmo]:%MAP-0B%%PURPLE%++ %GOLD%T r %ORANGE%a n %WHITE%g O %ORANGE%%CORAL%u l %TAN%' s  %PURPLE%J a w b o n e%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%TrangOuls Jawbone : Rathma ingredient, from undead%NL%}
+//ItemDisplay[rtmf]:%MAP-0B%%PURPLE%++ %GOLD%A n %ORANGE%c i %WHITE%e n %ORANGE%%CORAL%t B %TAN%o n e %PURPLE% F r a g m e n t s%WHITE%* %GREEN%%QTY% %PURPLE%++{%NL%%GOLD%Ancient Bone Fragments : TrangOuls Jawbone ingredient,from undead%NL%}
+
+ItemDisplay[dcma]:%MAP-0B%%GOLD%Vi%ORANGE%si%WHITE%on %ORANGE%of %TAN%Te%PURPLE%rr%WHITE%or{%WHITE%WhenTier2-%ORANGE%Anni.+ItemDroprateUp%RED%(HigherDifficulty)%NL%%BLUE%WhenTier1-%ORANGE%Anni.+ItemDrop%RED%(HighDifficulty)%NL%%GREEN%WhenTier0-%ORANGE%OnlyAnni.%RED%(NoItemDrop)%NL%%NL%%GOLD%ItemCubing=%WHITE%GoestoTier%CORAL%2%NL%%GOLD%ItemCubing=%WHITE%GoestoTier%CORAL%1%NL%%RED%Cubing%NL%%NL%NaturalStatus:Tier0(NoItemDrop)%NL%%GOLD%AccessesDiabloClone}
+ItemDisplay[dcso]:%MAP-0B%%PURPLE%++ %GOLD%Pr%ORANGE%im%WHITE%e E%ORANGE%%CORAL%vi%TAN%l S%PURPLE%ou%WHITE%l%WHITE%*%GREEN%%QTY% %PURPLE%++{%NL%%GOLD%PrimeEvilSoul:DCloneingredient,fromHellDiablo,Baal%NL%}
+ItemDisplay[dcbl]:%MAP-0B%%PURPLE%++ %GOLD%Pu%ORANGE%re %WHITE%De%ORANGE%%CORAL%mo%TAN%ni%PURPLE%c %WHITE%Essence%WHITE%*%GREEN%%QTY% %PURPLE%++{%NL%%GOLD%PureDemonicEssence:DiabloCloneingredient,frommapbosses%NL%}
+ItemDisplay[dcho]:%MAP-0B%%PURPLE%++ %GOLD%Bl%ORANGE%ac%WHITE%k S%ORANGE%%CORAL%ou%TAN%ls%PURPLE%to%WHITE%ne%WHITE%*%GREEN%%QTY% %PURPLE%++{%NL%%GOLD%BlackSoulstone:DiabloCloneingredient,fromUberTristram%NL%}
+
+ItemDisplay[rtma]:%MAP-0B%%GOLD%Vo%ORANGE%id%WHITE%st%ORANGE%on%TAN%e{%NL%%GOLD%Voidstone:accessesRathma%NL%}
+ItemDisplay[rtmv]:%MAP-0B%%PURPLE%++ %GOLD%Sp%ORANGE%li%WHITE%nt%ORANGE%%CORAL%er %TAN%of %PURPLE%theVoid%WHITE%*%GREEN%%QTY% %PURPLE%++{%NL%%GOLD%SplinteroftheVoid:Rathmaingredient,fromMendelnmapevent%NL%}
+ItemDisplay[rtmo]:%MAP-0B%%PURPLE%++ %GOLD%Tr%ORANGE%an%WHITE%gO%ORANGE%%CORAL%ul%TAN%'s %PURPLE%Jawbone%WHITE%*%GREEN%%QTY% %PURPLE%++{%NL%%GOLD%TrangOulsJawbone:Rathmaingredient,fromundead%NL%}
+ItemDisplay[rtmf]:%MAP-0B%%PURPLE%++ %GOLD%An%ORANGE%ci%WHITE%en%ORANGE%%CORAL%tB%TAN%one %PURPLE%Fragments%WHITE%*%GREEN%%QTY% %PURPLE%++{%NL%%GOLD%AncientBoneFragments:TrangOulsJawboneingredient,fromundead%NL%}
+
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                    Uber Keys                                               //
 /////////////////////////////////////////////////////////////////////////////////////////////////
@@ -4998,6 +5009,15 @@ ItemDisplay[dhn]:%MAP-0B%%PURPLE%++ %DARK_GREEN%%SAGE%D i %GREEN%a b %WHITE%l o 
 ItemDisplay[bey]:%MAP-0B%%PURPLE%++ %DARK_GREEN%%SAGE%B a %GREEN%a l %WHITE%' s  %GREEN%%TEAL%E y %DARK_GREEN%e%WHITE%* %GREEN%%QTY% %PURPLE%++
 ItemDisplay[mbr]:%MAP-0B%%PURPLE%++ %DARK_GREEN%%SAGE%M e %GREEN%p h %WHITE%i s %GREEN%%TEAL%t o %DARK_GREEN%' s  %GREEN%B r %WHITE%a i %GREEN%n%WHITE%* %GREEN%%QTY% %PURPLE%++
 ItemDisplay[std]:%MAP-0B%%PURPLE%++ %DARK_GREEN%%SAGE%S t %GREEN%a n %WHITE%d a %GREEN%%TEAL%r d  %DARK_GREEN%o f  %GREEN%H e %WHITE%r o %GREEN%e s%WHITE%* %GREEN%%QTY% %PURPLE%++{%GOLD% Standard of Heroes%GOLD%+%ORANGE%MAP %WHITE%OR %RED%DUNGEON%NL%%GOLD% Standard of Heroes : adds Heroic bonuses: +10% Experience, +20% Monster Density, +20% Magic and Gold Find %NL%}
+
+ItemDisplay[pk1]:%MAP-0B%%PURPLE%++ %DARK_GREEN%%SAGE%Ke%GREEN%y %WHITE%f T%GREEN%%TEAL%er%DARK_GREEN%ro%GREEN%r %WHITE%* %GREEN%%QTY% %PURPLE%++
+ItemDisplay[pk2]:%MAP-0B%%PURPLE%++ %DARK_GREEN%%SAGE%Ke%GREEN%y %WHITE%f H%GREEN%%TEAL%at%DARK_GREEN%re%GREEN%d %WHITE%* %GREEN%%QTY% %PURPLE%++
+ItemDisplay[pk3]:%MAP-0B%%PURPLE%++ %DARK_GREEN%%SAGE%Ke%GREEN%y %WHITE%f D%GREEN%%TEAL%es%DARK_GREEN%tr%GREEN%uc%WHITE%ti%GREEN%on %WHITE%* %GREEN%%QTY% %PURPLE%++
+ItemDisplay[dhn]:%MAP-0B%%PURPLE%++ %DARK_GREEN%%SAGE%Di%GREEN%ab%WHITE%lo%GREEN%%TEAL%'s %DARK_GREEN%Ho%GREEN%rn %WHITE%* %GREEN%%QTY% %PURPLE%++
+ItemDisplay[bey]:%MAP-0B%%PURPLE%++ %DARK_GREEN%%SAGE%Ba%GREEN%al%WHITE%'s %GREEN%%TEAL%Ey%DARK_GREEN%e %WHITE%* %GREEN%%QTY% %PURPLE%++
+ItemDisplay[mbr]:%MAP-0B%%PURPLE%++ %DARK_GREEN%%SAGE%Me%GREEN%ph%WHITE%is%GREEN%%TEAL%to%DARK_GREEN%'s %GREEN%Br%WHITE%ai%GREEN%n %WHITE%* %GREEN%%QTY% %PURPLE%++
+ItemDisplay[std]:%MAP-0B%%PURPLE%++ %DARK_GREEN%%SAGE%St%GREEN%an%WHITE%da%GREEN%%TEAL%rd %DARK_GREEN%of %GREEN%He%WHITE%ro%GREEN%es %WHITE%* %GREEN%%QTY% %PURPLE%++{%GOLD% Standard of Heroes%GOLD%+%ORANGE%MAP %WHITE%OR %RED%DUNGEON%NL%%GOLD% Standard of Heroes : adds Heroic bonuses: +10% Experience, +20% Monster Density, +20% Magic and Gold Find %NL%}
+
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      PD2 Maps                                               //
 /////////////////////////////////////////////////////////////////////////////////////////////////
