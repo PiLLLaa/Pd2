@@ -5139,7 +5139,7 @@ ItemDisplay[t37 ID]:%NAME%{%GOLD%Immunes:%YELLOW%L/%GREEN%P/%WHITE%Ph%GOLD%-%PUR
 ItemDisplay[t14 ID]:%NAME%{%GOLD%Immunes:%YELLOW%L/%GREEN%P%GOLD%-%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%125% %BLUE%Cold %TEAL%75% %GREEN%Poison %SAGE%130%%PURPLE%] %WHITE%X %GOLD%Infinity: %YELLOW%Lightn 108%GREEN%Poision}%CONTINUE% //Sanatorium
 ItemDisplay[t21 ID]:%NAME%{%GOLD%Immunes:%RED%F/%YELLOW%L%GOLD%-%PURPLE%[%RED%Fire %CORAL%140% %YELLOW%Light %ORANGE%125% %BLUE%Cold %TEAL%80% %GRAY%Phys %LIGHT_GRAY%75% %GREEN%Poison %SAGE%75%%PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire 123%YELLOW%Lightn 108}%CONTINUE% //Phlegethon ***
 //s11 - Throne of insanity
-ItemDisplay[t32 ID]:%NAME%{%GOLD%Immunes:%RED%F/%BLUE%C%GOLD%-%PURPLE%[%RED%Fire %CORAL%130% %YELLOW%Light %ORANGE%130% %BLUE%Cold %TEAL%130% %ORANGE%Magic %YELLOW%75% %GREEN%Poison %SAGE%85%%PURPLE%] %WHITE%X %GOLD%Infinity: %BLUE%Cold 113%YELLOW%Lightn 113}%CONTINUE% //Throne of Insanity
+ItemDisplay[t32 ID]:%NAME%{%GOLD%Immunes:%RED%F/%BLUE%C%GOLD%-%PURPLE%[%RED%Fire %CORAL%130% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%130% %ORANGE%Magic %YELLOW%75% %GREEN%Poison %SAGE%85%%PURPLE%] %WHITE%X %GOLD%Infinity: %BLUE%Cold 113%RED%Fire 113}%CONTINUE% //Throne of Insanity
 
 ItemDisplay[t16 ID]:%NAME%{%GOLD%Immunes:%RED%F/%BLUE%C/%ORANGE%M%GOLD%-%PURPLE%[%RED%Fire %CORAL%135% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%115% %ORANGE%Magic %YELLOW%125% %GREEN%Poison %SAGE%??%%PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire 118 %ORANGE%Magic}%CONTINUE% //Ruined Cistern **
 //T5
