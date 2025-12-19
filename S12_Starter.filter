@@ -132,13 +132,12 @@ ItemDisplay[box]:%NAME% %ORANGE%[L%ILVL%]%CONTINUE%
 //ItemDisplay[box]:%NAME%{%NL%%RED%(uber3)%GOLD%vision of terror:%ORANGE%prime evilsoul%WHITE%+%BLUE%black soulstone%WHITE%+%RED%pure demonicessence%NAME%}%CONTINUE%
 //ItemDisplay[box]:%NAME%{%NL%%RED%(uber4)%GOLD%voidstone: %RED%hellfire torch%WHITE%+%YELLOW%splinter of the void%WHITE%+%GREEN%trang-oul's jawbone %NAME%}
 ItemDisplay[box]:%NAME%{%NL%%RED%(Ancients)%GOLD%relic of the ancients: %ORANGE%sigil of madawc%WHITE%+%BLUE%sigil oftalic%WHITE%+%GREEN%sigil of korlic %NAME%}%CONTINUE%
-
 //S11 
 ItemDisplay[box]:%NAME%{%NL%%RED%(Tristram)%GOLD%pandemonium Talisman: %YELLOW%mephisto's brain%WHITE%+%RED%diablo's horn%WHITE%+%BLUE%baal's eye%NAME%}%CONTINUE%
-
 ItemDisplay[box]:%NAME%{%NL%%RED%(Dclone)%GOLD%vision of terror:%ORANGE%prime evilsoul%WHITE%+%BLUE%black soulstone%WHITE%+%RED%pure demonicessence%NAME%}%CONTINUE%
 ItemDisplay[box]:%NAME%{%NL%%RED%(Rathma)%GOLD%voidstone: %RED%hellfire torch%WHITE%+%YELLOW%splinter of the void%WHITE%+%GREEN%trang-oul's jawbone %NAME%}%CONTINUE%
 ItemDisplay[box]:%NAME%{%NL%%RED%(Lucion)%GOLD%Shadow of Hatred: %WHITE%Demonic Insignia%WHITE%+%CORAL%Talisman of Transgression%WHITE%+%SAGE%%GREEN%Flesh of Malic %NAME%}
+
 ItemDisplay[bks]:%PURPLE%[%RED%Scroll%PURPLE%] %GOLD%of Inifuss
 ItemDisplay[bkd]:%PURPLE%[%RED%Key%PURPLE%] %GOLD%to the Cairn Stonee
 ItemDisplay[hdm]:%PURPLE%[%RED%Horadric%PURPLE%] %GOLD%Malus
@@ -1514,7 +1513,7 @@ ItemDisplay[t37 ID]:%NAME%{%GOLD%Immunes:%YELLOW%L/%GREEN%P/%WHITE%Ph%GOLD%-%PUR
 ItemDisplay[t14 ID]:%NAME%{%GOLD%Immunes:%YELLOW%L/%GREEN%P%GOLD%-%PURPLE%[%RED%Fire %CORAL%75% %YELLOW%Light %ORANGE%125% %BLUE%Cold %TEAL%75% %GREEN%Poison %SAGE%130%%PURPLE%] %WHITE%X %GOLD%Infinity: %YELLOW%Lightn 108%GREEN%Poision}%CONTINUE% //Sanatorium
 ItemDisplay[t21 ID]:%NAME%{%GOLD%Immunes:%RED%F/%YELLOW%L%GOLD%-%PURPLE%[%RED%Fire %CORAL%140% %YELLOW%Light %ORANGE%125% %BLUE%Cold %TEAL%80% %GRAY%Phys %LIGHT_GRAY%75% %GREEN%Poison %SAGE%75%%PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire 123%YELLOW%Lightn 108}%CONTINUE% //Phlegethon ***
 //s11 - Throne of insanity
-ItemDisplay[t32 ID]:%NAME%{%GOLD%Immunes:%RED%F/%BLUE%C%GOLD%-%PURPLE%[%RED%Fire %CORAL%130% %YELLOW%Light %ORANGE%130% %BLUE%Cold %TEAL%130% %ORANGE%Magic %YELLOW%75% %GREEN%Poison %SAGE%85%%PURPLE%] %WHITE%X %GOLD%Infinity: %BLUE%Cold 113%YELLOW%Lightn 113}%CONTINUE% //Throne of Insanity
+ItemDisplay[t32 ID]:%NAME%{%GOLD%Immunes:%RED%F/%BLUE%C%GOLD%-%PURPLE%[%RED%Fire %CORAL%130% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%130% %ORANGE%Magic %YELLOW%75% %GREEN%Poison %SAGE%85%%PURPLE%] %WHITE%X %GOLD%Infinity: %BLUE%Cold 113%RED%Fire 113}%CONTINUE% //Throne of Insanity
 
 ItemDisplay[t16 ID]:%NAME%{%GOLD%Immunes:%RED%F/%BLUE%C/%ORANGE%M%GOLD%-%PURPLE%[%RED%Fire %CORAL%135% %YELLOW%Light %ORANGE%75% %BLUE%Cold %TEAL%115% %ORANGE%Magic %YELLOW%125% %GREEN%Poison %SAGE%??%%PURPLE%] %WHITE%X %GOLD%Infinity: %RED%Fire 118 %ORANGE%Magic}%CONTINUE% //Ruined Cistern **
 //T5
