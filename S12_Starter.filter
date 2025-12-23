@@ -164,21 +164,21 @@ ItemDisplay[tr2]:%PURPLE%[%RED%Scroll%PURPLE%] %GREEN%of Resistance
 ItemDisplay[(bbb OR ass OR bkd OR bks OR box OR g34 OR ice OR j34 OR mss OR qbr OR qey OR qhr OR tr1 OR tr2 OR xyz)]:%TAN%%NAME%
 
 ItemDisplay[tbk]:%PURPLE%[%BLUE%Portal%PURPLE%] %ORANGE%Book%WHITE%*%GREEN%%QTY% %CONTINUE%
-ItemDisplay[tbk FILTLVL=0]:%NAME%{%NL%%GOLD%Filter Level=%RED%0%RED%, SHOW ALL ITEMS!!}%CONTINUE%
-ItemDisplay[tbk FILTLVL=1]:%NAME%{%NL%%GOLD%Filter Level=%RED%1%WHITE%, Standard}%CONTINUE%
-//ItemDisplay[tbk FILTLVL=2]:%NAME%{%NL%%GOLD%Filter Level=%RED%2%WHITE%, No ThrowingPotion, Ring(M)}%CONTINUE%
-ItemDisplay[tbk FILTLVL=2]:%NAME%{%NL%%GOLD%Filter Level=%RED%2%WHITE%, No Bolt(M)+Arrow(M)+ThrowingPotion, Ring(M)}%CONTINUE%
-ItemDisplay[tbk FILTLVL=3]:%NAME%{%NL%%GOLD%Filter Level=%RED%3%WHITE%, No CraftArmor}%CONTINUE%
-ItemDisplay[tbk FILTLVL=4]:%NAME%{%NL%%GOLD%Filter Level=%RED%4%WHITE%, No Claw(M)+ClassHelmet(M)+Javel(M)}%CONTINUE%
-ItemDisplay[tbk FILTLVL=5]:%NAME%{%NL%%GOLD%Filter Level=%RED%5%WHITE%, No NormalSet(Only Active Sigon)}%CONTINUE%
-ItemDisplay[tbk FILTLVL=6]:%NAME%{%NL%%GOLD%Filter Level=%RED%6%WHITE%, No NecHead(M)+Wand(M)}%CONTINUE%
-ItemDisplay[tbk FILTLVL=7]:%NAME%{%NL%%GOLD%Filter Level=%RED%7%WHITE%, No Amulet(M)+Circlet(M)+Glove(M)}%CONTINUE%
-ItemDisplay[tbk FILTLVL=8]:%NAME%{%NL%%GOLD%Filter Level=%RED%8%WHITE%, No Sigon+HP/MP+Anti}%CONTINUE%
-ItemDisplay[tbk FILTLVL=9]:%NAME%{%NL%%GOLD%Filter Level=%RED%9%WHITE%, No Bolt(Rare)+R35}%CONTINUE%
-ItemDisplay[tbk FILTLVL=10]:%NAME%{%NL%%GOLD%Filter Level=%RED%10%WHITE%, No Arrow(Rare)+Only GG base Item}%CONTINUE%
-ItemDisplay[tbk FILTLVL=11]:%NAME%{%NL%%GOLD%Filter Level=%RED%11%WHITE%, No CraftWeapon(Only Active ETH+Bows(GMB))}%CONTINUE%
-ItemDisplay[tbk FILTLVL=12]:%NAME%{%NL%%GOLD%Filter Level=%RED%12%WHITE%, No AllSet(rin+amu)}%CONTINUE%
-ItemDisplay[tbk]:%NAME%{%NAME%}
+ItemDisplay[tbk FILTLVL=0]:%NAME%{%NL%%GOLD%Filter Level=%RED%0%RED%, SHOW ALL ITEMS!!}
+ItemDisplay[tbk FILTLVL=1]:%NAME%{%NL%%GOLD%Filter Level=%RED%1%WHITE%, Standard}
+//ItemDisplay[tbk FILTLVL=2]:%NAME%{%NL%%GOLD%Filter Level=%RED%2%WHITE%, No ThrowingPotion, Ring(M)}
+ItemDisplay[tbk FILTLVL=2]:%NAME%{%NL%%GOLD%Filter Level=%RED%2%WHITE%, No Bolt(M)+Arrow(M)+ThrowingPotion, Ring(M)}
+ItemDisplay[tbk FILTLVL=3]:%NAME%{%NL%%GOLD%Filter Level=%RED%3%WHITE%, No CraftArmor}
+ItemDisplay[tbk FILTLVL=4]:%NAME%{%NL%%GOLD%Filter Level=%RED%4%WHITE%, No Claw(M)+ClassHelmet(M)+Javel(M)}
+ItemDisplay[tbk FILTLVL=5]:%NAME%{%NL%%GOLD%Filter Level=%RED%5%WHITE%, No NormalSet(Only Active Sigon)}
+ItemDisplay[tbk FILTLVL=6]:%NAME%{%NL%%GOLD%Filter Level=%RED%6%WHITE%, No NecHead(M)+Wand(M)}
+ItemDisplay[tbk FILTLVL=7]:%NAME%{%NL%%GOLD%Filter Level=%RED%7%WHITE%, No Amulet(M)+Circlet(M)+Glove(M)}
+ItemDisplay[tbk FILTLVL=8]:%NAME%{%NL%%GOLD%Filter Level=%RED%8%WHITE%, No Sigon+HP/MP+Anti}
+ItemDisplay[tbk FILTLVL=9]:%NAME%{%NL%%GOLD%Filter Level=%RED%9%WHITE%, No Bolt(Rare)+R35}
+ItemDisplay[tbk FILTLVL=10]:%NAME%{%NL%%GOLD%Filter Level=%RED%10%WHITE%, No Arrow(Rare)+Only GG base Item}
+ItemDisplay[tbk FILTLVL=11]:%NAME%{%NL%%GOLD%Filter Level=%RED%11%WHITE%, No CraftWeapon(Only Active ETH+Bows(GMB))}
+ItemDisplay[tbk FILTLVL=12]:%NAME%{%NL%%GOLD%Filter Level=%RED%12%WHITE%, No AllSet(rin+amu)}
+//ItemDisplay[tbk]:%NAME%{%NAME%}
 
 ItemDisplay[ibk]:%PURPLE%[%RED%Identify%PURPLE%] %ORANGE%Book%WHITE%*%GREEN%%QTY%
 
