@@ -152,7 +152,24 @@ ItemDisplay[hfh]:%PURPLE%[%RED%Hellforge%PURPLE%] %BLUE%Hammer
 ItemDisplay[ice]:%PURPLE%[%RED%Malah's%PURPLE%] %WHITE%Potion
 ItemDisplay[tr2]:%PURPLE%[%RED%Scroll%PURPLE%] %GREEN%of Resistance
 ItemDisplay[(bbb OR ass OR bkd OR bks OR box OR g34 OR ice OR j34 OR mss OR qbr OR qey OR qhr OR tr1 OR tr2 OR xyz)]:%TAN%%NAME%
-ItemDisplay[tbk]:%PURPLE%[%BLUE%Portal%PURPLE%] %ORANGE%Book%WHITE%*%GREEN%%QTY%
+
+ItemDisplay[tbk]:%PURPLE%[%BLUE%Portal%PURPLE%] %ORANGE%Book%WHITE%*%GREEN%%QTY% %CONTINUE%
+ItemDisplay[tbk FILTLVL=0]:%NAME%{%NL%%GOLD%Filter Level=%RED%0%RED%, SHOW ALL ITEMS!!}
+ItemDisplay[tbk FILTLVL=1]:%NAME%{%NL%%GOLD%Filter Level=%RED%1%WHITE%, Standard}
+ItemDisplay[tbk FILTLVL=2]:%NAME%{%NL%%GOLD%Filter Level=%RED%2%WHITE%, No ThrowingPotion, Ring(M)}
+//ItemDisplay[tbk FILTLVL=2]:%NAME%{%NL%%GOLD%Filter Level=%RED%2%WHITE%, No Bolt(M)+Arrow(M)+ThrowingPotion, Ring(M)}
+ItemDisplay[tbk FILTLVL=3]:%NAME%{%NL%%GOLD%Filter Level=%RED%3%WHITE%, No CraftArmor}
+ItemDisplay[tbk FILTLVL=4]:%NAME%{%NL%%GOLD%Filter Level=%RED%4%WHITE%, No Claw(M)+ClassHelmet(M)+Javel(M)}
+ItemDisplay[tbk FILTLVL=5]:%NAME%{%NL%%GOLD%Filter Level=%RED%5%WHITE%, No NormalSet(Only Active Sigon)}
+ItemDisplay[tbk FILTLVL=6]:%NAME%{%NL%%GOLD%Filter Level=%RED%6%WHITE%, No NecHead(M)+Wand(M)}
+ItemDisplay[tbk FILTLVL=7]:%NAME%{%NL%%GOLD%Filter Level=%RED%7%WHITE%, No Amulet(M)+Circlet(M)+Glove(M)}
+ItemDisplay[tbk FILTLVL=8]:%NAME%{%NL%%GOLD%Filter Level=%RED%8%WHITE%, No Sigon+HP/MP+Anti}
+ItemDisplay[tbk FILTLVL=9]:%NAME%{%NL%%GOLD%Filter Level=%RED%9%WHITE%, No Bolt(Rare)+R35}
+ItemDisplay[tbk FILTLVL=10]:%NAME%{%NL%%GOLD%Filter Level=%RED%10%WHITE%, No Arrow(Rare)+Only GG base Item}
+ItemDisplay[tbk FILTLVL=11]:%NAME%{%NL%%GOLD%Filter Level=%RED%11%WHITE%, No CraftWeapon(Only Active ETH+Bows(GMB))}
+ItemDisplay[tbk FILTLVL=12]:%NAME%{%NL%%GOLD%Filter Level=%RED%12%WHITE%, No AllSet(rin+amu)}
+//ItemDisplay[tbk]:%NAME%{%NAME%}
+
 ItemDisplay[ibk]:%PURPLE%[%RED%Identify%PURPLE%] %ORANGE%Book%WHITE%*%GREEN%%QTY%
 //ItemDisplay[leg]:%WHITE%Wirt's %ORANGE%Leg
 
@@ -352,9 +369,393 @@ ItemDisplay[isc DIFF<1]:%RED%[%WHITE%Id %CORAL%Scroll%RED%]
 ItemDisplay[isc DIFF>0]:
 ItemDisplay[rvl]:%PURPLE%[Rp]%WHITE%-%ORANGE%65%{%TAN%-- -- -- -- -- -- -- -- -- --  %NL% %GOLD%heal 65% of your maximum %NL%health up to a limit of 2000 %NL%%TAN%-- --  -- -- -- -- -- -- -- --}
 ItemDisplay[rvs]:%PURPLE%[Rp]%WHITE%-%WHITE%35%
-ItemDisplay[key (MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%WHITE%[%GRAY%Key%WHITE%]
-ItemDisplay[key CLVL<30]:%WHITE%[%GRAY%Key%WHITE%]
-ItemDisplay[key CLVL>29]:
+
+// MAPID=1 : Rogue Encampment ok
+ItemDisplay[key INVENTORY MAPID=1]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  Akara %GREEN%(potion)%RED%(quest)%WHITE%, Charsi %ORANGE%(repair)%WHITE%, Gheed %GOLD%(gamble)%WHITE%, Kashya %BLUE%(merc)%WHITE%, Cain%RED%(Identify)%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw:%WHITE% Blood Moor%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Rogue Encampment%NAME%}
+
+// MAPID=2 : Blood Moor ok
+ItemDisplay[key INVENTORY MAPID=2]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%left%WHITE% fork-check %BLUE%| %YELLOW%right%WHITE% wall-run %BLUE%| %YELLOW%straight%WHITE% path-follow%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Zombie, Fallen, Fallen Shaman, Skeleton%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Rogue Encampment %BLUE%| %SAGE%fw:%BLUE% cold Plains%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Blood Moor%NAME%}
+
+// MAPID=3 : Cold Plains ok
+ItemDisplay[key INVENTORY MAPID=3]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%left%WHITE% side-check %BLUE%| %YELLOW%right%WHITE% wall-run %BLUE%| %YELLOW%straight%WHITE% path-follow%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %BLUE%cold%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Fallen, Fallen Shaman, Skeleton Archer, Zombie%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Blood Moor %BLUE%| %SAGE%fw:%WHITE% Stony Field%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Cold Plains%NAME%}
+
+// MAPID=4 : Stony Field ok
+ItemDisplay[key INVENTORY MAPID=4]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %RED%quest%WHITE% stone-ring %BLUE%| %YELLOW%wall%WHITE% cave-entry %BLUE%| %YELLOW%straight%WHITE% path-follow%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %BLUE%cold%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Goatman, Goatman Shaman, Skeleton, Fallen%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%BLUE% cold Plains %BLUE%| %SAGE%fw:%WHITE% Dark Wood, Underground Passage Lv1%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Stony Field%NAME%}
+
+// MAPID=5 : Dark Wood ok
+ItemDisplay[key INVENTORY MAPID=5]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %RED%quest%WHITE% tree-hunt %BLUE%| %GOLD%unique%WHITE% Treehead WoodFist%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE%  %BLUE%| %SAGE%infinity:%BLUE% cold%NL%%ORANGE%Mob %WHITE%: %GRAY% Dark One, Dark Shaman, Fallen, Fallen Shaman%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Stony Field, Underground Passage Lv1 %BLUE%| %SAGE%fw:%WHITE% Black Marsh%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Dark Wood%NAME%}
+
+// MAPID=6 : Black Marsh ok
+ItemDisplay[key INVENTORY MAPID=6]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %RED%quest%WHITE% tower-run %BLUE%| %YELLOW%wall%WHITE% tower-entry %BLUE%| %YELLOW%straight%WHITE% path-follow%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %BLUE%cold%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Carver, Carver Shaman, Returned, Blood Hawk%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Dark Wood %BLUE%| %SAGE%fw:%WHITE% Tamoe Highland, Hole Lv1, Forgotten Tower%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Black Marsh%NAME%}
+
+// MAPID=7 : Tamoe Highland ok
+ItemDisplay[key INVENTORY MAPID=7]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %GOLD%farm%WHITE% pit-core %BLUE%| %YELLOW%wall%WHITE% pit-entry %BLUE%| %YELLOW%straight%WHITE% path-follow%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %BLUE%cold%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Returned Archer, Returned Mage, Dark Stalker, Dark Lancer%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Black Marsh %BLUE%| %SAGE%fw:%WHITE% Monastery Gate, The Pit Lv1%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Tamoe Highland%NAME%}
+
+// MAPID=12 : The Pit Level 1 ok
+ItemDisplay[key INVENTORY MAPID=12]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %GOLD%farm%WHITE% tc85-mf %BLUE%| %YELLOW%clear%WHITE% full-map %BLUE%| %YELLOW%straight%WHITE% lvl-down%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %BLUE%cold%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Devilkin, Devilkin Shaman, Dark Archer, Bone Warrior%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Tamoe Highland %BLUE%| %SAGE%fw:%WHITE% The Pit Level 2%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%The Pit Level 1%NAME%}
+
+// MAPID=16 : The Pit Level 2 ok
+ItemDisplay[key INVENTORY MAPID=16]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %GOLD%farm%WHITE% golden-chest %BLUE%| %YELLOW%clear%WHITE% full-map %BLUE%| %YELLOW%straight%WHITE% boss-end%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %BLUE%cold%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Devilkin, Devilkin Shaman, Dark Archer, Bone Warrior%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% The Pit Level 1%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%The Pit Level 2%NAME%}
+
+// MAPID=26 : Monastery Gate ok
+ItemDisplay[key INVENTORY MAPID=26]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%straight%WHITE% gate-push %BLUE%| %YELLOW%wall%WHITE% scout-check%NL%%PURPLE%imun. %WHITE%: none %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Returned, Returned Archer, Dark Ranger, Dark Stalker%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Tamoe Highland %BLUE%| %SAGE%fw:%WHITE% Outer Cloister%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Monastery Gate%NAME%}
+
+// MAPID=27 : Outer Cloister ok
+ItemDisplay[key INVENTORY MAPID=27]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%straight%WHITE% wp-center %BLUE%| %YELLOW%edge%WHITE% arm-check %BLUE%| %YELLOW%back%WHITE% gate-exit%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %BLUE%cold%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Devilkin Shaman, Yeti, Razor Spine, Black Rogue%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Monastery Gate %BLUE%| %SAGE%fw:%WHITE% Barracks%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Outer Cloister%NAME%}
+
+// MAPID=28 : Barracks ok
+ItemDisplay[key INVENTORY MAPID=28]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %RED%quest%WHITE% smith-hunt %BLUE%| %YELLOW%straight%WHITE% hall-clear %BLUE%| %YELLOW%end%WHITE% forge-room%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %BLUE%cold%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Devilkin Shaman, Black Rogue, Death Clan, Bone Archer%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Outer Cloister %BLUE%| %SAGE%fw:%WHITE% Jail Level 1%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Barracks%NAME%}
+
+// MAPID=29 : Jail Level 1 ok
+ItemDisplay[key INVENTORY MAPID=29]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%straight%WHITE% wp-check %BLUE%| %YELLOW%wall%WHITE% secret-check %BLUE%| %YELLOW%down%WHITE% lvl-down%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Bone Archer, Wraith, Death Clan, Dark One%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Barracks %BLUE%| %SAGE%fw:%WHITE% Jail Level 2%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Jail Level 1%NAME%}
+
+// MAPID=30 : Jail Level 2 ok
+ItemDisplay[key INVENTORY MAPID=30]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %GOLD%unique%WHITE% Pitspawn Fouldog %BLUE%| %YELLOW%wall%WHITE% secret-check %BLUE%| %YELLOW%down%WHITE% lvl-down%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Bone Archer, Wraith, Death Clan, Dark One%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Jail Level 1 %BLUE%| %SAGE%fw:%WHITE% Jail Level 3%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Jail Level 2%NAME%}
+
+// MAPID=31 : Jail Level 3 ok
+ItemDisplay[key INVENTORY MAPID=31]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%wall%WHITE% secret-check %BLUE%| %YELLOW%straight%WHITE% exit-search%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Bone Archer, Wraith, Death Clan, Bone Mage L%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Jail Level 2 %BLUE%| %SAGE%fw:%WHITE% Inner Cloister%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Jail Level 3%NAME%}
+
+// MAPID=32 : Inner Cloister ok
+ItemDisplay[key INVENTORY MAPID=32]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%straight%WHITE% wp-center %BLUE%| %YELLOW%forward%WHITE% cathedral%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Dark One, Black Archer, Bone Mage L%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Jail Level 3 %BLUE%| %SAGE%fw:%WHITE% Cathedral%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Inner Cloister%NAME%}
+
+// MAPID=33 : Cathedral ok
+ItemDisplay[key INVENTORY MAPID=33]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%straight%WHITE% path-follow %BLUE%| %YELLOW%wall%WHITE% Enter to Catacombs%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Dark One, Black Archer, Bone Archer, Bone Mage L%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Inner Cloister %BLUE%| %SAGE%fw:%WHITE% Catacombs Lv1%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Cathedral%NAME%}
+
+// MAPID=34 : Catacombs Level 1 ok
+ItemDisplay[key INVENTORY MAPID=34]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%wall%WHITE% Follow outer walls, check corridor ends %BLUE%| %YELLOW%edge%WHITE% loop-check %BLUE%| %YELLOW%forward%WHITE% lvl-down%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Dark One, Black Archer, Bone Archer, Bone Mage%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Cathedral %BLUE%| %SAGE%fw:%WHITE% Catacombs Level 2%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Catacombs Level 1%NAME%}
+
+// MAPID=35 : Catacombs Level 2 ok
+ItemDisplay[key INVENTORY MAPID=35]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%left%WHITE% branch-check %BLUE%| %YELLOW%right%WHITE% loop-check %BLUE%| %YELLOW%straight%WHITE% wp-then-down%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %YELLOW%lightn.%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Dark Shaman, Tainted, Arach, Dark One%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Catacombs Level 1 %BLUE%| %SAGE%fw:%WHITE% Catacombs Level 3%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Catacombs Level 2%NAME%}
+
+// MAPID=36 : Catacombs Level 3 ok
+ItemDisplay[key INVENTORY MAPID=36]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%left%WHITE% edge-check %BLUE%| %YELLOW%right%WHITE% deadend %BLUE%| %YELLOW%straight%WHITE% follow-path%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %YELLOW%lightn.%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Dark Shaman, Tainted, Rat Man, Dark One%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Catacombs Level 2 %BLUE%| %SAGE%fw:%WHITE% Catacombs Level 4%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Catacombs Level 3%NAME%}
+
+// MAPID=37 : Catacombs Level 4 (Boss Room) ok
+ItemDisplay[key INVENTORY MAPID=37]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%left%WHITE% wall-check %BLUE%| %YELLOW%right%WHITE% boss-wing %BLUE%| %YELLOW%straight%WHITE% follow-path%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %YELLOW%lightn.%WHITE% %NL%%ORANGE%Mob %WHITE%: %GOLD%Andariel%WHITE%%GRAY%, Dark Shaman, Tainted, Rat Man, Dark One%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Catacombs Level 3 %BLUE%| %SAGE%fw:%WHITE% Lut Gholein%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Catacombs Level 4 %RED%(quest)%WHITE% Andariel Throne%NAME%}
+
+// MAPID=40 : Lut Gholein OK
+ItemDisplay[key INVENTORY MAPID=40]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %GRAY%Act II town hub. %RED%Quest-talk required (NPC dialogue gates progress)%WHITE%%NL%%ORANGE%NPC %WHITE%: Cain %RED%(identify)%WHITE%, Fara %ORANGE%(repair)%WHITE%, Lysander %GREEN%(potion)%WHITE%, Drognan %GRAY%(magic)%WHITE%, Elzix %GOLD%(gamble)%WHITE%, Greiz %BLUE%(mercenary)%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: Rocky Waste %BLUE%| %SAGE%Bk%WHITE%: None%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Lut Gholein (town)%WHITE%%NL%}
+
+// MAPID=41 : Rocky Waste ok
+ItemDisplay[key INVENTORY MAPID=41]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%left%WHITE% ruins %BLUE%| %YELLOW%right%WHITE% desert %BLUE%| %YELLOW%straight%WHITE% road-follow%NL%%PURPLE%imun. %WHITE%: %YELLOW%lightning%WHITE% %BLUE%| %SAGE%infinity:%WHITE% free%NL%%ORANGE%Mob %WHITE%: %GRAY% Dung Soldier, Sand Leaper, Carrion Bird, Huntress%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Lut Gholein %BLUE%| %SAGE%fw:%WHITE% Dry Hills%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Rocky Waste%NAME%}
+
+// MAPID=42 : Dry Hills ok
+ItemDisplay[key INVENTORY MAPID=42]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%wall%WHITE% tomb-search %BLUE%| %YELLOW%open%WHITE% wide-loops %BLUE%| %YELLOW%road%WHITE% to-oasis %NL%%PURPLE%imun. %WHITE%: %GREEN%poison%WHITE% %BLUE%| %SAGE%infinity:%GREEN% poison%NL%%ORANGE%Mob %WHITE%: %GRAY% Cave Leaper, Undead Scavenger, Sabre Cat, Spear Cat%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Rocky Waste %BLUE%| %SAGE%fw:%WHITE% Far Oasis%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Dry Hills%NAME%}
+
+// MAPID=43 : Far Oasis ok
+ItemDisplay[key INVENTORY MAPID=43]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%left%WHITE% maggot %BLUE%| %YELLOW%right%WHITE% oasis %BLUE%| %YELLOW%straight%WHITE% path-follow%NL%%PURPLE%imun. %WHITE%: %YELLOW%lightning%WHITE%, %GREEN%poison%WHITE% %BLUE%| %SAGE%infinity:%YELLOW% lightning%NL%%ORANGE%Mob %WHITE%: %GRAY% Sand Maggot, Death Beetle, Itchies, Undead Scavenger%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Dry Hills %BLUE%| %SAGE%fw:%WHITE% Lost City%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Far Oasis%NAME%}
+
+// MAPID=44 : Lost City OK
+ItemDisplay[key INVENTORY MAPID=44]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%left%WHITE% ruins %BLUE%| %YELLOW%right%WHITE% traps %BLUE%| %YELLOW%straight%WHITE% altar-path%NL%%PURPLE%imun. %WHITE%: %GREEN%poison%WHITE% %BLUE%| %SAGE%infinity:%GREEN% poison%NL%%ORANGE%Mob %WHITE%: %GRAY% Plague Bearer, Night Tiger, Night Slinger, Tomb Creeper%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Far Oasis %BLUE%| %SAGE%fw:%WHITE% Valley of Snakes%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Lost City%NAME%}
+
+// MAPID=45 : Valley of Snakes OK
+ItemDisplay[key INVENTORY MAPID=45]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%straight%WHITE% canyon %BLUE%| %YELLOW%edge%WHITE% walls%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE% %BLUE%| %SAGE%infinity:%WHITE% fire%NL%%ORANGE%Mob %WHITE%: %GRAY% Fire Tower%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Lost City %BLUE%| %SAGE%fw:%WHITE% Claw Viper Temple%RED%(quest)%WHITE%%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Valley of Snakes%NAME%}
+
+// MAPID=50 : Harem Level 1 OK
+ItemDisplay[key INVENTORY MAPID=50]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%straight%WHITE% cellar route %NL%%PURPLE%imun. %WHITE%: None%NL%%ORANGE%Mob %WHITE%: %GRAY% None %NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Lut Gholein %BLUE%| %SAGE%fw:%WHITE% Harem Level 2%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Harem Level 1%NAME%}
+
+// MAPID=51 : Harem Level 2 OK
+ItemDisplay[key INVENTORY MAPID=51]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%: %GRAY%More compact than Level 1. %YELLOW%Exit to Palace Cellar often near corners.%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% %GRAY%Invader, Dune Beast, Horror Archer, Blunderbore, Horror Mage%WHITE%%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%WHITE%%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: Palace Cellar %BLUE%| %SAGE%Bk%WHITE%: Harem Level 1%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Harem Level 2%WHITE%%NAME%}
+
+// MAPID=52 : Palace Cellar Level 1 OK
+ItemDisplay[key INVENTORY MAPID=52]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%straight%WHITE% clear %BLUE%| %YELLOW%Exit near corners %BLUE%| %YELLOW%full%WHITE% explore%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE% (Horror Mage F)%NL%%ORANGE%Mob %WHITE%: %GRAY% Invader, Dune Beast, Horror Archer, Blunderbore, Horror Mage F%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%: %GREEN%%SAGE%bk:%WHITE% Harem %BLUE%| %SAGE%fw:%WHITE% Palace Cellar Level 2 %RED%(quest)%WHITE%%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Palace Cellar Level 1%NAME%}
+
+// MAPID=53 : Palace Cellar Level 2 OK
+ItemDisplay[key INVENTORY MAPID=53]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%straight%WHITE% clear %BLUE%| %YELLOW%Exit near corners %BLUE%| %YELLOW%stairs%WHITE% down%NL%%PURPLE%imun. %WHITE%: %GREEN%poison%WHITE% (Horror Mage P) %BLUE%| %TEAL%Infinity%WHITE%: %GREEN%poison%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Invader, Dune Beast, Horror Archer, Blunderbore, Horror Mage P%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%: %GREEN%%SAGE%bk:%WHITE% Palace Cellar Level 1 %BLUE%| %SAGE%fw:%WHITE% Palace Cellar Level 3 %RED%(quest)%WHITE%%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Palace Cellar Level 2%NAME%}
+
+// MAPID=54 : Palace Cellar Level 3 OK
+ItemDisplay[key INVENTORY MAPID=54]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%straight%WHITE% clear %BLUE%| %YELLOW%portal near center %NL%%PURPLE%imun. %WHITE%: %RED%Fire%WHITE% (Fire Eye) %BLUE%| %GREEN%poison%WHITE% (Horror Mage P)%NL%%ORANGE%Mob %WHITE%: %GRAY% Invader, Dune Beast, Horror Archer, Blunderbore, Horror Mage P, Horror Mage L, %GOLD%Fire Eye%WHITE%%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%: %GREEN%%SAGE%bk:%WHITE% Palace Cellar Level 2 %BLUE%| %SAGE%fw:%WHITE% Arcane Sanctuary %RED%(quest)%WHITE%%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Palace Cellar Level 3%NAME%}
+
+// MAPID=74 : Arcane Sanctuary ok
+ItemDisplay[key INVENTORY MAPID=74]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%4-arm%WHITE% layout %BLUE%| %YELLOW%symbol%WHITE% none = correct %BLUE%| %YELLOW%deadend%WHITE% teleport-return %BLUE%| %YELLOW%quest%WHITE% talk-required %NL%%PURPLE%imun. %WHITE%: %GREEN%lightning, Phi.%WHITE% %BLUE%| %GREEN%cold%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Ghoul Lord, Specter, Hell Clan, Invader, %GOLD%The Summoner%WHITE%%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%: %GREEN%%SAGE%bk:%WHITE% Cellar L3 %BLUE%| %SAGE%fw:%WHITE% Canyon of the Magi%WHITE%%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Arcane Sanctuary%NAME%}
+
+//MAPID=46 : Canyon of the Magi ok
+ItemDisplay[key INVENTORY MAPID=46]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%symbol%WHITE% left-order %BLUE%(circle/crescent/square/Star/v-shape/triangle/"O)")%WHITE% %NL%%PURPLE%imun. %WHITE%: %YELLOW%lightning%WHITE%, %RED%fire%WHITE% %NL%%ORANGE%Mob %WHITE%: %GRAY% Hell Cat, Hell Slinger, Steel Scarab%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Arcane Sanctuary %BLUE%| %SAGE%fw:%WHITE% Tal Rasha's Tomb %RED%(quest)%WHITE%%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Canyon of the Magi%WHITE%%NAME%}
+
+//MAPID=?? : Tal Rasha's Tomb ok
+ItemDisplay[key INVENTORY (MAPID=66 OR MAPID=67 OR MAPID=68 OR MAPID=69 OR MAPID=70 OR MAPID=71 OR MAPID=72)]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%false tombs contain loot%WHITE%, %YELLOW%true tomb leads to Duriel%WHITE%%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE%, %GREEN%poison%WHITE%, %ORANGE%fire%WHITE% %PURPLE%Infinity%WHITE%: partial%NL%%ORANGE%Mob %WHITE%: %GRAY% Apparition, Unraveler, Preserved Dead, Steel Scarab, Ghoul Lord%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Canyon of the Magi %BLUE%| %SAGE%fw:%WHITE% Tal Rasha's Chamber %RED%(quest)%WHITE%%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Tal Rasha's Tomb%WHITE%%NAME%}
+
+//MAPID=73 : Tal Rasha's Chamber ok
+ItemDisplay[key INVENTORY MAPID=73]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%single boss chamber%WHITE%, %YELLOW%no escape without killing Duriel%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% %GOLD%Duriel%WHITE% %RED%(Boss)%WHITE%%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw:%WHITE% Tal Rasha's Tomb %RED%(quest)%WHITE%%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Tal Rasha's Chamber%WHITE%%NAME%}
+
+//MAPID=75 : Kurast Docks ok
+ItemDisplay[key INVENTORY MAPID=75]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%Act III town hub%WHITE%, %YELLOW%talk to NPCs for quests/services%WHITE%%NL%%ORANGE%NPC %WHITE%:  %WHITE%Hratli%RED%(Repair) %WHITE%Asheara%BLUE%(merc) %WHITE%Ormus%GOLD%(gambles/heal) %WHITE%Alkor%ORANGE%(pots) %WHITE%Cain%CORAL%(ID) %WHITE%Meshif%TEAL%(travel)%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %WHITE%fw:%WHITE% Kurast %WHITE%%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Kurast Docks%WHITE%%NAME%}
+
+//MAPID=76 : Spider Forest ok
+ItemDisplay[key INVENTORY MAPID=76]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%spider%WHITE% dungeons near waypoint %BLUE%| %YELLOW%unique%WHITE% drops Jade Figurine%NL%%PURPLE%imun. %WHITE%: %GREEN%poison%WHITE% %NL%%ORANGE%Mob %WHITE%: %GRAY% Fetish, Fetish Blowdart, Cloud Stalker, Thorned Hulk%NL%%ORANGE%NPC %WHITE%:  %SAGE%Dark Wanderer%WHITE% (first entry event)%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Kurast Docks %BLUE%| %SAGE%fw:%WHITE% Great Marsh, Flayer Jungle %RED%(quest)%WHITE%%NL%%TEAL%Layout %WHITE%:  %CORAL%Spider Forest%WHITE%%NAME%}
+
+//MAPID=77 : Great Marsh OK
+ItemDisplay[key INVENTORY MAPID=77]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%gloam%WHITE% ambush danger %BLUE%| %YELLOW%flayer%WHITE% jungle connection not guaranteed%NL%%PURPLE%imun. %WHITE%: %YELLOW%lightning%WHITE% %BLUE%cold%WHITE% %PURPLE%Infinity%WHITE%: recommended%NL%%ORANGE%Mob %WHITE%: %GRAY% Gloam, Swamp Dweller, Bog Creature, Fetish, Fetish Shaman, Fetish Blowdart%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Spider Forest %BLUE%| %SAGE%fw:%WHITE% Flayer Jungle%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Great Marsh%WHITE%%NAME%}
+
+//MAPID=78 : Flayer Jungle ok
+ItemDisplay[key INVENTORY MAPID=78]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%gibdinn%WHITE% spawns near huts %BLUE%| %YELLOW%tight%WHITE% jungle paths, high ambush risk%NL%%PURPLE%imun. %WHITE%: %YELLOW%lightning%WHITE% %BLUE%cold%WHITE% %PURPLE%Infinity%WHITE%: recommended%NL%%ORANGE%Mob %WHITE%: %GRAY% Flayer, Flayer Blowdart, Flayer Shaman, Soul Killer, Soul Killer Shaman%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Spider Forest %BLUE%| Great Marsh %SAGE%fw:%WHITE% Lower Kurast%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Flayer Jungle%WHITE%%NAME%}
+
+//MAPID=79 : Lower Kurast ok
+ItemDisplay[key INVENTORY MAPID=79]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%super chests%WHITE% near huts %BLUE%| %YELLOW%popular HR farming route%WHITE% %BLUE%| %RED%stormtree%WHITE% at jungle entrance%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE% %RED%fire%WHITE% %YELLOW%physical%WHITE% %PURPLE%Infinity%WHITE%: optional%NL%%ORANGE%Mob %WHITE%: %GRAY% Doom Ape, Hell Buzzard, Tree Lurker, Zakarumite%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Flayer Jungle %BLUE%| %SAGE%fw:%WHITE% Kurast Bazaar%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Lower Kurast%WHITE%%NAME%}
+
+//MAPID=80 : Kurast Bazaar ok
+ItemDisplay[key INVENTORY MAPID=80]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tip %WHITE%:  %YELLOW%Temple entrances%WHITE% lead to %ORANGE%Ruined Temple%WHITE% & %ORANGE%Disused Fane%WHITE% (Lam Esen's Tome)%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE% %RED%fire%WHITE% %YELLOW%physical%WHITE% %PURPLE%Infinity%WHITE% helpful vs Zakarum casters%NL%%ORANGE%Mob %WHITE%: %GRAY% Hell Swarm, Faithful, Sexton, Thrasher, Zakarumite%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Lower Kurast %BLUE%| %SAGE%fw:%WHITE% Upper Kurast%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Kurast Bazaar%WHITE%%NAME%}
+
+//MAPID=81 : Upper Kurast ok
+ItemDisplay[key INVENTORY MAPID=81]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tip %WHITE%:  %YELLOW%Temples hide Forgotten Temple & Reliquary; narrow paths%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE% %YELLOW%physical%WHITE% %RED%fire%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Zealot, Cantor, Thrasher, Winged Nightmare, Faithful%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Kurast Bazaar %BLUE%| %SAGE%fw:%WHITE% Kurast Causeway%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Upper Kurast temples & city blocks%WHITE%%NAME%}
+
+//MAPID=82 : Kurast Causeway ok
+ItemDisplay[key INVENTORY MAPID=82]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tip %WHITE%:  %YELLOW%Narrow bridges; expect ambush near Travincal entrance%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE% %YELLOW%physical%WHITE% %RED%fire%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Zealot, Cantor, Thrasher, Winged Nightmare, Faithful%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Upper Kurast %BLUE%| %SAGE%fw:%WHITE% Travincal%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Kurast Causeway%WHITE%%NAME%}
+
+//MAPID=83 : Travincal ok
+ItemDisplay[key INVENTORY MAPID=83]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tip %WHITE%:  %YELLOW%Pull Council members carefully; stacked Hydra and lightning can be lethal%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE% %YELLOW%lightning%WHITE% %BLUE%cold%WHITE% %ORANGE%dual%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Council Member, Zealot, Cantor, Thrasher, Winged Nightmare, Faithful%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Kurast Causeway %BLUE%| %SAGE%fw:%WHITE% Durance of Hate Lv1%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Travincal%WHITE%%NAME%}
+
+//MAPID=100 : Durance of Hate Level 1 ok
+ItemDisplay[key INVENTORY MAPID=100]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%wall%WHITE% search %BLUE%| %YELLOW%loop%WHITE% heavy %BLUE%| %YELLOW%one-wall%WHITE% rule%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE% %RED%fire%WHITE% %PURPLE%Infinity%WHITE%: limited%NL%%ORANGE%Mob %WHITE%: %GRAY% Undead Stygian Doll, Ghoul Lord, Blood Lord, Council Member%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Travincal %BLUE%| %SAGE%fw:%WHITE% Durance of Hate Level 2%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Durance of Hate Level 1%WHITE%%NAME%}
+
+//MAPID=101 : Durance of Hate Level 2 ok
+ItemDisplay[key INVENTORY MAPID=101]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%wp%WHITE% exit-left %BLUE%| %YELLOW%one-wall%WHITE% left%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE% %RED%fire%WHITE% %PURPLE%Infinity%WHITE%: limited%NL%%ORANGE%Mob %WHITE%: %GRAY% Undead Stygian Doll, Ghoul Lord, Blood Lord, Council Member%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Durance of Hate Level 1 %BLUE%| %SAGE%fw:%WHITE% Durance of Hate Level 3%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Durance of Hate Level 2%WHITE%%NAME%}
+
+//MAPID=102 : Durance of Hate Level 3 ok
+ItemDisplay[key INVENTORY MAPID=102]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%boss%WHITE% platform %BLUE%| %YELLOW%moat%WHITE% trick %BLUE%| %YELLOW%council%WHITE% packs%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE% %GREEN%poison%WHITE% %PURPLE%Infinity%WHITE%: ineffective%NL%%ORANGE%Mob %WHITE%: %GRAY% Council Member, Vampiric Council, %GOLD%Mephisto%WHITE%%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Durance of Hate Level 2 %BLUE%| %SAGE%fw:%WHITE% Pandemonium Fortress%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Durance of Hate Level 3%WHITE%%NAME%}
+
+
+//MAPID=103 : Pandemonium Fortress ok
+ItemDisplay[key INVENTORY MAPID=103]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%Act IV town%WHITE% %BLUE%| %YELLOW%quest hub%WHITE% %BLUE%| %YELLOW%portal access%WHITE%%NL%%PURPLE%imun. %WHITE%: %GRAY%none%WHITE% %PURPLE%Infinity%WHITE%: n/a%NL%%ORANGE%NPC %WHITE%:  %WHITE%Tyrael%TEAL%(quest) %WHITE%Jamella%GOLD%(gamble/heal) %WHITE%Halbu%BLUE%(repair) %WHITE%Cain%RED%(ID)%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Durance of Hate Level 3 %BLUE%| %SAGE%fw:%WHITE% Outer Steppes%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Pandemonium Fortress%WHITE%%NAME%}
+
+// MAPID=104 : Outer Steppes ok
+ItemDisplay[key INVENTORY MAPID=104]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%wide%WHITE% open terrain %BLUE%| %YELLOW%kite%WHITE% Doom Knights %BLUE%| %YELLOW%watch%WHITE% ranged casters%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE% %GREEN%poison%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Cliff Lurker, Flesh Spawner, Doom Caster, Corpulent, Doom Knight%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Pandemonium Fortress %BLUE%| %SAGE%fw:%WHITE% Plains of Despair%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Outer Steppes%WHITE%%NAME%}
+
+// MAPID=105 : Plains of Despair ok
+ItemDisplay[key INVENTORY MAPID=105]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%high lightning resist%WHITE% %BLUE%| %YELLOW%watch%WHITE% Burning Souls %BLUE%| %YELLOW%pull slowly%WHITE% to avoid ranged stacks%NL%%PURPLE%imun. %WHITE%: %YELLOW%lightning%WHITE% %GREEN%poison%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Burning Soul, Flesh Spawner, Doom Caster, Corpulent, Doom Knight%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Outer Steppes %BLUE%| %SAGE%fw:%WHITE% City of the Damned%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Plains of Despair%WHITE%%NAME%}
+
+// MAPID=106 : City of the Damned ok
+ItemDisplay[key INVENTORY MAPID=106]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%very high lightning resist recommended%WHITE%, %YELLOW%watch offscreen lightning attacks%WHITE%, %YELLOW%pull mobs carefully near bridges%WHITE%%NL%%PURPLE%imun. %WHITE%: %YELLOW%lightning%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Damned, Dark Familiar, Stygian Hag, Strangler, Corpse Spitter, Abyss Knight, Pit Lord%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Plains of Despair %BLUE%| %SAGE%fw:%WHITE% River of Flame%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%City of the Damned%WHITE%%NAME%}
+
+// MAPID=107 : River of Flame ok
+ItemDisplay[key INVENTORY MAPID=107]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%dangerous ranged packs%WHITE%, %YELLOW%high fire resist recommended%WHITE%%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %YELLOW%lightning%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Blood Maggot, Urdar, Grotesque, Strangler, Abyss Knight%NL%%GOLD%Unique %WHITE%:  %GOLD%Hephasto the Armorer%WHITE%%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% City of the Damned %BLUE%| %SAGE%fw:%WHITE% Chaos Sanctuary%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%River of Flame%WHITE%%NAME%}
+
+// MAPID=108 : Chaos Sanctuary ok
+ItemDisplay[key INVENTORY MAPID=108]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%open 5 seals%WHITE%, %YELLOW%curse heavy zone%WHITE%%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %YELLOW%lightn.%WHITE%, %BLUE%cold%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Oblivion Knight, Storm Caster, Venom Lord, Doom Knight%NL%%GOLD%Unique %WHITE%: %GOLD%Grand Vizier of Chaos%WHITE%, %GOLD%Lord De Seis%WHITE%, %GOLD%Infector of Souls%WHITE%, %RED%Diablo%WHITE%%NL%%TEAL%Waypoint %WHITE%:  %RED%No %NL%%TEAL%Location %WHITE%:  %SAGE%bk%WHITE%: %WHITE%River of Flame%WHITE%%NL%%TEAL%Layout %WHITE%: %CORAL%Chaos Sanctuary%WHITE%%NAME%}
+
+// MAPID=109 : Harrogath ok
+ItemDisplay[key INVENTORY MAPID=109]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%town hub%WHITE% %BLUE%| %YELLOW%prepare gear%WHITE% %BLUE%| %YELLOW%check quests%WHITE%%NL%%ORANGE%NPCs%WHITE%: %WHITE%Qual-Kehk%BLUE%(merc) %WHITE%Malah%RED%(heal/potion) %WHITE%Larzuk%TEAL%(repair) %WHITE%Anya%GOLD%(Map/%BLUE%claw%GOLD%/Gamble) %WHITE%Cain%CORAL%(ID)%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Durance of Hate Level 3 %BLUE%| %SAGE%fw:%WHITE% Bloody Foothills%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Harrogath%WHITE%%NAME%}
+
+// MAPID=110 : Bloody Foothills ok
+ItemDisplay[key INVENTORY MAPID=110]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%kill shamans first%WHITE% %BLUE%| %YELLOW%watch ranged packs%WHITE%%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE% %BLUE%cold%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Siege Beast, Death Mauler, Overseer, Quill Rat%NL%%GOLD%Quest %WHITE%: %YELLOW%Siege on Harrogath%WHITE%%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Harrogath %SAGE%fw:%WHITE% Frigid Highlands%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Bloody Foothills%WHITE%%NAME%}
+
+// MAPID=111 Frigid Highlands ok
+ItemDisplay[key INVENTORY MAPID=111]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tip %WHITE%:  Catapults optional, rescue prisoners%NL%%ORANGE%Quest %WHITE%:  Rescue on Mount Arreat%NL%%ORANGE%Mob %WHITE%: %GRAY% Demon Imp, Crush Beast, Enslaved, Catapult%NL%%ORANGE%Super %WHITE% : %GOLD% Eldritch the Rectifier, Sharptooth Slayer, Eyeback the Unleashed%NL%%TEAL%Waypoint %GREEN%:  Yes%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Bloody Foothills %BLUE%|  %SAGE%fw:%WHITE% Arreat Plateau%NL%%TEAL%Layout %WHITE%:  %ORANGE%Frigid Highlands(Abaddon)%NAME%}
+
+// MAPID=112 : Arreat Plateau ok
+ItemDisplay[key INVENTORY MAPID=112]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%wide open snowfield, overseer mobs%WHITE%%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Lasher, Slayer, Demon Imp%NL%%ORANGE%Guest Mob %WHITE%:  %GRAY%Slinger, Returned Mage, Night Clan%NL%%GOLD%Unique %WHITE%: %GOLD%Thresh Socket%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%: %SAGE%fw:%WHITE% Crystalline Passage %WHITE%%BLUE%| %SAGE%bk:%WHITE% Frigid Highlands%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Arreat Plateau(Pit of Acheron)%WHITE%%NAME%}
+
+// MAPID=113 : Crystalline Passage ok
+ItemDisplay[key INVENTORY MAPID=113]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%wp%WHITE% forward = Frozen River %BLUE%| %YELLOW%entrance%WHITE% forward = Frozen River%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Frozen Creeper, Moon Lord%NL%%ORANGE%Guest Mob %WHITE%:  %GRAY%Dark Archer, Ghost%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw:%WHITE% Frozen River %WHITE%%BLUE%| %SAGE%bk:%WHITE% Arreat Plateau%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Crystalline Passage%WHITE%%NAME%}
+
+// MAPID=114 : Frozen River ok
+ItemDisplay[key INVENTORY MAPID=114]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%straight%WHITE% path %BLUE%| %YELLOW%deadend%WHITE% Anya%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Abominable, Rot Walker, Succubus, Gloam%NL%%GOLD%Unique %WHITE%: %GOLD%Frozenstein%NL%%GOLD%Quest %WHITE%: %YELLOW%Prison of Ice%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Crystalline Passage%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Frozen River%WHITE%%NAME%}
+
+// MAPID=115 : Glacial Trail ok
+ItemDisplay[key INVENTORY MAPID=115]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%wall%WHITE% edge-search %BLUE%| %YELLOW%forward%WHITE% to Crystalline Passage %BLUE%| %YELLOW%side%WHITE% Drifter Cavern%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Death Slasher, Reanimated Horde, Frozen Terror, Bone Warrior, Wraith, Bone Mage%NL%%GOLD%Unique %WHITE%: %GOLD%Bonesaw Breaker%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw:%WHITE% Frozen Tundra %WHITE%%BLUE%| %SAGE%bk:%WHITE% Crystalline Passage%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Glacial Trail%WHITE%%NAME%}
+
+// MAPID=117 : Frozen Tundra ok
+ItemDisplay[key INVENTORY MAPID=117]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%wide open snowfield, ranged mobs common%WHITE%%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %BLUE%cold%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Crush Beast, Demon Trickster, Demon Rascal%NL%%ORANGE%Guest Mob %WHITE%:  %GRAY%Bone Archer, Returned Mage, Death Clan%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw:%WHITE% The Ancients' Way %WHITE%%BLUE%| %SAGE%bk:%WHITE% Glacial Trail%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Frozen Tundra(Infernal Pit)%WHITE%%NAME%}
+
+// MAPID=118 : The Ancients' Way ok
+ItemDisplay[key INVENTORY MAPID=118]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%many cold/lightning immunes, good fire-farm area%WHITE%%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE%, %YELLOW%lightning%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Frozen Scourge, Death Slasher, Moon Lord, Hell Lord, Carver Shaman, Spike Fiend, Dark Lancer, Bone Mage C%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw:%WHITE% Arreat Summit %WHITE%%BLUE%| %SAGE%bk:%WHITE% Frozen Tundra%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%The Ancients' Way(Arreat Summit, Icy Cellar)%WHITE%%NAME%}
+
+// MAPID= : Arreat Summit ok
+ItemDisplay[key INVENTORY MAPID=120]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%activate altar to spawn Ancients, reroll if immunities are bad%WHITE%%NL%%PURPLE%imun. %WHITE%: %RED%random%WHITE%%NL%%GOLD%Unique %WHITE%: %GOLD%Talic%WHITE%, %GOLD%Madawc%WHITE%, %GOLD%Korlic%NL%%GOLD%Quest %WHITE%: %YELLOW%Rite of Passage%WHITE%%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw:%WHITE% The Ancients' Way %BLUE%| %SAGE%bk:%WHITE% Worldstone Keep Level 1%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Arreat Summit%WHITE%%NAME%}
+
+// MAPID=121 : Nihlathak's Temple ok
+ItemDisplay[key INVENTORY MAPID=121]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%narrow halls%WHITE%, %YELLOW%corpse explosion danger%WHITE%, %YELLOW%watch corners%WHITE%%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE%, %YELLOW%lightning%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Halls Guardian, Tomb Creeper, Guardian%NL%%GOLD%Unique %WHITE%: %GOLD% Pindleskin%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw: %WHITE%Pindleskin Portal %BLUE%|  %SAGE%bk: %WHITE%Halls of Anguish%WHITE%%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Nihlathak's Temple%WHITE%%NAME%}
+
+// MAPID=122 : Halls of Anguish OK
+ItemDisplay[key INVENTORY MAPID=122]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%narrow corridors%WHITE%, %YELLOW%revive mobs%WHITE%, %YELLOW%advance carefully%WHITE%%NL%%PURPLE%imun. %WHITE%: %YELLOW%lightning%WHITE%, %BLUE%cold%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Prowling Dead, Night Lord, Death Brigadier, Returned, Tomb Creeper, Devilkin Shaman%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw: %WHITE%Halls of Pain %BLUE%|  %SAGE%bk: %WHITE%Nihlathak's Temple %WHITE%%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Halls of Anguish%WHITE%%NAME%}
+
+// MAPID=123 : Halls of Pain ok
+ItemDisplay[key INVENTORY MAPID=123]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%entrance%WHITE% exit-left %BLUE%| %YELLOW%wp%WHITE% exit-left%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE%, %RED%physical%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Night Lord, Infidel, Temple Guard, Blood Clan, Flayer Blowdart%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw: %WHITE%Halls of Vaught %BLUE%|  %SAGE%bk: %WHITE%Halls of Anguish %WHITE%%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Halls of Pain%WHITE%%NAME%}
+
+// MAPID=124 : Halls of Vaught ok
+ItemDisplay[key INVENTORY MAPID=124]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%3-arm%WHITE% layout %BLUE%| %YELLOW%one%WHITE% is Nihlathak %NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE%, %RED%physical%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Ice Spawn, Hell Temptress, Wretched Defiler, Prowling Dead, Tomb Viper%NL%%GOLD%Unique %WHITE%: %GOLD%Nihlathak%WHITE%%NL%%GOLD%Quest %WHITE%: %YELLOW%Betrayal of Harrogath%WHITE%%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw: %WHITE%None %BLUE%|  %SAGE%bk: %WHITE%Halls of Pain%WHITE%%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Halls of Vaught%WHITE%%NAME%}
+
+// MAPID=128 : Worldstone Keep Level 1 ok
+ItemDisplay[key INVENTORY MAPID=128]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%entrance%WHITE% exit-left %BLUE%| %YELLOW%wall%WHITE% stairs%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %YELLOW%lightning%WHITE%, %BLUE%cold%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Defiled Warrior, Vile Witch, Fetid Defiler, Zealot, Soul Killer, Soul Killer Blowdart%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw:%WHITE% Worldstone Keep Level 2 %WHITE%%BLUE%| %SAGE%bk:%WHITE% Arreat Summit%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Worldstone Keep Level 1%WHITE%%NAME%}
+
+// MAPID=129 : Worldstone Keep Level 2 ok
+ItemDisplay[key INVENTORY MAPID=129]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%entrance%WHITE% exit-left %BLUE%| %YELLOW%wp%WHITE% exit-left %BLUE%| %YELLOW%wall%WHITE% stairs%NL%%PURPLE%imun. %WHITE%: %YELLOW%lightning%WHITE%, %BLUE%cold%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Frenzied Ice Spawn, Greater Hell Spawn, Soul Killer, Fiend, Steel Scarab, Black Soul%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw:%WHITE% Worldstone Keep Level 3 %WHITE%%BLUE%| %SAGE%bk:%WHITE% Worldstone Keep Level 1%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Worldstone Keep Level 2%WHITE%%NAME%}
+
+// MAPID=130 : Worldstone Keep Level 3 ok
+ItemDisplay[key INVENTORY MAPID=130]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%random%WHITE% layout %BLUE%| %YELLOW%wall%WHITE% search %BLUE%| %YELLOW%deadend%WHITE% stairs %BLUE%| %YELLOW%wp%WHITE% near center%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %YELLOW%lightning%WHITE%, %BLUE%cold%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Death Lord, Storm Caster, Oblivion Knight, Specter%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw%WHITE%: Throne of Destruction %GRAY%| %SAGE%bk%WHITE%: Worldstone Keep Level 2%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Worldstone Keep Level 3%WHITE%%NAME%}
+
+// MAPID=131 : Throne of Destruction
+ItemDisplay[key INVENTORY MAPID=131]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%danger souls!!%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%, %YELLOW%lightn.%WHITE%, %BLUE%cold%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Death Lord, Burning Soul, Pit Lord%NL%%GOLD%Unique %WHITE%: %GOLD%Colenzo the Annihilator%WHITE%, %GOLD%Achmel the Cursed%WHITE%, %GOLD%Bartuc the Bloody%WHITE%, %GOLD%Ventar the Unholy%WHITE%, %GOLD%Lister the Tormentor%NL%%TEAL%Location %WHITE%:  %SAGE%fw: %WHITE%The Worldstone Chamber %GRAY%| %SAGE%bk: %WHITE%Worldstone3%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Throne of Destruction%WHITE%%NAME%}
+
+// MAPID=132 : The Worldstone Chamber
+ItemDisplay[key INVENTORY MAPID=132]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%clear Baal clone quickly%WHITE%, %YELLOW%watch mana burn + cold wedge%WHITE%, %YELLOW%positioning critical%WHITE%%NL%%PURPLE%imun. %WHITE%: %GREEN%Free%NL%%GOLD%Final Boss%WHITE% : %RED%Baal, Lord of Destruction%WHITE%%NL%%GOLD%Quest %WHITE%: %YELLOW%Eve of Destruction%WHITE%%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Throne of Destruction%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%The Worldstone Chamber%WHITE%%NAME%}
+
+// ===== Missing Maps (present in reference, not in original file) =====
+
+// MAPID=8 : Den of Evil ok
+ItemDisplay[key INVENTORY MAPID=8]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %YELLOW%Quest area.%WHITE% %GRAY%Full clear required. No exit. Compact dungeon.%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Zombie, Fallen, Fallen Shaman, Gargantuan Beast%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%NL%%GREEN%Quest %WHITE%: %CORAL%Den of Evil%WHITE%%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Blood Moor%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Den of Evil %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=9 : Cave Level 1 OK
+ItemDisplay[key INVENTORY MAPID=9]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %GRAY%Two-level dungeon. Push inward, check side forks.%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Skeleton, Hungry Dead, Dark Ranger%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: Cave Level 2 %BLUE%| %SAGE%Bk%WHITE%: Cold Plains%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Cave Level 1 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=10 : Underground Passage Level 1 ok
+ItemDisplay[key INVENTORY MAPID=10]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %GRAY%Two exits. %YELLOW%Left/right forks common. %GRAY%Walls often lead to exits.%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Misshapen, Skeleton Archer, Carver, Vile Hunter%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: Underground Passage Level 2 %BLUE%| %SAGE%Bk%WHITE%: Stony Field%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Underground Passage Level 1 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=11 : Hole Level 1 ok
+ItemDisplay[key INVENTORY MAPID=11]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %GRAY%Two-level dungeon. %YELLOW%Wide caverns. %GRAY%Good density, sweep edges.%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Misshapen, Vile Archer, Brute, Carver%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: Hole Level 2 %BLUE%| %SAGE%Bk%WHITE%: Black Marsh%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Hole Level 1 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=13 : Cave Level 2 OK
+ItemDisplay[key INVENTORY MAPID=13]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %GRAY%wall outer search | deadend-check | maze-like%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Skeleton, Hungry Dead, Dark Ranger%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Cave Level 1%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Cave Level 2 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=14 : Underground Passage Level 2 ok
+ItemDisplay[key INVENTORY MAPID=14]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Optional second floor connected  Contains a golden chest%NL%%PURPLE%Mob %WHITE%:%GRAY%  Misshapen, Skeleton Archer, Carver, Vile Hunter, Fallen, Fallen Shaman%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Dark Wood %BLUE%| %SAGE%Bk%WHITE%: Underground Passage Level 1%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Underground Passage Level 2 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=15 : Hole Level 2 ok
+ItemDisplay[key INVENTORY MAPID=15]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %GRAY%Lower floor. %YELLOW%Fixed layout sections. %GRAY%Check large chambers for packs.%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Misshapen, Vile Archer, Brute, Carver%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Hole Level 1%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Hole Level 2 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=17 : Burial Grounds ok
+ItemDisplay[key INVENTORY MAPID=17]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %YELLOW%Quest area.%WHITE% %GRAY%Open field. Kill Blood Raven. Check edges for tombs.%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Skeleton, Hungry Dead%NL%%PURPLE%imun. %WHITE%: %YELLOW%Lightning%NL%%GOLD%Unique %WHITE%: %GOLD%Blood Raven%WHITE%%NL%%GREEN%Quest %WHITE%: %CORAL%Sisters' Burial Grounds%WHITE%%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: Crypt / %GRAY%Mausoleum %BLUE%| %SAGE%Bk%WHITE%: Cold Plains%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Burial Grounds %RED%(outdoor quest)%WHITE%%NAME%}
+
+// MAPID=18 : Crypt ok
+ItemDisplay[key INVENTORY MAPID=18]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %GRAY%Optional dungeon. %YELLOW%Golden Chest room. %GRAY%Low density, quick clear.%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Skeleton, Hungry Dead%NL%%PURPLE%imun. %WHITE%: %YELLOW%Lightning%NL%%GOLD%Unique %WHITE%: %GOLD%Bonebreaker%WHITE%%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Burial Grounds%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Crypt %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=19 : Mausoleum ok
+ItemDisplay[key INVENTORY MAPID=19]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %GRAY%Optional dungeon. %YELLOW%Area Level 85 on Hell. %GRAY%Good MF target.%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Skeleton, Hungry Dead%NL%%PURPLE%imun. %WHITE%: %YELLOW%Lightning%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Burial Grounds%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Mausoleum %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=20 : Forgotten Tower ok
+ItemDisplay[key INVENTORY MAPID=20]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %GRAY%Tower entrance spawns along %WHITE%Black Marsh%GRAY% edges. %YELLOW%Follow perimeter.%WHITE%%NL%%GREEN%Quest %WHITE%: %CORAL%The Forgotten Tower%WHITE%%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: Tower Cellar Level 1 %BLUE%| %SAGE%Bk%WHITE%: Black Marsh%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Forgotten Tower %RED%(dungeon entrance)%WHITE%%NAME%}
+
+// MAPID=21 : Tower Cellar Level 1 ok
+ItemDisplay[key INVENTORY MAPID=21]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %GRAY%Narrow corridors. %YELLOW%Stairs on outer wall (left/right random) %GRAY%Ranged mobs common.%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Devilkin, Blood Clan, Dark Archer, Ghost%NL%%PURPLE%imun. %WHITE%: %YELLOW%Lightning%WHITE% (Infinity: breakable)%NL%%GREEN%Quest %WHITE%: %CORAL%The Forgotten Tower%WHITE%%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: Tower Cellar Level 2 %BLUE%| %SAGE%Bk%WHITE%: Forgotten Tower%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Tower Cellar Level 1 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=22 : Tower Cellar Level 2 ok
+ItemDisplay[key INVENTORY MAPID=22]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %GRAY%Tighter rooms. %YELLOW%Stairs on outer wall (left/right random) %GRAY%Watch archer angles.%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Devilkin, Blood Clan, Dark Archer, Ghost%NL%%PURPLE%imun. %WHITE%: %YELLOW%Lightning%WHITE% (Infinity: breakable)%NL%%GREEN%Quest %WHITE%: %CORAL%The Forgotten Tower%WHITE%%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: Tower Cellar Level 3 %BLUE%| %SAGE%Bk%WHITE%: Tower Cellar Level 1%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Tower Cellar Level 2 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=23 : Tower Cellar Level 3 ok
+ItemDisplay[key INVENTORY MAPID=23]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %GRAY%More archer packs. %YELLOW%Stairs on outer wall (left/right random) %GRAY%Clear corners first.%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Devilkin, Blood Clan, Dark Archer, Ghost%NL%%PURPLE%imun. %WHITE%: %YELLOW%Lightning%WHITE% (Infinity: breakable)%NL%%GREEN%Quest %WHITE%: %CORAL%The Forgotten Tower%WHITE%%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: Tower Cellar Level 4 %BLUE%| %SAGE%Bk%WHITE%: Tower Cellar Level 2%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Tower Cellar Level 3 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=24 : Tower Cellar Level 4 ok
+ItemDisplay[key INVENTORY MAPID=24]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %GRAY%Heavy ranged pressure. %YELLOW%Stairs on outer wall (left/right random) %GRAY%Avoid open rooms.%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Devilkin, Blood Clan, Dark Archer, Ghost%NL%%PURPLE%imun. %WHITE%: %YELLOW%Lightning%WHITE% (Infinity: breakable)%NL%%GREEN%Quest %WHITE%: %CORAL%The Forgotten Tower%WHITE%%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: Tower Cellar Level 5 %BLUE%| %SAGE%Bk%WHITE%: Tower Cellar Level 3%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Tower Cellar Level 4 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=25 : Tower Cellar Level 5 ok
+ItemDisplay[key INVENTORY MAPID=25]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %GRAY%Fixed boss room. %YELLOW%Pull minions first. %GRAY%Avoid standing in fire.%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Devilkin, Blood Clan, Dark Archer, Ghost%NL%%PURPLE%imun. %WHITE%: %RED%Fire%WHITE%, %BLUE%Cold%WHITE% (Infinity: no effect)%NL%%GOLD%Unique %WHITE%: %GOLD%The Countess%WHITE%%NL%%GREEN%Quest %WHITE%: %CORAL%The Forgotten Tower%WHITE%%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Tower Cellar Level 4%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Tower Cellar Level 5 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=38 : Tristram OK
+ItemDisplay[key INVENTORY MAPID=38]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %YELLOW%Quest area.%WHITE% %GRAY%Portal via Cairn Stones. Clear south first (Griswold).%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Carver Shaman, Skeleton Archer, Returned, Night Clan%NL%%PURPLE%imun. %WHITE%: %YELLOW%Lightning%WHITE%, %BLUE%Cold%WHITE% (Infinity: breakable)%NL%%GOLD%Unique %WHITE%: %GOLD%Griswold%WHITE%%NL%%GREEN%Quest %WHITE%: %CORAL%The Search for Cain%WHITE%%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Stony Field%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Tristram %RED%(outdoor quest)%WHITE%%NAME%}
+
+// MAPID=39 : Moo Moo Farm
+ItemDisplay[key INVENTORY MAPID=39]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %GRAY%High density open field. %YELLOW%Avoid cow packs surround. %GRAY%Chain lightning dangerous.%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Hell Bovine%NL%%PURPLE%imun. %WHITE%: %YELLOW%Lightning%WHITE% (Infinity: breakable)%NL%%GOLD%Unique %WHITE%: %GOLD%The Cow King%WHITE%%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Rogue Encampment%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Moo Moo Farm %RED%(outdoor dungeon)%WHITE%%NAME%}
+
+// MAPID=47 : Sewers (Act II) ok
+ItemDisplay[key INVENTORY MAPID=47]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%Choose one side (left or right) and follow it %BLUE%| %RED%boss%WHITE% lvl3%NL%%PURPLE%imun. %WHITE%: %GREEN%poison%WHITE% %BLUE%| %SAGE%infinity:%GREEN% poison%NL%%ORANGE%Mob %WHITE%: %GRAY% Burning Dead, Burning Dead Archer, Sand Raider%WHITE%%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Lut Gholein %BLUE%| %SAGE%fw:%WHITE% Sewers Level 2%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Sewers (Act II)%NAME%}
+
+// MAPID=48 : Sewers Level 2 ok
+ItemDisplay[key INVENTORY MAPID=48]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%Choose one side (left or right) and follow it %BLUE%| %GRAY%Poison pressure high. %WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Plague Bearer, Unraveler, Skeleton, Rat Man%NL%%PURPLE%imun. %WHITE%: %GREEN%Poison%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: Sewers Level 3 %BLUE%| %SAGE%Bk%WHITE%: Sewers Level 1%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Sewers Level 2 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=49 : Sewers Level 3 ok
+ItemDisplay[key INVENTORY MAPID=49]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%: %YELLOW%Quest boss.%BLUE%| %WHITE% %B%Small chambers. quest-talk required (Atma) %BLUE%|  Avoid tight corners.%WHITE%%NL%%PURPLE%Mob %WHITE%:%GRAY% Unraveler, Skeleton, Rat Man%NL%%PURPLE%imun. %WHITE%: %GREEN%Poison, %YELLOW%Lightning%WHITE% (Infinity: breakable)%NL%%GOLD%Unique %WHITE%: %GOLD%Radament%WHITE%%NL%%GREEN%Quest %WHITE%: %CORAL%Radament's Lair%WHITE%%NL%%TEAL%Location %WHITE%: %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Sewers Level 2%NL%%TEAL%Layout %WHITE%:%ORANGE% %CORAL%Sewers Level 3 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=55 : Stony Tomb Level 1 ok
+ItemDisplay[key INVENTORY MAPID=55]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Golden chest is on L2. %NL%%PURPLE%Mob %WHITE%:%GRAY%  %GRAY%Horror, Dung Soldier, Burning Dead Mage (L)%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE% %GRAY%(Infinity effective)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Rocky Waste %BLUE%| %SAGE%Bk%WHITE%: Stony Tomb Level 2%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Stony Tomb Level 1 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=59 : Stony Tomb Level 2 OK
+ItemDisplay[key INVENTORY MAPID=59]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Final level with Super Unique guarding a chest.%NL%%PURPLE%Mob %WHITE%:%GRAY%  Horror, Dung Soldier, Burning Dead Mage%NL%%GOLD%Unique %WHITE%: %GOLD% Creeping Feature%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Stony Tomb Level 1 %BLUE%| %SAGE%Bk%WHITE%: Rocky Waste%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Stony Tomb Level 2 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=56 : Halls of the Dead Level 1 OK
+ItemDisplay[key INVENTORY MAPID=56]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Level 3 contains Horadric Cube.%NL%%PURPLE%Mob %WHITE%:%GRAY%  Hollow One, Decayed, Desert Wing, Spear Cat (Javelin)%NL%%GOLD%Quest %WHITE%: %YELLOW%The Horadric Staff%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Dry Hills %BLUE%| %SAGE%Bk%WHITE%: Halls of the Dead Level 2%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Halls of the Dead Level 1 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=57 : Halls of the Dead Level 2 OK
+ItemDisplay[key INVENTORY MAPID=57]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%stairs to Lv3 are commonly found along outer paths.%NL%%PURPLE%Mob %WHITE%:%GRAY%  Hollow One, Decayed, Desert Wing, Spear Cat (Javelin)%NL%%GOLD%Quest %WHITE%: %YELLOW%The Horadric Staff%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Halls of the Dead Level 1 %BLUE%| %SAGE%Bk%WHITE%: Halls of the Dead Level 3%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Halls of the Dead Level 2 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=60 : Halls of the Dead Level 3 OK
+ItemDisplay[key INVENTORY MAPID=60]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Horadric Cube location. Super Unique guards the objective%NL%%PURPLE%Mob %WHITE%:%GRAY%  Hollow One, Decayed, Desert Wing, Spear Cat%NL%%GOLD%Unique %WHITE%: %GOLD% Bloodwitch the Wild%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Halls of the Dead Level 2 %BLUE%| %SAGE%Bk%WHITE%: Dry Hills%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Halls of the Dead Level 3 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=58 : Claw Viper Temple Level 1 ok
+ItemDisplay[key INVENTORY MAPID=58]:%GRAY%Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  %YELLOW%straight%WHITE% temple %BLUE%| %YELLOW%stairs%WHITE% to altar%NL%%PURPLE%imun. %WHITE%: %GREEN%poison%WHITE% (Claw Viper)%NL%%ORANGE%Mob %WHITE%: %GRAY% Guardian, Embalmed, Claw Viper, Salamander%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Valley of Snakes %BLUE%| %SAGE%fw:%WHITE%  Claw Viper Temple Level 2 %RED%(quest)%WHITE%%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Claw Viper Temple Level 1%NAME%}
+
+// MAPID=61 : Claw Viper Temple Level 2 ok
+ItemDisplay[key INVENTORY MAPID=61]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Amulet objective floor. Vipers can't climb the altar %NL%%PURPLE%Mob %WHITE%:%GRAY%  Claw Viper, Salamander, Undead Stygian Doll (Returned)%NL%%GOLD%Unique %WHITE%: %GOLD% Fangskin%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Claw Viper Temple Level 1%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Claw Viper Temple Level 2 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=62 : Maggot Lair Level 1 ok
+ItemDisplay[key INVENTORY MAPID=62]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Follow %YELLOW%the clockwise corner rule %GRAY%from entrance to reach exits faster.%NL%%PURPLE%Mob %WHITE%:%GRAY%  Death Beetle, Scarab, Sand Maggot, Rock Worm, Black Locusts%NL%%PURPLE%imun. %WHITE%: %YELLOW%lightning%WHITE%, %BLUE%cold%NL%%GOLD%Quest %WHITE%: %YELLOW%The Horadric Staff%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Maggot Lair Level 2 %BLUE%| %SAGE%Bk%WHITE%: Far Oasis%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Maggot Lair Level 1 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=63 : Maggot Lair Level 2 ok
+ItemDisplay[key INVENTORY MAPID=63]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Tight tunnels; %YELLOW%use the same clockwise corner rule %GRAY%from the entrance to locate stairs efficiently.%NL%%PURPLE%Mob %WHITE%:%GRAY%  Death Beetle, Scarab, Sand Maggot, Rock Worm, Black Locusts%NL%%PURPLE%imun. %WHITE%: %YELLOW%lightning%WHITE%, %BLUE%cold%NL%%GOLD%Quest %WHITE%: %YELLOW%The Horadric Staff%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Maggot Lair Level 3 %BLUE%| %SAGE%Bk%WHITE%: Maggot Lair Level 1%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Maggot Lair Level 2 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=64 : Maggot Lair Level 3 ok
+ItemDisplay[key INVENTORY MAPID=64]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%%YELLOW%use the same clockwise corner logic %NL%%PURPLE%Mob %WHITE%:%GRAY%  Death Beetle, Scarab, Sand Maggot, Rock Worm, Black Locusts%NL%%PURPLE%imun. %WHITE%: %YELLOW%lightning%WHITE%, %BLUE%cold%NL%%GOLD%Unique %WHITE%:  %GOLD%Coldworm the Burrower%WHITE%%NL%%GOLD%Quest %WHITE%: %YELLOW%The Horadric Staff%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Maggot Lair Level 2%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Maggot Lair Level 3 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=65 : Ancient Tunnels ok
+ItemDisplay[key INVENTORY MAPID=65]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Area level 85, no natural cold-immune mobs; excellent for cold-based MF builds.%NL%%PURPLE%Mob %WHITE%:%GRAY%  Plague Bearer, Embalmed, Invader, Horror Mage%NL%%PURPLE%imun. %WHITE%: %YELLOW%lightning%WHITE%, %BLUE%cold%WHITE% (rare unique)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Lost City%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Ancient Tunnels %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=84 : Arachnid Lair ok
+ItemDisplay[key INVENTORY MAPID=84]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Entrance is in Spider Forest; waypoint is usually very close outside. Super chest is commonly in the left-most corner.%NL%%PURPLE%Mob %WHITE%:%GRAY%  Giant Lamprey, Poison Spinner, Flame Spider, Fiend%NL%%PURPLE%imun. %WHITE%: %GREEN%Poison, %RED%ire, %YELLOW%Lightning%WHITE% (Infinity can break some lightning immunes)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Spider Forest%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Arachnid Lair %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=85 : Spider Cavern ok
+ItemDisplay[key INVENTORY MAPID=85]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Khalim's Eye quest. Super Unique guards the chest.%NL%%PURPLE%Mob %WHITE%:%GRAY%  Giant Lamprey, Poison Spinner, Flame Spider, Fiend%NL%%PURPLE%Immu %WHITE%: Poison, Fire, %YELLOW%Lightning%WHITE% (Infinity can break some lightning immunes)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Spider Forest%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Spider Cavern %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=86 : Swampy Pit Level 1 ok
+ItemDisplay[key INVENTORY MAPID=86]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Optional dungeon. Traps and fast-moving enemies are common; keep moving and avoid tight packs.%NL%%PURPLE%Mob %WHITE%:%GRAY%  Preserved Dead, Undead Soul Killer, Undead Stygian Doll, Fetish, Fetish Blowdart, Fetish Shaman%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Flayer Jungle%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Swampy Pit Level 1 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=87 : Swampy Pit Level 2 ok
+ItemDisplay[key INVENTORY MAPID=87]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Dense traps and Stygian Dolls continue. Advance slowly, clear corners first, and avoid backtracking explosions.%NL%%PURPLE%Mob %WHITE%:%GRAY%  Undead Soul Killer, Undead Stygian Doll, Fetish, Fetish Blowdart, Fetish Shaman%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Swampy Pit Level 3 %BLUE%| %SAGE%Bk%WHITE%: Swampy Pit Level 1%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Swampy Pit Level 2 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=90 : Swampy Pit Level 3 ok
+ItemDisplay[key INVENTORY MAPID=90]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Final floor with tighter paths. Watch traps and Doll explosions; clear slowly and keep distance.%NL%%PURPLE%Mob %WHITE%:%GRAY%  Undead Soul Killer, Undead Stygian Doll, Fetish, Fetish Blowdart, Fetish Shaman%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Swampy Pit Level 2%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Swampy Pit Level 3 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=88 : Flayer Dungeon Level 1 ok
+ItemDisplay[key INVENTORY MAPID=88]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Narrow jungle dungeon; %NL%%PURPLE%Mob %WHITE%:%GRAY%  Flayer, Flayer Shaman, Flayer Blowdart,%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%GOLD%Quest %WHITE%: %YELLOW%Khalim's Will%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Flayer Dungeon Level 2 %BLUE%| %SAGE%Bk%WHITE%: Flayer Jungle%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Flayer Dungeon Level 1 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=89 : Flayer Dungeon Level 2 ok
+ItemDisplay[key INVENTORY MAPID=89]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Similar layout to Lvl 1tight corridors%NL%%PURPLE%Mob %WHITE%:%GRAY%  Flayer, Flayer Shaman, Flayer Blowdart%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%GOLD%Quest %WHITE%: %YELLOW%Khalim's Will%WHITE% (progress toward Khalim's Brain)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Flayer Dungeon Level 3 %BLUE%| %SAGE%Bk%WHITE%: Flayer Dungeon Level 1%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Flayer Dungeon Level 2 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=91 : Flayer Dungeon Level 3 ok
+ItemDisplay[key INVENTORY MAPID=91]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%This level always contains the quest chest.%NL%%PURPLE%Mob %WHITE%:%GRAY%  Flayer, Flayer Shaman, Flayer Blowdart%NL%%GOLD%Unique %WHITE%: Witch Doctor Endugu%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%GOLD%Quest %WHITE%: %YELLOW%Khalim's Will%WHITE% (Khalim's Brain)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Flayer Dungeon Level 2%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Flayer Dungeon Level 3 %RED%(dungeon)%WHITE%%NAME%}
+
+
+// MAPID=92 : Sewers Level 1 (Act 3) ok
+ItemDisplay[key INVENTORY MAPID=92]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Level 2 is locked until the sewer lever is pulled—clear %NL%%PURPLE%Mob %WHITE%:%GRAY%  Preserved Dead, Horadrim Ancient, %GRAY%(Lvl 1)%WHITE% Gloom Bat, Feeder%NL%%GOLD%Unique %WHITE%: %GOLD%Icehawk Riftwing %WHITE%%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%GOLD%Quest %WHITE%: %YELLOW%Khalim's Will%WHITE% (access to Khalim's Heart)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Kurast Bazaar, Upper Kurast%NL%%CORAL%Sewers Level 1 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=93 : Sewers Level 2 (Act 3) ok
+ItemDisplay[key INVENTORY MAPID=93]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Fixed layout. Small central chamber with water/watch for ambushes from pools%NL%%PURPLE%Mob %WHITE%:%GRAY%  Blood Wing, Slime Prince, Minions: Horror%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%GOLD%Quest %WHITE%: %YELLOW%Khalim's Will%WHITE% (Khalim's Heart location)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Sewers Level 1 %BLUE%| %SAGE%Bk%WHITE%: Kurast Bazaar, Upper Kurast%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Sewers Level 2 %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=94 : Ruined Temple ok
+ItemDisplay[key INVENTORY MAPID=94]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Lam Esen's Tome always spawns here. %NL%%PURPLE%Mob %WHITE%:%GRAY%  Spider Magus, Wailing Beast, Night Lord, Flesh Hunter%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%GOLD%Unique %WHITE%: %GOLD%Battlemaid Sarina%WHITE%%NL%%GOLD%Quest %WHITE%: %YELLOW%Lam Esen's Tome%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Kurast Bazaar%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Ruined Temple %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=95 : Disused Fane ok
+ItemDisplay[key INVENTORY MAPID=95]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%One of the Kurast Bazaar temples. Lam Esen's Tome does NOT spawn here (always in Ruined Temple). %NL%%PURPLE%Mob %WHITE%:%GRAY%  Night Lord, Spider Magus, Wailing Beast, Flesh Hunter%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Kurast Bazaar%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Disused Fane %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=96 : Forgotten Reliquary ok
+ItemDisplay[key INVENTORY MAPID=96]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Lam Esen's Tome does NOT spawn here, Hidden stair revealed by clicking the altar.%NL%%PURPLE%Mob %WHITE%:%GRAY%  Wailing Beast, Flesh Hunter, Spider Magus, Night Lord%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Upper Kurast %BLUE%| %SAGE%Bk%WHITE%: Upper Kurast%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Forgotten Reliquary %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=97 : Forgotten Temple ok
+ItemDisplay[key INVENTORY MAPID=97]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Lam Esen's Tome does NOT spawn here. Small, compact layout with dense packs.%NL%%PURPLE%Mob %WHITE%:%GRAY%  Serpent Magus, Blood Diver, Bone Scarab, Flesh Archer%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Upper Kurast %BLUE%| %SAGE%Bk%WHITE%: Upper Kurast%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Forgotten Temple %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=98 : Ruined Fane ok
+ItemDisplay[key INVENTORY MAPID=98]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Lam Esen's Tome does NOT spawn here. Very small dungeon, packs often clump near entrance.%NL%%PURPLE%Mob %WHITE%:%GRAY%  Serpent Magus, Bone Scarab, Blood Diver, Flesh Archer%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Kurast Causeway%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Ruined Fane %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=99 : Disused Reliquary ok
+ItemDisplay[key INVENTORY MAPID=99]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Lam Esen's Tome does NOT spawn here. Very small dungeon, entrance packs can be dangerous.%NL%%PURPLE%Mob %WHITE%:%GRAY%  Serpent Magus, Bone Scarab, Blood Diver, Flesh Archer%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Kurast Causeway%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Disused Reliquary %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=116 : Drifter Cavern ok
+ItemDisplay[key INVENTORY MAPID=116]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%small square dungeon%WHITE%, %YELLOW%icy water slows movement%WHITE%, %YELLOW%high density elites%WHITE%%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Snow Drifter, Vile Temptress%NL%%ORANGE%Guest%WHITE%: %GRAY%Succubus, Night Clan, Dark Archer, Ghost, Moon Lord%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw: %WHITE%None %BLUE%|  %SAGE%bk: %WHITE%Glacial Trail%WHITE%%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Drifter Cavern %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=119 : Icy Cellar ok
+ItemDisplay[key INVENTORY MAPID=119]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%super unique inside%WHITE%%NL%%PURPLE%imun. %WHITE%: %BLUE%cold%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Frozen Abyss, Stygian Harlot, Prowling Dead%NL%%ORANGE%Guest Mob %WHITE%:  %GRAY%Hell Lord, Pit Viper, Gloam, Gloombat, Ghost, Siren%NL%%GOLD%Unique %WHITE%: %GOLD%Snapchip Shatter%WHITE%%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw:%WHITE% none %WHITE%%BLUE%| %SAGE%bk:%WHITE% The Ancients' Way%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Icy Cellar %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=125 Abaddon ok
+ItemDisplay[key INVENTORY MAPID=125]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tip %WHITE%:  Optional red portal dungeon, %RED%good EXP & chest farm%NL%%ORANGE%Mob %WHITE%: %GRAY% Blood Lord, Demon Rascal%NL%%ORANGE%Unique%WHITE%: %GOLD%Hell Lord, Lasher%NL%%TEAL%Waypoint %WHITE%:  %RED%No%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Frigid Highlands %BLUE%|  %SAGE%fw:%WHITE% None%NL%%TEAL%Layout %WHITE%:  %ORANGE%Abaddon %RED%(dungeon)%NAME%}
+
+// MAPID=126 : Pit of Acheron ok
+ItemDisplay[key INVENTORY MAPID=126]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %YELLOW%dense demon packs, chest at end%WHITE%%NL%%PURPLE%imun. %WHITE%: %RED%fire%WHITE%%NL%%ORANGE%Mob %WHITE%: %GRAY% Night Lord, Overlord, Ice Boar%NL%%ORANGE%Guest Mob %WHITE%:  %GRAY%Demon Imp, Balrog, Hell Temptress%NL%%TEAL%Waypoint %WHITE%:  %RED%No%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%bk:%WHITE% Arreat Plateau%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Pit of Acheron %RED%(dungeon)%WHITE%%NAME%}
+
+// MAPID=127 : Infernal Pit ok
+ItemDisplay[key INVENTORY MAPID=127]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %RED%good EXP & chest farm%NL%%PURPLE%Mob %WHITE%:%GRAY%  Blood Boss, Demon Trickster, Night Lord, Hell Witch%NL%%PURPLE%Guest%WHITE%: %GRAY%Balrog, Salamander, Oblivion Knight%NL%%PURPLE%imun. %WHITE%: %RED%Fire%WHITE%, %BLUE%Cold%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Frozen Tundra%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Infernal Pit %RED%(dungeon)%WHITE%%NAME%}
+
+//ItemDisplay[key (MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:Key%PURPLE%*
+ItemDisplay[key !INVENTORY !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109) CLVL<30]:Key%PURPLE%*
+ItemDisplay[key !INVENTORY !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109) CLVL>29]:
+
 ItemDisplay[wms CLVL<20]:%WHITE%[Tha]
 ItemDisplay[wms CLVL>19]:
 ItemDisplay[yps]:%WHITE%[%GRAY%Anti%WHITE%]
