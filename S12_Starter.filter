@@ -162,7 +162,24 @@ ItemDisplay[hfh]:%PURPLE%[%RED%Hellforge%PURPLE%] %BLUE%Hammer
 ItemDisplay[ice]:%PURPLE%[%RED%Malah's%PURPLE%] %WHITE%Potion
 ItemDisplay[tr2]:%PURPLE%[%RED%Scroll%PURPLE%] %GREEN%of Resistance
 ItemDisplay[(bbb OR ass OR bkd OR bks OR box OR g34 OR ice OR j34 OR mss OR qbr OR qey OR qhr OR tr1 OR tr2 OR xyz)]:%TAN%%NAME%
-ItemDisplay[tbk]:%PURPLE%[%BLUE%Portal%PURPLE%] %ORANGE%Book%WHITE%*%GREEN%%QTY%
+
+ItemDisplay[tbk]:%PURPLE%[%BLUE%Portal%PURPLE%] %ORANGE%Book%WHITE%*%GREEN%%QTY% %CONTINUE%
+ItemDisplay[tbk FILTLVL=0]:%NAME%{%NL%%GOLD%Filter Level=%RED%0%RED%, SHOW ALL ITEMS!!}%CONTINUE%
+ItemDisplay[tbk FILTLVL=1]:%NAME%{%NL%%GOLD%Filter Level=%RED%1%WHITE%, Standard}%CONTINUE%
+//ItemDisplay[tbk FILTLVL=2]:%NAME%{%NL%%GOLD%Filter Level=%RED%2%WHITE%, No ThrowingPotion, Ring(M)}%CONTINUE%
+ItemDisplay[tbk FILTLVL=2]:%NAME%{%NL%%GOLD%Filter Level=%RED%2%WHITE%, No Bolt(M)+Arrow(M)+ThrowingPotion, Ring(M)}%CONTINUE%
+ItemDisplay[tbk FILTLVL=3]:%NAME%{%NL%%GOLD%Filter Level=%RED%3%WHITE%, No CraftArmor}%CONTINUE%
+ItemDisplay[tbk FILTLVL=4]:%NAME%{%NL%%GOLD%Filter Level=%RED%4%WHITE%, No Claw(M)+ClassHelmet(M)+Javel(M)}%CONTINUE%
+ItemDisplay[tbk FILTLVL=5]:%NAME%{%NL%%GOLD%Filter Level=%RED%5%WHITE%, No NormalSet(Only Active Sigon)}%CONTINUE%
+ItemDisplay[tbk FILTLVL=6]:%NAME%{%NL%%GOLD%Filter Level=%RED%6%WHITE%, No NecHead(M)+Wand(M)}%CONTINUE%
+ItemDisplay[tbk FILTLVL=7]:%NAME%{%NL%%GOLD%Filter Level=%RED%7%WHITE%, No Amulet(M)+Circlet(M)+Glove(M)}%CONTINUE%
+ItemDisplay[tbk FILTLVL=8]:%NAME%{%NL%%GOLD%Filter Level=%RED%8%WHITE%, No Sigon+HP/MP+Anti}%CONTINUE%
+ItemDisplay[tbk FILTLVL=9]:%NAME%{%NL%%GOLD%Filter Level=%RED%9%WHITE%, No Bolt(Rare)+R35}%CONTINUE%
+ItemDisplay[tbk FILTLVL=10]:%NAME%{%NL%%GOLD%Filter Level=%RED%10%WHITE%, No Arrow(Rare)+Only GG base Item}%CONTINUE%
+ItemDisplay[tbk FILTLVL=11]:%NAME%{%NL%%GOLD%Filter Level=%RED%11%WHITE%, No CraftWeapon(Only Active ETH+Bows(GMB))}%CONTINUE%
+ItemDisplay[tbk FILTLVL=12]:%NAME%{%NL%%GOLD%Filter Level=%RED%12%WHITE%, No AllSet(rin+amu)}%CONTINUE%
+ItemDisplay[tbk]:%NAME%{%NAME%}
+
 ItemDisplay[ibk]:%PURPLE%[%RED%Identify%PURPLE%] %ORANGE%Book%WHITE%*%GREEN%%QTY%
 
 //Gambling
@@ -357,10 +374,6 @@ ItemDisplay[isc DIFF<1]:%RED%*%WHITE%%CORAL%ID
 ItemDisplay[isc DIFF>0]:
 ItemDisplay[rvl]:%PURPLE%RP %ORANGE%65%{%TAN%-- -- -- -- -- -- -- -- -- --  %NL% %GOLD%heal 65% of your maximum %NL%health up to a limit of 2000 %NL%%TAN%-- --  -- -- -- -- -- -- -- --}
 ItemDisplay[rvs]:%PURPLE%RP %WHITE%35%
-
-
-
-
 
 // MAPID=1 : Rogue Encampment ok
 ItemDisplay[key INVENTORY MAPID=1]:Key%GRAY%[Maptip]{%NL%%GREEN%Tips %WHITE%:  Akara %GREEN%(potion)%RED%(quest)%WHITE%, Charsi %ORANGE%(repair)%WHITE%, Gheed %GOLD%(gamble)%WHITE%, Kashya %BLUE%(merc)%WHITE%, Cain%RED%(Identify)%NL%%TEAL%Waypoint %WHITE%:  %GREEN%Yes%WHITE%%NL%%TEAL%Location %WHITE%:  %SAGE%fw:%WHITE% Blood Moor%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Rogue Encampment%NL%Key%GRAY%[Maptip]}
