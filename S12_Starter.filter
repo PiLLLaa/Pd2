@@ -163,7 +163,7 @@ ItemDisplay[ice]:%PURPLE%[%RED%Malah's%PURPLE%] %WHITE%Potion
 ItemDisplay[tr2]:%PURPLE%[%RED%Scroll%PURPLE%] %GREEN%of Resistance
 ItemDisplay[(bbb OR ass OR bkd OR bks OR box OR g34 OR ice OR j34 OR mss OR qbr OR qey OR qhr OR tr1 OR tr2 OR xyz)]:%TAN%%NAME%
 
-ItemDisplay[tbk]:%PURPLE%[%BLUE%Portal%PURPLE%] %ORANGE%Book%WHITE%*%GREEN%%QTY% %CONTINUE%
+ItemDisplay[tbk (FILTLVL=0 OR FILTLVL>0)]:%PURPLE%[%BLUE%Portal%PURPLE%] %ORANGE%Book%WHITE%*%GREEN%%QTY% %CONTINUE%
 ItemDisplay[tbk FILTLVL=0]:%NAME%{%NL%%GOLD%Filter Level=%RED%0%RED%, SHOW ALL ITEMS!!}
 ItemDisplay[tbk FILTLVL=1]:%NAME%{%NL%%GOLD%Filter Level=%RED%1%WHITE%, Standard}
 //ItemDisplay[tbk FILTLVL=2]:%NAME%{%NL%%GOLD%Filter Level=%RED%2%WHITE%, No ThrowingPotion, Ring(M)}
