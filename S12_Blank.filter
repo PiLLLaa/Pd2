@@ -3995,41 +3995,45 @@ ItemDisplay[UNI !ID dr2]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Quetzalcoatl%PUR
 ItemDisplay[UNI !ID pa3]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Sankekurs Fall%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 
 //S10
-ItemDisplay[UNI !ID ulg !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Titan's Grip%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID ulg ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Titan's Grip%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID ung !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Wraithskin%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID ung ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Wraithskin%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID urg !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Twilight's Reflection%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID urg ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Twilight's Reflection%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID drc !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Denmother%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID drc ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Denmother%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID amc !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Ebonbane%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID amc ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Ebonbane%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID 7di !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Shatterblade%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID 7di ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Shatterblade%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID ulg !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Titan's Grip%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID ulg ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Titan's Grip%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID ung !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Wraithskin%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID ung ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Wraithskin%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID urg !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Twilight's Reflection%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID urg ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Twilight's Reflection%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID drc !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Denmother%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID drc ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Denmother%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID amc !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Ebonbane%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID amc ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Ebonbane%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID 7di !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Shatterblade%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID 7di ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Shatterblade%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
 
 //s11
-ItemDisplay[UNI !ID ob7 !ETH]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Skorn%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID ob7 ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Skorn%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID 7xf !ETH]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Whispering Mirage%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID 7xf ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Whispering Mirage%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID paf !ETH]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Skywarden%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID paf ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Skywarden%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID dr6 !ETH]:%SOUNDID-2664% %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Fenris%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID dr6 ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Fenris%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID ba2 !ETH]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Wildspeaker%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID ba2 ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Wildspeaker%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID 9b8 !ETH]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Achilles Strike%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID 9b8 ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Achilles Strike%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID uhc !ETH]:%SOUNDID-2664% %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Siggards Staunch%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID uhc ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Siggards Staunch%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID neg !ETH]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Sacred Totem%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID neg ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Sacred Totem%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID ob7 !ETH]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Skorn%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID ob7 ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Skorn%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID 7xf !ETH]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Whispering Mirage%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID 7xf ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Whispering Mirage%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID paf !ETH]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Skywarden%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID paf ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Skywarden%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID dr6 !ETH]:%SOUNDID-2664% %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Fenris%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID dr6 ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Fenris%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID ba2 !ETH]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Wildspeaker%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID ba2 ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Wildspeaker%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID 9b8 !ETH]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Achilles Strike%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID 9b8 ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Achilles Strike%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID uhc !ETH]:%SOUNDID-2664% %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Siggards Staunch%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID uhc ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Siggards Staunch%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID neg !ETH]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Sacred Totem%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID neg ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Sacred Totem%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
 
 //s12
-ItemDisplay[UNI !ID 6hb]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Crackleshot%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID (aqv OR aqv2 OR aqv3)]:%GOLD%+%PURPLE%+ %TAN%Arrow%WHITE%(New) %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID (cqv OR cqv2 OR cqv3)]:%GOLD%+%PURPLE%+ %TAN%Bolt%WHITE%(New) %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 6hb]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Crackleshot%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID (aqv)]:%GOLD%+%PURPLE%+ %TAN%Balefire%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New) %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID (cqv)]:%GOLD%+%PURPLE%+ %TAN%Ramfodder%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New) %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID (aqv2)]:%GOLD%+%PURPLE%+ %TAN%Swiftwind or Tombsong%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New) %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID (cqv2)]:%GOLD%+%PURPLE%+ %TAN%Anvilguard or Shatterhead%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New) %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID (aqv3)]:%GOLD%+%PURPLE%+ %TAN%Aetherwing or Basi. or Doom%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New) %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID (cqv3)]:%DOT-0C%%GOLD%+%PURPLE%+ %TAN%Abys. Or Banner. OR Frozen%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New) %PURPLE%+%GOLD%+
 
 ItemDisplay[(WEAPON OR ARMOR) UNI !ID]:%GOLD%+%ORANGE%+       %GOLD%%NAME%       %ORANGE%+%GOLD%+
 
@@ -6924,7 +6928,8 @@ ItemDisplay[(cqv OR cqv2 OR cqv3) RARE (IAS>0 AND ED>39 AND STAT80>0 AND STAT62>
 //s12
 ItemDisplay[(aqv OR cqv OR aqv2 OR aqv3 OR cqv2 OR cqv3) RARE ID (!ED>39 OR !IAS>0)]:%NAME%%CONTINUE%
 ItemDisplay[(aqv OR cqv OR aqv2 OR aqv3 OR cqv2 OR cqv3) RARE ID]:%NAME%{%GRAY%And...Skill+ManaLeech+MagicFind%NL%%GOLD%Good option: %RED%High Ed with %GRAY%Ias+Deadly}%CONTINUE%
-ItemDisplay[(aqv OR cqv OR aqv2 OR aqv3 OR cqv2 OR cqv3) SOCK=0 (NMAG OR MAG OR RARE) ID]:%NAME%{%WHITE%Max Socket : 2%NL%%NAME%}%CONTINUE%
+ItemDisplay[(aqv OR cqv) SOCK=0 (NMAG OR MAG OR RARE) ID]:%NAME%{%WHITE%Max Socket : 1%NL%%NAME%}%CONTINUE%
+ItemDisplay[(aqv2 OR aqv3 OR cqv2 OR cqv3) SOCK=0 (NMAG OR MAG OR RARE) ID]:%NAME%{%WHITE%Max Socket : 2%NL%%NAME%}%CONTINUE%
 ItemDisplay[(aqv OR cqv)]:%NAME%{%WHITE%[%DARK_GREEN%Normal%WHITE%]%NL%%NAME%}%CONTINUE%
 ItemDisplay[(aqv2 OR cqv2)]:%NAME%{%WHITE%[%ORANGE%Exceptional%WHITE%]%NL%%NAME%}%CONTINUE%
 ItemDisplay[(aqv3 OR cqv3)]:%NAME%{%WHITE%[%PURPLE%Elite%WHITE%]%NL%%NAME%}%CONTINUE%
@@ -7470,6 +7475,11 @@ ItemDisplay[!EQUIPPED !GEMMED NMAG !RW !WP11 !WP12 (am3 OR am8 OR amd)]:%NAME%{%
 ItemDisplay[!EQUIPPED !GEMMED NMAG !RW !WP11 !WP12 am4]:%NAME%{%NL%%WHITE%++ %PURPLE%Range:%WHITE%[%RANGE%] %YELLOW%and %RED%Speed:%ORANGE%[%WPNSPD%] %GRAY%(Normal) %WHITE%++%NAME%}%CONTINUE%
 ItemDisplay[!EQUIPPED !GEMMED NMAG !RW !WP11 !WP12 (am9 OR ame)]:%NAME%{%NL%%WHITE%++ %PURPLE%Range:%WHITE%[%RANGE%] %YELLOW%and %RED%Speed:%ORANGE%[%WPNSPD%] %BLUE%(Slow) %WHITE%++%NAME%}%CONTINUE%
 ItemDisplay[!EQUIPPED !GEMMED NMAG !RW !WP11 !WP12 (am5 OR ama OR amf)]:%NAME%{%NL%%WHITE%++ %PURPLE%Range:%WHITE%[%RANGE%] %YELLOW%and %RED%Speed:%ORANGE%[%WPNSPD%] %RED%(Fast) %WHITE%++%NAME%}%CONTINUE%
+
+//s12
+ItemDisplay[(aqv OR aqv2 OR aqv3 OR cqv OR cqv2 OR cqv3) NMAG !RW (SOCK=2)]:%NAME%{%GOLD%Ancient's Foresight:%ORANGE%Ral%WHITE%+%RED%Thul%NL%%NAME%}%CONTINUE%
+ItemDisplay[(aqv OR aqv2 OR aqv3 OR cqv OR cqv2 OR cqv3) NMAG !RW (SOCK=2)]:%NAME%{%GOLD%Ancient's Scripture:%ORANGE%Tal%WHITE%+%RED%Ort%NL%%NAME%}%CONTINUE%
+ItemDisplay[(aqv OR aqv2 OR aqv3 OR cqv OR cqv2 OR cqv3) NMAG !RW (SOCK=2)]:%NAME%{%GOLD%Echo:%ORANGE%Sol%WHITE%+%RED%Dol%NL%%NAME%}%CONTINUE%
 
 //s8
 ItemDisplay[CHEST NMAG !RW (SOCK=4)]:%NAME%{%NL%%GOLD%Innocence:%ORANGE%Gul%WHITE%+%RED%Lem%WHITE%+%YELLOW%Zod%WHITE%+%BLUE%Hel%NAME%}%CONTINUE%
@@ -9441,13 +9451,13 @@ ItemDisplay[(UNI OR SET) ID (SOCK=0 OR !SOCK=0) (EQ4 OR EQ5 OR EQ6) NORM (!ETH O
 ItemDisplay[(UNI OR SET) ID (SOCK=0 OR !SOCK=0) (EQ4 OR EQ5 OR EQ6) EXC (!ETH OR ETH) !(STAT153>0 OR STAT360=45 OR STAT360=62)]:%NAME%{%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ko %WHITE%and %ORANGE%Lem %WHITE%and %SAGE%P %LIGHT_GRAY%Diamond%WHITE%@ %PURPLE%++}%CONTINUE%
 ItemDisplay[(UNI OR SET) ID (SOCK=0 OR !SOCK=0) (EQ4 OR EQ5 OR EQ6) ELT (!ETH OR ETH) !(STAT153>0 OR STAT360=45 OR STAT360=62)]:%NAME%{%TEAL%+ %CORAL%Elite %PURPLE%+}%CONTINUE%
 
-ItemDisplay[(UNI OR SET) ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7) NORM (!ETH OR ETH) (STAT153>0 OR STAT360=45)]:%NAME%{%TAN%[%RED%Ca%ORANGE%nn%YELLOW%ot %GREEN%Be %BLUE%Fr%PURPLE%oz%WHITE%en%TAN%]%NL%%TEAL%+ %DARK_GREEN%Normal %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Tal %WHITE%and %ORANGE%Shael %WHITE%and %SAGE%P %LIGHT_GRAY%Diamond%WHITE%@ %PURPLE%++}%CONTINUE%
-ItemDisplay[(UNI OR SET) ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7) EXC (!ETH OR ETH) (STAT153>0 OR STAT360=45)]:%NAME%{%TAN%[%RED%Ca%ORANGE%nn%YELLOW%ot %GREEN%Be %BLUE%Fr%PURPLE%oz%WHITE%en%TAN%]%NL%%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ko %WHITE%and %ORANGE%Lem %WHITE%and %SAGE%P %LIGHT_GRAY%Diamond%WHITE%@ %PURPLE%++}%CONTINUE%
-ItemDisplay[(UNI OR SET) ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7) ELT (!ETH OR ETH) (STAT153>0 OR STAT360=45)]:%NAME%{%TAN%[%RED%Ca%ORANGE%nn%YELLOW%ot %GREEN%Be %BLUE%Fr%PURPLE%oz%WHITE%en%TAN%]%NL%%TEAL%+ %CORAL%Elite %PURPLE%+}%CONTINUE%
+ItemDisplay[(UNI OR SET) ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7 OR aqv OR cqv) NORM (!ETH OR ETH) (STAT153>0 OR STAT360=45)]:%NAME%{%TAN%[%RED%Ca%ORANGE%nn%YELLOW%ot %GREEN%Be %BLUE%Fr%PURPLE%oz%WHITE%en%TAN%]%NL%%TEAL%+ %DARK_GREEN%Normal %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Tal %WHITE%and %ORANGE%Shael %WHITE%and %SAGE%P %LIGHT_GRAY%Diamond%WHITE%@ %PURPLE%++}%CONTINUE%
+ItemDisplay[(UNI OR SET) ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7 OR aqv2 OR cqv2) EXC (!ETH OR ETH) (STAT153>0 OR STAT360=45)]:%NAME%{%TAN%[%RED%Ca%ORANGE%nn%YELLOW%ot %GREEN%Be %BLUE%Fr%PURPLE%oz%WHITE%en%TAN%]%NL%%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ko %WHITE%and %ORANGE%Lem %WHITE%and %SAGE%P %LIGHT_GRAY%Diamond%WHITE%@ %PURPLE%++}%CONTINUE%
+ItemDisplay[(UNI OR SET) ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7 OR aqv3 OR cqv3) ELT (!ETH OR ETH) (STAT153>0 OR STAT360=45)]:%NAME%{%TAN%[%RED%Ca%ORANGE%nn%YELLOW%ot %GREEN%Be %BLUE%Fr%PURPLE%oz%WHITE%en%TAN%]%NL%%TEAL%+ %CORAL%Elite %PURPLE%+}%CONTINUE%
 
-ItemDisplay[(UNI OR SET) ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7) NORM (!ETH OR ETH) !(STAT153>0 OR STAT360=45)]:%NAME%{%TEAL%+ %DARK_GREEN%Normal %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Tal %WHITE%and %ORANGE%Shael %WHITE%and %SAGE%P %LIGHT_GRAY%Diamond%WHITE%@ %PURPLE%++}%CONTINUE%
-ItemDisplay[(UNI OR SET) ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7) EXC (!ETH OR ETH) !(STAT153>0 OR STAT360=45)]:%NAME%{%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ko %WHITE%and %ORANGE%Lem %WHITE%and %SAGE%P %LIGHT_GRAY%Diamond%WHITE%@ %PURPLE%++}%CONTINUE%
-ItemDisplay[(UNI OR SET) ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7) ELT (!ETH OR ETH) !(STAT153>0 OR STAT360=45)]:%NAME%{%TEAL%+ %CORAL%Elite %PURPLE%+}%CONTINUE%
+ItemDisplay[(UNI OR SET) ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7 OR aqv OR cqv) NORM (!ETH OR ETH) !(STAT153>0 OR STAT360=45)]:%NAME%{%TEAL%+ %DARK_GREEN%Normal %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Tal %WHITE%and %ORANGE%Shael %WHITE%and %SAGE%P %LIGHT_GRAY%Diamond%WHITE%@ %PURPLE%++}%CONTINUE%
+ItemDisplay[(UNI OR SET) ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7 OR aqv2 OR cqv2) EXC (!ETH OR ETH) !(STAT153>0 OR STAT360=45)]:%NAME%{%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ko %WHITE%and %ORANGE%Lem %WHITE%and %SAGE%P %LIGHT_GRAY%Diamond%WHITE%@ %PURPLE%++}%CONTINUE%
+ItemDisplay[(UNI OR SET) ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7 OR aqv3 OR cqv3) ELT (!ETH OR ETH) !(STAT153>0 OR STAT360=45)]:%NAME%{%TEAL%+ %CORAL%Elite %PURPLE%+}%CONTINUE%
 
 ItemDisplay[RARE ID (SOCK=0 OR !SOCK=0) WEAPON NORM (!ETH OR ETH)]:%NAME%{%TEAL%+ %DARK_GREEN%Normal %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ort %WHITE%and %ORANGE%Amn %WHITE%and %SAGE%P %WHITE%Sapphire%BLUE%@ %PURPLE%++}%CONTINUE%
 ItemDisplay[RARE ID (SOCK=0 OR !SOCK=0) WEAPON EXC (!ETH OR ETH)]:%NAME%{%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Fal %WHITE%and %ORANGE%Um %WHITE%and %SAGE%P %WHITE%Sapphire%BLUE%@ %PURPLE%++}%CONTINUE%
@@ -9462,9 +9472,9 @@ ItemDisplay[RARE ID (SOCK=0 OR !SOCK=0) (EQ4 OR EQ5 OR EQ6) NORM (!ETH OR ETH) !
 ItemDisplay[RARE ID (SOCK=0 OR !SOCK=0) (EQ4 OR EQ5 OR EQ6) EXC (!ETH OR ETH) !STAT360=45]:%NAME%{%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ko %WHITE%and %ORANGE%Pul %WHITE%and %SAGE%P %WHITE%Amethyst%PURPLE%@ %PURPLE%++}%CONTINUE%
 ItemDisplay[RARE ID (SOCK=0 OR !SOCK=0) (EQ4 OR EQ5 OR EQ6) ELT (!ETH OR ETH) !STAT360=45]:%NAME%{%TEAL%+ %CORAL%Elite %PURPLE%+}%CONTINUE%
 
-ItemDisplay[RARE ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7) NORM (!ETH OR ETH)]:%NAME%{%TEAL%+ %DARK_GREEN%Normal %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ral %WHITE%and %ORANGE%Thul %WHITE%and %SAGE%P %WHITE%Amethyst%PURPLE%@ %PURPLE%++}%CONTINUE%
-ItemDisplay[RARE ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7) EXC (!ETH OR ETH)]:%NAME%{%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ko %WHITE%and %ORANGE%Pul %WHITE%and %SAGE%P %WHITE%Amethyst%PURPLE%@ %PURPLE%++}%CONTINUE%
-ItemDisplay[RARE ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7) ELT (!ETH OR ETH)]:%NAME%{%TEAL%+ %CORAL%Elite %PURPLE%+}%CONTINUE%
+ItemDisplay[RARE ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7 OR aqv OR cqv) NORM (!ETH OR ETH)]:%NAME%{%TEAL%+ %DARK_GREEN%Normal %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ral %WHITE%and %ORANGE%Thul %WHITE%and %SAGE%P %WHITE%Amethyst%PURPLE%@ %PURPLE%++}%CONTINUE%
+ItemDisplay[RARE ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7 OR aqv2 OR cqv2) EXC (!ETH OR ETH)]:%NAME%{%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ko %WHITE%and %ORANGE%Pul %WHITE%and %SAGE%P %WHITE%Amethyst%PURPLE%@ %PURPLE%++}%CONTINUE%
+ItemDisplay[RARE ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7 OR aqv3 OR cqv3) ELT (!ETH OR ETH)]:%NAME%{%TEAL%+ %CORAL%Elite %PURPLE%+}%CONTINUE%
 
 ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) WEAPON NORM (!ETH OR ETH)]:%NAME%{%TEAL%+ %DARK_GREEN%Normal %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ort %WHITE%and %ORANGE%Amn %WHITE%and %SAGE%P %WHITE%Sapphire%BLUE%@ %PURPLE%++}%CONTINUE%
 ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) !CL5 WEAPON EXC (!ETH OR ETH)]:%NAME%{%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Fal %WHITE%and %ORANGE%Um %WHITE%and %SAGE%P %WHITE%Sapphire%BLUE%@ %PURPLE%++}%CONTINUE%
@@ -9482,9 +9492,9 @@ ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) (EQ4 OR EQ5 OR EQ6) NORM (!ETH OR ETH) 
 ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) (EQ4 OR EQ5 OR EQ6) EXC (!ETH OR ETH) !STAT360=45]:%NAME%{%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ko %WHITE%and %ORANGE%Pul %WHITE%and %SAGE%P %WHITE%Amethyst%PURPLE%@ %PURPLE%++}%CONTINUE%
 ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) (EQ4 OR EQ5 OR EQ6) ELT (!ETH OR ETH) !STAT360=45]:%NAME%{%TEAL%+ %CORAL%Elite %PURPLE%+}%CONTINUE%
 
-ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7) NORM (!ETH OR ETH)]:%NAME%{%TEAL%+ %DARK_GREEN%Normal %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ral %WHITE%and %ORANGE%Thul %WHITE%and %SAGE%P %WHITE%Amethyst%PURPLE%@ %PURPLE%++}%CONTINUE%
-ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7) EXC (!ETH OR ETH)]:%NAME%{%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ko %WHITE%and %ORANGE%Pul %WHITE%and %SAGE%P %WHITE%Amethyst%PURPLE%@ %PURPLE%++}%CONTINUE%
-ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7) ELT (!ETH OR ETH)]:%NAME%{%TEAL%+ %CORAL%Elite %PURPLE%+}%CONTINUE%
+ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7 OR aqv OR cqv) NORM (!ETH OR ETH)]:%NAME%{%TEAL%+ %DARK_GREEN%Normal %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ral %WHITE%and %ORANGE%Thul %WHITE%and %SAGE%P %WHITE%Amethyst%PURPLE%@ %PURPLE%++}%CONTINUE%
+ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7 OR aqv2 OR cqv2) EXC (!ETH OR ETH)]:%NAME%{%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NL%%TEAL%++  %LIGHT_GRAY%Upgrade: %GOLD%Ko %WHITE%and %ORANGE%Pul %WHITE%and %SAGE%P %WHITE%Amethyst%PURPLE%@ %PURPLE%++}%CONTINUE%
+ItemDisplay[CRAFT ID (SOCK=0 OR !SOCK=0) (EQ1 OR CHEST OR EQ3 OR EQ7 OR aqv3 OR cqv3) ELT (!ETH OR ETH)]:%NAME%{%TEAL%+ %CORAL%Elite %PURPLE%+}%CONTINUE%
 
 ItemDisplay[MAG ID ELT]:%BLUE%%NAME%{%TEAL%+ %CORAL%Elite %PURPLE%+%NAME%}%CONTINUE%
 ItemDisplay[MAG ID EXC]:%BLUE%%NAME%{%TEAL%+ %ORANGE%Exceptional %PURPLE%+%NAME%}%CONTINUE%
@@ -9750,8 +9760,8 @@ ItemDisplay[CHEST (CRAFT OR RARE) ID EDAM<100 EDAM>0]:%WHITE%%EDAM%%SAGE%d %NAME
 
 ItemDisplay[(RARE OR CRAFT) ID (SOCK=0 OR !SOCK=0) CHEST (!ETH OR ETH) (STAT17>179 OR STAT18>179) ED>179]:%NAME%{%PURPLE%[%CORAL%%ED% %RED%High %LIGHT_GRAY%Enhanced %GOLD%Damage%PURPLE%]%NL%%NAME%}%CONTINUE%
 
-ItemDisplay[RARE ID (aqv OR cqv) ED<90 ED>54]:%NAME%{%WHITE%++%GOLD%++%ORANGE%++     %RED%H%ORANGE%i%YELLOW%g%GREEN%h %PURPLE%En%ORANGE%ha%GOLD%nc%WHITE%ed %GOLD%Da%ORANGE%ma%RED%ge %PURPLE%Op%ORANGE%ti%GOLD%on     %ORANGE%++%GOLD%++%WHITE%++%NL%%NAME%}%CONTINUE%
-ItemDisplay[RARE ID (aqv OR cqv) ED>89]:%NAME%{%WHITE%++%GOLD%++%ORANGE%++     %RED%G%ORANGE%r%YELLOW%e%GREEN%a%WHITE%t %PURPLE%En%ORANGE%ha%GOLD%nc%WHITE%ed %GOLD%Da%ORANGE%ma%RED%ge %PURPLE%Op%ORANGE%ti%GOLD%on     %ORANGE%++%GOLD%++%WHITE%++%NL%%NAME%}%CONTINUE%
+ItemDisplay[(CRAFT OR RARE) ID (aqv OR cqv OR aqv2 OR aqv3 OR cqv2 OR cqv3) ED<90 ED>54]:%NAME%{%WHITE%++%GOLD%++%ORANGE%++     %RED%H%ORANGE%i%YELLOW%g%GREEN%h %PURPLE%En%ORANGE%ha%GOLD%nc%WHITE%ed %GOLD%Da%ORANGE%ma%RED%ge %PURPLE%Op%ORANGE%ti%GOLD%on     %ORANGE%++%GOLD%++%WHITE%++%NL%%NAME%}%CONTINUE%
+ItemDisplay[(CRAFT OR RARE) ID (aqv OR cqv OR aqv2 OR aqv3 OR cqv2 OR cqv3) ED>89]:%NAME%{%WHITE%++%GOLD%++%ORANGE%++     %RED%G%ORANGE%r%YELLOW%e%GREEN%a%WHITE%t %PURPLE%En%ORANGE%ha%GOLD%nc%WHITE%ed %GOLD%Da%ORANGE%ma%RED%ge %PURPLE%Op%ORANGE%ti%GOLD%on     %ORANGE%++%GOLD%++%WHITE%++%NL%%NAME%}%CONTINUE%
 
 
 //STAT60 LIFE STOLEN STAT7 TO LIFE STAT9 TO MANA STAT116 TARGET DEFENSE STAT121 DAMAGE TO DEMON STAT122 DAMAGE TO UNDEAD STAT62 MANA STOLEN STAT74 REP LIFE
@@ -9778,6 +9788,10 @@ ItemDisplay[(UNI OR SET OR RARE OR CRAFT) ID (SOCK=3) (9ha OR 9cl OR 9sp OR 9ma 
 ItemDisplay[(UNI OR SET OR RARE OR CRAFT) ID (SOCK=4) (9ax OR 92a OR 9mp OR 9wa OR 9fl OR 9wh OR 9cr OR 9bs OR 9cm OR 9gs OR 9b9 OR 9tr OR 9b7 OR 9vo OR 8sb OR 8hb OR 8cb OR 8lx OR 8mx OR 8cs OR 8bs OR 9ws) EXC STAT360=32]:%NAME%{%PURPLE%++%RED%++%GOLD%++%WHITE%++%GOLD%++  %RED%Fu%ORANGE%ll %YELLOW%So%GREEN%ck%BLUE%et %PURPLE%We%WHITE%ap%GOLD%on  %PURPLE%++%RED%++%GOLD%++%WHITE%++%GOLD%++%NL%%NAME%}%CONTINUE%
 
 ItemDisplay[(UNI OR SET OR RARE OR CRAFT) ID (SOCK=5) (9la OR 9ba OR 9bt OR 9fb OR 9br OR 9s8 OR 9pa OR 8lb OR 8s8 OR 8sw OR 8rx OR am6 OR am7) EXC STAT360=32]:%NAME%{%PURPLE%++%RED%++%GOLD%++%WHITE%++%GOLD%++  %RED%Fu%ORANGE%ll %YELLOW%So%GREEN%ck%BLUE%et %PURPLE%We%WHITE%ap%GOLD%on  %PURPLE%++%RED%++%GOLD%++%WHITE%++%GOLD%++%NL%%NAME%}%CONTINUE%
+//s12
+ItemDisplay[(UNI OR SET OR RARE OR CRAFT) ID (SOCK=2) (cqv2 OR aqv2 OR cqv3 OR aqv3) !STAT360=32 STAT360>0]:%NAME%{%PURPLE%++%RED%++%GOLD%++%WHITE%++%GOLD%++  %RED%Fu%ORANGE%ll %YELLOW%So%GREEN%ck%BLUE%et %PURPLE%Ar%WHITE%m%GOLD%or  %PURPLE%++%RED%++%GOLD%++%WHITE%++%GOLD%++%NL%%NAME%}%CONTINUE%
+ItemDisplay[(UNI OR SET OR RARE OR CRAFT) ID (SOCK=2) (cqv2 OR aqv2 OR cqv3 OR aqv3) STAT360=32]:%NAME%{%PURPLE%++%RED%++%GOLD%++%WHITE%++%GOLD%++  %RED%Fu%ORANGE%ll %YELLOW%So%GREEN%ck%BLUE%et %PURPLE%Ar%WHITE%m%GOLD%or%GOLD%(lb)  %PURPLE%++%RED%++%GOLD%++%WHITE%++%GOLD%++%NL%%NAME%}%CONTINUE%
+
 //s10
 ItemDisplay[(UNI OR SET OR RARE OR CRAFT) ID (SOCK=3) (EQ1 OR EQ7) EXC STAT360=32]:%NAME%{%PURPLE%++%RED%++%GOLD%++%WHITE%++%GOLD%++  %RED%Fu%ORANGE%ll %YELLOW%So%GREEN%ck%BLUE%et %PURPLE%Ar%WHITE%m%GOLD%or  %PURPLE%++%RED%++%GOLD%++%WHITE%++%GOLD%++%NL%%NAME%}%CONTINUE%
 ItemDisplay[(UNI OR SET OR RARE OR CRAFT) ID (SOCK=3) CHEST EXC STAT360=32]:%NAME%{%PURPLE%++%RED%++%GOLD%++%WHITE%++%GOLD%++  %RED%Fu%ORANGE%ll %YELLOW%So%GREEN%ck%BLUE%et %PURPLE%Ar%WHITE%m%GOLD%or  %PURPLE%++%RED%++%GOLD%++%WHITE%++%GOLD%++%NL%%NAME%}%CONTINUE%
@@ -10236,6 +10250,9 @@ ItemDisplay[(RARE) ID rbe STAT360>0]:%NAME%{%NAME%}
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                            Socket info                                      //
 /////////////////////////////////////////////////////////////////////////////////////////////////
+//S12
+ItemDisplay[(UNI OR SET OR RARE OR CRAFT OR MAG) ID (aqv OR cqv OR aqv2 OR cqv2 OR aqv3 OR cqv3)]:%NAME%{%NAME%}
+
 //glove,boots,belt
 ItemDisplay[(UNI OR SET OR RARE OR CRAFT OR MAG) ID lgl STAT360>0 SOCK=0]:%NAME%{%NAME% %TEAL%To be %WHITE%Str:20}
 ItemDisplay[(UNI OR SET OR RARE OR CRAFT OR MAG) ID xlg STAT360>0 SOCK=0]:%NAME%{%NAME% %TEAL%To be %WHITE%Str:50}
