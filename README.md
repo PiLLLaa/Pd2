@@ -107,6 +107,7 @@
       2) S10/S11/S12 unique has notification when drop
       3) Elite unique quivers has notification when drop
       4) Starter filter now can drop elite magic quivers when activation.
+      5) Now key has tips for PD2's maps
       
       
 ----------------------------------------------------------------------------------------------------------------------
