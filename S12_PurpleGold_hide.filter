@@ -1527,6 +1527,8 @@ ItemDisplay[(cm1 OR cm2 OR cm3 OR cm1p OR cm2p OR cm3p OR jew) (MAG OR RARE) !UN
 ItemDisplay[(cm1 OR cm2 OR cm3 OR cm1p OR cm2p OR cm3p OR jew) (MAG OR RARE) !UNI STAT45=29 AND (!FRES>0 OR !CRES>0 OR !LRES>0)]:%GREEN%Pres: %WHITE%29% %NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3 OR cm1p OR cm2p OR cm3p OR jew) (MAG OR RARE) !UNI STAT45=30 AND (!FRES>0 OR !CRES>0 OR !LRES>0)]:%GREEN%Pres: %WHITE%30%%RED%* %NAME%%CONTINUE%
 
+ItemDisplay[(cm1 OR cm2 OR cm3 OR cm1p OR cm2p OR cm3p OR jew) (MAG OR RARE) !UNI REROLLALVL<66]:%NAME%{%SAGE%Do not recommend %BLUE%Reroll : %WHITE%affix level%SAGE% under %RED%65LV %NL%%NAME%}%CONTINUE%
+
 ItemDisplay[(jew) (MAG OR RARE) !UNI STAT501>0]:%SAGE%Wounds: %WHITE%%STAT501% %NAME%%CONTINUE%
 
 ItemDisplay[(cm1) (MAG) !UNI STAT48>0 STAT49>0]:%RED%FireDmg %NAME%%CONTINUE%
