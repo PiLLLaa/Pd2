@@ -108,6 +108,7 @@
       3) Elite unique quivers has notification when drop
       4) Starter filter now can drop elite magic quivers when activation.
       5) Now key has tips for PD2's maps
+      6) Now Jewel/Charms has reroll comments
       
       
 ----------------------------------------------------------------------------------------------------------------------
