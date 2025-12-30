@@ -19,8 +19,8 @@ ItemDisplayFilterName[]: ++++++++++No AllSet(rin+amu) //FILTLVL>11
 //                                      Filter Level Disable Item                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //s12
-ItemDisplay[MAG (aqv3 OR cqv3) !ID FILTLVL<2]:%NAME%%GRAY%[Skill Check]
-ItemDisplay[MAG (aqv3 OR cqv3) !ID FILTLVL>1]:
+ItemDisplay[MAG (aqv2 OR cqv2 OR aqv3 OR cqv3) !ID FILTLVL<2]:%NAME%%GRAY%[Skill Check]
+ItemDisplay[MAG (aqv2 OR cqv2 OR aqv3 OR cqv3) !ID FILTLVL>1]:
 //ItemDisplay[MAG (aqv OR cqv OR aqv2 OR aqv3 OR cqv2 OR cqv3) !ID FILTLVL<2]:%NAME%%GRAY%[Skill Check]
 //ItemDisplay[MAG (aqv OR cqv OR aqv2 OR aqv3 OR cqv2 OR cqv3) !ID FILTLVL>1]:
 
