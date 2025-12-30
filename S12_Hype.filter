@@ -5,7 +5,7 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////
 ItemDisplayFilterName[]: Standard //FILTLVL>0 
 ItemDisplayFilterName[]: No ThrowingPotion+Ring(M) //FILTLVL>1 OK
-ItemDisplayFilterName[]: +No CraftArmor //FILTLVL>2
+ItemDisplayFilterName[]: +No Quivers(M)+CraftArmor //FILTLVL>2
 ItemDisplayFilterName[]: ++No Claw(M)+ClassHelmet(M)+Javel(M) //FILTLVL>3
 ItemDisplayFilterName[]: +++No NormalSet(Only Active Sigon) //FILTLVL>4
 ItemDisplayFilterName[]: ++++No NecHead(M)+Wand(M) //FILTLVL>5
@@ -18,6 +18,10 @@ ItemDisplayFilterName[]: ++++++++++No AllSet(rin+amu) //FILTLVL>11
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      Filter Level Disable Item                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
+//s12
+ItemDisplay[MAG (aqv3 OR cqv3) !ID FILTLVL<3]:%NAME%%GRAY%[Skill Check]
+ItemDisplay[MAG (aqv3 OR cqv3) !ID FILTLVL>2]:
+
 ItemDisplay[(tpfl OR tpgl OR tpcl OR tpll) FILTLVL>1]:
 ItemDisplay[MAG rin !ID FILTLVL>1]: 
 //ItemDisplay[SET rin !ID FILTLVL=4]:
