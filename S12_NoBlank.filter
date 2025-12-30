@@ -3050,6 +3050,10 @@ ItemDisplay[NMAG (dir) !ID SHOP]:%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CO
 //s11
 ItemDisplay[NMAG (axf) !ID SHOP]:%GOLD%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%WHITE%--%TAN%--%GOLD%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%WHITE%--%TAN%--%NL%  %RED% Whispering Mirage %NL%%GOLD%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%WHITE%--%TAN%--%GOLD%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%WHITE%--%TAN%--%NL%%GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%****
 
+//s12
+ItemDisplay[NMAG (aqv) !ID SHOP]:%GOLD%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%WHITE%--%TAN%--%GOLD%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%WHITE%--%TAN%--%NL%  %RED%Doom's Finger%NL% %RED%Basilisk's Quill%NL% %RED%Aetherwing %NL%%GOLD%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%WHITE%--%TAN%--%GOLD%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%WHITE%--%TAN%--%NL%%GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%****
+ItemDisplay[NMAG (cqv) !ID SHOP]:%GOLD%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%WHITE%--%TAN%--%GOLD%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%WHITE%--%TAN%--%NL%  %RED%Frozen Sorrow%NL% %RED%Bannerlord's Call%NL% %RED%Abyssal Ward %NL%%GOLD%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%WHITE%--%TAN%--%GOLD%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%WHITE%--%TAN%--%NL%%GOLD%**** %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%****
+
 ItemDisplay[NMAG (WEAPON OR ARMOR) !ID SHOP]: %NL%%LIGHT_GRAY%***** %WHITE%  No high rolls  %LIGHT_GRAY%***** %NL%%NL%%CORAL%[%GRAY%%NAME%%CORAL%]
 
 ///////////////////////////////////////////
