@@ -19,7 +19,7 @@ ItemDisplayFilterName[]: ++++++++++No AllSet(rin+amu) //FILTLVL>11
 //                                      Filter Level Disable Item                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //s12
-ItemDisplay[MAG (aqv3 OR cqv3) !ID FILTLVL<3]:%NAME%%GRAY%[Skill Check]
+ItemDisplay[MAG (aqv3 OR cqv3) !ID FILTLVL<3]:%NAME%%GRAY%[Skill %WHITE%c%ORANGE%h%RED%e%GREEN%c%PURPLE%k%GRAY%]
 ItemDisplay[MAG (aqv3 OR cqv3) !ID FILTLVL>2]:
 
 ItemDisplay[(tpfl OR tpgl OR tpcl OR tpll) FILTLVL>1]:
@@ -137,7 +137,7 @@ ItemDisplay[box !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109) FIL
 ItemDisplay[box !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109) FILTLVL=1]:%NAME%{%TAN%-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  %NL%%NL%%CORAL%Filter Level=%RED%1%WHITE%, %SAGE%Standard%NL%%NL%%TAN%-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  }
 ItemDisplay[box !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109) FILTLVL=2]:%NAME%{%TAN%-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  %NL%%NL%%CORAL%Filter Level=%RED%2%WHITE%, %SAGE%No ThrowingPotion, Ring(M)%NL%%NL%%TAN%-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  }
 //ItemDisplay[box !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109) FILTLVL=2]:%NAME%{%TAN%-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  %NL%%NL%%CORAL%Filter Level=%RED%2%WHITE%, %SAGE%No Bolt(M)+Arrow(M)+ThrowingPotion, Ring(M)%NL%%NL%%TAN%-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  }
-ItemDisplay[box !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109) FILTLVL=3]:%NAME%{%TAN%-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  %NL%%NL%%CORAL%Filter Level=%RED%3%WHITE%, %SAGE%No CraftArmor%NL%%NL%%TAN%-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  }
+ItemDisplay[box !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109) FILTLVL=3]:%NAME%{%TAN%-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  %NL%%NL%%CORAL%Filter Level=%RED%3%WHITE%, %SAGE%No Quivers(M)+CraftArmor%NL%%NL%%TAN%-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  }
 ItemDisplay[box !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109) FILTLVL=4]:%NAME%{%TAN%-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  %NL%%NL%%CORAL%Filter Level=%RED%4%WHITE%, %SAGE%No Claw(M)+ClassHelmet(M)+Javel(M)%NL%%NL%%TAN%-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  }
 ItemDisplay[box !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109) FILTLVL=5]:%NAME%{%TAN%-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  %NL%%NL%%CORAL%Filter Level=%RED%5%WHITE%, %SAGE%No NormalSet(Only Active Sigon)%NL%%NL%%TAN%-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  }
 ItemDisplay[box !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109) FILTLVL=6]:%NAME%{%TAN%-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  %NL%%NL%%CORAL%Filter Level=%RED%6%WHITE%, %SAGE%No NecHead(M)+Wand(M)%NL%%NL%%TAN%-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --  }
