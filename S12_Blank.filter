@@ -17,6 +17,10 @@ ItemDisplayFilterName[]: ++++++++No Arrow(Rare)+Only GG Base Activation //FILTLV
 ItemDisplayFilterName[]: +++++++++No CraftWeapon(Only Active ETH+GMB)  //FILTLVL>10
 ItemDisplayFilterName[]: ++++++++++No AllSet(rin+Amu)  //FILTLVL>11
 
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                Filter Level Disable Item                                    //
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
 //s12
 ItemDisplay[MAG (aqv3 OR cqv3) !ID FILTLVL<3]:%NAME%%GRAY%[Skill %WHITE%c%ORANGE%h%RED%e%GREEN%c%PURPLE%k%GRAY%]
 ItemDisplay[MAG (aqv3 OR cqv3) !ID FILTLVL>2]:
@@ -94,6 +98,10 @@ ItemDisplay[(6ws) !ETH MAG !ID FILTLVL>10]:
 ItemDisplay[(9ga OR 7ga) !ETH MAG !ID FILTLVL>10]:
 //ok
 ItemDisplay[SET !ID (rin OR amu OR WEAPON OR ARMOR) FILTLVL>11]:
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                    Naming NMAG Items                                        //
+/////////////////////////////////////////////////////////////////////////////////////////////////
 
 ItemDisplay[(NMAG) cap]:Cap%CONTINUE%
 ItemDisplay[(NMAG) xap]:War Hat%CONTINUE%
@@ -590,6 +598,10 @@ ItemDisplay[(NMAG) ama]:Ceremonial Javelin%CONTINUE%
 ItemDisplay[(NMAG) amf]:Matriarchal Javelin%CONTINUE%
 //ItemDisplay[(MAG) rin]:Ring%CONTINUE%
 //ItemDisplay[(MAG) amu]:Amulet%CONTINUE%
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                 Naming SET&UNI Items                                        //
+/////////////////////////////////////////////////////////////////////////////////////////////////
 
 ItemDisplay[(SET OR UNI) !ID cap]:Cap%CONTINUE%
 ItemDisplay[(SET OR UNI) !ID xap]:War Hat%CONTINUE%
@@ -1098,6 +1110,10 @@ ItemDisplay[(SET OR UNI) !ID cqv3]:WarBolt%CONTINUE%
 //ItemDisplay[CRAFT ID EXC]:%TEAL%+%CORAL%Exceptional%PURPLE%+%NL%%ORANGE%%NAME%%CONTINUE%
 //ItemDisplay[CRAFT ID NORM]:%TEAL%+%LIGHT_GRAY%Normal%PURPLE%+%NL%%ORANGE%%NAME%%CONTINUE%
 //ItemDisplay[CRAFT ID ELT]:%TEAL%+%SAGE%Elite%PURPLE%+%NL%%ORANGE%%NAME%%CONTINUE%
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                 ReNaming SET&UNI Items                                      //
+/////////////////////////////////////////////////////////////////////////////////////////////////
 
 ItemDisplay[(UNI) cap AR>29 LIFE>14 MANA>14 ID]:%GOLD%Cap%NL%%GOLD%B i %TAN%g g %WHITE%i n %TAN%' s %GOLD%  B %TAN%o n %WHITE%n e %TAN%t%CONTINUE%
 ItemDisplay[(UNI) cap AR>29 LIFE>14 MANA>14 ID]:%GOLD%War Hat%NL%%GOLD%B i %TAN%g g %WHITE%i n %TAN%' s %GOLD%  B %TAN%o n %WHITE%n e %TAN%t%CONTINUE%
@@ -2446,6 +2462,11 @@ ItemDisplay[(SET) wst ID]:%GREEN%War Staff%NL%%GREEN%Arcanna's %WHITE%D %GREEN%e
 ItemDisplay[(SET) 8ws ID]:%GREEN%Rune Staff%NL%%GREEN%Arcanna's %WHITE%D %GREEN%e %WHITE%a t %DARK_GREEN%h w %WHITE%a n %GREEN%d%CONTINUE%
 ItemDisplay[(SET) 6ws ID]:%GREEN%Archon Staff%NL%%GREEN%Arcanna's %WHITE%D %GREEN%e %WHITE%a t %DARK_GREEN%h w %WHITE%a n %GREEN%d%CONTINUE%
 
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                ReNaming Runeword Items                                      //
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
 //////////////////
 //DREAM
 ItemDisplay[RW (EQ1 OR EQ3 OR EQ7) SOCK=3 FHR>19 STAT3=10 RES>9 MFIND>10 (STAT76>0 OR LIFE>0) STAT217>0]:%PURPLE%D %RED%R %ORANGE%E %GOLD%A %WHITE%M%CONTINUE%
@@ -2720,6 +2741,10 @@ ItemDisplay[RW SOCK=3 (WP7 OR WP8 OR WP9 OR WP10 OR WP11) !UNI !SET !RARE !CRAFT
 //STAT57	+X Poison Damage over Y Secondsbitrate N = (256X) / (25Y)
 //STAT58	+X Poison Damage over Y Secondsbitrate N = (256X) / (25Y)
 //STAT59	+X Poison Damage over N Seconds
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                             ReNaming Runeword BaseItems                                     //
+/////////////////////////////////////////////////////////////////////////////////////////////////
 
 ItemDisplay[(RW) 2ax]:%ORANGE%D o %GOLD%u b %TAN%l e %GOLD%  A %ORANGE%x e%NL%%NAME%%CONTINUE%
 ItemDisplay[(RW) 2hs]:%ORANGE%T w %GOLD%o - %TAN%h a %GOLD%n d %ORANGE%e d %GOLD%  S %TAN%w o %GOLD%r d%NL%%NAME%%CONTINUE%
@@ -3217,6 +3242,10 @@ ItemDisplay[(RW) zvb]:%ORANGE%S h %GOLD%a r %TAN%k s %GOLD%k i %ORANGE%n   %GOLD
 
 //ItemDisplay[(UNI OR SET OR NMAG OR MAG OR CRAFT OR RARE) ID !RW (WEAPON OR ARMOR OR rin OR Amu)]:%NAME%{%NL%%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%NAME%}%CONTINUE%
 
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                       Gambling                                              //
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
 //Gambling
 ItemDisplay[NMAG rin !ID SHOP]:%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%NL%%GREEN%	Bul-Kathos' Death Band%NL%%NL%%YELLOW%Kadala's Heirloom%NL%%ORANGE%Bul-Kathos' Wedding Band%NL%%CORAL%Stone of Jordan%NL%%RED%Wisp Projector %NL%%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%NL%%RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%CORAL%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
 ItemDisplay[NMAG amu !ID SHOP]:%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%NL%%GREEN%	Tal Rasha's Adjudication%NL% %NL%%SAGE%The Rising Sun%NL%%YELLOW%Metalgrid%NL%%ORANGE%Atma's Scarab%NL%%CORAL%Highlord's Wrath%NL%%RED%Mara's Kaleidoscope%NL%%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%NL%%RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
@@ -3362,7 +3391,10 @@ ItemDisplay[NMAG (cqv) !ID SHOP]:%GOLD%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%W
 
 ItemDisplay[NMAG (WEAPON OR ARMOR) !ID SHOP]: %NL%%LIGHT_GRAY%***** %WHITE%  No high rolls  %LIGHT_GRAY%***** %NL%%NL%%CORAL%[%GRAY%%NAME%%CORAL%]
 
-///////////////////////////////////////////
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                       Identifier                                            //
+/////////////////////////////////////////////////////////////////////////////////////////////////
 
 ItemDisplay[NMAG]:%GRAY%%NAME%%CONTINUE%
 ItemDisplay[MAG]:%BLUE%%NAME%%CONTINUE%
@@ -3458,6 +3490,11 @@ ItemDisplay[SET amu !ID]:%GREEN%Amulet%CONTINUE%
 //ItemDisplay[(7cm OR 7st) UNI !ID]:%BORDER-62%%RED%+%ORANGE%+%YELLOW%+%WHITE%+    %RED%%NAME%%WHITE%(New)    %RED%+%ORANGE%+%YELLOW%+%WHITE%+
 //ItemDisplay[(7fb OR 7gd OR 7ls OR 7m7 OR 7qr OR 7ws OR 9mt OR 9vo OR amc OR ba5 OR ci0 OR ci3 OR dr8 OR ne9 OR oba OR paf OR uar OR ucl OR uh9 OR uhm OR uld OR ulg OR ult OR umc OR upl OR urn OR utc OR uth OR uts OR uui OR uul OR xar OR xcl OR xh9 OR xhb OR xhg OR xhl OR xhm OR xlb OR xmb OR xmg OR xml OR xrn OR xsk OR xtb OR xtg OR xul OR xvg OR zhb OR zmb OR ztb OR zvb) SET !ID]:%BORDER-62%%GREEN%+%SAGE%+%WHITE%+%TEAL%+    %GREEN%%NAME%    %TEAL%+%WHITE%+%SAGE%+%GREEN%+
 //ItemDisplay[UNI !ID]:%GOLD%%NAME%{%NAME%}%CONTINUE%
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                    Unidentified Unique                                      //
+/////////////////////////////////////////////////////////////////////////////////////////////////
 
 ///////////////////// UNIQUE
 ItemDisplay[UNI !ID jew]:%SOUNDID-2664%%BORDER-62%%ORANGE%+%CORAL%+%SAGE%+ %RED%R %ORANGE%a %YELLOW%i %GREEN%n %BLUE%b %PURPLE%o %WHITE%w  %GOLD%F a c e t %SAGE%+%CORAL%+%ORANGE%+
@@ -4135,6 +4172,10 @@ ItemDisplay[SET !ID rin]: %DOT-84%%PURPLE%++++    %GREEN%%NAME%    %PURPLE%++++
 //ItemDisplay[(WEAPON OR ARMOR OR rar OR rbe OR ram) UNI ID]:%NAME%{%NAME%}%CONTINUE%
 //ItemDisplay[(WEAPON OR ARMOR) SET ID]:%NAME%{%NAME%}%CONTINUE%
 
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                   Unidentified Magic/Rare                                   //
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
 ItemDisplay[MAG cm1 !ID]:%DOT-97%%SAGE%+%GREEN%+%WHITE%+%LIGHT_GRAY%+    %NAME% %GRAY%[L%ILVL%]    %LIGHT_GRAY%+%WHITE%+%GREEN%+%SAGE%+
 ItemDisplay[MAG cm2 !ID]:%DOT-97%%SAGE%+%GREEN%+%WHITE%+%LIGHT_GRAY%+    %NAME% %GRAY%[L%ILVL%]    %LIGHT_GRAY%+%WHITE%+%GREEN%+%SAGE%+
 ItemDisplay[MAG cm3 !ID]:%DOT-97%%SAGE%+%GREEN%+%WHITE%+%LIGHT_GRAY%+    %NAME% %GRAY%[L%ILVL%]    %LIGHT_GRAY%+%WHITE%+%GREEN%+%SAGE%+
@@ -4176,6 +4217,10 @@ ItemDisplay[EQ7 MAG !ID]:%NAME%%SAGE%[circlet %WHITE%c%ORANGE%h%RED%e%GREEN%c%PU
 ItemDisplay[CL4 MAG !ID]:%NAME%%SAGE%[nec shield %WHITE%c%ORANGE%h%RED%e%GREEN%c%PURPLE%k%SAGE%]{%NAME%}
 ItemDisplay[WP12 MAG !ID]:%NAME%%SAGE%[nec wand %WHITE%c%ORANGE%h%RED%e%GREEN%c%PURPLE%k%SAGE%]{%NAME%}
 ItemDisplay[CL5 MAG !ID]:%NAME%%SAGE%[katar %WHITE%c%ORANGE%h%RED%e%GREEN%c%PURPLE%k%SAGE%]{%NAME%}
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                       Craft Identifier                                      //
+/////////////////////////////////////////////////////////////////////////////////////////////////
 
 ItemDisplay[(CRAFT) amu FCR>0 STAT27>0 MANA>0]:%ORANGE%Amulet%NL%%PURPLE%C a s t e r  %ORANGE%C r %GOLD%a f %ORANGE%t%CONTINUE%
 ItemDisplay[(CRAFT) rin STAT1>0 MANA>0 MAEK>0]:%ORANGE%Ring%NL%%PURPLE%C a s t e r  %ORANGE%C r %GOLD%a f %ORANGE%t
@@ -4239,6 +4284,10 @@ ItemDisplay[CRAFT ID EQ3 ED>19 STAT36>0]:%GREEN%S a f e t y %ORANGE%%NAME%{%NAME
 ItemDisplay[CRAFT ID EQ3 STAT20>9 STAT62>0]:%GRAY%V a m p i r i c %ORANGE%%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[CRAFT ID EQ3 STAT20>9 MFIND>19 STAT89>0]:%YELLOW%B o u n t i f u l %ORANGE%%NAME%{%NAME%}%CONTINUE%
 
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                           PD2 Maps                                          //
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
 //T1
 ItemDisplay[t21]:Phlegethon %SAGE%[Map%SAGE%]%CONTINUE%
 ItemDisplay[t22]:Torajan Jungle %SAGE%[Map%SAGE%]%CONTINUE%
@@ -4295,6 +4344,10 @@ ItemDisplay[(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 
 ItemDisplay[(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19 OR t20 OR t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29 OR t30 OR t31 OR t32 OR t33 OR t34 OR t36 OR t37 OR t38 OR t39 OR t40 OR t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) RARE]:%YELLOW%%NAME%%ORANGE%(Rare)%CONTINUE%
 ItemDisplay[(t51 OR t52 OR t53 OR t54 OR t55 OR t56) UNI]:%NAME%%SAGE%(Unique)%CONTINUE%
 
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                     Lucion Uber                                             //
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
 //S10
 // PD2 Items - S10 Boss mats
 ItemDisplay[lucb]:%MAP-0B%%WHITE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%[ %GOLD%Demonic %ORANGE%Insignia%WHITE%* %GREEN%%QTY% %WHITE%]%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%*{%TAN%-- --  -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --%NL%%GOLD%Demonic %ORANGE%Insignia : New Uber ingredient%NL%%TAN%-- --  -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --}
@@ -4304,6 +4357,10 @@ ItemDisplay[lucd]:%MAP-0B%%WHITE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANG
 ItemDisplay[luca]:%MAP-0B%%WHITE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%[ %GOLD%Shadow %ORANGE%of Hatred %WHITE%]%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%*{%NL%%WHITE%When Tier2-%ORANGE%Item Drop rate Up%RED%(Higher Difficulty)%NL%%GOLD%Cubing=%WHITE%Goes to Tier%CORAL%0-1-2(1,2 DemonicCubedrop)%NL%%GOLD% Entrance of Lucion %NL%}
 //ItemDisplay[lucb OR lucc OR lucd]:%MAP-0B% %GOLD%%NAME% %RED%(New Uber){%TAN%-- -- -- -- -- -- -- -- -- --  %NL% %GOLD%New Uber Part %NL%%TAN%-- --  -- -- -- -- -- -- -- --}
 //ItemDisplay[luca]:%MAP-0B%%PURPLE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[    %GOLD%Hellfire %ORANGE%Ashes%WHITE%* %GREEN%%QTY%    %WHITE%]%PURPLE%--%BLUE%--%GREEN%--%YELLOW%--%ORANGE%--%RED%--%PURPLE%*{%NL%%GOLD%Made by cubing the %RED%Torch %WHITE%+ %ORANGE%Key%NL%%GOLD%Stackable %RED%Hellfire Torch%GOLD% ingredient for Voidstone recipe%NL%}
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                       MISC                                                  //
+/////////////////////////////////////////////////////////////////////////////////////////////////
 
 ItemDisplay[crfb !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%MAP-0B% %RED%(blood)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %RED%Blood Crafting Item %GOLD% when cubing}
 ItemDisplay[crfc !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%MAP-0B% %BLUE%(caster)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %BLUE%Caster Crafting Item %GOLD% when cubing}
@@ -4878,18 +4935,29 @@ ItemDisplay[gpl CLVL<20]:%GREEN%Gas3%PURPLE%*
 ItemDisplay[gpl CLVL>19]:
 ItemDisplay[vps CLVL<10]:%GRAY%Sta%PURPLE%*
 ItemDisplay[vps CLVL>9]:
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                            Money                                            //
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
 ItemDisplay[GOLD<51 CLVL>0 CLVL<20]:
 ItemDisplay[GOLD<500 CLVL>19 CLVL<30]:
 ItemDisplay[GOLD<1000 CLVL>29 CLVL<40]:
 ItemDisplay[GOLD<1500 CLVL>39 CLVL<50]:
 ItemDisplay[GOLD<2000 CLVL>49 CLVL<60]:
 ItemDisplay[GOLD<4999 CLVL>60]:
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                     Quivers MAG/NMAG                                        //
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
 //s12
 //ItemDisplay[(aqv OR cqv) UNI !ID CLVL<80]: %NAME%
 //ItemDisplay[(aqv OR cqv) UNI !ID CLVL>79]:
 //ItemDisplay[(aqv OR cqv) MAG !ID CLVL<10]: %NAME%
 //ItemDisplay[(aqv OR cqv) MAG !ID CLVL>9]:
 //ItemDisplay[(aqv OR cqv) NMAG]:
+
 ItemDisplay[(aqv OR cqv OR aqv2 OR aqv3 OR cqv2 OR cqv3) MAG !ID CLVL<10]: %NAME%
 ItemDisplay[(aqv OR cqv OR aqv2 OR aqv3 OR cqv2 OR cqv3) MAG !ID CLVL>9]:
 
@@ -4898,6 +4966,10 @@ ItemDisplay[(aqv OR cqv OR aqv2 OR cqv2 OR aqv3 OR cqv3) NMAG SOCK>1 CLVL>19]:
 
 ItemDisplay[(aqv OR cqv OR aqv2 OR cqv2 OR aqv3 OR cqv3) NMAG SOCK<2 CLVL<10]:%NAME%
 ItemDisplay[(aqv OR cqv OR aqv2 OR cqv2 OR aqv3 OR cqv3) NMAG SOCK<2 CLVL>9]:
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                     Charms/JEWELS                                           //
+/////////////////////////////////////////////////////////////////////////////////////////////////
 
 ////Unique Charms
 ItemDisplay[UNI !ID cm1]:%BORDER-62%%GOLD%++%ORANGE%++%WHITE%++%ORANGE%++%GOLD%++    %TEAL%Annihilius    %GOLD%++%ORANGE%++%WHITE%++%ORANGE%++%GOLD%++ 
@@ -9485,6 +9557,9 @@ ItemDisplay[UNI ID cqv3 STAT109>0 OS8>0 OS17>0]:%WHITE%%STAT109%%cd %CORAL%%OS8%
 ItemDisplay[UNI ID cqv3 STAT141>0 STAT362>0]:%CORAL%%STAT141%dl %BLUE%%STAT362%sk %NAME%{%NAME%}%CONTINUE% //Frozen Sorrow
 
 
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                  Option & Upgrading                                         //
+/////////////////////////////////////////////////////////////////////////////////////////////////
 
 ItemDisplay[(RARE OR CRAFT) rin FCR=10 !(STAT39>9 OR STAT41>9 OR STAT43>9 OR STAT45>9) !(STAT0>9 OR STAT1>9 OR STAT2>9 OR STAT3>9)]:%NAME%{%WHITE%+++%RED%++%ORANGE%++     %WHITE%[ %GREEN%10% %GOLD%Fcr Ring %WHITE%]     %ORANGE%++%RED%++%WHITE%+++}%CONTINUE%
 ItemDisplay[(RARE OR CRAFT) rin FCR=10 AND (STAT39>9 OR STAT41>9 OR STAT43>9 OR STAT45>9) !(STAT39>9 OR STAT41>9 OR STAT43>9 OR STAT45>9)]: %NAME%{%WHITE%+++%RED%++%ORANGE%++     %WHITE%[ %GREEN%10% %GOLD%Fcr+Res Ring %WHITE%]     %ORANGE%++%RED%++%WHITE%+++}%CONTINUE%
