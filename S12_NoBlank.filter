@@ -1126,12 +1126,13 @@ ItemDisplay[(UNI) ukp ID]:%GOLD%Hydraskull%NL%%GOLD%Ro%TAN%ck%WHITE%st%TAN%op%GO
 ItemDisplay[(UNI) skp ALLSK>0 GFIND>74 MFIND>24 ID]:%GOLD%Skull Cap%NL%%GOLD%Ta%TAN%rn%WHITE%he%TAN%lm%CONTINUE%
 ItemDisplay[(UNI) xkp ALLSK>0 GFIND>74 MFIND>24 ID]:%GOLD%Sallet%NL%%GOLD%Ta%TAN%rn%WHITE%he%TAN%lm%CONTINUE%
 ItemDisplay[(UNI) ukp ALLSK>0 GFIND>74 MFIND>24 ID]:%GOLD%Hydraskull%NL%%GOLD%Ta%TAN%rn%WHITE%he%TAN%lm%CONTINUE%
-ItemDisplay[(UNI) hlm STAT113>0 ID]:%GOLD%Helm%NL%%GOLD%Co%TAN%if%WHITE%o%TAN%f %GOLD%Gl%TAN%or%WHITE%y%CONTINUE%
-ItemDisplay[(UNI) xlm STAT113>0 ID]:%GOLD%Casque%NL%%GOLD%Co%TAN%if%WHITE%o%TAN%f %GOLD%Gl%TAN%or%WHITE%y%CONTINUE%
-ItemDisplay[(UNI) ulm STAT113>0 ID]:%GOLD%Armet%NL%%GOLD%Co%TAN%if%WHITE%o%TAN%f %GOLD%Gl%TAN%or%WHITE%y%CONTINUE%
+ItemDisplay[(UNI) hlm STAT113>0 ID]:%GOLD%Helm%NL%%GOLD%Co%TAN%if %WHITE%o%TAN%f %GOLD%Gl%TAN%or%WHITE%y%CONTINUE%
+ItemDisplay[(UNI) xlm STAT113>0 ID]:%GOLD%Casque%NL%%GOLD%Co%TAN%if %WHITE%o%TAN%f %GOLD%Gl%TAN%or%WHITE%y%CONTINUE%
+ItemDisplay[(UNI) ulm STAT113>0 ID]:%GOLD%Armet%NL%%GOLD%Co%TAN%if %WHITE%o%TAN%f %GOLD%Gl%TAN%or%WHITE%y%CONTINUE%
 ItemDisplay[(UNI) xlm IAS>19 FHR>19 MFIND>29 ID]:%GOLD%Casque%NL%%GOLD%St%TAN%ea%WHITE%ls%TAN%ku%GOLD%ll%CONTINUE%
 ItemDisplay[(UNI) ulm IAS>19 FHR>19 MFIND>29 ID]:%GOLD%Armet%NL%%GOLD%St%TAN%ea%WHITE%ls%TAN%ku%GOLD%ll%CONTINUE%
 ItemDisplay[(UNI) ulm ALLSK>1 FBR>19 ID]:%ORANGE%%CORAL%Armet%NL%%PURPLE%St%RED%ee%ORANGE%l %GOLD%Sh%WHITE%ad%GOLD%e%CONTINUE%
+
 ItemDisplay[(UNI) fhl MAXDMG>9 RES>14 ID]:%GOLD%Full Helm%NL%%GOLD%Du%TAN%sk%WHITE%de%TAN%ep%CONTINUE%
 ItemDisplay[(UNI) xhl MAXDMG>9 RES>14 ID]:%GOLD%Basinet%NL%%GOLD%Du%TAN%sk%WHITE%de%TAN%ep%CONTINUE%
 ItemDisplay[(UNI) uhl MAXDMG>9 RES>14 ID]:%GOLD%Giant Conch%NL%%GOLD%Du%TAN%sk%WHITE%de%TAN%ep%CONTINUE%
@@ -1150,6 +1151,7 @@ ItemDisplay[(UNI) uh9 CLSK2>0 ID]:%GOLD%Bone Visage%NL%%GOLD%Wo%TAN%rm%WHITE%sk%
 ItemDisplay[(UNI) xh9 STAT36>14 ID]:%ORANGE%%CORAL%Grim Helm%NL%%PURPLE%Va%RED%mp%ORANGE%ir%GOLD%e %WHITE%Ga%GOLD%ze%CONTINUE%
 ItemDisplay[(UNI) uh9 STAT36>14 ID]:%ORANGE%%CORAL%Bone Visage%NL%%PURPLE%Va%RED%mp%ORANGE%ir%GOLD%e %WHITE%Ga%GOLD%ze%CONTINUE%
 ItemDisplay[(UNI) uh9 STAT156>24 ID]:%RED%Bo%ORANGE%ne %YELLOW%Vi%GREEN%sa%PURPLE%ge%NL%%PURPLE%Gi%RED%an%ORANGE%t %GOLD%Sk%WHITE%ul%GOLD%l%CONTINUE%
+
 ItemDisplay[(UNI) ghm DTM>34 ID]:%GOLD%Great Helm%NL%%GOLD%Ho%TAN%wl%WHITE%tu%TAN%sk%CONTINUE%
 ItemDisplay[(UNI) xhm DTM>34 ID]:%GOLD%Winged Helm%NL%%GOLD%Ho%TAN%wl%WHITE%tu%TAN%sk%CONTINUE%
 ItemDisplay[(UNI) uhm DTM>34 ID]:%GOLD%Spired Helm%NL%%GOLD%Ho%TAN%wl%WHITE%tu%TAN%sk%CONTINUE%
@@ -1162,15 +1164,16 @@ ItemDisplay[(UNI) xrn STAT122>49 ID]:%GOLD%Grand Crown%NL%%GOLD%Un%TAN%de%WHITE%
 ItemDisplay[(UNI) urn STAT122>49 ID]:%GOLD%Corona%NL%%GOLD%Un%TAN%de%WHITE%ad%TAN% C%GOLD%ro%TAN%wn%CONTINUE%
 ItemDisplay[(UNI) xrn GFIND>79 MFIND>29 ID]:%GOLD%Grand Crown%NL%%GOLD%Cr%TAN%ow%WHITE%n %TAN%of%GOLD% T%TAN%hi%WHITE%ev%TAN%es%CONTINUE%
 ItemDisplay[(UNI) urn GFIND>79 MFIND>29 ID]:%GOLD%Corona%NL%%GOLD%Cr%TAN%ow%WHITE%n %TAN%of%GOLD% T%TAN%hi%WHITE%ev%TAN%es%CONTINUE%
-ItemDisplay[(UNI) urn STAT152>0 STAT36>9 RES>19 ID]:%RED%C%ORANGE%o%YELLOW%r%GREEN%o%BLUE%n%PURPLE%a%NL%%PURPLE%Cr%RED%ow%ORANGE%n %GOLD%of%WHITE%A%GOLD%ge%RED%s%CONTINUE%
+ItemDisplay[(UNI) urn STAT152>0 STAT36>9 RES>19 ID]:%RED%C%ORANGE%o%YELLOW%r%GREEN%o%BLUE%n%PURPLE%a%NL%%PURPLE%Cr%RED%ow%ORANGE%n %GOLD%of %WHITE%A%GOLD%ge%RED%s%CONTINUE%
+
 ItemDisplay[(UNI) qui STAT35>2 CRES>19 FRES>19 DEX>9 ID]:%GOLD%Quilted Armor%NL%%GOLD%Gr%TAN%ey%WHITE%fo%TAN%rm%CONTINUE%
 ItemDisplay[(UNI) xui STAT35>2 CRES>19 FRES>19 DEX>9 ID]:%GOLD%Ghost Armor%NL%%GOLD%Gr%TAN%ey%WHITE%fo%TAN%rm%CONTINUE%
 ItemDisplay[(UNI) uui STAT35>2 CRES>19 FRES>19 DEX>9 ID]:%GOLD%Dusk Shroud%NL%%GOLD%Gr%TAN%ey%WHITE%fo%TAN%rm%CONTINUE%
 ItemDisplay[(UNI) xui ALLSK>0 FCR>29 ID]:%GOLD%Ghost Armor%NL%%GOLD%Sp%TAN%ir%WHITE%it%TAN% S%GOLD%hr%TAN%ou%WHITE%d%CONTINUE%
 ItemDisplay[(UNI) uui ALLSK>0 FCR>29 ID]:%GOLD%Dusk Shroud%NL%%GOLD%Sp%TAN%ir%WHITE%it%TAN% S%GOLD%hr%TAN%ou%WHITE%d%CONTINUE%
 ItemDisplay[(UNI) uui STAT329>0 STAT330>0 STAT331>0 ID]:%RED%Du%ORANGE%sk %YELLOW%Sh%GREEN%ro%BLUE%ud%NL%%ORANGE%Or%GOLD%mu%TAN%s'%GOLD% R%ORANGE%ob%WHITE%es%CONTINUE%
-ItemDisplay[(UNI) xea ID]:%TAN%%CORAL%Serpentskin Armor%NL%%ORANGE%Sk%GOLD%in%TAN%o%GOLD%f %ORANGE%th%WHITE%e%ORANGE%Vi%GOLD%pe%TAN%rm%GOLD%ag%ORANGE%i%CONTINUE%
-ItemDisplay[(UNI) uea ID]:%TAN%%CORAL%Wyrmhide%NL%%ORANGE%Sk%GOLD%in%TAN%o%GOLD%f %ORANGE%th%WHITE%e%ORANGE%Vi%GOLD%pe%TAN%rm%GOLD%ag%ORANGE%i%CONTINUE%
+ItemDisplay[(UNI) xea ID]:%TAN%%CORAL%Serpentskin Armor%NL%%ORANGE%Sk%GOLD%in %TAN%o%GOLD%f %ORANGE%th%WHITE%e %ORANGE%Vi%GOLD%pe%TAN%rm%GOLD%ag%ORANGE%i%CONTINUE%
+ItemDisplay[(UNI) uea ID]:%TAN%%CORAL%Wyrmhide%NL%%ORANGE%Sk%GOLD%in%TAN %o%GOLD%f %ORANGE%th%WHITE%e %ORANGE%Vi%GOLD%pe%TAN%rm%GOLD%ag%ORANGE%i%CONTINUE%
 ItemDisplay[(UNI) lea FRW>19 FHR>39 (STAT48>0 OR STAT49>0) ID]:%GOLD%Leather Armor%NL%%GOLD%Bl%TAN%in%WHITE%kb%TAN%at%GOLD%'s%TAN% F%WHITE%or%TAN%m%CONTINUE%
 ItemDisplay[(UNI) xea FRW>19 FHR>39 (STAT48>0 OR STAT49>0) ID]:%GOLD%Serpentskin Armor%NL%%GOLD%Bl%TAN%in%WHITE%kb%TAN%at%GOLD%'s%TAN% F%WHITE%or%TAN%m%CONTINUE%
 ItemDisplay[(UNI) uea FRW>19 FHR>39 (STAT48>0 OR STAT49>0) ID]:%GOLD%Wyrmhide%NL%%GOLD%Bl%TAN%in%WHITE%kb%TAN%at%GOLD%'s%TAN% F%WHITE%or%TAN%m%CONTINUE%
@@ -1179,24 +1182,25 @@ ItemDisplay[(UNI) uea ALLSK>0 FCR>20 ID]:%GOLD%Wyrmhide%NL%%PURPLE%Sk%RED%in %OR
 ItemDisplay[(UNI) hla AR>49 ID]:%GOLD%Hard Leather Armor%NL%%GOLD%Th%TAN%e %WHITE%Ce%TAN%nt%GOLD%ur%TAN%io%WHITE%n%CONTINUE%
 ItemDisplay[(UNI) xla AR>49 ID]:%GOLD%Demonhide Armor%NL%%GOLD%Th%TAN%e %WHITE%Ce%TAN%nt%GOLD%ur%TAN%io%WHITE%n%CONTINUE%
 ItemDisplay[(UNI) ula AR>49 ID]:%GOLD%Scarab Husk%NL%%GOLD%Th%TAN%e %WHITE%Ce%TAN%nt%GOLD%ur%TAN%io%WHITE%n%CONTINUE%
-ItemDisplay[(UNI) xla (STAT48>0 OR STAT49>0) ID]:%GOLD%Demonhide Armor%NL%%GOLD%Sk%TAN%in%WHITE%o%TAN%f %GOLD%th%TAN%e %WHITE%Fl%TAN%ay%GOLD%ed%TAN% O%WHITE%n%TAN%e%CONTINUE%
-ItemDisplay[(UNI) ula (STAT48>0 OR STAT49>0) ID]:%GOLD%Scarab Husk%NL%%GOLD%Sk%TAN%in%WHITE%o%TAN%f %GOLD%th%TAN%e %WHITE%Fl%TAN%ay%GOLD%ed%TAN% O%WHITE%n%TAN%e%CONTINUE%
+ItemDisplay[(UNI) xla (STAT48>0 OR STAT49>0) ID]:%GOLD%Demonhide Armor%NL%%GOLD%Sk%TAN%in %WHITE%o%TAN%f %GOLD%th%TAN%e %WHITE%Fl%TAN%ay%GOLD%ed%TAN% O%WHITE%n%TAN%e%CONTINUE%
+ItemDisplay[(UNI) ula (STAT48>0 OR STAT49>0) ID]:%GOLD%Scarab Husk%NL%%GOLD%Sk%TAN%in %WHITE%o%TAN%f %GOLD%th%TAN%e %WHITE%Fl%TAN%ay%GOLD%ed%TAN% O%WHITE%n%TAN%e%CONTINUE%
 ItemDisplay[(UNI) stu IAS>19 FHR>19 ID]:%GOLD%Studded Leather%NL%%GOLD%Tw%TAN%it%WHITE%ch%TAN%th%GOLD%ro%TAN%e%CONTINUE%
 ItemDisplay[(UNI) xtu IAS>19 FHR>19 ID]:%GOLD%Trellised Armor%NL%%GOLD%Tw%TAN%it%WHITE%ch%TAN%th%GOLD%ro%TAN%e%CONTINUE%
 ItemDisplay[(UNI) utu IAS>19 FHR>19 ID]:%GOLD%Wire Fleece%NL%%GOLD%Tw%TAN%it%WHITE%ch%TAN%th%GOLD%ro%TAN%e%CONTINUE%
-ItemDisplay[(UNI) xtu STAT34>14 STAT35>9 LIFE>79 ID]:%GOLD%Trellised Armor%NL%%GOLD%Ir%TAN%on%WHITE%P%TAN%el%GOLD%t%CONTINUE%
-ItemDisplay[(UNI) utu STAT34>14 STAT35>9 LIFE>79 ID]:%GOLD%Wire Fleece%NL%%GOLD%Ir%TAN%on%WHITE%P%TAN%el%GOLD%t%CONTINUE%
-ItemDisplay[(UNI) utu FHR>29 STAT34>14 STAT35>14 STAT78>0 ID]:%RED%Wi%ORANGE%re %YELLOW%Fl%GREEN%ee%BLUE%ce%NL%%PURPLE%Th%RED%e%ORANGE%Gl%GOLD%ad%WHITE%ia%RED%to%PURPLE%r'%ORANGE%s %GOLD%Ba%WHITE%ne%CONTINUE%
+ItemDisplay[(UNI) xtu STAT34>14 STAT35>9 LIFE>79 ID]:%GOLD%Trellised Armor%NL%%GOLD%Ir%TAN%on %WHITE%P%TAN%el%GOLD%t%CONTINUE%
+ItemDisplay[(UNI) utu STAT34>14 STAT35>9 LIFE>79 ID]:%GOLD%Wire Fleece%NL%%GOLD%Ir%TAN%on %WHITE%P%TAN%el%GOLD%t%CONTINUE%
+ItemDisplay[(UNI) utu FHR>29 STAT34>14 STAT35>14 STAT78>0 ID]:%RED%Wi%ORANGE%re %YELLOW%Fl%GREEN%ee%BLUE%ce%NL%%PURPLE%Th%RED%e %ORANGE%Gl%GOLD%ad%WHITE%ia%RED%to%PURPLE%r'%ORANGE%s %GOLD%Ba%WHITE%ne%CONTINUE%
 ItemDisplay[(UNI) xng ID]:%GOLD%Linked Mail%NL%%GOLD%Sp%TAN%ir%WHITE%it%TAN% F%GOLD%or%TAN%ge%CONTINUE%
 ItemDisplay[(UNI) ung ID]:%GOLD%Diamond Mail%NL%%GOLD%Sp%TAN%ir%WHITE%it%TAN% F%GOLD%or%TAN%ge%CONTINUE%
 ItemDisplay[(UNI) rng AR>59 STAT46>0 STAT40>0 STAT44>0 STAT42>0 ID]:%TAN%%CORAL%Ring Mail%NL%%ORANGE%Da%GOLD%rk%TAN%gl%GOLD%ow%CONTINUE%
 ItemDisplay[(UNI) xng AR>59 STAT46>0 STAT40>0 STAT44>0 STAT42>0 ID]:%TAN%%CORAL%Linked Mail%NL%%ORANGE%Da%GOLD%rk%TAN%gl%GOLD%ow%CONTINUE%
 ItemDisplay[(UNI) ung AR>59 STAT46>0 STAT40>0 STAT44>0 STAT42>0 ID]:%TAN%%CORAL%Diamond Mail%NL%%ORANGE%Da%GOLD%rk%TAN%gl%GOLD%ow%CONTINUE%
-ItemDisplay[(UNI) xcl ID]:%GOLD%Tigulated Mail%NL%%GOLD%Cr%TAN%ow%WHITE%C%TAN%aw%CONTINUE%
-ItemDisplay[(UNI) ucl ID]:%GOLD%Loricated Mail%NL%%GOLD%Cr%TAN%ow%WHITE%C%TAN%aw%CONTINUE%
+ItemDisplay[(UNI) xcl ID]:%GOLD%Tigulated Mail%NL%%GOLD%Cr%TAN%ow %WHITE%C%TAN%aw%CONTINUE%
+ItemDisplay[(UNI) ucl ID]:%GOLD%Loricated Mail%NL%%GOLD%Cr%TAN%ow %WHITE%C%TAN%aw%CONTINUE%
 ItemDisplay[(UNI) scl FRW>24 CRES>14 ID]:%GOLD%Scale Mail%NL%%GOLD%Ha%TAN%wk%WHITE%ma%TAN%il%CONTINUE%
 ItemDisplay[(UNI) xcl FRW>24 CRES>14 ID]:%GOLD%Tigulated Mail%NL%%GOLD%Ha%TAN%wk%WHITE%ma%TAN%il%CONTINUE%
 ItemDisplay[(UNI) ucl FRW>24 CRES>14 ID]:%GOLD%Loricated Mail%NL%%GOLD%Ha%TAN%wk%WHITE%ma%TAN%il%CONTINUE%
+
 ItemDisplay[(UNI) xhn ID]:%RED%M%ORANGE%e%YELLOW%s%GREEN%h %BLUE%Ar%PURPLE%mor%NL%%ORANGE%Sh%GOLD%af%TAN%ts%GOLD%to%ORANGE%p%CONTINUE%
 ItemDisplay[(UNI) uhn ID]:%RED%Bo%ORANGE%ne%YELLOW%we%GREEN%av%BLUE%e%NL%%ORANGE%Sh%GOLD%af%TAN%ts%GOLD%to%ORANGE%p%CONTINUE%
 ItemDisplay[(UNI) chn STAT330>0 (STAT50>0 OR STAT51>0) ID]:%GOLD%Chain Mail%NL%%GOLD%Sp%TAN%ar%WHITE%ki%TAN%ng%GOLD% M%TAN%ai%WHITE%l%CONTINUE%
@@ -1242,9 +1246,9 @@ ItemDisplay[(UNI) uul GFIND>99 RES>34 ID]:%GOLD%Shadow Plate%NL%%GOLD%Go%TAN%ld%
 ItemDisplay[(UNI) xul STAT121>159 STAT118>0 ID]:%TAN%%CORAL%Chaos Armor%NL%%ORANGE%Bl%GOLD%ac%TAN%k %GOLD%Ha%ORANGE%de%WHITE%s%CONTINUE%
 ItemDisplay[(UNI) uul STAT121>159 STAT118>0 ID]:%TAN%%CORAL%Shadow Plate%NL%%ORANGE%Bl%GOLD%ac%TAN%k %GOLD%Ha%ORANGE%de%WHITE%s%CONTINUE%
 ItemDisplay[(UNI) uul ALLSK>0 FHR>39 CRES>39 ID]:%ORANGE%%CORAL%Shadow Plate%NL%%PURPLE%St%RED%ee%ORANGE%l %GOLD%Ca%WHITE%ra%GOLD%pa%RED%ce%CONTINUE%
-ItemDisplay[(UNI) aar ALLSK>0 FRW>24 STAT62>1 STAT86>1 ID]:%GOLD%Ancient Armor%NL%%GOLD%Si%TAN%lk%WHITE%s %TAN%of%GOLD% t%TAN%he%WHITE%V%TAN%ic%GOLD%to%TAN%r%CONTINUE%
-ItemDisplay[(UNI) xar ALLSK>0 FRW>24 STAT62>1 STAT86>1 ID]:%GOLD%Ornate Plate%NL%%GOLD%Si%TAN%lk%WHITE%s %TAN%of%GOLD% t%TAN%he%WHITE%V%TAN%ic%GOLD%to%TAN%r%CONTINUE%
-ItemDisplay[(UNI) uar ALLSK>0 FRW>24 STAT62>1 STAT86>1 ID]:%GOLD%Sacred Armor%NL%%GOLD%Si%TAN%lk%WHITE%s %TAN%of%GOLD% t%TAN%he%WHITE%V%TAN%ic%GOLD%to%TAN%r%CONTINUE%
+ItemDisplay[(UNI) aar ALLSK>0 FRW>24 STAT62>1 STAT86>1 ID]:%GOLD%Ancient Armor%NL%%GOLD%Si%TAN%lk%WHITE%s %TAN%of%GOLD% t%TAN%he %WHITE%V%TAN%ic%GOLD%to%TAN%r%CONTINUE%
+ItemDisplay[(UNI) xar ALLSK>0 FRW>24 STAT62>1 STAT86>1 ID]:%GOLD%Ornate Plate%NL%%GOLD%Si%TAN%lk%WHITE%s %TAN%of%GOLD% t%TAN%he %WHITE%V%TAN%ic%GOLD%to%TAN%r%CONTINUE%
+ItemDisplay[(UNI) uar ALLSK>0 FRW>24 STAT62>1 STAT86>1 ID]:%GOLD%Sacred Armor%NL%%GOLD%Si%TAN%lk%WHITE%s %TAN%of%GOLD% t%TAN%he %WHITE%V%TAN%ic%GOLD%to%TAN%r%CONTINUE%
 ItemDisplay[(UNI) xar (STAT48>0 OR STAT49>0) CRES>34 ID]:%TAN%%CORAL%Ornate Plate%NL%%ORANGE%Co%GOLD%rp%TAN%se%GOLD%mo%ORANGE%ur%WHITE%n%CONTINUE%
 ItemDisplay[(UNI) uar (STAT48>0 OR STAT49>0) CRES>34 ID]:%TAN%%CORAL%Sacred Armor%NL%%ORANGE%Co%GOLD%rp%TAN%se%GOLD%mo%ORANGE%ur%WHITE%n%CONTINUE%
 ItemDisplay[(UNI) uar STR>19 STAT32>0 ID]:%RED%Sa%ORANGE%cr%YELLOW%ed %GREEN%Ar%BLUE%mo%PURPLE%r%NL%%PURPLE%Te%RED%mp%ORANGE%la%GOLD%r'%WHITE%s %GOLD%Mi%RED%gh%PURPLE%t%CONTINUE%
@@ -1266,6 +1270,7 @@ ItemDisplay[(UNI) urg ID]:%GOLD%Hyperion%NL%%GOLD%St%TAN%or%WHITE%mg%TAN%ui%GOLD
 ItemDisplay[(UNI) xrg FRW>0 STAT153>0 ID]:%GOLD%Scutum%NL%%GOLD%St%TAN%or%WHITE%mc%TAN%ha%GOLD%se%TAN%r%CONTINUE%
 ItemDisplay[(UNI) urg FRW>0 STAT153>0 ID]:%GOLD%Hyperion%NL%%GOLD%St%TAN%or%WHITE%mc%TAN%ha%GOLD%se%TAN%r%CONTINUE%
 ItemDisplay[(UNI) upk ID]:%GOLD%Blade Barrier%NL%%GOLD%Sp%TAN%ik%WHITE%e %TAN%Th%GOLD%or%TAN%n%CONTINUE%
+
 ItemDisplay[(UNI) spk STAT78>24 STAT135>49 ID]:%GOLD%Spiked Shield%NL%%GOLD%Sw%TAN%or%WHITE%db%TAN%ac%GOLD%k %TAN%Ho%WHITE%ld%CONTINUE%
 ItemDisplay[(UNI) xpk STAT78>24 STAT135>49 ID]:%GOLD%Barbed Shield%NL%%GOLD%Sw%TAN%or%WHITE%db%TAN%ac%GOLD%k %TAN%Ho%WHITE%ld%CONTINUE%
 ItemDisplay[(UNI) upk STAT78>24 STAT135>49 ID]:%GOLD%Blade Barrier%NL%%GOLD%Sw%TAN%or%WHITE%db%TAN%ac%GOLD%k %TAN%Ho%WHITE%ld%CONTINUE%
@@ -1277,9 +1282,9 @@ ItemDisplay[(UNI) uit ALLSK>0 FBR>19 RES>4 STAT20>0 ID]:%GOLD%Monarch%NL%%GOLD%S
 ItemDisplay[(UNI) xit (STAT48>0 OR STAT49>0) (STAT50>0 OR STAT51>0) ID]:%GOLD%Dragon Shield%NL%%GOLD%Ti%TAN%am%WHITE%at%TAN%'s%GOLD% R%TAN%eb%WHITE%uk%TAN%e%CONTINUE%
 ItemDisplay[(UNI) uit (STAT48>0 OR STAT49>0) (STAT50>0 OR STAT51>0) ID]:%GOLD%Monarch%NL%%GOLD%Ti%TAN%am%WHITE%at%TAN%'s%GOLD% R%TAN%eb%WHITE%uk%TAN%e%CONTINUE%
 ItemDisplay[(UNI) uit STAT152>0 STAT36>19 ID]:%RED%M%ORANGE%o%YELLOW%n%GREEN%a%BLUE%r%PURPLE%c%WHITE%h%NL%%PURPLE%St%RED%or%ORANGE%ms%GOLD%hi%WHITE%el%GOLD%d%CONTINUE%
-ItemDisplay[(UNI) bsh ID]:%GOLD%Bone Shield%NL%%GOLD%Wa%TAN%ll%WHITE%o%TAN%f %GOLD%th%TAN%e %WHITE%Ey%TAN%el%GOLD%es%TAN%s%CONTINUE%
-ItemDisplay[(UNI) xsh FCR>19 STAT62>2 CRES>19 FRES>19 PRES>19 ID]:%GOLD%Grim Shield%NL%%GOLD%Wa%TAN%ll%WHITE%o%TAN%f %GOLD%th%TAN%e %WHITE%Ey%TAN%el%GOLD%es%TAN%s%CONTINUE%
-ItemDisplay[(UNI) ush FCR>19 STAT62>2 CRES>19 FRES>19 PRES>19 ID]:%GOLD%Troll Nest%NL%%GOLD%Wa%TAN%ll%WHITE%o%TAN%f %GOLD%th%TAN%e %WHITE%Ey%TAN%el%GOLD%es%TAN%s%CONTINUE%
+ItemDisplay[(UNI) bsh ID]:%GOLD%Bone Shield%NL%%GOLD%Wa%TAN%ll %WHITE%o%TAN%f %GOLD%th%TAN%e %WHITE%Ey%TAN%el%GOLD%es%TAN%s%CONTINUE%
+ItemDisplay[(UNI) xsh FCR>19 STAT62>2 CRES>19 FRES>19 PRES>19 ID]:%GOLD%Grim Shield%NL%%GOLD%Wa%TAN%ll %WHITE%o%TAN%f %GOLD%th%TAN%e %WHITE%Ey%TAN%el%GOLD%es%TAN%s%CONTINUE%
+ItemDisplay[(UNI) ush FCR>19 STAT62>2 CRES>19 FRES>19 PRES>19 ID]:%GOLD%Troll Nest%NL%%GOLD%Wa%TAN%ll %WHITE%o%TAN%f %GOLD%th%TAN%e %WHITE%Ey%TAN%el%GOLD%es%TAN%s%CONTINUE%
 ItemDisplay[(UNI) xsh ALLSK>0 FCR>19 STAT77>9 MAEK>3 ID]:%GOLD%Grim Shield%NL%%PURPLE%Li%RED%dl%ORANGE%es%GOLD%s %WHITE%Wa%RED%ll%CONTINUE%
 ItemDisplay[(UNI) ush ALLSK>0 FCR>19 STAT77>9 MAEK>3 ID]:%GOLD%Troll Nest%NL%%PURPLE%Li%RED%dl%ORANGE%es%GOLD%s %WHITE%Wa%RED%ll%CONTINUE%
 ItemDisplay[(UNI) ush STT504>19 STAT86>4 ID]:%ORANGE%%CORAL%Troll Nest%NL%%PURPLE%He%RED%ad%ORANGE% H%GOLD%un%WHITE%te%GOLD%r'%RED%s %PURPLE%Gl%RED%or%ORANGE%y%CONTINUE%
@@ -1295,6 +1300,7 @@ ItemDisplay[(UNI) uts ID]:%GOLD%Ward%NL%%GOLD%Th%TAN%e %WHITE%Wa%TAN%rd%CONTINUE
 ItemDisplay[(UNI) uts STAT149>0 ID]:%RED%W%YELLOW%a%GREEN%r%PURPLE%d%NL%%PURPLE%Sp%RED%ir%ORANGE%it%GOLD% W%WHITE%ar%GOLD%d%CONTINUE%
 ItemDisplay[(UNI) uts STAT365>0 ID]:%GOLD%Ward%NL%%GOLD%Ra%TAN%da%WHITE%me%TAN%nt%GOLD%'s%TAN% S%WHITE%ph%TAN%er%GOLD%e%CONTINUE%
 ItemDisplay[(UNI) gts STAT365>0 ID]:%CORAL%Ancient Shield%NL%%GOLD%Ra%TAN%da%WHITE%me%TAN%nt%GOLD%'s%TAN% S%WHITE%ph%TAN%er%GOLD%e%CONTINUE%
+
 ItemDisplay[(UNI) lgl ID]:%GOLD%Leather Gloves%NL%%GOLD%Th%TAN%e %WHITE%Ha%TAN%nd%GOLD% o%TAN%f %WHITE%Br%TAN%oc%CONTINUE%
 ItemDisplay[(UNI) xlg ID]:%GOLD%Demonhide Gloves%NL%%GOLD%Th%TAN%e %WHITE%Ha%TAN%nd%GOLD% o%TAN%f %WHITE%Br%TAN%oc%CONTINUE%
 ItemDisplay[(UNI) ulg ID]:%GOLD%Bramble Mitts%NL%%GOLD%Th%TAN%e %WHITE%Ha%TAN%nd%GOLD% o%TAN%f %WHITE%Br%TAN%oc%CONTINUE%
@@ -1303,9 +1309,10 @@ ItemDisplay[(UNI) ulg STAT332>0 ID]:%GOLD%Bramble Mitts%NL%%GOLD%Ve%TAN%no%WHITE
 ItemDisplay[(UNI) vgl ID]:%GOLD%Heavy Gloves%NL%%GOLD%Bl%TAN%oo%WHITE%df%TAN%is%GOLD%t%CONTINUE%
 ItemDisplay[(UNI) xvg ID]:%GOLD%Sharkskin Gloves%NL%%GOLD%Bl%TAN%oo%WHITE%df%TAN%is%GOLD%t%CONTINUE%
 ItemDisplay[(UNI) uvg ID]:%GOLD%Vampirebone Gloves%NL%%GOLD%Bl%TAN%oo%WHITE%df%TAN%is%GOLD%t%CONTINUE%
-ItemDisplay[(UNI) uvg STAT135>0 STAT86>0 ID]:%RED%Va%ORANGE%mp%YELLOW%ir%GREEN%eb%BLUE%one %PURPLE%Glo%WHITE%ves%NL%%PURPLE%Dr%RED%ac%ORANGE%ul%GOLD%'s%WHITE%G%GOLD%ra%RED%sp%CONTINUE%
+ItemDisplay[(UNI) uvg STAT135>0 STAT86>0 ID]:%RED%Va%ORANGE%mp%YELLOW%ir%GREEN%eb%BLUE%one %PURPLE%Glo%WHITE%ves%NL%%PURPLE%Dr%RED%ac%ORANGE%ul%GOLD%'s %WHITE%G%GOLD%ra%RED%sp%CONTINUE%
 ItemDisplay[(UNI) xvg TABSK18>0 ID]:%GOLD%Sharkskin Gloves%NL%%GOLD%Gr%TAN%av%WHITE%ep%TAN%al%GOLD%m%CONTINUE%
 ItemDisplay[(UNI) uvg TABSK18>0 ID]:%GOLD%Vampirebone Gloves%NL%%GOLD%Gr%TAN%av%WHITE%ep%TAN%al%GOLD%m%CONTINUE%
+
 ItemDisplay[(UNI) mgl ID]:%GOLD%Chain Gloves%NL%%GOLD%Ch%TAN%an%WHITE%ce%TAN% G%GOLD%ua%TAN%rd%WHITE%s%CONTINUE%
 ItemDisplay[(UNI) xmg ID]:%GOLD%Heavy Bracers%NL%%GOLD%Ch%TAN%an%WHITE%ce%TAN% G%GOLD%ua%TAN%rd%WHITE%s%CONTINUE%
 ItemDisplay[(UNI) umg ID]:%GOLD%Vambraces%NL%%GOLD%Ch%TAN%an%WHITE%ce%TAN% G%GOLD%ua%TAN%rd%WHITE%s%CONTINUE%
@@ -1316,8 +1323,8 @@ ItemDisplay[(UNI) tgl ID]:%GOLD%Light Gauntlets%NL%%GOLD%Ma%TAN%ge%WHITE%fi%TAN%
 ItemDisplay[(UNI) xtg ID]:%GOLD%Battle Gauntlets%NL%%GOLD%Ma%TAN%ge%WHITE%fi%TAN%st%CONTINUE%
 ItemDisplay[(UNI) utg ID]:%GOLD%Crusader Gauntlets%NL%%GOLD%Ma%TAN%ge%WHITE%fi%TAN%st%CONTINUE%
 ItemDisplay[(UNI) utg STAT77>24 ID]:%RED%Cr%ORANGE%us%YELLOW%ad%GREEN%er %BLUE%Ga%PURPLE%un%WHITE%tl%GOLD%ets%NL%%PURPLE%Oc%RED%cu%ORANGE%lt%GOLD%is%WHITE%t%CONTINUE%
-ItemDisplay[(UNI) utg STAT40>0 STAT118>0 ID]:%GOLD%Crusader Gauntlets%NL%%GOLD%La%TAN%va%WHITE%G%TAN%ou%GOLD%t%CONTINUE%
-ItemDisplay[(UNI) xtg STAT40>0 STAT118>0 ID]:%GOLD%Battle Gauntlets%NL%%GOLD%La%TAN%va%WHITE%G%TAN%ou%GOLD%t%CONTINUE%
+ItemDisplay[(UNI) utg STAT40>0 STAT118>0 ID]:%GOLD%Crusader Gauntlets%NL%%GOLD%La%TAN%va %WHITE%G%TAN%ou%GOLD%t%CONTINUE%
+ItemDisplay[(UNI) xtg STAT40>0 STAT118>0 ID]:%GOLD%Battle Gauntlets%NL%%GOLD%La%TAN%va %WHITE%G%TAN%ou%GOLD%t%CONTINUE%
 ItemDisplay[(UNI) uhg STAT136>9 STR>14 ID]:%RED%Og%ORANGE%re %YELLOW%Ga%GREEN%un%BLUE%tl%PURPLE%ets%NL%%PURPLE%St%RED%ee%ORANGE%lr%GOLD%en%WHITE%d%CONTINUE%
 ItemDisplay[(UNI) uhg STAT333>4 STAT78>0 ID]:%TAN%%CORAL%Ogre Gauntlets%NL%%ORANGE%He%GOLD%ll%TAN%mo%GOLD%ut%ORANGE%h%CONTINUE%
 ItemDisplay[(UNI) xhg STAT333>4 STAT78>0 ID]:%TAN%%CORAL%War Gauntlets%NL%%ORANGE%He%GOLD%ll%TAN%mo%GOLD%ut%ORANGE%h%CONTINUE%
@@ -1339,6 +1346,7 @@ ItemDisplay[(UNI) xvb FBR>19 DEX>14 ID]:%GOLD%Sharkskin Boots%NL%%GOLD%Wa%TAN%te
 ItemDisplay[(UNI) mbt ID]:%GOLD%Chain Boots%NL%%GOLD%Tr%TAN%ea%WHITE%ds%TAN% o%GOLD%f %TAN%Ct%WHITE%ho%TAN%n%CONTINUE%
 ItemDisplay[(UNI) xmb ID]:%GOLD%Mesh Boots%NL%%GOLD%Tr%TAN%ea%WHITE%ds%TAN% o%GOLD%f %TAN%Ct%WHITE%ho%TAN%n%CONTINUE%
 ItemDisplay[(UNI) umb ID]:%GOLD%Boneweave Boots%NL%%GOLD%Tr%TAN%ea%WHITE%ds%TAN% o%GOLD%f %TAN%Ct%WHITE%ho%TAN%n%CONTINUE%
+
 ItemDisplay[(UNI) umb SK69>0 ID]:%RED%Bo%ORANGE%ne%YELLOW%we%GREEN%av%BLUE%e %PURPLE%Boots%NL%%PURPLE%Ma%RED%rr%ORANGE%ow%GOLD%wa%WHITE%lk%CONTINUE%
 ItemDisplay[(UNI) umb MAEK>4 STAT32>199 ID]:%TAN%%CORAL%Boneweave Boots%NL%%ORANGE%Si%GOLD%lk%TAN%we%GOLD%av%ORANGE%e%CONTINUE%
 ItemDisplay[(UNI) xmb MAEK>4 STAT32>199 ID]:%TAN%%CORAL%Mesh Boots%NL%%ORANGE%Si%GOLD%lk%TAN%we%GOLD%av%ORANGE%e%CONTINUE%
@@ -1357,7 +1365,7 @@ ItemDisplay[(UNI) xhb STAT136>0 STAT135>0 STAT141>0 ID]:%RED%W%ORANGE%a%YELLOW%r
 ItemDisplay[(UNI) lbl ID]:%GOLD%Sash%NL%%GOLD%Le%TAN%ny%WHITE%mo%CONTINUE%
 ItemDisplay[(UNI) zlb ID]:%GOLD%Demonhide Sash%NL%%GOLD%Le%TAN%ny%WHITE%mo%CONTINUE%
 ItemDisplay[(UNI) ulc ID]:%GOLD%Spiderweb Sash%NL%%GOLD%Le%TAN%ny%WHITE%mo%CONTINUE%
-ItemDisplay[(UNI) ulc FCR>0 ALLSK>0 ID]:%RED%Sp%ORANGE%id%YELLOW%er%GREEN%we%BLUE%b S%PURPLE%ash%NL%%PURPLE%Ar%RED%ac%ORANGE%hn%GOLD%id%WHITE%M%GOLD%es%RED%h%CONTINUE%
+ItemDisplay[(UNI) ulc FCR>0 ALLSK>0 ID]:%RED%Sp%ORANGE%id%YELLOW%er%GREEN%we%BLUE%b S%PURPLE%ash%NL%%PURPLE%Ar%RED%ac%ORANGE%hn%GOLD%id %WHITE%M%GOLD%es%RED%h%CONTINUE%
 ItemDisplay[(UNI) ulc STAT36>0 STAT60>0 ID]:%RED%Sp%ORANGE%id%YELLOW%er%GREEN%we%BLUE%b S%PURPLE%ash%NL%%ORANGE%St%GOLD%ri%TAN%ng%GOLD% o%ORANGE%f %WHITE%Ea%ORANGE%rs%CONTINUE%
 ItemDisplay[(UNI) zlb STAT36>0 STAT60>0 ID]:%RED%De%ORANGE%mo%YELLOW%nh%GREEN%id%BLUE%e S%PURPLE%ash%NL%%ORANGE%St%GOLD%ri%TAN%ng%GOLD% o%ORANGE%f %WHITE%Ea%ORANGE%rs%CONTINUE%
 ItemDisplay[(UNI) vbl !STAT150>0 ID]:%GOLD%Light Belt%NL%%GOLD%Sn%TAN%ak%WHITE%ec%TAN%or%GOLD%d%CONTINUE%
@@ -1387,7 +1395,7 @@ ItemDisplay[(UNI) ci3 ID]:%RED%D%ORANGE%i%YELLOW%a%GREEN%d%BLUE%e%PURPLE%m%NL%%P
 ItemDisplay[(UNI) ci3 FHR>19 STAT333>9 ID]:%RED%D%ORANGE%i%YELLOW%a%GREEN%d%BLUE%e%PURPLE%m%NL%%PURPLE%Ki%RED%ra%ORANGE%'s%GOLD% G%WHITE%ua%GOLD%rd%RED%ia%PURPLE%n%CONTINUE%
 ItemDisplay[(UNI) dr6 ID]:%ORANGE%%CORAL%Alpha Helm%NL%%PURPLE%Fe%RED%nr%ORANGE%is%CONTINUE%
 ItemDisplay[(UNI) dr6 ID SK236>0]:%ORANGE%%CORAL%Alpha Helm%NL%%PURPLE%Fe%RED%nr%ORANGE%is%CONTINUE%
-ItemDisplay[(UNI) drb ID]:%ORANGE%%CORAL%Blood Spirit%NL%%PURPLE%Ce%RED%re%ORANGE%bu%GOLD%s'%WHITE%B%GOLD%it%RED%e%CONTINUE%
+ItemDisplay[(UNI) drb ID]:%ORANGE%%CORAL%Blood Spirit%NL%%PURPLE%Ce%RED%re%ORANGE%bu%GOLD%s' %WHITE%B%GOLD%it%RED%e%CONTINUE%
 ItemDisplay[(UNI) drd ID]:%ORANGE%%CORAL%Earth Spirit%NL%%PURPLE%Sp%RED%ir%ORANGE%it%GOLD% K%WHITE%ee%GOLD%pe%RED%r%CONTINUE%
 ItemDisplay[(UNI) dr2 ID]:%TAN%%CORAL%Hawk Helm%NL%%ORANGE%Qu%GOLD%et%TAN%za%GOLD%lc%ORANGE%oa%WHITE%tl%CONTINUE%
 ItemDisplay[(UNI) dr7 ID]:%TAN%%CORAL%Griffon Headress%NL%%ORANGE%Qu%GOLD%et%TAN%za%GOLD%lc%ORANGE%oa%WHITE%tl%CONTINUE%
@@ -1402,10 +1410,10 @@ ItemDisplay[(UNI) ba7 ID]:%GOLD%Lion Helm%NL%%GOLD%Wi%TAN%ld%WHITE%sp%TAN%ea%GOL
 ItemDisplay[(UNI) bac ID SK150>0]:%GOLD%Fury Visor%NL%%GOLD%Wi%TAN%ld%WHITE%sp%TAN%ea%GOLD%ke%TAN%r%CONTINUE%
 ItemDisplay[(UNI) bac ID]:%GOLD%Fury Visor%NL%%GOLD%Wo%TAN%lf%WHITE%ho%TAN%wl%CONTINUE%
 ItemDisplay[(UNI) bad ID]:%GOLD%Destroyer Helm%NL%%GOLD%De%TAN%mo%WHITE%nh%TAN%or%GOLD%n'%TAN%s %WHITE%Ed%TAN%ge%CONTINUE%
-ItemDisplay[(UNI) bae ID]:%TAN%%CORAL%Conqueror Crown%NL%%PURPLE%Ha%RED%la%ORANGE%be%GOLD%rd%WHITE%'s%GOLD%R%RED%ei%PURPLE%gn%CONTINUE%
-ItemDisplay[(UNI) baa ID]:%RED%Sl%ORANGE%ay%YELLOW%er %GREEN%Gu%BLUE%ar%PURPLE%d%NL%%PURPLE%Ar%RED%re%ORANGE%at%GOLD%'s%WHITE%F%GOLD%ac%RED%e%CONTINUE%
-ItemDisplay[(UNI) baf ID]:%ORANGE%%CORAL%Guardian Crown%NL%%PURPLE%Ra%RED%ek%ORANGE%or%GOLD%'s%WHITE%V%GOLD%ir%RED%tu%PURPLE%e%CONTINUE%
-ItemDisplay[(UNI) baf TABSK32>0 ID]:%RED%Gu%ORANGE%ar%YELLOW%di%GREEN%an %BLUE%Cr%PURPLE%own%NL%%PURPLE%Ar%RED%re%ORANGE%at%GOLD%'s%WHITE%F%GOLD%ac%RED%e%CONTINUE%
+ItemDisplay[(UNI) bae ID]:%TAN%%CORAL%Conqueror Crown%NL%%PURPLE%Ha%RED%la%ORANGE%be%GOLD%rd%WHITE%'s %GOLD%R%RED%ei%PURPLE%gn%CONTINUE%
+ItemDisplay[(UNI) baa ID]:%RED%Sl%ORANGE%ay%YELLOW%er %GREEN%Gu%BLUE%ar%PURPLE%d%NL%%PURPLE%Ar%RED%re%ORANGE%at%GOLD%'s %WHITE%F%GOLD%ac%RED%e%CONTINUE%
+ItemDisplay[(UNI) baf ID]:%ORANGE%%CORAL%Guardian Crown%NL%%PURPLE%Ra%RED%ek%ORANGE%or%GOLD%'s %WHITE%V%GOLD%ir%RED%tu%PURPLE%e%CONTINUE%
+ItemDisplay[(UNI) baf TABSK32>0 ID]:%RED%Gu%ORANGE%ar%YELLOW%di%GREEN%an %BLUE%Cr%PURPLE%own%NL%%PURPLE%Ar%RED%re%ORANGE%at%GOLD%'s %WHITE%F%GOLD%ac%RED%e%CONTINUE%
 ItemDisplay[(UNI) pac ID]:%GOLD%Sacred Rondache%NL%%GOLD%Al%TAN%ma%WHITE%N%TAN%eg%GOLD%ra%CONTINUE%
 ItemDisplay[(UNI) pa3 ID]:%GOLD%Heraldic Shield%NL%%GOLD%Sa%TAN%nk%WHITE%ek%TAN%ur%GOLD%'s%TAN% F%WHITE%al%TAN%l%CONTINUE%
 ItemDisplay[(UNI) pa8 ID]:%GOLD%Protector Shield%NL%%GOLD%Sa%TAN%nk%WHITE%ek%TAN%ur%GOLD%'s%TAN% F%WHITE%al%TAN%l%CONTINUE%
@@ -1420,6 +1428,7 @@ ItemDisplay[(UNI) nee ID]:%RED%Su%ORANGE%cc%YELLOW%ub%GREEN%us %BLUE%Sk%PURPLE%u
 ItemDisplay[(UNI) nef ID]:%RED%Blo%ORANGE%odl%YELLOW%ord%GREEN% Sku%BLUE%ll%NL%%ORANGE%Da%GOLD%rk%TAN%fo%GOLD%rc%ORANGE%e %WHITE%Sp%ORANGE%aw%GOLD%n%CONTINUE%
 ItemDisplay[(UNI) nea ID]:%RED%Hie%ORANGE%rop%YELLOW%han%GREEN%t Tr%BLUE%oph%PURPLE%y%NL%%PURPLE%Ho%RED%mu%ORANGE%nc%GOLD%ul%WHITE%us%CONTINUE%
 ItemDisplay[(UNI) nef FBR>29 ID]:%RED%Blo%ORANGE%odl%YELLOW%ord%GREEN% Sku%BLUE%ll%NL%%PURPLE%Ho%RED%mu%ORANGE%nc%GOLD%ul%WHITE%us%CONTINUE%
+
 ItemDisplay[(UNI) 9ha STAT136>19 STAT135>49 ID]:%GOLD%Hatchet%NL%%GOLD%Th%TAN%e %WHITE%Gn%TAN%as%GOLD%he%TAN%r%CONTINUE%
 ItemDisplay[(UNI) 7ha STAT136>19 STAT135>49 ID]:%GOLD%Tomahawk%NL%%GOLD%Th%TAN%e %WHITE%Gn%TAN%as%GOLD%he%TAN%r%CONTINUE%
 ItemDisplay[(UNI) 9ha STAT44>0 (STAT54>0 OR STAT55>0) ID]:%GOLD%Hatchet%NL%%GOLD%Co%TAN%ld%WHITE%ki%TAN%ll%CONTINUE%
@@ -1452,6 +1461,7 @@ ItemDisplay[(UNI) 9wa MAXDMG>19 PRES>29 ID]:%GOLD%Naga%NL%%GOLD%Gu%TAN%ar%WHITE%
 ItemDisplay[(UNI) lax ID]:%GOLD%Large Axe%NL%%GOLD%Ax%TAN%e %WHITE%of%TAN% F%GOLD%ec%TAN%hm%WHITE%ar%CONTINUE%
 ItemDisplay[(UNI) 9la ID]:%GOLD%Military Axe%NL%%GOLD%Ax%TAN%e %WHITE%of%TAN% F%GOLD%ec%TAN%hm%WHITE%ar%CONTINUE%
 ItemDisplay[(UNI) 7la ID]:%GOLD%Feral Axe%NL%%GOLD%Ax%TAN%e %WHITE%of%TAN% F%GOLD%ec%TAN%hm%WHITE%ar%CONTINUE%
+
 ItemDisplay[(UNI) 9la STAT36>9 STAT223>0 ID]:%GOLD%Military Axe%NL%%GOLD%Wa%TAN%rl%WHITE%or%TAN%d'%GOLD%s %TAN%Tr%WHITE%us%TAN%t%CONTINUE%
 ItemDisplay[(UNI) 7la STAT36>9 STAT223>0 ID]:%GOLD%Feral Axe%NL%%GOLD%Wa%TAN%rl%WHITE%or%TAN%d'%GOLD%s %TAN%Tr%WHITE%us%TAN%t%CONTINUE%
 ItemDisplay[(UNI) bax ID]:%GOLD%Broad Axe%NL%%GOLD%Go%TAN%re%WHITE%sh%TAN%ov%GOLD%el%CONTINUE%
@@ -1471,18 +1481,19 @@ ItemDisplay[(UNI) 9ga ID]:%GOLD%Gothic Axe%NL%%GOLD%Br%TAN%ai%WHITE%nh%TAN%ew%CO
 ItemDisplay[(UNI) 7ga ID]:%GOLD%Champion Axe%NL%%GOLD%Br%TAN%ai%WHITE%nh%TAN%ew%CONTINUE%
 ItemDisplay[(UNI) 7ga STAT244>0 ID]:%GOLD%Champion Axe%NL%%GOLD%Bo%TAN%ne%WHITE%sl%TAN%ay%GOLD%er%TAN% B%WHITE%la%TAN%de%CONTINUE%
 ItemDisplay[(UNI) 9ga STAT244>0 ID]:%GOLD%Gothic Axe%NL%%GOLD%Bo%TAN%ne%WHITE%sl%TAN%ay%GOLD%er%TAN% B%WHITE%la%TAN%de%CONTINUE%
-ItemDisplay[(UNI) 9ga FRW>19 IAS>19 STAT219>0 ID]:%GOLD%Champion Axe%NL%%GOLD%Me%TAN%ss%WHITE%er%TAN%sc%GOLD%hm%TAN%id%WHITE%t'%TAN%s%GOLD%Re%TAN%av%WHITE%e%TAN%r%CONTINUE%
+ItemDisplay[(UNI) 9ga FRW>19 IAS>19 STAT219>0 ID]:%GOLD%Champion Axe%NL%%GOLD%Me%TAN%ss%WHITE%er%TAN%sc%GOLD%hm%TAN%id%WHITE%t'%TAN%s %GOLD%Re%TAN%av%WHITE%e%TAN%r%CONTINUE%
 ItemDisplay[(UNI) gix ID]:%GOLD%Giant Axe%NL%%GOLD%Hu%TAN%mo%WHITE%ng%TAN%ou%GOLD%s%CONTINUE%
 ItemDisplay[(UNI) 9gi ID]:%GOLD%Ancient Axe%NL%%GOLD%Hu%TAN%mo%WHITE%ng%TAN%ou%GOLD%s%CONTINUE%
 ItemDisplay[(UNI) 7gi ID]:%GOLD%Glorious Axe%NL%%GOLD%Hu%TAN%mo%WHITE%ng%TAN%ou%GOLD%s%CONTINUE%
 ItemDisplay[(UNI) 7gi STAT150>0 ID]:%GOLD%Glorious Axe%NL%%GOLD%Th%TAN%e %WHITE%Mi%TAN%no%GOLD%ta%TAN%ur%CONTINUE%
 ItemDisplay[(UNI) 9gi STAT150>0 ID]:%GOLD%Ancient Axe%NL%%GOLD%Th%TAN%e %WHITE%Mi%TAN%no%GOLD%ta%TAN%ur%CONTINUE%
-ItemDisplay[(UNI) 7gi STAT116>32 STAT136>24 ID]:%GOLD%Glorious Axe%NL%%GOLD%Ex%TAN%ec%WHITE%ut%TAN%io%GOLD%ne%TAN%r'%WHITE%s%TAN%Ju%GOLD%st%TAN%ic%WHITE%e%CONTINUE%
+ItemDisplay[(UNI) 7gi STAT116>32 STAT136>24 ID]:%GOLD%Glorious Axe%NL%%GOLD%Ex%TAN%ec%WHITE%ut%TAN%io%GOLD%ne%TAN%r'%WHITE%s %TAN%Ju%GOLD%st%TAN%ic%WHITE%e%CONTINUE%
+
 ItemDisplay[(UNI) clb ID]:%GOLD%Club%NL%%GOLD%Fe%TAN%ll%WHITE%oa%TAN%k%CONTINUE%
 ItemDisplay[(UNI) 9cl ID]:%GOLD%Cudgel%NL%%GOLD%Fe%TAN%ll%WHITE%oa%TAN%k%CONTINUE%
 ItemDisplay[(UNI) 7cl ID]:%GOLD%Truncheon%NL%%GOLD%Fe%TAN%ll%WHITE%oa%TAN%k%CONTINUE%
-ItemDisplay[(UNI) 7cl CLSK5>0 ID]:%GOLD%Truncheon%NL%%GOLD%Da%TAN%rk%WHITE%C%TAN%la%GOLD%n %TAN%Cr%WHITE%us%TAN%he%GOLD%r%CONTINUE%
-ItemDisplay[(UNI) 9cl CLSK5>0 ID]:%GOLD%Cudgel%NL%%GOLD%Da%TAN%rk%WHITE%C%TAN%la%GOLD%n %TAN%Cr%WHITE%us%TAN%he%GOLD%r%CONTINUE%
+ItemDisplay[(UNI) 7cl CLSK5>0 ID]:%GOLD%Truncheon%NL%%GOLD%Da%TAN%rk %WHITE%C%TAN%la%GOLD%n %TAN%Cr%WHITE%us%TAN%he%GOLD%r%CONTINUE%
+ItemDisplay[(UNI) 9cl CLSK5>0 ID]:%GOLD%Cudgel%NL%%GOLD%Da%TAN%rk %WHITE%C%TAN%la%GOLD%n %TAN%Cr%WHITE%us%TAN%he%GOLD%r%CONTINUE%
 ItemDisplay[(UNI) 7cl STAT148>0 ID]:%GOLD%Truncheon%NL%%GOLD%No%TAN%rd%WHITE%'s%TAN% T%GOLD%en%TAN%de%WHITE%ri%TAN%ze%GOLD%r%CONTINUE%
 ItemDisplay[(UNI) spc ID]:%GOLD%Spiked Club%NL%%GOLD%St%TAN%ou%WHITE%tn%TAN%ai%GOLD%l%CONTINUE%
 ItemDisplay[(UNI) 9sp ID]:%GOLD%Barbed Club%NL%%GOLD%St%TAN%ou%WHITE%tn%TAN%ai%GOLD%l%CONTINUE%
@@ -1493,6 +1504,7 @@ ItemDisplay[(UNI) 7sp STAT121>122 (STAT48>0 OR STAT49>0) STAT60>6 FRES>14 ID]:%G
 ItemDisplay[(UNI) mac ID]:%GOLD%Mace%NL%%GOLD%Cr%TAN%us%WHITE%hf%TAN%la%GOLD%ng%TAN%e%CONTINUE%
 ItemDisplay[(UNI) 9ma ID]:%GOLD%Flanged Mace%NL%%GOLD%Cr%TAN%us%WHITE%hf%TAN%la%GOLD%ng%TAN%e%CONTINUE%
 ItemDisplay[(UNI) 7ma ID]:%GOLD%Reinforced Mace%NL%%GOLD%Cr%TAN%us%WHITE%hf%TAN%la%GOLD%ng%TAN%e%CONTINUE%
+
 ItemDisplay[(UNI) 9ma STAT362>1 ID]:%GOLD%Flanged Mace%NL%%GOLD%Su%TAN%re%WHITE%sh%TAN%ri%GOLD%ll%TAN% F%WHITE%ro%TAN%st%CONTINUE%
 ItemDisplay[(UNI) 7ma STAT362>1 ID]:%GOLD%Reinforced Mace%NL%%GOLD%Su%TAN%re%WHITE%sh%TAN%ri%GOLD%ll%TAN% F%WHITE%ro%TAN%st%CONTINUE%
 ItemDisplay[(UNI) mst ID]:%GOLD%Morning Star%NL%%GOLD%Bl%TAN%oo%WHITE%dr%TAN%is%GOLD%e%CONTINUE%
@@ -1501,9 +1513,10 @@ ItemDisplay[(UNI) 7mt ID]:%GOLD%Devil Star%NL%%GOLD%Bl%TAN%oo%WHITE%dr%TAN%is%GO
 ItemDisplay[(UNI) 7mt STAT366>0 ID]:%GOLD%Devil Star%NL%%GOLD%Mo%TAN%on%WHITE%fa%TAN%ll%CONTINUE%
 ItemDisplay[(UNI) 9mt STAT366>0 ID]:%GOLD%Jagged Star%NL%%GOLD%Mo%TAN%on%WHITE%fa%TAN%ll%CONTINUE%
 ItemDisplay[(UNI) 7mt ARPER>199 ID]:%GOLD%Devil Star%NL%%GOLD%Ba%TAN%ra%WHITE%na%TAN%r'%GOLD%s %TAN%St%WHITE%ar%CONTINUE%
-ItemDisplay[(UNI) fla ID]:%GOLD%Flail%NL%%GOLD%Th%TAN%e%WHITE%Ge%TAN%ne%GOLD%ra%TAN%l'%WHITE%s%TAN%Ta%GOLD%n %TAN%Do%WHITE%%TAN%L%GOLD%i%TAN% %WHITE%G%TAN%a%CONTINUE%
-ItemDisplay[(UNI) 9fl ID]:%GOLD%Knout%NL%%GOLD%Th%TAN%e%WHITE%Ge%TAN%ne%GOLD%ra%TAN%l'%WHITE%s%TAN%Ta%GOLD%n %TAN%Do%WHITE%%TAN%L%GOLD%i%TAN% %WHITE%G%TAN%a%CONTINUE%
-ItemDisplay[(UNI) 7fl ID]:%GOLD%Scourge%NL%%GOLD%Th%TAN%e%WHITE%Ge%TAN%ne%GOLD%ra%TAN%l'%WHITE%s%TAN%Ta%GOLD%n %TAN%Do%WHITE%%TAN%L%GOLD%i%TAN% %WHITE%G%TAN%a%CONTINUE%
+
+ItemDisplay[(UNI) fla ID]:%GOLD%Flail%NL%%GOLD%Th%TAN%e%WHITE%Ge%TAN%ne%GOLD%ra%TAN%l'%WHITE%s %TAN%Ta%GOLD%n %TAN%Do %WHITE%%TAN%L%GOLD%i%TAN% %WHITE%G%TAN%a%CONTINUE%
+ItemDisplay[(UNI) 9fl ID]:%GOLD%Knout%NL%%GOLD%Th%TAN%e%WHITE%Ge%TAN%ne%GOLD%ra%TAN%l'%WHITE%s %TAN%Ta%GOLD%n %TAN%Do %WHITE%%TAN%L%GOLD%i%TAN% %WHITE%G%TAN%a%CONTINUE%
+ItemDisplay[(UNI) 7fl ID]:%GOLD%Scourge%NL%%GOLD%Th%TAN%e%WHITE%Ge%TAN%ne%GOLD%ra%TAN%l'%WHITE%s %TAN%Ta%GOLD%n %TAN%Do %WHITE%%TAN%L%GOLD%i%TAN% %WHITE%G%TAN%a%CONTINUE%
 ItemDisplay[(UNI) 9fl IAS>19 (STAT50>0 OR STAT51>0) MANA>99 LRES>24 ID]:%GOLD%Knout%NL%%GOLD%Ba%TAN%ez%WHITE%il%TAN%'s%GOLD% V%TAN%or%WHITE%te%TAN%x%CONTINUE%
 ItemDisplay[(UNI) 7fl IAS>19 (STAT50>0 OR STAT51>0) MANA>99 LRES>24 ID]:%GOLD%Scourge%NL%%GOLD%Ba%TAN%ez%WHITE%il%TAN%'s%GOLD% V%TAN%or%WHITE%te%TAN%x%CONTINUE%
 ItemDisplay[(UNI) 7fl FCR>34 ID]:%GOLD%Scourge%NL%%GOLD%Ho%TAN%ri%WHITE%zo%TAN%n'%GOLD%s %TAN%To%WHITE%rn%TAN%ad%GOLD%o%CONTINUE%
@@ -1514,7 +1527,8 @@ ItemDisplay[(UNI) 7wh ID]:%GOLD%Legendary Mallet%NL%%GOLD%Ir%TAN%on%WHITE%st%TAN
 ItemDisplay[(UNI) 9wh FCR>19 TABSK42>2 ID]:%GOLD%Battle Hammer%NL%%GOLD%Ea%TAN%rt%WHITE%hs%TAN%ha%GOLD%ke%TAN%r%CONTINUE%
 ItemDisplay[(UNI) 7wh FCR>19 TABSK42>2 ID]:%GOLD%Legendary Mallet%NL%%GOLD%Ea%TAN%rt%WHITE%hs%TAN%ha%GOLD%ke%TAN%r%CONTINUE%
 ItemDisplay[(UNI) 7wh !(STAT50>0 OR STAT51>0) ID]:%TAN%%CORAL%Legendary Mallet%NL%%ORANGE%St%GOLD%on%TAN%e %GOLD%Cr%ORANGE%us%WHITE%he%ORANGE%r%CONTINUE%
-ItemDisplay[(UNI) 7wh (STAT50>0 OR STAT51>0) ID]:%TAN%%CORAL%Legendary Mallet%NL%%ORANGE%Sc%GOLD%ha%TAN%ef%GOLD%er%ORANGE%'s%WHITE%H%ORANGE%am%GOLD%me%TAN%r%CONTINUE%
+ItemDisplay[(UNI) 7wh (STAT50>0 OR STAT51>0) ID]:%TAN%%CORAL%Legendary Mallet%NL%%ORANGE%Sc%GOLD%ha%TAN%ef%GOLD%er%ORANGE%'s %WHITE%H%ORANGE%am%GOLD%me%TAN%r%CONTINUE%
+
 ItemDisplay[(UNI) mau ID]:%GOLD%Maul%NL%%GOLD%Bo%TAN%ne%WHITE%sn%TAN%ap%CONTINUE%
 ItemDisplay[(UNI) 9m9 ID]:%GOLD%War Club%NL%%GOLD%Bo%TAN%ne%WHITE%sn%TAN%ap%CONTINUE%
 ItemDisplay[(UNI) 7m7 ID]:%GOLD%Ogre Maul%NL%%GOLD%Bo%TAN%ne%WHITE%sn%TAN%ap%CONTINUE%
@@ -1528,6 +1542,7 @@ ItemDisplay[(UNI) 9gm STAT504>9 STAT78>259 ID]:%TAN%%CORAL%Martel de Fer%NL%%ORA
 ItemDisplay[(UNI) 7gm STAT504>9 STAT78>259 ID]:%TAN%%CORAL%Thunder Maul%NL%%ORANGE%Th%GOLD%e %TAN%Ga%GOLD%ve%ORANGE%l %WHITE%of%ORANGE% P%GOLD%ai%TAN%n%CONTINUE%
 ItemDisplay[(UNI) 7gm TABSK42>0 ID]:%RED%Th%ORANGE%un%YELLOW%de%GREEN%r M%BLUE%au%PURPLE%l%NL%%ORANGE%Ea%GOLD%rt%TAN%h %GOLD%Sh%ORANGE%if%WHITE%te%ORANGE%r%CONTINUE%
 ItemDisplay[(UNI) 7gm !TABSK42>0 ID]:%RED%Th%ORANGE%un%YELLOW%de%GREEN%r M%BLUE%au%PURPLE%l%NL%%ORANGE%Th%GOLD%e %TAN%Cr%GOLD%an%ORANGE%iu%WHITE%m %ORANGE%Ba%GOLD%sh%TAN%er%CONTINUE%
+
 ItemDisplay[(UNI) ssd ID]:%GOLD%Short Sword%NL%%GOLD%Ri%TAN%xo%WHITE%t'%TAN%s %GOLD%Ke%TAN%en%CONTINUE%
 ItemDisplay[(UNI) 9ss ID]:%GOLD%Gladius%NL%%GOLD%Ri%TAN%xo%WHITE%t'%TAN%s %GOLD%Ke%TAN%en%CONTINUE%
 ItemDisplay[(UNI) 7ss ID]:%GOLD%Falcata%NL%%GOLD%Ri%TAN%xo%WHITE%t'%TAN%s %GOLD%Ke%TAN%en%CONTINUE%
@@ -1548,18 +1563,21 @@ ItemDisplay[(UNI) 7sb STAT135>49 STAT86>6 STAT60>9 ID]:%GOLD%Elegant Blade%NL%%G
 ItemDisplay[(UNI) flc ID]:%GOLD%Falchion%NL%%GOLD%Gl%TAN%ea%WHITE%ms%TAN%cy%GOLD%th%TAN%e%CONTINUE%
 ItemDisplay[(UNI) 9fc ID]:%GOLD%Tulwar%NL%%GOLD%Gl%TAN%ea%WHITE%ms%TAN%cy%GOLD%th%TAN%e%CONTINUE%
 ItemDisplay[(UNI) 7fc ID]:%GOLD%Hydra Edge%NL%%GOLD%Gl%TAN%ea%WHITE%ms%TAN%cy%GOLD%th%TAN%e%CONTINUE%
+
 ItemDisplay[(UNI) 9fc STAT239>0 ID]:%GOLD%Tulwar%NL%%GOLD%Bl%TAN%ad%WHITE%e %TAN%of%GOLD% A%TAN%li%WHITE%B%TAN%ab%GOLD%a%CONTINUE%
 ItemDisplay[(UNI) 7fc STAT239>0 ID]:%GOLD%Hydra Edge%NL%%GOLD%Bl%TAN%ad%WHITE%e %TAN%of%GOLD% A%TAN%li%WHITE%B%TAN%ab%GOLD%a%CONTINUE%
 ItemDisplay[(UNI) 7cr (STAT50>0 OR STAT51>0) ID]:%RED%Ph%ORANGE%as%YELLOW%e B%GREEN%la%BLUE%de%NL%%ORANGE%Li%GOLD%gh%TAN%ts%GOLD%ab%ORANGE%re%CONTINUE%
 ItemDisplay[(UNI) 7cr ALLSK>0 (STAT54>0 OR STAT55>0 OR STAT56>0) ID]:%RED%Ph%ORANGE%as%YELLOW%e B%GREEN%la%BLUE%de%NL%%ORANGE%Az%GOLD%ur%TAN%ew%GOLD%ra%ORANGE%th%CONTINUE%
 ItemDisplay[(UNI) 9cr STAT35>0 ID]:%GOLD%Dimensional Blade%NL%%GOLD%Gi%TAN%nt%WHITE%he%TAN%r'%GOLD%s %TAN%Ri%WHITE%ft%CONTINUE%
 ItemDisplay[(UNI) 7cr STAT35>0 ID]:%GOLD%Phase Blade%NL%%GOLD%Gi%TAN%nt%WHITE%he%TAN%r'%GOLD%s %TAN%Ri%WHITE%ft%CONTINUE%
+
 ItemDisplay[(UNI) bsd ID]:%GOLD%Broad Sword%NL%%GOLD%Gr%TAN%is%WHITE%wo%TAN%ld%GOLD%'s%TAN% E%WHITE%dg%TAN%e%CONTINUE%
 ItemDisplay[(UNI) 9bs ID]:%GOLD%Battle Sword%NL%%GOLD%Gr%TAN%is%WHITE%wo%TAN%ld%GOLD%'s%TAN% E%WHITE%dg%TAN%e%CONTINUE%
 ItemDisplay[(UNI) 7bs ID]:%GOLD%Conquest Sword%NL%%GOLD%Gr%TAN%is%WHITE%wo%TAN%ld%GOLD%'s%TAN% E%WHITE%dg%TAN%e%CONTINUE%
 ItemDisplay[(UNI) 9bs STAT218>0 ID]:%GOLD%Battle Sword%NL%%GOLD%He%TAN%ad%WHITE%st%TAN%ri%GOLD%ke%TAN%r%CONTINUE%
 ItemDisplay[(UNI) 7bs STAT218>0 ID]:%GOLD%Conquest Sword%NL%%GOLD%He%TAN%ad%WHITE%st%TAN%ri%GOLD%ke%TAN%r%CONTINUE%
 ItemDisplay[(UNI) 7bs STAT152>0 MAXDMG>49 IAS>29 STAT48>0 STAT49>0 STAT2>19 ID]:%RED%Co%ORANGE%nq%YELLOW%ue%GREEN%st %BLUE%Sw%PURPLE%ord%NL%%PURPLE%Ha%RED%dr%ORANGE%ie%GOLD%l'%WHITE%s %GOLD%Ha%RED%nd%CONTINUE%
+
 ItemDisplay[(UNI) lsd ID]:%GOLD%Long Sword%NL%%GOLD%He%TAN%ll%WHITE%pl%TAN%ag%GOLD%ue%CONTINUE%
 ItemDisplay[(UNI) 9ls ID]:%GOLD%Rune Sword%NL%%GOLD%He%TAN%ll%WHITE%pl%TAN%ag%GOLD%ue%CONTINUE%
 ItemDisplay[(UNI) 7ls ID]:%GOLD%Cryptic Sword%NL%%GOLD%He%TAN%ll%WHITE%pl%TAN%ag%GOLD%ue%CONTINUE%
@@ -1579,8 +1597,9 @@ ItemDisplay[(UNI) 72h FRW>19 ID]:%GOLD%Legend Sword%NL%%GOLD%Cr%TAN%ai%WHITE%nt%
 ItemDisplay[(UNI) clm ID]:%GOLD%Claymore%NL%%GOLD%So%TAN%ul%WHITE%fl%TAN%ay%CONTINUE%
 ItemDisplay[(UNI) 9cm ID]:%GOLD%Dacian Falx%NL%%GOLD%So%TAN%ul%WHITE%fl%TAN%ay%CONTINUE%
 ItemDisplay[(UNI) 7cm ID]:%GOLD%Highland Blade%NL%%GOLD%So%TAN%ul%WHITE%fl%TAN%ay%CONTINUE%
-ItemDisplay[(UNI) 9cm STAT335>9 STAT134>0 ID]:%GOLD%Dacian Falx%NL%%GOLD%Bi%TAN%ng%WHITE%S%TAN%z %GOLD%Wa%TAN%ng%CONTINUE%
-ItemDisplay[(UNI) 7cm STAT335>9 STAT134>0 ID]:%GOLD%Highland Blade%NL%%GOLD%Bi%TAN%ng%WHITE%S%TAN%z %GOLD%Wa%TAN%ng%CONTINUE%
+
+ItemDisplay[(UNI) 9cm STAT335>9 STAT134>0 ID]:%GOLD%Dacian Falx%NL%%GOLD%Bi%TAN%ng %WHITE%S%TAN%z %GOLD%Wa%TAN%ng%CONTINUE%
+ItemDisplay[(UNI) 7cm STAT335>9 STAT134>0 ID]:%GOLD%Highland Blade%NL%%GOLD%Bi%TAN%ng %WHITE%S%TAN%z %GOLD%Wa%TAN%ng%CONTINUE%
 ItemDisplay[(UNI) gis ID]:%GOLD%Giant Sword%NL%%GOLD%Ki%TAN%ne%WHITE%mi%TAN%l'%GOLD%s %TAN%Aw%WHITE%l%CONTINUE%
 ItemDisplay[(UNI) 9gs ID]:%GOLD%Tusk Sword%NL%%GOLD%Ki%TAN%ne%WHITE%mi%TAN%l'%GOLD%s %TAN%Aw%WHITE%l%CONTINUE%
 ItemDisplay[(UNI) 7gs ID]:%GOLD%Balrog Blade%NL%%GOLD%Ki%TAN%ne%WHITE%mi%TAN%l'%GOLD%s %TAN%Aw%WHITE%l%CONTINUE%
@@ -1592,6 +1611,7 @@ ItemDisplay[(UNI) 9b9 ID]:%GOLD%Gothic Sword%NL%%GOLD%Bl%TAN%ac%WHITE%kt%TAN%on%
 ItemDisplay[(UNI) 7b7 ID]:%GOLD%Champion Sword%NL%%GOLD%Bl%TAN%ac%WHITE%kt%TAN%on%GOLD%gu%TAN%e%CONTINUE%
 ItemDisplay[(UNI) 9b9 TABSK25>0 ID]:%GOLD%Gothic Sword%NL%%GOLD%Cl%TAN%ou%WHITE%dc%TAN%ra%GOLD%ck%CONTINUE%
 ItemDisplay[(UNI) 7b7 TABSK25>0 ID]:%GOLD%Champion Sword%NL%%GOLD%Cl%TAN%ou%WHITE%dc%TAN%ra%GOLD%ck%CONTINUE%
+//
 ItemDisplay[(UNI) 7b7 STAT76>9 ARPER>39 ID]:%GOLD%Champion Sword%NL%%GOLD%Do%TAN%om%WHITE%br%TAN%in%GOLD%ge%TAN%r%CONTINUE%
 ItemDisplay[(UNI) flb ID]:%GOLD%Flamberge%NL%%GOLD%Ri%TAN%ps%WHITE%aw%CONTINUE%
 ItemDisplay[(UNI) 9fb ID]:%GOLD%Zweihander%NL%%GOLD%Ri%TAN%ps%WHITE%aw%CONTINUE%
@@ -1604,7 +1624,8 @@ ItemDisplay[(UNI) 9gd ID]:%GOLD%Executioner Sword%NL%%GOLD%Th%TAN%e %WHITE%Pa%TA
 ItemDisplay[(UNI) 7gd ID]:%GOLD%Colossus Blade%NL%%GOLD%Th%TAN%e %WHITE%Pa%TAN%tr%GOLD%ia%TAN%rc%WHITE%h%CONTINUE%
 ItemDisplay[(UNI) 9gd FBR>39 FHR>39 ID]:%GOLD%Executioner Sword%NL%%GOLD%Sw%TAN%or%WHITE%dg%TAN%ua%GOLD%rd%CONTINUE%
 ItemDisplay[(UNI) 7gd FBR>39 FHR>39 ID]:%GOLD%Colossus Blade%NL%%GOLD%Sw%TAN%or%WHITE%dg%TAN%ua%GOLD%rd%CONTINUE%
-ItemDisplay[(UNI) 7gd SK154>0 ALLSK>1 ID]:%RED%Co%ORANGE%lo%YELLOW%ss%GREEN%us %BLUE%Bl%PURPLE%ade%NL%%PURPLE%Th%RED%e %ORANGE%Gr%GOLD%an%WHITE%d f%GOLD%at%RED%he%PURPLE%r%CONTINUE%
+ItemDisplay[(UNI) 7gd SK154>0 ALLSK>1 ID]:%RED%Co%ORANGE%lo%YELLOW%ss%GREEN%us %BLUE%Bl%PURPLE%ade%NL%%PURPLE%Th%RED%e %ORANGE%Gr%GOLD%an%WHITE%df%GOLD%at%RED%he%PURPLE%r%CONTINUE%
+
 ItemDisplay[(UNI) dgr ID]:%ORANGE%%CORAL%Dagger%NL%%GOLD%Gu%TAN%ll%CONTINUE%
 ItemDisplay[(UNI) 9dg ID]:%ORANGE%%CORAL%Poignard%NL%%GOLD%Gu%TAN%ll%CONTINUE%
 ItemDisplay[(UNI) 7dg ID]:%ORANGE%%CORAL%Bone Knife%NL%%GOLD%Gu%TAN%ll%CONTINUE%
@@ -1616,9 +1637,11 @@ ItemDisplay[(UNI) 9di ID]:%GOLD%Rondel%NL%%GOLD%Th%TAN%e %WHITE%Di%TAN%gg%GOLD%l
 ItemDisplay[(UNI) 7di ID]:%GOLD%Mithril Point%NL%%GOLD%Th%TAN%e %WHITE%Di%TAN%gg%GOLD%le%TAN%r%CONTINUE%
 ItemDisplay[(UNI) 9di SK150>0 STAT115>0 STAT141>54 ID]:%GOLD%Rondel%NL%%GOLD%He%TAN%ar%WHITE%t %TAN%Ca%GOLD%rv%TAN%er%CONTINUE%
 ItemDisplay[(UNI) 7di SK150>0 STAT115>0 STAT141>54 ID]:%GOLD%Mithril Point%NL%%GOLD%He%TAN%ar%WHITE%t %TAN%Ca%GOLD%rv%TAN%er%CONTINUE%
+
 ItemDisplay[(UNI) kri ID]:%GOLD%Cinquedeas%NL%%GOLD%Th%TAN%e %WHITE%Ja%TAN%de%GOLD% T%TAN%an%WHITE%D%TAN%o%CONTINUE%
 ItemDisplay[(UNI) 9kr ID]:%GOLD%Kris%NL%%GOLD%Th%TAN%e %WHITE%Ja%TAN%de%GOLD% T%TAN%an%WHITE%D%TAN%o%CONTINUE%
 ItemDisplay[(UNI) 7kr ID]:%GOLD%Fanged Knife%NL%%GOLD%Th%TAN%e %WHITE%Ja%TAN%de%GOLD% T%TAN%an%WHITE%D%TAN%o%CONTINUE%
+
 ItemDisplay[(UNI) 9kr STAT365>1 ID]:%GOLD%Cinquedeas%NL%%GOLD%Bl%TAN%ac%WHITE%kb%TAN%og%GOLD%'s%TAN% S%WHITE%ha%TAN%rp%CONTINUE%
 ItemDisplay[(UNI) 7kr STAT365>1 ID]:%GOLD%Fanged Knife%NL%%GOLD%Bl%TAN%ac%WHITE%kb%TAN%og%GOLD%'s%TAN% S%WHITE%ha%TAN%rp%CONTINUE%
 ItemDisplay[(UNI) 7kr STAT150>0 STAT116>0 STAT117>0 ID]:%GOLD%Fanged Knife%NL%%GOLD%Fl%TAN%es%WHITE%hr%TAN%ip%GOLD%pe%TAN%r%CONTINUE%
@@ -1628,6 +1651,7 @@ ItemDisplay[(UNI) 7bl ID]:%GOLD%Legend Spike%NL%%GOLD%Sp%TAN%ec%WHITE%tr%TAN%al%
 ItemDisplay[(UNI) 9bl STAT330>0 STAT334>9 STAT141>19 ID]:%TAN%%CORAL%Stiletto%NL%%ORANGE%St%GOLD%or%TAN%ms%GOLD%pi%ORANGE%ke%CONTINUE%
 ItemDisplay[(UNI) 7bl STAT330>0 STAT334>9 STAT141>19 ID]:%TAN%%CORAL%Legend Spike%NL%%ORANGE%St%GOLD%or%TAN%ms%GOLD%pi%ORANGE%ke%CONTINUE%
 ItemDisplay[(UNI) 7bl STAT329>14 STAT152>0 ID]:%GOLD%Legend Spike%NL%%GOLD%Gh%TAN%os%WHITE%tf%TAN%la%GOLD%me%CONTINUE%
+
 ItemDisplay[(UNI) 9tk ID]:%GOLD%Battle Dart%NL%%GOLD%De%TAN%at%WHITE%hb%TAN%it%CONTINUE%
 ItemDisplay[(UNI) 7tk ID]:%GOLD%Flying Knife%NL%%GOLD%De%TAN%at%WHITE%hb%TAN%it%CONTINUE%
 ItemDisplay[(UNI) 7ta ID]:%GOLD%Flying Axe%NL%%GOLD%Gi%TAN%mm%WHITE%er%TAN%sh%GOLD%re%TAN%d%CONTINUE%
@@ -1639,7 +1663,8 @@ ItemDisplay[(UNI) 7b8 ID TABSK32>2]:%ORANGE%%CORAL%Winged Axe%NL%%GOLD%Ac%TAN%hi
 ItemDisplay[(UNI) 7b8 ID]:%ORANGE%%CORAL%Winged Axe%NL%%PURPLE%La%RED%ce%ORANGE%ra%GOLD%to%WHITE%r%CONTINUE%
 ItemDisplay[(UNI) 7s7 ID]:%TAN%%CORAL%Balrog Spear%NL%%ORANGE%De%GOLD%mo%TAN%n'%GOLD%s %ORANGE%Ar%WHITE%ch%CONTINUE%
 ItemDisplay[(UNI) 7gl ID]:%TAN%%CORAL%Ghost Glaive%NL%%ORANGE%Wr%GOLD%ai%TAN%th%GOLD% F%ORANGE%li%WHITE%gh%ORANGE%t%CONTINUE%
-ItemDisplay[(UNI) 7ts ID]:%TAN%%CORAL%Winged Harpoon%NL%%ORANGE%Ga%GOLD%rg%TAN%oy%GOLD%le%ORANGE%'s%WHITE%B%ORANGE%it%GOLD%e%CONTINUE%
+ItemDisplay[(UNI) 7ts ID]:%TAN%%CORAL%Winged Harpoon%NL%%ORANGE%Ga%GOLD%rg%TAN%oy%GOLD%le%ORANGE%'s %WHITE%B%ORANGE%it%GOLD%e%CONTINUE%
+
 ItemDisplay[(UNI) spr ID]:%GOLD%Spear%NL%%GOLD%Th%TAN%e %WHITE%Dr%TAN%ag%GOLD%on%TAN% C%WHITE%ha%TAN%ng%CONTINUE%
 ItemDisplay[(UNI) 9sr ID]:%GOLD%War Spear%NL%%GOLD%Th%TAN%e %WHITE%Dr%TAN%ag%GOLD%on%TAN% C%WHITE%ha%TAN%ng%CONTINUE%
 ItemDisplay[(UNI) 7sr ID]:%GOLD%Hyperion Spear%NL%%GOLD%Th%TAN%e %WHITE%Dr%TAN%ag%GOLD%on%TAN% C%WHITE%ha%TAN%ng%CONTINUE%
@@ -1657,17 +1682,19 @@ ItemDisplay[(UNI) 7br ID]:%GOLD%Mancatcher%NL%%GOLD%Bl%TAN%oo%WHITE%dt%TAN%hi%GO
 ItemDisplay[(UNI) 9br STAT154>0 ID]:%GOLD%War Fork%NL%%GOLD%So%TAN%ul%WHITE%fe%TAN%as%GOLD%t %TAN%Ti%WHITE%ne%CONTINUE%
 ItemDisplay[(UNI) 7br STAT154>0 ID]:%GOLD%Mancatcher%NL%%GOLD%So%TAN%ul%WHITE%fe%TAN%as%GOLD%t %TAN%Ti%WHITE%ne%CONTINUE%
 ItemDisplay[(UNI) 7br STAT365>2 ID]:%GOLD%Mancatcher%NL%%GOLD%Vi%TAN%pe%WHITE%rf%TAN%or%GOLD%k%CONTINUE%
+
 ItemDisplay[(UNI) spt ID]:%GOLD%Spetum%NL%%GOLD%La%TAN%nc%WHITE%e %TAN%of%GOLD% Y%TAN%ag%WHITE%ga%TAN%i%CONTINUE%
 ItemDisplay[(UNI) 9st ID]:%GOLD%Yari%NL%%GOLD%La%TAN%nc%WHITE%e %TAN%of%GOLD% Y%TAN%ag%WHITE%ga%TAN%i%CONTINUE%
 ItemDisplay[(UNI) 7st ID]:%GOLD%Ghost Spear%NL%%GOLD%La%TAN%nc%WHITE%e %TAN%of%GOLD% Y%TAN%ag%WHITE%ga%TAN%i%CONTINUE%
-ItemDisplay[(UNI) 9st STAT136>44 SOCK=3 ID]:%GOLD%Yari%NL%%GOLD%Ho%TAN%ne%WHITE%S%TAN%un%GOLD%da%TAN%n%CONTINUE%
-ItemDisplay[(UNI) 7st STAT136>44 SOCK=3 ID]:%GOLD%Ghost Spear%NL%%GOLD%Ho%TAN%ne%WHITE%S%TAN%un%GOLD%da%TAN%n%CONTINUE%
+ItemDisplay[(UNI) 9st STAT136>44 SOCK=3 ID]:%GOLD%Yari%NL%%GOLD%Ho%TAN%ne %WHITE%S%TAN%un%GOLD%da%TAN%n%CONTINUE%
+ItemDisplay[(UNI) 7st STAT136>44 SOCK=3 ID]:%GOLD%Ghost Spear%NL%%GOLD%Ho%TAN%ne %WHITE%S%TAN%un%GOLD%da%TAN%n%CONTINUE%
 ItemDisplay[(UNI) pik ID]:%GOLD%Pike%NL%%GOLD%Th%TAN%e %WHITE%Ta%TAN%nn%GOLD%r %TAN%Go%WHITE%re%TAN%ro%GOLD%d%CONTINUE%
 ItemDisplay[(UNI) 9p9 ID]:%GOLD%Lance%NL%%GOLD%Th%TAN%e %WHITE%Ta%TAN%nn%GOLD%r %TAN%Go%WHITE%re%TAN%ro%GOLD%d%CONTINUE%
 ItemDisplay[(UNI) 7p7 ID]:%GOLD%War Pike%NL%%GOLD%Th%TAN%e %WHITE%Ta%TAN%nn%GOLD%r %TAN%Go%WHITE%re%TAN%ro%GOLD%d%CONTINUE%
 ItemDisplay[(UNI) 9p9 TABSK24>2 ID]:%GOLD%Lance%NL%%GOLD%Sp%TAN%ir%WHITE%e %TAN%of%GOLD% H%TAN%on%WHITE%or%CONTINUE%
 ItemDisplay[(UNI) 7p7 TABSK24>2 ID]:%GOLD%War Pike%NL%%GOLD%Sp%TAN%ir%WHITE%e %TAN%of%GOLD% H%TAN%on%WHITE%or%CONTINUE%
 ItemDisplay[(UNI) 7p7 STAT425>0 ID]:%RED%Wa%ORANGE%r %YELLOW%P%GREEN%i%BLUE%k%PURPLE%e%NL%%PURPLE%St%RED%ee%ORANGE%l %GOLD%Pi%WHITE%ll%GOLD%ar%CONTINUE%
+
 ItemDisplay[(UNI) bar ID]:%GOLD%Bardiche%NL%%GOLD%Di%TAN%mo%WHITE%ak%TAN%'s%GOLD% H%TAN%ew%CONTINUE%
 ItemDisplay[(UNI) 9b7 ID]:%GOLD%Lochaber Axe%NL%%GOLD%Di%TAN%mo%WHITE%ak%TAN%'s%GOLD% H%TAN%ew%CONTINUE%
 ItemDisplay[(UNI) 7o7 ID]:%GOLD%Ogre Axe%NL%%GOLD%Di%TAN%mo%WHITE%ak%TAN%'s%GOLD% H%TAN%ew%CONTINUE%
@@ -1677,17 +1704,19 @@ ItemDisplay[(UNI) 7o7 STAT117>0 SOCK>1 ED>269 IAS>29 ID]:%ORANGE%%CORAL%Ogre Axe
 ItemDisplay[(UNI) vou ID]:%GOLD%Voulge%NL%%GOLD%St%TAN%ee%WHITE%lg%TAN%oa%GOLD%d%CONTINUE%
 ItemDisplay[(UNI) 9vo ID]:%GOLD%Bill%NL%%GOLD%St%TAN%ee%WHITE%lg%TAN%oa%GOLD%d%CONTINUE%
 ItemDisplay[(UNI) 7vo ID]:%GOLD%Colossus Voulge%NL%%GOLD%St%TAN%ee%WHITE%lg%TAN%oa%GOLD%d%CONTINUE%
+
 ItemDisplay[(UNI) 9vo STAT218>0 ID]:%GOLD%Bill%NL%%GOLD%Bl%TAN%ac%WHITE%kl%TAN%ea%GOLD%ch%TAN% B%WHITE%la%TAN%de%CONTINUE%
 ItemDisplay[(UNI) 7vo STAT218>0 ID]:%GOLD%Colossus Voulge%NL%%GOLD%Bl%TAN%ac%WHITE%kl%TAN%ea%GOLD%ch%TAN% B%WHITE%la%TAN%de%CONTINUE%
-ItemDisplay[(UNI) scy ID]:%GOLD%Scythe%NL%%GOLD%So%TAN%ul%WHITE%H%TAN%ar%GOLD%ve%TAN%st%CONTINUE%
-ItemDisplay[(UNI) 9s8 ID]:%GOLD%Battle Scythe%NL%%GOLD%So%TAN%ul%WHITE%H%TAN%ar%GOLD%ve%TAN%st%CONTINUE%
-ItemDisplay[(UNI) 7s8 ID]:%GOLD%Thresher%NL%%GOLD%So%TAN%ul%WHITE%H%TAN%ar%GOLD%ve%TAN%st%CONTINUE%
+ItemDisplay[(UNI) scy ID]:%GOLD%Scythe%NL%%GOLD%So%TAN%ul %WHITE%H%TAN%ar%GOLD%ve%TAN%st%CONTINUE%
+ItemDisplay[(UNI) 9s8 ID]:%GOLD%Battle Scythe%NL%%GOLD%So%TAN%ul %WHITE%H%TAN%ar%GOLD%ve%TAN%st%CONTINUE%
+ItemDisplay[(UNI) 7s8 ID]:%GOLD%Thresher%NL%%GOLD%So%TAN%ul %WHITE%H%TAN%ar%GOLD%ve%TAN%st%CONTINUE%
 ItemDisplay[(UNI) 9s8 TABSK40>1 ID]:%GOLD%Battle Scythe%NL%%GOLD%At%TAN%he%WHITE%na%TAN%'s%GOLD% W%TAN%ra%WHITE%th%CONTINUE%
 ItemDisplay[(UNI) 7s8 TABSK40>1 ID]:%GOLD%Thresher%NL%%GOLD%At%TAN%he%WHITE%na%TAN%'s%GOLD% W%TAN%ra%WHITE%th%CONTINUE%
 ItemDisplay[(UNI) 7s8 STAT141>32 (STAT54>0 OR STAT55>0) STAT115>0 ID]:%RED%T%ORANGE%h%YELLOW%r%GREEN%e%BLUE%s%PURPLE%her%NL%%PURPLE%Th%RED%e %ORANGE%Re%GOLD%ap%WHITE%er%GOLD%'s%RED% T%PURPLE%ol%RED%l%CONTINUE%
 ItemDisplay[(UNI) pax ID]:%GOLD%Poleaxe%NL%%GOLD%Th%TAN%e %WHITE%Ba%TAN%tt%GOLD%le%TAN%br%WHITE%an%TAN%ch%CONTINUE%
 ItemDisplay[(UNI) 9pa ID]:%GOLD%Partizan%NL%%GOLD%Th%TAN%e %WHITE%Ba%TAN%tt%GOLD%le%TAN%br%WHITE%an%TAN%ch%CONTINUE%
 ItemDisplay[(UNI) 7pa ID]:%GOLD%Cryptic Axe%NL%%GOLD%Th%TAN%e %WHITE%Ba%TAN%tt%GOLD%le%TAN%br%WHITE%an%TAN%ch%CONTINUE%
+
 ItemDisplay[(UNI) 9pa CLSK4>0 ID]:%GOLD%Partizan%NL%%GOLD%Pi%TAN%er%WHITE%re%TAN% T%GOLD%om%TAN%ba%WHITE%le%TAN% C%GOLD%ou%TAN%an%WHITE%t%CONTINUE%
 ItemDisplay[(UNI) 7pa CLSK4>0 ID]:%GOLD%Cryptic Axe%NL%%GOLD%Pi%TAN%er%WHITE%re%TAN% T%GOLD%om%TAN%ba%WHITE%le%TAN% C%GOLD%ou%TAN%an%WHITE%t%CONTINUE%
 ItemDisplay[(UNI) 7pa MFIND>49 SOCK>1 RES>29 STAT86>0 ID]:%ORANGE%%CORAL%Cryptic Axe%NL%%PURPLE%To%RED%mb%ORANGE% R%GOLD%ea%WHITE%ve%GOLD%r%CONTINUE%
@@ -1699,8 +1728,8 @@ ItemDisplay[(UNI) 7h7 STAT117>0 REPLIFE>39 ID]:%GOLD%Great Poleaxe%NL%%GOLD%Hu%T
 ItemDisplay[(UNI) wsc ID]:%GOLD%War Scythe%NL%%GOLD%Th%TAN%e %WHITE%Gr%TAN%im%GOLD% R%TAN%ea%WHITE%pe%TAN%r%CONTINUE%
 ItemDisplay[(UNI) 9wc ID]:%GOLD%Grim Scythe%NL%%GOLD%Th%TAN%e %WHITE%Gr%TAN%im%GOLD% R%TAN%ea%WHITE%pe%TAN%r%CONTINUE%
 ItemDisplay[(UNI) 7wc ID]:%GOLD%Giant Thresher%NL%%GOLD%Th%TAN%e %WHITE%Gr%TAN%im%GOLD% R%TAN%ea%WHITE%pe%TAN%r%CONTINUE%
-ItemDisplay[(UNI) 9wc CLSK2>0 ID]:%ORANGE%%CORAL%Grim Scythe%NL%%PURPLE%Gr%RED%im%ORANGE%'s%GOLD%B%WHITE%ur%GOLD%ni%RED%ng%PURPLE%D%RED%ea%ORANGE%d%CONTINUE%
-ItemDisplay[(UNI) 7wc CLSK2>0 ID]:%ORANGE%%CORAL%Giant Thresher%NL%%PURPLE%Gr%RED%im%ORANGE%'s%GOLD%B%WHITE%ur%GOLD%ni%RED%ng%PURPLE%D%RED%ea%ORANGE%d%CONTINUE%
+ItemDisplay[(UNI) 9wc CLSK2>0 ID]:%ORANGE%%CORAL%Grim Scythe%NL%%PURPLE%Gr%RED%im%ORANGE%'s %GOLD%B%WHITE%ur%GOLD%ni%RED%ng%PURPLE%D%RED%ea%ORANGE%d%CONTINUE%
+ItemDisplay[(UNI) 7wc CLSK2>0 ID]:%ORANGE%%CORAL%Giant Thresher%NL%%PURPLE%Gr%RED%im%ORANGE%'s %GOLD%B%WHITE%ur%GOLD%ni%RED%ng%PURPLE%D%RED%ea%ORANGE%d%CONTINUE%
 ItemDisplay[(UNI) 7wc STAT330>0 STR>9 IAS>29 ID]:%GOLD%Giant Thresher%NL%%GOLD%St%TAN%or%WHITE%ms%TAN%pi%GOLD%re%CONTINUE%
 ItemDisplay[(UNI) sbw ID]:%GOLD%Short Bow%NL%%GOLD%Pl%TAN%uc%WHITE%ke%TAN%ye%CONTINUE%
 ItemDisplay[(UNI) 8sb ID]:%GOLD%Edge Bow%NL%%GOLD%Pl%TAN%uc%WHITE%ke%TAN%ye%CONTINUE%
@@ -1712,11 +1741,12 @@ ItemDisplay[(UNI) 8hb ID]:%GOLD%Razor Bow%NL%%GOLD%Wi%TAN%th%WHITE%er%TAN%st%GOL
 ItemDisplay[(UNI) 6hb ID]:%GOLD%Blade Bow%NL%%GOLD%Wi%TAN%th%WHITE%er%TAN%st%GOLD%ri%TAN%ng%CONTINUE%
 ItemDisplay[(UNI) 8hb STAT150>0 ID]:%GOLD%Razor Bow%NL%%GOLD%Ri%TAN%ph%WHITE%oo%TAN%k%CONTINUE%
 ItemDisplay[(UNI) 6hb STAT150>0 ID]:%GOLD%Blade Bow%NL%%GOLD%Ri%TAN%ph%WHITE%oo%TAN%k%CONTINUE%
+
 ItemDisplay[(UNI) lbw ID]:%GOLD%Long Bow%NL%%GOLD%Ra%TAN%ve%WHITE%n %TAN%Cl%GOLD%aw%CONTINUE%
 ItemDisplay[(UNI) 8lb ID]:%GOLD%Cedar Bow%NL%%GOLD%Ra%TAN%ve%WHITE%n %TAN%Cl%GOLD%aw%CONTINUE%
 ItemDisplay[(UNI) 6lb ID]:%GOLD%Shadow Bow%NL%%GOLD%Ra%TAN%ve%WHITE%n %TAN%Cl%GOLD%aw%CONTINUE%
-ItemDisplay[(UNI) 8lb TABSK0>0 ID]:%GOLD%Cedar Bow%NL%%GOLD%Ku%TAN%ko%WHITE%S%TAN%ha%GOLD%ka%TAN%ku%CONTINUE%
-ItemDisplay[(UNI) 6lb TABSK0>0 ID]:%GOLD%Shadow Bow%NL%%GOLD%Ku%TAN%ko%WHITE%S%TAN%ha%GOLD%ka%TAN%ku%CONTINUE%
+ItemDisplay[(UNI) 8lb TABSK0>0 ID]:%GOLD%Cedar Bow%NL%%GOLD%Ku%TAN%ko %WHITE%S%TAN%ha%GOLD%ka%TAN%ku%CONTINUE%
+ItemDisplay[(UNI) 6lb TABSK0>0 ID]:%GOLD%Shadow Bow%NL%%GOLD%Ku%TAN%ko %WHITE%S%TAN%ha%GOLD%ka%TAN%ku%CONTINUE%
 ItemDisplay[(UNI) cbw ID]:%GOLD%Composite Bow%NL%%GOLD%Ro%TAN%gu%WHITE%e'%TAN%s %GOLD%Bo%TAN%w%CONTINUE%
 ItemDisplay[(UNI) 8cb ID]:%GOLD%Double Bow%NL%%GOLD%Ro%TAN%gu%WHITE%e'%TAN%s %GOLD%Bo%TAN%w%CONTINUE%
 ItemDisplay[(UNI) 6cb ID]:%GOLD%Great Bow%NL%%GOLD%Ro%TAN%gu%WHITE%e'%TAN%s %GOLD%Bo%TAN%w%CONTINUE%
@@ -1739,12 +1769,13 @@ ItemDisplay[(UNI) 6sw ID]:%GOLD%Ward Bow%NL%%GOLD%He%TAN%ll%WHITE%cl%TAN%ap%CONT
 ItemDisplay[(UNI) 8sw STAT113>0 CLSK0>0 ID]:%GOLD%Rune Bow%NL%%GOLD%Ma%TAN%ge%WHITE%wr%TAN%at%GOLD%h%CONTINUE%
 ItemDisplay[(UNI) 6sw STAT113>0 CLSK0>0 ID]:%GOLD%Ward Bow%NL%%GOLD%Ma%TAN%ge%WHITE%wr%TAN%at%GOLD%h%CONTINUE%
 ItemDisplay[(UNI) 6sw SK22>0 STAT115>0 STAT141>0 ID]:%GOLD%Ward Bow%NL%%GOLD%Wi%TAN%do%WHITE%wm%TAN%ak%GOLD%er%CONTINUE%
+
 ItemDisplay[(UNI) lwb CLSK0>0 ID]:%GOLD%Long War Bow%NL%%GOLD%Bl%TAN%as%WHITE%tb%TAN%ar%GOLD%k%CONTINUE%
 ItemDisplay[(UNI) 8lw CLSK0>0 ID]:%GOLD%Gothic Bow%NL%%GOLD%Bl%TAN%as%WHITE%tb%TAN%ar%GOLD%k%CONTINUE%
 ItemDisplay[(UNI) 6lw CLSK0>0 ID]:%GOLD%Hydra Bow%NL%%GOLD%Bl%TAN%as%WHITE%tb%TAN%ar%GOLD%k%CONTINUE%
 ItemDisplay[(UNI) 8lw ARPER>99 ID]:%GOLD%Gothic Bow%NL%%GOLD%Go%TAN%ld%WHITE%st%TAN%ri%GOLD%ke%TAN% A%WHITE%rc%TAN%h%CONTINUE%
 ItemDisplay[(UNI) 6lw ARPER>99 ID]:%GOLD%Hydra Bow%NL%%GOLD%Go%TAN%ld%WHITE%st%TAN%ri%GOLD%ke%TAN% A%WHITE%rc%TAN%h%CONTINUE%
-ItemDisplay[(UNI) 6lw STAT81>0 STAT218>0 ID]:%RED%H%ORANGE%y%YELLOW%d%GREEN%r%BLUE%a %PURPLE%Bow%NL%%PURPLE%Wi%RED%nd%ORANGE% f%GOLD%or%WHITE%ce%CONTINUE%
+ItemDisplay[(UNI) 6lw STAT81>0 STAT218>0 ID]:%RED%H%ORANGE%y%YELLOW%d%GREEN%r%BLUE%a %PURPLE%Bow%NL%%PURPLE%Wi%RED%nd%ORANGE%f%GOLD%or%WHITE%ce%CONTINUE%
 ItemDisplay[(UNI) lxb ID]:%GOLD%Light Crossbow%NL%%GOLD%Le%TAN%ad%WHITE%cr%TAN%ow%CONTINUE%
 ItemDisplay[(UNI) 8lx ID]:%GOLD%Arbalest%NL%%GOLD%Le%TAN%ad%WHITE%cr%TAN%ow%CONTINUE%
 ItemDisplay[(UNI) 6lx ID]:%GOLD%Pellet Bow%NL%%GOLD%Le%TAN%ad%WHITE%cr%TAN%ow%CONTINUE%
@@ -1789,6 +1820,7 @@ ItemDisplay[(UNI) 6bs ID]:%GOLD%Shillelagh%NL%%GOLD%Th%TAN%e %WHITE%Sa%TAN%la%GO
 ItemDisplay[(UNI) 8bs SK58>0 ID]:%GOLD%Gothic Staff%NL%%GOLD%Wa%TAN%rp%WHITE%sp%TAN%ea%GOLD%r%CONTINUE%
 ItemDisplay[(UNI) 6bs SK58>0 ID]:%GOLD%Shillelagh%NL%%GOLD%Wa%TAN%rp%WHITE%sp%TAN%ea%GOLD%r%CONTINUE%
 ItemDisplay[(UNI) 6bs SK56>0 ID]:%RED%Sh%ORANGE%il%YELLOW%le%GREEN%la%BLUE%g%PURPLE%h%NL%%ORANGE%Br%GOLD%im%TAN%st%GOLD%on%ORANGE%e %WHITE%Ra%ORANGE%in%CONTINUE%
+
 ItemDisplay[(UNI) wst ID]:%GOLD%War Staff%NL%%GOLD%Th%TAN%e %WHITE%Ir%TAN%on%GOLD% J%TAN%an%WHITE%g %TAN%Bo%GOLD%ng%CONTINUE%
 ItemDisplay[(UNI) 8ws ID]:%GOLD%Rune Staff%NL%%GOLD%Th%TAN%e %WHITE%Ir%TAN%on%GOLD% J%TAN%an%WHITE%g %TAN%Bo%GOLD%ng%CONTINUE%
 ItemDisplay[(UNI) 6ws ID]:%GOLD%Archon Staff%NL%%GOLD%Th%TAN%e %WHITE%Ir%TAN%on%GOLD% J%TAN%an%WHITE%g %TAN%Bo%GOLD%ng%CONTINUE%
@@ -1808,8 +1840,8 @@ ItemDisplay[(UNI) 7yw TABSK18>0 ID]:%GOLD%Ghost Wand%NL%%GOLD%Ca%TAN%ri%WHITE%n 
 ItemDisplay[(UNI) bwn ID]:%GOLD%Bone Wand%NL%%GOLD%Gr%TAN%av%WHITE%en%TAN%sp%GOLD%in%TAN%e%CONTINUE%
 ItemDisplay[(UNI) 9bw ID]:%GOLD%Tomb Wand%NL%%GOLD%Gr%TAN%av%WHITE%en%TAN%sp%GOLD%in%TAN%e%CONTINUE%
 ItemDisplay[(UNI) 7bw ID]:%GOLD%Lich Wand%NL%%GOLD%Gr%TAN%av%WHITE%en%TAN%sp%GOLD%in%TAN%e%CONTINUE%
-ItemDisplay[(UNI) 9bw SK69>2 ID]:%TAN%%CORAL%Tomb Wand%NL%%ORANGE%Ar%GOLD%m%TAN%of%GOLD%K%ORANGE%in%WHITE%g%ORANGE%Le%GOLD%or%TAN%ic%CONTINUE%
-ItemDisplay[(UNI) 7bw SK69>2 ID]:%TAN%%CORAL%Lich Wand%NL%%ORANGE%Ar%GOLD%m%TAN%of%GOLD%K%ORANGE%in%WHITE%g%ORANGE%Le%GOLD%or%TAN%ic%CONTINUE%
+ItemDisplay[(UNI) 9bw SK69>2 ID]:%TAN%%CORAL%Tomb Wand%NL%%ORANGE%Ar%GOLD%m %TAN%of %GOLD%K%ORANGE%in%WHITE%g %ORANGE%Le%GOLD%or%TAN%ic%CONTINUE%
+ItemDisplay[(UNI) 7bw SK69>2 ID]:%TAN%%CORAL%Lich Wand%NL%%ORANGE%Ar%GOLD%m %TAN%of %GOLD%K%ORANGE%in%WHITE%g %ORANGE%Le%GOLD%or%TAN%ic%CONTINUE%
 ItemDisplay[(UNI) 7bw SK67>3 ID]:%TAN%%CORAL%Lich Wand%NL%%ORANGE%Bo%GOLD%ne%TAN%sh%GOLD%ad%ORANGE%e%CONTINUE%
 ItemDisplay[(UNI) gwn ID]:%GOLD%Grim Wand%NL%%GOLD%Um%TAN%e'%WHITE%s %TAN%La%GOLD%me%TAN%nt%CONTINUE%
 ItemDisplay[(UNI) 9gw ID]:%GOLD%Grave Wand%NL%%GOLD%Um%TAN%e'%WHITE%s %TAN%La%GOLD%me%TAN%nt%CONTINUE%
@@ -1827,23 +1859,24 @@ ItemDisplay[(UNI) 7sc STAT121>0 ID]:%GOLD%Mighty Scepter%NL%%GOLD%Th%TAN%e %WHIT
 ItemDisplay[(UNI) gsc ID]:%GOLD%Grand Scepter%NL%%GOLD%Ru%TAN%st%WHITE%ha%TAN%nd%GOLD%le%CONTINUE%
 ItemDisplay[(UNI) 9qs ID]:%GOLD%Holy Water Sprinkler%NL%%GOLD%Ru%TAN%st%WHITE%ha%TAN%nd%GOLD%le%CONTINUE%
 ItemDisplay[(UNI) 7qs ID]:%GOLD%Seraph Rod%NL%%GOLD%Ru%TAN%st%WHITE%ha%TAN%nd%GOLD%le%CONTINUE%
+
 ItemDisplay[(UNI) 9qs ED>159 MAXDMG>0 MINDMG>0 AR>149 ID]:%GOLD%Holy Water Sprinkler%NL%%GOLD%Th%TAN%e %WHITE%Fe%TAN%ti%GOLD%d %TAN%Sp%WHITE%ri%TAN%nk%GOLD%le%TAN%r%CONTINUE%
 ItemDisplay[(UNI) 7qs ED>159 MAXDMG>0 MINDMG>0 AR>149 ID]:%GOLD%Seraph Rod%NL%%GOLD%Th%TAN%e %WHITE%Fe%TAN%ti%GOLD%d %TAN%Sp%WHITE%ri%TAN%nk%GOLD%le%TAN%r%CONTINUE%
 ItemDisplay[(UNI) 7qs SK112>2 ID]:%TAN%%CORAL%Seraph Rod%NL%%ORANGE%Ak%GOLD%ar%TAN%at%GOLD%'s%ORANGE% D%WHITE%ev%ORANGE%ot%GOLD%io%TAN%n%CONTINUE%
 ItemDisplay[(UNI) wsp ID]:%GOLD%War Scepter%NL%%GOLD%St%TAN%or%WHITE%me%TAN%ye%CONTINUE%
 ItemDisplay[(UNI) 9ws ID]:%GOLD%Divine Scepter%NL%%GOLD%St%TAN%or%WHITE%me%TAN%ye%CONTINUE%
 ItemDisplay[(UNI) 7ws ID]:%GOLD%Caduceus%NL%%GOLD%St%TAN%or%WHITE%me%TAN%ye%CONTINUE%
-ItemDisplay[(UNI) 9ws SK121>0 SK101>0 ID]:%GOLD%Divine Scepter%NL%%GOLD%Ha%TAN%nd%WHITE%o%TAN%f %GOLD%Bl%TAN%es%WHITE%se%TAN%d %GOLD%Li%TAN%gh%WHITE%t%CONTINUE%
-ItemDisplay[(UNI) 7ws SK121>0 SK101>0 ID]:%GOLD%Caduceus%NL%%GOLD%Ha%TAN%nd%WHITE%o%TAN%f %GOLD%Bl%TAN%es%WHITE%se%TAN%d %GOLD%Li%TAN%gh%WHITE%t%CONTINUE%
+ItemDisplay[(UNI) 9ws SK121>0 SK101>0 ID]:%GOLD%Divine Scepter%NL%%GOLD%Ha%TAN%nd %WHITE%o%TAN%f %GOLD%Bl%TAN%es%WHITE%se%TAN%d %GOLD%Li%TAN%gh%WHITE%t%CONTINUE%
+ItemDisplay[(UNI) 7ws SK121>0 SK101>0 ID]:%GOLD%Caduceus%NL%%GOLD%Ha%TAN%nd %WHITE%o%TAN%f %GOLD%Bl%TAN%es%WHITE%se%TAN%d %GOLD%Li%TAN%gh%WHITE%t%CONTINUE%
 ItemDisplay[(UNI) 7ws TABSK24>2 ID]:%GOLD%Caduceus%NL%%GOLD%As%TAN%tr%WHITE%eo%TAN%n'%GOLD%s %TAN%Ir%WHITE%on%TAN% W%GOLD%ar%TAN%d%CONTINUE%
-ItemDisplay[(UNI) 9ar ID]:%GOLD%Quhab%NL%%GOLD%Ma%TAN%ge%WHITE%S%TAN%la%GOLD%ye%TAN%r%CONTINUE%
-ItemDisplay[(UNI) 7ar ID]:%GOLD%Suwayyah%NL%%GOLD%Ma%TAN%ge%WHITE%S%TAN%la%GOLD%ye%TAN%r%CONTINUE%
-ItemDisplay[(UNI) 7wb ID]:%GOLD%Wrist Sword%NL%%GOLD%Ja%TAN%de%WHITE%T%TAN%al%GOLD%on%CONTINUE%
+ItemDisplay[(UNI) 9ar ID]:%GOLD%Quhab%NL%%GOLD%Ma%TAN%ge %WHITE%S%TAN%la%GOLD%ye%TAN%r%CONTINUE%
+ItemDisplay[(UNI) 7ar ID]:%GOLD%Suwayyah%NL%%GOLD%Ma%TAN%ge %WHITE%S%TAN%la%GOLD%ye%TAN%r%CONTINUE%
+ItemDisplay[(UNI) 7wb ID]:%GOLD%Wrist Sword%NL%%GOLD%Ja%TAN%de %WHITE%T%TAN%al%GOLD%on%CONTINUE%
 ItemDisplay[(UNI) 7lw ID]:%TAN%%CORAL%Feral Claws%NL%%ORANGE%Fi%GOLD%re%TAN%li%GOLD%za%ORANGE%rd%WHITE%'s%ORANGE% T%GOLD%al%TAN%on%GOLD%s%CONTINUE%
 ItemDisplay[(UNI) 7cs ID]:%GOLD%Battle Cestus%NL%%GOLD%Sh%TAN%ad%WHITE%ow%TAN% K%GOLD%il%TAN%le%WHITE%r%CONTINUE%
-ItemDisplay[(UNI) 9tw ID]:%RED%Gr%YELLOW%ea%GREEN%te%BLUE%r T%PURPLE%al%WHITE%ons%NL%%PURPLE%Ba%RED%rt%ORANGE%uc%GOLD%'s%WHITE% C%GOLD%ut%ORANGE%-T%RED%hr%PURPLE%oa%GOLD%t%CONTINUE%
+ItemDisplay[(UNI) 9tw ID]:%RED%Gr%YELLOW%ea%GREEN%te%BLUE%r T%PURPLE%al%WHITE%ons%NL%%PURPLE%Ba%RED%rt%ORANGE%uc%GOLD%'s %WHITE%C%GOLD%ut%ORANGE%-T%RED%hr%PURPLE%oa%GOLD%t%CONTINUE%
 ItemDisplay[(UNI) 7tw ID]:%RED%Ru%ORANGE%ni%YELLOW%c T%GREEN%al%BLUE%on%PURPLE%s%NL%%ORANGE%St%GOLD%al%TAN%ke%GOLD%r'%ORANGE%s %WHITE%Cu%ORANGE%ll%CONTINUE%
-ItemDisplay[(UNI) 7tw TABSK50>0 ID]:%RED%Ru%ORANGE%ni%YELLOW%c T%GREEN%al%BLUE%on%PURPLE%s%NL%%PURPLE%Ba%RED%rt%ORANGE%uc%GOLD%'s%WHITE% C%GOLD%ut%ORANGE%-T%RED%hr%PURPLE%oa%GOLD%t%CONTINUE%
+ItemDisplay[(UNI) 7tw TABSK50>0 ID]:%RED%Ru%ORANGE%ni%YELLOW%c T%GREEN%al%BLUE%on%PURPLE%s%NL%%PURPLE%Ba%RED%rt%ORANGE%uc%GOLD%'s %WHITE%C%GOLD%ut%ORANGE%-T%RED%hr%PURPLE%oa%GOLD%t%CONTINUE%
 ItemDisplay[(UNI) 7qr ID]:%RED%Sc%ORANGE%is%YELLOW%so%GREEN%rs %BLUE%Su%PURPLE%wa%WHITE%yy%GOLD%ah%NL%%PURPLE%Ai%RED%da%ORANGE%n'%GOLD%s %WHITE%Sc%GOLD%ar%CONTINUE%
 ItemDisplay[(UNI) ob6 ID]:%TAN%%CORAL%Glowing Orb%NL%%ORANGE%Te%GOLD%mp%TAN%es%GOLD%t%CONTINUE%
 ItemDisplay[(UNI) obb ID]:%TAN%%CORAL%Heavenly Stone%NL%%ORANGE%Te%GOLD%mp%TAN%es%GOLD%t%CONTINUE%
@@ -1854,12 +1887,12 @@ ItemDisplay[(UNI) ob7 ID STAT363>1]:%GOLD%Crystalline Globe%NL%%GOLD%Sk%TAN%or%W
 ItemDisplay[(UNI) obc ID STAT363>1]:%RED%El%ORANGE%dr%YELLOW%it%GREEN%ch %BLUE%Or%PURPLE%b%NL%%GOLD%Sk%TAN%or%WHITE%n%CONTINUE%
 ItemDisplay[(UNI) obc ID !STAT363>1]:%RED%El%ORANGE%dr%YELLOW%it%GREEN%ch %BLUE%Or%PURPLE%b%NL%%PURPLE%Es%RED%ch%ORANGE%ut%GOLD%a'%WHITE%s %GOLD%Te%RED%mp%PURPLE%er%CONTINUE%
 ItemDisplay[(UNI) amb ID]:%TAN%%CORAL%Matriarchal Bow%NL%%ORANGE%Bl%GOLD%oo%TAN%d%GOLD%Ra%ORANGE%ve%WHITE%n'%ORANGE%s %GOLD%Ch%TAN%ar%GOLD%ge%CONTINUE%
-ItemDisplay[(UNI) am7 ID]:%TAN%%CORAL%Ceremonial Bow%NL%%ORANGE%Ly%GOLD%ca%TAN%nd%GOLD%er%ORANGE%'s%WHITE%A%ORANGE%im%CONTINUE%
-ItemDisplay[(UNI) amc ID]:%TAN%%CORAL%Grand Matron Bow%NL%%ORANGE%Ly%GOLD%ca%TAN%nd%GOLD%er%ORANGE%'s%WHITE%A%ORANGE%im%CONTINUE%
+ItemDisplay[(UNI) am7 ID]:%TAN%%CORAL%Ceremonial Bow%NL%%ORANGE%Ly%GOLD%ca%TAN%nd%GOLD%er%ORANGE%'s %WHITE%A%ORANGE%im%CONTINUE%
+ItemDisplay[(UNI) amc ID]:%TAN%%CORAL%Grand Matron Bow%NL%%ORANGE%Ly%GOLD%ca%TAN%nd%GOLD%er%ORANGE%'s %WHITE%A%ORANGE%im%CONTINUE%
 ItemDisplay[(UNI) amd ID]:%GOLD%Matriarchal Spear%NL%%GOLD%St%TAN%on%WHITE%er%TAN%av%GOLD%en%CONTINUE%
-ItemDisplay[(UNI) am9 ID]:%TAN%%CORAL%Ceremonial Pike%NL%%ORANGE%Ly%GOLD%ca%TAN%nd%GOLD%er%ORANGE%'s%WHITE%F%ORANGE%la%GOLD%nk%CONTINUE%
+ItemDisplay[(UNI) am9 ID]:%TAN%%CORAL%Ceremonial Pike%NL%%ORANGE%Ly%GOLD%ca%TAN%nd%GOLD%er%ORANGE%'s %WHITE%F%ORANGE%la%GOLD%nk%CONTINUE%
 ItemDisplay[(UNI) ame ID]:%TAN%%CORAL%Matriarchal Pike%NL%%ORANGE%Ze%GOLD%ra%TAN%e'%GOLD%s %ORANGE%Re%WHITE%so%ORANGE%lv%GOLD%e%CONTINUE%
-ItemDisplay[(UNI) ame CLSK0>0 ID]:%TAN%%CORAL%Matriarchal Pike%NL%%ORANGE%Ly%GOLD%ca%TAN%nd%GOLD%er%ORANGE%'s%WHITE%F%ORANGE%la%GOLD%nk%CONTINUE%
+ItemDisplay[(UNI) ame CLSK0>0 ID]:%TAN%%CORAL%Matriarchal Pike%NL%%ORANGE%Ly%GOLD%ca%TAN%nd%GOLD%er%ORANGE%'s %WHITE%F%ORANGE%la%GOLD%nk%CONTINUE%
 ItemDisplay[(UNI) am5 STAT136>9 MFIND>24 ID]:%GOLD%Maiden Javelin%NL%%GOLD%Tr%TAN%ue%WHITE%S%TAN%il%GOLD%ve%TAN%r%CONTINUE%
 ItemDisplay[(UNI) ama STAT136>9 MFIND>24 ID]:%GOLD%Ceremonial Javelin%NL%%GOLD%Tr%TAN%ue%WHITE%S%TAN%il%GOLD%ve%TAN%r%CONTINUE%
 ItemDisplay[(UNI) amf STAT136>9 MFIND>24 ID]:%GOLD%Matriarchal Javelin%NL%%GOLD%Tr%TAN%ue%WHITE%S%TAN%il%GOLD%ve%TAN%r%CONTINUE%
@@ -1868,8 +1901,8 @@ ItemDisplay[(UNI) amf CLSK0>0 ID]:%RED%Ma%ORANGE%tr%YELLOW%ia%GREEN%rc%BLUE%hal 
 ItemDisplay[(UNI) amf STAT334>14 ID]:%RED%Ma%ORANGE%tr%YELLOW%ia%GREEN%rc%BLUE%hal %PURPLE%Javelin%NL%%ORANGE%Th%GOLD%un%TAN%de%GOLD%rs%ORANGE%tr%WHITE%ok%ORANGE%e%CONTINUE%
 ItemDisplay[(UNI) rar ID]:%RED%Bo%ORANGE%ne%GREEN%we%BLUE%av%PURPLE%e%NL%%PURPLE%Ca%RED%ge%ORANGE%o%GOLD%f%WHITE%th%GOLD%e %RED%Un%PURPLE%su%RED%ll%ORANGE%ie%GOLD%d%CONTINUE%
 ItemDisplay[(UNI) rbe ID]:%RED%Tr%ORANGE%ol%YELLOW%l %GREEN%Be%BLUE%lt%NL%%PURPLE%Ba%RED%nd%ORANGE% o%GOLD%f %WHITE%Sk%GOLD%ul%RED%ls%CONTINUE%
-ItemDisplay[UNI 7st ID]:%ORANGE%%CORAL%Ghost Spear%NL%%PURPLE%Ul%RED%dy%ORANGE%ss%GOLD%ia%WHITE%n's%RED%Aw%PURPLE%ak%RED%en%ORANGE%in%GOLD%g%CONTINUE%
-ItemDisplay[UNI 7cm ID]:%ORANGE%%CORAL%Highland Blade%NL%%PURPLE%Le%RED%or%ORANGE%ic%GOLD%'s%WHITE%Mi%RED%th%PURPLE%ri%RED%l%ORANGE%Ba%GOLD%ne%CONTINUE%
+ItemDisplay[UNI 7st ID]:%ORANGE%%CORAL%Ghost Spear%NL%%PURPLE%Ul%RED%dy%ORANGE%ss%GOLD%ia%WHITE%n's %RED%Aw%PURPLE%ak%RED%en%ORANGE%in%GOLD%g%CONTINUE%
+ItemDisplay[UNI 7cm ID]:%ORANGE%%CORAL%Highland Blade%NL%%PURPLE%Le%RED%or%ORANGE%ic%GOLD%'s %WHITE%Mi%RED%th%PURPLE%ri%RED%l%ORANGE%Ba%GOLD%ne%CONTINUE%
 ItemDisplay[UNI ID ulg]:%CORAL%Bramble Mitts%NL%%PURPLE%Ti%RED%ta%ORANGE%n'%GOLD%s G%WHITE%ri%RED%p%CONTINUE%
 ItemDisplay[UNI ID ung]:%CORAL%Diamond Mail%NL%%PURPLE%Wr%RED%ai%ORANGE%th%GOLD%sk%WHITE%in%CONTINUE%
 ItemDisplay[UNI ID urg]:%CORAL%Hyperion%NL%%PURPLE%Tw%RED%il%ORANGE%ig%GOLD%ht%WHITE%'s %RED%Re%PURPLE%fl%RED%ec%ORANGE%ti%GOLD%on%CONTINUE%
@@ -1900,49 +1933,49 @@ ItemDisplay[(UNI) cqv3 ALLSK>0 FCR>0 STAT109>0 ID]:%CORAL%War Bolts%NL%%%PURPLE%
 ItemDisplay[(UNI) cqv3 STAT362>0 STAT335>0 ID]:%CORAL%War Bolts%NL%%%PURPLE%F%RED%r%ORANGE%o%GOLD%z%WHITE%e%PURPLE%n %RED%S%ORANGE%o%GOLD%r%WHITE%r%PURPLE%o%RED%w%CONTINUE%
 
 
-ItemDisplay[(SET) 2ax ID]:%DARK_GREEN%Double Axe%NL%%GREEN%Berserker's%WHITE%Ha%DARK_GREEN%tc%WHITE%he%GREEN%t%CONTINUE%
-ItemDisplay[(SET) 92a ID]:%DARK_GREEN%Twin Axe%NL%%GREEN%Berserker's%WHITE%Ha%DARK_GREEN%tc%WHITE%he%GREEN%t%CONTINUE%
-ItemDisplay[(SET) 72a ID]:%DARK_GREEN%Ettin Axe%NL%%GREEN%Berserker's%WHITE%Ha%DARK_GREEN%tc%WHITE%he%GREEN%t%CONTINUE%
-ItemDisplay[(SET) 6cs ID]:%RED%%TEAL%Elder Staff%NL%%GREEN%Naj's%PURPLE%Pu%RED%zz%ORANGE%le%GOLD%r%CONTINUE%
-ItemDisplay[(SET) 7fb ID]:%RED%%TEAL%Colossus Sword%NL%%GREEN%Bul-Kathos'%PURPLE%Tr%RED%ib%ORANGE%al%GOLD%G%WHITE%u%GOLD%a%ORANGE%r%GOLD%d%WHITE%i%GOLD%a%RED%n%CONTINUE%
-ItemDisplay[(SET) 7gd ID]:%RED%%TEAL%Colossus Blade%NL%%GREEN%Bul-Kathos'%PURPLE%Sa%RED%cr%ORANGE%ed %GOLD%C%WHITE%h%GOLD%a%ORANGE%r%GOLD%g%WHITE%e%CONTINUE%
-ItemDisplay[(SET) 7m7 ID]:%RED%%TEAL%Ogre Maul%NL%%GREEN%ImmortalKing's%PURPLE%St%RED%on%ORANGE%e%ORANGE%C%GOLD%r%WHITE%u%GOLD%s%WHITE%h%GOLD%e%RED%r%CONTINUE%
-ItemDisplay[(SET) 7ma ID]:%RED%%TEAL%Reinforced Mace%NL%%GREEN%Dangoon's%PURPLE%Te%RED%ac%ORANGE%hi%GOLD%ng%CONTINUE%
-ItemDisplay[(SET) 7qr ID]:%RED%%TEAL%Scissors Suwayyah%NL%%GREEN%Natalya's%PURPLE%M%RED%a%WHITE%r%ORANGE%k%CONTINUE%
-ItemDisplay[(SET) 9mt ID]:%RED%%TEAL%Jagged Star%NL%%GREEN%Aldur's%PURPLE%R%RED%h%GOLD%y%WHITE%t%GOLD%h%ORANGE%m%CONTINUE%
-ItemDisplay[(SET) 7mt ID]:%RED%%TEAL%Devil Star%NL%%GREEN%Aldur's%PURPLE%R%RED%h%GOLD%y%WHITE%t%GOLD%h%ORANGE%m%CONTINUE%
-ItemDisplay[(SET) 9vo ID]:%RED%%TEAL%Bill%NL%%GREEN%Hwanin's%PURPLE%J%RED%u%ORANGE%s%GOLD%t%WHITE%i%GOLD%c%RED%e%CONTINUE%
-ItemDisplay[(SET) 7vo ID]:%RED%%TEAL%Colossus Voulge%NL%%GREEN%Hwanin's%PURPLE%J%RED%u%ORANGE%s%GOLD%t%WHITE%i%GOLD%c%RED%e%CONTINUE%
-ItemDisplay[(SET) aar ID]:%DARK_GREEN%Ancient Armor%NL%%GREEN%Milabrega's%WHITE%Ro%DARK_GREEN%b%GREEN%e%CONTINUE%
-ItemDisplay[(SET) xar ID]:%DARK_GREEN%Ornate Plate%NL%%GREEN%Milabrega's%WHITE%Ro%DARK_GREEN%b%GREEN%e%CONTINUE%
-ItemDisplay[(SET) uar ID]:%DARK_GREEN%Sacred Armor%NL%%GREEN%Milabrega's%WHITE%Ro%DARK_GREEN%b%GREEN%e%CONTINUE%
-ItemDisplay[(SET) uar TABSK32>0 ID]:%RED%%TEAL%Sacred Armor%NL%%GREEN%ImmortalKing's%PURPLE%So%RED%ul %GOLD%C%WHITE%a%GOLD%g%RED%e%CONTINUE%
-ItemDisplay[(SET) xar CLSK3>0 ID]:%RED%%TEAL%Ornate Plate%NL%%GREEN%Griswold's%PURPLE%H%RED%e%ORANGE%a%WHITE%r%GOLD%t%CONTINUE%
-ItemDisplay[(SET) uar CLSK3>0 ID]:%RED%%TEAL%Sacred Armor%NL%%GREEN%Griswold's%PURPLE%H%RED%e%ORANGE%a%WHITE%r%GOLD%t%CONTINUE%
-ItemDisplay[(SET) amc ID]:%RED%%TEAL%Grand Matron Bow%NL%%GREEN%M'avina's%PURPLE%C%RED%a%ORANGE%s%GOLD%t%WHITE%e%RED%r%CONTINUE%
-ItemDisplay[(SET) ba5 ID]:%RED%%TEAL%Avenger Guard%NL%%GREEN%ImmortalKing's%PURPLE%W%RED%i%ORANGE%l%WHITE%l%CONTINUE%
-ItemDisplay[(SET) baa ID]:%RED%%TEAL%Slayer Guard%NL%%GREEN%ImmortalKing's%PURPLE%W%RED%i%ORANGE%l%WHITE%l%CONTINUE%
-ItemDisplay[(SET) baf ID]:%RED%%TEAL%Guardian Crown%NL%%GREEN%ImmortalKing's%PURPLE%W%RED%i%ORANGE%l%WHITE%l%CONTINUE%
-ItemDisplay[(SET) bhm ID !FHR>24]:%DARK_GREEN%Bone Helm%NL%%GREEN%Tancred's%WHITE%S%DARK_GREEN%k%WHITE%ul%GREEN%l%CONTINUE%
-ItemDisplay[(SET) xh9 ID !FHR>24]:%DARK_GREEN%Grim Helm%NL%%GREEN%Tancred's%WHITE%S%DARK_GREEN%k%WHITE%ul%GREEN%l%CONTINUE%
-ItemDisplay[(SET) uh9 ID !FHR>24]:%DARK_GREEN%Bone Visage%NL%%GREEN%Tancred's%WHITE%S%DARK_GREEN%k%WHITE%ul%GREEN%l%CONTINUE%
-ItemDisplay[(SET) xh9 STR>9 DEX>19 RES>9 STAT35>0 ID]:%GREEN%%SAGE%Grim Helm%NL%%GREEN%Natalya's%GOLD%To%WHITE%te%GREEN%m%CONTINUE%
-ItemDisplay[(SET) uh9 STR>9 DEX>19 RES>9 STAT35>0 ID]:%GREEN%%SAGE%Bone Visage%NL%%GREEN%Natalya's%GOLD%To%WHITE%te%GREEN%m%CONTINUE%
-ItemDisplay[(SET) uh9 FHR>24 REPLIFE>19 MANA>149 STAT78>419 ID]:%RED%%TEAL%Bone Visage%NL%%GREEN%Trang-Oul's%PURPLE%G%RED%u%ORANGE%i%GOLD%s%WHITE%e%CONTINUE%
-ItemDisplay[(SET) brs ID]:%DARK_GREEN%Breast Plate%NL%%GREEN%Isenhart's%WHITE%C%DARK_GREEN%a%WHITE%s%GREEN%e%CONTINUE%
-ItemDisplay[(SET) xrs ID]:%DARK_GREEN%Cuirass%NL%%GREEN%Isenhart's%WHITE%C%DARK_GREEN%a%WHITE%s%GREEN%e%CONTINUE%
-ItemDisplay[(SET) urs ID]:%DARK_GREEN%Great Hauberk%NL%%GREEN%Isenhart's%WHITE%C%DARK_GREEN%a%WHITE%s%GREEN%e%CONTINUE%
-ItemDisplay[(SET) xrs ALLSK>0 LIFE>49 STAT32>0 STAT33>0 ID]:%DARK_GREEN%Cuirass%NL%%GREEN%Haemosu's%WHITE%A%DARK_GREEN%d%WHITE%am%GREEN%an%WHITE%t%CONTINUE%
-ItemDisplay[(SET) urs ALLSK>0 LIFE>49 STAT32>0 STAT33>0 ID]:%DARK_GREEN%Great Hauberk%NL%%GREEN%Haemosu's%WHITE%A%DARK_GREEN%d%WHITE%am%GREEN%an%WHITE%t%CONTINUE%
-ItemDisplay[(SET) bsd ID]:%DARK_GREEN%Broad Sword%NL%%GREEN%Isenhart's%WHITE%L%DARK_GREEN%ig%WHITE%ht%GREEN%br%DARK_GREEN%an%WHITE%d%CONTINUE%
-ItemDisplay[(SET) 9bs ID]:%DARK_GREEN%Battle Sword%NL%%GREEN%Isenhart's%WHITE%L%DARK_GREEN%ig%WHITE%ht%GREEN%br%DARK_GREEN%an%WHITE%d%CONTINUE%
-ItemDisplay[(SET) 7bs ID]:%DARK_GREEN%Conquest Sword%NL%%GREEN%Isenhart's%WHITE%L%DARK_GREEN%ig%WHITE%ht%GREEN%br%DARK_GREEN%an%WHITE%d%CONTINUE%
-ItemDisplay[(SET) bst ID]:%DARK_GREEN%Battle Staff%NL%%GREEN%Cathan's%WHITE%R%DARK_GREEN%ul%WHITE%e%CONTINUE%
-ItemDisplay[(SET) 8bs ID]:%DARK_GREEN%Gothic Staff%NL%%GREEN%Cathan's%WHITE%R%DARK_GREEN%ul%WHITE%e%CONTINUE%
-ItemDisplay[(SET) 6bs ID]:%DARK_GREEN%Shillelagh%NL%%GREEN%Cathan's%WHITE%R%DARK_GREEN%ul%WHITE%e%CONTINUE%
-ItemDisplay[(SET) buc ID]:%DARK_GREEN%Buckler%NL%%GREEN%Hsarus'%WHITE%Ir%DARK_GREEN%on %WHITE%F%GREEN%is%WHITE%t%CONTINUE%
-ItemDisplay[(SET) xuc ID]:%DARK_GREEN%Defender%NL%%GREEN%Hsarus'%WHITE%Ir%DARK_GREEN%on %WHITE%F%GREEN%is%WHITE%t%CONTINUE%
-ItemDisplay[(SET) uuc ID]:%DARK_GREEN%Heater%NL%%GREEN%Hsarus'%WHITE%Ir%DARK_GREEN%on %WHITE%F%GREEN%is%WHITE%t%CONTINUE%
+ItemDisplay[(SET) 2ax ID]:%DARK_GREEN%Double Axe%NL%%GREEN%Berserker's %WHITE%Ha%DARK_GREEN%tc%WHITE%he%GREEN%t%CONTINUE%
+ItemDisplay[(SET) 92a ID]:%DARK_GREEN%Twin Axe%NL%%GREEN%Berserker's %WHITE%Ha%DARK_GREEN%tc%WHITE%he%GREEN%t%CONTINUE%
+ItemDisplay[(SET) 72a ID]:%DARK_GREEN%Ettin Axe%NL%%GREEN%Berserker's %WHITE%Ha%DARK_GREEN%tc%WHITE%he%GREEN%t%CONTINUE%
+ItemDisplay[(SET) 6cs ID]:%RED%%TEAL%Elder Staff%NL%%GREEN%Naj's %PURPLE%Pu%RED%zz%ORANGE%le%GOLD%r%CONTINUE%
+ItemDisplay[(SET) 7fb ID]:%RED%%TEAL%Colossus Sword%NL%%GREEN%Bul-Kathos' %PURPLE%Tr%RED%ib%ORANGE%al%GOLD%G%WHITE%u%GOLD%a%ORANGE%r%GOLD%d%WHITE%i%GOLD%a%RED%n%CONTINUE%
+ItemDisplay[(SET) 7gd ID]:%RED%%TEAL%Colossus Blade%NL%%GREEN%Bul-Kathos' %PURPLE%Sa%RED%cr%ORANGE%ed %GOLD%C%WHITE%h%GOLD%a%ORANGE%r%GOLD%g%WHITE%e%CONTINUE%
+ItemDisplay[(SET) 7m7 ID]:%RED%%TEAL%Ogre Maul%NL%%GREEN%ImmortalKing's %PURPLE%St%RED%on%ORANGE%e%ORANGE%C%GOLD%r%WHITE%u%GOLD%s%WHITE%h%GOLD%e%RED%r%CONTINUE%
+ItemDisplay[(SET) 7ma ID]:%RED%%TEAL%Reinforced Mace%NL%%GREEN%Dangoon's %PURPLE%Te%RED%ac%ORANGE%hi%GOLD%ng%CONTINUE%
+ItemDisplay[(SET) 7qr ID]:%RED%%TEAL%Scissors Suwayyah%NL%%GREEN%Natalya's %PURPLE%M%RED%a%WHITE%r%ORANGE%k%CONTINUE%
+ItemDisplay[(SET) 9mt ID]:%RED%%TEAL%Jagged Star%NL%%GREEN%Aldur's %PURPLE%R%RED%h%GOLD%y%WHITE%t%GOLD%h%ORANGE%m%CONTINUE%
+ItemDisplay[(SET) 7mt ID]:%RED%%TEAL%Devil Star%NL%%GREEN%Aldur's %PURPLE%R%RED%h%GOLD%y%WHITE%t%GOLD%h%ORANGE%m%CONTINUE%
+ItemDisplay[(SET) 9vo ID]:%RED%%TEAL%Bill%NL%%GREEN%Hwanin's %PURPLE%J%RED%u%ORANGE%s%GOLD%t%WHITE%i%GOLD%c%RED%e%CONTINUE%
+ItemDisplay[(SET) 7vo ID]:%RED%%TEAL%Colossus Voulge%NL%%GREEN%Hwanin's %PURPLE%J%RED%u%ORANGE%s%GOLD%t%WHITE%i%GOLD%c%RED%e%CONTINUE%
+ItemDisplay[(SET) aar ID]:%DARK_GREEN%Ancient Armor%NL%%GREEN%Milabrega's %WHITE%Ro%DARK_GREEN%b%GREEN%e%CONTINUE%
+ItemDisplay[(SET) xar ID]:%DARK_GREEN%Ornate Plate%NL%%GREEN%Milabrega's %WHITE%Ro%DARK_GREEN%b%GREEN%e%CONTINUE%
+ItemDisplay[(SET) uar ID]:%DARK_GREEN%Sacred Armor%NL%%GREEN%Milabrega's %WHITE%Ro%DARK_GREEN%b%GREEN%e%CONTINUE%
+ItemDisplay[(SET) uar TABSK32>0 ID]:%RED%%TEAL%Sacred Armor%NL%%GREEN%ImmortalKing's %PURPLE%So%RED%ul %GOLD%C%WHITE%a%GOLD%g%RED%e%CONTINUE%
+ItemDisplay[(SET) xar CLSK3>0 ID]:%RED%%TEAL%Ornate Plate%NL%%GREEN%Griswold's %PURPLE%H%RED%e%ORANGE%a%WHITE%r%GOLD%t%CONTINUE%
+ItemDisplay[(SET) uar CLSK3>0 ID]:%RED%%TEAL%Sacred Armor%NL%%GREEN%Griswold's %PURPLE%H%RED%e%ORANGE%a%WHITE%r%GOLD%t%CONTINUE%
+ItemDisplay[(SET) amc ID]:%RED%%TEAL%Grand Matron Bow%NL%%GREEN%M'avina's %PURPLE%C%RED%a%ORANGE%s%GOLD%t%WHITE%e%RED%r%CONTINUE%
+ItemDisplay[(SET) ba5 ID]:%RED%%TEAL%Avenger Guard%NL%%GREEN%ImmortalKing's %PURPLE%W%RED%i%ORANGE%l%WHITE%l%CONTINUE%
+ItemDisplay[(SET) baa ID]:%RED%%TEAL%Slayer Guard%NL%%GREEN%ImmortalKing's %PURPLE%W%RED%i%ORANGE%l%WHITE%l%CONTINUE%
+ItemDisplay[(SET) baf ID]:%RED%%TEAL%Guardian Crown%NL%%GREEN%ImmortalKing's %PURPLE%W%RED%i%ORANGE%l%WHITE%l%CONTINUE%
+ItemDisplay[(SET) bhm ID !FHR>24]:%DARK_GREEN%Bone Helm%NL%%GREEN%Tancred's %WHITE%S%DARK_GREEN%k%WHITE%ul%GREEN%l%CONTINUE%
+ItemDisplay[(SET) xh9 ID !FHR>24]:%DARK_GREEN%Grim Helm%NL%%GREEN%Tancred's %WHITE%S%DARK_GREEN%k%WHITE%ul%GREEN%l%CONTINUE%
+ItemDisplay[(SET) uh9 ID !FHR>24]:%DARK_GREEN%Bone Visage%NL%%GREEN%Tancred's %WHITE%S%DARK_GREEN%k%WHITE%ul%GREEN%l%CONTINUE%
+ItemDisplay[(SET) xh9 STR>9 DEX>19 RES>9 STAT35>0 ID]:%GREEN%%SAGE%Grim Helm%NL%%GREEN%Natalya's %GOLD%To%WHITE%te%GREEN%m%CONTINUE%
+ItemDisplay[(SET) uh9 STR>9 DEX>19 RES>9 STAT35>0 ID]:%GREEN%%SAGE%Bone Visage%NL%%GREEN%Natalya's %GOLD%To%WHITE%te%GREEN%m%CONTINUE%
+ItemDisplay[(SET) uh9 FHR>24 REPLIFE>19 MANA>149 STAT78>419 ID]:%RED%%TEAL%Bone Visage%NL%%GREEN%Trang-Oul's %PURPLE%G%RED%u%ORANGE%i%GOLD%s%WHITE%e%CONTINUE%
+ItemDisplay[(SET) brs ID]:%DARK_GREEN%Breast Plate%NL%%GREEN%Isenhart's %WHITE%C%DARK_GREEN%a%WHITE%s%GREEN%e%CONTINUE%
+ItemDisplay[(SET) xrs ID]:%DARK_GREEN%Cuirass%NL%%GREEN%Isenhart's %WHITE%C%DARK_GREEN%a%WHITE%s%GREEN%e%CONTINUE%
+ItemDisplay[(SET) urs ID]:%DARK_GREEN%Great Hauberk%NL%%GREEN%Isenhart's %WHITE%C%DARK_GREEN%a%WHITE%s%GREEN%e%CONTINUE%
+ItemDisplay[(SET) xrs ALLSK>0 LIFE>49 STAT32>0 STAT33>0 ID]:%DARK_GREEN%Cuirass%NL%%GREEN%Haemosu's %WHITE%A%DARK_GREEN%d%WHITE%am%GREEN%an%WHITE%t%CONTINUE%
+ItemDisplay[(SET) urs ALLSK>0 LIFE>49 STAT32>0 STAT33>0 ID]:%DARK_GREEN%Great Hauberk%NL%%GREEN%Haemosu's %WHITE%A%DARK_GREEN%d%WHITE%am%GREEN%an%WHITE%t%CONTINUE%
+ItemDisplay[(SET) bsd ID]:%DARK_GREEN%Broad Sword%NL%%GREEN%Isenhart's %WHITE%L%DARK_GREEN%ig%WHITE%ht%GREEN%br%DARK_GREEN%an%WHITE%d%CONTINUE%
+ItemDisplay[(SET) 9bs ID]:%DARK_GREEN%Battle Sword%NL%%GREEN%Isenhart's %WHITE%L%DARK_GREEN%ig%WHITE%ht%GREEN%br%DARK_GREEN%an%WHITE%d%CONTINUE%
+ItemDisplay[(SET) 7bs ID]:%DARK_GREEN%Conquest Sword%NL%%GREEN%Isenhart's %WHITE%L%DARK_GREEN%ig%WHITE%ht%GREEN%br%DARK_GREEN%an%WHITE%d%CONTINUE%
+ItemDisplay[(SET) bst ID]:%DARK_GREEN%Battle Staff%NL%%GREEN%Cathan's %WHITE%R%DARK_GREEN%ul%WHITE%e%CONTINUE%
+ItemDisplay[(SET) 8bs ID]:%DARK_GREEN%Gothic Staff%NL%%GREEN%Cathan's %WHITE%R%DARK_GREEN%ul%WHITE%e%CONTINUE%
+ItemDisplay[(SET) 6bs ID]:%DARK_GREEN%Shillelagh%NL%%GREEN%Cathan's %WHITE%R%DARK_GREEN%ul%WHITE%e%CONTINUE%
+ItemDisplay[(SET) buc ID]:%DARK_GREEN%Buckler%NL%%GREEN%Hsarus' %WHITE%Ir%DARK_GREEN%on %WHITE%F%GREEN%is%WHITE%t%CONTINUE%
+ItemDisplay[(SET) xuc ID]:%DARK_GREEN%Defender%NL%%GREEN%Hsarus' %WHITE%Ir%DARK_GREEN%on %WHITE%F%GREEN%is%WHITE%t%CONTINUE%
+ItemDisplay[(SET) uuc ID]:%DARK_GREEN%Heater%NL%%GREEN%Hsarus' %WHITE%Ir%DARK_GREEN%on %WHITE%F%GREEN%is%WHITE%t%CONTINUE%
 ItemDisplay[(SET) bwn ID]:%DARK_GREEN%Bone Wand%NL%%GREEN%Sander's %WHITE%S%DARK_GREEN%up%WHITE%er%GREEN%st%WHITE%it%DARK_GREEN%io%WHITE%n%CONTINUE%
 ItemDisplay[(SET) 9bw ID]:%DARK_GREEN%Tomb Wand%NL%%GREEN%Sander's %WHITE%S%DARK_GREEN%up%WHITE%er%GREEN%st%WHITE%it%DARK_GREEN%io%WHITE%n%CONTINUE%
 ItemDisplay[(SET) 7bw ID]:%DARK_GREEN%Lich Wand%NL%%GREEN%Sander's %WHITE%S%DARK_GREEN%up%WHITE%er%GREEN%st%WHITE%it%DARK_GREEN%io%WHITE%n%CONTINUE%
@@ -1954,221 +1987,221 @@ ItemDisplay[(SET) uap RES>9 DTM>0 ID]:%DARK_GREEN%Shako%NL%%GREEN%Infernal %WHIT
 ItemDisplay[(SET) uap MFIND>0 STAT78>0 ID]:%DARK_GREEN%Shako%NL%%GREEN%Sander's %WHITE%P%DARK_GREEN%ar%WHITE%ag%GREEN%on%CONTINUE%
 ItemDisplay[(SET) xap ALLSK>0 STAT153>0 STAT78>9 DTM>34 ID]:%DARK_GREEN%War Hat%NL%%GREEN%CowKing's %WHITE%H%DARK_GREEN%or%GREEN%ns%CONTINUE%
 ItemDisplay[(SET) uap ALLSK>0 STAT153>0 STAT78>9 DTM>34 ID]:%DARK_GREEN%Shako%NL%%GREEN%CowKing's %WHITE%H%DARK_GREEN%or%GREEN%ns%CONTINUE%
-ItemDisplay[(SET) chn ID]:%DARK_GREEN%Chain Mail%NL%%GREEN%Cathan's%WHITE%M%DARK_GREEN%es%GREEN%h%CONTINUE%
-ItemDisplay[(SET) xhn ID]:%DARK_GREEN%Mesh Armor%NL%%GREEN%Cathan's%WHITE%M%DARK_GREEN%es%GREEN%h%CONTINUE%
-ItemDisplay[(SET) uhn ID]:%DARK_GREEN%Boneweave%NL%%GREEN%Cathan's%WHITE%M%DARK_GREEN%es%GREEN%h%CONTINUE%
-ItemDisplay[(SET) ci0 FCR>0 STR>14 ID]:%RED%%TEAL%Circlet%NL%%GREEN%Naj's%PURPLE%C%RED%i%ORANGE%r%GOLD%c%WHITE%l%GOLD%e%PURPLE%t%CONTINUE%
-ItemDisplay[(SET) ci1 FCR>0 STR>14 ID]:%RED%%TEAL%Coronet%NL%%GREEN%Naj's%PURPLE%C%RED%i%ORANGE%r%GOLD%c%WHITE%l%GOLD%e%PURPLE%t%CONTINUE%
-ItemDisplay[(SET) ci2 FCR>0 STR>14 ID]:%RED%%TEAL%Tiara%NL%%GREEN%Naj's%PURPLE%C%RED%i%ORANGE%r%GOLD%c%WHITE%l%GOLD%e%PURPLE%t%CONTINUE%
-ItemDisplay[(SET) ci3 FCR>0 STR>14 ID]:%RED%%TEAL%Diadem%NL%%GREEN%Naj's%PURPLE%C%RED%i%ORANGE%r%GOLD%c%WHITE%l%GOLD%e%PURPLE%t%CONTINUE%
-ItemDisplay[(SET) ci3 IAS>29 REPLIFE>4 MANA>24 ID]:%RED%%TEAL%Diadem%NL%%GREEN%M'avina's%PURPLE%T%RED%r%ORANGE%u%GOLD%e %WHITE%S%GOLD%i%ORANGE%g%RED%h%PURPLE%t%CONTINUE%
+ItemDisplay[(SET) chn ID]:%DARK_GREEN%Chain Mail%NL%%GREEN%Cathan's %WHITE%M%DARK_GREEN%es%GREEN%h%CONTINUE%
+ItemDisplay[(SET) xhn ID]:%DARK_GREEN%Mesh Armor%NL%%GREEN%Cathan's %WHITE%M%DARK_GREEN%es%GREEN%h%CONTINUE%
+ItemDisplay[(SET) uhn ID]:%DARK_GREEN%Boneweave%NL%%GREEN%Cathan's %WHITE%M%DARK_GREEN%es%GREEN%h%CONTINUE%
+ItemDisplay[(SET) ci0 FCR>0 STR>14 ID]:%RED%%TEAL%Circlet%NL%%GREEN%Naj's %PURPLE%C%RED%i%ORANGE%r%GOLD%c%WHITE%l%GOLD%e%PURPLE%t%CONTINUE%
+ItemDisplay[(SET) ci1 FCR>0 STR>14 ID]:%RED%%TEAL%Coronet%NL%%GREEN%Naj's %PURPLE%C%RED%i%ORANGE%r%GOLD%c%WHITE%l%GOLD%e%PURPLE%t%CONTINUE%
+ItemDisplay[(SET) ci2 FCR>0 STR>14 ID]:%RED%%TEAL%Tiara%NL%%GREEN%Naj's %PURPLE%C%RED%i%ORANGE%r%GOLD%c%WHITE%l%GOLD%e%PURPLE%t%CONTINUE%
+ItemDisplay[(SET) ci3 FCR>0 STR>14 ID]:%RED%%TEAL%Diadem%NL%%GREEN%Naj's %PURPLE%C%RED%i%ORANGE%r%GOLD%c%WHITE%l%GOLD%e%PURPLE%t%CONTINUE%
+ItemDisplay[(SET) ci3 IAS>29 REPLIFE>4 MANA>24 ID]:%RED%%TEAL%Diadem%NL%%GREEN%M'avina's %PURPLE%T%RED%r%ORANGE%u%GOLD%e %WHITE%S%GOLD%i%ORANGE%g%RED%h%PURPLE%t%CONTINUE%
 ItemDisplay[(SET) crn LRES>29 FRES>29 ID]:%DARK_GREEN%Crown%NL%%GREEN%Iratha's %WHITE%C%DARK_GREEN%oi%WHITE%l%CONTINUE%
-ItemDisplay[(SET) crn LIFE>14 MANA>14 ID]:%DARK_GREEN%Crown%NL%%GREEN%Milabrega's%WHITE%Di%DARK_GREEN%ad%WHITE%em%CONTINUE%
+ItemDisplay[(SET) crn LIFE>14 MANA>14 ID]:%DARK_GREEN%Crown%NL%%GREEN%Milabrega's %WHITE%Di%DARK_GREEN%ad%WHITE%em%CONTINUE%
 ItemDisplay[(SET) xrn LRES>29 FRES>29 ID]:%DARK_GREEN%Grand Crown%NL%%GREEN%Iratha's %WHITE%C%DARK_GREEN%oi%WHITE%l%CONTINUE%
-ItemDisplay[(SET) xrn LIFE>14 MANA>14 ID]:%DARK_GREEN%Grand Crown%NL%%GREEN%Milabrega's%WHITE%Di%DARK_GREEN%ad%WHITE%em%CONTINUE%
+ItemDisplay[(SET) xrn LIFE>14 MANA>14 ID]:%DARK_GREEN%Grand Crown%NL%%GREEN%Milabrega's %WHITE%Di%DARK_GREEN%ad%WHITE%em%CONTINUE%
 ItemDisplay[(SET) urn LRES>29 FRES>29 ID]:%DARK_GREEN%Corona%NL%%GREEN%Iratha's %WHITE%C%DARK_GREEN%oi%WHITE%l%CONTINUE%
-ItemDisplay[(SET) urn LIFE>14 MANA>14 ID]:%DARK_GREEN%Corona%NL%%GREEN%Milabrega's%WHITE%Di%DARK_GREEN%ad%WHITE%em%CONTINUE%
-ItemDisplay[(SET) xrn AR>199 REPLIFE>29 CRES>36 ID]:%RED%%TEAL%Grand Crown%NL%%GREEN%Hwanin's%PURPLE%S%RED%p%ORANGE%l%GOLD%e%WHITE%n%GOLD%d%ORANGE%o%PURPLE%r%CONTINUE%
-ItemDisplay[(SET) urn AR>199 REPLIFE>29 CRES>36 ID]:%RED%%TEAL%Corona%NL%%GREEN%Hwanin's%PURPLE%S%RED%p%ORANGE%l%GOLD%e%WHITE%n%GOLD%d%ORANGE%o%PURPLE%r%CONTINUE%
-ItemDisplay[(SET) urn RES>14 STAT234>0 MFIND>29 SOCK>1 ID]:%RED%%TEAL%Corona%NL%%GREEN%Griswold's%PURPLE%V%RED%a%ORANGE%l%GOLD%o%WHITE%r%CONTINUE%
-ItemDisplay[(SET) dgr ID]:%DARK_GREEN%Dagger%NL%%GREEN%Infernal%WHITE%S%DARK_GREEN%p%WHITE%i%GREEN%k%WHITE%e%CONTINUE%
-ItemDisplay[(SET) 9dg ID]:%DARK_GREEN%Poignard%NL%%GREEN%Infernal%WHITE%S%DARK_GREEN%p%WHITE%i%GREEN%k%WHITE%e%CONTINUE%
-ItemDisplay[(SET) 7dg ID]:%DARK_GREEN%Bone Knife%NL%%GREEN%Infernal%WHITE%S%DARK_GREEN%p%WHITE%i%GREEN%k%WHITE%e%CONTINUE%
-ItemDisplay[(SET) dr8 ID]:%RED%%TEAL%Hunter's Guise%NL%%GREEN%Aldur's%PURPLE%S%RED%t%ORANGE%o%GOLD%n%WHITE%y %GOLD%G%ORANGE%a%RED%z%PURPLE%e%CONTINUE%
-ItemDisplay[(SET) drd ID]:%RED%%TEAL%Earth Spirit%NL%%GREEN%Aldur's%PURPLE%S%RED%t%ORANGE%o%GOLD%n%WHITE%y %GOLD%G%ORANGE%a%RED%z%PURPLE%e%CONTINUE%
-ItemDisplay[(SET) fhl ID]:%DARK_GREEN%Full Helm%NL%%GREEN%Isenhart's%WHITE%H%DARK_GREEN%or%GREEN%ns%CONTINUE%
-ItemDisplay[(SET) xhl ID]:%DARK_GREEN%Basinet%NL%%GREEN%Isenhart's%WHITE%H%DARK_GREEN%or%GREEN%ns%CONTINUE%
-ItemDisplay[(SET) uhl ID]:%DARK_GREEN%Giant Conch%NL%%GREEN%Isenhart's%WHITE%H%DARK_GREEN%or%GREEN%ns%CONTINUE%
-ItemDisplay[(SET) xhl ALLSK>0 REPLIFE>14 LRES>14 FRES>14 ID]:%RED%%TEAL%Basinet%NL%%GREEN%Sazabi's%PURPLE%M%RED%e%ORANGE%n%GOLD%t%WHITE%a%GOLD%l %ORANGE%S%RED%h%PURPLE%e%ORANGE%a%GOLD%t%WHITE%h%CONTINUE%
-ItemDisplay[(SET) uhl ALLSK>0 REPLIFE>14 LRES>14 FRES>14 ID]:%RED%%TEAL%Giant Conch%NL%%GREEN%Sazabi's%PURPLE%M%RED%e%ORANGE%n%GOLD%t%WHITE%a%GOLD%l %ORANGE%S%RED%h%PURPLE%e%ORANGE%a%GOLD%t%WHITE%h%CONTINUE%
-ItemDisplay[(SET) xul TABSK18>0 ID]:%RED%%TEAL%Chaos Armor%NL%%GREEN%Trang-Oul's%PURPLE%S%RED%c%ORANGE%a%GOLD%l%WHITE%e%GOLD%s%CONTINUE%
-ItemDisplay[(SET) uul TABSK18>0 ID]:%RED%%TEAL%Shadow Plate%NL%%GREEN%Trang-Oul's%PURPLE%S%RED%c%ORANGE%a%GOLD%l%WHITE%e%GOLD%s%CONTINUE%
-ItemDisplay[(SET) uul TABSK42>0 ID]:%RED%%TEAL%Shadow Plate%NL%%GREEN%Aldur's%PURPLE%D%RED%e%ORANGE%c%GOLD%e%WHITE%p%GOLD%t%ORANGE%i%RED%o%PURPLE%n%CONTINUE%
-ItemDisplay[(SET) ful ID !(TABSK18>0 OR TABSK42>0)]:%DARK_GREEN%Full Plate Mail%NL%%GREEN%Tancred's%WHITE%Sp%DARK_GREEN%in%GREEN%e%CONTINUE%
-ItemDisplay[(SET) xul ID !(TABSK18>0 OR TABSK42>0)]:%DARK_GREEN%Chaos Armor%NL%%GREEN%Tancred's%WHITE%Sp%DARK_GREEN%in%GREEN%e%CONTINUE%
-ItemDisplay[(SET) uul ID !(TABSK18>0 OR TABSK42>0)]:%DARK_GREEN%Shadow Plate%NL%%GREEN%Tancred's%WHITE%Sp%DARK_GREEN%in%GREEN%e%CONTINUE%
-ItemDisplay[(SET) ghm ID]:%DARK_GREEN%Great Helm%NL%%GREEN%Sigon's%WHITE%Vi%DARK_GREEN%so%GREEN%r%CONTINUE%
-ItemDisplay[(SET) xhm ID]:%DARK_GREEN%Winged Helm%NL%%GREEN%Sigon's%WHITE%Vi%DARK_GREEN%so%GREEN%r%CONTINUE%
-ItemDisplay[(SET) uhm ID]:%DARK_GREEN%Spired Helm%NL%%GREEN%Sigon's%WHITE%Vi%DARK_GREEN%so%GREEN%r%CONTINUE%
-ItemDisplay[(SET) xhm FHR>29 STAT136>0 STAT141>0 ID]:%RED%%TEAL%Winged Helm%NL%%GREEN%Guillaume's%PURPLE%F%RED%a%ORANGE%c%GOLD%e%CONTINUE%
-ItemDisplay[(SET) uhm FHR>29 STAT136>0 STAT141>0 ID]:%RED%%TEAL%Spired Helm%NL%%GREEN%Guillaume's%PURPLE%F%RED%a%ORANGE%c%GOLD%e%CONTINUE%
-ItemDisplay[(SET) uhm ALLSK>0 FHR>23 STR>9 DEX>9 ID]:%RED%%TEAL%Spired Helm%NL%%GREEN%Ondal's%PURPLE%A%RED%l%ORANGE%m%GOLD%i%WHITE%g%GOLD%h%ORANGE%t%RED%y%CONTINUE%
-ItemDisplay[(SET) gsc ID]:%DARK_GREEN%Grand Scepter%NL%%GREEN%Civerb's%WHITE%C%DARK_GREEN%ud%WHITE%ge%GREEN%l%CONTINUE%
-ItemDisplay[(SET) 9qs ID]:%DARK_GREEN%Holy Water Sprinkler%NL%%GREEN%Civerb's%WHITE%C%DARK_GREEN%ud%WHITE%ge%GREEN%l%CONTINUE%
-ItemDisplay[(SET) 7qs ID]:%DARK_GREEN%Seraph Rod%NL%%GREEN%Civerb's%WHITE%C%DARK_GREEN%ud%WHITE%ge%GREEN%l%CONTINUE%
-ItemDisplay[(SET) gth ID]:%DARK_GREEN%Gothic Plate%NL%%GREEN%Sigon's%WHITE%Sh%DARK_GREEN%el%WHITE%te%GREEN%r%CONTINUE%
-ItemDisplay[(SET) xth ID]:%DARK_GREEN%Embossed Plate%NL%%GREEN%Sigon's%WHITE%Sh%DARK_GREEN%el%WHITE%te%GREEN%r%CONTINUE%
-ItemDisplay[(SET) uth ID]:%DARK_GREEN%Lacquered Plate%NL%%GREEN%Sigon's%WHITE%Sh%DARK_GREEN%el%WHITE%te%GREEN%r%CONTINUE%
-ItemDisplay[(SET) uth MFIND>49 FRES>39 LRES>39 CRES>39 ID]:%RED%%TEAL%Lacquered Plate%NL%%GREEN%TalRasha's%PURPLE%G%RED%u%ORANGE%a%GOLD%r%WHITE%di%GOLD%an%ORANGE%s%RED%h%PURPLE%i%TAN%p%CONTINUE%
-ItemDisplay[(SET) gts ID]:%DARK_GREEN%Gothic Shield%NL%%GREEN%Isenhart's%WHITE%P%DARK_GREEN%ar%GREEN%ry%CONTINUE%
-ItemDisplay[(SET) xts ID]:%DARK_GREEN%Ancient Shield%NL%%GREEN%Isenhart's%WHITE%P%DARK_GREEN%ar%GREEN%ry%CONTINUE%
-ItemDisplay[(SET) uts ID]:%DARK_GREEN%Ward%NL%%GREEN%Isenhart's%WHITE%P%DARK_GREEN%ar%GREEN%ry%CONTINUE%
-ItemDisplay[(SET) uts STAT152>0 FCR>39 FBR>29 ID]:%RED%%TEAL%Ward%NL%%GREEN%Taebaek's%PURPLE%G%RED%l%ORANGE%o%GOLD%r%WHITE%y%CONTINUE%
-ItemDisplay[(SET) hbl ID]:%DARK_GREEN%Plated Belt%NL%%GREEN%Sigon's%WHITE%W%DARK_GREEN%ra%GREEN%p%CONTINUE%
-ItemDisplay[(SET) zhb ID]:%DARK_GREEN%War Belt%NL%%GREEN%Sigon's%WHITE%W%DARK_GREEN%ra%GREEN%p%CONTINUE%
-ItemDisplay[(SET) uhc ID]:%DARK_GREEN%Colossus Girdle%NL%%GREEN%Sigon's%WHITE%W%DARK_GREEN%ra%GREEN%p%CONTINUE%
-ItemDisplay[(SET) zhb STR>19 LRES>25 FRES>22 ID]:%RED%%TEAL%War Belt%NL%%GREEN%ImmortalKing's%PURPLE%D%RED%e%ORANGE%t%GOLD%a%WHITE%i%GOLD%l%CONTINUE%
-ItemDisplay[(SET) uhc STR>19 LRES>25 FRES>22 ID]:%RED%%TEAL%Colossus Girdle%NL%%GREEN%ImmortalKing's%PURPLE%D%RED%e%ORANGE%t%GOLD%a%WHITE%i%GOLD%l%CONTINUE%
-ItemDisplay[(SET) hbt ID]:%DARK_GREEN%Greaves%NL%%GREEN%Sigon's%WHITE%Sa%DARK_GREEN%bo%GREEN%t%CONTINUE%
-ItemDisplay[(SET) xhb ID]:%DARK_GREEN%War Boots%NL%%GREEN%Sigon's%WHITE%Sa%DARK_GREEN%bo%GREEN%t%CONTINUE%
-ItemDisplay[(SET) uhb ID]:%DARK_GREEN%Myrmidon Greaves%NL%%GREEN%Sigon's%WHITE%Sa%DARK_GREEN%bo%GREEN%t%CONTINUE%
-ItemDisplay[(SET) xhb AR>89 LIFE>37 FRW>39 ID]:%RED%%TEAL%War Boots%NL%%GREEN%ImmortalKing's%PURPLE%P%RED%i%ORANGE%l%GOLD%l%WHITE%a%GOLD%r%CONTINUE%
-ItemDisplay[(SET) uhb AR>89 LIFE>37 FRW>39 ID]:%RED%%TEAL%Myrmidon Greaves%NL%%GREEN%ImmortalKing's%PURPLE%P%RED%i%ORANGE%l%GOLD%l%WHITE%a%GOLD%r%CONTINUE%
-ItemDisplay[(SET) hgl ID]:%DARK_GREEN%Gauntlets%NL%%GREEN%Sigon's%WHITE%G%DARK_GREEN%a%GREEN%ge%CONTINUE%
-ItemDisplay[(SET) xhg ID]:%DARK_GREEN%War Gauntlets%NL%%GREEN%Sigon's%WHITE%G%DARK_GREEN%a%GREEN%ge%CONTINUE%
-ItemDisplay[(SET) uhg ID]:%DARK_GREEN%Ogre Gauntlets%NL%%GREEN%Sigon's%WHITE%G%DARK_GREEN%a%GREEN%ge%CONTINUE%
-ItemDisplay[(SET) xhg STR>19 DEX>19 ID]:%RED%%TEAL%War Gauntlets%NL%%GREEN%ImmortalKing's%PURPLE%F%RED%o%ORANGE%r%GOLD%g%WHITE%e%CONTINUE%
-ItemDisplay[(SET) uhg STR>19 DEX>19 ID]:%RED%%TEAL%Ogre Gauntlets%NL%%GREEN%ImmortalKing's%PURPLE%F%RED%o%ORANGE%r%GOLD%g%WHITE%e%CONTINUE%
-ItemDisplay[(SET) hlm ID]:%DARK_GREEN%Helm%NL%%GREEN%Berserker's%WHITE%He%DARK_GREEN%ad%WHITE%ge%GREEN%ar%CONTINUE%
-ItemDisplay[(SET) xlm ID]:%DARK_GREEN%Casque%NL%%GREEN%Berserker's%WHITE%He%DARK_GREEN%ad%WHITE%ge%GREEN%ar%CONTINUE%
-ItemDisplay[(SET) ulm ID]:%DARK_GREEN%Armet%NL%%GREEN%Berserker's%WHITE%He%DARK_GREEN%ad%WHITE%ge%GREEN%ar%CONTINUE%
-ItemDisplay[(SET) kit ID]:%DARK_GREEN%Kite Shield%NL%%GREEN%Milabrega's%WHITE%O%DARK_GREEN%r%GREEN%b%CONTINUE%
-ItemDisplay[(SET) xit ID]:%DARK_GREEN%Dragon Shield%NL%%GREEN%Milabrega's%WHITE%O%DARK_GREEN%r%GREEN%b%CONTINUE%
-ItemDisplay[(SET) uit ID]:%DARK_GREEN%Monarch%NL%%GREEN%Milabrega's%WHITE%O%DARK_GREEN%r%GREEN%b%CONTINUE%
-ItemDisplay[(SET) lbb ID]:%DARK_GREEN%Long Battle Bow%NL%%GREEN%Vidala's%WHITE%B%DARK_GREEN%ar%GREEN%b%CONTINUE%
-ItemDisplay[(SET) 8l8 ID]:%DARK_GREEN%Long Siege Bow%NL%%GREEN%Vidala's%WHITE%B%DARK_GREEN%ar%GREEN%b%CONTINUE%
-ItemDisplay[(SET) 6l7 ID]:%DARK_GREEN%Crusader Bow%NL%%GREEN%Vidala's%WHITE%B%DARK_GREEN%ar%GREEN%b%CONTINUE%
-ItemDisplay[(SET) lbl ID]:%DARK_GREEN%Sash%NL%%GREEN%Death's%WHITE%Gu%DARK_GREEN%ar%GREEN%d%CONTINUE%
-ItemDisplay[(SET) zlb ID]:%DARK_GREEN%Demonhide Sash%NL%%GREEN%Death's%WHITE%Gu%DARK_GREEN%ar%GREEN%d%CONTINUE%
-ItemDisplay[(SET) ulc ID]:%DARK_GREEN%Spiderweb Sash%NL%%GREEN%Death's%WHITE%Gu%DARK_GREEN%ar%GREEN%d%CONTINUE%
-ItemDisplay[(SET) lbt ID]:%DARK_GREEN%Boots%NL%%GREEN%Tancred's%WHITE%Ho%DARK_GREEN%bn%WHITE%ai%GREEN%ls%CONTINUE%
-ItemDisplay[(SET) xlb ID]:%DARK_GREEN%Demonhide Boots%NL%%GREEN%Tancred's%WHITE%Ho%DARK_GREEN%bn%WHITE%ai%GREEN%ls%CONTINUE%
-ItemDisplay[(SET) ulb ID]:%DARK_GREEN%Wyrmhide Boots%NL%%GREEN%Tancred's%WHITE%Ho%DARK_GREEN%bn%WHITE%ai%GREEN%ls%CONTINUE%
+ItemDisplay[(SET) urn LIFE>14 MANA>14 ID]:%DARK_GREEN%Corona%NL%%GREEN%Milabrega's %WHITE%Di%DARK_GREEN%ad%WHITE%em%CONTINUE%
+ItemDisplay[(SET) xrn AR>199 REPLIFE>29 CRES>36 ID]:%RED%%TEAL%Grand Crown%NL%%GREEN%Hwanin's %PURPLE%S%RED%p%ORANGE%l%GOLD%e%WHITE%n%GOLD%d%ORANGE%o%PURPLE%r%CONTINUE%
+ItemDisplay[(SET) urn AR>199 REPLIFE>29 CRES>36 ID]:%RED%%TEAL%Corona%NL%%GREEN%Hwanin's %PURPLE%S%RED%p%ORANGE%l%GOLD%e%WHITE%n%GOLD%d%ORANGE%o%PURPLE%r%CONTINUE%
+ItemDisplay[(SET) urn RES>14 STAT234>0 MFIND>29 SOCK>1 ID]:%RED%%TEAL%Corona%NL%%GREEN%Griswold's %PURPLE%V%RED%a%ORANGE%l%GOLD%o%WHITE%r%CONTINUE%
+ItemDisplay[(SET) dgr ID]:%DARK_GREEN%Dagger%NL%%GREEN%Infernal %WHITE%S%DARK_GREEN%p%WHITE%i%GREEN%k%WHITE%e%CONTINUE%
+ItemDisplay[(SET) 9dg ID]:%DARK_GREEN%Poignard%NL%%GREEN%Infernal %WHITE%S%DARK_GREEN%p%WHITE%i%GREEN%k%WHITE%e%CONTINUE%
+ItemDisplay[(SET) 7dg ID]:%DARK_GREEN%Bone Knife%NL%%GREEN%Infernal %WHITE%S%DARK_GREEN%p%WHITE%i%GREEN%k%WHITE%e%CONTINUE%
+ItemDisplay[(SET) dr8 ID]:%RED%%TEAL%Hunter's Guise%NL%%GREEN%Aldur's %PURPLE%S%RED%t%ORANGE%o%GOLD%n%WHITE%y %GOLD%G%ORANGE%a%RED%z%PURPLE%e%CONTINUE%
+ItemDisplay[(SET) drd ID]:%RED%%TEAL%Earth Spirit%NL%%GREEN%Aldur's %PURPLE%S%RED%t%ORANGE%o%GOLD%n%WHITE%y %GOLD%G%ORANGE%a%RED%z%PURPLE%e%CONTINUE%
+ItemDisplay[(SET) fhl ID]:%DARK_GREEN%Full Helm%NL%%GREEN%Isenhart's %WHITE%H%DARK_GREEN%or%GREEN%ns%CONTINUE%
+ItemDisplay[(SET) xhl ID]:%DARK_GREEN%Basinet%NL%%GREEN%Isenhart's %WHITE%H%DARK_GREEN%or%GREEN%ns%CONTINUE%
+ItemDisplay[(SET) uhl ID]:%DARK_GREEN%Giant Conch%NL%%GREEN%Isenhart's %WHITE%H%DARK_GREEN%or%GREEN%ns%CONTINUE%
+ItemDisplay[(SET) xhl ALLSK>0 REPLIFE>14 LRES>14 FRES>14 ID]:%RED%%TEAL%Basinet%NL%%GREEN%Sazabi's %PURPLE%M%RED%e%ORANGE%n%GOLD%t%WHITE%a%GOLD%l %ORANGE%S%RED%h%PURPLE%e%ORANGE%a%GOLD%t%WHITE%h%CONTINUE%
+ItemDisplay[(SET) uhl ALLSK>0 REPLIFE>14 LRES>14 FRES>14 ID]:%RED%%TEAL%Giant Conch%NL%%GREEN%Sazabi's %PURPLE%M%RED%e%ORANGE%n%GOLD%t%WHITE%a%GOLD%l %ORANGE%S%RED%h%PURPLE%e%ORANGE%a%GOLD%t%WHITE%h%CONTINUE%
+ItemDisplay[(SET) xul TABSK18>0 ID]:%RED%%TEAL%Chaos Armor%NL%%GREEN%Trang-Oul's %PURPLE%S%RED%c%ORANGE%a%GOLD%l%WHITE%e%GOLD%s%CONTINUE%
+ItemDisplay[(SET) uul TABSK18>0 ID]:%RED%%TEAL%Shadow Plate%NL%%GREEN%Trang-Oul's %PURPLE%S%RED%c%ORANGE%a%GOLD%l%WHITE%e%GOLD%s%CONTINUE%
+ItemDisplay[(SET) uul TABSK42>0 ID]:%RED%%TEAL%Shadow Plate%NL%%GREEN%Aldur's %PURPLE%D%RED%e%ORANGE%c%GOLD%e%WHITE%p%GOLD%t%ORANGE%i%RED%o%PURPLE%n%CONTINUE%
+ItemDisplay[(SET) ful ID !(TABSK18>0 OR TABSK42>0)]:%DARK_GREEN%Full Plate Mail%NL%%GREEN%Tancred's %WHITE%Sp%DARK_GREEN%in%GREEN%e%CONTINUE%
+ItemDisplay[(SET) xul ID !(TABSK18>0 OR TABSK42>0)]:%DARK_GREEN%Chaos Armor%NL%%GREEN%Tancred's %WHITE%Sp%DARK_GREEN%in%GREEN%e%CONTINUE%
+ItemDisplay[(SET) uul ID !(TABSK18>0 OR TABSK42>0)]:%DARK_GREEN%Shadow Plate%NL%%GREEN%Tancred's %WHITE%Sp%DARK_GREEN%in%GREEN%e%CONTINUE%
+ItemDisplay[(SET) ghm ID]:%DARK_GREEN%Great Helm%NL%%GREEN%Sigon's %WHITE%Vi%DARK_GREEN%so%GREEN%r%CONTINUE%
+ItemDisplay[(SET) xhm ID]:%DARK_GREEN%Winged Helm%NL%%GREEN%Sigon's %WHITE%Vi%DARK_GREEN%so%GREEN%r%CONTINUE%
+ItemDisplay[(SET) uhm ID]:%DARK_GREEN%Spired Helm%NL%%GREEN%Sigon's %WHITE%Vi%DARK_GREEN%so%GREEN%r%CONTINUE%
+ItemDisplay[(SET) xhm FHR>29 STAT136>0 STAT141>0 ID]:%RED%%TEAL%Winged Helm%NL%%GREEN%Guillaume's %PURPLE%F%RED%a%ORANGE%c%GOLD%e%CONTINUE%
+ItemDisplay[(SET) uhm FHR>29 STAT136>0 STAT141>0 ID]:%RED%%TEAL%Spired Helm%NL%%GREEN%Guillaume's %PURPLE%F%RED%a%ORANGE%c%GOLD%e%CONTINUE%
+ItemDisplay[(SET) uhm ALLSK>0 FHR>23 STR>9 DEX>9 ID]:%RED%%TEAL%Spired Helm%NL%%GREEN%Ondal's %PURPLE%A%RED%l%ORANGE%m%GOLD%i%WHITE%g%GOLD%h%ORANGE%t%RED%y%CONTINUE%
+ItemDisplay[(SET) gsc ID]:%DARK_GREEN%Grand Scepter%NL%%GREEN%Civerb's %WHITE%C%DARK_GREEN%ud%WHITE%ge%GREEN%l%CONTINUE%
+ItemDisplay[(SET) 9qs ID]:%DARK_GREEN%Holy Water Sprinkler%NL%%GREEN%Civerb's %WHITE%C%DARK_GREEN%ud%WHITE%ge%GREEN%l%CONTINUE%
+ItemDisplay[(SET) 7qs ID]:%DARK_GREEN%Seraph Rod%NL%%GREEN%Civerb's %WHITE%C%DARK_GREEN%ud%WHITE%ge%GREEN%l%CONTINUE%
+ItemDisplay[(SET) gth ID]:%DARK_GREEN%Gothic Plate%NL%%GREEN%Sigon's %WHITE%Sh%DARK_GREEN%el%WHITE%te%GREEN%r%CONTINUE%
+ItemDisplay[(SET) xth ID]:%DARK_GREEN%Embossed Plate%NL%%GREEN%Sigon's %WHITE%Sh%DARK_GREEN%el%WHITE%te%GREEN%r%CONTINUE%
+ItemDisplay[(SET) uth ID]:%DARK_GREEN%Lacquered Plate%NL%%GREEN%Sigon's %WHITE%Sh%DARK_GREEN%el%WHITE%te%GREEN%r%CONTINUE%
+ItemDisplay[(SET) uth MFIND>49 FRES>39 LRES>39 CRES>39 ID]:%RED%%TEAL%Lacquered Plate%NL%%GREEN%TalRasha's %PURPLE%G%RED%u%ORANGE%a%GOLD%r%WHITE%di%GOLD%an%ORANGE%s%RED%h%PURPLE%i%TAN%p%CONTINUE%
+ItemDisplay[(SET) gts ID]:%DARK_GREEN%Gothic Shield%NL%%GREEN%Isenhart's %WHITE%P%DARK_GREEN%ar%GREEN%ry%CONTINUE%
+ItemDisplay[(SET) xts ID]:%DARK_GREEN%Ancient Shield%NL%%GREEN%Isenhart's %WHITE%P%DARK_GREEN%ar%GREEN%ry%CONTINUE%
+ItemDisplay[(SET) uts ID]:%DARK_GREEN%Ward%NL%%GREEN%Isenhart's %WHITE%P%DARK_GREEN%ar%GREEN%ry%CONTINUE%
+ItemDisplay[(SET) uts STAT152>0 FCR>39 FBR>29 ID]:%RED%%TEAL%Ward%NL%%GREEN%Taebaek's %PURPLE%G%RED%l%ORANGE%o%GOLD%r%WHITE%y%CONTINUE%
+ItemDisplay[(SET) hbl ID]:%DARK_GREEN%Plated Belt%NL%%GREEN%Sigon's %WHITE%W%DARK_GREEN%ra%GREEN%p%CONTINUE%
+ItemDisplay[(SET) zhb ID]:%DARK_GREEN%War Belt%NL%%GREEN%Sigon's %WHITE%W%DARK_GREEN%ra%GREEN%p%CONTINUE%
+ItemDisplay[(SET) uhc ID]:%DARK_GREEN%Colossus Girdle%NL%%GREEN%Sigon's %WHITE%W%DARK_GREEN%ra%GREEN%p%CONTINUE%
+ItemDisplay[(SET) zhb STR>19 LRES>25 FRES>22 ID]:%RED%%TEAL%War Belt%NL%%GREEN%ImmortalKing's %PURPLE%D%RED%e%ORANGE%t%GOLD%a%WHITE%i%GOLD%l%CONTINUE%
+ItemDisplay[(SET) uhc STR>19 LRES>25 FRES>22 ID]:%RED%%TEAL%Colossus Girdle%NL%%GREEN%ImmortalKing's %PURPLE%D%RED%e%ORANGE%t%GOLD%a%WHITE%i%GOLD%l%CONTINUE%
+ItemDisplay[(SET) hbt ID]:%DARK_GREEN%Greaves%NL%%GREEN%Sigon's %WHITE%Sa%DARK_GREEN%bo%GREEN%t%CONTINUE%
+ItemDisplay[(SET) xhb ID]:%DARK_GREEN%War Boots%NL%%GREEN%Sigon's %WHITE%Sa%DARK_GREEN%bo%GREEN%t%CONTINUE%
+ItemDisplay[(SET) uhb ID]:%DARK_GREEN%Myrmidon Greaves%NL%%GREEN%Sigon's %WHITE%Sa%DARK_GREEN%bo%GREEN%t%CONTINUE%
+ItemDisplay[(SET) xhb AR>89 LIFE>37 FRW>39 ID]:%RED%%TEAL%War Boots%NL%%GREEN%ImmortalKing's %PURPLE%P%RED%i%ORANGE%l%GOLD%l%WHITE%a%GOLD%r%CONTINUE%
+ItemDisplay[(SET) uhb AR>89 LIFE>37 FRW>39 ID]:%RED%%TEAL%Myrmidon Greaves%NL%%GREEN%ImmortalKing's %PURPLE%P%RED%i%ORANGE%l%GOLD%l%WHITE%a%GOLD%r%CONTINUE%
+ItemDisplay[(SET) hgl ID]:%DARK_GREEN%Gauntlets%NL%%GREEN%Sigon's %WHITE%G%DARK_GREEN%a%GREEN%ge%CONTINUE%
+ItemDisplay[(SET) xhg ID]:%DARK_GREEN%War Gauntlets%NL%%GREEN%Sigon's %WHITE%G%DARK_GREEN%a%GREEN%ge%CONTINUE%
+ItemDisplay[(SET) uhg ID]:%DARK_GREEN%Ogre Gauntlets%NL%%GREEN%Sigon's %WHITE%G%DARK_GREEN%a%GREEN%ge%CONTINUE%
+ItemDisplay[(SET) xhg STR>19 DEX>19 ID]:%RED%%TEAL%War Gauntlets%NL%%GREEN%ImmortalKing's %PURPLE%F%RED%o%ORANGE%r%GOLD%g%WHITE%e%CONTINUE%
+ItemDisplay[(SET) uhg STR>19 DEX>19 ID]:%RED%%TEAL%Ogre Gauntlets%NL%%GREEN%ImmortalKing's %PURPLE%F%RED%o%ORANGE%r%GOLD%g%WHITE%e%CONTINUE%
+ItemDisplay[(SET) hlm ID]:%DARK_GREEN%Helm%NL%%GREEN%Berserker's %WHITE%He%DARK_GREEN%ad%WHITE%ge%GREEN%ar%CONTINUE%
+ItemDisplay[(SET) xlm ID]:%DARK_GREEN%Casque%NL%%GREEN%Berserker's %WHITE%He%DARK_GREEN%ad%WHITE%ge%GREEN%ar%CONTINUE%
+ItemDisplay[(SET) ulm ID]:%DARK_GREEN%Armet%NL%%GREEN%Berserker's %WHITE%He%DARK_GREEN%ad%WHITE%ge%GREEN%ar%CONTINUE%
+ItemDisplay[(SET) kit ID]:%DARK_GREEN%Kite Shield%NL%%GREEN%Milabrega's %WHITE%O%DARK_GREEN%r%GREEN%b%CONTINUE%
+ItemDisplay[(SET) xit ID]:%DARK_GREEN%Dragon Shield%NL%%GREEN%Milabrega's %WHITE%O%DARK_GREEN%r%GREEN%b%CONTINUE%
+ItemDisplay[(SET) uit ID]:%DARK_GREEN%Monarch%NL%%GREEN%Milabrega's %WHITE%O%DARK_GREEN%r%GREEN%b%CONTINUE%
+ItemDisplay[(SET) lbb ID]:%DARK_GREEN%Long Battle Bow%NL%%GREEN%Vidala's %WHITE%B%DARK_GREEN%ar%GREEN%b%CONTINUE%
+ItemDisplay[(SET) 8l8 ID]:%DARK_GREEN%Long Siege Bow%NL%%GREEN%Vidala's %WHITE%B%DARK_GREEN%ar%GREEN%b%CONTINUE%
+ItemDisplay[(SET) 6l7 ID]:%DARK_GREEN%Crusader Bow%NL%%GREEN%Vidala's %WHITE%B%DARK_GREEN%ar%GREEN%b%CONTINUE%
+ItemDisplay[(SET) lbl ID]:%DARK_GREEN%Sash%NL%%GREEN%Death's %WHITE%Gu%DARK_GREEN%ar%GREEN%d%CONTINUE%
+ItemDisplay[(SET) zlb ID]:%DARK_GREEN%Demonhide Sash%NL%%GREEN%Death's %WHITE%Gu%DARK_GREEN%ar%GREEN%d%CONTINUE%
+ItemDisplay[(SET) ulc ID]:%DARK_GREEN%Spiderweb Sash%NL%%GREEN%Death's %WHITE%Gu%DARK_GREEN%ar%GREEN%d%CONTINUE%
+ItemDisplay[(SET) lbt ID]:%DARK_GREEN%Boots%NL%%GREEN%Tancred's %WHITE%Ho%DARK_GREEN%bn%WHITE%ai%GREEN%ls%CONTINUE%
+ItemDisplay[(SET) xlb ID]:%DARK_GREEN%Demonhide Boots%NL%%GREEN%Tancred's %WHITE%Ho%DARK_GREEN%bn%WHITE%ai%GREEN%ls%CONTINUE%
+ItemDisplay[(SET) ulb ID]:%DARK_GREEN%Wyrmhide Boots%NL%%GREEN%Tancred's %WHITE%Ho%DARK_GREEN%bn%WHITE%ai%GREEN%ls%CONTINUE%
 ItemDisplay[(SET) xlb FRW>29 STAT153>0 STAT11>0 ID]:%RED%%TEAL%Demonhide Boots%NL%%GREEN%Disciple's %PURPLE%Ri%RED%te %ORANGE%o%GOLD%f %WHITE%Pa%GOLD%ss%ORANGE%ag%PURPLE%e%CONTINUE%
 ItemDisplay[(SET) ulb FRW>29 STAT153>0 STAT11>0 ID]:%RED%%TEAL%Wyrmhide Boots%NL%%GREEN%Disciple's %PURPLE%Ri%RED%te %ORANGE%o%GOLD%f %WHITE%Pa%GOLD%ss%ORANGE%ag%PURPLE%e%CONTINUE%
-ItemDisplay[(SET) lea ID]:%DARK_GREEN%Leather Armor%NL%%GREEN%Vidala's%WHITE%A%DARK_GREEN%mb%WHITE%us%GREEN%h%CONTINUE%
-ItemDisplay[(SET) xea ID]:%DARK_GREEN%Serpentskin%NL%%GREEN%Vidala's%WHITE%A%DARK_GREEN%mb%WHITE%us%GREEN%h%CONTINUE%
-ItemDisplay[(SET) uea ID]:%DARK_GREEN%Wyrmhide%NL%%GREEN%Vidala's%WHITE%A%DARK_GREEN%mb%WHITE%us%GREEN%h%CONTINUE%
-ItemDisplay[(SET) lgl ID]:%DARK_GREEN%Leather Gloves%NL%%GREEN%Death's%WHITE%Ha%DARK_GREEN%n%GREEN%d%CONTINUE%
-ItemDisplay[(SET) xlg ID]:%DARK_GREEN%Demonhide Gloves%NL%%GREEN%Death's%WHITE%Ha%DARK_GREEN%n%GREEN%d%CONTINUE%
-ItemDisplay[(SET) ulg ID]:%DARK_GREEN%Bramble Mitts%NL%%GREEN%Death's%WHITE%Ha%DARK_GREEN%n%GREEN%d%CONTINUE%
+ItemDisplay[(SET) lea ID]:%DARK_GREEN%Leather Armor%NL%%GREEN%Vidala's %WHITE%A%DARK_GREEN%mb%WHITE%us%GREEN%h%CONTINUE%
+ItemDisplay[(SET) xea ID]:%DARK_GREEN%Serpentskin%NL%%GREEN%Vidala's %WHITE%A%DARK_GREEN%mb%WHITE%us%GREEN%h%CONTINUE%
+ItemDisplay[(SET) uea ID]:%DARK_GREEN%Wyrmhide%NL%%GREEN%Vidala's %WHITE%A%DARK_GREEN%mb%WHITE%us%GREEN%h%CONTINUE%
+ItemDisplay[(SET) lgl ID]:%DARK_GREEN%Leather Gloves%NL%%GREEN%Death's %WHITE%Ha%DARK_GREEN%n%GREEN%d%CONTINUE%
+ItemDisplay[(SET) xlg ID]:%DARK_GREEN%Demonhide Gloves%NL%%GREEN%Death's %WHITE%Ha%DARK_GREEN%n%GREEN%d%CONTINUE%
+ItemDisplay[(SET) ulg ID]:%DARK_GREEN%Bramble Mitts%NL%%GREEN%Death's %WHITE%Ha%DARK_GREEN%n%GREEN%d%CONTINUE%
 ItemDisplay[(SET) ulg STAT121>149 ID]:%RED%%TEAL%Bramble Mitts%NL%%GREEN%Disciple's %PURPLE%L%RED%ay%ORANGE%in%WHITE%g o%GOLD%f H%WHITE%a%ORANGE%nd%PURPLE%s%CONTINUE%
-ItemDisplay[(SET) lrg ID]:%DARK_GREEN%Large Shield%NL%%GREEN%Civerb's%WHITE%W%DARK_GREEN%ar%GREEN%d%CONTINUE%
-ItemDisplay[(SET) xrg ID]:%DARK_GREEN%Scutum%NL%%GREEN%Civerb's%WHITE%W%DARK_GREEN%ar%GREEN%d%CONTINUE%
-ItemDisplay[(SET) urg ID]:%DARK_GREEN%Hyperion%NL%%GREEN%Civerb's%WHITE%W%DARK_GREEN%ar%GREEN%d%CONTINUE%
-ItemDisplay[(SET) lsd ID]:%DARK_GREEN%Long Sword%NL%%GREEN%Cleglaw's%WHITE%To%DARK_GREEN%ot%GREEN%h%CONTINUE%
-ItemDisplay[(SET) 9ls ID]:%DARK_GREEN%Rune Sword%NL%%GREEN%Cleglaw's%WHITE%To%DARK_GREEN%ot%GREEN%h%CONTINUE%
-ItemDisplay[(SET) 7ls ID]:%DARK_GREEN%Cryptic Sword%NL%%GREEN%Cleglaw's%WHITE%To%DARK_GREEN%ot%GREEN%h%CONTINUE%
-ItemDisplay[(SET) 7ls STAT152>0 IAS>39 STAT121>0 ID]:%RED%%TEAL%Cryptic Sword%NL%%GREEN%Sazabi's%PURPLE%C%RED%ob%ORANGE%al%GOLD%t %WHITE%Re%GOLD%de%ORANGE%e%GOLD%m%WHITE%e%RED%r%CONTINUE%
-ItemDisplay[(SET) ne9 ID]:%RED%%TEAL%Cantor Trophy%NL%%GREEN%Trang-Oul's%PURPLE%W%RED%i%ORANGE%n%WHITE%g%CONTINUE%
-ItemDisplay[(SET) nee ID]:%RED%%TEAL%Succubae Skull%NL%%GREEN%Trang-Oul's%PURPLE%W%RED%i%ORANGE%n%WHITE%g%CONTINUE%
-ItemDisplay[(SET) paf ID]:%RED%%TEAL%Vortex Shield%NL%%GREEN%Griswold's%PURPLE%H%RED%on%ORANGE%or%CONTINUE%
-ItemDisplay[(SET) oba ID]:%RED%%TEAL%Swirling Crystal%NL%%GREEN%TalRasha's%PURPLE%Li%RED%dl%ORANGE%es%GOLD%s%WHITE%E%GOLD%y%ORANGE%e%CONTINUE%
-ItemDisplay[(SET) obf ID]:%RED%%TEAL%Dimensional Shard%NL%%GREEN%TalRasha's%PURPLE%Li%RED%dl%ORANGE%es%GOLD%s%WHITE%E%GOLD%y%ORANGE%e%CONTINUE%
-ItemDisplay[(SET) ult ID]:%RED%%TEAL%Hellforge Plate%NL%%GREEN%Naj's%PURPLE%Li%RED%gh%ORANGE%t %GOLD%Pl%WHITE%at%PURPLE%e%CONTINUE%
-ItemDisplay[(SET) mbl LIFE>19 CRES>19 ID]:%DARK_GREEN%Belt%NL%%GREEN%Hsarus'%GREEN%Ir%DARK_GREEN%on %WHITE%S%DARK_GREEN%ta%WHITE%y%CONTINUE%
+ItemDisplay[(SET) lrg ID]:%DARK_GREEN%Large Shield%NL%%GREEN%Civerb's %WHITE%W%DARK_GREEN%ar%GREEN%d%CONTINUE%
+ItemDisplay[(SET) xrg ID]:%DARK_GREEN%Scutum%NL%%GREEN%Civerb's %WHITE%W%DARK_GREEN%ar%GREEN%d%CONTINUE%
+ItemDisplay[(SET) urg ID]:%DARK_GREEN%Hyperion%NL%%GREEN%Civerb's %WHITE%W%DARK_GREEN%ar%GREEN%d%CONTINUE%
+ItemDisplay[(SET) lsd ID]:%DARK_GREEN%Long Sword%NL%%GREEN%Cleglaw's %WHITE%To%DARK_GREEN%ot%GREEN%h%CONTINUE%
+ItemDisplay[(SET) 9ls ID]:%DARK_GREEN%Rune Sword%NL%%GREEN%Cleglaw's %WHITE%To%DARK_GREEN%ot%GREEN%h%CONTINUE%
+ItemDisplay[(SET) 7ls ID]:%DARK_GREEN%Cryptic Sword%NL%%GREEN%Cleglaw's %WHITE%To%DARK_GREEN%ot%GREEN%h%CONTINUE%
+ItemDisplay[(SET) 7ls STAT152>0 IAS>39 STAT121>0 ID]:%RED%%TEAL%Cryptic Sword%NL%%GREEN%Sazabi's %PURPLE%C%RED%ob%ORANGE%al%GOLD%t %WHITE%Re%GOLD%de%ORANGE%e%GOLD%m%WHITE%e%RED%r%CONTINUE%
+ItemDisplay[(SET) ne9 ID]:%RED%%TEAL%Cantor Trophy%NL%%GREEN%Trang-Oul's %PURPLE%W%RED%i%ORANGE%n%WHITE%g%CONTINUE%
+ItemDisplay[(SET) nee ID]:%RED%%TEAL%Succubae Skull%NL%%GREEN%Trang-Oul's %PURPLE%W%RED%i%ORANGE%n%WHITE%g%CONTINUE%
+ItemDisplay[(SET) paf ID]:%RED%%TEAL%Vortex Shield%NL%%GREEN%Griswold's %PURPLE%H%RED%on%ORANGE%or%CONTINUE%
+ItemDisplay[(SET) oba ID]:%RED%%TEAL%Swirling Crystal%NL%%GREEN%TalRasha's %PURPLE%Li%RED%dl%ORANGE%es%GOLD%s%WHITE%E%GOLD%y%ORANGE%e%CONTINUE%
+ItemDisplay[(SET) obf ID]:%RED%%TEAL%Dimensional Shard%NL%%GREEN%TalRasha's %PURPLE%Li%RED%dl%ORANGE%es%GOLD%s%WHITE%E%GOLD%y%ORANGE%e%CONTINUE%
+ItemDisplay[(SET) ult ID]:%RED%%TEAL%Hellforge Plate%NL%%GREEN%Naj's %PURPLE%Li%RED%gh%ORANGE%t %GOLD%Pl%WHITE%at%PURPLE%e%CONTINUE%
+ItemDisplay[(SET) mbl LIFE>19 CRES>19 ID]:%DARK_GREEN%Belt%NL%%GREEN%Hsarus' %GREEN%Ir%DARK_GREEN%on %WHITE%S%DARK_GREEN%ta%WHITE%y%CONTINUE%
 ItemDisplay[(SET) mbl STAT117>0 (STAT50>0 OR STAT51>0) ID]:%GREEN%%SAGE%Belt%NL%%GREEN%Hwanin's %GREEN%B%GOLD%le%WHITE%ss%GREEN%in%PURPLE%g%CONTINUE%
-ItemDisplay[(SET) zmb LIFE>19 CRES>19 ID]:%DARK_GREEN%Mesh Belt%NL%%GREEN%Hsarus'%GREEN%Ir%DARK_GREEN%on %WHITE%S%DARK_GREEN%ta%WHITE%y%CONTINUE%
+ItemDisplay[(SET) zmb LIFE>19 CRES>19 ID]:%DARK_GREEN%Mesh Belt%NL%%GREEN%Hsarus' %GREEN%Ir%DARK_GREEN%on %WHITE%S%DARK_GREEN%ta%WHITE%y%CONTINUE%
 ItemDisplay[(SET) zmb STAT117>0 (STAT50>0 OR STAT51>0) ID]:%GREEN%%SAGE%Mesh Belt%NL%%GREEN%Hwanin's %GREEN%B%GOLD%le%WHITE%ss%GREEN%in%PURPLE%g%CONTINUE%
 ItemDisplay[(SET) umc LIFE>19 CRES>19 ID]:%DARK_GREEN%Mithril Coil%NL%%GREEN%Hsarus'%GREEN%Ir%DARK_GREEN%on %WHITE%S%DARK_GREEN%ta%WHITE%y%CONTINUE%
 ItemDisplay[(SET) umc STAT117>0 (STAT50>0 OR STAT51>0) ID]:%GREEN%%SAGE%Mithril Coil%NL%%GREEN%Hwanin's %GREEN%B%GOLD%le%WHITE%ss%GREEN%in%PURPLE%g%CONTINUE%
-ItemDisplay[(SET) zmb DEX>19 MANA>19 DTM>36 MFIND>9 ID]:%RED%%TEAL%Mesh Belt%NL%%GREEN%TalRasha's%PURPLE%Fi%RED%ne%ORANGE%-S%GOLD%pu%WHITE%n%GOLD%C%ORANGE%l%RED%o%WHITE%t%PURPLE%h%CONTINUE%
-ItemDisplay[(SET) umc DEX>19 MANA>19 DTM>36 MFIND>9 ID]:%RED%%TEAL%Mithril Coil%NL%%GREEN%TalRasha's%PURPLE%Fi%RED%ne%ORANGE%-S%GOLD%pu%WHITE%n%GOLD%C%ORANGE%l%RED%o%WHITE%t%PURPLE%h%CONTINUE%
+ItemDisplay[(SET) zmb DEX>19 MANA>19 DTM>36 MFIND>9 ID]:%RED%%TEAL%Mesh Belt%NL%%GREEN%TalRasha's %PURPLE%Fi%RED%ne%ORANGE%-S%GOLD%pu%WHITE%n%GOLD%C%ORANGE%l%RED%o%WHITE%t%PURPLE%h%CONTINUE%
+ItemDisplay[(SET) umc DEX>19 MANA>19 DTM>36 MFIND>9 ID]:%RED%%TEAL%Mithril Coil%NL%%GREEN%TalRasha's %PURPLE%Fi%RED%ne%ORANGE%-S%GOLD%pu%WHITE%n%GOLD%C%ORANGE%l%RED%o%WHITE%t%PURPLE%h%CONTINUE%
 ItemDisplay[(SET) umc STR>9 DEX>9 RES>14 ID]:%PURPLE%Mithril Coil%NL%%GREEN%Disciple's %GREEN%Cr%PURPLE%ed%RED%en%ORANGE%du%GOLD%m%CONTINUE%
-ItemDisplay[(SET) spl ID]:%DARK_GREEN%Splint Mail%NL%%GREEN%Berserker's%WHITE%Ha%DARK_GREEN%ub%WHITE%er%GREEN%k%CONTINUE%
-ItemDisplay[(SET) xpl ID]:%DARK_GREEN%Russet Armor%NL%%GREEN%Berserker's%WHITE%Ha%DARK_GREEN%ub%WHITE%er%GREEN%k%CONTINUE%
-ItemDisplay[(SET) upl ID]:%DARK_GREEN%Balrog Skin%NL%%GREEN%Berserker's%WHITE%Ha%DARK_GREEN%ub%WHITE%er%GREEN%k%CONTINUE%
-ItemDisplay[(SET) upl FHR>29 STAT121>99 ID]:%RED%%TEAL%Balrog Skin%NL%%GREEN%Sazabi's%PURPLE%G%RED%ho%ORANGE%st %GOLD%L%WHITE%ib%GOLD%er%ORANGE%a%RED%t%PURPLE%o%TAN%r%CONTINUE%
-ItemDisplay[(SET) tbl LIFE>19 STAT31>0 !STAT153>0 ID]:%DARK_GREEN%Heavy Belt%NL%%GREEN%Infernal%WHITE%S%DARK_GREEN%ig%GREEN%n%CONTINUE%
-ItemDisplay[(SET) ztb LIFE>19 STAT31>0 !STAT153>0 ID]:%DARK_GREEN%Battle Belt%NL%%GREEN%Infernal%WHITE%S%DARK_GREEN%ig%GREEN%n%CONTINUE%
-ItemDisplay[(SET) utc LIFE>19 STAT31>0 !STAT153>0 ID]:%DARK_GREEN%Troll Belt%NL%%GREEN%Infernal%WHITE%S%DARK_GREEN%ig%GREEN%n%CONTINUE%
-ItemDisplay[(SET) tbl MINDMG>0 STAT31>0 ID]:%DARK_GREEN%Heavy Belt%NL%%GREEN%Iratha's%WHITE%C%DARK_GREEN%or%GREEN%d%CONTINUE%
-ItemDisplay[(SET) ztb MINDMG>0 STAT31>0 ID]:%DARK_GREEN%Battle Belt%NL%%GREEN%Iratha's%WHITE%C%DARK_GREEN%or%GREEN%d%CONTINUE%
-ItemDisplay[(SET) utc MINDMG>0 STAT31>0 ID]:%DARK_GREEN%Troll Belt%NL%%GREEN%Iratha's%WHITE%C%DARK_GREEN%or%GREEN%d%CONTINUE%
-ItemDisplay[(SET) ztb STAT60>0 STAT62>0 ID]:%RED%%TEAL%Battle Belt%NL%%GREEN%Wilhelm's%PURPLE%Pr%RED%id%ORANGE%e%CONTINUE%
-ItemDisplay[(SET) utc STAT60>0 STAT62>0 ID]:%RED%%TEAL%Troll Belt%NL%%GREEN%Wilhelm's%PURPLE%Pr%RED%id%ORANGE%e%CONTINUE%
-ItemDisplay[(SET) utc LIFE>55 REPLIFE>4 MANA>24 STAT153>0 ID]:%RED%%TEAL%Troll Belt%NL%%GREEN%Trang-Oul's%PURPLE%Gi%RED%rt%ORANGE%h%CONTINUE%
-ItemDisplay[(SET) xcl ID]:%GREEN%%SAGE%Tigulated Mail%NL%%GREEN%Hwanin's%WHITE%R%GOLD%ef%WHITE%ug%GREEN%e%CONTINUE%
-ItemDisplay[(SET) ucl ID]:%GREEN%%SAGE%Loricated Mail%NL%%GREEN%Hwanin's%WHITE%R%GOLD%ef%WHITE%ug%GREEN%e%CONTINUE%
-ItemDisplay[(SET) ucl TABSK49>0 ID]:%RED%%TEAL%Loricated Mail%NL%%GREEN%Natalya's%PURPLE%Sh%RED%ad%WHITE%ow%CONTINUE%
-ItemDisplay[(SET) uld ID]:%RED%%TEAL%Kraken Shell%NL%%GREEN%M'avina's%PURPLE%Em%RED%br%ORANGE%ac%GOLD%e%CONTINUE%
-ItemDisplay[(SET) qui ID]:%GREEN%Quilted Armor%NL%%GREEN%Arctic%WHITE%F%GREEN%ur%DARK_GREEN%s%CONTINUE%
-ItemDisplay[(SET) xui ID]:%GREEN%Ghost Armor%NL%%GREEN%Arctic%WHITE%F%GREEN%ur%DARK_GREEN%s%CONTINUE%
-ItemDisplay[(SET) uui ID]:%GREEN%Dusk Shroud%NL%%GREEN%Arctic%WHITE%F%GREEN%ur%DARK_GREEN%s%CONTINUE%
+ItemDisplay[(SET) spl ID]:%DARK_GREEN%Splint Mail%NL%%GREEN%Berserker's %WHITE%Ha%DARK_GREEN%ub%WHITE%er%GREEN%k%CONTINUE%
+ItemDisplay[(SET) xpl ID]:%DARK_GREEN%Russet Armor%NL%%GREEN%Berserker's %WHITE%Ha%DARK_GREEN%ub%WHITE%er%GREEN%k%CONTINUE%
+ItemDisplay[(SET) upl ID]:%DARK_GREEN%Balrog Skin%NL%%GREEN%Berserker's %WHITE%Ha%DARK_GREEN%ub%WHITE%er%GREEN%k%CONTINUE%
+ItemDisplay[(SET) upl FHR>29 STAT121>99 ID]:%RED%%TEAL%Balrog Skin%NL%%GREEN%Sazabi's %PURPLE%G%RED%ho%ORANGE%st %GOLD%L%WHITE%ib%GOLD%er%ORANGE%a%RED%t%PURPLE%o%TAN%r%CONTINUE%
+ItemDisplay[(SET) tbl LIFE>19 STAT31>0 !STAT153>0 ID]:%DARK_GREEN%Heavy Belt%NL%%GREEN%Infernal %WHITE%S%DARK_GREEN%ig%GREEN%n%CONTINUE%
+ItemDisplay[(SET) ztb LIFE>19 STAT31>0 !STAT153>0 ID]:%DARK_GREEN%Battle Belt%NL%%GREEN%Infernal %WHITE%S%DARK_GREEN%ig%GREEN%n%CONTINUE%
+ItemDisplay[(SET) utc LIFE>19 STAT31>0 !STAT153>0 ID]:%DARK_GREEN%Troll Belt%NL%%GREEN%Infernal %WHITE%S%DARK_GREEN%ig%GREEN%n%CONTINUE%
+ItemDisplay[(SET) tbl MINDMG>0 STAT31>0 ID]:%DARK_GREEN%Heavy Belt%NL%%GREEN%Iratha's %WHITE%C%DARK_GREEN%or%GREEN%d%CONTINUE%
+ItemDisplay[(SET) ztb MINDMG>0 STAT31>0 ID]:%DARK_GREEN%Battle Belt%NL%%GREEN%Iratha's %WHITE%C%DARK_GREEN%or%GREEN%d%CONTINUE%
+ItemDisplay[(SET) utc MINDMG>0 STAT31>0 ID]:%DARK_GREEN%Troll Belt%NL%%GREEN%Iratha's %WHITE%C%DARK_GREEN%or%GREEN%d%CONTINUE%
+ItemDisplay[(SET) ztb STAT60>0 STAT62>0 ID]:%RED%%TEAL%Battle Belt%NL%%GREEN%Wilhelm's %PURPLE%Pr%RED%id%ORANGE%e%CONTINUE%
+ItemDisplay[(SET) utc STAT60>0 STAT62>0 ID]:%RED%%TEAL%Troll Belt%NL%%GREEN%Wilhelm's %PURPLE%Pr%RED%id%ORANGE%e%CONTINUE%
+ItemDisplay[(SET) utc LIFE>55 REPLIFE>4 MANA>24 STAT153>0 ID]:%RED%%TEAL%Troll Belt%NL%%GREEN%Trang-Oul's %PURPLE%Gi%RED%rt%ORANGE%h%CONTINUE%
+ItemDisplay[(SET) xcl ID]:%GREEN%%SAGE%Tigulated Mail%NL%%GREEN%Hwanin's %WHITE%R%GOLD%ef%WHITE%ug%GREEN%e%CONTINUE%
+ItemDisplay[(SET) ucl ID]:%GREEN%%SAGE%Loricated Mail%NL%%GREEN%Hwanin's %WHITE%R%GOLD%ef%WHITE%ug%GREEN%e%CONTINUE%
+ItemDisplay[(SET) ucl TABSK49>0 ID]:%RED%%TEAL%Loricated Mail%NL%%GREEN%Natalya's %PURPLE%Sh%RED%ad%WHITE%ow%CONTINUE%
+ItemDisplay[(SET) uld ID]:%RED%%TEAL%Kraken Shell%NL%%GREEN%M'avina's %PURPLE%Em%RED%br%ORANGE%ac%GOLD%e%CONTINUE%
+ItemDisplay[(SET) qui ID]:%GREEN%Quilted Armor%NL%%GREEN%Arctic %WHITE%F%GREEN%ur%DARK_GREEN%s%CONTINUE%
+ItemDisplay[(SET) xui ID]:%GREEN%Ghost Armor%NL%%GREEN%Arctic %WHITE%F%GREEN%ur%DARK_GREEN%s%CONTINUE%
+ItemDisplay[(SET) uui ID]:%GREEN%Dusk Shroud%NL%%GREEN%Arctic %WHITE%F%GREEN%ur%DARK_GREEN%s%CONTINUE%
 ItemDisplay[(SET) uui STAT122>199 ID]:%PURPLE%Dusk Shroud%NL%%GREEN%Disciple%WHITE%'s %GREEN%Da%PURPLE%rk %RED%A%ORANGE%dh%GOLD%er%WHITE%en%GOLD%t%CONTINUE%
-ItemDisplay[(SET) ltp ID]:%GREEN%Light Plate%NL%%GREEN%Arcanna's%WHITE%Fl%GREEN%es%DARK_GREEN%h%CONTINUE%
-ItemDisplay[(SET) xtp ID]:%GREEN%Mage Plate%NL%%GREEN%Arcanna's%WHITE%Fl%GREEN%es%DARK_GREEN%h%CONTINUE%
-ItemDisplay[(SET) utp ID]:%GREEN%Archon Plate%NL%%GREEN%Arcanna's%WHITE%Fl%GREEN%es%DARK_GREEN%h%CONTINUE%
-ItemDisplay[(SET) mbt ID]:%DARK_GREEN%Chain Boots%NL%%GREEN%Hsarus'%WHITE%Ir%DARK_GREEN%on %WHITE%H%GREEN%e%DARK_GREEN%e%WHITE%l%CONTINUE%
-ItemDisplay[(SET) xmb ID]:%DARK_GREEN%Mesh Boots%NL%%GREEN%Hsarus'%WHITE%Ir%DARK_GREEN%on %WHITE%H%GREEN%e%DARK_GREEN%e%WHITE%l%CONTINUE%
-ItemDisplay[(SET) umb ID]:%DARK_GREEN%Boneweave Boots%NL%%GREEN%Hsarus'%WHITE%Ir%DARK_GREEN%on %WHITE%H%GREEN%e%DARK_GREEN%e%WHITE%l%CONTINUE%
-ItemDisplay[(SET) xmb FRW>39 CRES>14 LRES>14 STAT241>0 ID]:%RED%%TEAL%Mesh Boots%NL%%GREEN%Natalya's%PURPLE%S%RED%o%ORANGE%u%WHITE%l%CONTINUE%
-ItemDisplay[(SET) umb FRW>39 CRES>14 LRES>14 STAT241>0 ID]:%RED%%TEAL%Boneweave Boots%NL%%GREEN%Natalya's%PURPLE%S%RED%o%ORANGE%u%WHITE%l%CONTINUE%
-ItemDisplay[(SET) xmg ID]:%RED%%TEAL%Heavy Bracers%NL%%GREEN%Trang-Oul's%PURPLE%Cl%RED%aw%WHITE%s%CONTINUE%
-ItemDisplay[(SET) umg ID]:%RED%%TEAL%Vambraces%NL%%GREEN%Trang-Oul's%PURPLE%Cl%RED%aw%WHITE%s%CONTINUE%
-ItemDisplay[(SET) mgl ID !FCR>0]:%DARK_GREEN%Chain Gloves%NL%%GREEN%Cleglaw's%WHITE%Pi%DARK_GREEN%nc%GREEN%er%WHITE%s%CONTINUE%
-ItemDisplay[(SET) xmg ID !FCR>0]:%DARK_GREEN%Heavy Bracers%NL%%GREEN%Cleglaw's%WHITE%Pi%DARK_GREEN%nc%GREEN%er%WHITE%s%CONTINUE%
-ItemDisplay[(SET) umg ID !FCR>0]:%DARK_GREEN%Vambraces%NL%%GREEN%Cleglaw's%WHITE%Pi%DARK_GREEN%nc%GREEN%er%WHITE%s%CONTINUE%
-ItemDisplay[(SET) mpi ID]:%DARK_GREEN%Military Pick%NL%%GREEN%Tancred's%WHITE%Cr%DARK_GREEN%ow%GREEN%bi%WHITE%ll%CONTINUE%
-ItemDisplay[(SET) 9mp ID]:%DARK_GREEN%Crowbill%NL%%GREEN%Tancred's%WHITE%Cr%DARK_GREEN%ow%GREEN%bi%WHITE%ll%CONTINUE%
-ItemDisplay[(SET) 7mp ID]:%DARK_GREEN%War Spike%NL%%GREEN%Tancred's%WHITE%Cr%DARK_GREEN%ow%GREEN%bi%WHITE%ll%CONTINUE%
-ItemDisplay[(SET) msk ID]:%DARK_GREEN%Mask%NL%%GREEN%Cathan's%WHITE%V%DARK_GREEN%is%WHITE%ag%GREEN%e%CONTINUE%
-ItemDisplay[(SET) xsk ID]:%DARK_GREEN%Death Mask%NL%%GREEN%Cathan's%WHITE%V%DARK_GREEN%is%WHITE%ag%GREEN%e%CONTINUE%
-ItemDisplay[(SET) usk ID]:%DARK_GREEN%Demonhead%NL%%GREEN%Cathan's%WHITE%V%DARK_GREEN%is%WHITE%ag%GREEN%e%CONTINUE%
-ItemDisplay[(SET) xsk STAT60>0 STAT62>0 ID]:%RED%%TEAL%Death Mask%NL%%GREEN%TalRasha's%PURPLE%Ho%RED%ra%ORANGE%dr%GOLD%ic %WHITE%Cr%GOLD%e%ORANGE%s%RED%t%CONTINUE%
-ItemDisplay[(SET) usk STAT60>0 STAT62>0 ID]:%RED%%TEAL%Demonhead%NL%%GREEN%TalRasha's%PURPLE%Ho%RED%ra%ORANGE%dr%GOLD%ic %WHITE%Cr%GOLD%e%ORANGE%s%RED%t%CONTINUE%
-ItemDisplay[(SET) rng ID]:%DARK_GREEN%Ring Mail%NL%%GREEN%Angelic%WHITE%Ma%DARK_GREEN%nt%WHITE%l%GREEN%e%CONTINUE%
-ItemDisplay[(SET) xng ID]:%DARK_GREEN%Linked Mail%NL%%GREEN%Angelic%WHITE%Ma%DARK_GREEN%nt%WHITE%l%GREEN%e%CONTINUE%
-ItemDisplay[(SET) ung ID]:%DARK_GREEN%Diamond Mail%NL%%GREEN%Angelic%WHITE%Ma%DARK_GREEN%nt%WHITE%l%GREEN%e%CONTINUE%
-ItemDisplay[(SET) sbr ID]:%DARK_GREEN%Sabre%NL%%GREEN%Angelic%WHITE%Si%DARK_GREEN%ck%WHITE%l%GREEN%e%CONTINUE%
-ItemDisplay[(SET) 9sb ID]:%DARK_GREEN%Shamshir%NL%%GREEN%Angelic%WHITE%Si%DARK_GREEN%ck%WHITE%l%GREEN%e%CONTINUE%
-ItemDisplay[(SET) 7sb ID]:%DARK_GREEN%Elegant Blade%NL%%GREEN%Angelic%WHITE%Si%DARK_GREEN%ck%WHITE%l%GREEN%e%CONTINUE%
-ItemDisplay[(SET) skp ID]:%DARK_GREEN%Skull Cap%NL%%GREEN%Arcanna's%WHITE%He%DARK_GREEN%a%GREEN%d%CONTINUE%
-ItemDisplay[(SET) xkp ID]:%DARK_GREEN%Sallet%NL%%GREEN%Arcanna's%WHITE%He%DARK_GREEN%a%GREEN%d%CONTINUE%
-ItemDisplay[(SET) ukp ID]:%DARK_GREEN%Hydraskull%NL%%GREEN%Arcanna's%WHITE%He%DARK_GREEN%a%GREEN%d%CONTINUE%
-ItemDisplay[(SET) sml ID]:%DARK_GREEN%Small Shield%NL%%GREEN%Cleglaw's%WHITE%C%DARK_GREEN%l%WHITE%a%GREEN%w%CONTINUE%
-ItemDisplay[(SET) xml ID]:%DARK_GREEN%Round Shield%NL%%GREEN%Cleglaw's%WHITE%C%DARK_GREEN%l%WHITE%a%GREEN%w%CONTINUE%
-ItemDisplay[(SET) uml ID]:%DARK_GREEN%Luna%NL%%GREEN%Cleglaw's%WHITE%C%DARK_GREEN%l%WHITE%a%GREEN%w%CONTINUE%
-ItemDisplay[(SET) xml FBR>39 STAT118>0 STAT20>54 ID]:%RED%%TEAL%Round Shield%NL%%GREEN%Whitstan's%PURPLE%G%RED%u%ORANGE%a%GOLD%r%WHITE%d%CONTINUE%
-ItemDisplay[(SET) uml FBR>39 STAT118>0 STAT20>54 ID]:%RED%%TEAL%Luna%NL%%GREEN%Whitstan's%PURPLE%G%RED%u%ORANGE%a%GOLD%r%WHITE%d%CONTINUE%
-ItemDisplay[(SET) stu ID]:%DARK_GREEN%Studded Leather%NL%%GREEN%CowKing's%WHITE%H%DARK_GREEN%id%GREEN%e%CONTINUE%
-ItemDisplay[(SET) xtu ID]:%DARK_GREEN%Trellised Armor%NL%%GREEN%CowKing's%WHITE%H%DARK_GREEN%id%GREEN%e%CONTINUE%
-ItemDisplay[(SET) utu ID]:%DARK_GREEN%Wire Fleece%NL%%GREEN%CowKing's%WHITE%H%DARK_GREEN%id%GREEN%e%CONTINUE%
-ItemDisplay[(SET) swb ID]:%GREEN%Short War Bow%NL%%GREEN%Arctic%WHITE%H%GREEN%or%DARK_GREEN%n%CONTINUE%
-ItemDisplay[(SET) 8sw ID]:%GREEN%Rune Bow%NL%%GREEN%Arctic%WHITE%H%GREEN%or%DARK_GREEN%n%CONTINUE%
-ItemDisplay[(SET) 6sw ID]:%GREEN%Ward Bow%NL%%GREEN%Arctic%WHITE%H%GREEN%or%DARK_GREEN%n%CONTINUE%
-ItemDisplay[(SET) tbt ID]:%DARK_GREEN%Light Plated Boots%NL%%GREEN%Vidala's%WHITE%F%DARK_GREEN%et%WHITE%lo%GREEN%ck%CONTINUE%
-ItemDisplay[(SET) xtb ID]:%DARK_GREEN%Battle Boots%NL%%GREEN%Vidala's%WHITE%F%DARK_GREEN%et%WHITE%lo%GREEN%ck%CONTINUE%
-ItemDisplay[(SET) utb ID]:%DARK_GREEN%Mirrored Boots%NL%%GREEN%Vidala's%WHITE%F%DARK_GREEN%et%WHITE%lo%GREEN%ck%CONTINUE%
-ItemDisplay[(SET) xtb STAT152>0 LIFE>49 DTM>9 FRES>39 ID]:%RED%%TEAL%Battle Boots%NL%%GREEN%Aldur's%PURPLE%Ad%RED%va%ORANGE%nc%WHITE%e%CONTINUE%
-ItemDisplay[(SET) utb STAT152>0 LIFE>49 DTM>9 FRES>39 ID]:%RED%%TEAL%Mirrored Boots%NL%%GREEN%Aldur's%PURPLE%Ad%RED%va%ORANGE%nc%WHITE%e%CONTINUE%
-ItemDisplay[(SET) tgl IAS>9 LIFE>19 ID]:%GREEN%Light Gauntlets%NL%%GREEN%Arctic%WHITE%M%GREEN%it%DARK_GREEN%ts%CONTINUE%
-ItemDisplay[(SET) tgl CRES>19 STAT118>0 ID]:%DARK_GREEN%Light Gauntlets%NL%%GREEN%Iratha's%WHITE%C%DARK_GREEN%uf%GREEN%f%CONTINUE%
-ItemDisplay[(SET) xtg IAS>9 LIFE>19 ID]:%GREEN%Battle Gauntlets%NL%%GREEN%Arctic%WHITE%M%GREEN%it%DARK_GREEN%ts%CONTINUE%
-ItemDisplay[(SET) xtg CRES>19 STAT118>0 ID]:%DARK_GREEN%Battle Gauntlets%NL%%GREEN%Iratha's%WHITE%C%DARK_GREEN%uf%GREEN%f%CONTINUE%
-ItemDisplay[(SET) utg IAS>9 LIFE>19 ID]:%GREEN%Crusader Gauntlets%NL%%GREEN%Arctic%WHITE%M%GREEN%it%DARK_GREEN%ts%CONTINUE%
-ItemDisplay[(SET) utg CRES>19 STAT118>0 ID]:%DARK_GREEN%Crusader Gauntlets%NL%%GREEN%Iratha's%WHITE%C%DARK_GREEN%uf%GREEN%f%CONTINUE%
-ItemDisplay[(SET) xtg STR>7 DEX>9 STAT153>0 GFIND>55 ID]:%RED%%TEAL%Battle Gauntlets%NL%%GREEN%M'avina's%PURPLE%Ic%RED%y %ORANGE%Cl%GOLD%ut%WHITE%ch%CONTINUE%
-ItemDisplay[(SET) utg STR>7 DEX>9 STAT153>0 GFIND>55 ID]:%RED%%TEAL%Crusader Gauntlets%NL%%GREEN%M'avina's%PURPLE%Ic%RED%y %ORANGE%Cl%GOLD%ut%WHITE%ch%CONTINUE%
-ItemDisplay[(SET) tow ID]:%DARK_GREEN%Tower Shield%NL%%GREEN%Sigon's%WHITE%Gu%DARK_GREEN%ar%GREEN%d%CONTINUE%
-ItemDisplay[(SET) xow ID]:%DARK_GREEN%Pavise%NL%%GREEN%Sigon's%WHITE%Gu%DARK_GREEN%ar%GREEN%d%CONTINUE%
-ItemDisplay[(SET) uow ID]:%DARK_GREEN%Aegis%NL%%GREEN%Sigon's%WHITE%Gu%DARK_GREEN%ar%GREEN%d%CONTINUE%
-ItemDisplay[(SET) vbl ID]:%GREEN%Light Belt%NL%%GREEN%Arctic%WHITE%B%GREEN%in%DARK_GREEN%di%WHITE%ng%CONTINUE%
-ItemDisplay[(SET) zvb ID]:%GREEN%Sharkskin Belt%NL%%GREEN%Arctic%WHITE%B%GREEN%in%DARK_GREEN%di%WHITE%ng%CONTINUE%
-ItemDisplay[(SET) uvc ID]:%GREEN%Vampirefang Belt%NL%%GREEN%Arctic%WHITE%B%GREEN%in%DARK_GREEN%di%WHITE%ng%CONTINUE%
-ItemDisplay[(SET) zvb FRW>19 STAT62>2 ID]:%RED%%TEAL%Sharkskin Belt%NL%%GREEN%M'avina's%PURPLE%Te%RED%n%ORANGE%e%GOLD%t%CONTINUE%
-ItemDisplay[(SET) uvc FRW>19 STAT62>2 ID]:%RED%%TEAL%Vampirefang Belt%NL%%GREEN%M'avina's%PURPLE%Te%RED%n%ORANGE%e%GOLD%t%CONTINUE%
-ItemDisplay[(SET) vbt FRW>30 DEX>19 MFIND>24 ID]:%GREEN%Heavy Boots%NL%%GREEN%CowKing's%WHITE%H%GREEN%oo%DARK_GREEN%ve%WHITE%s%CONTINUE%
-ItemDisplay[(SET) vbt FRW>30 STR>4 DEX>9 ID]:%DARK_GREEN%Heavy Boots%NL%%GREEN%Sander's%WHITE%R%DARK_GREEN%ip%WHITE%ra%GREEN%p%CONTINUE%
-ItemDisplay[(SET) xvb FRW>30 DEX>19 MFIND>24 ID]:%GREEN%Sharkskin Boots%NL%%GREEN%CowKing's%WHITE%H%GREEN%oo%DARK_GREEN%ve%WHITE%s%CONTINUE%
-ItemDisplay[(SET) xvb FRW>30 STR>4 DEX>9 ID]:%DARK_GREEN%Sharkskin Boots%NL%%GREEN%Sander's%WHITE%R%DARK_GREEN%ip%WHITE%ra%GREEN%p%CONTINUE%
-ItemDisplay[(SET) uvb FRW>30 DEX>19 MFIND>24 ID]:%GREEN%Scarabshell Boots%NL%%GREEN%CowKing's%WHITE%H%GREEN%oo%DARK_GREEN%ve%WHITE%s%CONTINUE%
-ItemDisplay[(SET) uvb FRW>30 STR>4 DEX>9 ID]:%DARK_GREEN%Scarabshell Boots%NL%%GREEN%Sander's%WHITE%R%DARK_GREEN%ip%WHITE%ra%GREEN%p%CONTINUE%
-ItemDisplay[(SET) vgl ID]:%DARK_GREEN%Heavy Gloves%NL%%GREEN%Sander's%WHITE%T%DARK_GREEN%ab%WHITE%o%GREEN%o%CONTINUE%
-ItemDisplay[(SET) xvg ID]:%DARK_GREEN%Sharkskin Gloves%NL%%GREEN%Sander's%WHITE%T%DARK_GREEN%ab%WHITE%o%GREEN%o%CONTINUE%
-ItemDisplay[(SET) uvg ID]:%DARK_GREEN%Vampirebone Gloves%NL%%GREEN%Sander's%WHITE%T%DARK_GREEN%ab%WHITE%o%GREEN%o%CONTINUE%
-ItemDisplay[(SET) xvg IAS>19 STAT156>19 AR>99 FRES>14 ID]:%RED%%TEAL%Sharkskin Gloves%NL%%GREEN%Magnus'%PURPLE%S%RED%k%ORANGE%i%GOLD%n%CONTINUE%
-ItemDisplay[(SET) uvg IAS>19 STAT156>19 AR>99 FRES>14 ID]:%RED%%TEAL%Vampirebone Gloves%NL%%GREEN%Magnus'%PURPLE%S%RED%k%ORANGE%i%GOLD%n%CONTINUE%
-ItemDisplay[(SET) wsd ID]:%GREEN%War Sword%NL%%GREEN%Death's%WHITE%T%GREEN%o%DARK_GREEN%u%GREEN%c%WHITE%h%CONTINUE%
-ItemDisplay[(SET) 9wd ID]:%GREEN%Ancient Sword%NL%%GREEN%Death's%WHITE%T%GREEN%o%DARK_GREEN%u%GREEN%c%WHITE%h%CONTINUE%
-ItemDisplay[(SET) 7wd ID]:%GREEN%Mythical Sword%NL%%GREEN%Death's%WHITE%T%GREEN%o%DARK_GREEN%u%GREEN%c%WHITE%h%CONTINUE%
-ItemDisplay[(SET) wsp ID]:%GREEN%War Scepter%NL%%GREEN%Milabrega's%WHITE%R%GREEN%o%DARK_GREEN%d%CONTINUE%
-ItemDisplay[(SET) 9ws ID]:%GREEN%Divine Scepter%NL%%GREEN%Milabrega's%WHITE%R%GREEN%o%DARK_GREEN%d%CONTINUE%
-ItemDisplay[(SET) 7ws ID]:%GREEN%Caduceus%NL%%GREEN%Milabrega's%WHITE%R%GREEN%o%DARK_GREEN%d%CONTINUE%
-ItemDisplay[(SET) 7ws IAS>39 ID]:%RED%%TEAL%Caduceus%NL%%GREEN%Griswold's%PURPLE%R%RED%ed%ORANGE%em%GOLD%pt%WHITE%io%GOLD%n%CONTINUE%
-ItemDisplay[(SET) wst ID]:%GREEN%War Staff%NL%%GREEN%Arcanna's%WHITE%D%GREEN%e%WHITE%at%DARK_GREEN%hw%WHITE%an%GREEN%d%CONTINUE%
-ItemDisplay[(SET) 8ws ID]:%GREEN%Rune Staff%NL%%GREEN%Arcanna's%WHITE%D%GREEN%e%WHITE%at%DARK_GREEN%hw%WHITE%an%GREEN%d%CONTINUE%
-ItemDisplay[(SET) 6ws ID]:%GREEN%Archon Staff%NL%%GREEN%Arcanna's%WHITE%D%GREEN%e%WHITE%at%DARK_GREEN%hw%WHITE%an%GREEN%d%CONTINUE%
+ItemDisplay[(SET) ltp ID]:%GREEN%Light Plate%NL%%GREEN%Arcanna's %WHITE%Fl%GREEN%es%DARK_GREEN%h%CONTINUE%
+ItemDisplay[(SET) xtp ID]:%GREEN%Mage Plate%NL%%GREEN%Arcanna's %WHITE%Fl%GREEN%es%DARK_GREEN%h%CONTINUE%
+ItemDisplay[(SET) utp ID]:%GREEN%Archon Plate%NL%%GREEN%Arcanna's %WHITE%Fl%GREEN%es%DARK_GREEN%h%CONTINUE%
+ItemDisplay[(SET) mbt ID]:%DARK_GREEN%Chain Boots%NL%%GREEN%Hsarus' %WHITE%Ir%DARK_GREEN%on %WHITE%H%GREEN%e%DARK_GREEN%e%WHITE%l%CONTINUE%
+ItemDisplay[(SET) xmb ID]:%DARK_GREEN%Mesh Boots%NL%%GREEN%Hsarus' %WHITE%Ir%DARK_GREEN%on %WHITE%H%GREEN%e%DARK_GREEN%e%WHITE%l%CONTINUE%
+ItemDisplay[(SET) umb ID]:%DARK_GREEN%Boneweave Boots%NL%%GREEN%Hsarus' %WHITE%Ir%DARK_GREEN%on %WHITE%H%GREEN%e%DARK_GREEN%e%WHITE%l%CONTINUE%
+ItemDisplay[(SET) xmb FRW>39 CRES>14 LRES>14 STAT241>0 ID]:%RED%%TEAL%Mesh Boots%NL%%GREEN%Natalya's %PURPLE%S%RED%o%ORANGE%u%WHITE%l%CONTINUE%
+ItemDisplay[(SET) umb FRW>39 CRES>14 LRES>14 STAT241>0 ID]:%RED%%TEAL%Boneweave Boots%NL%%GREEN%Natalya's %PURPLE%S%RED%o%ORANGE%u%WHITE%l%CONTINUE%
+ItemDisplay[(SET) xmg ID]:%RED%%TEAL%Heavy Bracers%NL%%GREEN%Trang-Oul's %PURPLE%Cl%RED%aw%WHITE%s%CONTINUE%
+ItemDisplay[(SET) umg ID]:%RED%%TEAL%Vambraces%NL%%GREEN%Trang-Oul's %PURPLE%Cl%RED%aw%WHITE%s%CONTINUE%
+ItemDisplay[(SET) mgl ID !FCR>0]:%DARK_GREEN%Chain Gloves%NL%%GREEN%Cleglaw's %WHITE%Pi%DARK_GREEN%nc%GREEN%er%WHITE%s%CONTINUE%
+ItemDisplay[(SET) xmg ID !FCR>0]:%DARK_GREEN%Heavy Bracers%NL%%GREEN%Cleglaw's %WHITE%Pi%DARK_GREEN%nc%GREEN%er%WHITE%s%CONTINUE%
+ItemDisplay[(SET) umg ID !FCR>0]:%DARK_GREEN%Vambraces%NL%%GREEN%Cleglaw's %WHITE%Pi%DARK_GREEN%nc%GREEN%er%WHITE%s%CONTINUE%
+ItemDisplay[(SET) mpi ID]:%DARK_GREEN%Military Pick%NL%%GREEN%Tancred's %WHITE%Cr%DARK_GREEN%ow%GREEN%bi%WHITE%ll%CONTINUE%
+ItemDisplay[(SET) 9mp ID]:%DARK_GREEN%Crowbill%NL%%GREEN%Tancred's %WHITE%Cr%DARK_GREEN%ow%GREEN%bi%WHITE%ll%CONTINUE%
+ItemDisplay[(SET) 7mp ID]:%DARK_GREEN%War Spike%NL%%GREEN%Tancred's %WHITE%Cr%DARK_GREEN%ow%GREEN%bi%WHITE%ll%CONTINUE%
+ItemDisplay[(SET) msk ID]:%DARK_GREEN%Mask%NL%%GREEN%Cathan's %WHITE%V%DARK_GREEN%is%WHITE%ag%GREEN%e%CONTINUE%
+ItemDisplay[(SET) xsk ID]:%DARK_GREEN%Death Mask%NL%%GREEN%Cathan's %WHITE%V%DARK_GREEN%is%WHITE%ag%GREEN%e%CONTINUE%
+ItemDisplay[(SET) usk ID]:%DARK_GREEN%Demonhead%NL%%GREEN%Cathan's %WHITE%V%DARK_GREEN%is%WHITE%ag%GREEN%e%CONTINUE%
+ItemDisplay[(SET) xsk STAT60>0 STAT62>0 ID]:%RED%%TEAL%Death Mask%NL%%GREEN%TalRasha's %PURPLE%Ho%RED%ra%ORANGE%dr%GOLD%ic %WHITE%Cr%GOLD%e%ORANGE%s%RED%t%CONTINUE%
+ItemDisplay[(SET) usk STAT60>0 STAT62>0 ID]:%RED%%TEAL%Demonhead%NL%%GREEN%TalRasha's %PURPLE%Ho%RED%ra%ORANGE%dr%GOLD%ic %WHITE%Cr%GOLD%e%ORANGE%s%RED%t%CONTINUE%
+ItemDisplay[(SET) rng ID]:%DARK_GREEN%Ring Mail%NL%%GREEN%Angelic %WHITE%Ma%DARK_GREEN%nt%WHITE%l%GREEN%e%CONTINUE%
+ItemDisplay[(SET) xng ID]:%DARK_GREEN%Linked Mail%NL%%GREEN%Angelic %WHITE%Ma%DARK_GREEN%nt%WHITE%l%GREEN%e%CONTINUE%
+ItemDisplay[(SET) ung ID]:%DARK_GREEN%Diamond Mail%NL%%GREEN%Angelic %WHITE%Ma%DARK_GREEN%nt%WHITE%l%GREEN%e%CONTINUE%
+ItemDisplay[(SET) sbr ID]:%DARK_GREEN%Sabre%NL%%GREEN%Angelic %WHITE%Si%DARK_GREEN%ck%WHITE%l%GREEN%e%CONTINUE%
+ItemDisplay[(SET) 9sb ID]:%DARK_GREEN%Shamshir%NL%%GREEN%Angelic %WHITE%Si%DARK_GREEN%ck%WHITE%l%GREEN%e%CONTINUE%
+ItemDisplay[(SET) 7sb ID]:%DARK_GREEN%Elegant Blade%NL%%GREEN%Angelic %WHITE%Si%DARK_GREEN%ck%WHITE%l%GREEN%e%CONTINUE%
+ItemDisplay[(SET) skp ID]:%DARK_GREEN%Skull Cap%NL%%GREEN%Arcanna's %WHITE%He%DARK_GREEN%a%GREEN%d%CONTINUE%
+ItemDisplay[(SET) xkp ID]:%DARK_GREEN%Sallet%NL%%GREEN%Arcanna's %WHITE%He%DARK_GREEN%a%GREEN%d%CONTINUE%
+ItemDisplay[(SET) ukp ID]:%DARK_GREEN%Hydraskull%NL%%GREEN%Arcanna's %WHITE%He%DARK_GREEN%a%GREEN%d%CONTINUE%
+ItemDisplay[(SET) sml ID]:%DARK_GREEN%Small Shield%NL%%GREEN%Cleglaw's %WHITE%C%DARK_GREEN%l%WHITE%a%GREEN%w%CONTINUE%
+ItemDisplay[(SET) xml ID]:%DARK_GREEN%Round Shield%NL%%GREEN%Cleglaw's %WHITE%C%DARK_GREEN%l%WHITE%a%GREEN%w%CONTINUE%
+ItemDisplay[(SET) uml ID]:%DARK_GREEN%Luna%NL%%GREEN%Cleglaw's %WHITE%C%DARK_GREEN%l%WHITE%a%GREEN%w%CONTINUE%
+ItemDisplay[(SET) xml FBR>39 STAT118>0 STAT20>54 ID]:%RED%%TEAL%Round Shield%NL%%GREEN%Whitstan's %PURPLE%G%RED%u%ORANGE%a%GOLD%r%WHITE%d%CONTINUE%
+ItemDisplay[(SET) uml FBR>39 STAT118>0 STAT20>54 ID]:%RED%%TEAL%Luna%NL%%GREEN%Whitstan's %PURPLE%G%RED%u%ORANGE%a%GOLD%r%WHITE%d%CONTINUE%
+ItemDisplay[(SET) stu ID]:%DARK_GREEN%Studded Leather%NL%%GREEN%CowKing's %WHITE%H%DARK_GREEN%id%GREEN%e%CONTINUE%
+ItemDisplay[(SET) xtu ID]:%DARK_GREEN%Trellised Armor%NL%%GREEN%CowKing's %WHITE%H%DARK_GREEN%id%GREEN%e%CONTINUE%
+ItemDisplay[(SET) utu ID]:%DARK_GREEN%Wire Fleece%NL%%GREEN%CowKing's %WHITE%H%DARK_GREEN%id%GREEN%e%CONTINUE%
+ItemDisplay[(SET) swb ID]:%GREEN%Short War Bow%NL%%GREEN%Arctic %WHITE%H%GREEN%or%DARK_GREEN%n%CONTINUE%
+ItemDisplay[(SET) 8sw ID]:%GREEN%Rune Bow%NL%%GREEN%Arctic %WHITE%H%GREEN%or%DARK_GREEN%n%CONTINUE%
+ItemDisplay[(SET) 6sw ID]:%GREEN%Ward Bow%NL%%GREEN%Arctic %WHITE%H%GREEN%or%DARK_GREEN%n%CONTINUE%
+ItemDisplay[(SET) tbt ID]:%DARK_GREEN%Light Plated Boots%NL%%GREEN%Vidala's %WHITE%F%DARK_GREEN%et%WHITE%lo%GREEN%ck%CONTINUE%
+ItemDisplay[(SET) xtb ID]:%DARK_GREEN%Battle Boots%NL%%GREEN%Vidala's %WHITE%F%DARK_GREEN%et%WHITE%lo%GREEN%ck%CONTINUE%
+ItemDisplay[(SET) utb ID]:%DARK_GREEN%Mirrored Boots%NL%%GREEN%Vidala's %WHITE%F%DARK_GREEN%et%WHITE%lo%GREEN%ck%CONTINUE%
+ItemDisplay[(SET) xtb STAT152>0 LIFE>49 DTM>9 FRES>39 ID]:%RED%%TEAL%Battle Boots%NL%%GREEN%Aldur's %PURPLE%Ad%RED%va%ORANGE%nc%WHITE%e%CONTINUE%
+ItemDisplay[(SET) utb STAT152>0 LIFE>49 DTM>9 FRES>39 ID]:%RED%%TEAL%Mirrored Boots%NL%%GREEN%Aldur's %PURPLE%Ad%RED%va%ORANGE%nc%WHITE%e%CONTINUE%
+ItemDisplay[(SET) tgl IAS>9 LIFE>19 ID]:%GREEN%Light Gauntlets%NL%%GREEN%Arctic %WHITE%M%GREEN%it%DARK_GREEN%ts%CONTINUE%
+ItemDisplay[(SET) tgl CRES>19 STAT118>0 ID]:%DARK_GREEN%Light Gauntlets%NL%%GREEN%Iratha's %WHITE%C%DARK_GREEN%uf%GREEN%f%CONTINUE%
+ItemDisplay[(SET) xtg IAS>9 LIFE>19 ID]:%GREEN%Battle Gauntlets%NL%%GREEN%Arctic %WHITE%M%GREEN%it%DARK_GREEN%ts%CONTINUE%
+ItemDisplay[(SET) xtg CRES>19 STAT118>0 ID]:%DARK_GREEN%Battle Gauntlets%NL%%GREEN%Iratha's %WHITE%C%DARK_GREEN%uf%GREEN%f%CONTINUE%
+ItemDisplay[(SET) utg IAS>9 LIFE>19 ID]:%GREEN%Crusader Gauntlets%NL%%GREEN%Arctic %WHITE%M%GREEN%it%DARK_GREEN%ts%CONTINUE%
+ItemDisplay[(SET) utg CRES>19 STAT118>0 ID]:%DARK_GREEN%Crusader Gauntlets%NL%%GREEN%Iratha's %WHITE%C%DARK_GREEN%uf%GREEN%f%CONTINUE%
+ItemDisplay[(SET) xtg STR>7 DEX>9 STAT153>0 GFIND>55 ID]:%RED%%TEAL%Battle Gauntlets%NL%%GREEN%M'avina's %PURPLE%Ic%RED%y %ORANGE%Cl%GOLD%ut%WHITE%ch%CONTINUE%
+ItemDisplay[(SET) utg STR>7 DEX>9 STAT153>0 GFIND>55 ID]:%RED%%TEAL%Crusader Gauntlets%NL%%GREEN%M'avina's %PURPLE%Ic%RED%y %ORANGE%Cl%GOLD%ut%WHITE%ch%CONTINUE%
+ItemDisplay[(SET) tow ID]:%DARK_GREEN%Tower Shield%NL%%GREEN%Sigon's %WHITE%Gu%DARK_GREEN%ar%GREEN%d%CONTINUE%
+ItemDisplay[(SET) xow ID]:%DARK_GREEN%Pavise%NL%%GREEN%Sigon's %WHITE%Gu%DARK_GREEN%ar%GREEN%d%CONTINUE%
+ItemDisplay[(SET) uow ID]:%DARK_GREEN%Aegis%NL%%GREEN%Sigon's %WHITE%Gu%DARK_GREEN%ar%GREEN%d%CONTINUE%
+ItemDisplay[(SET) vbl ID]:%GREEN%Light Belt%NL%%GREEN%Arctic %WHITE%B%GREEN%in%DARK_GREEN%di%WHITE%ng%CONTINUE%
+ItemDisplay[(SET) zvb ID]:%GREEN%Sharkskin Belt%NL%%GREEN%Arctic %WHITE%B%GREEN%in%DARK_GREEN%di%WHITE%ng%CONTINUE%
+ItemDisplay[(SET) uvc ID]:%GREEN%Vampirefang Belt%NL%%GREEN%Arctic %WHITE%B%GREEN%in%DARK_GREEN%di%WHITE%ng%CONTINUE%
+ItemDisplay[(SET) zvb FRW>19 STAT62>2 ID]:%RED%%TEAL%Sharkskin Belt%NL%%GREEN%M'avina's %PURPLE%Te%RED%n%ORANGE%e%GOLD%t%CONTINUE%
+ItemDisplay[(SET) uvc FRW>19 STAT62>2 ID]:%RED%%TEAL%Vampirefang Belt%NL%%GREEN%M'avina's %PURPLE%Te%RED%n%ORANGE%e%GOLD%t%CONTINUE%
+ItemDisplay[(SET) vbt FRW>30 DEX>19 MFIND>24 ID]:%GREEN%Heavy Boots%NL%%GREEN%CowKing's %WHITE%H%GREEN%oo%DARK_GREEN%ve%WHITE%s%CONTINUE%
+ItemDisplay[(SET) vbt FRW>30 STR>4 DEX>9 ID]:%DARK_GREEN%Heavy Boots%NL%%GREEN%Sander's %WHITE%R%DARK_GREEN%ip%WHITE%ra%GREEN%p%CONTINUE%
+ItemDisplay[(SET) xvb FRW>30 DEX>19 MFIND>24 ID]:%GREEN%Sharkskin Boots%NL%%GREEN%CowKing's %WHITE%H%GREEN%oo%DARK_GREEN%ve%WHITE%s%CONTINUE%
+ItemDisplay[(SET) xvb FRW>30 STR>4 DEX>9 ID]:%DARK_GREEN%Sharkskin Boots%NL%%GREEN%Sander's %WHITE%R%DARK_GREEN%ip%WHITE%ra%GREEN%p%CONTINUE%
+ItemDisplay[(SET) uvb FRW>30 DEX>19 MFIND>24 ID]:%GREEN%Scarabshell Boots%NL%%GREEN%CowKing's %WHITE%H%GREEN%oo%DARK_GREEN%ve%WHITE%s%CONTINUE%
+ItemDisplay[(SET) uvb FRW>30 STR>4 DEX>9 ID]:%DARK_GREEN%Scarabshell Boots%NL%%GREEN%Sander's %WHITE%R%DARK_GREEN%ip%WHITE%ra%GREEN%p%CONTINUE%
+ItemDisplay[(SET) vgl ID]:%DARK_GREEN%Heavy Gloves%NL%%GREEN%Sander's %WHITE%T%DARK_GREEN%ab%WHITE%o%GREEN%o%CONTINUE%
+ItemDisplay[(SET) xvg ID]:%DARK_GREEN%Sharkskin Gloves%NL%%GREEN%Sander's %WHITE%T%DARK_GREEN%ab%WHITE%o%GREEN%o%CONTINUE%
+ItemDisplay[(SET) uvg ID]:%DARK_GREEN%Vampirebone Gloves%NL%%GREEN%Sander's %WHITE%T%DARK_GREEN%ab%WHITE%o%GREEN%o%CONTINUE%
+ItemDisplay[(SET) xvg IAS>19 STAT156>19 AR>99 FRES>14 ID]:%RED%%TEAL%Sharkskin Gloves%NL%%GREEN%Magnus' %PURPLE%S%RED%k%ORANGE%i%GOLD%n%CONTINUE%
+ItemDisplay[(SET) uvg IAS>19 STAT156>19 AR>99 FRES>14 ID]:%RED%%TEAL%Vampirebone Gloves%NL%%GREEN%Magnus' %PURPLE%S%RED%k%ORANGE%i%GOLD%n%CONTINUE%
+ItemDisplay[(SET) wsd ID]:%GREEN%War Sword%NL%%GREEN%Death's %WHITE%T%GREEN%o%DARK_GREEN%u%GREEN%c%WHITE%h%CONTINUE%
+ItemDisplay[(SET) 9wd ID]:%GREEN%Ancient Sword%NL%%GREEN%Death's %WHITE%T%GREEN%o%DARK_GREEN%u%GREEN%c%WHITE%h%CONTINUE%
+ItemDisplay[(SET) 7wd ID]:%GREEN%Mythical Sword%NL%%GREEN%Death's %WHITE%T%GREEN%o%DARK_GREEN%u%GREEN%c%WHITE%h%CONTINUE%
+ItemDisplay[(SET) wsp ID]:%GREEN%War Scepter%NL%%GREEN%Milabrega's %WHITE%R%GREEN%o%DARK_GREEN%d%CONTINUE%
+ItemDisplay[(SET) 9ws ID]:%GREEN%Divine Scepter%NL%%GREEN%Milabrega's %WHITE%R%GREEN%o%DARK_GREEN%d%CONTINUE%
+ItemDisplay[(SET) 7ws ID]:%GREEN%Caduceus%NL%%GREEN%Milabrega's %WHITE%R%GREEN%o%DARK_GREEN%d%CONTINUE%
+ItemDisplay[(SET) 7ws IAS>39 ID]:%RED%%TEAL%Caduceus%NL%%GREEN%Griswold's %PURPLE%R%RED%ed%ORANGE%em%GOLD%pt%WHITE%io%GOLD%n%CONTINUE%
+ItemDisplay[(SET) wst ID]:%GREEN%War Staff%NL%%GREEN%Arcanna's %WHITE%D%GREEN%e%WHITE%at%DARK_GREEN%hw%WHITE%an%GREEN%d%CONTINUE%
+ItemDisplay[(SET) 8ws ID]:%GREEN%Rune Staff%NL%%GREEN%Arcanna's %WHITE%D%GREEN%e%WHITE%at%DARK_GREEN%hw%WHITE%an%GREEN%d%CONTINUE%
+ItemDisplay[(SET) 6ws ID]:%GREEN%Archon Staff%NL%%GREEN%Arcanna's %WHITE%D%GREEN%e%WHITE%at%DARK_GREEN%hw%WHITE%an%GREEN%d%CONTINUE%
 
 
 
