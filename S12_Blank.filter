@@ -5662,7 +5662,7 @@ ItemDisplay[lmal]:%TEAL%++++    %GOLD%L a %ORANGE%r z %GOLD%u k %WHITE%' s  %PUR
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      PD2 ITEM                                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[rkey]:%SOUNDID-2664%%MAP-0B%%TEAL%++++    %GOLD%S k %ORANGE%e l %WHITE%e t %ORANGE%%CORAL%o n  %PURPLE%K e %WHITE%y    %TEAL%++++{%NL%%GOLD%Skeleton Key : unlimited use key %NL%}
+ItemDisplay[rkey !INVENTORY]:%SOUNDID-2664%%MAP-0B%%TEAL%++++    %GOLD%S k %ORANGE%e l %WHITE%e t %ORANGE%%CORAL%o n  %PURPLE%K e %WHITE%y    %TEAL%++++{%NL%%GOLD%Skeleton Key : unlimited use key %NL%}
 //s11
 ItemDisplay[lsvl]:%SOUNDID-2664%%MAP-0B%%RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y   %GOLD%Vial of %RED%LIGHTSONG   %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y %RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O{%NL%%GOLD%Makes item Ethereal : %RED%Vial of Lightsong %WHITE%+ %GREEN%Item%NL%%BLUE%doesnt work with set items or items that lack durability (indestructible items)%NL%}
 ItemDisplay[llmr]:%SOUNDID-2664%%MAP-0B%%RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y   %GOLD%Lilith's %ORANGE%Mirror   %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y %RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O{%NL%%GOLD%Mirrors items : %RED%Lilith's Mirror %WHITE%+ %GREEN%Item%NL%%BLUE%color changed to white,black and cannot be used in any cube recipes%NL%}
