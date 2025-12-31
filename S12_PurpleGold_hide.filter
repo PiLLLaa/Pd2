@@ -1613,9 +1613,9 @@ ItemDisplay[imrn !INVENTORY]:%SOUNDID-2664%%MAP-0B%%PURPLE%*%PURPLE%-%ORANGE%-%G
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                         S7 New Items                                        //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[cm2f INVENTORY]:%GOLD%Hellfire %ORANGE%Ashes%WHITE%* %GREEN%%QTY%{%NL%%GOLD%Made by cubing the %RED%Torch %WHITE%+ %ORANGE%Key%NL%%GOLD%Stackable %RED%Hellfire Torch%GOLD% ingredient for Voidstone recipe%NL%}
-ItemDisplay[pvpp INVENTORY]:%GOLD%Dueling %ORANGE%Mana%WHITE%* %GREEN%%QTY%{%NL%%GOLD%Sold by PvP vendors for 1 gold%NL%%GOLD%Super Mana Potion equivalent for %RED%PvP arenas only%NL%}
-ItemDisplay[iwss INVENTORY]:%GOLD%Catalyst %ORANGE%Shard%WHITE%* %GREEN%%QTY%{%NL%%GOLD%Guarantees a map event%NL%%GOLD% Corrupted Map : %GREEN%Map %WHITE%+ %RED%Shard %NL%}
+ItemDisplay[cm2f INVENTORY]:%RED%H%ORANGE%e%YELLOW%l%GREEN%l%BLUE%f%PURPLE%i%WHITE%r%RED%e %ORANGE%Ashes%WHITE%* %GREEN%%QTY%{%NL%%GOLD%Made by cubing the %RED%Torch %WHITE%+ %ORANGE%Key%NL%%GOLD%Stackable %RED%Hellfire Torch%GOLD% ingredient for Voidstone recipe%NL%}
+ItemDisplay[pvpp INVENTORY]:%RED%D%ORANGE%u%YELLOW%e%GREEN%l%BLUE%i%PURPLE%n%WHITE%g %ORANGE%Mana%WHITE%* %GREEN%%QTY%{%NL%%GOLD%Sold by PvP vendors for 1 gold%NL%%GOLD%Super Mana Potion equivalent for %RED%PvP arenas only%NL%}
+ItemDisplay[iwss INVENTORY]:%RED%C%ORANGE%a%YELLOW%t%GREEN%a%BLUE%l%PURPLE%y%WHITE%s%RED%t %ORANGE%Shard%WHITE%* %GREEN%%QTY%{%NL%%GOLD%Guarantees a map event%NL%%GOLD% Corrupted Map : %GREEN%Map %WHITE%+ %RED%Shard %NL%}
 
 ItemDisplay[cm2f !INVENTORY]:%MAP-0B%%PURPLE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%[    %GOLD%Hellfire %ORANGE%Ashes%WHITE%* %GREEN%%QTY%    %WHITE%]%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%PURPLE%*{%NL%%GOLD%Made by cubing the %RED%Torch %WHITE%+ %ORANGE%Key%NL%%GOLD%Stackable %RED%Hellfire Torch%GOLD% ingredient for Voidstone recipe%NL%}
 ItemDisplay[pvpp !INVENTORY]:%MAP-0B%%PURPLE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%[    %GOLD%Dueling %ORANGE%Mana%WHITE%* %GREEN%%QTY%    %WHITE%]%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%PURPLE%*{%NL%%GOLD%Sold by PvP vendors for 1 gold%NL%%GOLD%Super Mana Potion equivalent for %RED%PvP arenas only%NL%}
@@ -1628,7 +1628,7 @@ ItemDisplay[tes INVENTORY]:%GOLD%Suffering%ORANGE%(Anda)%WHITE%* %GREEN%%QTY%
 ItemDisplay[ceh INVENTORY]:%GOLD%Hatred%GREEN%(Mephisto)%WHITE%* %GREEN%%QTY%
 ItemDisplay[bet INVENTORY]:%GOLD%Terror%PURPLE%(Diablo)%WHITE%* %GREEN%%QTY%
 ItemDisplay[fed INVENTORY]:%GOLD%Destruction%BLUE%(Baal)%WHITE%* %GREEN%%QTY%
-ItemDisplay[toa INVENTORY]:%GOLD%Token
+ItemDisplay[toa INVENTORY]:%GOLD%Token of %RED%A%ORANGE%b%YELLOW%s%GREEN%o%BLUE%l%PURPLE%u%WHITE%t%RED%i%ORANGE%o%YELLOW%n
 
 ItemDisplay[tes !INVENTORY]:%MAP-0B%%PURPLE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%[ %GOLD%Suffering%ORANGE%(Anda)%WHITE%* %GREEN%%QTY% %WHITE%]%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%PURPLE%*
 ItemDisplay[ceh !INVENTORY]:%MAP-0B%%PURPLE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%WHITE%[ %GOLD%Hatred%GREEN%(Mephisto)%WHITE%* %GREEN%%QTY% %WHITE%]%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%GOLD%-%ORANGE%-%RED%-%PURPLE%-%PURPLE%*
@@ -1639,8 +1639,8 @@ ItemDisplay[toa !INVENTORY]:%MAP-0B%%PURPLE%*%PURPLE%-%ORANGE%-%GOLD%-%WHITE%-%G
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                   PD2 Corruption Items                                      //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[wss INVENTORY]:%GOLD%Shard%WHITE%* %GREEN%%QTY%{%NL%%GOLD%corrupts items%NL%}
-ItemDisplay[lbox INVENTORY]:%GOLD%Puzzle %RED%Box%WHITE%* %GREEN%%QTY%{%RED%For all items but, much valuable than piece%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items%NL%}
+ItemDisplay[wss INVENTORY]:%ORANGE%W%TAN%o%ORANGE%r%TAN%l%ORANGE%d%TAN%s%ORANGE%t%TAN%o%ORANGE%n%TAN%e %GOLD%Shard%WHITE%* %GREEN%%QTY%{%NL%%GOLD%corrupts items%NL%}
+ItemDisplay[lbox INVENTORY]:%RED%P%ORANGE%u%YELLOW%z%GREEN%z%BLUE%l%PURPLE%e %RED%Box%WHITE%* %GREEN%%QTY%{%RED%For all items but, much valuable than piece%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items%NL%}
 ItemDisplay[lpp INVENTORY]:%GOLD%Puzzle %WHITE%Piece%WHITE%* %GREEN%%QTY%{%RED%For rare, craft items%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%(Non %TAN%uni/%GREEN%set%WHITE%) %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items (not uniques,sets) items%NL%}
 ItemDisplay[lmal INVENTORY]:%GOLD%larzuks %BLUE%malus{%NL%%YELLOW%Others %WHITE%soc : %GREEN%1 %WHITE%(based item)%NL%}
 
