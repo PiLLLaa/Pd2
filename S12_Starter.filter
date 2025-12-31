@@ -86,14 +86,16 @@ ItemDisplay[SET !ID uth FILTLVL>11]:
 ItemDisplay[SET !ID (uh9 OR xul OR ne9 OR utc OR xmg) FILTLVL>11]:
 ItemDisplay[SET !ID (WEAPON OR ARMOR OR rin OR amu) FILTLVL>11]:
 
-/////////////////////////////////////////////////////////////////////////////////////////////////
-//                                       MISC                                                  //
-/////////////////////////////////////////////////////////////////////////////////////////////////
+
 //S10
 
 // %SOUNDID-2678% map
 // %SOUNDID-2664% Unique
 // %SOUNDID-418% Rune
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                     Lucion Uber                                             //
+/////////////////////////////////////////////////////////////////////////////////////////////////
 
 // PD2 Items - S10 Boss mats
 ItemDisplay[lucb]:%MAP-0B%%PURPLE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[    %GOLD%Demonic %ORANGE%Insignia%WHITE%* %GREEN%%QTY%    %WHITE%]%PURPLE%--%BLUE%--%GREEN%--%YELLOW%--%ORANGE%--%RED%--%PURPLE%*{%TAN%-- --  -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --%NL%%GOLD%Demonic %ORANGE%Insignia : New Uber ingredient%NL%%TAN%-- --  -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --}
@@ -106,6 +108,10 @@ ItemDisplay[luca]:%MAP-0B%%PURPLE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%
 
 //ItemDisplay[lucb OR lucc OR lucd]:%MAP-0B% %GOLD%%NAME% %RED%(New Uber){%TAN%-- -- -- -- -- -- -- -- -- --  %NL% %GOLD%New Uber Part %NL%%TAN%-- --  -- -- -- -- -- -- -- --}
 //ItemDisplay[luca]:%MAP-0B%%PURPLE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[    %GOLD%Hellfire %ORANGE%Ashes%WHITE%* %GREEN%%QTY%    %WHITE%]%PURPLE%--%BLUE%--%GREEN%--%YELLOW%--%ORANGE%--%RED%--%PURPLE%*{%NL%%GOLD%Made by cubing the %RED%Torch %WHITE%+ %ORANGE%Key%NL%%GOLD%Stackable %RED%Hellfire Torch%GOLD% ingredient for Voidstone recipe%NL%}
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                       MISC                                                  //
+/////////////////////////////////////////////////////////////////////////////////////////////////
 
 ItemDisplay[crfb !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%MAP-0B% %RED%(blood)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %RED%Blood Crafting Item %GOLD% when cubing}
 ItemDisplay[crfc !(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)]:%MAP-0B% %BLUE%(caster)%GOLD%infusion %WHITE%* %GREEN%%QTY% {%GOLD%Making %BLUE%Caster Crafting Item %GOLD% when cubing}
