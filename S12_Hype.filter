@@ -3,18 +3,18 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      Filter Level                                           //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplayFilterName[]: Standard //FILTLVL>0 
-ItemDisplayFilterName[]: No ThrowingPotion+Ring(M) //FILTLVL>1 OK
-ItemDisplayFilterName[]: +No Quivers(M)+CraftArmor //FILTLVL>2
-ItemDisplayFilterName[]: ++No Claw(M)+ClassHelmet(M)+Javel(M) //FILTLVL>3
-ItemDisplayFilterName[]: +++No NormalSet(Only Active Sigon) //FILTLVL>4
-ItemDisplayFilterName[]: ++++No NecHead(M)+Wand(M) //FILTLVL>5
-ItemDisplayFilterName[]: +++++No Amulet(M)+Circlet(M)+Glove(M) //FILTLVL>6  OK
-ItemDisplayFilterName[]: ++++++No Sigon+HP/MP+Anti //FILTLVL>7 OK
-ItemDisplayFilterName[]: +++++++No Bolt(Rare)+R35 //FILTLVL>8 OK
-ItemDisplayFilterName[]: ++++++++No Arrow(Rare)+Only GG base Item //FILTLVL>9
-ItemDisplayFilterName[]: +++++++++No CraftWeapon(Only Active ETH+Bows(GMB)) //FILTLVL>10
-ItemDisplayFilterName[]: ++++++++++No AllSet(rin+amu) //FILTLVL>11
+ItemDisplayFilterName[]: ÿc5Standard //FILTLVL>0 
+ItemDisplayFilterName[]: ÿc1No ÿc.ThrowingPotionÿc0+ÿc:Ring(M) //FILTLVL>1 OK
+ItemDisplayFilterName[]: +ÿc1No ÿc7Quivers(M)ÿc0+ÿc3CraftArmor //FILTLVL>2
+ItemDisplayFilterName[]: ++ÿc1No ÿc7Claw(M)ÿc0+ÿc;ClassHelmet(M)ÿc0+ÿc:Javel(M) //FILTLVL>3
+ItemDisplayFilterName[]: +++ÿc1No ÿc2NormalSetÿc4(Only Active Sigon) //FILTLVL>4
+ItemDisplayFilterName[]: ++++ÿc1No ÿc7NecHead(M)ÿc0+ÿc!Wand(M) //FILTLVL>5
+ItemDisplayFilterName[]: +++++ÿc1No ÿc7Amulet(M)ÿc0+ÿc+Circlet(M)ÿc0+ÿc:Glove(M) //FILTLVL>6  OK
+ItemDisplayFilterName[]: ++++++ÿc1No ÿc2Sigonÿc0+ÿc.HP/ÿc*MPÿc0+ÿc,Anti //FILTLVL>7 OK
+ItemDisplayFilterName[]: +++++++ÿc1No ÿc8Bolt(Rare)ÿc0+ÿc;R35 //FILTLVL>8 OK
+ItemDisplayFilterName[]: ++++++++ÿc1No ÿc8Arrow(Rare)ÿc0+ÿc4Only GG base Item //FILTLVL>9
+ItemDisplayFilterName[]: +++++++++ÿc1No ÿc3CraftWeaponÿc4(Only Active ETH+Bows(GMB)) //FILTLVL>10
+ItemDisplayFilterName[]: ++++++++++ÿc1No ÿc2AllSet(rin+amu) //FILTLVL>11
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      Filter Level Disable Item                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
