@@ -1645,7 +1645,7 @@ ItemDisplay[toa !INVENTORY]:%MAP-0B%%PURPLE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%-
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                   PD2 Corruption Items                                      //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[wss INVENTORY]:%ORANGE%W%TAN%o%ORANGE%r%TAN%l%ORANGE%d%TAN%s%ORANGE%t%TAN%o%ORANGE%n%TAN%e %GOLD%Shard%WHITE%* %GREEN%%QTY%{%NL%%GOLD%corrupts items%NL%}
+ItemDisplay[wss INVENTORY]:%GREEN%‹%GREEN%‹%PURPLE%—%TEAL%—%SAGE%—%WHITE%—  %ORANGE%Worldstone %GOLD%Shard%WHITE%* %GREEN%%QTY%  %WHITE%—%SAGE%—%TEAL%—%PURPLE%—%GREEN%›%GREEN%›{%NL%%GOLD%corrupts items%NL%}
 ItemDisplay[lbox INVENTORY]:%RED%P%ORANGE%u%YELLOW%z%GREEN%z%BLUE%l%PURPLE%e %RED%Box%WHITE%* %GREEN%%QTY%{%RED%For all items but, much valuable than piece%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items%NL%}
 ItemDisplay[lpp INVENTORY]:%GOLD%Puzzle %WHITE%Piece%WHITE%* %GREEN%%QTY%{%RED%For rare, craft items%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%(Non %TAN%uni/%GREEN%set%WHITE%) %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items (not uniques,sets) items%NL%}
 ItemDisplay[lmal INVENTORY]:%GOLD%larzuks %BLUE%malus{%NL%%YELLOW%Others %WHITE%soc : %GREEN%1 %WHITE%(based item)%NL%}
