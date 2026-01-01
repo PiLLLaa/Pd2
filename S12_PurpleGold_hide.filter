@@ -16,6 +16,11 @@ ItemDisplayFilterName[]: ++++++++ÿc1No ÿc8Arrow(Rare)ÿc0+ÿc4Only GG base Item //
 ItemDisplayFilterName[]: +++++++++ÿc1No ÿc3CraftWeaponÿc4(Only Active ETH+Bows(GMB)) //FILTLVL>10
 ItemDisplayFilterName[]: ++++++++++ÿc1No ÿc2AllSet(rin+amu) //FILTLVL>11
 /////////////////////////////////////////////////////////////////////////////////////////////////
+//                                             Alias                                           //
+/////////////////////////////////////////////////////////////////////////////////////////////////
+Alias[MAPS_ALL]:(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19 OR t20 OR t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29 OR t30 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t37 OR t38 OR t39 OR t51 OR t52 OR t53 OR t54 OR t55)
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      Filter Level Disable Item                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //s12
@@ -2026,6 +2031,11 @@ ItemDisplay[t56]: %NAME%{%GOLD%Immunes:%YELLOW%L%GOLD%-%PURPLE%[%RED%Fire %CORAL
 
 //ItemDisplay[(t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19 OR t20 OR t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29 OR t30 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t37 OR t38 OR t39 OR t40 OR t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) ID]:%NAME%{%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--}%CONTINUE%
 //ItemDisplay[(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19 OR t20 OR t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29 OR t30 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t37 OR t38 OR t39) ID]:%NAME%{%GOLD%--- --- --- --- --- --- --- --- --- --- --- --- --- ---}%CONTINUE%
+
+ItemDisplay[MAPS_ALL NMAG]:%NAME%{%RED%4) %GOLD%Zakarum Orb %LIGHT_GRAY%+ %BLUE%Jewel %LIGHT_GRAY%+ %GOLD%Rune %GRAY%changed to %YELLOW%Rare %NL%%ORANGE%3) %GOLD%Arcane Orb + %BLUE%Jewel %GRAY%changed to %BLUE%Magic           %NL%%ORANGE%2) %SAGE%3x %WHITE%Maps(same Tier) %GRAY%changed to %BLUE%Map%TEAL%+1Tier      %NL%%ORANGE%1) %GOLD%Orb of Desttruction %GRAY%changed to %WHITE%Normal        %NL%%NL%%SAGE%X%BLUE%X%PURPLE%X       %GOLD%Map recipies by cubing       %PURPLE%X%BLUE%X%SAGE%X%NL%%NL%%NAME%}%CONTINUE%
+ItemDisplay[MAPS_ALL MAG]:%NAME%{%NL%%RED%2) %GOLD%Infused Angelic Orb %GRAY%changed to %YELLOW%Rare           %NL%%ORANGE%1) %GOLD%Angelic Orb %LIGHT_GRAY%+ %GOLD%Pgems %LIGHT_GRAY%+ %GOLD%Rune %GRAY%changed to %YELLOW%Rare %NL%%NL%%SAGE%X%BLUE%X%PURPLE%X       %GOLD%Map recipies by cubing       %PURPLE%X%BLUE%X%SAGE%X%NL%%NL%%NAME%}%CONTINUE%
+//ItemDisplay[MAPS_ALL RARE]:%NAME%{%ORANGE%1) %GOLD%Catalyst Shard %GRAY%adds %BLUE%Random Event      %NL%%NL%%SAGE%X%BLUE%X%PURPLE%X       %GOLD%Map recipies by cubing       %PURPLE%X%BLUE%X%SAGE%X%NL%%NL%%NAME%}%CONTINUE%
+
 
 //s11 t54/t55 added
 //s12
