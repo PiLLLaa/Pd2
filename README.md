@@ -1,9 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=%20PiLLLa'sPD2filter%20%20&height=300&fontSize=80)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PiLLLaa&show_icons=true&theme=synthwave)](https://github.com/PiLLLaa/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPiLLLaa%2Fhit-counter)](https://hits.seeyoufarm.com)
- 
  ## INTRODUCE
    Hello, Maybe someone knows me in POD game because I had been spent a lot of time to develope the filter for diablo2 POD system. Unfortunately, POD is under rest time to upgrade system. This chance gave me joining the PD2 Game. When I'm were doing game, I felt that it's necessary to make new filter by me. During this time, I felt and am feeling very fantastic experience to learn the new system and architecture of PD2 filtering. I have been tring to understand this everyday by seeing the wiki and by asking the others. So, I did fanally launch the filter which is specialized for PD2 system based on experiencing filter design which came from POD. I'm not sure that this filter meet the your favorite. Now, It may be not to fufill the 100% score for you, however it would be getting perfection from hearing your personally opinion and voice, . Once again, I sincerely need to hear your voice and am glad to wait for your feedback always. Thanks for enjoyning and using my filter.
  
