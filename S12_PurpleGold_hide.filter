@@ -8655,6 +8655,36 @@ ItemDisplay[amu MAG ID ALVL<90]:%NAME%{%NL%%PURPLE%[%CORAL%AffixLevel:%PURPLE%L%
 ItemDisplay[rin MAG ID ALVL>85]:%NAME%{%NL%%PURPLE%[%CORAL%AffixLevel:%PURPLE%L%ALVL% %GOLD%%GOLD%All %RED% affixes %GOLD%added via %ORANGE%crafting%PURPLE%]%NL%%NAME%}%CONTINUE%
 ItemDisplay[rin MAG ID ALVL<86]:%NAME%{%NL%%PURPLE%[%CORAL%AffixLevel:%PURPLE%L%ALVL% %GOLD%Not %RED%recommended %GOLD%for %ORANGE%crafting%PURPLE%]%NL%%NAME%}%CONTINUE%
 
+//LLD
+// ===== LLD UNIQUE : 2H WEAPONS =====
+ItemDisplay[UNI (mau OR rxb OR flb OR gma OR wst OR gsd) ID]:%NAME%{%NL%%CORAL%Low Level Duling Items%NL%%NAME%}%CONTINUE%
+// ===== LLD UNIQUE : 1H WEAPONS =====
+ItemDisplay[UNI (bwn OR wax OR kri) ID]:%NAME%{%NL%%CORAL%Low Level Duling Items%NL%%NAME%}%CONTINUE%
+// ===== LLD UNIQUE : HELMETS =====
+ItemDisplay[UNI (ba6 OR xap OR dr2) ID]:%NAME%{%NL%%CORAL%Low Level Duling Items%NL%%NAME%}%CONTINUE%
+// ===== LLD UNIQUE : CHEST ARMORS =====
+ItemDisplay[UNI (ltp OR gth OR fld OR aar OR xui OR stu) ID]:%NAME%{%NL%%CORAL%Low Level Duling Items%NL%%NAME%}%CONTINUE%
+// ===== LLD UNIQUE : SHIELDS =====
+ItemDisplay[UNI (tow OR kit OR xuc) ID]:%NAME%{%NL%%CORAL%Low Level Duling Items%NL%%NAME%}%CONTINUE%
+// ===== LLD UNIQUE : GLOVES =====
+ItemDisplay[UNI (vgl OR tgl OR xlg) ID]:%NAME%{%NL%%CORAL%Low Level Duling Items%NL%%NAME%}%CONTINUE%
+// ===== LLD UNIQUE : BOOTS =====
+ItemDisplay[UNI (tbt OR vbt OR hbt OR mbt) ID]:%NAME%{%NL%%CORAL%Low Level Duling Items%NL%%NAME%}%CONTINUE%
+// ===== LLD UNIQUE : BELTS =====
+ItemDisplay[UNI (vbl OR zlb) ID]:%NAME%{%NL%%CORAL%Low Level Duling Items%NL%%NAME%}%CONTINUE%
+// ===== LLD SET : 1H WEAPONS (Sander's Superstition) =====
+ItemDisplay[SET (bwn) ID]:%NAME%{%NL%%CORAL%Low Level Duling Items%NL%%NAME%}%CONTINUE%
+// ===== LLD SET : GLOVES (Death's Hand / IK Forge / Sander's Taboo) =====
+ItemDisplay[SET (lgl OR xhg OR vgl) ID]:%NAME%{%NL%%CORAL%Low Level Duling Items%NL%%NAME%}%CONTINUE%
+// ===== LLD SET : BOOTS (Cow King's Hooves / Sander's Riprap) =====
+ItemDisplay[SET (vbt) ID]:%NAME%{%NL%%CORAL%Low Level Duling Items%NL%%NAME%}%CONTINUE%
+// ===== LLD SET : BELTS (Death's Guard / IK Detail) =====
+ItemDisplay[SET (lbl OR zhb) ID]:%NAME%{%NL%%CORAL%Low Level Duling Items%NL%%NAME%}%CONTINUE%
+// ===== LLD SET : RING&AMULET (Angelic Halo/ Angelic Wings / The Mahim-Oak Curio) =====
+ItemDisplay[SET rin LIFE=20 REPLIFE=6 ID]:%NAME%{%NL%%CORAL%Low Level Duling Items%NL%%NAME%}%CONTINUE%
+ItemDisplay[SET amu STAT114=20 STAT89=3 ID]:%NAME%{%NL%%CORAL%Low Level Duling Items%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI amu ID FCR>4 STAT119>29 ED>4 DEF>0 STR>4 RES>4]:%NAME%{%NL%%CORAL%Low Level Duling Items%NL%%NAME%}%CONTINUE%
+
 ItemDisplay[(UNI OR SET OR RARE OR CRAFT) (WEAPON OR ARMOR OR rin OR amu OR rar OR rbe OR ram) ID STAT477=4]:%NAME%{%RED%+%GRAY%Black Mirrored%RED%+%NL%%NAME%}%CONTINUE%
 ItemDisplay[(UNI OR SET OR RARE OR CRAFT) (WEAPON OR ARMOR OR rin OR amu OR rar OR rbe OR ram) ID STAT477=21]:%NAME%{%RED%+%WHITE%White Mirrored%RED%+%NL%%NAME%}%CONTINUE%
 
