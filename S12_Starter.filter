@@ -3720,7 +3720,7 @@ ItemDisplay[UNI !ID xsh !ETH]:%DOT-0C%%GOLD%@@  %RED%Lidless Wall%TAN%[Grim Shie
 ItemDisplay[UNI !ID xsh ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Lidless Wall%TAN%[Grim Shield] %ORANGE%(EX) %GOLD%@@
 ItemDisplay[UNI !ID uow !ETH]:%DOT-0C%%GOLD%@@  %RED%Medusa's Gaze%TAN%[Aegis] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID uow ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Medusa's Gaze%TAN%[Aegis] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID ush !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Head Hunter's Glory    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
+ItemDisplay[UNI !ID ush !ETH]:DOT-0C%%GOLD%@@  %RED%Head Hunter's Glory%TAN%[Troll Nest] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID ush ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Head Hunter's Glory%TAN%[Troll Nest] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID uts !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Spirit Ward    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID uts ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Spirit Ward%TAN%[Ward] %ORANGE%(EL) %GOLD%@@
