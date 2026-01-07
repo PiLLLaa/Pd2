@@ -8768,15 +8768,15 @@ ItemDisplay[UNI xtb ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   
 // Gore Rider | Melee Range | ALL | USE=YES | CORE=YES
 ItemDisplay[UNI xhb ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Melee %BLUE%& Range %WHITE%:  %GOLD%all %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 // Razortail | Strafe/Multi Shot, Exploding Arrow | AMA | USE=YES | CORE=YES
-ItemDisplay[UNI zvb ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Strafe/%GREEN%Multi Shot,%ORANGE%Exploding Arrow %WHITE%:  %YELLOW%ama %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI zvb ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Strafe/%GREEN%Multi Shot/%ORANGE%Exploding Arrow %WHITE%:  %YELLOW%ama %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 // Thundergods Vigor | Light Fury, Vengence, Light Build | AMA/PAL/SOR | USE=YES | CORE=YES
-ItemDisplay[UNI zhb ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Light Fury,%RED%Vengence,%ORANGE%Light Build %WHITE%:  %YELLOW%ama%WHITE%/%WHITE%pal%WHITE%/%LIGHT_GRAY%sor %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI zhb ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Light Fury/%RED%Vengence/%ORANGE%Light Build %WHITE%:  %YELLOW%ama%WHITE%/%WHITE%pal%WHITE%/%LIGHT_GRAY%sor %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 // Arachnid Mesh | Caster | Caster | USE=YES | CORE=YES
 ItemDisplay[UNI ulc ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%All magic build %WHITE%:  %WHITE%Caster %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 // Verdungos | Melee %BLUE%& Range, Merch | Multi | USE=YES | CORE=YES
-ItemDisplay[UNI umc ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Melee %BLUE%& Range, %RED%Merch %WHITE%:  %GOLD%all %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI umc ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Melee %BLUE%& Range/%RED%Merc %WHITE%:  %GOLD%all %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 // Mang Songs Lesson | Nova, All elmentals | SOR/DRU | USE=YES | CORE=YES
-ItemDisplay[UNI 6ws ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Nova,%RED%All elmentals %WHITE%:  %LIGHT_GRAY%sor%WHITE%/%SAGE%dru %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI 6ws ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Nova/%RED%All elmentals %WHITE%:  %LIGHT_GRAY%sor%WHITE%/%SAGE%dru %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 // Deaths Web | Poison Nova & Poison Build | NEC | USE=YES | CORE=YES
 ItemDisplay[UNI 7gw ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Poison Nova & %GREEN%Poison Build %WHITE%:  %TEAL%nec %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 // Thunderstroke | Light Fury | AMA | USE=YES | CORE=YES
@@ -8800,7 +8800,7 @@ ItemDisplay[UNI uhm ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   
 // Lidless Wall[Grim Shield] | for CalltoArms | Caster | USE=YES | CORE=YES
 ItemDisplay[UNI xsh ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%for CalltoArms %WHITE%:  %WHITE%Caster %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 // Spirit Ward | Posion,Light,Fire Multi build | Caster | USE=YES | CORE=YES
-ItemDisplay[UNI uts ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Posion,%RED%Light,%ORANGE%Fire Multi build %WHITE%:  %WHITE%Caster %RED%[Core] %WHITE%item:%WHITE%(N best corrupt+Skill)   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI uts ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Posion/%RED%Light/%ORANGE%Fire Multi build %WHITE%:  %WHITE%Caster %RED%[Core] %WHITE%item:%WHITE%(N best corrupt+Skill)   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 // Demon Machine[Chu-Ko-Nu] | Strafe | AMA | USE=YES | CORE=YES
 ItemDisplay[UNI 8rx ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Strafe %WHITE%:  %YELLOW%ama %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 // Halaberd's Reign[Conqueror Crown] | Melee/Double Throw/Wounds | BARB | USE=YES | CORE=YES
