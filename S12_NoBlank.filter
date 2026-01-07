@@ -10050,9 +10050,9 @@ ItemDisplay[UNI pa9 ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   
 // Giant Skull | Strafe/Multishot | AMA | USE=YES | CORE=YES
 ItemDisplay[UNI uh9 ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Strafe/%GREEN%Multishot %WHITE%:  %YELLOW%ama %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 // Veil of Steel | Melee Range | AMA/SIN/BARB/PAL | USE=YES | CORE=YES
-ItemDisplay[UNI uhm ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Melee %BLUE%& Range %WHITE%:  %YELLOW%ama%WHITE%/%GREEN%sin%WHITE%/%LIGHT_GRAY%barb%WHITE%/%WHITE%pal %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI uhm EDAM>0 ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Melee %BLUE%& Range %WHITE%:  %YELLOW%ama%WHITE%/%GREEN%sin%WHITE%/%LIGHT_GRAY%barb%WHITE%/%WHITE%pal %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 // Nightwings Veil | Cold Arrow/Cold Build | AMA/SOR | USE=YES | CORE=YES
-ItemDisplay[UNI uhm ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Cold Arrow/%GREEN%Cold Build %WHITE%:  %YELLOW%ama%WHITE%/%LIGHT_GRAY%sor %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI uhm STAT331>0 ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Cold Arrow/%GREEN%Cold Build %WHITE%:  %YELLOW%ama%WHITE%/%LIGHT_GRAY%sor %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 // Lidless Wall[Grim Shield] | for CalltoArms | Caster | USE=YES | CORE=YES
 ItemDisplay[UNI xsh ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%for CalltoArms %WHITE%:  %WHITE%Caster %RED%[Core] %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 // Spirit Ward | Posion,Light,Fire Multi build | Caster | USE=YES | CORE=YES
