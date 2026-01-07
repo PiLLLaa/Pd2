@@ -9142,7 +9142,7 @@ ItemDisplay[UNI 9tw ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   
 // Cerebus' Bite | Maul | DRU | USE=YES | CORE=No
 ItemDisplay[UNI drb ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Maul %WHITE%:  %SAGE%dru %RED%Core %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 // Steel Pillar | WW | BAR | USE=YES | CORE=No
-ItemDisplay[UNI 7p7 ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%WW%WHITE%/Melee %WHITE%:  %LIGHT_GRAY%/BARB %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI 7p7 ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%WW%WHITE%/Melee %WHITE%:  %LIGHT_GRAY%barb %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 // Arm of King Leoric[Tomb Wand] | Summon | NEC | USE=YES | CORE=No
 ItemDisplay[UNI 9bw ID !EQUIPPED]:%NAME%{%GOLD%*%CORAL%*%WHITE%*%LIGHT_GRAY%*   %SAGE%Summon %WHITE%:  %TEAL%nec %WHITE%item%GRAY% +best %PURPLE%corrupt   %LIGHT_GRAY%*%WHITE%*%CORAL%*%GOLD%*%NL%%NAME%}%CONTINUE%
 
