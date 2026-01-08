@@ -27,7 +27,7 @@ Alias[BOX_SYMBOL]:%LIGHT_GRAY%—%WHITE%—%CORAL%—%GOLD%—
 Alias[USAGE_SYMBOL_L]:%GOLD%—%CORAL%—%WHITE%—%LIGHT_GRAY%—
 Alias[USAGE_SYMBOL_R]:%LIGHT_GRAY%—%WHITE%—%CORAL%—%GOLD%—
 //%GOLD%**%ORANGE%**%YELLOW%**%WHITE%**%YELLOW%**%ORANGE%**
-Alias[GOLDEN]:%GOLD%—%GOLD%—%ORANGE%—%ORANGE%—%YELLOW%—%YELLOW%—%WHITE%—%WHITE%—%YELLOW%—%YELLOW%—%ORANGE%—%ORANGE%— 
+Alias[GOLDEN_SYMBOL]:%GOLD%—%GOLD%—%ORANGE%—%ORANGE%—%YELLOW%—%YELLOW%—%WHITE%—%WHITE%—%YELLOW%—%YELLOW%—%ORANGE%—%ORANGE%— 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      Filter Level Disable Item                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
