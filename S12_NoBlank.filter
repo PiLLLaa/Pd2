@@ -4101,9 +4101,9 @@ ItemDisplay[t54]:%GOLD%Imperial %TAN%Palace %RED%[Map]%CONTINUE%
 //s12
 ItemDisplay[t56]:%GOLD%City %TAN%of Ureh %RED%Map%CONTINUE%
 
-ItemDisplay[(t35) NMAG]:%NAME%%WHITE%[Normal]%CONTINUE%
-ItemDisplay[(t35) MAG]:%NAME%%DARK_GREEN%[Magic]%CONTINUE%
-ItemDisplay[(t35) RARE]:%NAME%%ORANGE%[Rare]%CONTINUE%
+//ItemDisplay[(t35) NMAG]:%NAME%%WHITE%[Normal]%CONTINUE%
+//ItemDisplay[(t35) MAG]:%NAME%%DARK_GREEN%[Magic]%CONTINUE%
+//ItemDisplay[(t35) RARE]:%NAME%%ORANGE%[Rare]%CONTINUE%
 
 //s10
 ItemDisplay[t27]:Demon Road %SAGE%[Map%SAGE%]%CONTINUE%
