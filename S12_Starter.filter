@@ -1943,9 +1943,9 @@ ItemDisplay[t17 RARE]:%YELLOW%Halls %GOLD%of Torture %WHITE%Map%CONTINUE%
 
 /////////////////////////////////////////////////////////////////////////////////
 
-ItemDisplay[(t35) NMAG]:%NAME% %WHITE%(Normal)%CONTINUE%
-ItemDisplay[(t35) MAG]:%NAME% %DARK_GREEN%(Magic)%CONTINUE%
-ItemDisplay[(t35) RARE]:%NAME% %ORANGE%(Rare)%CONTINUE%
+//ItemDisplay[(t35) NMAG]:%NAME% %WHITE%(Normal)%CONTINUE%
+//ItemDisplay[(t35) MAG]:%NAME% %DARK_GREEN%(Magic)%CONTINUE%
+//ItemDisplay[(t35) RARE]:%NAME% %ORANGE%(Rare)%CONTINUE%
 
 ItemDisplay[MAPS_ALL_NM NMAG]:%NAME% %WHITE%(Normal)%CONTINUE%
 ItemDisplay[MAPS_ALL_NM MAG]:%NAME% %DARK_GREEN%(Magic)%CONTINUE%
