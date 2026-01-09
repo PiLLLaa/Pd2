@@ -9715,6 +9715,7 @@ ItemDisplay[(RARE OR CRAFT) rin (STAT360=62)]:%NAME%{%TAN%[%RED%Cu%ORANGE%rs%YEL
 ItemDisplay[(RARE OR CRAFT) (amu) ALLSK>1 (CLSK0>1 OR CLSK1>1 OR CLSK2>1 OR CLSK3>1 OR CLSK4>1 OR CLSK5>1 OR CLSK6>1) (STAT360=27 OR STAT360=50) STAT206>0]:%NAME%{%PURPLE%+    %SAGE%H A P P Y   %RED%E N D    %PURPLE%+%NL%%NAME%}%CONTINUE%
 ItemDisplay[(MAG) (amu) ALLSK>1 (CLSK0>2 OR CLSK1>2 OR CLSK2>2 OR CLSK3>2 OR CLSK4>2 OR CLSK5>2 OR CLSK6>2) (STAT360=27 OR STAT360=50) STAT206>0]:%NAME%{%PURPLE%+    %SAGE%H A P P Y   %RED%E N D    %PURPLE%+%NL%%NAME%}%CONTINUE%
 //ItemDisplay[amu ID STAT206>0]:%NAME%{%NAME%}%CONTINUE%
+ItemDisplay[amu ID STAT206=2]:%RED%(Ed)%NL%%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[amu ID STAT206=16]:%RED%(Fcr)%NL%%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[amu ID STAT206=19]:%RED%(Ds)%NL%%NAME%{%NAME%}%CONTINUE%
 ItemDisplay[amu ID STAT206=25]:%RED%(Ed/ds)%NL%%NAME%{%NAME%}%CONTINUE%
@@ -10058,7 +10059,7 @@ ItemDisplay[UNI uhm STAT331>0 ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Cold
 // Lidless Wall[Grim Shield] | for CalltoArms | Caster | USE=YES | CORE=YES
 ItemDisplay[UNI xsh ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%for CalltoArms %WHITE%:  %WHITE%Caster %RED%[Core] %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Spirit Ward | Posion,Light,Fire Multi build | Caster | USE=YES | CORE=YES
-ItemDisplay[UNI uts ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Posion/%RED%Light/%ORANGE%Fire Multi build %WHITE%:  %WHITE%Caster %RED%[Core] %WHITE%item:%WHITE%(N best corrupt+Skill)   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI uts ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Posion/%RED%Light/%ORANGE%Fire Multi build %WHITE%:  %WHITE%Caster %RED%[Core] %WHITE%item:%WHITE%(N best %PURPLE%corrupt+%ORANGE%Skill)   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Demon Machine[Chu-Ko-Nu] | Strafe | AMA | USE=YES | CORE=YES
 ItemDisplay[UNI 8rx ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Strafe %WHITE%:  %YELLOW%ama %RED%[Core] %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Halaberd's Reign[Conqueror Crown] | Melee/Double Throw/Wounds | BARB | USE=YES | CORE=YES
@@ -10114,7 +10115,9 @@ ItemDisplay[UNI 7wb ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Venom/%GREEN%T
 // Martyrdom | Poison Strike | NEC | USE=YES | CORE=NO
 ItemDisplay[UNI ned ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Poison Strike %WHITE%:  %TEAL%nec %RED%[Core] %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Aidans Scar | Blade Sentinel/Cobra Strike | SIN | USE=YES | CORE=YES
-ItemDisplay[UNI 7qr ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Blade Sentinel/%GREEN%Cobra Strike %RED%[Core] %WHITE%:  %GREEN%sin %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI 7qr ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Blade Sentinel/%GREEN%Cobra Strike %WHITE%:  %GREEN%sin %RED%[Core] %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
+// Steel Carapace[Shadow Plate] | Util/Zeal/Armageddon | SIN/PAL/DRU | USE=YES | CORE=YES
+ItemDisplay[UNI uul ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %RED%Light/%GREEN%Zeal,Sac/%SAGE%Util/%ORANGE%Arma %WHITE%:  %SAGE%dru%WHITE%/%LIGHT_GRAY%sor%WHITE%/%GREEN%sin%WHITE%/%WHITE%pal %RED%[Core] %WHITE%| item   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 
 // ================= UTILITY ITEMS =================
 // Siggards Staunch | Util/Melee/Zeal/Sacrifice | ALL | USE=YES | CORE=NO
@@ -10135,8 +10138,6 @@ ItemDisplay[UNI uvb ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Util %WHITE%: 
 ItemDisplay[UNI urn ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Util %WHITE%:  %GRAY%merc%WHITE%/%WHITE%pal%WHITE%/%YELLOW%ama%WHITE%/%GREEN%sin%WHITE%/%LIGHT_GRAY%barb %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Darkglow[Ring Mail] | Util for Uber | ALL | USE=YES | CORE=NO
 ItemDisplay[UNI rng ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Util for Uber %WHITE%:  %GOLD%all class %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
-// Steel Carapace[Shadow Plate] | Util/Zeal/Armageddon | SIN/PAL/DRU | USE=YES | CORE=NO
-ItemDisplay[UNI uul ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Util/%GREEN%Zeal/%ORANGE%Armageddon %WHITE%:  %GREEN%sin%WHITE%/%WHITE%pal%WHITE%/%SAGE%dru %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Marrowwalk | Util/Corpse Explosion/Summon | ALL/NEC | USE=YES | CORE=NO
 ItemDisplay[UNI umb ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Util/%GREEN%Corpse Explosion/%ORANGE%Summon %WHITE%:  %GOLD%all%WHITE%/%TEAL%nec %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Spirit Keeper | Util | DRU | USE=YES | CORE=NO
@@ -10164,13 +10165,13 @@ ItemDisplay[UNI ung ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Double throw %
 // Ebonbane | Strafe | AMA | USE=YES | CORE=NO
 ItemDisplay[UNI amc ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Strafe %WHITE%:  %YELLOW%ama %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Andariel's Visage | Melee/Jab | MERC/AMA/SIN/BARB/DRU/PAL | USE=YES | CORE=NO
-ItemDisplay[UNI usk ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Melee/%GREEN%Jab %WHITE%:  %GRAY%merc%WHITE%/%YELLOW%ama%WHITE%/%GREEN%sin%WHITE%/%LIGHT_GRAY%barb%WHITE%/%SAGE%dru%WHITE%/%WHITE%pal %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI usk ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Melee/%GREEN%Jab %WHITE%:  %GRAY%merc%WHITE%/%YELLOW%ama%WHITE%/%GREEN%sin%WHITE%/%LIGHT_GRAY%barb%WHITE%/%SAGE%dru%WHITE%/%WHITE%pal %WHITE%| item   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Shaftstop | Tiger Strike | SIN | USE=YES | CORE=NO
 ItemDisplay[UNI xhn ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Tiger Strike %WHITE%:  %GREEN%sin %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Que-Hegan's Wisdom | Caster | ALL | USE=YES | CORE=NO
 ItemDisplay[UNI xtp ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Caster %WHITE%:  %GOLD%all class %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Ormus Robes | Caster(Cold/Fire) | SOR/NEC | USE=YES | CORE=NO
-ItemDisplay[UNI uui ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Caster%CORAL%(%BLUE%Cold/%GREEN%Fire%CORAL%) %WHITE%:  %LIGHT_GRAY%sor%WHITE%/%TEAL%nec %WHITE%item:%WHITE%(N best corrupt+Skill)   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI uui ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Caster%CORAL%(%BLUE%Cold/%GREEN%Fire%CORAL%) %WHITE%:  %LIGHT_GRAY%sor%WHITE%/%TEAL%nec %WHITE%item:%WHITE%(N best %PURPLE%corrupt+%ORANGE%Skill)   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Stormshield | Melee/Smite/Fire Sorc | ALL | USE=YES | CORE=NO
 ItemDisplay[UNI uit ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Melee/%GREEN%Smite/%ORANGE%Fire Sorc %WHITE%:  %GOLD%all class %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Nosferatus Coil | Melee | ALL | USE=YES | CORE=NO
