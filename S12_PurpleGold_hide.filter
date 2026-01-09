@@ -8803,7 +8803,7 @@ ItemDisplay[UNI uhm STAT331>0 ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Cold
 // Lidless Wall[Grim Shield] | for CalltoArms | Caster | USE=YES | CORE=YES
 ItemDisplay[UNI xsh ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%for CalltoArms %WHITE%:  %WHITE%Caster %RED%[Core] %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Spirit Ward | Posion,Light,Fire Multi build | Caster | USE=YES | CORE=YES
-ItemDisplay[UNI uts ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Posion/%RED%Light/%ORANGE%Fire Multi build %WHITE%:  %WHITE%Caster %RED%[Core] %WHITE%item:%WHITE%(N best %PURPLE%corrupt+%ORANGE%Skill)   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI uts ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Posion/%RED%Light/%ORANGE%Fire Multi build %WHITE%:  %WHITE%Caster %RED%[Core] %WHITE%| %WHITE%item:%WHITE%(N best %PURPLE%corrupt+%ORANGE%Skill)   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Demon Machine[Chu-Ko-Nu] | Strafe | AMA | USE=YES | CORE=YES
 ItemDisplay[UNI 8rx ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Strafe %WHITE%:  %YELLOW%ama %RED%[Core] %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Halaberd's Reign[Conqueror Crown] | Melee/Double Throw/Wounds | BARB | USE=YES | CORE=YES
@@ -8915,7 +8915,7 @@ ItemDisplay[UNI xhn ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Tiger Strike %
 // Que-Hegan's Wisdom | Caster | ALL | USE=YES | CORE=NO
 ItemDisplay[UNI xtp ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Caster %WHITE%:  %GOLD%all class %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Ormus Robes | Caster(Cold/Fire) | SOR/NEC | USE=YES | CORE=NO
-ItemDisplay[UNI uui ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Caster%CORAL%(%BLUE%Cold/%GREEN%Fire%CORAL%) %WHITE%:  %LIGHT_GRAY%sor%WHITE%/%TEAL%nec %WHITE%item:%WHITE%(N best %PURPLE%corrupt+%ORANGE%Skill)   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI uui ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Caster%CORAL%(%BLUE%Cold/%GREEN%Fire%CORAL%) %WHITE%:  %LIGHT_GRAY%sor%WHITE%/%TEAL%nec %WHITE%| %WHITE%item:%WHITE%(N best %PURPLE%corrupt+%ORANGE%Skill)   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Stormshield | Melee/Smite/Fire Sorc | ALL | USE=YES | CORE=NO
 ItemDisplay[UNI uit ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Melee/%GREEN%Smite/%ORANGE%Fire Sorc %WHITE%:  %GOLD%all class %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Nosferatus Coil | Melee | ALL | USE=YES | CORE=NO
@@ -9009,7 +9009,7 @@ ItemDisplay[UNI 7ls ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Tornado %WHITE
 // Flamebellow[Balrog Blade] | Fire | PAL/BARB | USE=YES | CORE=NO
 ItemDisplay[UNI 7gs ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%WW/%ORANGE%Holy Fire %WHITE%:  %WHITE%pal%WHITE%/%LIGHT_GRAY%barb %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Eth Shadow Killer[Battle Cestus] | Blade Fury/Blade Dance | SIN | USE=YES | CORE=No
-ItemDisplay[UNI 7cs ETH ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Blade Fury/%GREEN%Blade Dance %WHITE%:  %GREEN%sin%WHITE%item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI 7cs ETH ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Blade Fury/%GREEN%Blade Dance %WHITE%:  %GREEN%sin %WHITE%| %WHITE%item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Demonhorn's Edge[Destroyer Helm] | Double Swing/Frenzy | BARB | USE=YES | CORE=NO
 ItemDisplay[UNI bad ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Double Swing/%GREEN%Frenzy %WHITE%:  %LIGHT_GRAY%barb %WHITE%| item%GRAY% +best %PURPLE%corrupt   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Zeraes Resolve[Matriarchal Pike] | Jab | AMA | USE=YES | CORE=NO
