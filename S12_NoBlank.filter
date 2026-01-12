@@ -9994,6 +9994,23 @@ ItemDisplay[CL1 ID (RARE OR CRAFT) !CLSK5>0 TABSK42>0 ALLSK>0 (SK225>0 OR SK229>
 ItemDisplay[CL1 ID (RARE OR CRAFT) CLSK5>0 TABSK41>0 !ALLSK>0 (SK238>0 OR SK233>0 OR SK248>0 OR SK243>0 OR SK239>0 OR FCR>0 OR STAT332>10) LVLREQ<31]:%NAME%{%CORAL%Low Level Duleing Items%NL%%NAME%}%CONTINUE%
 ItemDisplay[CL1 ID (RARE OR CRAFT) !CLSK5>0 TABSK41>0 ALLSK>0 (SK238>0 OR SK233>0 OR SK248>0 OR SK243>0 OR SK239>0 OR FCR>0 OR STAT332>10) LVLREQ<31]:%NAME%{%CORAL%Low Level Duleing Items%NL%%NAME%}%CONTINUE%
 
+//Claw COMMENTS
+ItemDisplay[(axf OR 9xf OR 7xf) (MAG OR RARE) ID !STAT477>0 !EQUIPPED]:%NAME%{%PURPLE%+  %YELLOW%Phys Base %RED%(Top Tier)%SAGE%Highest base dmg, %RED%Blood%WHITE%/%BLUE%Hitpower  %WHITE%+%NL%%NAME%}%CONTINUE%
+ItemDisplay[(7ar OR ktr OR 9ar) (MAG OR RARE) ID !STAT477>0 !EQUIPPED]:%NAME%{%PURPLE%+  %YELLOW%Phys Base %RED%(2nd Tier)%SAGE%High base dmg, %RED%Blood%WHITE%/%BLUE%Hitpower  %WHITE%+%NL%%NAME%}%CONTINUE%
+ItemDisplay[(7qr OR 9qr OR skr) (MAG OR RARE) ID !STAT477>0 !EQUIPPED]:%NAME%{%PURPLE%+  %YELLOW%Phys Base %RED%(2nd Tier)%SAGE%High dmg+range, %RED%Blood%WHITE%/%BLUE%Hitpower  %WHITE%+%NL%%NAME%}%CONTINUE%
+ItemDisplay[(7tw OR 9tw OR btl) (MAG OR RARE) ID !STAT477>0 !EQUIPPED]:%NAME%{%PURPLE%+  %BLUE%Util Base %RED%Fast speed %SAGE%Trap/Hyb %PURPLE%Caster%WHITE%/%YELLOW%Bountiful  %WHITE%+%NL%%NAME%}%CONTINUE%
+ItemDisplay[(7lw OR 9lw OR clw) (MAG OR RARE) ID !STAT477>0 !EQUIPPED]:%NAME%{%PURPLE%+  %BLUE%Util Base %SAGE%Trap/MA %PURPLE%Caster%WHITE%/%YELLOW%Bountiful  %WHITE%+%NL%%NAME%}%CONTINUE%
+ItemDisplay[(7cs OR 9cs OR ces) (MAG OR RARE) ID !STAT477>0 !EQUIPPED]:%NAME%{%PURPLE%+  %BLUE%Util Base %SAGE%Low phys scaling %PURPLE%Caster%WHITE%/%YELLOW%Bountiful  %WHITE%+%NL%%NAME%}%CONTINUE%
+ItemDisplay[(7wb OR 9wb OR wrb) (MAG OR RARE) ID !STAT477>0 !EQUIPPED]:%NAME%{%PURPLE%+  %GRAY%Low Phys Base %SAGE%Low base dmg %PURPLE%Caster%WHITE%/%YELLOW%Bountiful  %WHITE%+%NL%%NAME%}%CONTINUE%
+
+ItemDisplay[(axf OR 9xf OR 7xf) (CRAFT) ID !STAT477>0 !EQUIPPED]:%NAME%{%PURPLE%+  %YELLOW%Phys Base %RED%(Top Tier)%SAGE%Highest base dmg  %WHITE%+%NL%%NAME%}%CONTINUE%
+ItemDisplay[(7ar OR ktr OR 9ar) (CRAFT) ID !STAT477>0 !EQUIPPED]:%NAME%{%PURPLE%+  %YELLOW%Phys Base %RED%(2nd Tier)%SAGE%High base dmg  %WHITE%+%NL%%NAME%}%CONTINUE%
+ItemDisplay[(7qr OR 9qr OR skr) (CRAFT) ID !STAT477>0 !EQUIPPED]:%NAME%{%PURPLE%+  %YELLOW%Phys Base %RED%(2nd Tier)%SAGE%High dmg+range  %WHITE%+%NL%%NAME%}%CONTINUE%
+ItemDisplay[(7tw OR 9tw OR btl) (CRAFT) ID !STAT477>0 !EQUIPPED]:%NAME%{%PURPLE%+  %BLUE%Util Base  %RED%Fast speed %SAGE%Trap/Hyb  %WHITE%+%NL%%NAME%}%CONTINUE%
+ItemDisplay[(7lw OR 9lw OR clw) (CRAFT) ID !STAT477>0 !EQUIPPED]:%NAME%{%PURPLE%+  %BLUE%Util Base %SAGE%Trap/MA  %WHITE%+%NL%%NAME%}%CONTINUE%
+ItemDisplay[(7cs OR 9cs OR ces) (CRAFT) ID !STAT477>0 !EQUIPPED]:%NAME%{%PURPLE%+  %BLUE%Util Base %SAGE%Low phys scaling  %WHITE%+%NL%%NAME%}%CONTINUE%
+ItemDisplay[(7wb OR 9wb OR wrb) (CRAFT) ID !STAT477>0 !EQUIPPED]:%NAME%{%PURPLE%+  %GRAY%Low Phys Base%RED%(NOT recommended) %SAGE%Low base dmg  %WHITE%+%NL%%NAME%}%CONTINUE%
+
 
 // ================= CORE ITEMS =================
 // Crackleshot | VenomBow/Strafe | SIN/AMA | USE=YES | CORE=YES
