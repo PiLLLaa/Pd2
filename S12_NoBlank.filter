@@ -1486,12 +1486,14 @@ ItemDisplay[(UNI) 7bt ID]:%GOLD%Decapitator%NL%%GOLD%Th%TAN%e %WHITE%Ch%TAN%ie%G
 ItemDisplay[(UNI) 7bt STAT128>0 ID]:%GOLD%Decapitator%NL%%GOLD%St%TAN%or%WHITE%mr%TAN%id%GOLD%er%CONTINUE%
 ItemDisplay[(UNI) 9bt STAT128>0 ID]:%GOLD%Tabar%NL%%GOLD%St%TAN%or%WHITE%mr%TAN%id%GOLD%er%CONTINUE%
 ItemDisplay[(UNI) 7bt STAT220>0 STAT223>0 ID]:%GOLD%Decapitator%NL%%GOLD%He%TAN%ll%WHITE%sl%TAN%ay%GOLD%er%CONTINUE%
-ItemDisplay[(UNI) gax ID]:%GOLD%Great Axe%NL%%GOLD%Br%TAN%ai%WHITE%nh%TAN%ew%CONTINUE%
-ItemDisplay[(UNI) 9ga ID]:%GOLD%Gothic Axe%NL%%GOLD%Br%TAN%ai%WHITE%nh%TAN%ew%CONTINUE%
-ItemDisplay[(UNI) 7ga ID]:%GOLD%Champion Axe%NL%%GOLD%Br%TAN%ai%WHITE%nh%TAN%ew%CONTINUE%
+
+ItemDisplay[(UNI) gax STAT89>0 ID]:%GOLD%Great Axe%NL%%GOLD%Br%TAN%ai%WHITE%nh%TAN%ew%CONTINUE%
+ItemDisplay[(UNI) 9ga STAT89>0 ID]:%GOLD%Gothic Axe%NL%%GOLD%Br%TAN%ai%WHITE%nh%TAN%ew%CONTINUE%
+ItemDisplay[(UNI) 7ga STAT89>0 ID]:%GOLD%Champion Axe%NL%%GOLD%Br%TAN%ai%WHITE%nh%TAN%ew%CONTINUE%
 ItemDisplay[(UNI) 7ga STAT244>0 ID]:%GOLD%Champion Axe%NL%%GOLD%Bo%TAN%ne%WHITE%sl%TAN%ay%GOLD%er%TAN% B%WHITE%la%TAN%de%CONTINUE%
 ItemDisplay[(UNI) 9ga STAT244>0 ID]:%GOLD%Gothic Axe%NL%%GOLD%Bo%TAN%ne%WHITE%sl%TAN%ay%GOLD%er%TAN% B%WHITE%la%TAN%de%CONTINUE%
-ItemDisplay[(UNI) 9ga FRW>19 IAS>19 STAT219>0 ID]:%GOLD%Champion Axe%NL%%GOLD%Me%TAN%ss%WHITE%er%TAN%sc%GOLD%hm%TAN%id%WHITE%t'%TAN%s %GOLD%Re%TAN%av%WHITE%e%TAN%r%CONTINUE%
+ItemDisplay[(UNI) 9ga IAS>19 STAT219>0 ID]:%GOLD%Champion Axe%NL%%GOLD%Me%TAN%ss%WHITE%er%TAN%sc%GOLD%hm%TAN%id%WHITE%t'%TAN%s %GOLD%Re%TAN%av%WHITE%e%TAN%r%CONTINUE%
+
 ItemDisplay[(UNI) gix ID]:%GOLD%Giant Axe%NL%%GOLD%Hu%TAN%mo%WHITE%ng%TAN%ou%GOLD%s%CONTINUE%
 ItemDisplay[(UNI) 9gi ID]:%GOLD%Ancient Axe%NL%%GOLD%Hu%TAN%mo%WHITE%ng%TAN%ou%GOLD%s%CONTINUE%
 ItemDisplay[(UNI) 7gi ID]:%GOLD%Glorious Axe%NL%%GOLD%Hu%TAN%mo%WHITE%ng%TAN%ou%GOLD%s%CONTINUE%
