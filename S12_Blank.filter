@@ -4102,7 +4102,7 @@ ItemDisplay[UNI !ID 7di !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %RED%Shatterblade%P
 ItemDisplay[UNI !ID 7di ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Shatterblade%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)    %SAGE%++%CORAL%++%ORANGE%++
 
 //s11
-ItemDisplay[UNI !ID ob7 !ETH]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Skorn%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID ob7 !ETH]:%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Skorn%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID ob7 ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Skorn%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 7xf !ETH]: %SOUNDID-2664%%DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Whispering Mirage%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 7xf ETH]: %DOT-0C% %ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Whispering Mirage%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
