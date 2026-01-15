@@ -3840,11 +3840,11 @@ ItemDisplay[UNI !ID (cqv3)]:%SOUNDID-2664%%DOT-0C%%GOLD%+%PURPLE%+ %RED%Abys. Or
 
 ItemDisplay[(WEAPON OR ARMOR) UNI !ID]:%GOLD%+%ORANGE%+       %GOLD%%NAME%       %ORANGE%+%GOLD%+
 
-//ItemDisplay[SET !ID mbl !ETH]:%GREEN%+%PURPLE%+    %DARK_GREEN%H s a r u s %WHITE%or %GREEN%H w a n i n %SAGE%[Belt]    %PURPLE%+%GREEN%+
-//ItemDisplay[SET !ID cap !ETH]:%GREEN%+%PURPLE%+    %DARK_GREEN%I n f e r n a l %WHITE%or %GREEN%S a n d e r %SAGE%[Cap]    %PURPLE%+%GREEN%+
-//ItemDisplay[SET !ID tbl !ETH]:%GREEN%+%PURPLE%+    %DARK_GREEN%I n f e r n a l %WHITE%or %GREEN%I r a t h a %SAGE%[Heavy Belt]    %PURPLE%+%GREEN%+
-//ItemDisplay[SET !ID crn !ETH]:%GREEN%+%PURPLE%+    %DARK_GREEN%M i l a b r e g a %WHITE%or %GREEN%I r a t h a %SAGE%[Crown]    %PURPLE%+%GREEN%+
-//ItemDisplay[SET !ID vbt !ETH]:%GREEN%+%PURPLE%+    %DARK_GREEN%C o w K i n g %WHITE%or %GREEN%S a n d e r %SAGE%[Heavy Boots]    %PURPLE%+%GREEN%+
+//ItemDisplay[SET !ID mbl !ETH]:%GREEN%+%PURPLE%+    %DARK_GREEN%Hsarus %WHITE%or %GREEN%Hwanin %SAGE%[Belt]    %PURPLE%+%GREEN%+
+//ItemDisplay[SET !ID cap !ETH]:%GREEN%+%PURPLE%+    %DARK_GREEN%Infernal %WHITE%or %GREEN%Sander %SAGE%[Cap]    %PURPLE%+%GREEN%+
+//ItemDisplay[SET !ID tbl !ETH]:%GREEN%+%PURPLE%+    %DARK_GREEN%Infernal %WHITE%or %GREEN%Iratha %SAGE%[Heavy Belt]    %PURPLE%+%GREEN%+
+//ItemDisplay[SET !ID crn !ETH]:%GREEN%+%PURPLE%+    %DARK_GREEN%Milabrega %WHITE%or %GREEN%Iratha %SAGE%[Crown]    %PURPLE%+%GREEN%+
+//ItemDisplay[SET !ID vbt !ETH]:%GREEN%+%PURPLE%+    %DARK_GREEN%CowKing %WHITE%or %GREEN%Sander %SAGE%[Heavy Boots]    %PURPLE%+%GREEN%+
 
 ItemDisplay[SET !ID mbl !ETH]:%GREEN%+%PURPLE%+    %DARK_GREEN%Hsarus %WHITE%or %GREEN%Hwanin %SAGE%[Belt]    %PURPLE%+%GREEN%+
 ItemDisplay[SET !ID cap !ETH]:%GREEN%+%PURPLE%+    %DARK_GREEN%Infernal %WHITE%or %GREEN%Sander %SAGE%[Cap]    %PURPLE%+%GREEN%+
@@ -3889,11 +3889,11 @@ ItemDisplay[SET !ID (xhl OR 7ls OR upl) !ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%P
 ItemDisplay[SET !ID (7fb OR 7gd) !ETH]: %DOT-84%%PURPLE%+%RED%+%WHITE%+%PURPLE%+ %GREEN%%NAME% %SAGE%[Bul-Kathos' Children] %PURPLE%+%RED%+%WHITE%+%PURPLE%+
 
 
-//ItemDisplay[SET !ID mbl ETH]:%GREEN%+%PURPLE%+  %DARK_GREEN%H s a r u s %WHITE%or %GREEN%H w a n i n %SAGE%[Belt]  %PURPLE%+%GREEN%+
-//ItemDisplay[SET !ID cap ETH]:%GREEN%+%PURPLE%+  %DARK_GREEN%I n f e r n a l %WHITE%or %GREEN%S a n d e r %SAGE%[Cap]  %PURPLE%+%GREEN%+
-//ItemDisplay[SET !ID tbl ETH]:%GREEN%+%PURPLE%+  %DARK_GREEN%I n f e r n a l %WHITE%or %GREEN%I r a t h a %SAGE%[Heavy Belt]  %PURPLE%+%GREEN%+
-//ItemDisplay[SET !ID crn ETH]:%GREEN%+%PURPLE%+  %DARK_GREEN%M i l a b r e g a %WHITE%or %GREEN%I r a t h a %SAGE%[Crown]  %PURPLE%+%GREEN%+
-//ItemDisplay[SET !ID vbt ETH]:%GREEN%+%PURPLE%+  %DARK_GREEN%C o w K i n g %WHITE%or %GREEN%S a n d e r %SAGE%[Heavy Boots]  %PURPLE%+%GREEN%+
+//ItemDisplay[SET !ID mbl ETH]:%GREEN%+%PURPLE%+  %DARK_GREEN%Hsarus %WHITE%or %GREEN%Hwanin %SAGE%[Belt]  %PURPLE%+%GREEN%+
+//ItemDisplay[SET !ID cap ETH]:%GREEN%+%PURPLE%+  %DARK_GREEN%Infernal %WHITE%or %GREEN%Sander %SAGE%[Cap]  %PURPLE%+%GREEN%+
+//ItemDisplay[SET !ID tbl ETH]:%GREEN%+%PURPLE%+  %DARK_GREEN%Infernal %WHITE%or %GREEN%Iratha %SAGE%[Heavy Belt]  %PURPLE%+%GREEN%+
+//ItemDisplay[SET !ID crn ETH]:%GREEN%+%PURPLE%+  %DARK_GREEN%Milabrega %WHITE%or %GREEN%Iratha %SAGE%[Crown]  %PURPLE%+%GREEN%+
+//ItemDisplay[SET !ID vbt ETH]:%GREEN%+%PURPLE%+  %DARK_GREEN%CowKing %WHITE%or %GREEN%Sander %SAGE%[Heavy Boots]  %PURPLE%+%GREEN%+
 
 ItemDisplay[SET !ID mbl ETH]:%GREEN%+%PURPLE%+    %WHITE%(e)%DARK_GREEN%Hsarus %WHITE%or %GREEN%Hwanin %SAGE%[Belt]    %PURPLE%+%GREEN%+
 ItemDisplay[SET !ID cap ETH]:%GREEN%+%PURPLE%+    %WHITE%(e)%DARK_GREEN%Infernal %WHITE%or %GREEN%Sander %SAGE%[Cap]    %PURPLE%+%GREEN%+
