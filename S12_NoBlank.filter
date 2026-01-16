@@ -3507,46 +3507,60 @@ ItemDisplay[UNI !ID 7bk ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %
 ItemDisplay[UNI !ID rng ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Darkglow    %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID xhm ETH]:%ORANGE%++%CORAL%++%SAGE%++    %DOT-0C%%WHITE%(e) %RED%Valkyrie Wing    %SAGE%++%CORAL%++%ORANGE%++
 
-ItemDisplay[UNI !ID 9s8]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Athena's Wrath%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 9ls]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Plague Bearer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 9gs]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%The Vile Husk%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 9fb]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Todesfaelle Flamme%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 7sm]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Djinn Slayer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 7ls]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Frostwind%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID xpl]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Skullder's Ire%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID tgl]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %DOT-0C%%TAN%Magefist%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID hgl]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %DOT-0C%%TAN%Frostburn%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 7kr]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Fleshripper%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+ 
-ItemDisplay[UNI !ID amd]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Stoneraven%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID pac]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%AlmaNegra%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID fld]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %DOT-0C%%TAN%Rockfleece%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID xlm]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Stealskull%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID ful]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %DOT-0C%%TAN%Goldskin%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID xlg]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Venom Grip%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID xvg]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Gravepalm%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID xmg]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Ghoulhide%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID uhb]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Shadow Dancer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID zmb]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Gloom's Trap%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID ztb]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Snowclash%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 9la]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Warlord's Trust%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 8lx]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Langer Briser%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 72a]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Rune Master%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 7wa]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Death Cleaver%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 9s8]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%RED%Athena's Wrath%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 9ls]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%RED%Plague Bearer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 9gs]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%RED%The Vile Husk%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 9fb]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%RED%Todesfaelle Flamme%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 7sm]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%RED%Djinn Slayer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 7ls]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%RED%Frostwind%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID xpl]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%RED%Skullder's Ire%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID tgl]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %DOT-0C%%RED%Magefist%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID hgl]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %DOT-0C%%RED%Frostburn%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 7kr]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%RED%Fleshripper%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+ 
 
-ItemDisplay[UNI !ID 6hx]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Hellrack%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 7dg]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Wizardspike%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 7o7]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Bonehew%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 9ws]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Hand of Blessed Light%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 7sc]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Heaven'sLight or the Redeemer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 7cs]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Shadow Killer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID fld]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %DOT-0C%%RED%Rockfleece%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID xlm]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%RED%Stealskull%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID ful]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %DOT-0C%%RED%Goldskin%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 
-ItemDisplay[UNI !ID pae]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Dragonscale%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 7ga]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Messerschmidt's Reaver%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 7gi]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Executioner's Justice%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 6rx]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Gut Siphon%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID xts]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Radament's Sphere%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID xmg]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%RED%Ghoulhide%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID ztb]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%RED%Snowclash%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 9la]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%RED%Warlord's Trust%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 8lx]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%RED%Langer Briser%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 72a]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%RED%Rune Master%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 7wa]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%RED%Death Cleaver%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+
+ItemDisplay[UNI !ID 6hx]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%RED%Hellrack%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 7dg]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%RED%Wizardspike%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 7o7]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%RED%Bonehew%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 9ws]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%RED%Hand of Blessed Light%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 7sc]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%RED%Heaven'sLight or the Redeemer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 7cs]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%RED%Shadow Killer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+
+ItemDisplay[UNI !ID pae]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%RED%Dragonscale%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 7ga]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%RED%Messerschmidt's Reaver%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 7gi]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%RED%Executioner's Justice%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 6rx]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%RED%Gut Siphon%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID xts]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%RED%Radament's Sphere%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID 7b7 !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Doombringer    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID 7b7 ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%WHITE%(e) %PURPLE%Doombringer    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
+ItemDisplay[UNI !ID amd !ETH]:%ORANGE%++%CORAL%++%SAGE%++ %SAGE%[El] %DOT-0C%%RED%Stoneraven%PURPLE%[%GRAY%%NAME%%PURPLE%] %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID pac !ETH]:%ORANGE%++%CORAL%++%SAGE%++ %SAGE%[El] %DOT-0C%%RED%AlmaNegra%PURPLE%[%GRAY%%NAME%%PURPLE%] %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID amd ETH]:%ORANGE%++%CORAL%++%SAGE%++ %SAGE%[El] %DOT-0C%%WHITE%(e) %RED%Stoneraven%PURPLE%[%GRAY%%NAME%%PURPLE%] %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID pac ETH]:%ORANGE%++%CORAL%++%SAGE%++ %SAGE%[El] %DOT-0C%%WHITE%(e) %RED%AlmaNegra%PURPLE%[%GRAY%%NAME%%PURPLE%] %ORANGE%++%CORAL%++%SAGE%++
+
+ItemDisplay[UNI !ID xlg !ETH]:%ORANGE%++%CORAL%++%SAGE%++ %CORAL%[Ex] %DOT-0C%%RED%Venom Grip%PURPLE%[%GRAY%%NAME%%PURPLE%] %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID xvg !ETH]:%ORANGE%++%CORAL%++%SAGE%++ %CORAL%[Ex] %DOT-0C%%RED%Gravepalm%PURPLE%[%GRAY%%NAME%%PURPLE%] %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID xtg !ETH]:%ORANGE%++%CORAL%++%SAGE%++ %CORAL%[Ex] %DOT-0C%%RED%Lava Gout%PURPLE%[%GRAY%%NAME%%PURPLE%] %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID mbt !ETH]:%ORANGE%++%CORAL%++%SAGE%++ %LIGHT_GRAY%[Nm] %DOT-0C%%RED%Treads of Cthon%PURPLE%[%GRAY%%NAME%%PURPLE%] %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID uhb !ETH]:%ORANGE%++%CORAL%++%SAGE%++ %SAGE%[El] %DOT-0C%%RED%Shadow Dancer%PURPLE%[%GRAY%%NAME%%PURPLE%] %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID zmb !ETH]:%ORANGE%++%CORAL%++%SAGE%++ %CORAL%[Ex] %DOT-0C%%RED%Gloom's Trap%PURPLE%[%GRAY%%NAME%%PURPLE%] %ORANGE%++%CORAL%++%SAGE%++
+
+ItemDisplay[UNI !ID xlg ETH]:%ORANGE%++%CORAL%++%SAGE%++ %CORAL%[Ex] %DOT-0C%%WHITE%(e) %RED%Venom Grip%PURPLE%[%GRAY%%NAME%%PURPLE%] %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID xvg ETH]:%ORANGE%++%CORAL%++%SAGE%++ %CORAL%[Ex] %DOT-0C%%WHITE%(e) %RED%Gravepalm%PURPLE%[%GRAY%%NAME%%PURPLE%] %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID xtg ETH]:%ORANGE%++%CORAL%++%SAGE%++ %CORAL%[Ex] %DOT-0C%%WHITE%(e) %RED%Lava Gout%PURPLE%[%GRAY%%NAME%%PURPLE%] %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID mbt ETH]:%ORANGE%++%CORAL%++%SAGE%++ %LIGHT_GRAY%[Nm] %DOT-0C%%WHITE%(e) %RED%Treads of Cthon%PURPLE%[%GRAY%%NAME%%PURPLE%] %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID uhb ETH]:%ORANGE%++%CORAL%++%SAGE%++ %SAGE%[El] %DOT-0C%%WHITE%(e) %RED%Shadow Dancer%PURPLE%[%GRAY%%NAME%%PURPLE%] %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID zmb ETH]:%ORANGE%++%CORAL%++%SAGE%++ %CORAL%[Ex] %DOT-0C%%WHITE%(e) %RED%Gloom's Trap%PURPLE%[%GRAY%%NAME%%PURPLE%] %ORANGE%++%CORAL%++%SAGE%++
 
 //Unique Non Poppular
 
@@ -3611,10 +3625,9 @@ ItemDisplay[UNI !ID uml]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Blackoak Shield%PURPLE
 ItemDisplay[UNI !ID upk]:%GOLD%+%PURPLE%+ %SAGE%[El] %TAN%Spike Thorn%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID lgl]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%The Hand of Broc%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID vgl]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Bloodfist%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID xtg]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %TAN%Lava Gout%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+
 ItemDisplay[UNI !ID lbt]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Hotspur%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID vbt]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Gorefoot%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID mbt]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Treads of Cthon%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID tbt]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Goblin Toe%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID hbt]:%GOLD%+%PURPLE%+ %LIGHT_GRAY%[Nm] %TAN%Tearhaunch%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID xlb]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %TAN%Infernostride%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
