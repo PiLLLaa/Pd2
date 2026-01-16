@@ -3515,12 +3515,12 @@ ItemDisplay[UNI !ID (aqv)]:%ORANGE%@%WHITE%@  %TAN%Balefire%GOLD%[%BASENAME%]%WH
 ItemDisplay[UNI !ID (cqv)]:%ORANGE%@%WHITE%@  %TAN%Ramfodder%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID (aqv2)]:%ORANGE%@%WHITE%@  %TAN%Swiftwind or Tombsong%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID (cqv2)]:%ORANGE%@%WHITE%@  %TAN%Anvilguard or Shatterhead%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@%WHITE%@
-ItemDisplay[UNI !ID (aqv3)]:%ORANGE%@%WHITE%@  %TAN%Aetherwing or Basi. or Doom%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@%WHITE%@
+ItemDisplay[UNI !ID (aqv3)]:%SOUNDID-2664%%DOT-0C%%ORANGE%@%WHITE%@  %RED%Aether or Basi. or Doom%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@%WHITE%@
 ItemDisplay[UNI !ID (cqv3)]:%SOUNDID-2664%%DOT-0C%%ORANGE%@%WHITE%@  %RED%Abys. Or Banner. OR Frozen%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@%WHITE%@
 
 //s11
-ItemDisplay[UNI !ID ob7 !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %RED%Skorn%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
-ItemDisplay[UNI !ID ob7 ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %WHITE%eth %RED%Skorn%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID ob7 !ETH]:%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %TAN%Skorn%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID ob7 ETH]:%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %WHITE%eth %TAN%Skorn%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 7xf !ETH]:%SOUNDID-2664%%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %RED%Whispering Mirage%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 7xf ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %WHITE%eth %RED%Whispering Mirage%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID paf !ETH]:%SOUNDID-2664%%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %RED%Skywarden%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
