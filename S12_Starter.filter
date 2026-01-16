@@ -4310,11 +4310,11 @@ ItemDisplay[UNI !ID baf ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%
 ItemDisplay[UNI !ID dr2 !ETH]: %ORANGE%@@ %TAN%Quetzalcoatl%GOLD%[Hawk Helm] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID dr2 ETH]: %ORANGE%@@ %PURPLE%Eth %TAN%Quetzalcoatl%GOLD%[Hawk Helm] %ORANGE%(N) %ORANGE%@@
 
-ItemDisplay[UNI !ID drf !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Ursas Nightmare    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID drf ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %PURPLE%Eth %RED%Ursas Nightmare    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
+ItemDisplay[UNI !ID drf !ETH]:%DOT-0C%%ORANGE%@@ %RED%Ursas Nightmare%GOLD%[%NAME%] %ORANGE%(EX) %ORANGE%@@
+ItemDisplay[UNI !ID drf ETH]:%DOT-0C%%ORANGE%@@ %PURPLE%Eth %RED%Ursas Nightmare%GOLD%[%NAME%] %ORANGE%(EX) %ORANGE%@@
 
 //chest
-ItemDisplay[UNI !ID utp !ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Purgatory    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@ 
+ItemDisplay[UNI !ID utp !ETH]:%DOT-0C%%ORANGE%@@ %RED%Purgatory%TAN%[%NAME%] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID utp ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %PURPLE%Eth %RED%Purgatory    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@ 
 
 //shield
@@ -4322,7 +4322,7 @@ ItemDisplay[UNI !ID ne6 !ETH]: %DOT-0C%%ORANGE%@@ %RED%Kalan's Legacy%TAN%[Mummi
 ItemDisplay[UNI !ID ne6 ETH]: %DOT-0C%%ORANGE%@@ %PURPLE%Eth %RED%Kalan's Legacy%TAN%[Mummified Trophy] %ORANGE%(EX) %ORANGE%@@
 
 ItemDisplay[UNI !ID ned !ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Martyrdom    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID ned ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %PURPLE%Eth %RED%Martyrdom    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@ 
+ItemDisplay[UNI !ID ned ETH]: %DOT-0C%%ORANGE%@@ %PURPLE%Eth %RED%Martyrdom%TAN%[%NAME%] %ORANGE%(EL) %ORANGE%@@
 
 ItemDisplay[UNI !ID pa3 !ETH]: %ORANGE%@@ %TAN%Sankekurs Fall%TAN%[Heraldic Shield] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID pa3 ETH]: %ORANGE%@@ %PURPLE%Eth %TAN%Sankekurs Fall%TAN%[Heraldic Shield] %ORANGE%(N) %ORANGE%@@
