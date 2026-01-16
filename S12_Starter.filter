@@ -3693,7 +3693,7 @@ ItemDisplay[UNI !ID baa ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Arreats F
 //Unique Sorceress only items
 ItemDisplay[UNI !ID oba !ETH]: %DOT-0C% %GOLD%@@@@     %RED%The Oculus     %GOLD%@@@@ 
 ItemDisplay[UNI !ID oba ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%The Oculus     %GOLD%@@@@ 
-ItemDisplay[UNI !ID obc !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Eschutas Temper    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
+ItemDisplay[UNI !ID obc !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Eschutas Temper     %GOLD%@@@@ 
 ItemDisplay[UNI !ID obc ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Eschutas Temper     %GOLD%@@@@ 
 ItemDisplay[UNI !ID obf !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Deaths Fathom    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID obf ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Deaths Fathom     %GOLD%@@@@ 
