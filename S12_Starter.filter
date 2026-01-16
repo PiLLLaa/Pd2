@@ -3543,26 +3543,26 @@ ItemDisplay[UNI !ID (aqv)]:%ORANGE%@@  %TAN%Balefire%GOLD%[%BASENAME%]%WHITE%(Ne
 ItemDisplay[UNI !ID (cqv)]:%ORANGE%@@  %TAN%Ramfodder%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@@
 ItemDisplay[UNI !ID (aqv2)]:%ORANGE%@@  %TAN%Swiftwind or Tombsong%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@@
 ItemDisplay[UNI !ID (cqv2)]:%ORANGE%@@  %TAN%Anvilguard or Shatterhead%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@@
-ItemDisplay[UNI !ID (aqv3)]:%ORANGE%@@  %TAN%Aetherwing or Basi. or Doom%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@@
+ItemDisplay[UNI !ID (aqv3)]:%SOUNDID-2664%%DOT-0C%%ORANGE%@@  %RED%Aether or Basi. or Doom%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@@
 ItemDisplay[UNI !ID (cqv3)]:%SOUNDID-2664%%DOT-0C%%ORANGE%@@  %RED%Abys. Or Banner. OR Frozen%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@@
 
 //s11
-ItemDisplay[UNI !ID ob7 !ETH]:%DOT-0C% %GOLD%@@@@     %RED%Skorn%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID ob7 ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Skorn%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID 7xf !ETH]: %SOUNDID-2664%%DOT-0C% %GOLD%@@@@     %RED%Whispering Mirage%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID 7xf ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Whispering Mirage%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID paf !ETH]: %SOUNDID-2664%%DOT-0C% %GOLD%@@@@     %RED%Skywarden%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID paf ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Skywarden%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID ob7 !ETH]:%GOLD%@@@@     %TAN%Skorn%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID ob7 ETH]:%GOLD%@@@@     %WHITE%ETH %TAN%Skorn%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID 7xf !ETH]:%SOUNDID-2664%%DOT-0C% %GOLD%@@@@     %RED%Whispering Mirage%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID 7xf ETH]:%DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Whispering Mirage%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID paf !ETH]:%SOUNDID-2664%%DOT-0C% %GOLD%@@@@     %RED%Skywarden%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID paf ETH]:%DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Skywarden%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID dr6 !ETH]:%SOUNDID-2664% %DOT-0C% %GOLD%@@@@     %RED%Fenris%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID dr6 ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Fenris%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID ba2 !ETH]: %SOUNDID-2664%%DOT-0C% %GOLD%@@@@     %RED%Wildspeaker%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID ba2 ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Wildspeaker%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID 9b8 !ETH]: %SOUNDID-2664%%DOT-0C% %GOLD%@@@@     %RED%Achilles Strike%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID 9b8 ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Achilles Strike%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID dr6 ETH]:%DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Fenris%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID ba2 !ETH]:%SOUNDID-2664%%DOT-0C% %GOLD%@@@@     %RED%Wildspeaker%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID ba2 ETH]:%DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Wildspeaker%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID 9b8 !ETH]:%SOUNDID-2664%%DOT-0C% %GOLD%@@@@     %RED%Achilles Strike%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID 9b8 ETH]:%DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Achilles Strike%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID uhc !ETH]:%SOUNDID-2664% %DOT-0C% %GOLD%@@@@     %RED%Siggards Staunch%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID uhc ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Siggards Staunch%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID neg !ETH]: %SOUNDID-2664%%DOT-0C% %GOLD%@@@@     %RED%Sacred Totem%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID neg ETH]: %DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Sacred Totem%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID uhc ETH]:%DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Siggards Staunch%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID neg !ETH]:%SOUNDID-2664%%DOT-0C% %GOLD%@@@@     %RED%Sacred Totem%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID neg ETH]:%DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Sacred Totem%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
 
 //s10
 ItemDisplay[UNI !ID ulg !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Titan's Grip%GOLD%[%BASENAME%]     %GOLD%@@@@
