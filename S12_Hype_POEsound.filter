@@ -3652,7 +3652,7 @@ ItemDisplay[UNI !ID urn !ETH]:%SOUNDID-4720%%BORDER-62%%BLUE%++%WHITE%++%YELLOW%
 ItemDisplay[UNI !ID urn ETH]:%DOT-0C%%GOLD%+%RED%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%%TEAL%Crown of Ages%TAN%[Corona%PURPLE%] %GRAY%-EL- %GOLD%+%RED%+
 ItemDisplay[UNI !ID rng !ETH]:%DOT-0C%%GOLD%+%RED%+  %RED%Darkglow%TAN%[Ring Mail%PURPLE%] %GRAY%-N-  %GOLD%+%RED%+
 ItemDisplay[UNI !ID rng ETH]:%DOT-0C%%GOLD%+%RED%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Darkglow%TAN%[Ring Mail%PURPLE%] %GRAY%-N-  %GOLD%+%RED%+
-ItemDisplay[UNI !ID xth !ETH]:%SOUNDID-4720%%BORDER-62%%BLUE%++%WHITE%++%YELLOW%++%GREEN%++%BLUE%++%RED%++    %RED%Atma's Wail    %RED%++%ORANGE%++%YELLOW%++%GREEN%++%BLUE%++%PURPLE%++
+ItemDisplay[UNI !ID xth !ETH]:%DOT-0C%%GOLD%+%RED%+  %RED%Atma's Wail%TAN%[Embossed Plate%PURPLE%] %GRAY%-EX-  %GOLD%+%RED%+
 ItemDisplay[UNI !ID xth ETH]:%DOT-0C%%GOLD%+%RED%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Atma's Wail%TAN%[Embossed Plate%PURPLE%] %GRAY%-EX-  %GOLD%+%RED%+
 ItemDisplay[UNI !ID xar !ETH]:%DOT-0C%%GOLD%+%RED%+ %RED%Corpsemourn%TAN%[Ornate Armor%PURPLE%] %GRAY%-EX-  %GOLD%+%RED%+
 ItemDisplay[UNI !ID xar ETH]:%DOT-0C%%GOLD%+%RED%+ %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Corpsemourn%TAN%[Ornate Armor%PURPLE%] %GRAY%-EX-  %GOLD%+%RED%+
