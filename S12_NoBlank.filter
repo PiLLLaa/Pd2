@@ -3545,7 +3545,8 @@ ItemDisplay[UNI !ID 7ga]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Messerschmidt'
 ItemDisplay[UNI !ID 7gi]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Executioner's Justice%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID 6rx]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Gut Siphon%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
 ItemDisplay[UNI !ID xts]:%GOLD%+%PURPLE%+ %CORAL%[Ex] %DOT-0C%%TAN%Radament's Sphere%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
-ItemDisplay[UNI !ID 7b7]:%GOLD%+%PURPLE%+ %SAGE%[El] %DOT-0C%%TAN%Doombringer%PURPLE%[%GRAY%%NAME%%PURPLE%] %PURPLE%+%GOLD%+
+ItemDisplay[UNI !ID 7b7 !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Doombringer    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
+ItemDisplay[UNI !ID 7b7 ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%WHITE%(e) %PURPLE%Doombringer    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 
 //Unique Non Poppular
 
