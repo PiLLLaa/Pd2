@@ -3314,7 +3314,7 @@ ItemDisplay[UNI !ID 7tw !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##
 ItemDisplay[UNI !ID 6bs !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Brimstone Rain    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 
 ItemDisplay[UNI !ID baf !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Raekors Virtue    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
-ItemDisplay[UNI !ID utp !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Purgatory    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
+ItemDisplay[UNI !ID utp !ETH]:%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Purgatory    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID ned !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Martyrdom    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID utg !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Occultist    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 
@@ -3385,7 +3385,7 @@ ItemDisplay[UNI !ID 7tw ETH]:%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e
 ItemDisplay[UNI !ID 6bs ETH]:%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e) %PURPLE%Brimstone Rain    %ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID 7fb ETH]:%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e) %PURPLE%Odium    %ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID baf ETH]:%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e) %PURPLE%Raekors Virtue    %ORANGE%##%PURPLE%##%RED%##
-ItemDisplay[UNI !ID utp ETH]:%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e) %PURPLE%Purgatory    %ORANGE%##%PURPLE%##%RED%##
+ItemDisplay[UNI !ID utp ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e) %PURPLE%Purgatory    %ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID ned ETH]:%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e) %PURPLE%Martyrdom    %ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID utg ETH]:%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e) %PURPLE%Occultist    %ORANGE%##%PURPLE%##%RED%##
 
