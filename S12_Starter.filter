@@ -3804,7 +3804,7 @@ ItemDisplay[UNI !ID 6rx]:%DOT-0C%%GOLD%@@  %RED%Gut Siphon%GOLD%[Demon Crossbow]
 ItemDisplay[UNI !ID xts !ETH]:%DOT-0C%%GOLD%@@  %RED%Radament's Sphere%GOLD%[Ancient Shield] %ORANGE%(EX) %GOLD%@@
 ItemDisplay[UNI !ID xts ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Radament's Sphere%GOLD%[Ancient Shield] %ORANGE%(EX) %GOLD%@@
 ItemDisplay[UNI !ID 7b7 !ETH]:%DOT-0C%%ORANGE%@@  %RED%Doombringer%GOLD%[Champion Sword] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID 7b7 ETH]:%DOT-0C%%ORANGE%@@  %PURPLE%Eth %RED%Doombringer%GOLD%[Champion Sword] %ORANGE%(EL) %ORANGE%@@
+ItemDisplay[UNI !ID 7b7 ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@   %PURPLE%Eth %RED%Doombringer   %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%%NAME%    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
