@@ -3576,8 +3576,8 @@ ItemDisplay[UNI !ID baa ETH]: %DOT-0C% %GOLD%@%WHITE%@%BLUE%@%DARK_GREEN%@     %
 //Unique Sorceress only items
 ItemDisplay[UNI !ID oba !ETH]: %DOT-0C% %GOLD%@%WHITE%@%BLUE%@%DARK_GREEN%@     %RED%The Oculus     %GOLD%@%WHITE%@%BLUE%@%DARK_GREEN%@ 
 ItemDisplay[UNI !ID oba ETH]: %DOT-0C% %GOLD%@%WHITE%@%BLUE%@%DARK_GREEN%@     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%The Oculus     %GOLD%@%WHITE%@%BLUE%@%DARK_GREEN%@ 
-ItemDisplay[UNI !ID obc !ETH]: %SOUNDID-2664%%BORDER-62%%BLUE%@@%WHITE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%RED%@@    %RED%%TEAL%Eschutas Temper    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID obc ETH]: %DOT-0C% %GOLD%@%WHITE%@%BLUE%@%DARK_GREEN%@     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Eschutas Temper     %GOLD%@%WHITE%@%BLUE%@%DARK_GREEN%@ 
+ItemDisplay[UNI !ID obc !ETH]:%DOT-0C% %GOLD%@%WHITE%@%BLUE%@%DARK_GREEN%@     %RED%Eschutas Temper     %GOLD%@%WHITE%@%BLUE%@%DARK_GREEN%@ 
+ItemDisplay[UNI !ID obc ETH]:%DOT-0C% %GOLD%@%WHITE%@%BLUE%@%DARK_GREEN%@     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Eschutas Temper     %GOLD%@%WHITE%@%BLUE%@%DARK_GREEN%@ 
 ItemDisplay[UNI !ID obf !ETH]: %SOUNDID-2664%%BORDER-62%%BLUE%@@%WHITE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%RED%@@    %RED%Deaths Fathom    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID obf ETH]: %DOT-0C% %GOLD%@%WHITE%@%BLUE%@%DARK_GREEN%@     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Deaths Fathom     %GOLD%@%WHITE%@%BLUE%@%DARK_GREEN%@ 
 //Unique Druid only items
