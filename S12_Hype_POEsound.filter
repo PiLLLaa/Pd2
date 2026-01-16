@@ -3760,6 +3760,21 @@ ItemDisplay[UNI !ID uhb ETH]:%DOT-0C%%GOLD%@%RED%@  %WHITE%[%PURPLE%E%WHITE%t%BL
 ItemDisplay[UNI !ID zmb !ETH]:%DOT-0C%%GOLD%@%RED%@  %RED%Gloom's Trap%PURPLE%[%GRAY%Mesh Belt%PURPLE%] %GRAY%-EX-  %GOLD%@%RED%@ 
 ItemDisplay[UNI !ID zmb ETH]:%DOT-0C%%GOLD%@%RED%@  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Gloom's Trap%PURPLE%[%GRAY%Mesh Belt%PURPLE%] %GRAY%-EX-  %GOLD%@%RED%@ 
 
+ItemDisplay[UNI !ID 9s8 !ETH]:%DOT-0C%%ORANGE%+%WHITE%+  %RED%Athena's Wrath%PURPLE%[%GRAY%Battle Scythe%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
+ItemDisplay[UNI !ID 9s8 ETH]:%DOT-0C%%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Athena's Wrath%PURPLE%[%GRAY%Battle Scythe%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
+ItemDisplay[UNI !ID 7o7 !ETH]:%DOT-0C%%ORANGE%+%WHITE%+  %RED%Bonehew%PURPLE%[%GRAY%Ogre Axe%PURPLE%] %GRAY%-EL-  %ORANGE%+%WHITE%+
+ItemDisplay[UNI !ID 7o7 ETH]:%DOT-0C%%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Bonehew%PURPLE%[%GRAY%Ogre Axe%PURPLE%] %GRAY%-EL-  %ORANGE%+%WHITE%+
+ItemDisplay[UNI !ID 9ws !ETH]:%DOT-0C%%ORANGE%+%WHITE%+  %RED%Hand of Blessed Light%PURPLE%[%GRAY%Divine Scepter%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
+ItemDisplay[UNI !ID 9ws ETH]:%DOT-0C%%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Hand of Blessed Light%PURPLE%[%GRAY%Divine Scepter%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
+ItemDisplay[UNI !ID 9ls !ETH]:%DOT-0C%%ORANGE%#%WHITE%#  %RED%Plague Bearer%PURPLE%[%GRAY%Rune Sword%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
+ItemDisplay[UNI !ID 9ls ETH]:%DOT-0C%%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Plague Bearer%PURPLE%[%GRAY%Rune Sword%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
+ItemDisplay[UNI !ID 9gw !ETH]:%DOT-0C%%ORANGE%#%WHITE%#  %RED%Blackhand Key%PURPLE%[%GRAY%Grave Wand%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
+ItemDisplay[UNI !ID 9gw ETH]:%DOT-0C%%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Blackhand Key%PURPLE%[%GRAY%Grave Wand%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
+ItemDisplay[UNI !ID 7wb !ETH]:%DOT-0C%%ORANGE%#%WHITE%#  %RED%Jade Talon%PURPLE%[%GRAY%Wrist Sword%PURPLE%] %GRAY%-EL-  %ORANGE%#%WHITE%#
+ItemDisplay[UNI !ID 7wb ETH]:%DOT-0C%%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Jade Talon%PURPLE%[%GRAY%Wrist Sword%PURPLE%] %GRAY%-EL-  %ORANGE%#%WHITE%#
+ItemDisplay[UNI !ID bac !ETH]:%DOT-0C%%ORANGE%#%WHITE%#  %RED%Wolfhowl%PURPLE%[%GRAY%Fury Visor%PURPLE%] %GRAY%-EL-  %ORANGE%#%WHITE%#
+ItemDisplay[UNI !ID bac ETH]:%DOT-0C%%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Wolfhowl%PURPLE%[%GRAY%Fury Visor%PURPLE%] %GRAY%-EL-  %ORANGE%#%WHITE%#
+
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-4720%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%%NAME%    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID jew]:%SOUNDID-4720%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%R%ORANGE%a%YELLOW%i%GREEN%n%BLUE%b%PURPLE%o%WHITE%w %GOLD%Facet    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
@@ -4052,14 +4067,11 @@ ItemDisplay[UNI !ID 9b7 !ETH]:%ORANGE%+%WHITE%+  %TAN%The Meat Scraper%PURPLE%[%
 ItemDisplay[UNI !ID 9b7 ETH]:%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%The Meat Scraper%PURPLE%[%GRAY%Lochaber Axe%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID 9vo !ETH]:%ORANGE%+%WHITE%+  %TAN%Blackleach Blade%PURPLE%[%GRAY%Bill%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID 9vo ETH]:%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Blackleach Blade%PURPLE%[%GRAY%Bill%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
-ItemDisplay[UNI !ID 9s8 !ETH]:%ORANGE%+%WHITE%+  %TAN%Athena's Wrath%PURPLE%[%GRAY%Battle Scythe%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
-ItemDisplay[UNI !ID 9s8 ETH]:%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Athena's Wrath%PURPLE%[%GRAY%Battle Scythe%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
+
 ItemDisplay[UNI !ID 9pa !ETH]:%ORANGE%+%WHITE%+  %TAN%Pierre Tombale Couant%PURPLE%[%GRAY%Partizan%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID 9pa ETH]:%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Pierre Tombale Couant%PURPLE%[%GRAY%Partizan%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID 9h9 !ETH]:%ORANGE%+%WHITE%+  %TAN%Husoldal Evo%PURPLE%[%GRAY%Bec-de-Corbin%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID 9h9 ETH]:%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Husoldal Evo%PURPLE%[%GRAY%Bec-de-Corbin%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
-ItemDisplay[UNI !ID 7o7 !ETH]:%ORANGE%+%WHITE%+  %TAN%Bonehew%PURPLE%[%GRAY%Ogre Axe%PURPLE%] %GRAY%-EL-  %ORANGE%+%WHITE%+
-ItemDisplay[UNI !ID 7o7 ETH]:%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Bonehew%PURPLE%[%GRAY%Ogre Axe%PURPLE%] %GRAY%-EL-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID scp !ETH]:%ORANGE%+%WHITE%+  %TAN%Knell Striker%PURPLE%[%GRAY%Scepter%PURPLE%] %GRAY%-N-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID scp ETH]:%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Knell Striker%PURPLE%[%GRAY%Scepter%PURPLE%] %GRAY%-N-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID gsc !ETH]:%ORANGE%+%WHITE%+  %TAN%Rusthandle%PURPLE%[%GRAY%Grand Scepter%PURPLE%] %GRAY%-N-  %ORANGE%+%WHITE%+
@@ -4070,8 +4082,6 @@ ItemDisplay[UNI !ID 9sc !ETH]:%ORANGE%+%WHITE%+  %TAN%Zakarum's Hand%PURPLE%[%GR
 ItemDisplay[UNI !ID 9sc ETH]:%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Zakarum's Hand%PURPLE%[%GRAY%Rune Scepter%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID 9qs !ETH]:%ORANGE%+%WHITE%+  %TAN%The Fetid Sprinkler%PURPLE%[%GRAY%Holy Water Sprinkler%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID 9qs ETH]:%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%The Fetid Sprinkler%PURPLE%[%GRAY%Holy Water Sprinkler%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
-ItemDisplay[UNI !ID 9ws !ETH]:%ORANGE%+%WHITE%+  %TAN%Hand of Blessed Light%PURPLE%[%GRAY%Divine Scepter%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
-ItemDisplay[UNI !ID 9ws ETH]:%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Hand of Blessed Light%PURPLE%[%GRAY%Divine Scepter%PURPLE%] %GRAY%-EX-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID spr !ETH]:%ORANGE%+%WHITE%+  %TAN%The Dragon Chang%PURPLE%[%GRAY%Spear%PURPLE%] %GRAY%-N-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID spr ETH]:%ORANGE%+%WHITE%+  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%The Dragon Chang%PURPLE%[%GRAY%Spear%PURPLE%] %GRAY%-N-  %ORANGE%+%WHITE%+
 ItemDisplay[UNI !ID tri !ETH]:%ORANGE%+%WHITE%+  %TAN%Razortine%PURPLE%[%GRAY%Trident%PURPLE%] %GRAY%-N-  %ORANGE%+%WHITE%+
@@ -4150,8 +4160,6 @@ ItemDisplay[UNI !ID 9cr !ETH]:%ORANGE%#%WHITE%#  %TAN%Ginther's Rift%PURPLE%[%GR
 ItemDisplay[UNI !ID 9cr ETH]:%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Ginther's Rift%PURPLE%[%GRAY%Dimensional Blade%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
 ItemDisplay[UNI !ID 9bs !ETH]:%ORANGE%#%WHITE%#  %TAN%Headstriker%PURPLE%[%GRAY%Battle Sword%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
 ItemDisplay[UNI !ID 9bs ETH]:%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Headstriker%PURPLE%[%GRAY%Battle Sword%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
-ItemDisplay[UNI !ID 9ls !ETH]:%ORANGE%#%WHITE%#  %TAN%Plague Bearer%PURPLE%[%GRAY%Rune Sword%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
-ItemDisplay[UNI !ID 9ls ETH]:%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Plague Bearer%PURPLE%[%GRAY%Rune Sword%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
 ItemDisplay[UNI !ID 9wd !ETH]:%ORANGE%#%WHITE%#  %TAN%The Atlantean%PURPLE%[%GRAY%Ancient Sword%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
 ItemDisplay[UNI !ID 9wd ETH]:%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%The Atlantean%PURPLE%[%GRAY%Ancient Sword%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
 ItemDisplay[UNI !ID 92h !ETH]:%ORANGE%#%WHITE%#  %TAN%Crainte Vomir%PURPLE%[%GRAY%Espandon%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
@@ -4186,17 +4194,11 @@ ItemDisplay[UNI !ID 9wn !ETH]:%ORANGE%#%WHITE%#  %TAN%Suicide Branch%PURPLE%[%GR
 ItemDisplay[UNI !ID 9wn ETH]:%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Suicide Branch%PURPLE%[%GRAY%Burnt Wand%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
 ItemDisplay[UNI !ID 9yw !ETH]:%ORANGE%#%WHITE%#  %TAN%Carin Shard%PURPLE%[%GRAY%Petrified Wand%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
 ItemDisplay[UNI !ID 9yw ETH]:%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Carin Shard%PURPLE%[%GRAY%Petrified Wand%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
-ItemDisplay[UNI !ID 9gw !ETH]:%ORANGE%#%WHITE%#  %TAN%Blackhand Key%PURPLE%[%GRAY%Grave Wand%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
-ItemDisplay[UNI !ID 9gw ETH]:%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Blackhand Key%PURPLE%[%GRAY%Grave Wand%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
 ItemDisplay[UNI !ID 9tk !ETH]:%ORANGE%#%WHITE%#  %TAN%Deathbit%PURPLE%[%GRAY%Battle Dart%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
 ItemDisplay[UNI !ID 9tk ETH]:%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Deathbit%PURPLE%[%GRAY%Battle Dart%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
 ItemDisplay[UNI !ID 9ta !ETH]:%ORANGE%#%WHITE%#  %TAN%The Scalper%PURPLE%[%GRAY%Francisca%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
 ItemDisplay[UNI !ID 9ta ETH]:%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%The Scalper%PURPLE%[%GRAY%Francisca%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
 ItemDisplay[UNI !ID 7cs ETH]:%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Shadow Killer%PURPLE%[%GRAY%Battle Cestus%PURPLE%] %GRAY%-EL-  %ORANGE%#%WHITE%#
-ItemDisplay[UNI !ID 7wb !ETH]:%ORANGE%#%WHITE%#  %TAN%Jade Talon%PURPLE%[%GRAY%Wrist Sword%PURPLE%] %GRAY%-EL-  %ORANGE%#%WHITE%#
-ItemDisplay[UNI !ID 7wb ETH]:%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Jade Talon%PURPLE%[%GRAY%Wrist Sword%PURPLE%] %GRAY%-EL-  %ORANGE%#%WHITE%#
-ItemDisplay[UNI !ID bac !ETH]:%ORANGE%#%WHITE%#  %TAN%Wolfhowl%PURPLE%[%GRAY%Fury Visor%PURPLE%] %GRAY%-EL-  %ORANGE%#%WHITE%#
-ItemDisplay[UNI !ID bac ETH]:%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Wolfhowl%PURPLE%[%GRAY%Fury Visor%PURPLE%] %GRAY%-EL-  %ORANGE%#%WHITE%#
 ItemDisplay[UNI !ID bad !ETH]:%ORANGE%#%WHITE%#  %TAN%Demonhorn's Edge%PURPLE%[%GRAY%Destroyer Helm%PURPLE%] %GRAY%-EL-  %ORANGE%#%WHITE%#
 ItemDisplay[UNI !ID bad ETH]:%ORANGE%#%WHITE%#  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Demonhorn's Edge%PURPLE%[%GRAY%Destroyer Helm%PURPLE%] %GRAY%-EL-  %ORANGE%#%WHITE%#
 
