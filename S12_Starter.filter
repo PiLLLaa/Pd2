@@ -3708,7 +3708,7 @@ ItemDisplay[UNI !ID 8hx]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GR
 //pd2 Enhanced item
 ItemDisplay[UNI !ID uh9 !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Giant Skull    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID uh9 ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %PURPLE%Eth %RED%Giant Skull    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID uhm !ETH]:%DOT-0C%%GOLD%@@  %RED%VeilofSteel %TAN%Or %GREEN%NightwingsVeil %GOLD%@@
+ItemDisplay[UNI !ID uhm !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@  %RED%Veil %TAN%Or %GREEN%Night %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID uhm ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%VeilofSteel %TAN%Or %GREEN%NightwingsVeil %GOLD%@@
 ItemDisplay[UNI !ID urn !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Crown of Ages    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID urn ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Crown of Ages%TAN%[Corona] %ORANGE%(EL) %GOLD%@@
@@ -3803,8 +3803,24 @@ ItemDisplay[UNI !ID 6hx]:%DOT-0C%%GOLD%@@  %RED%Hellrack%GOLD%[Colossus Crossbow
 ItemDisplay[UNI !ID 6rx]:%DOT-0C%%GOLD%@@  %RED%Gut Siphon%GOLD%[Demon Crossbow] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID xts !ETH]:%DOT-0C%%GOLD%@@  %RED%Radament's Sphere%GOLD%[Ancient Shield] %ORANGE%(EX) %GOLD%@@
 ItemDisplay[UNI !ID xts ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Radament's Sphere%GOLD%[Ancient Shield] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 7b7 !ETH]:%DOT-0C%%ORANGE%@@  %RED%Doombringer%GOLD%[Champion Sword] %ORANGE%(EL) %ORANGE%@@
+ItemDisplay[UNI !ID 7b7 !ETH]:%DOT-0C%%GOLD%@@  %RED%Doombringer%GOLD%[Champion Sword] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID 7b7 ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@   %PURPLE%Eth %RED%Doombringer   %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
+ItemDisplay[UNI !ID amd !ETH]:%DOT-0C%%GOLD%@@  %RED%Stoneraven%GOLD%[Matriarchal Spear] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID amd ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Stoneraven%GOLD%[Matriarchal Spear] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID pac !ETH]:%DOT-0C%%GOLD%@@  %RED%AlmaNegra%GOLD%[Sacred Rondache] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID pac ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%AlmaNegra%GOLD%[Sacred Rondache] %ORANGE%(EL) %GOLD%@@	
+ItemDisplay[UNI !ID xlg !ETH]:%DOT-0C%%GOLD%@@  %RED%Venom Grip%GOLD%[Demonhide Gloves] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xlg ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Venom Grip%GOLD%[Demonhide Gloves] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xvg !ETH]:%DOT-0C%%GOLD%@@  %RED%Gravepalm%GOLD%[Sharkskin Gloves] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xvg ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Gravepalm%GOLD%[Sharkskin Gloves] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xtg !ETH]:%DOT-0C%%GOLD%@@  %RED%Lava Gout%GOLD%[Battle Gauntlets] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xtg ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Lava Gout%GOLD%[Battle Gauntlets] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID mbt !ETH]:%DOT-0C%%GOLD%@@  %RED%Treads of Cthon%GOLD%[Chain Boots] %ORANGE%(N) %GOLD%@@
+ItemDisplay[UNI !ID mbt ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Treads of Cthon%GOLD%[Chain Boots] %ORANGE%(N) %GOLD%@@
+ItemDisplay[UNI !ID uhb !ETH]:%DOT-0C%%GOLD%@@  %RED%Shadow Dancer%GOLD%[Myrmidon Greaves] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID uhb ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Shadow Dancer%GOLD%[Myrmidon Greaves] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID zmb !ETH]:%DOT-0C%%GOLD%@@  %RED%Gloom's Trap%GOLD%[Mesh Belt] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID zmb ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Gloom's Trap%GOLD%[Mesh Belt] %ORANGE%(EX) %GOLD%@@
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%%NAME%    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
@@ -3824,10 +3840,7 @@ ItemDisplay[UNI !ID hgl !ETH]:%ORANGE%@@  %TAN%Frostburn%GOLD%[Gauntlets] %ORANG
 ItemDisplay[UNI !ID hgl ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Frostburn%GOLD%[Gauntlets] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID 9sb !ETH]:%ORANGE%@@  %TAN%Hexfire%GOLD%[Shamshir] %ORANGE%(EX) %ORANGE%@@
 ItemDisplay[UNI !ID 9sb ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Hexfire%GOLD%[Shamshir] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID amd !ETH]:%ORANGE%@@  %TAN%Stoneraven%GOLD%[Matriarchal Spear] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID amd ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Stoneraven%GOLD%[Matriarchal Spear] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID pac !ETH]:%ORANGE%@@  %TAN%AlmaNegra%GOLD%[Sacred Rondache] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID pac ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%AlmaNegra%GOLD%[Sacred Rondache] %ORANGE%(EL) %ORANGE%@@	
+
 ItemDisplay[UNI !ID fld !ETH]:%ORANGE%@@  %TAN%Rockfleece%GOLD%[Field Plate] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID fld ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Rockfleece%GOLD%[Field Plate] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID cap !ETH]:%ORANGE%@@  %TAN%Biggin's Bonnet%GOLD%[Cap] %ORANGE%(N) %ORANGE%@@
@@ -3933,20 +3946,15 @@ ItemDisplay[UNI !ID lgl !ETH]:%ORANGE%@@  %TAN%The Hand of Broc%GOLD%[Leather Gl
 ItemDisplay[UNI !ID lgl ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%The Hand of Broc%GOLD%[Leather Gloves] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID vgl !ETH]:%ORANGE%@@  %TAN%Bloodfist%GOLD%[Heavy Gloves] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID vgl ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Bloodfist%GOLD%[Heavy Gloves] %ORANGE%(N) %ORANGE%@@
-ItemDisplay[UNI !ID xlg !ETH]:%ORANGE%@@  %TAN%Venom Grip%GOLD%[Demonhide Gloves] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID xlg ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Venom Grip%GOLD%[Demonhide Gloves] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID xvg !ETH]:%ORANGE%@@  %TAN%Gravepalm%GOLD%[Sharkskin Gloves] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID xvg ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Gravepalm%GOLD%[Sharkskin Gloves] %ORANGE%(EX) %ORANGE%@@
+
 ItemDisplay[UNI !ID xmg !ETH]:%ORANGE%@@  %TAN%Ghoulhide%GOLD%[Heavy Bracers] %ORANGE%(EX) %ORANGE%@@
 ItemDisplay[UNI !ID xmg ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Ghoulhide%GOLD%[Heavy Bracers] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID xtg !ETH]:%ORANGE%@@  %TAN%Lava Gout%GOLD%[Battle Gauntlets] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID xtg ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Lava Gout%GOLD%[Battle Gauntlets] %ORANGE%(EX) %ORANGE%@@
+
 ItemDisplay[UNI !ID lbt !ETH]:%ORANGE%@@  %TAN%Hotspur%GOLD%[Boots] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID lbt ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Hotspur%GOLD%[Boots] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID vbt !ETH]:%ORANGE%@@  %TAN%Gorefoot%GOLD%[Heavy Boots] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID vbt ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Gorefoot%GOLD%[Heavy Boots] %ORANGE%(N) %ORANGE%@@
-ItemDisplay[UNI !ID mbt !ETH]:%ORANGE%@@  %TAN%Treads of Cthon%GOLD%[Chain Boots] %ORANGE%(N) %ORANGE%@@
-ItemDisplay[UNI !ID mbt ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Treads of Cthon%GOLD%[Chain Boots] %ORANGE%(N) %ORANGE%@@
+
 ItemDisplay[UNI !ID tbt !ETH]:%ORANGE%@@  %TAN%Goblin Toe%GOLD%[Light Plated Boots] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID tbt ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Goblin Toe%GOLD%[Light Plated Boots] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID hbt !ETH]:%ORANGE%@@  %TAN%Tearhaunch%GOLD%[Greaves] %ORANGE%(N) %ORANGE%@@
@@ -3955,8 +3963,7 @@ ItemDisplay[UNI !ID xlb !ETH]:%ORANGE%@@  %TAN%Infernostride%GOLD%[Demonhide Boo
 ItemDisplay[UNI !ID xlb ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Infernostride%GOLD%[Demonhide Boots] %ORANGE%(EX) %ORANGE%@@
 ItemDisplay[UNI !ID xvb !ETH]:%ORANGE%@@  %TAN%Waterwalk%GOLD%[Sharkskin Boots] %ORANGE%(EX) %ORANGE%@@
 ItemDisplay[UNI !ID xvb ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Waterwalk%GOLD%[Sharkskin Boots] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID uhb !ETH]:%ORANGE%@@  %TAN%Shadow Dancer%GOLD%[Myrmidon Greaves] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID uhb ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Shadow Dancer%GOLD%[Myrmidon Greaves] %ORANGE%(EL) %ORANGE%@@
+
 ItemDisplay[UNI !ID lbl !ETH]:%ORANGE%@@  %TAN%Lenymo%GOLD%[Sash] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID lbl ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Lenymo%GOLD%[Sash] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID vbl !ETH]:%ORANGE%@@  %TAN%Snakecord%GOLD%[Light Belt] %ORANGE%(N) %ORANGE%@@
@@ -3967,8 +3974,6 @@ ItemDisplay[UNI !ID tbl !ETH]:%ORANGE%@@  %TAN%Goldwrap%GOLD%[Heavy Belt] %ORANG
 ItemDisplay[UNI !ID tbl ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Goldwrap%GOLD%[Heavy Belt] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID hbl !ETH]:%ORANGE%@@  %TAN%Bladebuckle%GOLD%[Plated Belt] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID hbl ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Bladebuckle%GOLD%[Plated Belt] %ORANGE%(N) %ORANGE%@@
-ItemDisplay[UNI !ID zmb !ETH]:%ORANGE%@@  %TAN%Gloom's Trap%GOLD%[Mesh Belt] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID zmb ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Gloom's Trap%GOLD%[Mesh Belt] %ORANGE%(EX) %ORANGE%@@
 
 ItemDisplay[UNI !ID hax !ETH]:%ORANGE%@@  %TAN%The Gnasher%GOLD%[Hand Axe] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID hax ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%The Gnasher%GOLD%[Hand Axe] %ORANGE%(N) %ORANGE%@@
