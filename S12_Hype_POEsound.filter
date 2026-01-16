@@ -4239,11 +4239,11 @@ ItemDisplay[UNI !ID baf ETH]: %SOUNDID-4720%%BORDER-62%%RED%##%ORANGE%##%YELLOW%
 ItemDisplay[UNI !ID dr2 !ETH]: %ORANGE%#%WHITE%# %TAN%Quetzalcoatl%PURPLE%[%GRAY%Hawk Helm%PURPLE%] %GRAY%-N-  %ORANGE%#%WHITE%#
 ItemDisplay[UNI !ID dr2 ETH]: %ORANGE%#%WHITE%# %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Quetzalcoatl%PURPLE%[%GRAY%Hawk Helm%PURPLE%] %GRAY%-N-  %ORANGE%#%WHITE%#
 
-ItemDisplay[UNI !ID drf !ETH]: %SOUNDID-4720%%BORDER-62%%RED%##%ORANGE%##%YELLOW%##%GREEN%##%BLUE%##%PURPLE%##    %RED%Ursas Nightmare    %RED%##%ORANGE%##%YELLOW%##%GREEN%##%BLUE%##%PURPLE%##
-ItemDisplay[UNI !ID drf ETH]: %SOUNDID-4720%%BORDER-62%%RED%##%ORANGE%##%YELLOW%##%GREEN%##%BLUE%##%PURPLE%##    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Ursas Nightmare    %RED%##%ORANGE%##%YELLOW%##%GREEN%##%BLUE%##%PURPLE%##
+ItemDisplay[UNI !ID drf !ETH]:%DOT-0C%%GOLD%##  %RED%Ursas Nightmare%TAN%[%NAME%%PURPLE%] %GRAY%-EL-  %GOLD%##
+ItemDisplay[UNI !ID drf ETH]:%DOT-0C%%GOLD%##  %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Ursas Nightmare%TAN%[%NAME%%PURPLE%] %GRAY%-EL-  %GOLD%##
 
 //chest
-ItemDisplay[UNI !ID utp !ETH]: %SOUNDID-4720%%BORDER-62%%RED%##%ORANGE%##%YELLOW%##%GREEN%##%BLUE%##%PURPLE%##    %RED%Purgatory    %RED%##%ORANGE%##%YELLOW%##%GREEN%##%BLUE%##%PURPLE%## 
+ItemDisplay[UNI !ID utp !ETH]:%DOT-0C%%GOLD%##  %RED%Purgatory%TAN%[%NAME%%PURPLE%] %GRAY%-EL-  %GOLD%##
 ItemDisplay[UNI !ID utp ETH]: %SOUNDID-4720%%BORDER-62%%RED%##%ORANGE%##%YELLOW%##%GREEN%##%BLUE%##%PURPLE%##    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Purgatory    %RED%##%ORANGE%##%YELLOW%##%GREEN%##%BLUE%##%PURPLE%## 
 
 //shield
@@ -4251,7 +4251,7 @@ ItemDisplay[UNI !ID ne6 !ETH]: %DOT-0C%%ORANGE%#%WHITE%# %RED%Kalan's Legacy%TAN
 ItemDisplay[UNI !ID ne6 ETH]: %DOT-0C%%ORANGE%#%WHITE%# %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Kalan's Legacy%TAN%[Mummified Trophy%PURPLE%] %GRAY%-EX-  %ORANGE%#%WHITE%#
 
 ItemDisplay[UNI !ID ned !ETH]: %SOUNDID-4720%%BORDER-62%%RED%##%ORANGE%##%YELLOW%##%GREEN%##%BLUE%##%PURPLE%##    %RED%Martyrdom    %RED%##%ORANGE%##%YELLOW%##%GREEN%##%BLUE%##%PURPLE%##
-ItemDisplay[UNI !ID ned ETH]: %SOUNDID-4720%%BORDER-62%%RED%##%ORANGE%##%YELLOW%##%GREEN%##%BLUE%##%PURPLE%##    %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Martyrdom    %RED%##%ORANGE%##%YELLOW%##%GREEN%##%BLUE%##%PURPLE%## 
+ItemDisplay[UNI !ID ned ETH]: %DOT-0C%%ORANGE%#%WHITE%# %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Martyrdom%TAN%[%NAME%%PURPLE%] %GRAY%-EL-  %ORANGE%#%WHITE%#
 
 ItemDisplay[UNI !ID pa3 !ETH]: %ORANGE%#%WHITE%# %TAN%Sankekurs Fall%TAN%[Heraldic Shield%PURPLE%] %GRAY%-N-  %ORANGE%#%WHITE%#
 ItemDisplay[UNI !ID pa3 ETH]: %ORANGE%#%WHITE%# %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %TAN%Sankekurs Fall%TAN%[Heraldic Shield%PURPLE%] %GRAY%-N-  %ORANGE%#%WHITE%#
