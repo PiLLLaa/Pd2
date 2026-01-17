@@ -3751,7 +3751,7 @@ ItemDisplay[UNI !ID 7ts !ETH]:%DOT-0C%%GOLD%@@  %RED%Gargoyle's Bite%TAN%[Winged
 ItemDisplay[UNI !ID 7ts ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Gargoyle's Bite%TAN%[Winged Harpoon] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID am9 !ETH]:%DOT-0C%%GOLD%@@  %RED%Lycander's Flank%TAN%[Ceremonial Pike] %ORANGE%(EX) %GOLD%@@
 ItemDisplay[UNI !ID am9 ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Lycander's Flank%TAN%[Ceremonial Pike] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID bae !ETH]:%DOT-0C%%GOLD%@@  %RED%Halaberd's Reign%TAN%[Conqueror Crown] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID bae !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Halaberd's Reign    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID bae ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Halaberd's Reign%TAN%[Conqueror Crown] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID drb !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Cerebus' Bite    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID drb ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Cerebus' Bite%TAN%[Blood Spirit] %ORANGE%(EL) %GOLD%@@
