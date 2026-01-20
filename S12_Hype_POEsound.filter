@@ -3557,7 +3557,7 @@ ItemDisplay[UNI !ID uui !ETH]: %DOT-0C% %GOLD%=%WHITE%=%BLUE%=%DARK_GREEN%=     
 ItemDisplay[UNI !ID uui ETH]: %DOT-0C% %GOLD%=%WHITE%=%BLUE%=%DARK_GREEN%=     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Ormus robes     %GOLD%=%WHITE%=%BLUE%=%DARK_GREEN%= 
 ItemDisplay[UNI !ID utu !ETH]: %DOT-0C% %GOLD%=%WHITE%=%BLUE%=%DARK_GREEN%=     %RED%The Gladiators Bane     %GOLD%=%WHITE%=%BLUE%=%DARK_GREEN%= 
 ItemDisplay[UNI !ID utu ETH]: %DOT-0C% %GOLD%=%WHITE%=%BLUE%=%DARK_GREEN%=     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%The Gladiators Bane     %GOLD%=%WHITE%=%BLUE%=%DARK_GREEN%= 
-ItemDisplay[UNI !ID upl !ETH]: %DOT-0C% %GOLD%=%WHITE%=%BLUE%=%DARK_GREEN%=     %RED%Arkaines Valor     %GOLD%=%WHITE%=%BLUE%=%DARK_GREEN%= 
+ItemDisplay[UNI !ID upl !ETH]: %SOUNDID-4720%%BORDER-62%%WHITE%##%ORANGE%##%RED%##%GREEN%##%GOLD%##%PURPLE%##    %RED%Arkaines Valor    %WHITE%##%ORANGE%##%RED%##%GREEN%##%GOLD%##%PURPLE%##
 ItemDisplay[UNI !ID upl ETH]: %DOT-0C% %GOLD%=%WHITE%=%BLUE%=%DARK_GREEN%=     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Arkaines Valor     %GOLD%=%WHITE%=%BLUE%=%DARK_GREEN%= 
 ItemDisplay[UNI !ID uld !ETH]: %DOT-0C% %GOLD%=%WHITE%=%BLUE%=%DARK_GREEN%=     %RED%Leviathan     %GOLD%=%WHITE%=%BLUE%=%DARK_GREEN%= 
 ItemDisplay[UNI !ID uld ETH]: %DOT-0C% %GOLD%=%WHITE%=%BLUE%=%DARK_GREEN%=     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Leviathan     %GOLD%=%WHITE%=%BLUE%=%DARK_GREEN%= 
