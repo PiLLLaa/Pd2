@@ -3851,7 +3851,7 @@ ItemDisplay[UNI !ID ba2 ETH]:%DOT-0C%%ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %
 ItemDisplay[UNI !ID 9b8 !ETH]:%ORANGE%++%CORAL%++%SAGE%++    %TAN%Achilles Strike%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID 9b8 ETH]:%ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %TAN%Achilles Strike%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID uhc !ETH]:%DOT-0C%%ORANGE%++%CORAL%++%SAGE%++    %RED%Siggards Staunch%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
-ItemDisplay[UNI !ID uhc ETH]:%DOT-0C%%ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Siggards Staunch%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
+ItemDisplay[UNI !ID uhc ETH]:%SOUNDID-2664%%DOT-0C%%ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Siggards Staunch%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID neg !ETH]:%DOT-0C%%ORANGE%++%CORAL%++%SAGE%++    %RED%Sacred Totem%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID neg ETH]:%DOT-0C%%ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Sacred Totem%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
 
