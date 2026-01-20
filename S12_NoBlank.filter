@@ -10162,7 +10162,7 @@ ItemDisplay[UNI ned ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Poison Strike 
 // Aidans Scar | Blade Sentinel/Cobra Strike | SIN | USE=YES | CORE=YES
 ItemDisplay[UNI 7qr ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Blade Sentinel/%GREEN%Cobra Strike %WHITE%:  %GREEN%sin %RED%[Core] %WHITE%| item%GRAY%   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Steel Carapace[Shadow Plate] | Util/Zeal/Armageddon | SIN/PAL/DRU | USE=YES | CORE=YES
-ItemDisplay[UNI uul ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %RED%Light/%GREEN%Zeal,Sac/%SAGE%Util/%ORANGE%Arma %WHITE%:  %SAGE%dru%WHITE%/%LIGHT_GRAY%sor%WHITE%/%GREEN%sin%WHITE%/%WHITE%pal %RED%[Core] %WHITE%| item   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI uul ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %RED%Light/%GREEN%Zeal,Sac/%ORANGE%Arma/%SAGE%Util %WHITE%:  %LIGHT_GRAY%sor%WHITE%/%WHITE%pal%WHITE%/%SAGE%dru%WHITE%/%GREEN%sin %RED%[Core] %WHITE%| item   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 
 // ================= UTILITY ITEMS =================
 // Siggards Staunch | Util/Melee/Zeal/Sacrifice | ALL | USE=YES | CORE=NO
