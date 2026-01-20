@@ -3369,7 +3369,7 @@ ItemDisplay[UNI !ID ush ETH]:%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e
 ItemDisplay[UNI !ID uts ETH]:%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e) %PURPLE%Spirit Ward    %ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID umb ETH]:%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e) %PURPLE%Marrowwalk    %ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID 8s8 ETH]:%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e) %PURPLE%Witchwild String    %ORANGE%##%PURPLE%##%RED%##
-ItemDisplay[UNI !ID 7wh ETH]:%RED%##%PURPLE%##%ORANGE%## %BORDER-62%%WHITE%(e) %PURPLE%StoneCrusher %TAN%Or %GREEN%Schaefer'sHammer %ORANGE%##%PURPLE%##%RED%## 
+ItemDisplay[UNI !ID 7wh ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%## %BORDER-62%%WHITE%(e) %PURPLE%StoneCrusher %TAN%Or %GREEN%Schaefer'sHammer %ORANGE%##%PURPLE%##%RED%## 
 ItemDisplay[UNI !ID 7m7 ETH]:%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e) %PURPLE%Windhammer    %ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID amb ETH]:%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e) %PURPLE%Blood raven's Charge    %ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID bae ETH]:%RED%##%PURPLE%##%ORANGE%##    %BORDER-62%%WHITE%(e) %PURPLE%Halaberd's Reign    %ORANGE%##%PURPLE%##%RED%##
