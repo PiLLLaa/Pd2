@@ -3532,7 +3532,7 @@ ItemDisplay[UNI !ID ba2 ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %WHIT
 ItemDisplay[UNI !ID 9b8 !ETH]:%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %TAN%Achilles Strike%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 9b8 ETH]:%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %WHITE%eth %TAN%Achilles Strike%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID uhc !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %RED%Siggards Staunch%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
-ItemDisplay[UNI !ID uhc ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %WHITE%eth %RED%Siggards Staunch%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID uhc ETH]:%SOUNDID-2664%%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Siggards Staunch %PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@
 ItemDisplay[UNI !ID neg !ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %RED%Sacred Totem%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID neg ETH]:%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %WHITE%eth %RED%Sacred Totem%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 
@@ -3545,7 +3545,7 @@ ItemDisplay[UNI !ID urg !ETH]:%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %TAN%Twilight's 
 ItemDisplay[UNI !ID urg ETH]:%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %TAN%Twilight's Reflection%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID drc !ETH]:%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %TAN%Denmother%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID drc ETH]:%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %TAN%Denmother%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
-ItemDisplay[UNI !ID amc !ETH]:%SOUNDID-2664%%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Ebonbane%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
+ItemDisplay[UNI !ID amc !ETH]:%SOUNDID-2664%%DOT-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Ebonbane%GOLD%[%BASENAME%]%WHITE%(New) %PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@
 ItemDisplay[UNI !ID amc ETH]:%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Ebonbane%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 7di !ETH]:%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %TAN%Shatterblade%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 7di ETH]:%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %TAN%Shatterblade%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
