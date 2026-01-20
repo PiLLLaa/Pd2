@@ -3604,7 +3604,7 @@ ItemDisplay[UNI !ID uui !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Ormus Robes     %GOL
 ItemDisplay[UNI !ID uui ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Ormus robes     %GOLD%@@@@ 
 ItemDisplay[UNI !ID utu !ETH]: %DOT-0C% %GOLD%@@@@     %RED%The Gladiators Bane     %GOLD%@@@@ 
 ItemDisplay[UNI !ID utu ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%The Gladiators Bane     %GOLD%@@@@ 
-ItemDisplay[UNI !ID upl !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Arkaines Valor     %GOLD%@@@@ 
+ItemDisplay[UNI !ID upl !ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@   %RED%Arkaines Valor    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID upl ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Arkaines Valor     %GOLD%@@@@ 
 ItemDisplay[UNI !ID uld !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Leviathan     %GOLD%@@@@ 
 ItemDisplay[UNI !ID uld ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Leviathan     %GOLD%@@@@ 
