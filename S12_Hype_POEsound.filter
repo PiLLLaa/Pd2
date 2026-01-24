@@ -6140,7 +6140,7 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL<26 uar]:%NAME%{%SOC_SYMBOL_L%     %RED%M%ORANGE
 //ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) (SOCK=0 OR SOCK>2) !RW NMAG !ETH ED>9]:%DOT-75%%R7_SYMBOL% %NAME% %R7_SYMBOL%{%NAME%}
 
 ItemDisplay[(uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar) (SOCK=0 OR SOCK>2) !RW NMAG ETH ED>9]:%SOUNDID-4714%%DOT-75%%R7_SYMBOL% %NAME% %R7_SYMBOL%{%NAME%}
-ItemDisplay[(uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar) (SOCK=0 OR SOCK>2) !RW NMAG !ETH ED>9]:%SOUNDID-4714%%DOT-75%%R7_SYMBOL% %NAME% %R7_SYMBOL%{%NAME%}
+ItemDisplay[(uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar) (SOCK=0 OR SOCK>2) !RW NMAG !ETH ED>9]:%DOT-75%%R7_SYMBOL% %NAME% %R7_SYMBOL%{%NAME%}
 
 ItemDisplay[(xrs OR xtp OR xld OR gth OR aar) (SOCK=0 OR SOCK>2) !RW NMAG ETH ED>12]:%R7_SYMBOL% %NAME% %R7_SYMBOL%{%NAME%}
 ItemDisplay[(xrs OR xtp OR xld OR gth OR aar) (SOCK=0 OR SOCK>2) !RW NMAG !ETH ED>12]:%R7_SYMBOL% %NAME% %R7_SYMBOL%{%NAME%}
