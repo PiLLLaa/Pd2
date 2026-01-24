@@ -9020,7 +9020,7 @@ ItemDisplay[UNI xlt ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Util/%GREEN%Sm
 // Arkaines Valor | Util | ALL | USE=YES | CORE=NO
 ItemDisplay[UNI upl ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Util %WHITE%:  %GOLD%all class %WHITE%| item%GRAY%   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Templar's Might | Util | MERC | USE=YES | CORE=NO
-ItemDisplay[UNI uar ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Util %WHITE%:  %GRAY%merc %WHITE%| item%GRAY%   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI uar ID MULTI151,98>0 !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Util %WHITE%:  %GRAY%merc %WHITE%| item%GRAY%   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Silkweave | Util/Caster | ALL | USE=YES | CORE=NO
 ItemDisplay[UNI xmb ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Util/%GREEN%Caster %WHITE%:  %GOLD%all class %WHITE%| item%GRAY%   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Sandstorm Trek | Util | ALL | USE=YES | CORE=NO
