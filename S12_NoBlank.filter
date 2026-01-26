@@ -10213,7 +10213,7 @@ ItemDisplay[UNI amc ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Strafe %WHITE%
 // Andariel's Visage | Melee/Jab | MERC/AMA/SIN/BARB/DRU/PAL | USE=YES | CORE=NO
 ItemDisplay[UNI usk ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Melee/%GREEN%Jab %WHITE%:  %GRAY%merc%WHITE%/%YELLOW%ama%WHITE%/%GREEN%sin%WHITE%/%LIGHT_GRAY%barb%WHITE%/%SAGE%dru%WHITE%/%WHITE%pal %WHITE%| item   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Shaftstop | Tiger Strike | SIN | USE=YES | CORE=NO
-ItemDisplay[UNI xhn ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Tiger Strike %WHITE%:  %GREEN%sin %WHITE%| item%GRAY%   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI xhn ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Melee/%SAGE%Phoenix Strike %WHITE%:  GRAY%merc%WHITE%/%GREEN%sin %WHITE%| item%GRAY%   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Que-Hegan's Wisdom | Caster | ALL | USE=YES | CORE=NO
 ItemDisplay[UNI xtp ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Caster %WHITE%:  %GOLD%all class %WHITE%| item%GRAY%   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Ormus Robes | Caster(Cold/Fire) | SOR/NEC | USE=YES | CORE=NO
