@@ -8847,7 +8847,7 @@ ItemDisplay[UNI uvc ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Melee %WHITE%:
 // Wind Force | Strafe/Multishot | AMA | USE=YES | CORE=NO
 ItemDisplay[UNI 6lw ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Strafe/%GREEN%Multishot %WHITE%:  %YELLOW%ama %WHITE%| item%GRAY%   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Earth Shifter | Fire Claws | DRU | USE=YES | CORE=NO
-ItemDisplay[UNI 7gm ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Fire Claws %SAGE%dru %WHITE%| item%GRAY%   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
+ItemDisplay[UNI 7gm ID STAT363>0 !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Fire Claws %SAGE%dru %WHITE%| item%GRAY%   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Tomb Reaver | Melee/Fury | MERC/DRU | USE=YES | CORE=NO
 ItemDisplay[UNI 7pa ID !EQUIPPED]:%NAME%{%USAGE_SYMBOL_L%   %SAGE%Melee/%GREEN%Fury %GRAY%merc %WHITE%/%SAGE%dru %WHITE%| item%GRAY%   %USAGE_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 // Ondals Wisdom | War Cry | BARB | USE=YES | CORE=NO
