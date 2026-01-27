@@ -1838,7 +1838,7 @@ ItemDisplay[rrra]:%MAP-0B%    %WHITE%Infused %GOLD%Horadrim %YELLOW%Orb%WHITE%* 
 ItemDisplay[imma]:%MAP-0B%    %GOLD%Arcane %RED%Orb%WHITE%* %YELLOW%(%QTY%)    {%GOLD%Arcane Orb%GOLD%+%WHITE%Map%GOLD%%NL%%GOLD%Arcane Orb : upgrade map (common -> magic) %NL%}
 ItemDisplay[imra]:%MAP-0B%    %GOLD%Zakarum %BLUE%Orb%WHITE%* %YELLOW%(%QTY%)    {%GOLD%Zakarum Orb%GOLD%+%WHITE%Map%GOLD%+%BLUE%Jewel%GOLD%+%GREEN%Any RUNE%NL%%GOLD%Zakarum Orb : upgrade map (common -> rare) %NL%}
 //s11
-ItemDisplay[upma]:%MAP-0B%    %GOLD%Angelic %WHITE%Orb%WHITE%* %YELLOW%(%QTY%)    {%GOLD%Angelic Orb%GOLD%+%BLUE%MAGIC Map%GOLD%+%GOLD%Perfect %ORANGE%Amy Gems%GOLD%+%GREEN%Any RUNE%NL%%GOLD%Angelic Orb : upgrade map (magic -> rare) %NL%}
+ItemDisplay[upma]:%MAP-0B%    %GOLD%Angelic %WHITE%Orb%WHITE%* %YELLOW%(%QTY%)    {%GOLD%Angelic Orb%GOLD%+%BLUE%MAGIC Map%GOLD%+%GOLD%Perfect %ORANGE%any gems%GOLD%+%GREEN%Any RUNE%NL%%GOLD%Angelic Orb : upgrade map (magic -> rare) %NL%}
 ItemDisplay[scou]:%MAP-0B%    %GOLD%Orb %ORANGE%of Destruction%WHITE%* %YELLOW%(%QTY%)    {%GOLD%Orb of Destruction%GOLD%+%BLUE%MAGIC/%YELLOW%RARE %WHITE%Map%NL%%GOLD%Orb of Destruction : downgrade map (to common) %NL%}
 ItemDisplay[rera]:%MAP-0B%    %GOLD%Horadrim %YELLOW%Orb%WHITE%* %YELLOW%(%QTY%)    {%GOLD%Horadrim Orb%GOLD%+%YELLOW%RARE Map%GOLD%+%GOLD%P_%ORANGE%GEM%GOLD%+%GREEN%Any RUNE%NL%%GOLD%Horadrim Orb : reroll rare map %NL%}
 ItemDisplay[upmp]:%MAP-0B%    %GOLD%Cartographers %PURPLE%Orb%WHITE%* %YELLOW%(%QTY%)    {%GOLD%Cartographers Orb%GOLD%+%WHITE%3 * T1/T2 MAPS%NL%%GOLD%Cartographers Orb : combine maps into a higher tier %NL%}
