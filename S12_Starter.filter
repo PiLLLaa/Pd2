@@ -1757,7 +1757,7 @@ ItemDisplay[imma]:%MAP-0B%    %GOLD%Arcane %RED%Orb%WHITE%* %GREEN%%QTY%    {%GO
 
 ItemDisplay[imra]:%MAP-0B%    %GOLD%Zakarum %BLUE%Orb%WHITE%* %GREEN%%QTY%    {%GOLD%Zakarum Orb%GOLD%+%WHITE%Map%GOLD%+%BLUE%Jewel%GOLD%+%GREEN%Any RUNE%NL%%GOLD%Zakarum Orb : upgrade map (common -> rare) %NL%}
 //s11
-ItemDisplay[upma]:%MAP-0B%    %GOLD%Angelic %WHITE%Orb%WHITE%* %GREEN%%QTY%    {%GOLD%Angelic Orb%GOLD%+%BLUE%MAGIC Map%GOLD%+%GOLD%Perfect %ORANGE%Amy Gems%GOLD%+%GREEN%Any RUNE%NL%%GOLD%Angelic Orb : upgrade map (magic -> rare) %NL%}
+ItemDisplay[upma]:%MAP-0B%    %GOLD%Angelic %WHITE%Orb%WHITE%* %GREEN%%QTY%    {%GOLD%Angelic Orb%GOLD%+%BLUE%MAGIC Map%GOLD%+%GOLD%Perfect %ORANGE%any gems%GOLD%+%GREEN%Any RUNE%NL%%GOLD%Angelic Orb : upgrade map (magic -> rare) %NL%}
 
 ItemDisplay[scou]:%MAP-0B%    %GOLD%Orb %ORANGE%of Destruction%WHITE%* %GREEN%%QTY%    {%GOLD%Orb of Destruction%GOLD%+%BLUE%MAGIC/%YELLOW%RARE %WHITE%Map%NL%%GOLD%Orb of Destruction : downgrade map (to common) %NL%}
 ItemDisplay[rera]:%MAP-0B%    %GOLD%Horadrim %YELLOW%Orb%WHITE%* %GREEN%%QTY%    {%GOLD%Horadrim Orb%GOLD%+%YELLOW%RARE Map%GOLD%+%GOLD%P_%ORANGE%GEM%GOLD%+%GREEN%Any RUNE%NL%%GOLD%Horadrim Orb : reroll rare map %NL%}
