@@ -5,7 +5,7 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////
 ItemDisplayFilterName[]: ÿc5Standard //FILTLVL>0
 ItemDisplayFilterName[]: ÿc1No ÿc-Bolt(M)ÿc0+ÿc3Arrow(M)ÿc0+ÿc.ThrowingPotionÿc0+ÿc:Ring(M) //FILTLVL>1 OK
-ItemDisplayFilterName[]: +ÿc1No ÿc3CraftArmor //FILTLVL>2
+ItemDisplayFilterName[]: +ÿc1No ÿc3CraftArmor+Club(Norm) //FILTLVL>2
 ItemDisplayFilterName[]: ++ÿc1No ÿc7Claw(M)ÿc0+ÿc;ClassHelmet(M)ÿc0+ÿc:Javel(M) //FILTLVL>3
 ItemDisplayFilterName[]: +++ÿc1No ÿc2NormalSetÿc4(Only Active Sigon) //FILTLVL>4
 ItemDisplayFilterName[]: ++++ÿc1No ÿc7NecHead(M)ÿc0+ÿc!Wand(M) //FILTLVL>5
@@ -29,6 +29,8 @@ Alias[USAGE_SYMBOL_R]:%LIGHT_GRAY%—%WHITE%—%CORAL%—%GOLD%—
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      Filter Level Disable Item                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
+//CLUB
+ItemDisplay[(clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) NMAG !RW FILTLVL>2]:
 //s12
 ItemDisplay[MAG (aqv2 OR cqv2 OR aqv3 OR cqv3) !ID FILTLVL<2]:%NAME%%GRAY%[Skill Check]
 ItemDisplay[MAG (aqv2 OR cqv2 OR aqv3 OR cqv3) !ID FILTLVL>1]:
