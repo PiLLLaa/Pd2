@@ -870,14 +870,14 @@ ItemDisplay[UNI]:%GOLD%%NAME%{%NAME%}%CONTINUE%
 //                                     Charms/JEWELS                                           //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //s10
-ItemDisplay[MAG cm1p !ID]:%DOT-97%%GREEN%%TEAL%****    %BLUE%SC %ORANGE%[L%ILVL%]    %GREEN%%TEAL%****
-ItemDisplay[MAG cm2p !ID]:%DOT-97%%GREEN%****    %BLUE%LC %ORANGE%[L%ILVL%]    %GREEN%****
-ItemDisplay[MAG cm3p !ID]:%DOT-97%%GREEN%%CORAL%****    %BLUE%GC %ORANGE%[L%ILVL%]    %GREEN%%CORAL%****
+ItemDisplay[MAG cm1p !ID]:%MAP-97%%GREEN%%TEAL%****    %BLUE%SC %ORANGE%[L%ILVL%]    %GREEN%%TEAL%****
+ItemDisplay[MAG cm2p !ID]:%MAP-97%%GREEN%****    %BLUE%LC %ORANGE%[L%ILVL%]    %GREEN%****
+ItemDisplay[MAG cm3p !ID]:%MAP-97%%GREEN%%CORAL%****    %BLUE%GC %ORANGE%[L%ILVL%]    %GREEN%%CORAL%****
 
-ItemDisplay[MAG cm1 !ID]:%DOT-97%%GREEN%%TEAL%****    %BLUE%SC %ORANGE%[L%ILVL%]    %GREEN%%TEAL%****
-ItemDisplay[MAG cm2 !ID]:%DOT-97%%GREEN%****    %BLUE%LC %ORANGE%[L%ILVL%]    %GREEN%****
-ItemDisplay[MAG cm3 !ID]:%DOT-97%%GREEN%%CORAL%****    %BLUE%GC %ORANGE%[L%ILVL%]    %GREEN%%CORAL%****
-ItemDisplay[MAG jew !ID]:%DOT-6F%%GREEN%**%SAGE%**    %BLUE%%NAME% %ORANGE%[L%ILVL%]    %GREEN%**%SAGE%**
+ItemDisplay[MAG cm1 !ID]:%MAP-97%%GREEN%%TEAL%****    %BLUE%SC %ORANGE%[L%ILVL%]    %GREEN%%TEAL%****
+ItemDisplay[MAG cm2 !ID]:%MAP-97%%GREEN%****    %BLUE%LC %ORANGE%[L%ILVL%]    %GREEN%****
+ItemDisplay[MAG cm3 !ID]:%MAP-97%%GREEN%%CORAL%****    %BLUE%GC %ORANGE%[L%ILVL%]    %GREEN%%CORAL%****
+ItemDisplay[MAG jew !ID]:%MAP-6F%%GREEN%**%SAGE%**    %BLUE%%NAME% %ORANGE%[L%ILVL%]    %GREEN%**%SAGE%**
 ////Unique Charms
 ItemDisplay[UNI !ID cm1]:%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@    %TEAL%Annihilius    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@ 
 ItemDisplay[UNI !ID cm2]:%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@    %TEAL%Hellfire Torch    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@ 
@@ -2225,8 +2225,8 @@ ItemDisplay[t60 OR t61 OR t62 OR t63 OR t64 OR t65 OR t66 OR t67 OR t68 OR t69]:
 //                                   QUIVERS&BOLTS                                             //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //s12
-ItemDisplay[(aqv3) RARE !ID]: %DOT-6F%%GREEN%%SAGE%****    %ORANGE%El-%WHITE%[ %YELLOW%Arrow %WHITE%]    %GREEN%%SAGE%****
-ItemDisplay[(cqv3) RARE !ID]: %DOT-6F%%GREEN%%SAGE%*    %ORANGE%El-%WHITE%[ %YELLOW%Bolt %WHITE%]    %GREEN%%SAGE%*
+ItemDisplay[(aqv3) RARE !ID]: %MAP-6F%%GREEN%%SAGE%****    %ORANGE%El-%WHITE%[ %YELLOW%Arrow %WHITE%]    %GREEN%%SAGE%****
+ItemDisplay[(cqv3) RARE !ID]: %MAP-6F%%GREEN%%SAGE%*    %ORANGE%El-%WHITE%[ %YELLOW%Bolt %WHITE%]    %GREEN%%SAGE%*
 ItemDisplay[(aqv2) RARE !ID]:%LIGHT_GRAY%Ex-%WHITE%[ %YELLOW%Arrow %WHITE%]
 ItemDisplay[(cqv2) RARE !ID]:%LIGHT_GRAY%Ex-%WHITE%[ %YELLOW%Bolt %WHITE%]
 ItemDisplay[(aqv) RARE !ID]:%GRAY%n-%WHITE%[ %YELLOW%Arrow %WHITE%]
@@ -2256,8 +2256,8 @@ ItemDisplay[(r01s)]: %TAN%El %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY%{%WHITE%Weap
 ItemDisplay[(r02)]: %TAN%Eld %GOLD%[%RUNENUM%]{%YELLOW%bountiful chest : %GOLD%ELD %WHITE%+ %ORANGE%P %YELLOW%topaz %WHITE%+ %BLUE%jewel%NL%%GRAY%Vampiric belt : %GOLD%ELD %WHITE%+ %ORANGE%P %TAN%skull %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%eld rune recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
 ItemDisplay[(r02s)]: %TAN%Eld %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY%{%WHITE%Weapon: 70% dmg+50 Ar Undead %NL%Chest/Helm: 15% Slower Stamina %NL%Shield: 7% BlockChance %NL%%NL%%YELLOW%bountiful chest : %GOLD%ELD %WHITE%+ %ORANGE%P %YELLOW%topaz %WHITE%+ %BLUE%jewel%NL%%GRAY%Vampiric belt : %GOLD%ELD %WHITE%+ %ORANGE%P %TAN%skull %WHITE%+ %BLUE%jewel}
 
-ItemDisplay[(r03)]:%DOT-50%%GOLD%****    %TAN%Tir %GOLD%[%RUNENUM%] %GRAY%(hit/caster)    %GOLD%****{%YELLOW%bountiful helm : %GOLD%TIR %WHITE%+ %ORANGE%P %YELLOW%topaz %WHITE%+ %BLUE%jewel%NL%%GRAY%Vampiric chest : %GOLD%TIR %WHITE%+ %ORANGE%P %TAN%skull %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%tir rune recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
-ItemDisplay[(r03s)]:%DOT-50%%GOLD%****    %TAN%Tir %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY% %GRAY%(hit/caster)    %GOLD%****{%WHITE%Weapon: 2 MAEK %NL%Chest/Helm: 2 MAEK %NL%Shield: 2 MAEK %NL%%NL%%YELLOW%bountiful helm : %GOLD%TIR %WHITE%+ %ORANGE%P %YELLOW%topaz %WHITE%+ %BLUE%jewel%NL%%GRAY%Vampiric chest : %GOLD%TIR %WHITE%+ %ORANGE%P %TAN%skull %WHITE%+ %BLUE%jewel}
+ItemDisplay[(r03)]:%MAP-50%%GOLD%****    %TAN%Tir %GOLD%[%RUNENUM%] %GRAY%(hit/caster)    %GOLD%****{%YELLOW%bountiful helm : %GOLD%TIR %WHITE%+ %ORANGE%P %YELLOW%topaz %WHITE%+ %BLUE%jewel%NL%%GRAY%Vampiric chest : %GOLD%TIR %WHITE%+ %ORANGE%P %TAN%skull %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%tir rune recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
+ItemDisplay[(r03s)]:%MAP-50%%GOLD%****    %TAN%Tir %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY% %GRAY%(hit/caster)    %GOLD%****{%WHITE%Weapon: 2 MAEK %NL%Chest/Helm: 2 MAEK %NL%Shield: 2 MAEK %NL%%NL%%YELLOW%bountiful helm : %GOLD%TIR %WHITE%+ %ORANGE%P %YELLOW%topaz %WHITE%+ %BLUE%jewel%NL%%GRAY%Vampiric chest : %GOLD%TIR %WHITE%+ %ORANGE%P %TAN%skull %WHITE%+ %BLUE%jewel}
 
 //s11 dvm 50
 ItemDisplay[(r04)]: %TAN%Nef %GOLD%[%RUNENUM%]{%GREEN%safety shield : %GOLD%nef %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power chest : %GOLD%nef %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster helm : %GOLD%nef %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood gloves : %GOLD%nef %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%nef rune recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
@@ -2272,28 +2272,28 @@ ItemDisplay[(r06s)]: %TAN%Ith %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY%{%WHITE%Wea
 ItemDisplay[(r07)]: %TAN%Tal %GOLD%[%RUNENUM%]{%GREEN%safety belt : %GOLD%tal %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power belt : %GOLD%tal %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster chest : %GOLD%tal %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood belt : %GOLD%tal %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%tal rune recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
 ItemDisplay[(r07s)]: %TAN%Tal %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY%{%WHITE%Weapon: +75 Poison Dmg %NL%Chest/Helm: Poison Res 30% %NL%Shield: Poison Res 35% %NL%%NL%%GREEN%safety belt : %GOLD%tal %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power belt : %GOLD%tal %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster chest : %GOLD%tal %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood belt : %GOLD%tal %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel}
 
-ItemDisplay[(r08)]:%DOT-50%%GOLD%****    %TAN%Ral %GOLD%[%RUNENUM%] %GRAY%(repair)    %GOLD%****{%GOLD%repair : armor + ral%NL%%GREEN%safety gloves : %GOLD%ral %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power boots : %GOLD%ral %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster amulet : %GOLD%ral %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood helm : %GOLD%ral %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%ral rune recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
-ItemDisplay[(r08s)]:%DOT-50%%GOLD%****    %TAN%Ral %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY% %GRAY%(repair)    %GOLD%****{%WHITE%Weapon: 5-30 Fire Dmg %NL%Chest/Helm: Fire Res 30% %NL%Shield: Fire Res 35% %NL%%NL%%GOLD%repair : armor + ral%NL%%GREEN%safety gloves : %GOLD%ral %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power boots : %GOLD%ral %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster amulet : %GOLD%ral %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood helm : %GOLD%ral %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel}
+ItemDisplay[(r08)]:%MAP-50%%GOLD%****    %TAN%Ral %GOLD%[%RUNENUM%] %GRAY%(repair)    %GOLD%****{%GOLD%repair : armor + ral%NL%%GREEN%safety gloves : %GOLD%ral %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power boots : %GOLD%ral %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster amulet : %GOLD%ral %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood helm : %GOLD%ral %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%ral rune recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
+ItemDisplay[(r08s)]:%MAP-50%%GOLD%****    %TAN%Ral %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY% %GRAY%(repair)    %GOLD%****{%WHITE%Weapon: 5-30 Fire Dmg %NL%Chest/Helm: Fire Res 30% %NL%Shield: Fire Res 35% %NL%%NL%%GOLD%repair : armor + ral%NL%%GREEN%safety gloves : %GOLD%ral %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power boots : %GOLD%ral %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster amulet : %GOLD%ral %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood helm : %GOLD%ral %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel}
 
 //s11 thron 14->20~24
-ItemDisplay[(r11)]:%DOT-50%%GOLD%****    %TAN%Amn %GOLD%[%RUNENUM%]    %GOLD%****{%GREEN%safety ring : %GOLD%amn %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power ring : %GOLD%amn %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster ring : %GOLD%amn %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood amulet : %GOLD%amn %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%amn rune recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
-ItemDisplay[(r11s)]:%DOT-50%%GOLD%****    %TAN%Amn %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY%    %GOLD%****{%WHITE%Weapon: 7% Life Stolen %NL%Chest/Helm: 20~24 Thorns %NL%Shield: 20~24 Thorns %NL%%NL%%GREEN%safety ring : %GOLD%amn %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power ring : %GOLD%amn %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster ring : %GOLD%amn %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood amulet : %GOLD%amn %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel}
+ItemDisplay[(r11)]:%MAP-50%%GOLD%****    %TAN%Amn %GOLD%[%RUNENUM%]    %GOLD%****{%GREEN%safety ring : %GOLD%amn %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power ring : %GOLD%amn %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster ring : %GOLD%amn %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood amulet : %GOLD%amn %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%amn rune recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
+ItemDisplay[(r11s)]:%MAP-50%%GOLD%****    %TAN%Amn %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY%    %GOLD%****{%WHITE%Weapon: 7% Life Stolen %NL%Chest/Helm: 20~24 Thorns %NL%Shield: 20~24 Thorns %NL%%NL%%GREEN%safety ring : %GOLD%amn %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power ring : %GOLD%amn %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster ring : %GOLD%amn %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood amulet : %GOLD%amn %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel}
 
 //s11 7 Physical Damage Reduce ->9
-ItemDisplay[(r12)]:%DOT-50%%GOLD%****    %TAN%Sol %GOLD%[%RUNENUM%] %GRAY%(safety)    %GOLD%****{%GREEN%safety weapon%GREEN%(*%WHITE%bow/crossbow%GREEN%) : %GOLD%sol %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%GRAY%vampiric shield : %GOLD%sol %WHITE%+ %ORANGE%P %TAN%skull %WHITE%+ %BLUE%jewel%NL%%RED%Blood ring : %GOLD%sol %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%sol rune recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
-ItemDisplay[(r12s)]:%DOT-50%%GOLD%****    %TAN%Sol %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY% %GRAY%(safety)    %GOLD%****{%WHITE%Weapon: 9 Min Dmg %NL%Chest/Helm: 9 Physical Damage Reduce %NL%Shield: 9 Physical Damage Reduce %NL%%NL%%GREEN%safety weapon%GREEN%(*%WHITE%bow/crossbow%GREEN%) : %GOLD%sol %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%GRAY%vampiric shield : %GOLD%sol %WHITE%+ %ORANGE%P %TAN%skull %WHITE%+ %BLUE%jewel%NL%%RED%Blood ring : %GOLD%sol %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel}
+ItemDisplay[(r12)]:%MAP-50%%GOLD%****    %TAN%Sol %GOLD%[%RUNENUM%] %GRAY%(safety)    %GOLD%****{%GREEN%safety weapon%GREEN%(*%WHITE%bow/crossbow%GREEN%) : %GOLD%sol %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%GRAY%vampiric shield : %GOLD%sol %WHITE%+ %ORANGE%P %TAN%skull %WHITE%+ %BLUE%jewel%NL%%RED%Blood ring : %GOLD%sol %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%sol rune recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
+ItemDisplay[(r12s)]:%MAP-50%%GOLD%****    %TAN%Sol %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY% %GRAY%(safety)    %GOLD%****{%WHITE%Weapon: 9 Min Dmg %NL%Chest/Helm: 9 Physical Damage Reduce %NL%Shield: 9 Physical Damage Reduce %NL%%NL%%GREEN%safety weapon%GREEN%(*%WHITE%bow/crossbow%GREEN%) : %GOLD%sol %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%GRAY%vampiric shield : %GOLD%sol %WHITE%+ %ORANGE%P %TAN%skull %WHITE%+ %BLUE%jewel%NL%%RED%Blood ring : %GOLD%sol %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel}
 
-ItemDisplay[(r15)]:%DOT-50%%GOLD%****    %TAN%Hel %GOLD%[%RUNENUM%]    %GOLD%****{%GOLD%Destroys gems/runes/jewels in the Item : sockted item + hel%NL%%YELLOW%bountiful gloves : %GOLD%hel %WHITE%+ %ORANGE%P %YELLOW%topaz %WHITE%+ %BLUE%jewel%NL%%GRAY%Vampiric ring : %GOLD%hel %WHITE%+ %ORANGE%P %TAN%skull %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%hel recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
-ItemDisplay[(r15s)]:%DOT-50%%GOLD%****    %TAN%Hel %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY%    %GOLD%****{%WHITE%Weapon: -20% Req %NL%Chest/Helm: -15% Req %NL%Shield: -15% Req %NL%%NL%%GOLD%Destroys gems/runes/jewels in the Item : sockted item + hel%NL%%YELLOW%bountiful gloves : %GOLD%hel %WHITE%+ %ORANGE%P %YELLOW%topaz %WHITE%+ %BLUE%jewel%NL%%GRAY%Vampiric ring : %GOLD%hel %WHITE%+ %ORANGE%P %TAN%skull %WHITE%+ %BLUE%jewel}
+ItemDisplay[(r15)]:%MAP-50%%GOLD%****    %TAN%Hel %GOLD%[%RUNENUM%]    %GOLD%****{%GOLD%Destroys gems/runes/jewels in the Item : sockted item + hel%NL%%YELLOW%bountiful gloves : %GOLD%hel %WHITE%+ %ORANGE%P %YELLOW%topaz %WHITE%+ %BLUE%jewel%NL%%GRAY%Vampiric ring : %GOLD%hel %WHITE%+ %ORANGE%P %TAN%skull %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%hel recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
+ItemDisplay[(r15s)]:%MAP-50%%GOLD%****    %TAN%Hel %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY%    %GOLD%****{%WHITE%Weapon: -20% Req %NL%Chest/Helm: -15% Req %NL%Shield: -15% Req %NL%%NL%%GOLD%Destroys gems/runes/jewels in the Item : sockted item + hel%NL%%YELLOW%bountiful gloves : %GOLD%hel %WHITE%+ %ORANGE%P %YELLOW%topaz %WHITE%+ %BLUE%jewel%NL%%GRAY%Vampiric ring : %GOLD%hel %WHITE%+ %ORANGE%P %TAN%skull %WHITE%+ %BLUE%jewel}
 
-ItemDisplay[(r18)]:%DOT-50%%GOLD%****    %TAN%Ko %GOLD%[%RUNENUM%]    %GOLD%****{%GOLD%elite upgrade : %TAN%ko %WHITE%+ %GOLD%lem %WHITE%+ %ORANGE%P %WHITE%diamond %WHITE%+ exceptional unique/set armor%NL%%YELLOW%bountiful amulet : %GOLD%ko %WHITE%+ %ORANGE%P %YELLOW%topaz %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%ko recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
-ItemDisplay[(r18s)]:%DOT-50%%GOLD%****    %TAN%Ko %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY%    %GOLD%****{%WHITE%Weapon: +10 Dexterity %NL%Chest/Helm: +10 Dexterity %NL%Shield: +10 Dexterity %NL%%NL%%GOLD%elite upgrade : %TAN%ko %WHITE%+ %GOLD%lem %WHITE%+ %ORANGE%P %WHITE%diamond %WHITE%+ exceptional unique/set armor%NL%%YELLOW%bountiful amulet : %GOLD%ko %WHITE%+ %ORANGE%P %YELLOW%topaz %WHITE%+ %BLUE%jewel}
+ItemDisplay[(r18)]:%MAP-50%%GOLD%****    %TAN%Ko %GOLD%[%RUNENUM%]    %GOLD%****{%GOLD%elite upgrade : %TAN%ko %WHITE%+ %GOLD%lem %WHITE%+ %ORANGE%P %WHITE%diamond %WHITE%+ exceptional unique/set armor%NL%%YELLOW%bountiful amulet : %GOLD%ko %WHITE%+ %ORANGE%P %YELLOW%topaz %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%ko recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
+ItemDisplay[(r18s)]:%MAP-50%%GOLD%****    %TAN%Ko %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY%    %GOLD%****{%WHITE%Weapon: +10 Dexterity %NL%Chest/Helm: +10 Dexterity %NL%Shield: +10 Dexterity %NL%%NL%%GOLD%elite upgrade : %TAN%ko %WHITE%+ %GOLD%lem %WHITE%+ %ORANGE%P %WHITE%diamond %WHITE%+ exceptional unique/set armor%NL%%YELLOW%bountiful amulet : %GOLD%ko %WHITE%+ %ORANGE%P %YELLOW%topaz %WHITE%+ %BLUE%jewel}
 
-ItemDisplay[(r19)]:%DOT-50%%GOLD%****    %TAN%Fal %GOLD%[%RUNENUM%]    %GOLD%****{%GOLD%elite upgrade : %TAN%fal %WHITE%+ %GOLD%um %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ exceptional rare/crafted armor%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%fal recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
-ItemDisplay[(r19s)]:%DOT-50%%GOLD%****    %TAN%Fal %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY%    %GOLD%****{%WHITE%Weapon: +10 Strength %NL%Chest/Helm: +10 Strength %NL%Shield: +10 Strength %NL%%NL%%GOLD%elite upgrade : %TAN%fal %WHITE%+ %GOLD%um %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ exceptional rare/crafted armor}
+ItemDisplay[(r19)]:%MAP-50%%GOLD%****    %TAN%Fal %GOLD%[%RUNENUM%]    %GOLD%****{%GOLD%elite upgrade : %TAN%fal %WHITE%+ %GOLD%um %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ exceptional rare/crafted armor%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%fal recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
+ItemDisplay[(r19s)]:%MAP-50%%GOLD%****    %TAN%Fal %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY%    %GOLD%****{%WHITE%Weapon: +10 Strength %NL%Chest/Helm: +10 Strength %NL%Shield: +10 Strength %NL%%NL%%GOLD%elite upgrade : %TAN%fal %WHITE%+ %GOLD%um %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ exceptional rare/crafted armor}
 
-ItemDisplay[(r09)]:%DOT-50% %GOLD%****    %TAN%Ort %GOLD%[%RUNENUM%] %GRAY%(blood)    %GOLD%****{%GOLD%repair : weapon + ort%NL%%GREEN%safety boots : %GOLD%ort %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power gloves : %GOLD%ort %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster gloves : %GOLD%ort %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood weapon : %GOLD%ort %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%ort rune recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
-ItemDisplay[(r09s)]:%DOT-50% %GOLD%****    %TAN%Ort %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY% %GRAY%(blood)    %GOLD%****{%WHITE%Weapon: 1-50 Lightn. Dmg %NL%Chest/Helm: Lightn. Res 30% %NL%Shield: Lightn. Res 35% %NL%%NL%%GOLD%repair :weapon+ort%NL%%GREEN%safety boots : %GOLD%ort %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power gloves : %GOLD%ort %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster gloves : %GOLD%ort %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood weapon : %GOLD%ort %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel}
+ItemDisplay[(r09)]:%MAP-50% %GOLD%****    %TAN%Ort %GOLD%[%RUNENUM%] %GRAY%(blood)    %GOLD%****{%GOLD%repair : weapon + ort%NL%%GREEN%safety boots : %GOLD%ort %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power gloves : %GOLD%ort %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster gloves : %GOLD%ort %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood weapon : %GOLD%ort %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%ort rune recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
+ItemDisplay[(r09s)]:%MAP-50% %GOLD%****    %TAN%Ort %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY% %GRAY%(blood)    %GOLD%****{%WHITE%Weapon: 1-50 Lightn. Dmg %NL%Chest/Helm: Lightn. Res 30% %NL%Shield: Lightn. Res 35% %NL%%NL%%GOLD%repair :weapon+ort%NL%%GREEN%safety boots : %GOLD%ort %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power gloves : %GOLD%ort %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster gloves : %GOLD%ort %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood weapon : %GOLD%ort %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel}
 
 ItemDisplay[(r10)]: %GOLD%****    %TAN%Thul %GOLD%[%RUNENUM%]    %GOLD%****{%GREEN%safety amulet : %GOLD%thul %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power amulet : %GOLD%thul %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster boots : %GOLD%thul %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood chest : %GOLD%thul %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%thul rune recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
 ItemDisplay[(r10s)]: %GOLD%****    %TAN%Thul %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY%    %GOLD%****{%WHITE%Weapon: 3-14 Cold Dmg %NL%Chest/Helm: Cold Res 30% %NL%Shield: Cold Res 35% %NL%%NL%%GREEN%safety amulet : %GOLD%thul %WHITE%+ %ORANGE%P %GREEN%emerald %WHITE%+ %BLUE%jewel%NL%%BLUE%hit power amulet : %GOLD%thul %WHITE%+ %ORANGE%P %BLUE%sapphire %WHITE%+ %BLUE%jewel%NL%%PURPLE%caster boots : %GOLD%thul %WHITE%+ %ORANGE%P %PURPLE%amethyst %WHITE%+ %BLUE%jewel%NL%%RED%Blood chest : %GOLD%thul %WHITE%+ %ORANGE%P %RED%ruby %WHITE%+ %BLUE%jewel}
@@ -2311,8 +2311,8 @@ ItemDisplay[(r16s)]: %GOLD%****    %TAN%Io %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QT
 ItemDisplay[(r17)]: %GOLD%****    %TAN%Lum %GOLD%[%RUNENUM%]    %GOLD%****{%GOLD%Elite upgrade : %TAN%Lum %WHITE%+ %GOLD%Pul %WHITE%+ %ORANGE%P %GREEN%Emerald %WHITE%+ Exceptional Unique/Set Weapon%NL%%YELLOW%bountiful ring : %GOLD%lum %WHITE%+ %ORANGE%P %YELLOW%topaz %WHITE%+ %BLUE%jewel%NL%%GRAY%Vampiric helm : %GOLD%lum %WHITE%+ %ORANGE%P %TAN%skull %WHITE%+ %BLUE%jewel%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%lum recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
 ItemDisplay[(r17s)]: %GOLD%****    %TAN%Lum %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY%    %GOLD%****{%WHITE%Weapon: +10 Energy %NL%Chest/Helm: +10 Energy %NL%Shield: +10 Energy %NL%%NL%%GOLD%Elite upgrade : %TAN%Lum %WHITE%+ %GOLD%Pul %WHITE%+ %ORANGE%P %GREEN%Emerald %WHITE%+ Exceptional Unique/Set Weapon%NL%%YELLOW%bountiful ring : %GOLD%lum %WHITE%+ %ORANGE%P %YELLOW%topaz %WHITE%+ %BLUE%jewel%NL%%GRAY%Vampiric helm : %GOLD%lum %WHITE%+ %ORANGE%P %TAN%skull %WHITE%+ %BLUE%jewel}
 
-ItemDisplay[(r20)]: %DOT-50%%GOLD%****    %TAN%Lem %GOLD%[%RUNENUM%]    %GOLD%****{%GOLD%elite upgrade : %TAN%ko %WHITE%+ %GOLD%lem %WHITE%+ %ORANGE%P %WHITE%diamond %WHITE%+ exceptional unique/set armor%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%lem recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
-ItemDisplay[(r20s)]: %DOT-50%%GOLD%****    %TAN%Lem %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY%    %GOLD%****{%WHITE%Weapon: +75% Gold find %NL%Chest/Helm: +50% Gold Find %NL%Shield: +50% Gold Find %NL%%NL%%GOLD%elite upgrade : %TAN%ko %WHITE%+ %GOLD%lem %WHITE%+ %ORANGE%P %WHITE%diamond %WHITE%+ exceptional unique/set armor}
+ItemDisplay[(r20)]: %MAP-50%%GOLD%****    %TAN%Lem %GOLD%[%RUNENUM%]    %GOLD%****{%GOLD%elite upgrade : %TAN%ko %WHITE%+ %GOLD%lem %WHITE%+ %ORANGE%P %WHITE%diamond %WHITE%+ exceptional unique/set armor%NL%%NL%%WHITE%***%RED%**%ORANGE%**     %WHITE%[ %GOLD%lem recipes %WHITE%]     %ORANGE%**%RED%**%WHITE%**%NL%}
+ItemDisplay[(r20s)]: %MAP-50%%GOLD%****    %TAN%Lem %GOLD%[%RUNENUM%] %WHITE%* %GREEN%%QTY%    %GOLD%****{%WHITE%Weapon: +75% Gold find %NL%Chest/Helm: +50% Gold Find %NL%Shield: +50% Gold Find %NL%%NL%%GOLD%elite upgrade : %TAN%ko %WHITE%+ %GOLD%lem %WHITE%+ %ORANGE%P %WHITE%diamond %WHITE%+ exceptional unique/set armor}
 
 //s11
 //pul +30% Enhanced Defence ->50
@@ -2439,38 +2439,38 @@ ItemDisplay[gsb CLVL>69]:
 ItemDisplay[gsy CLVL>69]:
 ItemDisplay[sku CLVL>69]:
 //Gems flawless
-ItemDisplay[gzv]: %DOT-50%%GRAY%%LIGHT_GRAY%(F) %PURPLE%amethyst%ORANGE%[%PURPLE%@%ORANGE%]{%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%GOLD%WEAPON SOC%NL%%ORANGE%RAL%WHITE%+%ORANGE%AMN%WHITE%+%RED%P_AMETHYST%NL%}
+ItemDisplay[gzv]: %MAP-50%%GRAY%%LIGHT_GRAY%(F) %PURPLE%amethyst%ORANGE%[%PURPLE%@%ORANGE%]{%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%GOLD%WEAPON SOC%NL%%ORANGE%RAL%WHITE%+%ORANGE%AMN%WHITE%+%RED%P_AMETHYST%NL%}
 ItemDisplay[glw]: %GRAY%%LIGHT_GRAY%(F) %WHITE%diamond%ORANGE%[%WHITE%@%ORANGE%]{%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY}
-ItemDisplay[glg]: %DOT-50%%GRAY%%LIGHT_GRAY%(F) %GREEN%emerald%ORANGE%[%GREEN%@%ORANGE%]{%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%GOLD%UNIQUE WEAPON UP%NL%%ORANGE%RAL%WHITE%+%ORANGE%SOL%WHITE%+%DARK_GREEN%P_EMERALD%RED%<EXC>%NL%%ORANGE%LUM%WHITE%+%ORANGE%PUL%WHITE%+%DARK_GREEN%P_EMERALD%RED%<ELITE>%NL%}
-ItemDisplay[glr]: %DOT-50%%GRAY%%LIGHT_GRAY%(F) %RED%ruby%ORANGE%[%RED%@%ORANGE%]{%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%GREEN%SET WEAPON UP%NL%%ORANGE%EL%WHITE%+%ORANGE%ETH%WHITE%+%RED%P_RUBY%RED%<EXC>%NL%%ORANGE%DOL%WHITE%+%ORANGE%MAL%WHITE%+%RED%P_RUBY%RED%<ELITE>%NL%}
+ItemDisplay[glg]: %MAP-50%%GRAY%%LIGHT_GRAY%(F) %GREEN%emerald%ORANGE%[%GREEN%@%ORANGE%]{%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%GOLD%UNIQUE WEAPON UP%NL%%ORANGE%RAL%WHITE%+%ORANGE%SOL%WHITE%+%DARK_GREEN%P_EMERALD%RED%<EXC>%NL%%ORANGE%LUM%WHITE%+%ORANGE%PUL%WHITE%+%DARK_GREEN%P_EMERALD%RED%<ELITE>%NL%}
+ItemDisplay[glr]: %MAP-50%%GRAY%%LIGHT_GRAY%(F) %RED%ruby%ORANGE%[%RED%@%ORANGE%]{%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%GREEN%SET WEAPON UP%NL%%ORANGE%EL%WHITE%+%ORANGE%ETH%WHITE%+%RED%P_RUBY%RED%<EXC>%NL%%ORANGE%DOL%WHITE%+%ORANGE%MAL%WHITE%+%RED%P_RUBY%RED%<ELITE>%NL%}
 ItemDisplay[glb]: %GRAY%%LIGHT_GRAY%(F) %BLUE%sapphire%ORANGE%%ORANGE%[%BLUE%@%ORANGE%]{%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%YELLOW%RARE WEAPON UP%NL%%ORANGE%ORT%WHITE%+%ORANGE%AMN%WHITE%+%BLUE%P_SAPPHIRE%RED%<EXC>%NL%%ORANGE%FAL%WHITE%+%ORANGE%UM%WHITE%+%BLUE%P_SAPPHIRE%RED%<ELITE>%NL%}
 ItemDisplay[gly]: %GRAY%%LIGHT_GRAY%(F) %YELLOW%topaz%ORANGE%%ORANGE%[%YELLOW%@%ORANGE%]{%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%GREEN%SET ARMOR UP%NL%%ORANGE%ELD%WHITE%+%ORANGE%ITH%WHITE%+%YELLOW%P_TOPAZ%RED%<EXC>%NL%%ORANGE%HEL%WHITE%+%ORANGE%IO%WHITE%+%YELLOW%P_TOPAZ%RED%<ELITE>%NL%}
-ItemDisplay[skl]: %DOT-50%%GRAY%%LIGHT_GRAY%(F) %GOLD%skull%ORANGE%[%GOLD%@%ORANGE%]{%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%YELLOW%RARE OPTION CHANGE: %ORANGE%P_SKULL*6%WHITE%+%YELLOW%RARE ITEM%NL%%YELLOW%RARE OPTION CHANGE(HIGH):%ORANGE%P_SKULL%WHITE%+%TAN%JORDAN%WHITE%+%YELLOW%RARE ITEM}
+ItemDisplay[skl]: %MAP-50%%GRAY%%LIGHT_GRAY%(F) %GOLD%skull%ORANGE%[%GOLD%@%ORANGE%]{%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%YELLOW%RARE OPTION CHANGE: %ORANGE%P_SKULL*6%WHITE%+%YELLOW%RARE ITEM%NL%%YELLOW%RARE OPTION CHANGE(HIGH):%ORANGE%P_SKULL%WHITE%+%TAN%JORDAN%WHITE%+%YELLOW%RARE ITEM}
 
-ItemDisplay[gzvs]: %DOT-50%%GRAY%%LIGHT_GRAY%(F) %PURPLE%amethyst%ORANGE%[%PURPLE%@%ORANGE%] %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:AR +100, Helm/Chest:+8 Str, Shield: +24Def%NL%%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%GOLD%WEAPON SOC%NL%%ORANGE%RAL%WHITE%+%ORANGE%AMN%WHITE%+%RED%P_AMETHYST%NL%}
+ItemDisplay[gzvs]: %MAP-50%%GRAY%%LIGHT_GRAY%(F) %PURPLE%amethyst%ORANGE%[%PURPLE%@%ORANGE%] %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:AR +100, Helm/Chest:+8 Str, Shield: +24Def%NL%%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%GOLD%WEAPON SOC%NL%%ORANGE%RAL%WHITE%+%ORANGE%AMN%WHITE%+%RED%P_AMETHYST%NL%}
 ItemDisplay[glws]: %GRAY%%LIGHT_GRAY%(F) %WHITE%diamond%ORANGE%[%WHITE%@%ORANGE%] %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:DMG Undead +54%, Helm/Chest:AR +80, Shield:+14% AllResi%NL%%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY}
-ItemDisplay[glgs]: %DOT-50%%GRAY%%LIGHT_GRAY%(F) %GREEN%emerald%ORANGE%[%GREEN%@%ORANGE%] %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:+60 Poison DMG (7sec), Helm/Chest:+8 Dex, Shield:+28%PResi%NL%%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%GOLD%UNIQUE WEAPON UP%NL%%ORANGE%RAL%WHITE%+%ORANGE%SOL%WHITE%+%DARK_GREEN%P_EMERALD%RED%<EXC>%NL%%ORANGE%LUM%WHITE%+%ORANGE%PUL%WHITE%+%DARK_GREEN%P_EMERALD%RED%<ELITE>%NL%}
-ItemDisplay[glrs]: %DOT-50%%GRAY%%LIGHT_GRAY%(F) %RED%ruby%ORANGE%[%RED%@%ORANGE%] %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:+10-16 Fire DMG, Helm/Chest:+31 Life, Shield:+28%FResi%NL%%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%GREEN%SET WEAPON UP%NL%%ORANGE%EL%WHITE%+%ORANGE%ETH%WHITE%+%RED%P_RUBY%RED%<EXC>%NL%%ORANGE%DOL%WHITE%+%ORANGE%MAL%WHITE%+%RED%P_RUBY%RED%<ELITE>%NL%}
+ItemDisplay[glgs]: %MAP-50%%GRAY%%LIGHT_GRAY%(F) %GREEN%emerald%ORANGE%[%GREEN%@%ORANGE%] %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:+60 Poison DMG (7sec), Helm/Chest:+8 Dex, Shield:+28%PResi%NL%%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%GOLD%UNIQUE WEAPON UP%NL%%ORANGE%RAL%WHITE%+%ORANGE%SOL%WHITE%+%DARK_GREEN%P_EMERALD%RED%<EXC>%NL%%ORANGE%LUM%WHITE%+%ORANGE%PUL%WHITE%+%DARK_GREEN%P_EMERALD%RED%<ELITE>%NL%}
+ItemDisplay[glrs]: %MAP-50%%GRAY%%LIGHT_GRAY%(F) %RED%ruby%ORANGE%[%RED%@%ORANGE%] %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:+10-16 Fire DMG, Helm/Chest:+31 Life, Shield:+28%FResi%NL%%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%GREEN%SET WEAPON UP%NL%%ORANGE%EL%WHITE%+%ORANGE%ETH%WHITE%+%RED%P_RUBY%RED%<EXC>%NL%%ORANGE%DOL%WHITE%+%ORANGE%MAL%WHITE%+%RED%P_RUBY%RED%<ELITE>%NL%}
 ItemDisplay[glbs]: %GRAY%%LIGHT_GRAY%(F) %BLUE%sapphire%ORANGE%%ORANGE%[%BLUE%@%ORANGE%] %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:+6-10 Cold DMG, Helm/Chest:+31 Mana, Shield:+28%CResi%NL%%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%YELLOW%RARE WEAPON UP%NL%%ORANGE%ORT%WHITE%+%ORANGE%AMN%WHITE%+%BLUE%P_SAPPHIRE%RED%<EXC>%NL%%ORANGE%FAL%WHITE%+%ORANGE%UM%WHITE%+%BLUE%P_SAPPHIRE%RED%<ELITE>%NL%}
 ItemDisplay[glys]: %GRAY%%LIGHT_GRAY%(F) %YELLOW%topaz%ORANGE%%ORANGE%[%YELLOW%@%ORANGE%] %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:+1-30 Lightn. DMG, Helm/Chest:20% Magic Find, Shield:+28%LResi%NL%%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%GREEN%SET ARMOR UP%NL%%ORANGE%ELD%WHITE%+%ORANGE%ITH%WHITE%+%YELLOW%P_TOPAZ%RED%<EXC>%NL%%ORANGE%HEL%WHITE%+%ORANGE%IO%WHITE%+%YELLOW%P_TOPAZ%RED%<ELITE>%NL%}
-ItemDisplay[skls]: %DOT-50%%GRAY%%LIGHT_GRAY%(F) %GOLD%skull%ORANGE%[%GOLD%@%ORANGE%] %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:3%Life/3%Mana Stolen, Helm/Chest:Rep.Life +4/Regen Mana 12%, Shield:Thorns 16%NL%%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%YELLOW%RARE OPTION CHANGE: %ORANGE%P_SKULL*6%WHITE%+%YELLOW%RARE ITEM%NL%%YELLOW%RARE OPTION CHANGE(HIGH):%ORANGE%P_SKULL%WHITE%+%TAN%JORDAN%WHITE%+%YELLOW%RARE ITEM}
+ItemDisplay[skls]: %MAP-50%%GRAY%%LIGHT_GRAY%(F) %GOLD%skull%ORANGE%[%GOLD%@%ORANGE%] %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:3%Life/3%Mana Stolen, Helm/Chest:Rep.Life +4/Regen Mana 12%, Shield:Thorns 16%NL%%YELLOW%UPGRADING:%WHITE%*3FLAWLESS+%TAN%KEY%NL%%YELLOW%RARE OPTION CHANGE: %ORANGE%P_SKULL*6%WHITE%+%YELLOW%RARE ITEM%NL%%YELLOW%RARE OPTION CHANGE(HIGH):%ORANGE%P_SKULL%WHITE%+%TAN%JORDAN%WHITE%+%YELLOW%RARE ITEM}
 
 //Gems Perfect
-ItemDisplay[gpv]: %DOT-50%%ORANGE%%CORAL%P %GOLD%Perfect %PURPLE%amethyst{%GREEN%*%ORANGE%amulet:  %TAN%RAL%WHITE%%NL%ring:  %TAN%AMN%NL%%WHITE%belt:  %TAN%ITH%WHITE%%NL%gloves:  %TAN%ORT%NL%%WHITE%boots:  %TAN%THUL%WHITE%%NL%helm:  %TAN%NEF%WHITE%%NL%chest:  %TAN%TAL%WHITE%%NL%shield:  %TAN%ETH%NL%%WHITE%weapon:   %TAN%TIR%NL%%NL%%PURPLE%P_AMETHYST%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[caster craft]}
-ItemDisplay[gpw]: %DOT-50%%ORANGE%%CORAL%P %GOLD%Perfect %WHITE%diamond{%GREEN%*%ORANGE%amulet:  %TAN%TAL%WHITE%%NL%ring:  %TAN%HEL%NL%%WHITE%belt:  %TAN%IO%WHITE%%NL%gloves:  %TAN%SHAEL%NL%%WHITE%boots:  %TAN%KO%WHITE%%NL%helm:  %TAN%ELD%WHITE%%NL%chest:  %TAN%EL%WHITE%%NL%shield:  %TAN%ORT%NL%%WHITE%weapon:   %TAN%SOL%NL%%NL%%PURPLE%P_DIAMOND%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[brilliant craft]}
-ItemDisplay[gpg]: %DOT-50%%ORANGE%%CORAL%P %GOLD%Perfect %GREEN%emerald{%WHITE%amulet:  %TAN%THUL%NL%%WHITE%ring:  %TAN%AMN%NL%%WHITE%belt:  %TAN%TAL%NL%%WHITE%gloves:  %TAN%RAL%NL%%WHITE%boots:  %TAN%ORT%NL%%WHITE%helm:  %TAN%ITH%NL%%WHITE%chest:  %TAN%ETH%NL%%WHITE%shield:  %TAN%NEF%NL%%GRAY%(bow/crossbow only)%NL%%RED%*%ORANGE%weapon:  %TAN%SOL%NL%%NL%%GREEN%P_EMERALD%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[safety craft]}
-ItemDisplay[gpr]: %DOT-50%%ORANGE%%CORAL%P %GOLD%Perfect %RED%ruby{%WHITE%amulet:  %TAN%AMN%NL%%WHITE%ring:  %TAN%SOL%NL%%WHITE%belt:  %TAN%TAL%NL%%WHITE%gloves:  %TAN%NEF%NL%%WHITE%boots:  %TAN%ETH%NL%%WHITE%helm:  %TAN%RAL%NL%%WHITE%chest:  %TAN%THUL%NL%%WHITE%shield:  %TAN%ITH%NL%%GREEN%*%ORANGE%weapon:  %TAN%ORT%NL%%NL%%RED%P_RUBY%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[blood craft]}
-ItemDisplay[gpb]: %DOT-50%%ORANGE%%CORAL%P %GOLD%Perfect %BLUE%sapphire{%WHITE%amulet:  %TAN%THUL%NL%%WHITE%ring:  %TAN%AMN%NL%%WHITE%belt:  %TAN%TAL%NL%%WHITE%gloves:  %TAN%ORT%NL%%WHITE%boots:  %TAN%RAL%NL%%WHITE%helm:  %TAN%ITH%NL%%WHITE%chest:  %TAN%NEF%NL%%WHITE%shield:  %TAN%ETH%NL%%GREEN%*%ORANGE%weapon:  %TAN%TIR%NL%%NL%%BLUE%P_SAPPHIRE%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[hitpower craft]}
-ItemDisplay[gpy]: %DOT-50%%ORANGE%%CORAL%P %GOLD%Perfect %YELLOW%topaz{%WHITE%amulet:  %TAN%KO%NL%%WHITE%ring:  %TAN%LUM%NL%%WHITE%belt:  %TAN%EL%NL%%WHITE%gloves:  %TAN%HEL%NL%%WHITE%boots:  %TAN%IO%NL%%WHITE%helm:  %TAN%TIR%NL%%WHITE%chest:  %TAN%ELD%NL%%WHITE%shield:  %TAN%DOL%NL%%GREEN%*%ORANGE%weapon:  %TAN%SHALE%NL%%NL%%YELLOW%P_TOPAZ%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[bountiful craft]}
-ItemDisplay[skz]: %DOT-50%%ORANGE%%CORAL%P %GOLD%Perfect %TAN%skull{%WHITE%amulet:  %TAN%DOL%NL%%WHITE%ring:  %TAN%HEL%NL%%WHITE%belt:  %TAN%ELD%NL%%WHITE%gloves:  %TAN%IO%NL%%WHITE%boots:  %TAN%EL%NL%%WHITE%helm:  %TAN%LUM%NL%%WHITE%chest:  %TAN%TIR%NL%%WHITE%shield:  %TAN%SOL%NL%%GREEN%*%ORANGE%weapon:  %TAN%SHAEL%NL%%NL%%TAN%P_SKULL%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[vampiric craft]}
+ItemDisplay[gpv]: %MAP-50%%ORANGE%%CORAL%P %GOLD%Perfect %PURPLE%amethyst{%GREEN%*%ORANGE%amulet:  %TAN%RAL%WHITE%%NL%ring:  %TAN%AMN%NL%%WHITE%belt:  %TAN%ITH%WHITE%%NL%gloves:  %TAN%ORT%NL%%WHITE%boots:  %TAN%THUL%WHITE%%NL%helm:  %TAN%NEF%WHITE%%NL%chest:  %TAN%TAL%WHITE%%NL%shield:  %TAN%ETH%NL%%WHITE%weapon:   %TAN%TIR%NL%%NL%%PURPLE%P_AMETHYST%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[caster craft]}
+ItemDisplay[gpw]: %MAP-50%%ORANGE%%CORAL%P %GOLD%Perfect %WHITE%diamond{%GREEN%*%ORANGE%amulet:  %TAN%TAL%WHITE%%NL%ring:  %TAN%HEL%NL%%WHITE%belt:  %TAN%IO%WHITE%%NL%gloves:  %TAN%SHAEL%NL%%WHITE%boots:  %TAN%KO%WHITE%%NL%helm:  %TAN%ELD%WHITE%%NL%chest:  %TAN%EL%WHITE%%NL%shield:  %TAN%ORT%NL%%WHITE%weapon:   %TAN%SOL%NL%%NL%%PURPLE%P_DIAMOND%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[brilliant craft]}
+ItemDisplay[gpg]: %MAP-50%%ORANGE%%CORAL%P %GOLD%Perfect %GREEN%emerald{%WHITE%amulet:  %TAN%THUL%NL%%WHITE%ring:  %TAN%AMN%NL%%WHITE%belt:  %TAN%TAL%NL%%WHITE%gloves:  %TAN%RAL%NL%%WHITE%boots:  %TAN%ORT%NL%%WHITE%helm:  %TAN%ITH%NL%%WHITE%chest:  %TAN%ETH%NL%%WHITE%shield:  %TAN%NEF%NL%%GRAY%(bow/crossbow only)%NL%%RED%*%ORANGE%weapon:  %TAN%SOL%NL%%NL%%GREEN%P_EMERALD%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[safety craft]}
+ItemDisplay[gpr]: %MAP-50%%ORANGE%%CORAL%P %GOLD%Perfect %RED%ruby{%WHITE%amulet:  %TAN%AMN%NL%%WHITE%ring:  %TAN%SOL%NL%%WHITE%belt:  %TAN%TAL%NL%%WHITE%gloves:  %TAN%NEF%NL%%WHITE%boots:  %TAN%ETH%NL%%WHITE%helm:  %TAN%RAL%NL%%WHITE%chest:  %TAN%THUL%NL%%WHITE%shield:  %TAN%ITH%NL%%GREEN%*%ORANGE%weapon:  %TAN%ORT%NL%%NL%%RED%P_RUBY%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[blood craft]}
+ItemDisplay[gpb]: %MAP-50%%ORANGE%%CORAL%P %GOLD%Perfect %BLUE%sapphire{%WHITE%amulet:  %TAN%THUL%NL%%WHITE%ring:  %TAN%AMN%NL%%WHITE%belt:  %TAN%TAL%NL%%WHITE%gloves:  %TAN%ORT%NL%%WHITE%boots:  %TAN%RAL%NL%%WHITE%helm:  %TAN%ITH%NL%%WHITE%chest:  %TAN%NEF%NL%%WHITE%shield:  %TAN%ETH%NL%%GREEN%*%ORANGE%weapon:  %TAN%TIR%NL%%NL%%BLUE%P_SAPPHIRE%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[hitpower craft]}
+ItemDisplay[gpy]: %MAP-50%%ORANGE%%CORAL%P %GOLD%Perfect %YELLOW%topaz{%WHITE%amulet:  %TAN%KO%NL%%WHITE%ring:  %TAN%LUM%NL%%WHITE%belt:  %TAN%EL%NL%%WHITE%gloves:  %TAN%HEL%NL%%WHITE%boots:  %TAN%IO%NL%%WHITE%helm:  %TAN%TIR%NL%%WHITE%chest:  %TAN%ELD%NL%%WHITE%shield:  %TAN%DOL%NL%%GREEN%*%ORANGE%weapon:  %TAN%SHALE%NL%%NL%%YELLOW%P_TOPAZ%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[bountiful craft]}
+ItemDisplay[skz]: %MAP-50%%ORANGE%%CORAL%P %GOLD%Perfect %TAN%skull{%WHITE%amulet:  %TAN%DOL%NL%%WHITE%ring:  %TAN%HEL%NL%%WHITE%belt:  %TAN%ELD%NL%%WHITE%gloves:  %TAN%IO%NL%%WHITE%boots:  %TAN%EL%NL%%WHITE%helm:  %TAN%LUM%NL%%WHITE%chest:  %TAN%TIR%NL%%WHITE%shield:  %TAN%SOL%NL%%GREEN%*%ORANGE%weapon:  %TAN%SHAEL%NL%%NL%%TAN%P_SKULL%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[vampiric craft]}
 
-ItemDisplay[gpvs]: %DOT-50%%ORANGE%%CORAL%P %GOLD%Perfect %PURPLE%amethyst  %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:AR +150, Helm/Chest:+10 Str, Shield: +30Def%NL%%GREEN%*%ORANGE%amulet:  %TAN%RAL%WHITE%%NL%ring:  %TAN%AMN%NL%%WHITE%belt:  %TAN%ITH%WHITE%%NL%gloves:  %TAN%ORT%NL%%WHITE%boots:  %TAN%THUL%WHITE%%NL%helm:  %TAN%NEF%WHITE%%NL%chest:  %TAN%TAL%WHITE%%NL%shield:  %TAN%ETH%NL%%WHITE%weapon:   %TAN%TIR%NL%%NL%%PURPLE%P_AMETHYST%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[caster craft]}
-ItemDisplay[gpws]: %DOT-50%%ORANGE%%CORAL%P %GOLD%Perfect %WHITE%diamond %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:DMG Undead +68%, Helm/Chest:AR +100, Shield:+19% AllResi%NL%%GREEN%*%ORANGE%amulet:  %TAN%TAL%WHITE%%NL%ring:  %TAN%HEL%NL%%WHITE%belt:  %TAN%IO%WHITE%%NL%gloves:  %TAN%SHAEL%NL%%WHITE%boots:  %TAN%KO%WHITE%%NL%helm:  %TAN%ELD%WHITE%%NL%chest:  %TAN%EL%WHITE%%NL%shield:  %TAN%ORT%NL%%WHITE%weapon:   %TAN%SOL%NL%%NL%%PURPLE%P_DIAMOND%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[brilliant craft]}
-ItemDisplay[gpgs]: %DOT-50%%ORANGE%%CORAL%P %GOLD%Perfect %GREEN%emerald %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:+100 Poison DMG (7sec), Helm/Chest:+10 Dex, Shield:+40%PResi%NL%%WHITE%amulet:  %TAN%THUL%NL%%WHITE%ring:  %TAN%AMN%NL%%WHITE%belt:  %TAN%TAL%NL%%WHITE%gloves:  %TAN%RAL%NL%%WHITE%boots:  %TAN%ORT%NL%%WHITE%helm:  %TAN%ITH%NL%%WHITE%chest:  %TAN%ETH%NL%%WHITE%shield:  %TAN%NEF%NL%%GRAY%(bow/crossbow only)%NL%%RED%*%ORANGE%weapon:  %TAN%SOL%NL%%NL%%GREEN%P_EMERALD%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[safety craft]}
-ItemDisplay[gprs]: %DOT-50%%ORANGE%%CORAL%P %GOLD%Perfect %RED%ruby  %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:+15-20 Fire DMG, Helm/Chest:+38 Life, Shield:+40%FResi%NL%%WHITE%amulet:  %TAN%AMN%NL%%WHITE%ring:  %TAN%SOL%NL%%WHITE%belt:  %TAN%TAL%NL%%WHITE%gloves:  %TAN%NEF%NL%%WHITE%boots:  %TAN%ETH%NL%%WHITE%helm:  %TAN%RAL%NL%%WHITE%chest:  %TAN%THUL%NL%%WHITE%shield:  %TAN%ITH%NL%%GREEN%*%ORANGE%weapon:  %TAN%ORT%NL%%NL%%RED%P_RUBY%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[blood craft]}
-ItemDisplay[gpbs]: %DOT-50%%ORANGE%%CORAL%P %GOLD%Perfect %BLUE%sapphire  %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:+10-14 Cold DMG, Helm/Chest:+38 Mana, Shield:+40%CResi%NL%%WHITE%amulet:  %TAN%THUL%NL%%WHITE%ring:  %TAN%AMN%NL%%WHITE%belt:  %TAN%TAL%NL%%WHITE%gloves:  %TAN%ORT%NL%%WHITE%boots:  %TAN%RAL%NL%%WHITE%helm:  %TAN%ITH%NL%%WHITE%chest:  %TAN%NEF%NL%%WHITE%shield:  %TAN%ETH%NL%%GREEN%*%ORANGE%weapon:  %TAN%TIR%NL%%NL%%BLUE%P_SAPPHIRE%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[hitpower craft]}
-ItemDisplay[gpys]: %DOT-50%%ORANGE%%CORAL%P %GOLD%Perfect %YELLOW%topaz  %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:+1-40 Lightn. DMG, Helm/Chest:24% Magic Find, Shield:+40%LResi%NL%%WHITE%amulet:  %TAN%KO%NL%%WHITE%ring:  %TAN%LUM%NL%%WHITE%belt:  %TAN%EL%NL%%WHITE%gloves:  %TAN%HEL%NL%%WHITE%boots:  %TAN%IO%NL%%WHITE%helm:  %TAN%TIR%NL%%WHITE%chest:  %TAN%ELD%NL%%WHITE%shield:  %TAN%DOL%NL%%GREEN%*%ORANGE%weapon:  %TAN%SHALE%NL%%NL%%YELLOW%P_TOPAZ%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[bountiful craft]}
-ItemDisplay[skzs]: %DOT-50%%ORANGE%%CORAL%P %GOLD%Perfect %TAN%skull  %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:4%Life/3%Mana Stolen, Helm/Chest:Rep.Life +5/Regen Mana 19%, Shield:Thorns 20%NL%%WHITE%amulet:  %TAN%DOL%NL%%WHITE%ring:  %TAN%HEL%NL%%WHITE%belt:  %TAN%ELD%NL%%WHITE%gloves:  %TAN%IO%NL%%WHITE%boots:  %TAN%EL%NL%%WHITE%helm:  %TAN%LUM%NL%%WHITE%chest:  %TAN%TIR%NL%%WHITE%shield:  %TAN%SOL%NL%%GREEN%*%ORANGE%weapon:  %TAN%SHAEL%NL%%NL%%TAN%P_SKULL%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[vampiric craft]}
+ItemDisplay[gpvs]: %MAP-50%%ORANGE%%CORAL%P %GOLD%Perfect %PURPLE%amethyst  %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:AR +150, Helm/Chest:+10 Str, Shield: +30Def%NL%%GREEN%*%ORANGE%amulet:  %TAN%RAL%WHITE%%NL%ring:  %TAN%AMN%NL%%WHITE%belt:  %TAN%ITH%WHITE%%NL%gloves:  %TAN%ORT%NL%%WHITE%boots:  %TAN%THUL%WHITE%%NL%helm:  %TAN%NEF%WHITE%%NL%chest:  %TAN%TAL%WHITE%%NL%shield:  %TAN%ETH%NL%%WHITE%weapon:   %TAN%TIR%NL%%NL%%PURPLE%P_AMETHYST%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[caster craft]}
+ItemDisplay[gpws]: %MAP-50%%ORANGE%%CORAL%P %GOLD%Perfect %WHITE%diamond %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:DMG Undead +68%, Helm/Chest:AR +100, Shield:+19% AllResi%NL%%GREEN%*%ORANGE%amulet:  %TAN%TAL%WHITE%%NL%ring:  %TAN%HEL%NL%%WHITE%belt:  %TAN%IO%WHITE%%NL%gloves:  %TAN%SHAEL%NL%%WHITE%boots:  %TAN%KO%WHITE%%NL%helm:  %TAN%ELD%WHITE%%NL%chest:  %TAN%EL%WHITE%%NL%shield:  %TAN%ORT%NL%%WHITE%weapon:   %TAN%SOL%NL%%NL%%PURPLE%P_DIAMOND%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[brilliant craft]}
+ItemDisplay[gpgs]: %MAP-50%%ORANGE%%CORAL%P %GOLD%Perfect %GREEN%emerald %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:+100 Poison DMG (7sec), Helm/Chest:+10 Dex, Shield:+40%PResi%NL%%WHITE%amulet:  %TAN%THUL%NL%%WHITE%ring:  %TAN%AMN%NL%%WHITE%belt:  %TAN%TAL%NL%%WHITE%gloves:  %TAN%RAL%NL%%WHITE%boots:  %TAN%ORT%NL%%WHITE%helm:  %TAN%ITH%NL%%WHITE%chest:  %TAN%ETH%NL%%WHITE%shield:  %TAN%NEF%NL%%GRAY%(bow/crossbow only)%NL%%RED%*%ORANGE%weapon:  %TAN%SOL%NL%%NL%%GREEN%P_EMERALD%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[safety craft]}
+ItemDisplay[gprs]: %MAP-50%%ORANGE%%CORAL%P %GOLD%Perfect %RED%ruby  %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:+15-20 Fire DMG, Helm/Chest:+38 Life, Shield:+40%FResi%NL%%WHITE%amulet:  %TAN%AMN%NL%%WHITE%ring:  %TAN%SOL%NL%%WHITE%belt:  %TAN%TAL%NL%%WHITE%gloves:  %TAN%NEF%NL%%WHITE%boots:  %TAN%ETH%NL%%WHITE%helm:  %TAN%RAL%NL%%WHITE%chest:  %TAN%THUL%NL%%WHITE%shield:  %TAN%ITH%NL%%GREEN%*%ORANGE%weapon:  %TAN%ORT%NL%%NL%%RED%P_RUBY%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[blood craft]}
+ItemDisplay[gpbs]: %MAP-50%%ORANGE%%CORAL%P %GOLD%Perfect %BLUE%sapphire  %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:+10-14 Cold DMG, Helm/Chest:+38 Mana, Shield:+40%CResi%NL%%WHITE%amulet:  %TAN%THUL%NL%%WHITE%ring:  %TAN%AMN%NL%%WHITE%belt:  %TAN%TAL%NL%%WHITE%gloves:  %TAN%ORT%NL%%WHITE%boots:  %TAN%RAL%NL%%WHITE%helm:  %TAN%ITH%NL%%WHITE%chest:  %TAN%NEF%NL%%WHITE%shield:  %TAN%ETH%NL%%GREEN%*%ORANGE%weapon:  %TAN%TIR%NL%%NL%%BLUE%P_SAPPHIRE%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[hitpower craft]}
+ItemDisplay[gpys]: %MAP-50%%ORANGE%%CORAL%P %GOLD%Perfect %YELLOW%topaz  %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:+1-40 Lightn. DMG, Helm/Chest:24% Magic Find, Shield:+40%LResi%NL%%WHITE%amulet:  %TAN%KO%NL%%WHITE%ring:  %TAN%LUM%NL%%WHITE%belt:  %TAN%EL%NL%%WHITE%gloves:  %TAN%HEL%NL%%WHITE%boots:  %TAN%IO%NL%%WHITE%helm:  %TAN%TIR%NL%%WHITE%chest:  %TAN%ELD%NL%%WHITE%shield:  %TAN%DOL%NL%%GREEN%*%ORANGE%weapon:  %TAN%SHALE%NL%%NL%%YELLOW%P_TOPAZ%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[bountiful craft]}
+ItemDisplay[skzs]: %MAP-50%%ORANGE%%CORAL%P %GOLD%Perfect %TAN%skull  %WHITE%* %GREEN%%QTY%{%WHITE%Weapon:4%Life/3%Mana Stolen, Helm/Chest:Rep.Life +5/Regen Mana 19%, Shield:Thorns 20%NL%%WHITE%amulet:  %TAN%DOL%NL%%WHITE%ring:  %TAN%HEL%NL%%WHITE%belt:  %TAN%ELD%NL%%WHITE%gloves:  %TAN%IO%NL%%WHITE%boots:  %TAN%EL%NL%%WHITE%helm:  %TAN%LUM%NL%%WHITE%chest:  %TAN%TIR%NL%%WHITE%shield:  %TAN%SOL%NL%%GREEN%*%ORANGE%weapon:  %TAN%SHAEL%NL%%NL%%TAN%P_SKULL%WHITE%+%BLUE%JEWEL%WHITE%+%GOLD%AND...%NL%%GOLD%[vampiric craft]}
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                  MAGIC RING / AMULET                                        //
@@ -2738,14 +2738,14 @@ ItemDisplay[MAG rin ID]: %BLUE%%NAME%%CONTINUE%
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                        CIRCLET                                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[RARE ci0 !ETH !ID]: %DOT-6F%%GREEN%%CORAL%*****    %WHITE%[ %YELLOW%Circlet %WHITE%]    %GREEN%%CORAL%****
-ItemDisplay[RARE ci0 ETH !ID]: %DOT-6F%%GREEN%%CORAL%****   %PURPLE%Eth %WHITE%[%YELLOW%Circlet %WHITE%]    %GREEN%%CORAL%****
-ItemDisplay[RARE ci1 !ETH !ID]: %DOT-6F%%GREEN%%CORAL%*****    %WHITE%[ %YELLOW%Coronet %WHITE%]    %GREEN%%CORAL%****
-ItemDisplay[RARE ci1 ETH !ID]: %DOT-6F%%GREEN%%CORAL%****   %PURPLE%Eth %WHITE%[ %YELLOW%Coronet %WHITE%]    %GREEN%%CORAL%****
-ItemDisplay[RARE ci2 !ETH !ID]: %DOT-6F%%GREEN%%CORAL%*****    %PURPLE%[ %YELLOW%Tiara %PURPLE%]    %GREEN%%CORAL%****
-ItemDisplay[RARE ci2 ETH !ID]: %DOT-6F%%GREEN%%CORAL%****   %PURPLE%Eth %WHITE%[ %YELLOW%Tiara %WHITE%]    %GREEN%%CORAL%****
-ItemDisplay[RARE ci3 !ETH !ID]: %DOT-6F%%GREEN%%CORAL%*****    %PURPLE%[ %YELLOW%Diadem %PURPLE%]    %GREEN%%CORAL%****
-ItemDisplay[RARE ci3 ETH !ID]: %DOT-6F%%GREEN%%CORAL%****   %PURPLE%Eth %WHITE%[ %YELLOW%Diadem %WHITE%]    %GREEN%%CORAL%****
+ItemDisplay[RARE ci0 !ETH !ID]: %MAP-6F%%GREEN%%CORAL%*****    %WHITE%[ %YELLOW%Circlet %WHITE%]    %GREEN%%CORAL%****
+ItemDisplay[RARE ci0 ETH !ID]: %MAP-6F%%GREEN%%CORAL%****   %PURPLE%Eth %WHITE%[%YELLOW%Circlet %WHITE%]    %GREEN%%CORAL%****
+ItemDisplay[RARE ci1 !ETH !ID]: %MAP-6F%%GREEN%%CORAL%*****    %WHITE%[ %YELLOW%Coronet %WHITE%]    %GREEN%%CORAL%****
+ItemDisplay[RARE ci1 ETH !ID]: %MAP-6F%%GREEN%%CORAL%****   %PURPLE%Eth %WHITE%[ %YELLOW%Coronet %WHITE%]    %GREEN%%CORAL%****
+ItemDisplay[RARE ci2 !ETH !ID]: %MAP-6F%%GREEN%%CORAL%*****    %PURPLE%[ %YELLOW%Tiara %PURPLE%]    %GREEN%%CORAL%****
+ItemDisplay[RARE ci2 ETH !ID]: %MAP-6F%%GREEN%%CORAL%****   %PURPLE%Eth %WHITE%[ %YELLOW%Tiara %WHITE%]    %GREEN%%CORAL%****
+ItemDisplay[RARE ci3 !ETH !ID]: %MAP-6F%%GREEN%%CORAL%*****    %PURPLE%[ %YELLOW%Diadem %PURPLE%]    %GREEN%%CORAL%****
+ItemDisplay[RARE ci3 ETH !ID]: %MAP-6F%%GREEN%%CORAL%****   %PURPLE%Eth %WHITE%[ %YELLOW%Diadem %WHITE%]    %GREEN%%CORAL%****
 
 //CLSK1 SORCERESS, CLSK2 NECROMANCER, CLSK3 PALADIN, CLSK6 ASSASIN, CLSK0 AMAZON
 
@@ -2781,11 +2781,11 @@ ItemDisplay[RARE EQ7 !ETH ID !(CLSK0>1 OR CLSK1>1 OR CLSK2>1 OR CLSK3>1 OR CLSK4
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                    RARE/SET AMU/RIN/JEW DROP                                //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[RARE (amu) !ID]: %DOT-6F%%GREEN%%TEAL%****    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %GREEN%%TEAL%****
-ItemDisplay[RARE (rin) !ID]: %DOT-6F%%GREEN%%TEAL%****    %WHITE%[  %YELLOW%%NAME%  %WHITE%]    %GREEN%%TEAL%****
-ItemDisplay[RARE (jew) !ID]: %DOT-6F%%GREEN%%TEAL%****    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %GREEN%%TEAL%****
-ItemDisplay[SET !ID amu]: %DOT-84%%PURPLE%****    %WHITE%[ %GREEN%%NAME% %WHITE%]    %PURPLE%****
-ItemDisplay[SET !ID rin]: %DOT-84%%PURPLE%%SAGE%****    %WHITE%[  %GREEN%%NAME%  %WHITE%]    %PURPLE%%SAGE%****
+ItemDisplay[RARE (amu) !ID]: %MAP-6F%%GREEN%%TEAL%****    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %GREEN%%TEAL%****
+ItemDisplay[RARE (rin) !ID]: %MAP-6F%%GREEN%%TEAL%****    %WHITE%[  %YELLOW%%NAME%  %WHITE%]    %GREEN%%TEAL%****
+ItemDisplay[RARE (jew) !ID]: %MAP-6F%%GREEN%%TEAL%****    %WHITE%[ %YELLOW%%NAME% %WHITE%]    %GREEN%%TEAL%****
+ItemDisplay[SET !ID amu]: %MAP-84%%PURPLE%****    %WHITE%[ %GREEN%%NAME% %WHITE%]    %PURPLE%****
+ItemDisplay[SET !ID rin]: %MAP-84%%PURPLE%%SAGE%****    %WHITE%[  %GREEN%%NAME%  %WHITE%]    %PURPLE%%SAGE%****
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                     ARROWS MARKING                                         //
 /////////////////////////////////////////////////////////////////////////////////////////////////
@@ -3317,19 +3317,19 @@ ItemDisplay[RARE (WEAPON OR ARMOR) !ID NORM]:%GRAY%n-%YELLOW%%NAME%%CONTINUE%
 //ItemDisplay[RARE (CHEST) ETH !ID]:%PURPLE%Eth %YELLOW%%NAME%: Chest%CONTINUE%
 //ItemDisplay[RARE (EQ3) ETH !ID]:%PURPLE%Eth %YELLOW%%NAME%: Shield%CONTINUE%
 
-ItemDisplay[RARE (mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm OR flb OR 9fb OR 7fb OR gax OR 9ga OR 7ga) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*   %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
-ItemDisplay[RARE (gsd OR 9gd OR 7gd OR glv OR 9gl OR 7gl OR pil OR 9pi OR 7pi OR tsp OR 9ts OR 7ts) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
-ItemDisplay[RARE (am5 OR ama OR amf OR whm OR 9wh OR 7wh) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
-ItemDisplay[RARE (CL5 OR WP12 OR EQ2) ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
+ItemDisplay[RARE (mau OR 9m9 OR 7m7 OR gma OR 9gm OR 7gm OR flb OR 9fb OR 7fb OR gax OR 9ga OR 7ga) ETH !ID]:%MAP-75%%GREEN%*%SAGE%*   %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
+ItemDisplay[RARE (gsd OR 9gd OR 7gd OR glv OR 9gl OR 7gl OR pil OR 9pi OR 7pi OR tsp OR 9ts OR 7ts) ETH !ID]:%MAP-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
+ItemDisplay[RARE (am5 OR ama OR amf OR whm OR 9wh OR 7wh) ETH !ID]:%MAP-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
+ItemDisplay[RARE (CL5 OR WP12 OR EQ2) ETH !ID]:%MAP-75%%GREEN%*%SAGE%*  %WHITE%[ %PURPLE%Eth %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
 
-ItemDisplay[RARE (EQ4) !ETH !ID]:%DOT-75%%GREEN%*%TEAL%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%TEAL%*
-ItemDisplay[RARE (EQ5) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
+ItemDisplay[RARE (EQ4) !ETH !ID]:%MAP-75%%GREEN%*%TEAL%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%TEAL%*
+ItemDisplay[RARE (EQ5) !ETH !ID]:%MAP-75%%GREEN%*%SAGE%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
 
-ItemDisplay[RARE (CL4 OR gax OR 9ga OR 7ga OR WP12 OR EQ2) !ETH !ID]:%DOT-75%%GREEN%*%SAGE%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
+ItemDisplay[RARE (CL4 OR gax OR 9ga OR 7ga OR WP12 OR EQ2) !ETH !ID]:%MAP-75%%GREEN%*%SAGE%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%SAGE%*
 
 //ItemDisplay[RARE (EQ6) ETH !ID]:%PURPLE%Eth %YELLOW%%NAME%: Belt%CONTINUE%
 //ItemDisplay[RARE (EQ7) ETH !ID]:%PURPLE%Eth %YELLOW%%NAME%: Circ%CONTINUE%
-ItemDisplay[RARE (am2 OR am7 OR amc OR lwb OR 8lw OR 6lw OR hxb OR 8hx OR 6hx) !ETH !ID]: %DOT-75%%GREEN%*%CORAL%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%CORAL%*
+ItemDisplay[RARE (am2 OR am7 OR amc OR lwb OR 8lw OR 6lw OR hxb OR 8hx OR 6hx) !ETH !ID]: %MAP-75%%GREEN%*%CORAL%*  %WHITE%[ %YELLOW%%NAME% %WHITE%]  %GREEN%*%CORAL%*
 ItemDisplay[RARE (WEAPON OR ARMOR) !ETH !ID]: %YELLOW%%NAME%
 ItemDisplay[RARE (WEAPON OR ARMOR) ETH !ID]: %PURPLE%Eth %YELLOW%%NAME%
 /////////////////////////////////////////////////////////////////////////////////////////////////
@@ -3544,31 +3544,31 @@ ItemDisplay[RW MULTI151,100=1]:%NAME% %RED%+1 FAura%CONTINUE%
 /////////////////////////////////////////////////////////////////////////////////////////////////
 
 //s12
-ItemDisplay[UNI !ID 6hb]:%DOT-0C% %GOLD%@@@@     %RED%Crackleshot%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID 6hb]:%MAP-0C% %GOLD%@@@@     %RED%Crackleshot%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID (aqv)]:%ORANGE%@@  %TAN%Balefire%GRAY%[%BASENAME%]%WHITE%(New) %ORANGE%@@
 ItemDisplay[UNI !ID (cqv)]:%ORANGE%@@  %TAN%Ramfodder%GRAY%[%BASENAME%]%WHITE%(New) %ORANGE%@@
 ItemDisplay[UNI !ID (aqv2)]:%ORANGE%@@  %TAN%Swiftwind or Tombsong%GRAY%[%BASENAME%]%WHITE%(New) %ORANGE%@@
 ItemDisplay[UNI !ID (cqv2)]:%ORANGE%@@  %TAN%Anvilguard or Shatterhead%GRAY%[%BASENAME%]%WHITE%(New) %ORANGE%@@
-ItemDisplay[UNI !ID (aqv3)]:%SOUNDID-2664%%DOT-0C%%ORANGE%@@  %RED%Aether or Basi. or Doom%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@@
-ItemDisplay[UNI !ID (cqv3)]:%SOUNDID-2664%%DOT-0C%%ORANGE%@@  %RED%Abys. Or Banner. OR Frozen%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@@
+ItemDisplay[UNI !ID (aqv3)]:%SOUNDID-2664%%MAP-0C%%ORANGE%@@  %RED%Aether or Basi. or Doom%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@@
+ItemDisplay[UNI !ID (cqv3)]:%SOUNDID-2664%%MAP-0C%%ORANGE%@@  %RED%Abys. Or Banner. OR Frozen%GOLD%[%BASENAME%]%WHITE%(New) %ORANGE%@@
 
 //s11
 ItemDisplay[UNI !ID ob7 !ETH]:%GOLD%@@@@     %TAN%Skorn%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID ob7 ETH]:%GOLD%@@@@     %WHITE%ETH %TAN%Skorn%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID 7xf !ETH]:%SOUNDID-2664%%DOT-0C% %GOLD%@@@@     %RED%Whispering Mirage%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID 7xf ETH]:%DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Whispering Mirage%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID paf !ETH]:%SOUNDID-2664%%DOT-0C% %GOLD%@@@@     %RED%Skywarden%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID paf ETH]:%DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Skywarden%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID dr6 !ETH]:%DOT-0C% %GOLD%@@@@     %RED%Fenris%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID dr6 ETH]:%DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Fenris%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID ba2 !ETH]:%DOT-0C% %GOLD%@@@@     %RED%Wildspeaker%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID ba2 ETH]:%DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Wildspeaker%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID 7xf !ETH]:%SOUNDID-2664%%MAP-0C% %GOLD%@@@@     %RED%Whispering Mirage%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID 7xf ETH]:%MAP-0C% %GOLD%@@@@     %WHITE%ETH %RED%Whispering Mirage%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID paf !ETH]:%SOUNDID-2664%%MAP-0C% %GOLD%@@@@     %RED%Skywarden%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID paf ETH]:%MAP-0C% %GOLD%@@@@     %WHITE%ETH %RED%Skywarden%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID dr6 !ETH]:%MAP-0C% %GOLD%@@@@     %RED%Fenris%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID dr6 ETH]:%MAP-0C% %GOLD%@@@@     %WHITE%ETH %RED%Fenris%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID ba2 !ETH]:%MAP-0C% %GOLD%@@@@     %RED%Wildspeaker%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID ba2 ETH]:%MAP-0C% %GOLD%@@@@     %WHITE%ETH %RED%Wildspeaker%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID 9b8 !ETH]:%GOLD%@@@@     %TAN%Achilles Strike%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID 9b8 ETH]:%GOLD%@@@@     %WHITE%ETH %TAN%Achilles Strike%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID uhc !ETH]:%DOT-0C% %GOLD%@@@@     %RED%Siggards Staunch%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID uhc !ETH]:%MAP-0C% %GOLD%@@@@     %RED%Siggards Staunch%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID uhc ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %WHITE%ETH %RED%Siggards Staunch    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID neg !ETH]:%DOT-0C% %GOLD%@@@@     %RED%Sacred Totem%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID neg ETH]:%DOT-0C% %GOLD%@@@@     %WHITE%ETH %RED%Sacred Totem%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID neg !ETH]:%MAP-0C% %GOLD%@@@@     %RED%Sacred Totem%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID neg ETH]:%MAP-0C% %GOLD%@@@@     %WHITE%ETH %RED%Sacred Totem%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
 
 //s10
 ItemDisplay[UNI !ID ulg !ETH]:%GOLD%@@@@     %TAN%Titan's Grip%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
@@ -3579,269 +3579,269 @@ ItemDisplay[UNI !ID urg !ETH]:%GOLD%@@@@     %TAN%Twilight's Reflection%GOLD%[%B
 ItemDisplay[UNI !ID urg ETH]:%GOLD%@@@@     %WHITE%ETH %TAN%Twilight's Reflection%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID drc !ETH]:%GOLD%@@@@     %TAN%Denmother%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID drc ETH]:%GOLD%@@@@     %WHITE%ETH %TAN%Denmother%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
-ItemDisplay[UNI !ID amc !ETH]:%SOUNDID-2664%%DOT-0C%%GOLD%@@@@     %RED%Ebonbane%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID amc !ETH]:%SOUNDID-2664%%MAP-0C%%GOLD%@@@@     %RED%Ebonbane%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID amc ETH]:%GOLD%@@@@     %WHITE%ETH %RED%Ebonbane%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID 7di !ETH]:%GOLD%@@@@     %TAN%Shatterblade%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID 7di ETH]:%GOLD%@@@@     %WHITE%ETH %TAN%Shatterblade%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
 
 //Unique Helmet
 ItemDisplay[UNI !ID xh9 !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Vampire Gaze    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID xh9 ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Vampire Gaze%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID xh9 ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Vampire Gaze%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 ItemDisplay[UNI !ID uap !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Shako    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID uap ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Shako%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID uap ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Shako%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 ItemDisplay[UNI !ID ulm !ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Steel Shade Armet    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@ 
-ItemDisplay[UNI !ID ulm ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Steel Shade Armet%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID ulm ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Steel Shade Armet%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 ItemDisplay[UNI !ID usk !ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Andariel's Visage    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID usk ETH]: %DOT-0C% %GOLD%@@@@ %PURPLE%Eth %RED%Andariel's Visage%GOLD%[%BASENAME%] %GOLD%@@@@ 
+ItemDisplay[UNI !ID usk ETH]: %MAP-0C% %GOLD%@@@@ %PURPLE%Eth %RED%Andariel's Visage%GOLD%[%BASENAME%] %GOLD%@@@@ 
 ItemDisplay[UNI !ID ci3 !ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Griffon's Eye    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID ci3 ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Griffon's Eye%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID ci3 ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Griffon's Eye%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 ItemDisplay[UNI !ID ci2 !ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Kira's Guardian    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID ci2 ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Kira's Guardian%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID ci2 ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Kira's Guardian%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 //Unique Armor
-ItemDisplay[UNI !ID xea !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Skin of the Vipermagi%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID xea ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Skin of the Vipermagi%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID xhn !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Shaftstop%GOLD%[%BASENAME%]     %GOLD%@@@@
-ItemDisplay[UNI !ID xhn ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Shaftstop%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID xtp !ETH]: %DOT-0C% %GOLD%@@@@     %RED%QueHegans Wisdom%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID xtp ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%QueHegans Wisdom%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID xlt !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Guardian Angel%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID xlt ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Guardian Angel%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID uui !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Ormus Robes%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID uui ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Ormus robes%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID utu !ETH]: %DOT-0C% %GOLD%@@@@     %RED%The Gladiators Bane%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID utu ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%The Gladiators Bane%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID xea !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Skin of the Vipermagi%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID xea ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Skin of the Vipermagi%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID xhn !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Shaftstop%GOLD%[%BASENAME%]     %GOLD%@@@@
+ItemDisplay[UNI !ID xhn ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Shaftstop%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID xtp !ETH]: %MAP-0C% %GOLD%@@@@     %RED%QueHegans Wisdom%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID xtp ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%QueHegans Wisdom%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID xlt !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Guardian Angel%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID xlt ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Guardian Angel%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID uui !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Ormus Robes%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID uui ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Ormus robes%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID utu !ETH]: %MAP-0C% %GOLD%@@@@     %RED%The Gladiators Bane%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID utu ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%The Gladiators Bane%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 ItemDisplay[UNI !ID upl !ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@   %RED%Arkaines Valor    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID upl ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Arkaines Valor%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID uld !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Leviathan%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID uld ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Leviathan%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID upl ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Arkaines Valor%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID uld !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Leviathan%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID uld ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Leviathan%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 ItemDisplay[UNI !ID uar !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%TYRAELS %TAN%Or%GREEN%TEMPLARS    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID uar ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %GREEN%Templars Might%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID uar ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %GREEN%Templars Might%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 //Unique Shields
 ItemDisplay[UNI !ID uit !ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Stormshield    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID uit ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Stormshield%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID uit ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Stormshield%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 //Unique Gloves
 ItemDisplay[UNI !ID uvg !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Draculs Grasp    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID uvg ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Dracul's Grasp%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID uvg ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Dracul's Grasp%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 ItemDisplay[UNI !ID umg !ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Soul Drainer    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID umg ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Soul Drainer%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID umg ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Soul Drainer%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 ItemDisplay[UNI !ID uhg !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Steelrend    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID uhg ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Steelrend%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID uhg ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Steelrend%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 //Unique Boots
-ItemDisplay[UNI !ID xmb !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Silkweave%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID xmb ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Silkweave%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID xmb !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Silkweave%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID xmb ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Silkweave%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 ItemDisplay[UNI !ID xtb !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%War Traveler    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID xtb ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%War Traveler%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID xhb !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Gore Rider%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID xhb ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%%RED%Gore Rider%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID uvb !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Sandstorm Trek%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID uvb ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Sandstorm Trek%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID xtb ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%War Traveler%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID xhb !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Gore Rider%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID xhb ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%%RED%Gore Rider%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID uvb !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Sandstorm Trek%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID uvb ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Sandstorm Trek%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 //Unique Belts
-ItemDisplay[UNI !ID zvb !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Razortail%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID zvb ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Razortail%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID zhb !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Thundergods Vigor%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID zhb ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Thundergods Vigor%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID zvb !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Razortail%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID zvb ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Razortail%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID zhb !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Thundergods Vigor%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID zhb ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Thundergods Vigor%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 ItemDisplay[UNI !ID ulc !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Arachnid Mesh    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID ulc ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Arachnid Mesh%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID uvc !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Nosferatus Coil%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID uvc ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Nosferatus Coil%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID ulc ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Arachnid Mesh%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID uvc !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Nosferatus Coil%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID uvc ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Nosferatus Coil%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 ItemDisplay[UNI !ID umc !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Verdungos    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID umc ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Verdungos Hearty Cord%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID umc ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Verdungos Hearty Cord%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 //Unique Bows
 ItemDisplay[UNI !ID 6lw]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Wind Force    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 //Unique Daggers
-ItemDisplay[UNI !ID 7kr !ETH]: %DOT-0C% %GOLD%@@  %TAN%Fleshripper%GOLD%[Fanged Knife] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7kr ETH]: %DOT-0C% %GOLD%@@  %PURPLE%Eth %TAN%Fleshripper%GOLD%[Fanged Knife] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7kr !ETH]: %MAP-0C% %GOLD%@@  %TAN%Fleshripper%GOLD%[Fanged Knife] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7kr ETH]: %MAP-0C% %GOLD%@@  %PURPLE%Eth %TAN%Fleshripper%GOLD%[Fanged Knife] %ORANGE%(EL) %GOLD%@@
 //Unique Maces
-ItemDisplay[UNI !ID 7gm !ETH]: %DOT-0C% %GOLD%@@@@     %RED%The Cranium Basher %TAN%Or %GREEN%Earth Shifter     %GOLD%@@@@ 
-ItemDisplay[UNI !ID 7gm ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED% The Cranium Basher %TAN%Or %GREEN%Earth Shifter     %GOLD%@@@@ 
+ItemDisplay[UNI !ID 7gm !ETH]: %MAP-0C% %GOLD%@@@@     %RED%The Cranium Basher %TAN%Or %GREEN%Earth Shifter     %GOLD%@@@@ 
+ItemDisplay[UNI !ID 7gm ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED% The Cranium Basher %TAN%Or %GREEN%Earth Shifter     %GOLD%@@@@ 
 //Unique Polearms
-ItemDisplay[UNI !ID 7s8 !ETH]: %DOT-0C% %GOLD%@@@@    %RED%The Reapers Toll%GOLD%[%BASENAME%]     %GOLD%@@@@
+ItemDisplay[UNI !ID 7s8 !ETH]: %MAP-0C% %GOLD%@@@@    %RED%The Reapers Toll%GOLD%[%BASENAME%]     %GOLD%@@@@
 ItemDisplay[UNI !ID 7s8 ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@  %PURPLE%Eth %RED%The Reapers Toll  %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID 7pa !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Tomb Reaver%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID 7pa ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Tomb Reaver%GOLD%[%BASENAME%]     %GOLD%@@@@
+ItemDisplay[UNI !ID 7pa !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Tomb Reaver%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID 7pa ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Tomb Reaver%GOLD%[%BASENAME%]     %GOLD%@@@@
 //Unique Spear 
-ItemDisplay[UNI !ID 7st !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Uldyssian's Awakening%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID 7st ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Uldyssian's Awakening%GOLD%[%BASENAME%]     %GOLD%@@@@
+ItemDisplay[UNI !ID 7st !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Uldyssian's Awakening%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID 7st ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Uldyssian's Awakening%GOLD%[%BASENAME%]     %GOLD%@@@@
 //Unique Staves
-ItemDisplay[UNI !ID 6cs !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Ondals Wisdom %GOLD%[%BASENAME%]    %GOLD%@@@@ 
-ItemDisplay[UNI !ID 6cs ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Ondals Wisdom%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID 6cs !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Ondals Wisdom %GOLD%[%BASENAME%]    %GOLD%@@@@ 
+ItemDisplay[UNI !ID 6cs ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Ondals Wisdom%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 ItemDisplay[UNI !ID 6ws !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Mang Songs Lesson    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID 6ws ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Mang Songs Lesson%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID 6ws ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Mang Songs Lesson%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 //Unique Swords
-ItemDisplay[UNI !ID 7cr]: %DOT-0C% %GOLD%@@@@ %RED%Lightsabre %TAN%Or %GREEN%Azurewrath %GOLD%@@@@ 
+ItemDisplay[UNI !ID 7cr]: %MAP-0C% %GOLD%@@@@ %RED%Lightsabre %TAN%Or %GREEN%Azurewrath %GOLD%@@@@ 
 ItemDisplay[UNI !ID 7gd !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%The Grandfather    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID 7gd ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%The Grandfather%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID 7gd ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%The Grandfather%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 
-ItemDisplay[UNI !ID 7cm !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Leoric's Mithril Bane%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID 7cm ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Leoric's Mithril Bane%GOLD%[%BASENAME%]     %GOLD%@@@@
+ItemDisplay[UNI !ID 7cm !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Leoric's Mithril Bane%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID 7cm ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Leoric's Mithril Bane%GOLD%[%BASENAME%]     %GOLD%@@@@
 //Unique Wands
 ItemDisplay[UNI !ID 7gw !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Deaths Web    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID 7gw ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Deaths Web%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID 7gw ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Deaths Web%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 //Unique Throwing Weapons
-ItemDisplay[UNI !ID 7bk !ETH]: %DOT-0C%%GOLD%@@  %TAN%Warshrike%GOLD%[Winged Knife] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7bk ETH]: %DOT-0C%%GOLD%@@  %PURPLE%Eth %TAN%Warshrike%GOLD%[Winged Knife] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7bk !ETH]: %MAP-0C%%GOLD%@@  %TAN%Warshrike%GOLD%[Winged Knife] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7bk ETH]: %MAP-0C%%GOLD%@@  %PURPLE%Eth %TAN%Warshrike%GOLD%[Winged Knife] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID 7b8 !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Lacerator    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID 7b8 ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %PURPLE%Eth %RED%Lacerator    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 //Unique Amazon only items
-ItemDisplay[UNI !ID ama !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Titans Revenge%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID ama ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Titans Revenge%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID amf !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Thunderstroke%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID amf ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Thunderstroke%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID ama !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Titans Revenge%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID ama ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Titans Revenge%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID amf !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Thunderstroke%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID amf ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Thunderstroke%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 //Unique Assassin only items
-ItemDisplay[UNI !ID 9tw !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Bartucs Cut Throat%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID 9tw ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Bartucs Cut Throat%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID 9tw !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Bartucs Cut Throat%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID 9tw ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Bartucs Cut Throat%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 //Unique Necromancer only items 
 ItemDisplay[UNI !ID nea !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Homunculus    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID nea ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Homunculus%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID nea ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Homunculus%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 //Unique Barbarian only items
 ItemDisplay[UNI !ID baa !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Arreats Face    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID baa ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Arreats Face%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID baa ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Arreats Face%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 //Unique Sorceress only items
-ItemDisplay[UNI !ID oba !ETH]: %DOT-0C% %GOLD%@@@@     %RED%The Oculus%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID oba ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%The Oculus%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID obc !ETH]: %DOT-0C% %GOLD%@@@@     %RED%Eschutas Temper%GOLD%[%BASENAME%]     %GOLD%@@@@ 
-ItemDisplay[UNI !ID obc ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Eschutas Temper%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID oba !ETH]: %MAP-0C% %GOLD%@@@@     %RED%The Oculus%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID oba ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%The Oculus%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID obc !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Eschutas Temper%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID obc ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Eschutas Temper%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 ItemDisplay[UNI !ID obf !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Deaths Fathom    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID obf ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Deaths Fathom%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID obf ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Deaths Fathom%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 //Unique Druid only items
 ItemDisplay[UNI !ID dra !ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Jalals Mane    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID dra ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Jalals Mane%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID dra ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Jalals Mane%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 //Unique Paladin only items
 ItemDisplay[UNI !ID pa9 !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Herald of Zakarum    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID pa9 ETH]: %DOT-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Herald of Zakarum%GOLD%[%BASENAME%]     %GOLD%@@@@ 
+ItemDisplay[UNI !ID pa9 ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Herald of Zakarum%GOLD%[%BASENAME%]     %GOLD%@@@@ 
 //s10
 ItemDisplay[UNI !ID 8hx]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@  %RED%Buriza-Do Kyanon  %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 //pd2 Enhanced item
 ItemDisplay[UNI !ID uh9 !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Giant Skull    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID uh9 ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %PURPLE%Eth %RED%Giant Skull    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID uhm !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@  %RED%Veil %TAN%Or %GREEN%Night %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID uhm ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%VeilofSteel %TAN%Or %GREEN%NightwingsVeil %GOLD%@@
+ItemDisplay[UNI !ID uhm ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%VeilofSteel %TAN%Or %GREEN%NightwingsVeil %GOLD%@@
 ItemDisplay[UNI !ID urn !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Crown of Ages    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID urn ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Crown of Ages%TAN%[Corona] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID rng !ETH]:%DOT-0C%%GOLD%@@  %RED%Darkglow%TAN%[Ring Mail] %ORANGE%(N) %GOLD%@@
-ItemDisplay[UNI !ID rng ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Darkglow%TAN%[Ring Mail] %ORANGE%(N) %GOLD%@@
-ItemDisplay[UNI !ID xth !ETH]:%DOT-0C%%GOLD%@@  %RED%Atma's Wail%TAN%[Embossed Plate] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID xth ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Atma's Wail%TAN%[Embossed Plate] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID xar !ETH]:%DOT-0C%%GOLD%@@ %RED%Corpsemourn%TAN%[Ornate Armor] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID xar ETH]:%DOT-0C%%GOLD%@@ %PURPLE%Eth %RED%Corpsemourn%TAN%[Ornate Armor] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID uul !ETH]:%DOT-0C%%GOLD%@@  %RED%Steel Carapace%TAN%[Shadow Plate] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID urn ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Crown of Ages%TAN%[Corona] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID rng !ETH]:%MAP-0C%%GOLD%@@  %RED%Darkglow%TAN%[Ring Mail] %ORANGE%(N) %GOLD%@@
+ItemDisplay[UNI !ID rng ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Darkglow%TAN%[Ring Mail] %ORANGE%(N) %GOLD%@@
+ItemDisplay[UNI !ID xth !ETH]:%MAP-0C%%GOLD%@@  %RED%Atma's Wail%TAN%[Embossed Plate] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xth ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Atma's Wail%TAN%[Embossed Plate] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xar !ETH]:%MAP-0C%%GOLD%@@ %RED%Corpsemourn%TAN%[Ornate Armor] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xar ETH]:%MAP-0C%%GOLD%@@ %PURPLE%Eth %RED%Corpsemourn%TAN%[Ornate Armor] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID uul !ETH]:%MAP-0C%%GOLD%@@  %RED%Steel Carapace%TAN%[Shadow Plate] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID uul ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %PURPLE%Eth %RED%Steel Carapace    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID xow !ETH]:%DOT-0C%%GOLD%@@  %RED%Gerke's Sanctuary%TAN%[Pavise] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID xow ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Gerke's Sanctuary%TAN%[Pavise] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID xsh !ETH]:%DOT-0C%%GOLD%@@  %RED%Lidless Wall%TAN%[Grim Shield] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID xsh ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Lidless Wall%TAN%[Grim Shield] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID uow !ETH]:%DOT-0C%%GOLD%@@  %RED%Medusa's Gaze%TAN%[Aegis] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID uow ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Medusa's Gaze%TAN%[Aegis] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID xow !ETH]:%MAP-0C%%GOLD%@@  %RED%Gerke's Sanctuary%TAN%[Pavise] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xow ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Gerke's Sanctuary%TAN%[Pavise] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xsh !ETH]:%MAP-0C%%GOLD%@@  %RED%Lidless Wall%TAN%[Grim Shield] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xsh ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Lidless Wall%TAN%[Grim Shield] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID uow !ETH]:%MAP-0C%%GOLD%@@  %RED%Medusa's Gaze%TAN%[Aegis] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID uow ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Medusa's Gaze%TAN%[Aegis] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID ush !ETH]:DOT-0C%%GOLD%@@  %RED%Head Hunter's Glory%TAN%[Troll Nest] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID ush ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Head Hunter's Glory%TAN%[Troll Nest] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID ush ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Head Hunter's Glory%TAN%[Troll Nest] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID uts !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Spirit Ward    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID uts ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Spirit Ward%TAN%[Ward] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID uts ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Spirit Ward%TAN%[Ward] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID umb !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Marrowwalk    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID umb ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Marrowwalk%TAN%[Boneweave Boots] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 8s8]:%DOT-0C%%GOLD%@@  %RED%Witchwild String%TAN%[Short Siege Bow] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 6l7]:%DOT-0C%%GOLD%@@  %RED%Eaglehorn%TAN%[Crusader Bow] %ORANGE%(EL) %GOLD%@@  
-ItemDisplay[UNI !ID 8mx]:%DOT-0C%%GOLD%@@  %RED%Pus Spitter%TAN%[Siege Crossbow] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 8rx]:%DOT-0C%%GOLD%@@  %RED%Demon Machine%TAN%[Chu-Ko-Nu] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 9gm !ETH]:%DOT-0C%%GOLD%@@    %RED%The Gavel of Pain    %GOLD%@@
+ItemDisplay[UNI !ID umb ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Marrowwalk%TAN%[Boneweave Boots] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 8s8]:%MAP-0C%%GOLD%@@  %RED%Witchwild String%TAN%[Short Siege Bow] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 6l7]:%MAP-0C%%GOLD%@@  %RED%Eaglehorn%TAN%[Crusader Bow] %ORANGE%(EL) %GOLD%@@  
+ItemDisplay[UNI !ID 8mx]:%MAP-0C%%GOLD%@@  %RED%Pus Spitter%TAN%[Siege Crossbow] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 8rx]:%MAP-0C%%GOLD%@@  %RED%Demon Machine%TAN%[Chu-Ko-Nu] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 9gm !ETH]:%MAP-0C%%GOLD%@@    %RED%The Gavel of Pain    %GOLD%@@
 ItemDisplay[UNI !ID 9gm ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %PURPLE%Eth %RED%The Gavel of Pain    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID 7wh !ETH]:%DOT-0C%%GOLD%@  %RED%StoneCrusher %TAN%Or %GREEN%Schaefer'sHammer %ORANGE%(EL) %GOLD%@
+ItemDisplay[UNI !ID 7wh !ETH]:%MAP-0C%%GOLD%@  %RED%StoneCrusher %TAN%Or %GREEN%Schaefer'sHammer %ORANGE%(EL) %GOLD%@
 ItemDisplay[UNI !ID 7wh ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@ %PURPLE%Eth %RED%Stone %TAN%Or %GREEN%Schaefer %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID 7m7 !ETH]:%DOT-0C%%GOLD%@@  %RED%Windhammer%TAN%[Ogre Maul] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7m7 !ETH]:%MAP-0C%%GOLD%@@  %RED%Windhammer%TAN%[Ogre Maul] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID 7m7 ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %PURPLE%Eth %RED%Windhammer    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID am7]:%DOT-0C%%GOLD%@@  %RED%Lycander's Aim%TAN%[Ceremonial Bow] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID amb]:%DOT-0C%%GOLD%@@  %RED%Blood raven's Charge%TAN%[Matriarchal Bow] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7s7 !ETH]:%DOT-0C%%GOLD%@@  %RED%Demon's Arch%TAN%[Balrog Spear] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7s7 ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Demon's Arch%TAN%[Balrog Spear] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7gl ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Wraith Flight%TAN%[Ghost Glaive] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7ts !ETH]:%DOT-0C%%GOLD%@@  %RED%Gargoyle's Bite%TAN%[Winged Harpoon] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7ts ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Gargoyle's Bite%TAN%[Winged Harpoon] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID am9 !ETH]:%DOT-0C%%GOLD%@@  %RED%Lycander's Flank%TAN%[Ceremonial Pike] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID am9 ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Lycander's Flank%TAN%[Ceremonial Pike] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID am7]:%MAP-0C%%GOLD%@@  %RED%Lycander's Aim%TAN%[Ceremonial Bow] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID amb]:%MAP-0C%%GOLD%@@  %RED%Blood raven's Charge%TAN%[Matriarchal Bow] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7s7 !ETH]:%MAP-0C%%GOLD%@@  %RED%Demon's Arch%TAN%[Balrog Spear] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7s7 ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Demon's Arch%TAN%[Balrog Spear] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7gl ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Wraith Flight%TAN%[Ghost Glaive] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7ts !ETH]:%MAP-0C%%GOLD%@@  %RED%Gargoyle's Bite%TAN%[Winged Harpoon] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7ts ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Gargoyle's Bite%TAN%[Winged Harpoon] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID am9 !ETH]:%MAP-0C%%GOLD%@@  %RED%Lycander's Flank%TAN%[Ceremonial Pike] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID am9 ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Lycander's Flank%TAN%[Ceremonial Pike] %ORANGE%(EX) %GOLD%@@
 ItemDisplay[UNI !ID bae !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Halaberd's Reign    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID bae ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Halaberd's Reign%TAN%[Conqueror Crown] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID bae ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Halaberd's Reign%TAN%[Conqueror Crown] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID drb !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Cerebus' Bite    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID drb ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Cerebus' Bite%TAN%[Blood Spirit] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID dre !ETH]:%DOT-0C%%GOLD%@@  %RED%Ravenlore%TAN%[Sky Spirit] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID dre ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Ravenlore%TAN%[Sky Spirit] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 9wc !ETH]:%DOT-0C%%GOLD%@@  %RED%Grim's Burning Dead%TAN%[Grim Scythe] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 9wc ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Grim's Burning Dead%TAN%[Grim Scythe] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID drb ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Cerebus' Bite%TAN%[Blood Spirit] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID dre !ETH]:%MAP-0C%%GOLD%@@  %RED%Ravenlore%TAN%[Sky Spirit] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID dre ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Ravenlore%TAN%[Sky Spirit] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 9wc !ETH]:%MAP-0C%%GOLD%@@  %RED%Grim's Burning Dead%TAN%[Grim Scythe] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 9wc ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Grim's Burning Dead%TAN%[Grim Scythe] %ORANGE%(EX) %GOLD%@@
 ItemDisplay[UNI !ID 7p7 !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Steel Pillar    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID 7p7 ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %PURPLE%Eth %RED%Steel Pillar    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID ltp !ETH]:%DOT-0C%%GOLD%@@  %RED%Heavenly Garb%TAN%[Light Plate] %ORANGE%(N) %GOLD%@@
-ItemDisplay[UNI !ID ltp ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Heavenly Garb%TAN%[Light Plate] %ORANGE%(N) %GOLD%@@
-ItemDisplay[UNI !ID xhg !ETH]:%DOT-0C%%GOLD%@@  %RED%Hellmouth%TAN%[War Gauntlets] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID xhg ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Hellmouth%TAN%[War Gauntlets] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 9bl !ETH]:%DOT-0C%%GOLD%@@  %RED%Stormspike%TAN%[Stilleto] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 9bl ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Stormspike%TAN%[Stilleto] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 7wc !ETH]:%DOT-0C%%GOLD%@@  %RED%Stormspire%TAN%[Giant Thresher] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7wc ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Stormspire%TAN%[Giant Thresher] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID ltp !ETH]:%MAP-0C%%GOLD%@@  %RED%Heavenly Garb%TAN%[Light Plate] %ORANGE%(N) %GOLD%@@
+ItemDisplay[UNI !ID ltp ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Heavenly Garb%TAN%[Light Plate] %ORANGE%(N) %GOLD%@@
+ItemDisplay[UNI !ID xhg !ETH]:%MAP-0C%%GOLD%@@  %RED%Hellmouth%TAN%[War Gauntlets] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xhg ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Hellmouth%TAN%[War Gauntlets] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 9bl !ETH]:%MAP-0C%%GOLD%@@  %RED%Stormspike%TAN%[Stilleto] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 9bl ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Stormspike%TAN%[Stilleto] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 7wc !ETH]:%MAP-0C%%GOLD%@@  %RED%Stormspire%TAN%[Giant Thresher] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7wc ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Stormspire%TAN%[Giant Thresher] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID nee !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Boneflame    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID nee ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Boneflame%GOLD%[Succubus Skull] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID nee ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Boneflame%GOLD%[Succubus Skull] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID drd !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Spirit Keeper    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID drd ETH]:%DOT-0C%%GOLD%@@ %PURPLE%Eth %RED%Spirit Keeper%GOLD%[Earth Spirit] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 8ws !ETH]:%DOT-0C%%GOLD%@@  %RED%Skull Collector%GOLD%[Rune Staff] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 8ws ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Skull Collector%GOLD%[Rune Staff] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID zlb !ETH]:%DOT-0C%%GOLD%@@  %RED%String of Ears%GOLD%[Demonhide Sash] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID zlb ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%String of Ears%GOLD%[Demonhide Sash] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 9bw !ETH]:%DOT-0C%%GOLD%@@  %RED%Arm of King Leoric%GOLD%[Tomb Wand] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 9bw ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Arm of King Leoric%GOLD%[Tomb Wand] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 7bw !ETH]:%DOT-0C%%GOLD%@@  %RED%Boneshade%GOLD%[Lich Wand] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7bw ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Boneshade%GOLD%[Lich Wand] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7lw !ETH]:%DOT-0C%%GOLD%@@  %RED%Firelizard's Talons%GOLD%[Feral Claws] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7lw ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Firelizard's Talons%GOLD%[Feral Claws] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID nef !ETH]:%DOT-0C%%GOLD%@@  %RED%Darkforce Spawn%GOLD%[Bloodlord Skull] %ORANGE%(EL)  %GOLD%@@
-ItemDisplay[UNI !ID nef ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Darkforce Spawn%GOLD%[Bloodlord Skull] %ORANGE%(EL)  %GOLD%@@
-ItemDisplay[UNI !ID 7ws !ETH]:%DOT-0C%%GOLD%@@  %RED%Astreon's Iron Ward%GOLD%[Caduceus] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7ws ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Astreon's Iron Ward%GOLD%[Caduceus] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID xhm !ETH]:%DOT-0C%%GOLD%@@  %RED%Valkyrie Wing%GOLD%[Winged Helm] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID xhm ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Valkyrie Wing%GOLD%[Winged Helm] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID pae !ETH]:%DOT-0C%%GOLD%@@  %RED%Dragonscale%GOLD%[Zakarum Shield] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID pae ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Dragonscale%GOLD%[Zakarum Shield] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7bt !ETH]:%DOT-0C%%GOLD%@@  %RED%Hellslayer%GOLD%[Decapitator] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7bt ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Hellslayer%GOLD%[Decapitator] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7ga !ETH]:%DOT-0C%%GOLD%@@  %RED%Messerschmidt's Reaver%GOLD%[Champion Axe] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7ga ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Messerschmidt's Reaver%GOLD%[Champion Axe] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID ztb !ETH]:%DOT-0C%%GOLD%@@  %RED%Snowclash%GOLD%[Battle Belt] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID ztb ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Snowclash%GOLD%[Battle Belt] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 7sc !ETH]:%DOT-0C%%GOLD%@@  %RED%Heaven's Light or the Redeemer%GOLD%[Mighty Scepter] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7sc ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Heaven's Light or ETH the Redeemer%GOLD%[Mighty Scepter] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 6hx]:%DOT-0C%%GOLD%@@  %RED%Hellrack%GOLD%[Colossus Crossbow] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 6rx]:%DOT-0C%%GOLD%@@  %RED%Gut Siphon%GOLD%[Demon Crossbow] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID xts !ETH]:%DOT-0C%%GOLD%@@  %RED%Radament's Sphere%GOLD%[Ancient Shield] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID xts ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Radament's Sphere%GOLD%[Ancient Shield] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 7b7 !ETH]:%DOT-0C%%GOLD%@@  %RED%Doombringer%GOLD%[Champion Sword] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID drd ETH]:%MAP-0C%%GOLD%@@ %PURPLE%Eth %RED%Spirit Keeper%GOLD%[Earth Spirit] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 8ws !ETH]:%MAP-0C%%GOLD%@@  %RED%Skull Collector%GOLD%[Rune Staff] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 8ws ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Skull Collector%GOLD%[Rune Staff] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID zlb !ETH]:%MAP-0C%%GOLD%@@  %RED%String of Ears%GOLD%[Demonhide Sash] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID zlb ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%String of Ears%GOLD%[Demonhide Sash] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 9bw !ETH]:%MAP-0C%%GOLD%@@  %RED%Arm of King Leoric%GOLD%[Tomb Wand] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 9bw ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Arm of King Leoric%GOLD%[Tomb Wand] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 7bw !ETH]:%MAP-0C%%GOLD%@@  %RED%Boneshade%GOLD%[Lich Wand] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7bw ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Boneshade%GOLD%[Lich Wand] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7lw !ETH]:%MAP-0C%%GOLD%@@  %RED%Firelizard's Talons%GOLD%[Feral Claws] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7lw ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Firelizard's Talons%GOLD%[Feral Claws] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID nef !ETH]:%MAP-0C%%GOLD%@@  %RED%Darkforce Spawn%GOLD%[Bloodlord Skull] %ORANGE%(EL)  %GOLD%@@
+ItemDisplay[UNI !ID nef ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Darkforce Spawn%GOLD%[Bloodlord Skull] %ORANGE%(EL)  %GOLD%@@
+ItemDisplay[UNI !ID 7ws !ETH]:%MAP-0C%%GOLD%@@  %RED%Astreon's Iron Ward%GOLD%[Caduceus] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7ws ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Astreon's Iron Ward%GOLD%[Caduceus] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID xhm !ETH]:%MAP-0C%%GOLD%@@  %RED%Valkyrie Wing%GOLD%[Winged Helm] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xhm ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Valkyrie Wing%GOLD%[Winged Helm] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID pae !ETH]:%MAP-0C%%GOLD%@@  %RED%Dragonscale%GOLD%[Zakarum Shield] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID pae ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Dragonscale%GOLD%[Zakarum Shield] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7bt !ETH]:%MAP-0C%%GOLD%@@  %RED%Hellslayer%GOLD%[Decapitator] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7bt ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Hellslayer%GOLD%[Decapitator] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7ga !ETH]:%MAP-0C%%GOLD%@@  %RED%Messerschmidt's Reaver%GOLD%[Champion Axe] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7ga ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Messerschmidt's Reaver%GOLD%[Champion Axe] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID ztb !ETH]:%MAP-0C%%GOLD%@@  %RED%Snowclash%GOLD%[Battle Belt] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID ztb ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Snowclash%GOLD%[Battle Belt] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 7sc !ETH]:%MAP-0C%%GOLD%@@  %RED%Heaven's Light or the Redeemer%GOLD%[Mighty Scepter] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7sc ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Heaven's Light or ETH the Redeemer%GOLD%[Mighty Scepter] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 6hx]:%MAP-0C%%GOLD%@@  %RED%Hellrack%GOLD%[Colossus Crossbow] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 6rx]:%MAP-0C%%GOLD%@@  %RED%Gut Siphon%GOLD%[Demon Crossbow] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID xts !ETH]:%MAP-0C%%GOLD%@@  %RED%Radament's Sphere%GOLD%[Ancient Shield] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xts ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Radament's Sphere%GOLD%[Ancient Shield] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 7b7 !ETH]:%MAP-0C%%GOLD%@@  %RED%Doombringer%GOLD%[Champion Sword] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID 7b7 ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@   %PURPLE%Eth %RED%Doombringer   %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID amd !ETH]:%DOT-0C%%GOLD%@@  %RED%Stoneraven%GOLD%[Matriarchal Spear] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID amd ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Stoneraven%GOLD%[Matriarchal Spear] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID pac !ETH]:%DOT-0C%%GOLD%@@  %RED%AlmaNegra%GOLD%[Sacred Rondache] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID pac ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%AlmaNegra%GOLD%[Sacred Rondache] %ORANGE%(EL) %GOLD%@@	
-ItemDisplay[UNI !ID xlg !ETH]:%DOT-0C%%GOLD%@@  %RED%Venom Grip%GOLD%[Demonhide Gloves] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID xlg ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Venom Grip%GOLD%[Demonhide Gloves] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID xvg !ETH]:%DOT-0C%%GOLD%@@  %RED%Gravepalm%GOLD%[Sharkskin Gloves] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID xvg ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Gravepalm%GOLD%[Sharkskin Gloves] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID xtg !ETH]:%DOT-0C%%GOLD%@@  %RED%Lava Gout%GOLD%[Battle Gauntlets] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID xtg ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Lava Gout%GOLD%[Battle Gauntlets] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID mbt !ETH]:%DOT-0C%%GOLD%@@  %RED%Treads of Cthon%GOLD%[Chain Boots] %ORANGE%(N) %GOLD%@@
-ItemDisplay[UNI !ID mbt ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Treads of Cthon%GOLD%[Chain Boots] %ORANGE%(N) %GOLD%@@
-ItemDisplay[UNI !ID uhb !ETH]:%DOT-0C%%GOLD%@@  %RED%Shadow Dancer%GOLD%[Myrmidon Greaves] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID uhb ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Shadow Dancer%GOLD%[Myrmidon Greaves] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID zmb !ETH]:%DOT-0C%%GOLD%@@  %RED%Gloom's Trap%GOLD%[Mesh Belt] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID zmb ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Gloom's Trap%GOLD%[Mesh Belt] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID amd !ETH]:%MAP-0C%%GOLD%@@  %RED%Stoneraven%GOLD%[Matriarchal Spear] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID amd ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Stoneraven%GOLD%[Matriarchal Spear] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID pac !ETH]:%MAP-0C%%GOLD%@@  %RED%AlmaNegra%GOLD%[Sacred Rondache] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID pac ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%AlmaNegra%GOLD%[Sacred Rondache] %ORANGE%(EL) %GOLD%@@	
+ItemDisplay[UNI !ID xlg !ETH]:%MAP-0C%%GOLD%@@  %RED%Venom Grip%GOLD%[Demonhide Gloves] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xlg ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Venom Grip%GOLD%[Demonhide Gloves] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xvg !ETH]:%MAP-0C%%GOLD%@@  %RED%Gravepalm%GOLD%[Sharkskin Gloves] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xvg ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Gravepalm%GOLD%[Sharkskin Gloves] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xtg !ETH]:%MAP-0C%%GOLD%@@  %RED%Lava Gout%GOLD%[Battle Gauntlets] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID xtg ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Lava Gout%GOLD%[Battle Gauntlets] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID mbt !ETH]:%MAP-0C%%GOLD%@@  %RED%Treads of Cthon%GOLD%[Chain Boots] %ORANGE%(N) %GOLD%@@
+ItemDisplay[UNI !ID mbt ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Treads of Cthon%GOLD%[Chain Boots] %ORANGE%(N) %GOLD%@@
+ItemDisplay[UNI !ID uhb !ETH]:%MAP-0C%%GOLD%@@  %RED%Shadow Dancer%GOLD%[Myrmidon Greaves] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID uhb ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Shadow Dancer%GOLD%[Myrmidon Greaves] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID zmb !ETH]:%MAP-0C%%GOLD%@@  %RED%Gloom's Trap%GOLD%[Mesh Belt] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID zmb ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Gloom's Trap%GOLD%[Mesh Belt] %ORANGE%(EX) %GOLD%@@
 
-ItemDisplay[UNI !ID 9s8 !ETH]:%DOT-0C%%GOLD%@@  %RED%Athena's Wrath%GOLD%[Battle Scythe] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 9s8 ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Athena's Wrath%GOLD%[Battle Scythe] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 7o7 !ETH]:%DOT-0C%%GOLD%@@  %RED%Bonehew%GOLD%[Ogre Axe] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7o7 ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Bonehew%GOLD%[Ogre Axe] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 9ws !ETH]:%DOT-0C%%GOLD%@@  %RED%Hand of Blessed Light%GOLD%[Divine Scepter] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 9ws ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Hand of Blessed Light%GOLD%[Divine Scepter] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 9ls !ETH]:%DOT-0C%%GOLD%@@  %RED%Plague Bearer%GOLD%[Rune Sword] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 9ls ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Plague Bearer%GOLD%[Rune Sword] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 9gw !ETH]:%DOT-0C%%GOLD%@@  %RED%Blackhand Key%GOLD%[Grave Wand] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 9gw ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Blackhand Key%GOLD%[Grave Wand] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 7wb !ETH]:%DOT-0C%%GOLD%@@  %RED%Jade Talon%GOLD%[Wrist Sword] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7wb ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Jade Talon%GOLD%[Wrist Sword] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID bac !ETH]:%DOT-0C%%GOLD%@@  %RED%Wolfhowl%GOLD%[Fury Visor] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID bac ETH]:%DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Wolfhowl%GOLD%[Fury Visor] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 9s8 !ETH]:%MAP-0C%%GOLD%@@  %RED%Athena's Wrath%GOLD%[Battle Scythe] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 9s8 ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Athena's Wrath%GOLD%[Battle Scythe] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 7o7 !ETH]:%MAP-0C%%GOLD%@@  %RED%Bonehew%GOLD%[Ogre Axe] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7o7 ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Bonehew%GOLD%[Ogre Axe] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 9ws !ETH]:%MAP-0C%%GOLD%@@  %RED%Hand of Blessed Light%GOLD%[Divine Scepter] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 9ws ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Hand of Blessed Light%GOLD%[Divine Scepter] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 9ls !ETH]:%MAP-0C%%GOLD%@@  %RED%Plague Bearer%GOLD%[Rune Sword] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 9ls ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Plague Bearer%GOLD%[Rune Sword] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 9gw !ETH]:%MAP-0C%%GOLD%@@  %RED%Blackhand Key%GOLD%[Grave Wand] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 9gw ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Blackhand Key%GOLD%[Grave Wand] %ORANGE%(EX) %GOLD%@@
+ItemDisplay[UNI !ID 7wb !ETH]:%MAP-0C%%GOLD%@@  %RED%Jade Talon%GOLD%[Wrist Sword] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7wb ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Jade Talon%GOLD%[Wrist Sword] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID bac !ETH]:%MAP-0C%%GOLD%@@  %RED%Wolfhowl%GOLD%[Fury Visor] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID bac ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Wolfhowl%GOLD%[Fury Visor] %ORANGE%(EL) %GOLD%@@
 
 //Unique Rings Amulets Jewels Charms
 ItemDisplay[UNI !ID (rin OR amu)]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%%NAME%    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
@@ -4281,8 +4281,8 @@ ItemDisplay[UNI !ID bad ETH]:%ORANGE%@@  %PURPLE%Eth %TAN%Demonhorn's Edge%GOLD%
 
 
 //PD2 uniq
-ItemDisplay[UNI !ID ame !ETH]: %DOT-0C%%GOLD%@@ %RED%Zeraes Resolve%GOLD%[Matriarchal Pike] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID ame ETH]: %DOT-0C%%GOLD%@@ %PURPLE%Eth %RED%Zeraes Resolve%GOLD%[Matriarchal Pike] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID ame !ETH]: %MAP-0C%%GOLD%@@ %RED%Zeraes Resolve%GOLD%[Matriarchal Pike] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID ame ETH]: %MAP-0C%%GOLD%@@ %PURPLE%Eth %RED%Zeraes Resolve%GOLD%[Matriarchal Pike] %ORANGE%(EL) %GOLD%@@
 
 ItemDisplay[UNI !ID am5 !ETH]: %ORANGE%@@ %TAN%True Silver%GOLD%[Maiden Javelin] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID am5 ETH]: %ORANGE%@@ %PURPLE%Eth %TAN%True Silver%GOLD%[Maiden Javelin] %ORANGE%(N) %ORANGE%@@
@@ -4290,19 +4290,19 @@ ItemDisplay[UNI !ID am5 ETH]: %ORANGE%@@ %PURPLE%Eth %TAN%True Silver%GOLD%[Maid
 ItemDisplay[UNI !ID 9ar !ETH]:%GOLD%@@  %TAN%Mage Slayer%TAN%[Quhab] %ORANGE%(EX) %GOLD%@@
 ItemDisplay[UNI !ID 9ar ETH]:%GOLD%@@  %PURPLE%Eth %TAN%Mage Slayer%TAN%[Quhab] %ORANGE%(EX) %GOLD%@@
 
-ItemDisplay[UNI !ID 7tw !ETH]: %DOT-0C%%GOLD%@@  %RED%Stalker's Cull%TAN%[Runic Talons] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7tw ETH]: %DOT-0C%%GOLD%@@  %PURPLE%Eth %RED%Stalker's Cull%TAN%[Runic Talons] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7tw !ETH]: %MAP-0C%%GOLD%@@  %RED%Stalker's Cull%TAN%[Runic Talons] %ORANGE%(EL) %GOLD%@@
+ItemDisplay[UNI !ID 7tw ETH]: %MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Stalker's Cull%TAN%[Runic Talons] %ORANGE%(EL) %GOLD%@@
 
-ItemDisplay[UNI !ID ob6 !ETH]: %DOT-0C%%ORANGE%@@ %RED%Tempest%TAN%[Glowing Orb] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID ob6 ETH]: %DOT-0C%%ORANGE%@@ %PURPLE%Eth %RED%Tempest%TAN%[Glowing Orb] %ORANGE%(EX) %ORANGE%@@
+ItemDisplay[UNI !ID ob6 !ETH]: %MAP-0C%%ORANGE%@@ %RED%Tempest%TAN%[Glowing Orb] %ORANGE%(EX) %ORANGE%@@
+ItemDisplay[UNI !ID ob6 ETH]: %MAP-0C%%ORANGE%@@ %PURPLE%Eth %RED%Tempest%TAN%[Glowing Orb] %ORANGE%(EX) %ORANGE%@@
 
-ItemDisplay[UNI !ID 7qs !ETH]: %DOT-0C%%ORANGE%@@ %RED%Akarat's Devotion%TAN%[Seraph Rod] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID 7qs ETH]: %DOT-0C%%ORANGE%@@ %RED%ETH %RED%Akarat's Devotion%TAN%[Seraph Rod] %ORANGE%(EL) %ORANGE%@@
+ItemDisplay[UNI !ID 7qs !ETH]: %MAP-0C%%ORANGE%@@ %RED%Akarat's Devotion%TAN%[Seraph Rod] %ORANGE%(EL) %ORANGE%@@
+ItemDisplay[UNI !ID 7qs ETH]: %MAP-0C%%ORANGE%@@ %RED%ETH %RED%Akarat's Devotion%TAN%[Seraph Rod] %ORANGE%(EL) %ORANGE%@@
 
-ItemDisplay[UNI !ID 6bs !ETH]: %DOT-0C%%ORANGE%@@ %RED%Brimstone Rain%TAN%[Shillelagh] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID 6bs ETH]: %DOT-0C%%ORANGE%@@ %RED%%PURPLE%Eth %RED%Brimstone Rain%TAN%[Shillelagh] %ORANGE%(EL) %ORANGE%@@
+ItemDisplay[UNI !ID 6bs !ETH]: %MAP-0C%%ORANGE%@@ %RED%Brimstone Rain%TAN%[Shillelagh] %ORANGE%(EL) %ORANGE%@@
+ItemDisplay[UNI !ID 6bs ETH]: %MAP-0C%%ORANGE%@@ %RED%%PURPLE%Eth %RED%Brimstone Rain%TAN%[Shillelagh] %ORANGE%(EL) %ORANGE%@@
 
-ItemDisplay[UNI !ID 7fb !ETH]:%DOT-0C%%ORANGE%@@ %RED%Odium%TAN%[Colossus Sword] %ORANGE%(EL) %ORANGE%@@
+ItemDisplay[UNI !ID 7fb !ETH]:%MAP-0C%%ORANGE%@@ %RED%Odium%TAN%[Colossus Sword] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID 7fb ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %PURPLE%Eth %RED%Odium    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 
 //helm
@@ -4316,30 +4316,30 @@ ItemDisplay[UNI !ID baf ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%
 ItemDisplay[UNI !ID dr2 !ETH]: %ORANGE%@@ %TAN%Quetzalcoatl%GOLD%[Hawk Helm] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID dr2 ETH]: %ORANGE%@@ %PURPLE%Eth %TAN%Quetzalcoatl%GOLD%[Hawk Helm] %ORANGE%(N) %ORANGE%@@
 
-ItemDisplay[UNI !ID drf !ETH]:%DOT-0C%%ORANGE%@@ %RED%Ursas Nightmare%GOLD%[%NAME%] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID drf ETH]:%DOT-0C%%ORANGE%@@ %PURPLE%Eth %RED%Ursas Nightmare%GOLD%[%NAME%] %ORANGE%(EX) %ORANGE%@@
+ItemDisplay[UNI !ID drf !ETH]:%MAP-0C%%ORANGE%@@ %RED%Ursas Nightmare%GOLD%[%NAME%] %ORANGE%(EX) %ORANGE%@@
+ItemDisplay[UNI !ID drf ETH]:%MAP-0C%%ORANGE%@@ %PURPLE%Eth %RED%Ursas Nightmare%GOLD%[%NAME%] %ORANGE%(EX) %ORANGE%@@
 
 //chest
-ItemDisplay[UNI !ID utp !ETH]:%DOT-0C%%ORANGE%@@ %RED%Purgatory%TAN%[%NAME%] %ORANGE%(EL) %ORANGE%@@
+ItemDisplay[UNI !ID utp !ETH]:%MAP-0C%%ORANGE%@@ %RED%Purgatory%TAN%[%NAME%] %ORANGE%(EL) %ORANGE%@@
 ItemDisplay[UNI !ID utp ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %PURPLE%Eth %RED%Purgatory    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@ 
 
 //shield
-ItemDisplay[UNI !ID ne6 !ETH]: %DOT-0C%%ORANGE%@@ %RED%Kalan's Legacy%TAN%[Mummified Trophy] %ORANGE%(EX) %ORANGE%@@
-ItemDisplay[UNI !ID ne6 ETH]: %DOT-0C%%ORANGE%@@ %PURPLE%Eth %RED%Kalan's Legacy%TAN%[Mummified Trophy] %ORANGE%(EX) %ORANGE%@@
+ItemDisplay[UNI !ID ne6 !ETH]: %MAP-0C%%ORANGE%@@ %RED%Kalan's Legacy%TAN%[Mummified Trophy] %ORANGE%(EX) %ORANGE%@@
+ItemDisplay[UNI !ID ne6 ETH]: %MAP-0C%%ORANGE%@@ %PURPLE%Eth %RED%Kalan's Legacy%TAN%[Mummified Trophy] %ORANGE%(EX) %ORANGE%@@
 
 ItemDisplay[UNI !ID ned !ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Martyrdom    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID ned ETH]: %DOT-0C%%ORANGE%@@ %PURPLE%Eth %RED%Martyrdom%TAN%[%NAME%] %ORANGE%(EL) %ORANGE%@@
+ItemDisplay[UNI !ID ned ETH]: %MAP-0C%%ORANGE%@@ %PURPLE%Eth %RED%Martyrdom%TAN%[%NAME%] %ORANGE%(EL) %ORANGE%@@
 
 ItemDisplay[UNI !ID pa3 !ETH]: %ORANGE%@@ %TAN%Sankekurs Fall%TAN%[Heraldic Shield] %ORANGE%(N) %ORANGE%@@
 ItemDisplay[UNI !ID pa3 ETH]: %ORANGE%@@ %PURPLE%Eth %TAN%Sankekurs Fall%TAN%[Heraldic Shield] %ORANGE%(N) %ORANGE%@@
 
 //glove
 ItemDisplay[UNI !ID utg !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Occultist    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
-ItemDisplay[UNI !ID utg ETH]: %DOT-0C%%ORANGE%@@ %PURPLE%Eth %RED%Occultist%TAN%[Crusader Gauntlets] %ORANGE%(EL) %ORANGE%@@
+ItemDisplay[UNI !ID utg ETH]: %MAP-0C%%ORANGE%@@ %PURPLE%Eth %RED%Occultist%TAN%[Crusader Gauntlets] %ORANGE%(EL) %ORANGE%@@
 
 //boots
-ItemDisplay[UNI !ID ulb !ETH]: %DOT-0C%%ORANGE%@@ %RED%Merman's Sprocket%TAN%[Wyrmhide Boots] %ORANGE%(EL) %ORANGE%@@
-ItemDisplay[UNI !ID ulb ETH]: %DOT-0C%%ORANGE%@@ %PURPLE%Eth %RED%Merman's Sprocket%TAN%[Wyrmhide Boots] %ORANGE%(EL) %ORANGE%@@
+ItemDisplay[UNI !ID ulb !ETH]: %MAP-0C%%ORANGE%@@ %RED%Merman's Sprocket%TAN%[Wyrmhide Boots] %ORANGE%(EL) %ORANGE%@@
+ItemDisplay[UNI !ID ulb ETH]: %MAP-0C%%ORANGE%@@ %PURPLE%Eth %RED%Merman's Sprocket%TAN%[Wyrmhide Boots] %ORANGE%(EL) %ORANGE%@@
 
 //rathma+Diablo Clone items
 ItemDisplay[UNI !ID rbe !ETH]:%SOUNDID-2664%%BORDER-62%%RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y  %RED%Band of Skulls  %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y %RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O
@@ -4372,13 +4372,13 @@ ItemDisplay[UNI !ID (WEAPON OR ARMOR) ETH]:%PURPLE%Eth %TAN%%NAME%%RED%*
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                             SETS                                            //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID (ulg OR uui OR xlb OR umc) !ETH]:%DOT-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[disciple] %PURPLE%****
-ItemDisplay[SET !ID (dr8 OR xtb OR uul OR 9mt) !ETH]:  %DOT-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[aldur] %PURPLE%****
-ItemDisplay[SET !ID (ba5 OR 7m7 OR uar OR zhb OR xhg OR xhb) !ETH]: %DOT-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[immortal] %PURPLE%****
-ItemDisplay[SET !ID (xh9 OR 7qr OR ucl OR xmb) !ETH]: %DOT-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[natalya] %PURPLE%****
-ItemDisplay[SET !ID (oba OR xsk OR zmb) !ETH]: %DOT-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[tal rasha] %PURPLE%****
-ItemDisplay[SET !ID uth !ETH]: %DOT-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[tal rasha] %PURPLE%****
-ItemDisplay[SET !ID (uh9 OR xul OR ne9 OR utc OR xmg) !ETH]: %DOT-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[trang oul] %PURPLE%****
+ItemDisplay[SET !ID (ulg OR uui OR xlb OR umc) !ETH]:%MAP-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[disciple] %PURPLE%****
+ItemDisplay[SET !ID (dr8 OR xtb OR uul OR 9mt) !ETH]:  %MAP-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[aldur] %PURPLE%****
+ItemDisplay[SET !ID (ba5 OR 7m7 OR uar OR zhb OR xhg OR xhb) !ETH]: %MAP-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[immortal] %PURPLE%****
+ItemDisplay[SET !ID (xh9 OR 7qr OR ucl OR xmb) !ETH]: %MAP-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[natalya] %PURPLE%****
+ItemDisplay[SET !ID (oba OR xsk OR zmb) !ETH]: %MAP-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[tal rasha] %PURPLE%****
+ItemDisplay[SET !ID uth !ETH]: %MAP-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[tal rasha] %PURPLE%****
+ItemDisplay[SET !ID (uh9 OR xul OR ne9 OR utc OR xmg) !ETH]: %MAP-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[trang oul] %PURPLE%****
 ItemDisplay[SET !ID (rng OR sbr) !ETH]: %GREEN%**** %GREEN%%NAME% %DARK_GREEN%[Angelic] %GREEN%****
 ItemDisplay[SET !ID (skp OR ltp OR wst) !ETH]: %GREEN%**** %GREEN%%NAME% %DARK_GREEN%[Arcanna] %GREEN%****
 ItemDisplay[SET !ID (qui OR vbl OR tgl OR swb) !ETH]: %GREEN%**** %GREEN%%NAME% %DARK_GREEN%[Arctic] %GREEN%****
@@ -4398,28 +4398,28 @@ ItemDisplay[SET !ID (aar OR kit OR wsp) !ETH]: %GREEN%**** %GREEN%%NAME% %DARK_G
 ItemDisplay[SET !ID (ghm OR gth OR hbt OR tow OR hbl OR hgl) !ETH]: %GREEN%**** %GREEN%%NAME% %DARK_GREEN%[Sigon] %GREEN%****
 ItemDisplay[SET !ID (bhm OR ful OR lbt OR mpi) !ETH]: %GREEN%**** %GREEN%%NAME% %DARK_GREEN%[Tancred] %GREEN%****
 ItemDisplay[SET !ID (lbb OR lea OR tbt) !ETH]: %GREEN%**** %GREEN%%NAME% %DARK_GREEN%[Vidala] %GREEN%****
-ItemDisplay[SET !ID (7gd OR 7wd) !ETH]: %DOT-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[Bul-Kathos] %PURPLE%****
+ItemDisplay[SET !ID (7gd OR 7wd) !ETH]: %MAP-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[Bul-Kathos] %PURPLE%****
 ItemDisplay[SET !ID (xap OR stu) !ETH]: %GREEN%**** %GREEN%%NAME% %DARK_GREEN%[Cow King] %GREEN%****
 ItemDisplay[SET !ID vbt !ETH]: %GREEN%**** %GREEN%%NAME% %DARK_GREEN%[Cow King or Sander] %GREEN%****
-ItemDisplay[SET !ID (xar OR urn OR 7ws OR paf) !ETH]: %DOT-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[Griswold] %PURPLE%****
-ItemDisplay[SET !ID (xrs OR 7ma OR uts OR uhm) !ETH]: %DOT-84%%GREEN%**** %GREEN%%NAME% %DARK_GREEN%[Heaven] %GREEN%****
-ItemDisplay[SET !ID (xrn OR 9vo OR xcl) !ETH]: %DOT-84%%GREEN%**** %GREEN%%NAME% %DARK_GREEN%[Hwanin] %GREEN%****
-ItemDisplay[SET !ID (ci3 OR amc OR uld OR xtg OR zvb) !ETH]: %DOT-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[Mavina] %PURPLE%****
-ItemDisplay[SET !ID (ci0 OR ult OR 6cs) !ETH]: %DOT-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[Naj] %PURPLE%****
-ItemDisplay[SET !ID (xhm OR xml OR xvg OR ztb) !ETH]: %DOT-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[Orphan] %PURPLE%****
-ItemDisplay[SET !ID (bwn OR vgl) !ETH]: %DOT-84%%GREEN%**** %GREEN%%NAME% %DARK_GREEN%[Sander] %GREEN%****
-ItemDisplay[SET !ID (xhl OR 7ls OR upl) !ETH]: %DOT-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[sazabi] %PURPLE%****
-ItemDisplay[SET !ID (7fb OR 7gd) !ETH]: %DOT-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[Bul-Kathos' Children] %PURPLE%****
+ItemDisplay[SET !ID (xar OR urn OR 7ws OR paf) !ETH]: %MAP-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[Griswold] %PURPLE%****
+ItemDisplay[SET !ID (xrs OR 7ma OR uts OR uhm) !ETH]: %MAP-84%%GREEN%**** %GREEN%%NAME% %DARK_GREEN%[Heaven] %GREEN%****
+ItemDisplay[SET !ID (xrn OR 9vo OR xcl) !ETH]: %MAP-84%%GREEN%**** %GREEN%%NAME% %DARK_GREEN%[Hwanin] %GREEN%****
+ItemDisplay[SET !ID (ci3 OR amc OR uld OR xtg OR zvb) !ETH]: %MAP-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[Mavina] %PURPLE%****
+ItemDisplay[SET !ID (ci0 OR ult OR 6cs) !ETH]: %MAP-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[Naj] %PURPLE%****
+ItemDisplay[SET !ID (xhm OR xml OR xvg OR ztb) !ETH]: %MAP-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[Orphan] %PURPLE%****
+ItemDisplay[SET !ID (bwn OR vgl) !ETH]: %MAP-84%%GREEN%**** %GREEN%%NAME% %DARK_GREEN%[Sander] %GREEN%****
+ItemDisplay[SET !ID (xhl OR 7ls OR upl) !ETH]: %MAP-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[sazabi] %PURPLE%****
+ItemDisplay[SET !ID (7fb OR 7gd) !ETH]: %MAP-84%%PURPLE%**** %GREEN%%NAME% %DARK_GREEN%[Bul-Kathos' Children] %PURPLE%****
 //pd2 only
 ItemDisplay[SET !ID dgr !ETH]: %GREEN%**** %GREEN%%NAME% %DARK_GREEN%[Infernal] %GREEN%****
 
-ItemDisplay[SET !ID (ulg OR uui OR xlb OR umc) ETH]:%DOT-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[disciple] %PURPLE%****
-ItemDisplay[SET !ID (dr8 OR xtb OR uul OR 9mt) ETH]:  %DOT-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[aldur] %PURPLE%****
-ItemDisplay[SET !ID (ba5 OR 7m7 OR uar OR zhb OR xhg OR xhb) ETH]: %DOT-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[immortal] %PURPLE%****
-ItemDisplay[SET !ID (xh9 OR 7qr OR ucl OR xmb) ETH]: %DOT-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[natalya] %PURPLE%****
-ItemDisplay[SET !ID (oba OR xsk OR zmb) ETH]: %DOT-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[tal rasha] %PURPLE%****
-ItemDisplay[SET !ID uth ETH]: %DOT-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[tal rasha] %PURPLE%****
-ItemDisplay[SET !ID (uh9 OR xul OR ne9 OR utc OR xmg) ETH]: %DOT-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[trang oul] %PURPLE%****
+ItemDisplay[SET !ID (ulg OR uui OR xlb OR umc) ETH]:%MAP-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[disciple] %PURPLE%****
+ItemDisplay[SET !ID (dr8 OR xtb OR uul OR 9mt) ETH]:  %MAP-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[aldur] %PURPLE%****
+ItemDisplay[SET !ID (ba5 OR 7m7 OR uar OR zhb OR xhg OR xhb) ETH]: %MAP-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[immortal] %PURPLE%****
+ItemDisplay[SET !ID (xh9 OR 7qr OR ucl OR xmb) ETH]: %MAP-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[natalya] %PURPLE%****
+ItemDisplay[SET !ID (oba OR xsk OR zmb) ETH]: %MAP-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[tal rasha] %PURPLE%****
+ItemDisplay[SET !ID uth ETH]: %MAP-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[tal rasha] %PURPLE%****
+ItemDisplay[SET !ID (uh9 OR xul OR ne9 OR utc OR xmg) ETH]: %MAP-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[trang oul] %PURPLE%****
 ItemDisplay[SET !ID (rng OR sbr) ETH]: %GREEN%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Angelic] %GREEN%****
 ItemDisplay[SET !ID (skp OR ltp OR wst) ETH]: %GREEN%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Arcanna] %GREEN%****
 ItemDisplay[SET !ID (qui OR vbl OR tgl OR swb) ETH]: %GREEN%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Arctic] %GREEN%****
@@ -4439,18 +4439,18 @@ ItemDisplay[SET !ID (aar OR kit OR wsp) ETH]: %GREEN%**** %PURPLE%Eth %GREEN%%NA
 ItemDisplay[SET !ID (ghm OR gth OR hbt OR tow OR hbl OR hgl) ETH]: %GREEN%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Sigon] %GREEN%****
 ItemDisplay[SET !ID (bhm OR ful OR lbt OR mpi) ETH]: %GREEN%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Tancred] %GREEN%****
 ItemDisplay[SET !ID (lbb OR lea OR tbt) ETH]: %GREEN%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Vidala] %GREEN%****
-ItemDisplay[SET !ID (7gd OR 7wd) ETH]: %DOT-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Bul-Kathos] %PURPLE%****
+ItemDisplay[SET !ID (7gd OR 7wd) ETH]: %MAP-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Bul-Kathos] %PURPLE%****
 ItemDisplay[SET !ID (xap OR stu) ETH]: %GREEN%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Cow King] %GREEN%****
 ItemDisplay[SET !ID vbt ETH]: %GREEN%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Cow King or Sander] %GREEN%****
-ItemDisplay[SET !ID (xar OR urn OR 7ws OR paf) ETH]: %DOT-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Griswold] %PURPLE%****
-ItemDisplay[SET !ID (xrs OR 7ma OR uts OR uhm) ETH]: %DOT-84%%GREEN%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Heaven] %GREEN%****
-ItemDisplay[SET !ID (xrn OR 9vo OR xcl) ETH]: %DOT-84%%GREEN%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Hwanin] %GREEN%****
-ItemDisplay[SET !ID (ci3 OR amc OR uld OR xtg OR zvb) ETH]: %DOT-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Mavina] %PURPLE%****
-ItemDisplay[SET !ID (ci0 OR ult OR 6cs) ETH]: %DOT-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Naj] %PURPLE%****
-ItemDisplay[SET !ID (xhm OR xml OR xvg OR ztb) ETH]: %DOT-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Orphan] %PURPLE%****
-ItemDisplay[SET !ID (bwn OR vgl) ETH]: %DOT-84%%GREEN%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Sander] %GREEN%****
-ItemDisplay[SET !ID (xhl OR 7ls OR upl) ETH]: %DOT-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[sazabi] %PURPLE%****
-ItemDisplay[SET !ID (7fb OR 7gd) ETH]: %DOT-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Bul-Kathos' Children] %PURPLE%****
+ItemDisplay[SET !ID (xar OR urn OR 7ws OR paf) ETH]: %MAP-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Griswold] %PURPLE%****
+ItemDisplay[SET !ID (xrs OR 7ma OR uts OR uhm) ETH]: %MAP-84%%GREEN%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Heaven] %GREEN%****
+ItemDisplay[SET !ID (xrn OR 9vo OR xcl) ETH]: %MAP-84%%GREEN%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Hwanin] %GREEN%****
+ItemDisplay[SET !ID (ci3 OR amc OR uld OR xtg OR zvb) ETH]: %MAP-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Mavina] %PURPLE%****
+ItemDisplay[SET !ID (ci0 OR ult OR 6cs) ETH]: %MAP-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Naj] %PURPLE%****
+ItemDisplay[SET !ID (xhm OR xml OR xvg OR ztb) ETH]: %MAP-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Orphan] %PURPLE%****
+ItemDisplay[SET !ID (bwn OR vgl) ETH]: %MAP-84%%GREEN%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Sander] %GREEN%****
+ItemDisplay[SET !ID (xhl OR 7ls OR upl) ETH]: %MAP-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[sazabi] %PURPLE%****
+ItemDisplay[SET !ID (7fb OR 7gd) ETH]: %MAP-84%%PURPLE%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Bul-Kathos' Children] %PURPLE%****
 //pd2 only
 ItemDisplay[SET !ID dgr ETH]: %GREEN%**** %PURPLE%Eth %GREEN%%NAME% %DARK_GREEN%[Infernal] %GREEN%****
 ItemDisplay[SET !ID (WEAPON OR ARMOR OR rin)]: %GREEN%**** %GREEN%%NAME% %GREEN%****
@@ -4534,8 +4534,8 @@ ItemDisplay[(xpk OR upk OR xts OR uts OR xml OR uml OR xit OR uit OR xrg OR urg 
 ItemDisplay[(xlt OR ult OR xld OR uld OR xtp OR utp OR xrs OR urs) ETH MAG !ID]: %PURPLE%Eth %BLUE%%BLUE%%NAME%%NL%%GRAY%[craft chest]
 
 ItemDisplay[(am1) !ETH MAG !ID]:%BLUE%%NAME%%NL%%GRAY%[craft bow]
-ItemDisplay[(am2 OR am7 OR amc) !ETH MAG !ID]: %DOT-75%%ORANGE%*%PURPLE%* %BLUE%%NAME%%NL%%GRAY%[craft bow] %PURPLE%*%ORANGE%*
-ItemDisplay[(6lw OR 8lw) !ETH MAG !ID]: %DOT-75%%ORANGE%*%PURPLE%* %BLUE%%NAME%%NL%%GRAY%[craft bow] %PURPLE%*%ORANGE%*
+ItemDisplay[(am2 OR am7 OR amc) !ETH MAG !ID]: %MAP-75%%ORANGE%*%PURPLE%* %BLUE%%NAME%%NL%%GRAY%[craft bow] %PURPLE%*%ORANGE%*
+ItemDisplay[(6lw OR 8lw) !ETH MAG !ID]: %MAP-75%%ORANGE%*%PURPLE%* %BLUE%%NAME%%NL%%GRAY%[craft bow] %PURPLE%*%ORANGE%*
 ItemDisplay[(8rx OR 6rx OR 6mx OR 6hx) !ETH MAG !ID]: %BLUE%%NAME%%NL%%GRAY%[craft cbow]
 ItemDisplay[(tsp OR 9ts OR 7ts OR glv OR 9gl OR 7gl) !ETH MAG !ID]: %ORANGE%* %BLUE%%NAME%%NL%%GRAY%[craft glave] %ORANGE%*
 ItemDisplay[(tsp OR 9ts OR 7ts OR glv OR 9gl OR 7gl) ETH MAG !ID]: %ORANGE%*%PURPLE%* %PURPLE%Eth %BLUE%%NAME%%NL%%GRAY%[craft glave] %PURPLE%*%ORANGE%*
@@ -5710,10 +5710,10 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL>40 7sr]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILV
 //s11 mythical Sword
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 7wd]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%3 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 
-ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs OR 7wd) !SOCK=1 !RW ED>9 NMAG]:%DOT-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-//ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs OR 7wd) ETH !SOCK=1 !RW ED>9 NMAG]:%DOT-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs OR 7wd) !SOCK=1 !RW ED>9 NMAG]:%MAP-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+//ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs OR 7wd) ETH !SOCK=1 !RW ED>9 NMAG]:%MAP-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 //s10
-ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 7sr) ETH !SOCK=1 !SOCK=2 !SOCK=3 ED>9 !RW NMAG]:%DOT-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(7wc OR 7vo OR 7s8 OR 7h7 OR 7o7 OR 7br OR 7p7 OR 7tr OR amd OR ame OR 7st OR 7sr) ETH !SOCK=1 !SOCK=2 !SOCK=3 ED>9 !RW NMAG]:%MAP-75% %ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
 ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs OR 7wd) !ETH !SOCK=1 !RW NMAG FILTLVL>9]:
 ItemDisplay[(7ls OR 7fl OR 7wh OR 7m7 OR 7gm OR 72a OR 7wa OR 7gi OR 7cr OR 72h OR 7fb OR 7gd OR 7gs OR 7wd) ETH !SOCK=1 !RW NMAG FILTLVL>9]:
@@ -5777,24 +5777,24 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL>40 6ws]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILV
 
 //s12
 //infinity
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=4) (!ETH OR ETH) (SK48>2 AND SK63>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=4) (!ETH OR ETH) (SK48>2 AND SK63=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=4) (!ETH OR ETH) (SK48=2 AND SK63>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=4) (!ETH OR ETH) (SK48>2 AND SK63>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=4) (!ETH OR ETH) (SK48>2 AND SK63=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=4) (!ETH OR ETH) (SK48=2 AND SK63>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=4) (!ETH OR ETH) (SK53>2 AND SK63>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=4) (!ETH OR ETH) (SK53>2 AND SK63=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=4) (!ETH OR ETH) (SK53=2 AND SK63>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=4) (!ETH OR ETH) (SK53>2 AND SK63>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=4) (!ETH OR ETH) (SK53>2 AND SK63=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=4) (!ETH OR ETH) (SK53=2 AND SK63>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 //cta
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG (SOCK=0 OR SOCK=4 OR SOCK=5) (!ETH OR ETH) (SK58>2 AND SK50>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG (SOCK=0 OR SOCK=4 OR SOCK=5) (!ETH OR ETH) (SK58>2 AND SK50=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG (SOCK=0 OR SOCK=4 OR SOCK=5) (!ETH OR ETH) (SK58=2 AND SK50>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG (SOCK=0 OR SOCK=4 OR SOCK=5) (!ETH OR ETH) (SK58>2 AND SK60>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG (SOCK=0 OR SOCK=4 OR SOCK=5) (!ETH OR ETH) (SK58>2 AND SK60=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG (SOCK=0 OR SOCK=4 OR SOCK=5) (!ETH OR ETH) (SK58=2 AND SK60>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG (SOCK=0 OR SOCK=4 OR SOCK=5) (!ETH OR ETH) (SK58>2 AND SK50>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG (SOCK=0 OR SOCK=4 OR SOCK=5) (!ETH OR ETH) (SK58>2 AND SK50=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG (SOCK=0 OR SOCK=4 OR SOCK=5) (!ETH OR ETH) (SK58=2 AND SK50>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG (SOCK=0 OR SOCK=4 OR SOCK=5) (!ETH OR ETH) (SK58>2 AND SK60>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG (SOCK=0 OR SOCK=4 OR SOCK=5) (!ETH OR ETH) (SK58>2 AND SK60=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG (SOCK=0 OR SOCK=4 OR SOCK=5) (!ETH OR ETH) (SK58=2 AND SK60>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 //doom
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=5) (!ETH OR ETH) (SK369>2 AND SK65>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=5) (!ETH OR ETH) (SK369>2 AND SK65=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=5) (!ETH OR ETH) (SK369=2 AND SK65>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=5) (!ETH OR ETH) (SK369>2 AND SK65>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=5) (!ETH OR ETH) (SK369>2 AND SK65=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK=5) (!ETH OR ETH) (SK369=2 AND SK65>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK>3) (!ETH OR ETH) (SK65>2 OR SK53>1 OR SK58>1 OR SK60>1 OR SK50>1 OR SK57>1 OR SK59>1 OR SK62>1 OR SK64>1 OR SK48>1 OR SK63>1 OR SK369>1) FILTLVL>9]:
 ItemDisplay[WP11 !sst !lst !8ss !8ls !6ss !RW NMAG ELT (SOCK=0 OR SOCK>3) (!ETH OR ETH) (SK65>2 OR SK53>1 OR SK58>1 OR SK60>1 OR SK50>1 OR SK57>1 OR SK59>1 OR SK62>1 OR SK64>1 OR SK48>1 OR SK63>1 OR SK369>1)]:%ORANGE%*%NAME%%ORANGE%*{%NAME%}
@@ -5859,44 +5859,44 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL>40 skr]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILV
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 9qr]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%3 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 7qr]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%3 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 
-ItemDisplay[(9tw OR 7tw) NMAG !RW (SOCK=0 OR SOCK=3) (SK278>2 AND STAT265>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(9tw OR 7tw) NMAG !RW (SOCK=0 OR SOCK=3) (SK278>2 AND STAT265=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(9tw OR 7tw) NMAG !RW (SOCK=0 OR SOCK=3) (SK278=2 AND STAT265>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(9tw OR 7tw) NMAG !RW (SOCK=0 OR SOCK=3) (SK278=2 AND STAT265=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(9tw OR 7tw) NMAG !RW (SOCK=0 OR SOCK=3) (SK278>2 AND STAT265>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(9tw OR 7tw) NMAG !RW (SOCK=0 OR SOCK=3) (SK278>2 AND STAT265=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(9tw OR 7tw) NMAG !RW (SOCK=0 OR SOCK=3) (SK278=2 AND STAT265>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(9tw OR 7tw) NMAG !RW (SOCK=0 OR SOCK=3) (SK278=2 AND STAT265=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK280>2 AND STAT252>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK280>2 AND STAT252=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK280=2 AND STAT252>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK265>2 AND STAT252>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK265>2 AND STAT252=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK265=2 AND STAT252>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK271>2 AND STAT276>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK271>2 AND STAT276=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK271=2 AND STAT276>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK271>2 AND STAT366>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK271>2 AND STAT366=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK271=2 AND STAT366>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278>2 AND STAT267>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278>2 AND STAT267=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278=2 AND STAT267>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278>2 AND STAT258>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278>2 AND STAT258=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278=2 AND STAT258>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278>2 AND STAT265>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278>2 AND STAT265=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278=2 AND STAT265>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK262>2 AND STAT272>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK262>2 AND STAT272=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK262=2 AND STAT272>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK273>2 AND STAT258>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK273>2 AND STAT258=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK273=2 AND STAT258>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[7xf NMAG !RW (SOCK=0 OR SOCK=3) ETH ED>9]:%DOT-75%%NAME%{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK280>2 AND STAT252>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK280>2 AND STAT252=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK280=2 AND STAT252>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK265>2 AND STAT252>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK265>2 AND STAT252=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK265=2 AND STAT252>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK271>2 AND STAT276>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK271>2 AND STAT276=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK271=2 AND STAT276>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK271>2 AND STAT366>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK271>2 AND STAT366=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK271=2 AND STAT366>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278>2 AND STAT267>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278>2 AND STAT267=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278=2 AND STAT267>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278>2 AND STAT258>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278>2 AND STAT258=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278=2 AND STAT258>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278>2 AND STAT265>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278>2 AND STAT265=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK278=2 AND STAT265>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK262>2 AND STAT272>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK262>2 AND STAT272=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK262=2 AND STAT272>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK273>2 AND STAT258>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK273>2 AND STAT258=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK273=2 AND STAT258>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[7xf NMAG !RW (SOCK=0 OR SOCK=3) ETH ED>9]:%MAP-75%%NAME%{%NAME%}
 
 ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK263>1 OR SK277>1 OR SK252>1 OR SK269>1 OR SK262>1 OR SK271>1 OR SK267>1 OR SK278>1 OR SK273>1 OR SK276>1 OR SK366>1 OR SK280>1 OR SK265>1 OR SK254>1 OR SK255>1 OR SK258>1 OR SK270>1 OR SK257>1) FILTLVL>9]:
 ItemDisplay[CL5 NMAG !RW (SOCK=0 OR SOCK=3) (SK263>1 OR SK277>1 OR SK252>1 OR SK269>1 OR SK262>1 OR SK271>1 OR SK267>1 OR SK278>1 OR SK273>1 OR SK276>1 OR SK366>1 OR SK280>1 OR SK265>1 OR SK254>1 OR SK255>1 OR SK258>1 OR SK270>1 OR SK257>1)]:%NAME%{%NAME%}
 ItemDisplay[7xf NMAG !RW (SOCK=0 OR SOCK=3) ETH FILTLVL>9]:
-ItemDisplay[7xf NMAG !RW (SOCK=0 OR SOCK=3) ETH]:%DOT-75%%NAME%{%NAME%}
+ItemDisplay[7xf NMAG !RW (SOCK=0 OR SOCK=3) ETH]:%MAP-75%%NAME%{%NAME%}
 
 //SCEPTERS ACTIVE -COMPLETE
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 9sc]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%3 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
@@ -5927,25 +5927,25 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL>40 wsp]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILV
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 9ws]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%5 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 7ws]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%5 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 
-//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK111>2 AND SK123>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK111>2 AND SK123=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK111=2 AND SK123>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK117>2 AND SK124>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK117>2 AND SK124=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK117=2 AND SK124>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK117>2 AND SK99>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK117>2 AND SK99=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK117=2 AND SK99>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK111>2 AND SK123>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK111>2 AND SK123=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK111=2 AND SK123>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK117>2 AND SK124>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK117>2 AND SK124=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK117=2 AND SK124>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK117>2 AND SK99>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK117>2 AND SK99=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=5) (SK117=2 AND SK99>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
-//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=4) (SK111>2 AND SK123>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=4) (SK111>2 AND SK123=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=4) (SK111=2 AND SK123>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=4) (SK112>2 AND SK113>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=4) (SK112>2 AND SK113=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=4) (SK113>2 AND SK112=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=3) (SK112>2 AND SK113>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=3) (SK112>2 AND SK113=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=3) (SK113>2 AND SK112=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=4) (SK111>2 AND SK123>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=4) (SK111>2 AND SK123=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=4) (SK111=2 AND SK123>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=4) (SK112>2 AND SK113>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=4) (SK112>2 AND SK113=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=4) (SK113>2 AND SK112=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=3) (SK112>2 AND SK113>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=3) (SK112>2 AND SK113=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+//ItemDisplay[(wsp OR 9ws OR 7ws) NMAG !RW (SOCK=0 OR SOCK=3) (SK113>2 AND SK112=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
 ItemDisplay[WP13 NMAG !RW (SOCK=0 OR SOCK>2) (SK97>0 OR SK101>0 OR SK106>0 OR SK107>0 OR SK111>0 OR SK112>0 OR SK113>0 OR SK115>0 OR SK117>0 OR SK118>0 OR SK121>0 OR SK122>0 OR SK123>0 OR SK124>0 OR SK125>0 OR SK364>0 OR SK371>0 OR SK378>0 OR SK99>0) FILTLVL>9]:
 ItemDisplay[WP13 NMAG !RW (SOCK=0 OR SOCK>2) (SK97>0 OR SK101>0 OR SK106>0 OR SK107>0 OR SK111>0 OR SK112>0 OR SK113>0 OR SK115>0 OR SK117>0 OR SK118>0 OR SK121>0 OR SK122>0 OR SK123>0 OR SK124>0 OR SK125>0 OR SK364>0 OR SK371>0 OR SK378>0 OR SK99>0)]:%NAME%{%NAME%}
@@ -5966,10 +5966,10 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL>40 ob5]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILV
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 oba]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%3 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 obf]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%3 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 
-ItemDisplay[(ob5 OR oba OR obf) !RW NMAG (SOCK=0 OR SOCK=3) (!ETH OR ETH) (SK58>2 AND SK50>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(ob5 OR oba OR obf) !RW NMAG (SOCK=0 OR SOCK=3) (!ETH OR ETH) (SK58>2 AND SK50=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(ob5 OR oba OR obf) !RW NMAG (SOCK=0 OR SOCK=3) (!ETH OR ETH) (SK58>2 AND SK60>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(ob5 OR oba OR obf) !RW NMAG (SOCK=0 OR SOCK=3) (!ETH OR ETH) (SK58>2 AND SK60=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(ob5 OR oba OR obf) !RW NMAG (SOCK=0 OR SOCK=3) (!ETH OR ETH) (SK58>2 AND SK50>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(ob5 OR oba OR obf) !RW NMAG (SOCK=0 OR SOCK=3) (!ETH OR ETH) (SK58>2 AND SK50=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(ob5 OR oba OR obf) !RW NMAG (SOCK=0 OR SOCK=3) (!ETH OR ETH) (SK58>2 AND SK60>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(ob5 OR oba OR obf) !RW NMAG (SOCK=0 OR SOCK=3) (!ETH OR ETH) (SK58>2 AND SK60=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
 ItemDisplay[(ob5 OR oba OR obf) !RW NMAG !ETH (SOCK=0 OR SOCK=3) (SK63>2 OR SK58>2 OR SK57>2 OR SK48>2 OR SK50>2 OR SK60>2 OR SK59>2 OR SK64>2 OR SK65>2 OR SK61>2 OR SK369>2 OR SK376>2 OR SK383>2 OR SK62>2) FILTLVL>9]:
 ItemDisplay[(ob5 OR oba OR obf) !RW NMAG !ETH (SOCK=0 OR SOCK=3) (SK63>2 OR SK58>2 OR SK57>2 OR SK48>2 OR SK50>2 OR SK60>2 OR SK59>2 OR SK64>2 OR SK65>2 OR SK61>2 OR SK369>2 OR SK376>2 OR SK383>2 OR SK62>2)]:%NAME%{%NAME%}
@@ -6053,18 +6053,18 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL>40 ned]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILV
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 nee]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%3 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 nef]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%3 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 
-ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69>2 AND SK70>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69>2 AND SK70=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69=2 AND SK70>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69>2 AND SK80>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69>2 AND SK80=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69=2 AND SK80>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69>2 AND SK89>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69>2 AND SK89=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69=2 AND SK89>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK68=2 AND SK78>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK94>2 AND SK95>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK94>2 AND SK91>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69>2 AND SK70>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69>2 AND SK70=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69=2 AND SK70>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69>2 AND SK80>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69>2 AND SK80=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69=2 AND SK80>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69>2 AND SK89>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69>2 AND SK89=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK69=2 AND SK89>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK68=2 AND SK78>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK94>2 AND SK95>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK94>2 AND SK91>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK84>1 OR SK92>1 OR SK83>1 OR SK74>1 OR SK67>1 OR SK69>1 OR SK80>1 OR SK89>1 OR SK70>1 OR SK68>1 OR SK94>1 OR SK95>1 OR SK91>1 OR SK367>1) FILTLVL>9]:
 ItemDisplay[(CL4 OR WP12) !RW !wnd !ywn !9wn !RW !RW NMAG !ETH (SOCK=0 OR SOCK>1) (SK84>1 OR SK92>1 OR SK83>1 OR SK74>1 OR SK67>1 OR SK69>1 OR SK80>1 OR SK89>1 OR SK70>1 OR SK68>1 OR SK94>1 OR SK95>1 OR SK91>1 OR SK367>1)]:%NAME%{%NAME%}
@@ -6150,9 +6150,9 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL>40 pae]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILV
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 pa5]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 paa]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 paf]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%4 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
-ItemDisplay[(uit OR uow OR uts) (SOCK=0 OR SOCK=3 OR SOCK=4) !RW NMAG STAT91=-10]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(CL3) (SOCK=0 OR SOCK=3 OR SOCK=4) !RW NMAG ELT (EDAM>40)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(CL3) (SOCK=0 OR SOCK=3 OR SOCK=4) !RW NMAG ELT (RES>24)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(uit OR uow OR uts) (SOCK=0 OR SOCK=3 OR SOCK=4) !RW NMAG STAT91=-10]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(CL3) (SOCK=0 OR SOCK=3 OR SOCK=4) !RW NMAG ELT (EDAM>40)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(CL3) (SOCK=0 OR SOCK=3 OR SOCK=4) !RW NMAG ELT (RES>24)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
 ItemDisplay[(uit OR uow OR uts) SOCK=4 !RW NMAG !ETH FILTLVL>9]:
 ItemDisplay[(uow OR uts OR urg OR ush) !SOCK=1 !RW NMAG !ETH (ED>0 OR STAT91=-10) FILTLVL>9]:
@@ -6266,11 +6266,11 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL<26 aar]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILV
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 uar]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%3 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 xrs]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%3 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 
-//ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) (SOCK=0 OR SOCK>2) !RW NMAG ETH ED>9]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-//ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) (SOCK=0 OR SOCK>2) !RW NMAG !ETH ED>9]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+//ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) (SOCK=0 OR SOCK>2) !RW NMAG ETH ED>9]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+//ItemDisplay[(xrs OR xtp OR uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar OR xld OR gth OR aar) (SOCK=0 OR SOCK>2) !RW NMAG !ETH ED>9]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
-ItemDisplay[(uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar) (SOCK=0 OR SOCK>2) !RW NMAG ETH ED>9]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar) (SOCK=0 OR SOCK>2) !RW NMAG !ETH ED>9]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar) (SOCK=0 OR SOCK>2) !RW NMAG ETH ED>9]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(uui OR ula OR utu OR ung OR ucl OR urs OR uhn OR upl OR utp OR uld OR ult OR uth OR uul OR uar) (SOCK=0 OR SOCK>2) !RW NMAG !ETH ED>9]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
 ItemDisplay[(xrs OR xtp OR xld OR gth OR aar) (SOCK=0 OR SOCK>2) !RW NMAG ETH ED>12]:%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 ItemDisplay[(xrs OR xtp OR xld OR gth OR aar) (SOCK=0 OR SOCK>2) !RW NMAG !ETH ED>12]:%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
@@ -6343,9 +6343,9 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL<26 ba5]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILV
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 baa]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%2 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 baf]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%2 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 
-ItemDisplay[CL2 NMAG !RW (SOCK=0 OR SOCK=3) (SK146>2 AND SK149>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL2 NMAG !RW (SOCK=0 OR SOCK=3) (SK146>2 AND SK149=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL2 NMAG !RW (SOCK=0 OR SOCK=3) (SK146=2 AND SK149>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL2 NMAG !RW (SOCK=0 OR SOCK=3) (SK146>2 AND SK149>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL2 NMAG !RW (SOCK=0 OR SOCK=3) (SK146>2 AND SK149=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL2 NMAG !RW (SOCK=0 OR SOCK=3) (SK146=2 AND SK149>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
 ItemDisplay[(msk OR uh9 OR urn) NMAG !RW !SOCK=1 FILTLVL>9]:
 ItemDisplay[CL2 NMAG !RW (SOCK=0 OR SOCK>1) (SK146>1 OR SK155>1 OR SK154>1 OR SK150>1 OR SK149>1 OR SK133>1 OR SK140>1 OR SK147>1) FILTLVL>9]:
@@ -6401,12 +6401,12 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL>40 dr5]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILV
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 dra]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%3 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 ItemDisplay[NMAG SOCK=0 !RW ILVL>40 drf]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%3 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 
-ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK=3) (SK249>2 AND SK250>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK=3) (SK249>2 AND SK250=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK=3) (SK249=2 AND SK250>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK=3) (SK236>2 AND SK226>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK=3) (SK236>2 AND SK226=2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK=3) (SK236=2 AND SK226>2)]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK=3) (SK249>2 AND SK250>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK=3) (SK249>2 AND SK250=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK=3) (SK249=2 AND SK250>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK=3) (SK236>2 AND SK226>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK=3) (SK236>2 AND SK226=2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK=3) (SK236=2 AND SK226>2)]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
 ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK>1) (SK249>1 OR SK250>1 OR SK245>1 OR SK235>1 OR SK237>1 OR SK247>1 OR SK227>1 OR SK240>0 OR SK244>0) FILTLVL>9]:
 ItemDisplay[CL1 NMAG !RW (SOCK=0 OR SOCK>1) (SK249>1 OR SK250>1 OR SK245>1 OR SK235>1 OR SK237>1 OR SK247>1 OR SK227>1 OR SK240>0 OR SK244>0)]:%NAME%{%NAME%}
@@ -6443,12 +6443,12 @@ ItemDisplay[NMAG SOCK=0 !RW ILVL<26 amb]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILV
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 am7]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%3 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 ItemDisplay[NMAG SOCK=0 !RW ILVL<26 amc]:%NAME%{%YELLOW%(ItemLevel:%ORANGE%L%ILVL%,%WHITE% MaxSoc:%PURPLE%3 %RED%by larzuk%GRAY%+Or %GREEN%RndSoc %GRAY%Via %CORAL%Wss%YELLOW%)%NAME%}%CONTINUE%
 
-ItemDisplay[(amb OR amc) (SOCK=0 OR SOCK=4 OR SOCK=5) !RW NMAG ED=15 TABSK0=3]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(amb OR amc) (SOCK=0 OR SOCK=4 OR SOCK=5) !RW NMAG ED=14 TABSK0=3]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(amb OR amc) (SOCK=0 OR SOCK=4 OR SOCK=5) !RW NMAG ED=13 TABSK0=3]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(6hx OR 6mx) (SOCK=0 OR SOCK=4 OR SOCK=5) !RW NMAG ED=15]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(6hx OR 6mx) (SOCK=0 OR SOCK=4 OR SOCK=5) !RW NMAG ED=14]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
-ItemDisplay[(6hx OR 6mx) (SOCK=0 OR SOCK=4 OR SOCK=5) !RW NMAG ED=13]:%DOT-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(amb OR amc) (SOCK=0 OR SOCK=4 OR SOCK=5) !RW NMAG ED=15 TABSK0=3]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(amb OR amc) (SOCK=0 OR SOCK=4 OR SOCK=5) !RW NMAG ED=14 TABSK0=3]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(amb OR amc) (SOCK=0 OR SOCK=4 OR SOCK=5) !RW NMAG ED=13 TABSK0=3]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(6hx OR 6mx) (SOCK=0 OR SOCK=4 OR SOCK=5) !RW NMAG ED=15]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(6hx OR 6mx) (SOCK=0 OR SOCK=4 OR SOCK=5) !RW NMAG ED=14]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
+ItemDisplay[(6hx OR 6mx) (SOCK=0 OR SOCK=4 OR SOCK=5) !RW NMAG ED=13]:%MAP-75%%ORANGE%*%PURPLE%* %NAME% %ORANGE%*%PURPLE%*{%NAME%}
 
 ItemDisplay[(am1 OR amb OR amc) !SOCK=1 !RW NMAG TABSK0>1 FILTLVL>9]:
 ItemDisplay[(am1 OR amb OR amc) (SOCK=4 OR SOCK=5) !RW NMAG FILTLVL>9]:
