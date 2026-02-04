@@ -3642,7 +3642,7 @@ ItemDisplay[UNI !ID 6ws ETH]:%MAP-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%et
 ItemDisplay[UNI !ID 7cr]:%MAP-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Lightsabre %TAN%Or %GREEN%Azurewrath %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 7gd !ETH]:%SOUNDID-2664%%BORDER-62%%PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@ %RED%The Grandfather %PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@
 ItemDisplay[UNI !ID 7gd ETH]:%MAP-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%The Grandfather%GOLD%[%BASENAME%] %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ 
-ItemDisplay[UNI !ID 7cm !ETH]: %MAP-0C% %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@     %RED%Leoric's Mithril Bane%GOLD%[%BASENAME%] %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ 
+ItemDisplay[UNI !ID 7cm !ETH]: %MAP-0C% %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Leoric's Mithril Bane%GOLD%[%BASENAME%] %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ 
 ItemDisplay[UNI !ID 7cm ETH]: %MAP-0C% %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Leoric's Mithril Bane%GOLD%[%BASENAME%] %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ 
 //Unique Wands
 ItemDisplay[UNI !ID 7gw !ETH]:%SOUNDID-2664%%BORDER-62%%PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@ %RED%Deaths Web %PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@
@@ -3650,7 +3650,7 @@ ItemDisplay[UNI !ID 7gw ETH]:%MAP-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%et
 //Unique Throwing Weapons
 ItemDisplay[UNI !ID 7bk !ETH]:%MAP-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %TAN%Warshrike%GOLD%[%BASENAME%] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 7bk ETH]:%MAP-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %TAN%Warshrike%GOLD%[%BASENAME%] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
-ItemDisplay[UNI !ID 7b8 !ETH]:%SOUNDID-2664%%BORDER-62%%PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@ %RED%Lacerator %PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@
+ItemDisplay[UNI !ID 7b8 !ETH]:%MAP-0C% %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Lacerator%GOLD%[%BASENAME%] %GRAY%(EL)  %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ 
 ItemDisplay[UNI !ID 7b8 ETH]:%SOUNDID-2664%%BORDER-62%%PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@ %WHITE%eth %RED%Lacerator %PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@
 //Unique Amazon only items
 ItemDisplay[UNI !ID ama !ETH]:%MAP-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Titans Revenge%GOLD%[%BASENAME%] %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ 
@@ -3738,7 +3738,7 @@ ItemDisplay[UNI !ID dre !ETH]:%MAP-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Rav
 ItemDisplay[UNI !ID dre ETH]:%MAP-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Ravenlore%TAN%[Sky Spirit] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 9wc !ETH]:%MAP-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Grim's Burning Dead%TAN%[Grim Scythe] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 9wc ETH]:%MAP-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Grim's Burning Dead%TAN%[Grim Scythe] %GRAY%(EX) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
-ItemDisplay[UNI !ID 7p7 !ETH]:%SOUNDID-2664%%BORDER-62%%PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@ %RED%Steel Pillar %PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@
+ItemDisplay[UNI !ID 7p7 !ETH]:%MAP-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Steel Pillar%TAN%[%BASENAME%] %GRAY%(EL) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID 7p7 ETH]:%SOUNDID-2664%%BORDER-62%%PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@ %WHITE%eth %RED%Steel Pillar %PURPLE%@@%ORANGE%@@%GOLD%@@%WHITE%@@%GOLD%@@%ORANGE%@@%RED%@@%PURPLE%@@
 ItemDisplay[UNI !ID ltp !ETH]:%MAP-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %RED%Heavenly Garb%TAN%[Light Plate] %GRAY%(N) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
 ItemDisplay[UNI !ID ltp ETH]:%MAP-0C%%ORANGE%@%GOLD%@%WHITE%@%PURPLE%@ %WHITE%eth %RED%Heavenly Garb%TAN%[Light Plate] %GRAY%(N) %ORANGE%@%GOLD%@%WHITE%@%PURPLE%@
