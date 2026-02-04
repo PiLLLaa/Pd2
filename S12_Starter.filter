@@ -3680,7 +3680,7 @@ ItemDisplay[UNI !ID 7gw ETH]: %MAP-0C% %GOLD%@@@@     %PURPLE%Eth %RED%Deaths We
 //Unique Throwing Weapons
 ItemDisplay[UNI !ID 7bk !ETH]: %MAP-0C%%GOLD%@@  %TAN%Warshrike%GOLD%[Winged Knife] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID 7bk ETH]: %MAP-0C%%GOLD%@@  %PURPLE%Eth %TAN%Warshrike%GOLD%[Winged Knife] %ORANGE%(EL) %GOLD%@@
-ItemDisplay[UNI !ID 7b8 !ETH]: %SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Lacerator    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
+ItemDisplay[UNI !ID 7b8 !ETH]: %MAP-0C% %GOLD%@@@@    %RED%Lacerator%TAN%[%BASENAME%] %ORANGE%(EL)    %GOLD%@@@@
 ItemDisplay[UNI !ID 7b8 ETH]:%SOUNDID-2664% %BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %PURPLE%Eth %RED%Lacerator    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 //Unique Amazon only items
 ItemDisplay[UNI !ID ama !ETH]: %MAP-0C% %GOLD%@@@@     %RED%Titans Revenge%GOLD%[%BASENAME%]     %GOLD%@@@@ 
@@ -3765,7 +3765,7 @@ ItemDisplay[UNI !ID dre !ETH]:%MAP-0C%%GOLD%@@  %RED%Ravenlore%TAN%[Sky Spirit] 
 ItemDisplay[UNI !ID dre ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Ravenlore%TAN%[Sky Spirit] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID 9wc !ETH]:%MAP-0C%%GOLD%@@  %RED%Grim's Burning Dead%TAN%[Grim Scythe] %ORANGE%(EX) %GOLD%@@
 ItemDisplay[UNI !ID 9wc ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Grim's Burning Dead%TAN%[Grim Scythe] %ORANGE%(EX) %GOLD%@@
-ItemDisplay[UNI !ID 7p7 !ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %RED%Steel Pillar    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
+ItemDisplay[UNI !ID 7p7 !ETH]:%MAP-0C%%GOLD%@@  %RED%Steel Pillar%TAN%[%BASENAME%] %ORANGE%(EL) %GOLD%@@
 ItemDisplay[UNI !ID 7p7 ETH]:%SOUNDID-2664%%BORDER-62%%RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@    %PURPLE%Eth %RED%Steel Pillar    %RED%@@%ORANGE%@@%YELLOW%@@%GREEN%@@%BLUE%@@%PURPLE%@@
 ItemDisplay[UNI !ID ltp !ETH]:%MAP-0C%%GOLD%@@  %RED%Heavenly Garb%TAN%[Light Plate] %ORANGE%(N) %GOLD%@@
 ItemDisplay[UNI !ID ltp ETH]:%MAP-0C%%GOLD%@@  %PURPLE%Eth %RED%Heavenly Garb%TAN%[Light Plate] %ORANGE%(N) %GOLD%@@
