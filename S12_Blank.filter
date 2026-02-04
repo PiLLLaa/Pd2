@@ -3570,7 +3570,7 @@ ItemDisplay[UNI !ID 6lw !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##
 ItemDisplay[UNI !ID 6ws !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Mang Songs Lesson    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID 7gd !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%The Grandfather    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID 7gw !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Deaths Web    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
-ItemDisplay[UNI !ID 7b8 !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Lacerator    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
+ItemDisplay[UNI !ID 7b8 !ETH]:%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Lacerator    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID amf !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Thunderstroke    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID 9tw !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Bartucs Cut Throat    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID nea !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Homunculus    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
@@ -3595,7 +3595,7 @@ ItemDisplay[UNI !ID amb !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##
 ItemDisplay[UNI !ID bae !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Halaberd's Reign    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID drb !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Cerebus' Bite    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 
-ItemDisplay[UNI !ID 7p7 !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Steel Pillar    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
+ItemDisplay[UNI !ID 7p7 !ETH]:%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Steel Pillar    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID 7wc !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Stormspire    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID nee !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Boneflame    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
 ItemDisplay[UNI !ID drd !ETH]:%SOUNDID-2664%%RED%##%PURPLE%##%ORANGE%##%CORAL%##%SAGE%##    %BORDER-62%%PURPLE%Spirit Keeper    %SAGE%##%CORAL%##%ORANGE%##%PURPLE%##%RED%##
