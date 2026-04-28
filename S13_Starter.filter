@@ -1,20 +1,20 @@
-//UPDATE CONTENTS :  S12_ver
+//UPDATE CONTENTS :  S13_ver
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      Filter Level                                           //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplayFilterName[]: ˇc5Standard //FILTLVL>0
-ItemDisplayFilterName[]: ˇc1No ˇc-Bolt(M)ˇc0+ˇc3Arrow(M)ˇc0+ˇc.ThrowingPotionˇc0+ˇc:Ring(M) //FILTLVL>1 OK
-ItemDisplayFilterName[]: +ˇc1No ˇc3CraftArmor+Club(Norm) //FILTLVL>2
-ItemDisplayFilterName[]: ++ˇc1No ˇc7Claw(M)ˇc0+ˇc;ClassHelmet(M)ˇc0+ˇc:Javel(M) //FILTLVL>3
-ItemDisplayFilterName[]: +++ˇc1No ˇc2NormalSetˇc4(Only Active Sigon) //FILTLVL>4
-ItemDisplayFilterName[]: ++++ˇc1No ˇc7NecHead(M)ˇc0+ˇc!Wand(M) //FILTLVL>5
-ItemDisplayFilterName[]: +++++ˇc1No ˇc7Amulet(M)ˇc0+ˇc+Circlet(M)ˇc0+ˇc:Glove(M) //FILTLVL>6  OK
-ItemDisplayFilterName[]: ++++++ˇc1No ˇc2Sigonˇc0+ˇc.HP/ˇc*MPˇc0+ˇc,Anti //FILTLVL>7 OK
-ItemDisplayFilterName[]: +++++++ˇc1No ˇc8Bolt(Rare)ˇc0+ˇc;R35 //FILTLVL>8 OK
-ItemDisplayFilterName[]: ++++++++ˇc1No ˇc8Arrow(Rare)ˇc0+ˇc4Only GG base Item //FILTLVL>9
-ItemDisplayFilterName[]: +++++++++ˇc1No ˇc3CraftWeaponˇc4(Only Active ETH+Bows(GMB)) //FILTLVL>10
-ItemDisplayFilterName[]: ++++++++++ˇc1No ˇc2AllSet(rin+amu) //FILTLVL>11
+ItemDisplayFilterName[]: √øc5Standard //FILTLVL>0
+ItemDisplayFilterName[]: √øc1No √øc-Bolt(M)√øc0+√øc3Arrow(M)√øc0+√øc.ThrowingPotion√øc0+√øc:Ring(M) //FILTLVL>1 OK
+ItemDisplayFilterName[]: +√øc1No √øc3CraftArmor+Club(Norm) //FILTLVL>2
+ItemDisplayFilterName[]: ++√øc1No √øc7Claw(M)√øc0+√øc;ClassHelmet(M)√øc0+√øc:Javel(M) //FILTLVL>3
+ItemDisplayFilterName[]: +++√øc1No √øc2NormalSet√øc4(Only Active Sigon) //FILTLVL>4
+ItemDisplayFilterName[]: ++++√øc1No √øc7NecHead(M)√øc0+√øc!Wand(M) //FILTLVL>5
+ItemDisplayFilterName[]: +++++√øc1No √øc7Amulet(M)√øc0+√øc+Circlet(M)√øc0+√øc:Glove(M) //FILTLVL>6  OK
+ItemDisplayFilterName[]: ++++++√øc1No √øc2Sigon√øc0+√øc.HP/√øc*MP√øc0+√øc,Anti //FILTLVL>7 OK
+ItemDisplayFilterName[]: +++++++√øc1No √øc8Bolt(Rare)√øc0+√øc;R35 //FILTLVL>8 OK
+ItemDisplayFilterName[]: ++++++++√øc1No √øc8Arrow(Rare)√øc0+√øc4Only GG base Item //FILTLVL>9
+ItemDisplayFilterName[]: +++++++++√øc1No √øc3CraftWeapon√øc4(Only Active ETH+Bows(GMB)) //FILTLVL>10
+ItemDisplayFilterName[]: ++++++++++√øc1No √øc2AllSet(rin+amu) //FILTLVL>11
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                             Alias                                           //
 /////////////////////////////////////////////////////////////////////////////////////////////////
@@ -23,9 +23,9 @@ Alias[MAPS_ALL1]:(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR
 Alias[MAPS_ALL2]:(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19 OR t20 OR t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29 OR t30 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t37 OR t38 OR t39 OR t40 OR t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49 OR t51 OR t52 OR t53 OR t54 OR t55 OR t56 OR t3b OR t57 OR t58)
 Alias[MAPS_ALL_NM]:(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19 OR t20 OR t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29 OR t30 OR t31 OR t32 OR t33 OR t34 OR t36 OR t37 OR t38 OR t39 OR t40 OR t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49 OR t3b)
 Alias[TOWN]:(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)
-Alias[BOX_SYMBOL]:%LIGHT_GRAY%ó%WHITE%ó%CORAL%ó%GOLD%ó
-Alias[USAGE_SYMBOL_L]:%GOLD%ó%CORAL%ó%WHITE%ó%LIGHT_GRAY%ó
-Alias[USAGE_SYMBOL_R]:%LIGHT_GRAY%ó%WHITE%ó%CORAL%ó%GOLD%ó
+Alias[BOX_SYMBOL]:%LIGHT_GRAY%‚Äî%WHITE%‚Äî%CORAL%‚Äî%GOLD%‚Äî
+Alias[USAGE_SYMBOL_L]:%GOLD%‚Äî%CORAL%‚Äî%WHITE%‚Äî%LIGHT_GRAY%‚Äî
+Alias[USAGE_SYMBOL_R]:%LIGHT_GRAY%‚Äî%WHITE%‚Äî%CORAL%‚Äî%GOLD%‚Äî
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      Filter Level Disable Item                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
@@ -748,7 +748,7 @@ ItemDisplay[(key OR rkey) INVENTORY MAPID=91]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tip
 
 
 // MAPID=92 : Sewers Level 1 (Act 3) ok
-ItemDisplay[(key OR rkey) INVENTORY MAPID=92]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Level 2 is locked until the sewer lever is pulled‚Äîclear %NL%%PURPLE%Mob %WHITE%:%GRAY%  Preserved Dead, Horadrim Ancient, %GRAY%(Lvl 1)%WHITE% Gloom Bat, Feeder%NL%%GOLD%Unique %WHITE%: %GOLD%Icehawk Riftwing %WHITE%%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%GOLD%Quest %WHITE%: %YELLOW%Khalim's Will%WHITE% (access to Khalim's Heart)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Kurast Bazaar, Upper Kurast%NL%%CORAL%Sewers Level 1 %RED%(dungeon)%WHITE%%NAME%}
+ItemDisplay[(key OR rkey) INVENTORY MAPID=92]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Level 2 is locked until the sewer lever is pulled√¢‚Ç¨‚Äùclear %NL%%PURPLE%Mob %WHITE%:%GRAY%  Preserved Dead, Horadrim Ancient, %GRAY%(Lvl 1)%WHITE% Gloom Bat, Feeder%NL%%GOLD%Unique %WHITE%: %GOLD%Icehawk Riftwing %WHITE%%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%GOLD%Quest %WHITE%: %YELLOW%Khalim's Will%WHITE% (access to Khalim's Heart)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Kurast Bazaar, Upper Kurast%NL%%CORAL%Sewers Level 1 %RED%(dungeon)%WHITE%%NAME%}
 
 // MAPID=93 : Sewers Level 2 (Act 3) ok
 ItemDisplay[(key OR rkey) INVENTORY MAPID=93]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Fixed layout. Small central chamber with water/watch for ambushes from pools%NL%%PURPLE%Mob %WHITE%:%GRAY%  Blood Wing, Slime Prince, Minions: Horror%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%GOLD%Quest %WHITE%: %YELLOW%Khalim's Will%WHITE% (Khalim's Heart location)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Sewers Level 1 %BLUE%| %SAGE%Bk%WHITE%: Kurast Bazaar, Upper Kurast%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Sewers Level 2 %RED%(dungeon)%WHITE%%NAME%}
@@ -1719,7 +1719,7 @@ ItemDisplay[toa !INVENTORY]:%MAP-0B%%PURPLE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%-
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                   PD2 Corruption Items                                      //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[wss INVENTORY]:%GREEN%ã%GREEN%ã%PURPLE%ó%TEAL%ó%SAGE%ó%WHITE%ó  %ORANGE%Worldstone %GOLD%Shard%WHITE%* %GREEN%%QTY%  %WHITE%ó%SAGE%ó%TEAL%ó%PURPLE%ó%GREEN%õ%GREEN%õ{%NL%%ORANGE%Pdr-%GRAY%+5%:%YELLOW%Rg%NL%%RED%Cb/Ds-%GRAY%Wp(20~30%) %YELLOW%Gl(/10%)%NL%%GREEN%Frw-%GRAY%+15%:%YELLOW%Bt%NL%%TEAL%Fcr-%GRAY%+20%:%WHITE%Wp,%GRAY%+10%:%YELLOW%Gl Rg Am%NL%%YELLOW%Ias-%YELLOW%(10%):Gl Bl Qv%NL%%CORAL%Mres-%GRAY%+2%:%SAGE%Bl Am Bt%NL%%GREEN%Alsk-%SAGE%Wp(Cast) Am Qv Sh%NL%%NL%%WHITE%++%LIGHT_GRAY%(E60-80)+ITD %GRAY%FCR10+Ele5%NL%%GREEN%Wp-%RED%#1%SAGE%(E80-120)+IAS20 %RED%#2%YELLOW%(E50-70)+DS25 %RED%#3%WHITE%(E80-120)+A250%NL%}
+ItemDisplay[wss INVENTORY]:%GREEN%‚Äπ%GREEN%‚Äπ%PURPLE%‚Äî%TEAL%‚Äî%SAGE%‚Äî%WHITE%‚Äî  %ORANGE%Worldstone %GOLD%Shard%WHITE%* %GREEN%%QTY%  %WHITE%‚Äî%SAGE%‚Äî%TEAL%‚Äî%PURPLE%‚Äî%GREEN%‚Ä∫%GREEN%‚Ä∫{%NL%%ORANGE%Pdr-%GRAY%+5%:%YELLOW%Rg%NL%%RED%Cb/Ds-%GRAY%Wp(20~30%) %YELLOW%Gl(/10%)%NL%%GREEN%Frw-%GRAY%+15%:%YELLOW%Bt%NL%%TEAL%Fcr-%GRAY%+20%:%WHITE%Wp,%GRAY%+10%:%YELLOW%Gl Rg Am%NL%%YELLOW%Ias-%YELLOW%(10%):Gl Bl Qv%NL%%CORAL%Mres-%GRAY%+2%:%SAGE%Bl Am Bt%NL%%GREEN%Alsk-%SAGE%Wp(Cast) Am Qv Sh%NL%%NL%%WHITE%++%LIGHT_GRAY%(E60-80)+ITD %GRAY%FCR10+Ele5%NL%%GREEN%Wp-%RED%#1%SAGE%(E80-120)+IAS20 %RED%#2%YELLOW%(E50-70)+DS25 %RED%#3%WHITE%(E80-120)+A250%NL%}
 ItemDisplay[lbox INVENTORY]:%RED%P%ORANGE%u%YELLOW%z%GREEN%z%BLUE%l%PURPLE%e %RED%Box%WHITE%* %GREEN%%QTY%{%RED%For all items but, much valuable than piece%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items%NL%}
 ItemDisplay[lpp INVENTORY]:%GOLD%Puzzle %WHITE%Piece%WHITE%* %GREEN%%QTY%{%RED%For rare, craft items%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%(Non %TAN%uni/%GREEN%set%WHITE%) %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items (not uniques,sets) items%NL%}
 ItemDisplay[lmal INVENTORY]:%GOLD%larzuks %BLUE%malus{%NL%%YELLOW%Others %WHITE%soc : %GREEN%1 %WHITE%(based item)%NL%}
@@ -1734,14 +1734,14 @@ ItemDisplay[lmal !INVENTORY]:%PURPLE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%
 /////////////////////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[rkey !INVENTORY]:%SOUNDID-2664%%MAP-0B%%WHITE%*%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%PURPLE%--%WHITE%[ %GOLD%%NAME% %WHITE%]%PURPLE%--%BLUE%--%GREEN%--%YELLOW%--%ORANGE%--%RED%--%WHITE%*{%NL%%GOLD%Skeleton Key : unlimited use key %NL%}
 
-ItemDisplay[lsvl INVENTORY]:%GOLD%Vial of %RED%L%ORANGE%i%YELLOW%g%GREEN%h%BLUE%t%PURPLE%s%WHITE%o%RED%n%ORANGE%g %TAN%√∞{%NL%%GOLD%Makes item Ethereal : %RED%Vial of Lightsong %WHITE%+ %GREEN%Item%NL%%BLUE%doesnt work with set items or items that lack durability (indestructible items)%NL%}
+ItemDisplay[lsvl INVENTORY]:%GOLD%Vial of %RED%L%ORANGE%i%YELLOW%g%GREEN%h%BLUE%t%PURPLE%s%WHITE%o%RED%n%ORANGE%g %TAN%√É¬∞{%NL%%GOLD%Makes item Ethereal : %RED%Vial of Lightsong %WHITE%+ %GREEN%Item%NL%%BLUE%doesnt work with set items or items that lack durability (indestructible items)%NL%}
 ItemDisplay[llmr INVENTORY]:%GOLD%Lilith's %RED%M%ORANGE%i%YELLOW%r%GREEN%r%BLUE%o%PURPLE%r{%NL%%GOLD%Mirrors items : %RED%Lilith's Mirror %WHITE%+ %GREEN%Item%NL%%BLUE%color changed to white,black and cannot be used in any cube recipes%NL%}
 ItemDisplay[jewf INVENTORY]:%GOLD%Jewel %GOLD%F%TAN%r%GOLD%a%TAN%g%GOLD%m%TAN%e%LIGHT_GRAY%n%WHITE%t%WHITE%s%WHITE%* %GREEN%%QTY% {%NL%%GOLD%Jewel Fragments : stackable jewel%NL%}
 ItemDisplay[cwss INVENTORY]:%GOLD%Tainted %RED%W%ORANGE%o%YELLOW%r%GREEN%l%BLUE%d%PURPLE%s%WHITE%t%RED%o%ORANGE%n%YELLOW%e %RED%Shard%WHITE%* %GREEN%%QTY%{%NL%%GOLD%Tainted Worldstone Shard : corrupts Annihilus, from Rathma %NL%}
 ItemDisplay[rid INVENTORY]:%GOLD%Horadrim %RED%A%ORANGE%l%YELLOW%m%GREEN%a%BLUE%n%PURPLE%a%WHITE%c{%NL%%GOLD%Horadrim Almanac : unlimited ID tome, from Rathma %NL%}
 ItemDisplay[rtp INVENTORY]:%GOLD%Horadrim %RED%N%ORANGE%a%YELLOW%v%GREEN%i%BLUE%g%PURPLE%a%WHITE%t%RED%o%ORANGE%r{%NL%%GOLD%Horadrim Navigator : unlimited TP tome, from Rathma %NL%}
 
-ItemDisplay[lsvl !INVENTORY]:%SOUNDID-2664%%MAP-0B%%RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y     %GOLD%Vial of %RED%LIGHTSONG %TAN%√∞     %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y %RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O{%NL%%GOLD%Makes item Ethereal : %RED%Vial of Lightsong %WHITE%+ %GREEN%Item%NL%%BLUE%doesnt work with set items or items that lack durability (indestructible items)%NL%}
+ItemDisplay[lsvl !INVENTORY]:%SOUNDID-2664%%MAP-0B%%RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y     %GOLD%Vial of %RED%LIGHTSONG %TAN%√É¬∞     %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y %RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O{%NL%%GOLD%Makes item Ethereal : %RED%Vial of Lightsong %WHITE%+ %GREEN%Item%NL%%BLUE%doesnt work with set items or items that lack durability (indestructible items)%NL%}
 //s11 -bolt/arrow possiblbe to mirror mode
 ItemDisplay[llmr !INVENTORY]:%SOUNDID-2664%%MAP-0B%%RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y     %GOLD%Lilith's %ORANGE%Mirror     %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y %RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O{%NL%%GOLD%Mirrors items : %RED%Lilith's Mirror %WHITE%+ %GREEN%Item%NL%%BLUE%color changed to white,black and cannot be used in any cube recipes%NL%}
 ItemDisplay[jewf !INVENTORY]:%GOLD%%NAME%%WHITE%* %GREEN%%QTY% {%NL%%GOLD%Jewel Fragments : stackable jewel%NL%}
