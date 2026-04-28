@@ -1,21 +1,21 @@
-//UPDATE CONTENTS :  S12_ver
+//UPDATE CONTENTS :  S13_ver
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      Filter Level                                           //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 
-ItemDisplayFilterName[]:ˇc5Standard //FILTLVL>0
-ItemDisplayFilterName[]: ˇc1No ˇc.Ring(M) //FILTLVL>1
-ItemDisplayFilterName[]: +ˇc1No ˇc7Quivers(M)ˇc0+ˇc3CraftArmor+Club(N)//FILTLVL>2
-ItemDisplayFilterName[]: ++ˇc1No ˇc7Clubs(M)ˇc0+Claw(M)ˇc0+ˇc;ClassHelmet(M)ˇc0+ˇc:Javel(M)//FILTLVL>3
-ItemDisplayFilterName[]: +++ˇc1No ˇc2Normal Set //FILTLVL4 
-ItemDisplayFilterName[]: ++++ˇc1No ˇc7Wand(M)ˇc0+ˇc!NecHead(M) //FILTLVL5 
-ItemDisplayFilterName[]: +++++ˇc1No ˇc7Amulet(M)ˇc0+ˇc+Circlet(M)ˇc0+ˇc:Glove(M)  //FILTLVL>6
-ItemDisplayFilterName[]: ++++++ˇc1No ˇc.HPˇc0+ˇc*MPˇc0+ˇc,Anti //FILTLVL>7
-ItemDisplayFilterName[]: +++++++ˇc1No ˇc8Bolt(Rare)ˇc0+ˇc;R35 //FILTLVL>8
-ItemDisplayFilterName[]: ++++++++ˇc1No ˇc8Arrow(Rare)ˇc0+ˇc4Only GG Base Activation //FILTLVL>9
-ItemDisplayFilterName[]: +++++++++ˇc1No ˇc3CraftWeaponˇc4(Only Active ETH+GMB)  //FILTLVL>10
-ItemDisplayFilterName[]: ++++++++++ˇc1No ˇc2AllSet(rin+Amu)  //FILTLVL>11
+ItemDisplayFilterName[]:√øc5Standard //FILTLVL>0
+ItemDisplayFilterName[]: √øc1No √øc.Ring(M) //FILTLVL>1
+ItemDisplayFilterName[]: +√øc1No √øc7Quivers(M)√øc0+√øc3CraftArmor+Club(N)//FILTLVL>2
+ItemDisplayFilterName[]: ++√øc1No √øc7Clubs(M)√øc0+Claw(M)√øc0+√øc;ClassHelmet(M)√øc0+√øc:Javel(M)//FILTLVL>3
+ItemDisplayFilterName[]: +++√øc1No √øc2Normal Set //FILTLVL4 
+ItemDisplayFilterName[]: ++++√øc1No √øc7Wand(M)√øc0+√øc!NecHead(M) //FILTLVL5 
+ItemDisplayFilterName[]: +++++√øc1No √øc7Amulet(M)√øc0+√øc+Circlet(M)√øc0+√øc:Glove(M)  //FILTLVL>6
+ItemDisplayFilterName[]: ++++++√øc1No √øc.HP√øc0+√øc*MP√øc0+√øc,Anti //FILTLVL>7
+ItemDisplayFilterName[]: +++++++√øc1No √øc8Bolt(Rare)√øc0+√øc;R35 //FILTLVL>8
+ItemDisplayFilterName[]: ++++++++√øc1No √øc8Arrow(Rare)√øc0+√øc4Only GG Base Activation //FILTLVL>9
+ItemDisplayFilterName[]: +++++++++√øc1No √øc3CraftWeapon√øc4(Only Active ETH+GMB)  //FILTLVL>10
+ItemDisplayFilterName[]: ++++++++++√øc1No √øc2AllSet(rin+Amu)  //FILTLVL>11
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                             Alias                                           //
 /////////////////////////////////////////////////////////////////////////////////////////////////
@@ -24,9 +24,9 @@ Alias[MAPS_ALL1]:(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR
 Alias[MAPS_ALL2]:(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19 OR t20 OR t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29 OR t30 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t37 OR t38 OR t39 OR t40 OR t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49 OR t51 OR t52 OR t53 OR t54 OR t55 OR t56 OR t3b OR t57 OR t58)
 Alias[MAPS_ALL_NM]:(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19 OR t20 OR t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29 OR t30 OR t31 OR t32 OR t33 OR t34 OR t36 OR t37 OR t38 OR t39 OR t40 OR t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49 OR t3b)
 Alias[TOWN]:(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)
-Alias[BOX_SYMBOL]:%LIGHT_GRAY%ó%WHITE%ó%CORAL%ó%GOLD%ó
-Alias[USAGE_SYMBOL_L]:%GOLD%ó%CORAL%ó%WHITE%ó%LIGHT_GRAY%ó
-Alias[USAGE_SYMBOL_R]:%LIGHT_GRAY%ó%WHITE%ó%CORAL%ó%GOLD%ó
+Alias[BOX_SYMBOL]:%LIGHT_GRAY%‚Äî%WHITE%‚Äî%CORAL%‚Äî%GOLD%‚Äî
+Alias[USAGE_SYMBOL_L]:%GOLD%‚Äî%CORAL%‚Äî%WHITE%‚Äî%LIGHT_GRAY%‚Äî
+Alias[USAGE_SYMBOL_R]:%LIGHT_GRAY%‚Äî%WHITE%‚Äî%CORAL%‚Äî%GOLD%‚Äî
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                Filter Level Disable Item                                    //
 /////////////////////////////////////////////////////////////////////////////////////////////////
@@ -4937,7 +4937,7 @@ ItemDisplay[(key OR rkey) INVENTORY MAPID=91]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tip
 
 
 // MAPID=92 : Sewers Level 1 (Act 3) ok
-ItemDisplay[(key OR rkey) INVENTORY MAPID=92]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Level 2 is locked until the sewer lever is pulled‚Äîclear %NL%%PURPLE%Mob %WHITE%:%GRAY%  Preserved Dead, Horadrim Ancient, %GRAY%(Lvl 1)%WHITE% Gloom Bat, Feeder%NL%%GOLD%Unique %WHITE%: %GOLD%Icehawk Riftwing %WHITE%%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%GOLD%Quest %WHITE%: %YELLOW%Khalim's Will%WHITE% (access to Khalim's Heart)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Kurast Bazaar, Upper Kurast%NL%%CORAL%Sewers Level 1 %RED%(dungeon)%WHITE%%NAME%}
+ItemDisplay[(key OR rkey) INVENTORY MAPID=92]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Level 2 is locked until the sewer lever is pulled√¢‚Ç¨‚Äùclear %NL%%PURPLE%Mob %WHITE%:%GRAY%  Preserved Dead, Horadrim Ancient, %GRAY%(Lvl 1)%WHITE% Gloom Bat, Feeder%NL%%GOLD%Unique %WHITE%: %GOLD%Icehawk Riftwing %WHITE%%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%GOLD%Quest %WHITE%: %YELLOW%Khalim's Will%WHITE% (access to Khalim's Heart)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Kurast Bazaar, Upper Kurast%NL%%CORAL%Sewers Level 1 %RED%(dungeon)%WHITE%%NAME%}
 
 // MAPID=93 : Sewers Level 2 (Act 3) ok
 ItemDisplay[(key OR rkey) INVENTORY MAPID=93]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Fixed layout. Small central chamber with water/watch for ambushes from pools%NL%%PURPLE%Mob %WHITE%:%GRAY%  Blood Wing, Slime Prince, Minions: Horror%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%GOLD%Quest %WHITE%: %YELLOW%Khalim's Will%WHITE% (Khalim's Heart location)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Sewers Level 1 %BLUE%| %SAGE%Bk%WHITE%: Kurast Bazaar, Upper Kurast%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Sewers Level 2 %RED%(dungeon)%WHITE%%NAME%}
