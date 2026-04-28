@@ -1,20 +1,20 @@
-//UPDATE CONTENTS :  S12_ver
+//UPDATE CONTENTS :  S13_ver
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                      Filter Level                                           //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplayFilterName[]: ÿc5Standard //FILTLVL>0 
-ItemDisplayFilterName[]: ÿc1No ÿc.ThrowingPotionÿc0+ÿc:Ring(M) //FILTLVL>1 OK
-ItemDisplayFilterName[]: +ÿc1No ÿc7Quivers(M)ÿc0+ÿc3CraftArmor+Club(N) //FILTLVL>2
-ItemDisplayFilterName[]: ++ÿc1No ÿc7Claw(M)ÿc0+ÿc;ClassHelmet(M)ÿc0+ÿc:Javel(M) //FILTLVL>3
-ItemDisplayFilterName[]: +++ÿc1No ÿc2NormalSetÿc4(Only Active Sigon) //FILTLVL>4
-ItemDisplayFilterName[]: ++++ÿc1No ÿc7NecHead(M)ÿc0+ÿc!Wand(M) //FILTLVL>5
-ItemDisplayFilterName[]: +++++ÿc1No ÿc7Amulet(M)ÿc0+ÿc+Circlet(M)ÿc0+ÿc:Glove(M) //FILTLVL>6  OK
-ItemDisplayFilterName[]: ++++++ÿc1No ÿc2Sigonÿc0+ÿc.HP/ÿc*MPÿc0+ÿc,Anti //FILTLVL>7 OK
-ItemDisplayFilterName[]: +++++++ÿc1No ÿc8Bolt(Rare)ÿc0+ÿc;R35 //FILTLVL>8 OK
-ItemDisplayFilterName[]: ++++++++ÿc1No ÿc8Arrow(Rare)ÿc0+ÿc4Only GG base Item //FILTLVL>9
-ItemDisplayFilterName[]: +++++++++ÿc1No ÿc3CraftWeaponÿc4(Only Active ETH+Bows(GMB)) //FILTLVL>10
-ItemDisplayFilterName[]: ++++++++++ÿc1No ÿc2AllSet(rin+amu) //FILTLVL>11
+ItemDisplayFilterName[]: Ã¿c5Standard //FILTLVL>0 
+ItemDisplayFilterName[]: Ã¿c1No Ã¿c.ThrowingPotionÃ¿c0+Ã¿c:Ring(M) //FILTLVL>1 OK
+ItemDisplayFilterName[]: +Ã¿c1No Ã¿c7Quivers(M)Ã¿c0+Ã¿c3CraftArmor+Club(N) //FILTLVL>2
+ItemDisplayFilterName[]: ++Ã¿c1No Ã¿c7Claw(M)Ã¿c0+Ã¿c;ClassHelmet(M)Ã¿c0+Ã¿c:Javel(M) //FILTLVL>3
+ItemDisplayFilterName[]: +++Ã¿c1No Ã¿c2NormalSetÃ¿c4(Only Active Sigon) //FILTLVL>4
+ItemDisplayFilterName[]: ++++Ã¿c1No Ã¿c7NecHead(M)Ã¿c0+Ã¿c!Wand(M) //FILTLVL>5
+ItemDisplayFilterName[]: +++++Ã¿c1No Ã¿c7Amulet(M)Ã¿c0+Ã¿c+Circlet(M)Ã¿c0+Ã¿c:Glove(M) //FILTLVL>6  OK
+ItemDisplayFilterName[]: ++++++Ã¿c1No Ã¿c2SigonÃ¿c0+Ã¿c.HP/Ã¿c*MPÃ¿c0+Ã¿c,Anti //FILTLVL>7 OK
+ItemDisplayFilterName[]: +++++++Ã¿c1No Ã¿c8Bolt(Rare)Ã¿c0+Ã¿c;R35 //FILTLVL>8 OK
+ItemDisplayFilterName[]: ++++++++Ã¿c1No Ã¿c8Arrow(Rare)Ã¿c0+Ã¿c4Only GG base Item //FILTLVL>9
+ItemDisplayFilterName[]: +++++++++Ã¿c1No Ã¿c3CraftWeaponÃ¿c4(Only Active ETH+Bows(GMB)) //FILTLVL>10
+ItemDisplayFilterName[]: ++++++++++Ã¿c1No Ã¿c2AllSet(rin+amu) //FILTLVL>11
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                             Alias                                           //
 /////////////////////////////////////////////////////////////////////////////////////////////////
@@ -23,54 +23,54 @@ Alias[MAPS_ALL1]:(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR
 Alias[MAPS_ALL2]:(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19 OR t20 OR t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29 OR t30 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t37 OR t38 OR t39 OR t40 OR t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49 OR t51 OR t52 OR t53 OR t54 OR t55 OR t56 OR t3b OR t57 OR t58)
 Alias[MAPS_ALL_NM]:(t3a OR t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19 OR t20 OR t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29 OR t30 OR t31 OR t32 OR t33 OR t34 OR t36 OR t37 OR t38 OR t39 OR t40 OR t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49 OR t3b)
 Alias[TOWN]:(MAPID=1 OR MAPID=40 OR MAPID=75 OR MAPID=103 OR MAPID=109)
-Alias[BOX_SYMBOL]:%LIGHT_GRAY%—%WHITE%—%CORAL%—%GOLD%—
-Alias[USAGE_SYMBOL_L]:%GOLD%—%CORAL%—%WHITE%—%LIGHT_GRAY%—
-Alias[USAGE_SYMBOL_R]:%LIGHT_GRAY%—%WHITE%—%CORAL%—%GOLD%—
+Alias[BOX_SYMBOL]:%LIGHT_GRAY%â€”%WHITE%â€”%CORAL%â€”%GOLD%â€”
+Alias[USAGE_SYMBOL_L]:%GOLD%â€”%CORAL%â€”%WHITE%â€”%LIGHT_GRAY%â€”
+Alias[USAGE_SYMBOL_R]:%LIGHT_GRAY%â€”%WHITE%â€”%CORAL%â€”%GOLD%â€”
 //%GOLDEN_SYMBOL%
-Alias[GOLDEN_SYMBOL]:%GOLD%——%ORANGE%——%YELLOW%——%WHITE%——%YELLOW%——%ORANGE%——%GOLD%——%ORANGE%——
-Alias[RAINBOW_SYMBOL]:%RED%——%ORANGE%——%YELLOW%——%GREEN%——%BLUE%——%PURPLE%——%RED%——%ORANGE%——%YELLOW%——
-Alias[PURPLE_SYMBOL]:%PURPLE%——%WHITE%——%BLUE%——%GREEN%——%BLUE%——%PURPLE%——
-Alias[GREEN_SYMBOL]:%GREEN%——%DARK_GREEN%——%GOLD%——%WHITE%——%GOLD%——%DARK_GREEN%——%GREEN%——
-Alias[PURPLE2_SYMBOL]:%PURPLE%——%ORANGE%——%GRAY%——%WHITE%——%DARK_GREEN%——
-Alias[PURPLE3_SYMBOL]:%PURPLE%——%ORANGE%——%GREEN%——%WHITE%——%RED%——
-Alias[PURPLE4_SYMBOL]:%PURPLE%——%ORANGE%——%GOLD%——%WHITE%——%GOLD%——%ORANGE%——
-Alias[G_SYMBOL_L]:%GREEN%‹%GREEN%‹%PURPLE%—%TEAL%—%SAGE%—%WHITE%—
-Alias[G_SYMBOL_R]:%WHITE%—%SAGE%—%TEAL%—%PURPLE%—%GREEN%‹%GREEN%‹
-Alias[RED_SYMBOL]:%RED%——%ORANGE%——%YELLOW%——%RED%——%GREEN%——%BLUE%——%PURPLE%——
-Alias[GOLD_SYMBOL]:%GOLD%————————————————
-Alias[GAMBLE1_SYMBOL]:%RED%——%ORANGE%——%YELLOW%——%GREEN%——%BLUE%——%CORAL%——%PURPLE%——
-Alias[GAMBLE2_SYMBOL]:%GOLD%——%ORANGE%——%YELLOW%——%GREEN%——%BLUE%——%WHITE%——%TAN%——
-Alias[DROP_SYMBOL_L]:%GREEN%›%GREEN%›%PURPLE%—%TEAL%—%SAGE%—%WHITE%— 
-Alias[DROP_SYMBOL_R]:%WHITE%—%SAGE%—%TEAL%—%PURPLE%—%GREEN%›%GREEN%› 
-Alias[SOC_SYMBOL_L]:%RED%—%ORANGE%—%GREEN%— 
-Alias[SOC_SYMBOL_R]:%GREEN%—%ORANGE%—%RED%— 
-Alias[RIN_SYMBOL_L]:%WHITE%——%RED%——%ORANGE%—— 
-Alias[RIN_SYMBOL_R]: %ORANGE%——%RED%——%WHITE%——
-Alias[CR_SYMBOL_L]:%GREEN%—%GOLD%—%ORANGE%— 
-Alias[CR_SYMBOL_R]: %ORANGE%—%GOLD%—%GREEN%— 
-Alias[FUL_SYMBOL_L]:%PURPLE%—%WHITE%—%BLUE%—%GREEN%—%BLUE%—%PURPLE%— 
-Alias[FUL_SYMBOL_R]: %PURPLE%—%BLUE%—%GREEN%—%BLUE%—%WHITE%—%PURPLE%—
-Alias[AQV_SYMBOL_L]:%GREEN%•%ORANGE%•%YELLOW%•%PURPLE%• 
-Alias[AQV_SYMBOL_R]: %PURPLE%•%ORANGE%•%YELLOW%•%GREEN%•
-Alias[CIR_SYMBOL]:%CORAL%•••••
-Alias[R1_SYMBOL]:%TEAL%••••
-Alias[R2_SYMBOL]:%PURPLE%••••
-Alias[R3_SYMBOL]:%SAGE%••••
-Alias[R4_SYMBOL]:%GREEN%••••
-Alias[R5_SYMBOL]:%DARK_GREEN%••••
-Alias[R6_SYMBOL]:%ORANGE%••••
-Alias[RUNE_SYMBOL_L]:%RED%•%YELLOW%•%RED%•%ORANGE%•%GREEN%•%BLUE%•%PURPLE%• 
-Alias[RUNE_SYMBOL_R]: %PURPLE%•%BLUE%•%GREEN%•%ORANGE%•%YELLOW%•%RED%•%RED%•
-Alias[SET1_SYMBOL]:%GREEN%•%SAGE%•%GREEN%•%WHITE%•
-Alias[SET2_SYMBOL]:%PURPLE%•%RED%•%WHITE%•%PURPLE%•
-Alias[SPD1_SYMBOL]:%GREEN%—%WHITE%—%BLUE%— 
-Alias[SPD2_SYMBOL]: %BLUE%—%WHITE%—%GREEN%—
-Alias[R7_SYMBOL]:%ORANGE%•%PURPLE%•
-Alias[R8_SYMBOL]:%PURPLE%•%ORANGE%•
-Alias[R9_SYMBOL]:%RED%•%ORANGE%•%YELLOW%•%GREEN%•%BLUE%•%PURPLE%•
-Alias[RUNE1_SYMBOL]:%GOLD%•%WHITE%•%DARK_GREEN%•%BLUE%• 
-Alias[R10_SYMBOL]:%RED%——%PURPLE%——%ORANGE%——
-Alias[R11_SYMBOL]:%ORANGE%——%PURPLE%——%RED%——
+Alias[GOLDEN_SYMBOL]:%GOLD%â€”â€”%ORANGE%â€”â€”%YELLOW%â€”â€”%WHITE%â€”â€”%YELLOW%â€”â€”%ORANGE%â€”â€”%GOLD%â€”â€”%ORANGE%â€”â€”
+Alias[RAINBOW_SYMBOL]:%RED%â€”â€”%ORANGE%â€”â€”%YELLOW%â€”â€”%GREEN%â€”â€”%BLUE%â€”â€”%PURPLE%â€”â€”%RED%â€”â€”%ORANGE%â€”â€”%YELLOW%â€”â€”
+Alias[PURPLE_SYMBOL]:%PURPLE%â€”â€”%WHITE%â€”â€”%BLUE%â€”â€”%GREEN%â€”â€”%BLUE%â€”â€”%PURPLE%â€”â€”
+Alias[GREEN_SYMBOL]:%GREEN%â€”â€”%DARK_GREEN%â€”â€”%GOLD%â€”â€”%WHITE%â€”â€”%GOLD%â€”â€”%DARK_GREEN%â€”â€”%GREEN%â€”â€”
+Alias[PURPLE2_SYMBOL]:%PURPLE%â€”â€”%ORANGE%â€”â€”%GRAY%â€”â€”%WHITE%â€”â€”%DARK_GREEN%â€”â€”
+Alias[PURPLE3_SYMBOL]:%PURPLE%â€”â€”%ORANGE%â€”â€”%GREEN%â€”â€”%WHITE%â€”â€”%RED%â€”â€”
+Alias[PURPLE4_SYMBOL]:%PURPLE%â€”â€”%ORANGE%â€”â€”%GOLD%â€”â€”%WHITE%â€”â€”%GOLD%â€”â€”%ORANGE%â€”â€”
+Alias[G_SYMBOL_L]:%GREEN%â€¹%GREEN%â€¹%PURPLE%â€”%TEAL%â€”%SAGE%â€”%WHITE%â€”
+Alias[G_SYMBOL_R]:%WHITE%â€”%SAGE%â€”%TEAL%â€”%PURPLE%â€”%GREEN%â€¹%GREEN%â€¹
+Alias[RED_SYMBOL]:%RED%â€”â€”%ORANGE%â€”â€”%YELLOW%â€”â€”%RED%â€”â€”%GREEN%â€”â€”%BLUE%â€”â€”%PURPLE%â€”â€”
+Alias[GOLD_SYMBOL]:%GOLD%â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
+Alias[GAMBLE1_SYMBOL]:%RED%â€”â€”%ORANGE%â€”â€”%YELLOW%â€”â€”%GREEN%â€”â€”%BLUE%â€”â€”%CORAL%â€”â€”%PURPLE%â€”â€”
+Alias[GAMBLE2_SYMBOL]:%GOLD%â€”â€”%ORANGE%â€”â€”%YELLOW%â€”â€”%GREEN%â€”â€”%BLUE%â€”â€”%WHITE%â€”â€”%TAN%â€”â€”
+Alias[DROP_SYMBOL_L]:%GREEN%â€º%GREEN%â€º%PURPLE%â€”%TEAL%â€”%SAGE%â€”%WHITE%â€” 
+Alias[DROP_SYMBOL_R]:%WHITE%â€”%SAGE%â€”%TEAL%â€”%PURPLE%â€”%GREEN%â€º%GREEN%â€º 
+Alias[SOC_SYMBOL_L]:%RED%â€”%ORANGE%â€”%GREEN%â€” 
+Alias[SOC_SYMBOL_R]:%GREEN%â€”%ORANGE%â€”%RED%â€” 
+Alias[RIN_SYMBOL_L]:%WHITE%â€”â€”%RED%â€”â€”%ORANGE%â€”â€” 
+Alias[RIN_SYMBOL_R]: %ORANGE%â€”â€”%RED%â€”â€”%WHITE%â€”â€”
+Alias[CR_SYMBOL_L]:%GREEN%â€”%GOLD%â€”%ORANGE%â€” 
+Alias[CR_SYMBOL_R]: %ORANGE%â€”%GOLD%â€”%GREEN%â€” 
+Alias[FUL_SYMBOL_L]:%PURPLE%â€”%WHITE%â€”%BLUE%â€”%GREEN%â€”%BLUE%â€”%PURPLE%â€” 
+Alias[FUL_SYMBOL_R]: %PURPLE%â€”%BLUE%â€”%GREEN%â€”%BLUE%â€”%WHITE%â€”%PURPLE%â€”
+Alias[AQV_SYMBOL_L]:%GREEN%â€¢%ORANGE%â€¢%YELLOW%â€¢%PURPLE%â€¢ 
+Alias[AQV_SYMBOL_R]: %PURPLE%â€¢%ORANGE%â€¢%YELLOW%â€¢%GREEN%â€¢
+Alias[CIR_SYMBOL]:%CORAL%â€¢â€¢â€¢â€¢â€¢
+Alias[R1_SYMBOL]:%TEAL%â€¢â€¢â€¢â€¢
+Alias[R2_SYMBOL]:%PURPLE%â€¢â€¢â€¢â€¢
+Alias[R3_SYMBOL]:%SAGE%â€¢â€¢â€¢â€¢
+Alias[R4_SYMBOL]:%GREEN%â€¢â€¢â€¢â€¢
+Alias[R5_SYMBOL]:%DARK_GREEN%â€¢â€¢â€¢â€¢
+Alias[R6_SYMBOL]:%ORANGE%â€¢â€¢â€¢â€¢
+Alias[RUNE_SYMBOL_L]:%RED%â€¢%YELLOW%â€¢%RED%â€¢%ORANGE%â€¢%GREEN%â€¢%BLUE%â€¢%PURPLE%â€¢ 
+Alias[RUNE_SYMBOL_R]: %PURPLE%â€¢%BLUE%â€¢%GREEN%â€¢%ORANGE%â€¢%YELLOW%â€¢%RED%â€¢%RED%â€¢
+Alias[SET1_SYMBOL]:%GREEN%â€¢%SAGE%â€¢%GREEN%â€¢%WHITE%â€¢
+Alias[SET2_SYMBOL]:%PURPLE%â€¢%RED%â€¢%WHITE%â€¢%PURPLE%â€¢
+Alias[SPD1_SYMBOL]:%GREEN%â€”%WHITE%â€”%BLUE%â€” 
+Alias[SPD2_SYMBOL]: %BLUE%â€”%WHITE%â€”%GREEN%â€”
+Alias[R7_SYMBOL]:%ORANGE%â€¢%PURPLE%â€¢
+Alias[R8_SYMBOL]:%PURPLE%â€¢%ORANGE%â€¢
+Alias[R9_SYMBOL]:%RED%â€¢%ORANGE%â€¢%YELLOW%â€¢%GREEN%â€¢%BLUE%â€¢%PURPLE%â€¢
+Alias[RUNE1_SYMBOL]:%GOLD%â€¢%WHITE%â€¢%DARK_GREEN%â€¢%BLUE%â€¢ 
+Alias[R10_SYMBOL]:%RED%â€”â€”%PURPLE%â€”â€”%ORANGE%â€”â€”
+Alias[R11_SYMBOL]:%ORANGE%â€”â€”%PURPLE%â€”â€”%RED%â€”â€”
 //%R10_SYMBOL%  %RED%H%GREEN%i%BLUE%g%ORANGE%h %GOLD%Resi %WHITE%Boots  %R11_SYMBOL%
 //%RUNE1_SYMBOL%
 //%R9_SYMBOL%
@@ -285,16 +285,16 @@ ItemDisplay[NMAG bhm !ID SHOP]:%GAMBLE1_SYMBOL%%NL% 	%GREEN%Natalya's Totem%NL%%
 ItemDisplay[NMAG ghm !ID SHOP]:%GAMBLE1_SYMBOL%%NL% 	%GREEN%Guillaume's Face%NL%%GREEN%Ondal's Almighty%NL%%NL%%YELLOW%Valkyrie Wing%ORANGE%Nightwing's Veil%NL%%RED%Veil of Steel%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG crn !ID SHOP]:%GAMBLE1_SYMBOL%%NL% 	%GREEN%Griswold's Valor%NL%%NL%%RED%Crown of Ages%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (ci0 OR ci1) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% 	%GREEN%M'avina's True Sight%NL%%NL%%ORANGE%Kira's Guardian%NL%%RED%Griffon's Eye%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (qui) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Dark Adherent%NL%%NL%%GOLD%Ormus' Robes%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (lea) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Skin of the Vipermagi%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (stu) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%The Gladiator's Bane%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (scl) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Natalya's Shadow%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (chn) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Shaftstop%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (brs) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Venom Ward%NL%%GOLD%Duriel's Shell%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (qui) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Dark Adherent%NL%%NL%%GOLD%Ormus' Robes%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (lea) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Skin of the Vipermagi%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (stu) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%The Gladiator's Bane%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (scl) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Natalya's Shadow%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (chn) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Shaftstop%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (brs) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Venom Ward%NL%%GOLD%Duriel's Shell%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 ItemDisplay[NMAG (spl) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% 	%GREEN%Sazabi's Ghost Liberator%NL%%NL%%ORANGE%Skullder's Ire%NL%%RED%Arkaine's Valor%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (plt) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Guardian Angel%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (fld) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%M'avina's Embrace%NL%%NL%%GOLD%Toothrow%NL%%GOLD%Leviathan%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (gth) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Tal Rasha's Guardianship%NL%%NL%%GOLD%Atma's Wail%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (plt) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Guardian Angel%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (fld) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%M'avina's Embrace%NL%%NL%%GOLD%Toothrow%NL%%GOLD%Leviathan%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (gth) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Tal Rasha's Guardianship%NL%%NL%%GOLD%Atma's Wail%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 ItemDisplay[NMAG (ltp) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %WHITE%Heavenly Garb%NL%%ORANGE%Que-Hegan's Wisdom%NL%%RED%Purgatory%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (ful) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%Trang-Oul's Scales%NL%%GREEN%Aldur's Deception%NL%%NL%%WHITE%Goldskin%NL%%ORANGE%Black Hades%NL%%RED%Steel Carapace%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (aar) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%Griswold's Heart%NL%%GREEN%Immortal King's Soul Cage%NL%%NL%%WHITE%Corpsemourn%NL%%ORANGE%Templar's Might%NL%%RED%Tyrael's Might%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
@@ -303,108 +303,108 @@ ItemDisplay[NMAG (bsh) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%	Lidless Wall%NL%%
 ItemDisplay[NMAG (tow) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%Gerke's Sanctuary%NL%%RED%Medusa's Gaze%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (gts) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%Taebaek's Glory%NL%%NL%%ORANGE%Radament's Sphere%NL%%RED%Spirit Ward%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 //s10
-ItemDisplay[NMAG (lgl) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Laying of Hands%NL%%NL%%GOLD%Venom Grip%NL%%ORANGE%Titan's Grip%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (lgl) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Laying of Hands%NL%%NL%%GOLD%Venom Grip%NL%%ORANGE%Titan's Grip%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 ItemDisplay[NMAG (vgl) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%Magnus' Skin%NL%%NL%%ORANGE%Gravepalm%NL%%RED%Dracul's Grasp%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (mgl) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%Trang-Oul's Claws%NL%%NL%%ORANGE%Ghoulhide%NL%%RED%Soul Drainer%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (tgl) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%M'avina's Icy Clutch%NL%%NL%%WHITE%Magefist%NL%%ORANGE%Lava Gout%NL%%RED%Occultist %NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (hgl) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%Immortal King's Forge%NL%%NL%%WHITE%Frostburn%NL%%ORANGE%Hellmouth%NL%%RED%Steelrend %NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (lbt) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Rite of Passage%NL%%NL%%GOLD%Infernostride%NL%%GOLD%Merman's Sprocket%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (vbt) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Waterwalk%NL%%GOLD%Sandstorm Trek%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (lbt) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Rite of Passage%NL%%NL%%GOLD%Infernostride%NL%%GOLD%Merman's Sprocket%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (vbt) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Waterwalk%NL%%GOLD%Sandstorm Trek%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 ItemDisplay[NMAG (mbt) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%Natalya's Soul%NL%%NL%%ORANGE%Silkweave%NL%%RED%Marrowwalk %NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (tbt) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%Aldur's Advance%NL%%NL%%ORANGE%	Goblin Toe%NL%%RED%War Traveler %NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (hbt) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%Immortal King's Pillar%NL%%NL%%ORANGE%	Gore Rider%NL%%RED%Shadow Dancer %NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (lbl) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%	String of Ears%NL%%RED%Arachnid Mesh %NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (vbl) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%M'avina's Tenet%NL%%NL%%ORANGE%	Razortail%NL%%RED%Nosferatu's Coil %NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (mbl) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%Tal Rasha's Fine-Spun Cloth%NL%%GREEN%Credendum%NL%%NL%%ORANGE%	Gloom's Trap%NL%%RED%	Verdungo's Hearty Cord %NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (tbl) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%%GREEN%Wilhelm's Pride%NL%%GREEN%Trang-Oul's Girth%NL%%NL%%ORANGE%	Goldwrap%NL%%RED%	Snowclash %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (tbl) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%%GREEN%Wilhelm's Pride%NL%%GREEN%Trang-Oul's Girth%NL%%NL%%ORANGE%	Goldwrap%NL%%RED%	Snowclash %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 //s11
-ItemDisplay[NMAG (hbl) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Siggard's Staunch %NL% %GREEN%Immortal King's Detail%NL%%NL%%RED%Thundergod's Vigor%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (hbl) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Siggard's Staunch %NL% %GREEN%Immortal King's Detail%NL%%NL%%RED%Thundergod's Vigor%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 //s11
 ItemDisplay[NMAG (dr1) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GOLD%Fenris%NL%%RED%	Cerebus' Bite %NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (dr3) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Aldur's Stony Gaze%NL%%NL%%GOLD%	Spirit Keeper%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (dr4) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Ravenlore%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (dr3) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Aldur's Stony Gaze%NL%%NL%%GOLD%	Spirit Keeper%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (dr4) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Ravenlore%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 ItemDisplay[NMAG (dr5) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%Ursa's Nightmare%NL%%RED%	Jalal's Mane %NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (ba1) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Cyclopean Roar%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (ba1) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Cyclopean Roar%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 //s11
-ItemDisplay[NMAG (ba2) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Wildspeaker%NL%%RED%Wolfhowl%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (ba3) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Demonhorn's Edge%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (ba2) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Wildspeaker%NL%%RED%Wolfhowl%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (ba3) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Demonhorn's Edge%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 ItemDisplay[NMAG (ba4) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %RED%Halaberd's Reign %NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (ba5) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%Immortal King's Will%NL%%NL%%ORANGE%Raekor's Virtue%NL%%RED%Arreat's Face %NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (pa2) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Alma Negra%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (pa2) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Alma Negra%NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 ItemDisplay[NMAG (pa4) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%Dragonscale%NL%%RED%Herald of Zakarum %NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 //s11
 ItemDisplay[NMAG (pa5) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %RED%Skywarden %NL%%GREEN%Griswold's Honor %NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (ne1) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Kalan's Legacy %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (ne2) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Scared Totem  %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (ne3) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %RED%Martyrdom  %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (ne4) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Trang-Oul's Wing %NL%%NL%%RED%Boneflame  %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (ne1) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Kalan's Legacy %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (ne2) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Scared Totem  %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (ne3) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %RED%Martyrdom  %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (ne4) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Trang-Oul's Wing %NL%%NL%%RED%Boneflame  %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 ItemDisplay[NMAG (ne5) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%Darkforce Spawn%NL%%RED%Homunculus %NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 
-ItemDisplay[NMAG (axe) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Rune Master %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (btx) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Hellslayer %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (gax) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Messerschmidt's Reaver %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (spc) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Demon Limb %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (mst) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Aldur's Rhythm %NL%%NL%%GOLD%Baranar's Star %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (fla) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Horizon's Tornado%NL%%GOLD%Stormlash %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (axe) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Rune Master %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (btx) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Hellslayer %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (gax) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Messerschmidt's Reaver %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (spc) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Demon Limb %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (mst) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Aldur's Rhythm %NL%%NL%%GOLD%Baranar's Star %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (fla) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%Horizon's Tornado%NL%%GOLD%Stormlash %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 
 ItemDisplay[NMAG (whm) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%Stone Crusher%NL%%RED%Schaefer's Hammer%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (mau) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%Immortal King's Stone Crusher %NL%%NL%%RED%Windhammer%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (gma) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %WHITE%The Gavel of Pain%NL%%ORANGE%Earth Shifter%NL%%RED%The Cranium Basher%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (crs) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%Lightsabre%NL%%RED%Azurewrath%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (lsd) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Sazabi's Cobalt Redeemer %NL%%NL% %GOLD%Frostwind%NL%%GOLD%	Plague Bearer %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (clm) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Leoric's Mithril Bane %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (gis) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Flamebellow %NL%%GOLD%	The Vile Husk %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (bsw) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Doombringer %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (lsd) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GREEN%Sazabi's Cobalt Redeemer %NL%%NL% %GOLD%Frostwind%NL%%GOLD%	Plague Bearer %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (clm) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Leoric's Mithril Bane %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (gis) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Flamebellow %NL%%GOLD%	The Vile Husk %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (bsw) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Doombringer %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 ItemDisplay[NMAG (flb) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%Bul-Kathos' Tribal Guardian%NL%%NL%%GOLD%Todesfaelle Flamme%NL%%RED%Odium%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (gsd) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%Bul-Kathos' Sacred Charge%NL%%NL%%RED%The Grandfather%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (dgr) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Wizardspike %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (kri) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Fleshripper %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (bld) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Ghostflame %NL%%GOLD%	Stormspike %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (tax) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Gimmershred %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (bkf) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Warshrike %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (dgr) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Wizardspike %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (kri) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Fleshripper %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (bld) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Ghostflame %NL%%GOLD%	Stormspike %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (tax) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Gimmershred %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (bkf) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Warshrike %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 //s11
 ItemDisplay[NMAG (bal) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GOLD%	Achilles Strike %NL%%RED%Lacerator%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 
-ItemDisplay[NMAG (ssp) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Demon's Arch %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (glv) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Wraith Flight %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (tsp) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Gargoyle's Bite %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (ssp) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Demon's Arch %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (glv) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Wraith Flight %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (tsp) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Gargoyle's Bite %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 
-ItemDisplay[NMAG (spt) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %RED%	Uldyssian's Awakening %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (spt) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %RED%	Uldyssian's Awakening %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 ItemDisplay[NMAG (pik) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %RED%Steel Pillar%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 
-ItemDisplay[NMAG (bar) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Bonehew %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (bar) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Bonehew %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 ItemDisplay[NMAG (scy) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%Athena's Wrath%NL%%RED%The Reaper's Toll%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (pax) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Tomb Reaver %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (pax) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%	Tomb Reaver %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 ItemDisplay[NMAG (wsc) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%Stormspire%NL%%RED%	Grim's Burning Dead%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (sbb) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %RED%	Witchwild String%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (lbb) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %RED%	Eaglehorn %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (swb) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%  Widowmaker %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (lbb) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %RED%	Eaglehorn %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (swb) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %GOLD%  Widowmaker %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 ItemDisplay[NMAG (lwb) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %RED%	Windforce%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (mxb) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %RED%  Pus Spitter %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (hxb) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  Hellrack %NL%%RED%  	Buriza-Do Kyanon %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (rxb) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  Gut Siphon %NL%%RED%  	Demon Machine %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (cst) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  %GREEN%Naj's Puzzler%NL%%NL%Ondal's Wisdom %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (mxb) !ID SHOP]:%GAMBLE2_SYMBOL%%NL% %RED%  Pus Spitter %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (hxb) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  Hellrack %NL%%RED%  	Buriza-Do Kyanon %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (rxb) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  Gut Siphon %NL%%RED%  	Demon Machine %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (cst) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  %GREEN%Naj's Puzzler%NL%%NL%Ondal's Wisdom %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 ItemDisplay[NMAG (bst) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %RED%	Brimstone Rain%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (wst) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%Skull Collector%NL%%RED%	Mang Song's Lesson%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (bwn) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  Arm of King Leoric %NL%%GOLD% Boneshade %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (bwn) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  Arm of King Leoric %NL%%GOLD% Boneshade %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 ItemDisplay[NMAG (gwn) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%Blackhand Key%NL%%RED%	Death's Web%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (scp) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  The Redeemer %NL%%RED%  	Heaven's Light %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (gsc) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  Akarat's Devotion %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (wsp) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GREEN%Griswold's Redemption%NL%%NL%%GOLD%  Hand of Blessed Light %NL%%RED%  	Astreon's Iron Ward %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (ktr) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  Mage Slayer  %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (ces) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %RED%  Shadow Killer  %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (clw) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %RED%  Firelizard's Talons  %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (scp) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  The Redeemer %NL%%RED%  	Heaven's Light %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (gsc) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  Akarat's Devotion %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (wsp) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GREEN%Griswold's Redemption%NL%%NL%%GOLD%  Hand of Blessed Light %NL%%RED%  	Astreon's Iron Ward %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (ktr) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  Mage Slayer  %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (ces) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %RED%  Shadow Killer  %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (clw) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %RED%  Firelizard's Talons  %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 
 ItemDisplay[NMAG (btl) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%Stalker's Cull%NL%%RED%	Bartuc's Cut-Throat%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (ob1) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  Tempest %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (ob1) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  Tempest %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 //s11
 ItemDisplay[NMAG (ob2) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GOLD%  Skorn  %NL%%RED%	Eschuta's Temper%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (ob5) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %GREEN%Tal Rasha's Lidless Eye%NL%%NL% %ORANGE%	The Oculus%NL% %RED%Death's Fathom%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
-ItemDisplay[NMAG (am1) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %RED% Blood Raven's Charge %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (am1) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %RED% Blood Raven's Charge %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 //s10
-ItemDisplay[NMAG (am2) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GREEN%M'avina's Caster%NL%%NL%%GOLD%  Lycander's Aim %NL%%ORANGE%  Ebonbane %NL% %GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (am3) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  Stoneraven %NL% %GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (am4) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD% Lycander's Flank %NL%%GOLD%  Zerae's Resolve %NL% %GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (am2) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GREEN%M'avina's Caster%NL%%NL%%GOLD%  Lycander's Aim %NL%%ORANGE%  Ebonbane %NL% %GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (am3) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD%  Stoneraven %NL% %GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (am4) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %GOLD% Lycander's Flank %NL%%GOLD%  Zerae's Resolve %NL% %GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 ItemDisplay[NMAG (am5) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%	Titan's Revenge%NL% %RED%Thunderstroke%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 //s10
 ItemDisplay[NMAG (rng) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%Wraithskin%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
@@ -412,13 +412,13 @@ ItemDisplay[NMAG (lrg) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%Twilight's Reflect
 ItemDisplay[NMAG (dr2) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%Denmother%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 ItemDisplay[NMAG (dir) !ID SHOP]:%GAMBLE1_SYMBOL%%NL% %ORANGE%Shatterblade%NL%%GAMBLE1_SYMBOL%%NL%%RUNE_SYMBOL_L% %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RUNE_SYMBOL_L%
 //s11
-ItemDisplay[NMAG (axf) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %RED% Whispering Mirage %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (axf) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %RED% Whispering Mirage %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 
 //s12
-ItemDisplay[NMAG (aqv) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %RED%Doom's Finger%NL% %RED%Basilisk's Quill%NL% %RED%Aetherwing %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
-ItemDisplay[NMAG (cqv) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %RED%Frozen Sorrow%NL% %RED%Bannerlord's Call%NL% %RED%Abyssal Ward %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%•••• %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%••••
+ItemDisplay[NMAG (aqv) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %RED%Doom's Finger%NL% %RED%Basilisk's Quill%NL% %RED%Aetherwing %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
+ItemDisplay[NMAG (cqv) !ID SHOP]:%GAMBLE2_SYMBOL%%NL%  %RED%Frozen Sorrow%NL% %RED%Bannerlord's Call%NL% %RED%Abyssal Ward %NL%%GAMBLE2_SYMBOL%%NL%%GOLD%â€¢â€¢â€¢â€¢ %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %GOLD%â€¢â€¢â€¢â€¢
 
-ItemDisplay[NMAG (WEAPON OR ARMOR) !ID SHOP]: %NL%%LIGHT_GRAY%•••• %WHITE%  No high rolls  %LIGHT_GRAY%•••• %NL%%NL%%CORAL%[%GRAY%%NAME%%CORAL%]
+ItemDisplay[NMAG (WEAPON OR ARMOR) !ID SHOP]: %NL%%LIGHT_GRAY%â€¢â€¢â€¢â€¢ %WHITE%  No high rolls  %LIGHT_GRAY%â€¢â€¢â€¢â€¢ %NL%%NL%%CORAL%[%GRAY%%NAME%%CORAL%]
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                       POTION                                                //
@@ -820,7 +820,7 @@ ItemDisplay[(key OR rkey) INVENTORY MAPID=91]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tip
 
 
 // MAPID=92 : Sewers Level 1 (Act 3) ok
-ItemDisplay[(key OR rkey) INVENTORY MAPID=92]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Level 2 is locked until the sewer lever is pulledâ€”clear %NL%%PURPLE%Mob %WHITE%:%GRAY%  Preserved Dead, Horadrim Ancient, %GRAY%(Lvl 1)%WHITE% Gloom Bat, Feeder%NL%%GOLD%Unique %WHITE%: %GOLD%Icehawk Riftwing %WHITE%%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%GOLD%Quest %WHITE%: %YELLOW%Khalim's Will%WHITE% (access to Khalim's Heart)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Kurast Bazaar, Upper Kurast%NL%%CORAL%Sewers Level 1 %RED%(dungeon)%WHITE%%NAME%}
+ItemDisplay[(key OR rkey) INVENTORY MAPID=92]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Level 2 is locked until the sewer lever is pulledÃ¢â‚¬â€clear %NL%%PURPLE%Mob %WHITE%:%GRAY%  Preserved Dead, Horadrim Ancient, %GRAY%(Lvl 1)%WHITE% Gloom Bat, Feeder%NL%%GOLD%Unique %WHITE%: %GOLD%Icehawk Riftwing %WHITE%%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%GOLD%Quest %WHITE%: %YELLOW%Khalim's Will%WHITE% (access to Khalim's Heart)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: None %BLUE%| %SAGE%Bk%WHITE%: Kurast Bazaar, Upper Kurast%NL%%CORAL%Sewers Level 1 %RED%(dungeon)%WHITE%%NAME%}
 
 // MAPID=93 : Sewers Level 2 (Act 3) ok
 ItemDisplay[(key OR rkey) INVENTORY MAPID=93]:%GRAY%Key%GRAY%[Maptip]{%GREEN%Tips %WHITE%:  %GRAY%Fixed layout. Small central chamber with water/watch for ambushes from pools%NL%%PURPLE%Mob %WHITE%:%GRAY%  Blood Wing, Slime Prince, Minions: Horror%NL%%PURPLE%imun. %WHITE%: %BLUE%Cold%WHITE%, %YELLOW%Lightning%NL%%GOLD%Quest %WHITE%: %YELLOW%Khalim's Will%WHITE% (Khalim's Heart location)%NL%%TEAL%Location %WHITE%:  %SAGE%Fw%WHITE%: Sewers Level 1 %BLUE%| %SAGE%Bk%WHITE%: Kurast Bazaar, Upper Kurast%NL%%TEAL%Layout %WHITE%:%ORANGE%  %CORAL%Sewers Level 2 %RED%(dungeon)%WHITE%%NAME%}
@@ -965,7 +965,7 @@ ItemDisplay[MAG cm3p !ID]:%MAP-97%%R6_SYMBOL%    %BLUE%Grand %ORANGE%%CORAL%Char
 ItemDisplay[MAG cm1 !ID]:%MAP-97%%R4_SYMBOL%    %BLUE%Small %WHITE%%TEAL%Charm %ORANGE%[L%ILVL%]    %R4_SYMBOL%
 ItemDisplay[MAG cm2 !ID]:%MAP-97%%R5_SYMBOL%    %BLUE%Large %WHITE%%LIGHT_GRAY%Charm %ORANGE%[L%ILVL%]    %R5_SYMBOL%
 ItemDisplay[MAG cm3 !ID]:%MAP-97%%R6_SYMBOL%    %BLUE%Grand %ORANGE%%CORAL%Charm %WHITE%[L%ILVL%]    %R6_SYMBOL%
-ItemDisplay[MAG jew !ID]:%MAP-6F%%WHITE%••••    %BLUE%%NAME% %ORANGE%[L%ILVL%]    %WHITE%••••
+ItemDisplay[MAG jew !ID]:%MAP-6F%%WHITE%â€¢â€¢â€¢â€¢    %BLUE%%NAME% %ORANGE%[L%ILVL%]    %WHITE%â€¢â€¢â€¢â€¢
 ////Unique Charms
 ItemDisplay[UNI !ID cm1]:%BORDER-62%%GOLD%@@%ORANGE%@@%WHITE%@@%ORANGE%@@%GOLD%@@    %TEAL%Annihilius    %GOLD%@@%ORANGE%@@%WHITE%@@%ORANGE%@@%GOLD%@@ 
 ItemDisplay[UNI !ID cm2]:%BORDER-62%%GOLD%@@%ORANGE%@@%WHITE%@@%ORANGE%@@%GOLD%@@    %TEAL%Hellfire Torch    %GOLD%@@%ORANGE%@@%WHITE%@@%ORANGE%@@%GOLD%@@ 
@@ -1803,7 +1803,7 @@ ItemDisplay[toa !INVENTORY]: %MAP-0B%%PURPLE%O%RED%--%ORANGE%--%YELLOW%--%GREEN%
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                   PD2 Corruption Items                                      //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[wss INVENTORY]:%GREEN%‹%GREEN%‹%PURPLE%—%TEAL%—%SAGE%—%WHITE%—  %ORANGE%Worldstone %GOLD%Shard%WHITE%* %ORANGE%(%QTY%)  %WHITE%—%SAGE%—%TEAL%—%PURPLE%—%GREEN%›%GREEN%›{%NL%%ORANGE%Pdr-%GRAY%+5%:%YELLOW%Rg%NL%%RED%Cb/Ds-%GRAY%Wp(20~30%) %YELLOW%Gl(/10%)%NL%%GREEN%Frw-%GRAY%+15%:%YELLOW%Bt%NL%%TEAL%Fcr-%GRAY%+20%:%WHITE%Wp,%GRAY%+10%:%YELLOW%Gl Rg Am%NL%%YELLOW%Ias-%YELLOW%(10%):Gl Bl Qv%NL%%CORAL%Mres-%GRAY%+2%:%SAGE%Bl Am Bt%NL%%GREEN%Alsk-%SAGE%Wp(Cast) Am Qv Sh%NL%%NL%%WHITE%++%LIGHT_GRAY%(E60-80)+ITD %GRAY%FCR10+Ele5%NL%%GREEN%Wp-%RED%#1%SAGE%(E80-120)+IAS20 %RED%#2%YELLOW%(E50-70)+DS25 %RED%#3%WHITE%(E80-120)+A250%NL%}
+ItemDisplay[wss INVENTORY]:%GREEN%â€¹%GREEN%â€¹%PURPLE%â€”%TEAL%â€”%SAGE%â€”%WHITE%â€”  %ORANGE%Worldstone %GOLD%Shard%WHITE%* %ORANGE%(%QTY%)  %WHITE%â€”%SAGE%â€”%TEAL%â€”%PURPLE%â€”%GREEN%â€º%GREEN%â€º{%NL%%ORANGE%Pdr-%GRAY%+5%:%YELLOW%Rg%NL%%RED%Cb/Ds-%GRAY%Wp(20~30%) %YELLOW%Gl(/10%)%NL%%GREEN%Frw-%GRAY%+15%:%YELLOW%Bt%NL%%TEAL%Fcr-%GRAY%+20%:%WHITE%Wp,%GRAY%+10%:%YELLOW%Gl Rg Am%NL%%YELLOW%Ias-%YELLOW%(10%):Gl Bl Qv%NL%%CORAL%Mres-%GRAY%+2%:%SAGE%Bl Am Bt%NL%%GREEN%Alsk-%SAGE%Wp(Cast) Am Qv Sh%NL%%NL%%WHITE%++%LIGHT_GRAY%(E60-80)+ITD %GRAY%FCR10+Ele5%NL%%GREEN%Wp-%RED%#1%SAGE%(E80-120)+IAS20 %RED%#2%YELLOW%(E50-70)+DS25 %RED%#3%WHITE%(E80-120)+A250%NL%}
 ItemDisplay[lbox INVENTORY]:%RED%P%ORANGE%u%YELLOW%z%GREEN%z%BLUE%l%PURPLE%e %RED%Box%WHITE%* %GREEN%(%QTY%){%RED%For all items but, much valuable than piece%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items%NL%}
 ItemDisplay[lpp INVENTORY]:%GOLD%Puzzle %WHITE%Piece%WHITE%* %PURPLE%(%QTY%){%RED%For rare, craft items%NL%%YELLOW%Others %WHITE%soc : %GREEN%1-2 %WHITE%(based item)%NL%%RED%(Two handed)%YELLOW% weapon %WHITE%(Non %TAN%uni/%GREEN%set%WHITE%) %WHITE%soc : %GREEN%2-4 %WHITE%(based item)%NL%%NL%%GOLD%sockets items (not uniques,sets) items%NL%}
 ItemDisplay[lmal INVENTORY]:%GOLD%larzuks %BLUE%malus{%NL%%YELLOW%Others %WHITE%soc : %GREEN%1 %WHITE%(based item)%NL%}
@@ -1818,14 +1818,14 @@ ItemDisplay[lmal !INVENTORY]:%DROP_SYMBOL_L%%WHITE%[    %GOLD%larzuks %BLUE%malu
 //                                      PD2 ITEM                                              //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[rkey !INVENTORY]:%SOUNDID-4717%%MAP-0B%%DROP_SYMBOL_L%%WHITE%[ %GOLD%%NAME% %WHITE%]%DROP_SYMBOL_R%{%NL%%GOLD%Skeleton Key : unlimited use key %NL%}
-ItemDisplay[lsvl INVENTORY]:%GOLD%Vial of %RED%L%ORANGE%i%YELLOW%g%GREEN%h%BLUE%t%PURPLE%s%WHITE%o%RED%n%ORANGE%g %TAN%Ã°{%NL%%GOLD%Makes item Ethereal : %RED%Vial of Lightsong %WHITE%+ %GREEN%Item%NL%%BLUE%doesnt work with set items or items that lack durability (indestructible items)%NL%}
+ItemDisplay[lsvl INVENTORY]:%GOLD%Vial of %RED%L%ORANGE%i%YELLOW%g%GREEN%h%BLUE%t%PURPLE%s%WHITE%o%RED%n%ORANGE%g %TAN%ÃƒÂ°{%NL%%GOLD%Makes item Ethereal : %RED%Vial of Lightsong %WHITE%+ %GREEN%Item%NL%%BLUE%doesnt work with set items or items that lack durability (indestructible items)%NL%}
 ItemDisplay[llmr INVENTORY]:%GOLD%Lilith's %RED%M%ORANGE%i%YELLOW%r%GREEN%r%BLUE%o%PURPLE%r{%NL%%GOLD%Mirrors items : %RED%Lilith's Mirror %WHITE%+ %GREEN%Item%NL%%BLUE%color changed to white,black and cannot be used in any cube recipes%NL%}
 ItemDisplay[jewf INVENTORY]:%GOLD%Jewel %GOLD%F%TAN%r%GOLD%a%TAN%g%GOLD%m%TAN%e%LIGHT_GRAY%n%WHITE%t%WHITE%s%WHITE%* %GREEN%(%QTY%){%NL%%GOLD%Jewel Fragments : stackable jewel%NL%}
 ItemDisplay[cwss INVENTORY]:%GOLD%Tainted %RED%W%ORANGE%o%YELLOW%r%GREEN%l%BLUE%d%PURPLE%s%WHITE%t%RED%o%ORANGE%n%YELLOW%e %RED%Shard%WHITE%* %GREEN%%QTY%{%NL%%GOLD%Tainted Worldstone Shard : corrupts Annihilus, from Rathma %NL%}
 ItemDisplay[rid INVENTORY]:%GOLD%Horadrim %RED%A%ORANGE%l%YELLOW%m%GREEN%a%BLUE%n%PURPLE%a%WHITE%c{%NL%%GOLD%Horadrim Almanac : unlimited ID tome, from Rathma %NL%}
 ItemDisplay[rtp INVENTORY]:%GOLD%Horadrim %RED%N%ORANGE%a%YELLOW%v%GREEN%i%BLUE%g%PURPLE%a%WHITE%t%RED%o%ORANGE%r{%NL%%GOLD%Horadrim Navigator : unlimited TP tome, from Rathma %NL%}
 
-ItemDisplay[lsvl !INVENTORY]:%SOUNDID-4717%%MAP-0B%%RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y     %GOLD%Vial of %RED%LIGHTSONG %TAN%Ã°     %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y %RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O{%NL%%GOLD%Makes item Ethereal : %RED%Vial of Lightsong %WHITE%+ %GREEN%Item%NL%%BLUE%doesnt work with set items or items that lack durability (indestructible items)%NL%}
+ItemDisplay[lsvl !INVENTORY]:%SOUNDID-4717%%MAP-0B%%RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y     %GOLD%Vial of %RED%LIGHTSONG %TAN%ÃƒÂ°     %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y %RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O{%NL%%GOLD%Makes item Ethereal : %RED%Vial of Lightsong %WHITE%+ %GREEN%Item%NL%%BLUE%doesnt work with set items or items that lack durability (indestructible items)%NL%}
 ItemDisplay[llmr !INVENTORY]:%SOUNDID-4717%%MAP-0B%%RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y     %GOLD%Lilith's %ORANGE%Mirror     %RED%L%ORANGE%U%GREEN%C%BLUE%K%PURPLE%Y %RED%O%ORANGE%O%YELLOW%O%GREEN%O%PURPLE%O{%NL%%GOLD%Mirrors items : %RED%Lilith's Mirror %WHITE%+ %GREEN%Item%NL%%BLUE%color changed to white,black and cannot be used in any cube recipes%NL%}
 ItemDisplay[jewf !INVENTORY]:%GOLD%Jewel %WHITE%Frag%PURPLE%ments%WHITE%O %GREEN%(%QTY%) {%NL%%GOLD%Jewel Fragments : stackable jewel%NL%}
 ItemDisplay[cwss !INVENTORY]:%SOUNDID-4717%%MAP-0B%%DROP_SYMBOL_L%%WHITE%[ %GOLD%Tainted WSS%WHITE%O %GREEN%%QTY% %WHITE%]%DROP_SYMBOL_R%{%NL%%GOLD%Tainted Worldstone Shard : corrupts Annihilus, from Rathma %NL%}
@@ -3300,8 +3300,8 @@ ItemDisplay[RARE (WEAPON OR ARMOR) ETH !ID]: %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WH
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //                                        RUNE WORD                                            //
 /////////////////////////////////////////////////////////////////////////////////////////////////
-//ItemDisplay[WEAPON RW 1H !WP11 !WP12 !CL6]:%WHITE%[%ORANGE%%ED%%GREEN%d%WHITE%] %GOLD%%NAME% %CONTINUE% //í•œì† ë¬´ê¸° ë§¥ëŽ€
-//ItemDisplay[WEAPON RW 2H !WP11 !WP12 !CL6]:%WHITE%[%ORANGE%%ED%%GREEN%d%WHITE%] %GOLD%%NAME% %CONTINUE% //ì–‘ì†ë¬´ê¸° ë§¥ëŽ€
+//ItemDisplay[WEAPON RW 1H !WP11 !WP12 !CL6]:%WHITE%[%ORANGE%%ED%%GREEN%d%WHITE%] %GOLD%%NAME% %CONTINUE% //Ã­â€¢Å“Ã¬â€ Â Ã«Â¬Â´ÃªÂ¸Â° Ã«Â§Â¥Ã«Å½â‚¬
+//ItemDisplay[WEAPON RW 2H !WP11 !WP12 !CL6]:%WHITE%[%ORANGE%%ED%%GREEN%d%WHITE%] %GOLD%%NAME% %CONTINUE% //Ã¬â€“â€˜Ã¬â€ ÂÃ«Â¬Â´ÃªÂ¸Â° Ã«Â§Â¥Ã«Å½â‚¬
 ItemDisplay[RW (EDAM>249) !EDAM=300 !WP11 !WP12 !WP13 !CL6]:%NAME% %WHITE%%EDAM%%%CONTINUE%
 ItemDisplay[RW (EDAM=300) !WP11 !WP12 !WP13 !CL6]:%NAME% %CORAL%3%WHITE%0%GREEN%0%%CONTINUE%
 
@@ -6443,7 +6443,7 @@ ItemDisplay[(kri OR 9kr OR 7kr) !RW NMAG !SOCK=2 !SOCK=1 (SK73>2 OR SK254>2 OR S
 //6 soc weapon bases
 ItemDisplay[(crs OR mpi OR wax OR hal OR spt OR lbb) !RW NMAG SOCK=6 FILTLVL>9]:
 ItemDisplay[(crs OR mpi OR wax OR hal OR spt OR lbb) !RW NMAG SOCK=6 MAPID>132]:
-ItemDisplay[(crs OR mpi OR wax OR hal OR spt OR lbb) !RW NMAG SOCK=6]:%GRAY%%NAME% %PURPLE%[%ORANGE%6Soc %SAGE%Base%PURPLE%]{%WHITE%••••••      %TAN%6Soc Base Item      %WHITE%••••••%NL%%NAME%}
+ItemDisplay[(crs OR mpi OR wax OR hal OR spt OR lbb) !RW NMAG SOCK=6]:%GRAY%%NAME% %PURPLE%[%ORANGE%6Soc %SAGE%Base%PURPLE%]{%WHITE%â€¢â€¢â€¢â€¢â€¢â€¢      %TAN%6Soc Base Item      %WHITE%â€¢â€¢â€¢â€¢â€¢â€¢%NL%%NAME%}
 
 //imbue
 ItemDisplay[(ci3 OR 7cr) !ETH NMAG !RW (SOCK=0 OR SOCK=3) FILTLVL>9]:
@@ -6451,7 +6451,7 @@ ItemDisplay[(ci3 OR 7cr) !ETH NMAG (SOCK=0)]: %GRAY%%NAME%%ORANGE%(imbue)
 ItemDisplay[ci3 !ETH NMAG (SOCK=3)]: %GRAY%%NAME%
 
 //VENDING ITEM
-ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk OR 7dg OR 7di OR 9tk OR 9ta OR 9bk OR tkf OR tax OR bkf) !RW !ob5 !oba !obf PRICE>30000 DIFF>1]:%ORANGE%[$%PRICE%]%NL%%NAME%{%NL%%WHITE%••••••        %RED%Sell this item for Money        %WHITE%••••••%NL%%NAME%}
+ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk OR 7dg OR 7di OR 9tk OR 9ta OR 9bk OR tkf OR tax OR bkf) !RW !ob5 !oba !obf PRICE>30000 DIFF>1]:%ORANGE%[$%PRICE%]%NL%%NAME%{%NL%%WHITE%â€¢â€¢â€¢â€¢â€¢â€¢        %RED%Sell this item for Money        %WHITE%â€¢â€¢â€¢â€¢â€¢â€¢%NL%%NAME%}
 //ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>34999 DIFF>1]:%NAME%%ORANGE%[$%PRICE%]{%NAME%}
 ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>29999 DIFF=1]:%NAME%%ORANGE%[$%PRICE%]{%NAME%}
 ItemDisplay[NMAG (WP12 OR CL6 OR 7tk OR 7ta OR 7bk) !RW !ob5 !oba !obf PRICE>4999 DIFF=0]:%NAME%%ORANGE%[$%PRICE%]{%NAME%}
@@ -8620,17 +8620,17 @@ ItemDisplay[(UNI) ID (8ws OR 8bs OR 8cs OR cst) ALLSK=4]:%NAME%{%RIN_SYMBOL_L%  
 ItemDisplay[(RARE OR CRAFT) ID EQ7 ((CLSK0>1 AND ALLSK=1) OR (CLSK1>1 AND ALLSK=1) OR (CLSK2>1 AND ALLSK=1) OR (CLSK3>1 AND ALLSK=1) OR (CLSK4>1 AND ALLSK=1) OR (CLSK5>1 AND ALLSK=1) OR (CLSK6>1 AND ALLSK=1))]:%NAME%{%RIN_SYMBOL_L%    %PURPLE%%TEAL%Ul%ORANGE%ti%YELLOW%ma%GOLD%te %WHITE%Op%RED%ti%GREEN%on    %RIN_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 ItemDisplay[(MAG) ID EQ7 ((CLSK0>2 AND ALLSK=1) OR (CLSK1>2 AND ALLSK=1) OR (CLSK2>2 AND ALLSK=1) OR (CLSK3>2 AND ALLSK=1) OR (CLSK4>2 AND ALLSK=1) OR (CLSK5>2 AND ALLSK=1) OR (CLSK6>2 AND ALLSK=1))]:%NAME%{%RIN_SYMBOL_L%    %PURPLE%%TEAL%Ul%ORANGE%ti%YELLOW%ma%GOLD%te %WHITE%Op%RED%ti%GREEN%on    %RIN_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 //ItemDisplay[(UNI) ID uvc IAS=30]:%NAME%{%RIN_SYMBOL_L%    %PURPLE%%TEAL%Ul%ORANGE%ti%YELLOW%ma%GOLD%te %WHITE%Op%RED%ti%GREEN%on    %RIN_SYMBOL_R%%NL%%NAME%}%CONTINUE%
-ItemDisplay[(CL4 OR WP12) ID (RARE OR CRAFT OR MAG) ((CLSK2=2 AND SK94=3) OR (TABSK18=3 AND SK94=3))]:%NAME%{%RED%••%BLUE%••%PURPLE%••%ORANGE%••  %RED%S%ORANGE%t%YELLOW%u%GREEN%f%BLUE%f%PURPLE%e%GOLD%d %RED%Fire %WHITE%Golem  %ORANGE%••%PURPLE%••%BLUE%••%RED%••%NL%%NAME%}%CONTINUE%
-ItemDisplay[(CL4 OR WP12) ID (RARE OR CRAFT OR MAG) ((CLSK2=2 AND SK69=3) OR (TABSK18=3 AND SK69=3))]:%NAME%{%RED%••%BLUE%••%PURPLE%••%ORANGE%••  %RED%S%ORANGE%t%YELLOW%u%GREEN%f%BLUE%f%PURPLE%e%GOLD%d %RED%Skeleton %WHITE%Mastery  %ORANGE%••%PURPLE%••%BLUE%••%RED%••%NL%%NAME%}%CONTINUE%
-ItemDisplay[(CL4 OR WP12) ID (RARE OR CRAFT OR MAG) ((CLSK2=2 AND SK80=3) OR (TABSK18=3 AND SK80=3))]:%NAME%{%RED%••%BLUE%••%PURPLE%••%ORANGE%••  %RED%S%ORANGE%t%YELLOW%u%GREEN%f%BLUE%f%PURPLE%e%GOLD%d %RED%Skeleton %WHITE%Mage  %ORANGE%••%PURPLE%••%BLUE%••%RED%••%NL%%NAME%}%CONTINUE%
-ItemDisplay[(CL4 OR WP12) ID (RARE OR CRAFT OR MAG) ((CLSK2=2 AND SK70=3) OR (TABSK18=3 AND SK70=3))]:%NAME%{%RED%••%BLUE%••%PURPLE%••%ORANGE%••  %RED%S%ORANGE%t%YELLOW%u%GREEN%f%BLUE%f%PURPLE%e%GOLD%d %RED%Skeleton %WHITE%Warrior  %ORANGE%••%PURPLE%••%BLUE%••%RED%••%NL%%NAME%}%CONTINUE%
-ItemDisplay[(CL4 OR WP12) ID (RARE OR CRAFT OR MAG) ((CLSK2=2 AND SK67=3) OR (TABSK17=3 AND SK67=3))]:%NAME%{%RED%••%BLUE%••%PURPLE%••%ORANGE%••  %RED%S%ORANGE%t%YELLOW%u%GREEN%f%BLUE%f%PURPLE%e%GOLD%d %RED%Teeth %WHITE%Spell  %ORANGE%••%PURPLE%••%BLUE%••%RED%••%NL%%NAME%}%CONTINUE%
-ItemDisplay[(CL4 OR WP12) ID (RARE OR CRAFT OR MAG) ((CLSK2=2 AND SK75=3) OR (TABSK17=3 AND SK75=3))]:%NAME%{%RED%••%BLUE%••%PURPLE%••%ORANGE%••  %RED%S%ORANGE%t%YELLOW%u%GREEN%f%BLUE%f%PURPLE%e%GOLD%d %RED%Clay %WHITE%Golem  %ORANGE%••%PURPLE%••%BLUE%••%RED%••%NL%%NAME%}%CONTINUE%
-ItemDisplay[(CL5) ID (RARE OR CRAFT OR MAG) ((CLSK6=2 AND TABSK48=3) OR (TABSK48=3 AND SK262=3))]:%NAME%{%RED%••%BLUE%••%PURPLE%••%ORANGE%••  %RED%S%ORANGE%t%YELLOW%u%GREEN%f%BLUE%f%PURPLE%e%GOLD%d %RED%Fire %WHITE%Trap  %ORANGE%••%PURPLE%••%BLUE%••%RED%••%NL%%NAME%}%CONTINUE%
-ItemDisplay[(CHEST) ID (RARE OR CRAFT) EDAM>189 STAT36>25]:%NAME%{%RED%••%BLUE%••%PURPLE%••%ORANGE%••  %SAGE%High %RED%Damage %WHITE%& %BLUE%PDR  %ORANGE%••%PURPLE%••%BLUE%••%RED%••%NL%%NAME%}%CONTINUE%
+ItemDisplay[(CL4 OR WP12) ID (RARE OR CRAFT OR MAG) ((CLSK2=2 AND SK94=3) OR (TABSK18=3 AND SK94=3))]:%NAME%{%RED%â€¢â€¢%BLUE%â€¢â€¢%PURPLE%â€¢â€¢%ORANGE%â€¢â€¢  %RED%S%ORANGE%t%YELLOW%u%GREEN%f%BLUE%f%PURPLE%e%GOLD%d %RED%Fire %WHITE%Golem  %ORANGE%â€¢â€¢%PURPLE%â€¢â€¢%BLUE%â€¢â€¢%RED%â€¢â€¢%NL%%NAME%}%CONTINUE%
+ItemDisplay[(CL4 OR WP12) ID (RARE OR CRAFT OR MAG) ((CLSK2=2 AND SK69=3) OR (TABSK18=3 AND SK69=3))]:%NAME%{%RED%â€¢â€¢%BLUE%â€¢â€¢%PURPLE%â€¢â€¢%ORANGE%â€¢â€¢  %RED%S%ORANGE%t%YELLOW%u%GREEN%f%BLUE%f%PURPLE%e%GOLD%d %RED%Skeleton %WHITE%Mastery  %ORANGE%â€¢â€¢%PURPLE%â€¢â€¢%BLUE%â€¢â€¢%RED%â€¢â€¢%NL%%NAME%}%CONTINUE%
+ItemDisplay[(CL4 OR WP12) ID (RARE OR CRAFT OR MAG) ((CLSK2=2 AND SK80=3) OR (TABSK18=3 AND SK80=3))]:%NAME%{%RED%â€¢â€¢%BLUE%â€¢â€¢%PURPLE%â€¢â€¢%ORANGE%â€¢â€¢  %RED%S%ORANGE%t%YELLOW%u%GREEN%f%BLUE%f%PURPLE%e%GOLD%d %RED%Skeleton %WHITE%Mage  %ORANGE%â€¢â€¢%PURPLE%â€¢â€¢%BLUE%â€¢â€¢%RED%â€¢â€¢%NL%%NAME%}%CONTINUE%
+ItemDisplay[(CL4 OR WP12) ID (RARE OR CRAFT OR MAG) ((CLSK2=2 AND SK70=3) OR (TABSK18=3 AND SK70=3))]:%NAME%{%RED%â€¢â€¢%BLUE%â€¢â€¢%PURPLE%â€¢â€¢%ORANGE%â€¢â€¢  %RED%S%ORANGE%t%YELLOW%u%GREEN%f%BLUE%f%PURPLE%e%GOLD%d %RED%Skeleton %WHITE%Warrior  %ORANGE%â€¢â€¢%PURPLE%â€¢â€¢%BLUE%â€¢â€¢%RED%â€¢â€¢%NL%%NAME%}%CONTINUE%
+ItemDisplay[(CL4 OR WP12) ID (RARE OR CRAFT OR MAG) ((CLSK2=2 AND SK67=3) OR (TABSK17=3 AND SK67=3))]:%NAME%{%RED%â€¢â€¢%BLUE%â€¢â€¢%PURPLE%â€¢â€¢%ORANGE%â€¢â€¢  %RED%S%ORANGE%t%YELLOW%u%GREEN%f%BLUE%f%PURPLE%e%GOLD%d %RED%Teeth %WHITE%Spell  %ORANGE%â€¢â€¢%PURPLE%â€¢â€¢%BLUE%â€¢â€¢%RED%â€¢â€¢%NL%%NAME%}%CONTINUE%
+ItemDisplay[(CL4 OR WP12) ID (RARE OR CRAFT OR MAG) ((CLSK2=2 AND SK75=3) OR (TABSK17=3 AND SK75=3))]:%NAME%{%RED%â€¢â€¢%BLUE%â€¢â€¢%PURPLE%â€¢â€¢%ORANGE%â€¢â€¢  %RED%S%ORANGE%t%YELLOW%u%GREEN%f%BLUE%f%PURPLE%e%GOLD%d %RED%Clay %WHITE%Golem  %ORANGE%â€¢â€¢%PURPLE%â€¢â€¢%BLUE%â€¢â€¢%RED%â€¢â€¢%NL%%NAME%}%CONTINUE%
+ItemDisplay[(CL5) ID (RARE OR CRAFT OR MAG) ((CLSK6=2 AND TABSK48=3) OR (TABSK48=3 AND SK262=3))]:%NAME%{%RED%â€¢â€¢%BLUE%â€¢â€¢%PURPLE%â€¢â€¢%ORANGE%â€¢â€¢  %RED%S%ORANGE%t%YELLOW%u%GREEN%f%BLUE%f%PURPLE%e%GOLD%d %RED%Fire %WHITE%Trap  %ORANGE%â€¢â€¢%PURPLE%â€¢â€¢%BLUE%â€¢â€¢%RED%â€¢â€¢%NL%%NAME%}%CONTINUE%
+ItemDisplay[(CHEST) ID (RARE OR CRAFT) EDAM>189 STAT36>25]:%NAME%{%RED%â€¢â€¢%BLUE%â€¢â€¢%PURPLE%â€¢â€¢%ORANGE%â€¢â€¢  %SAGE%High %RED%Damage %WHITE%& %BLUE%PDR  %ORANGE%â€¢â€¢%PURPLE%â€¢â€¢%BLUE%â€¢â€¢%RED%â€¢â€¢%NL%%NAME%}%CONTINUE%
 
-ItemDisplay[(WEAPON OR ARMOR) ID GFIND>200]:%NAME%{%RED%••%BLUE%••%PURPLE%••%ORANGE%••  %GOLD%Gold %RED%Finder %ORANGE%••%PURPLE%••%BLUE%••%RED%••%NL%%NAME%}%CONTINUE%
-ItemDisplay[(WEAPON OR ARMOR) ID STAT86>0 MAEK>0]:%NAME%{%RED%••%BLUE%••%PURPLE%••%ORANGE%••  %GOLD%Dual %RED%After each kill %ORANGE%••%PURPLE%••%BLUE%••%RED%••%NL%%NAME%}%CONTINUE%
+ItemDisplay[(WEAPON OR ARMOR) ID GFIND>200]:%NAME%{%RED%â€¢â€¢%BLUE%â€¢â€¢%PURPLE%â€¢â€¢%ORANGE%â€¢â€¢  %GOLD%Gold %RED%Finder %ORANGE%â€¢â€¢%PURPLE%â€¢â€¢%BLUE%â€¢â€¢%RED%â€¢â€¢%NL%%NAME%}%CONTINUE%
+ItemDisplay[(WEAPON OR ARMOR) ID STAT86>0 MAEK>0]:%NAME%{%RED%â€¢â€¢%BLUE%â€¢â€¢%PURPLE%â€¢â€¢%ORANGE%â€¢â€¢  %GOLD%Dual %RED%After each kill %ORANGE%â€¢â€¢%PURPLE%â€¢â€¢%BLUE%â€¢â€¢%RED%â€¢â€¢%NL%%NAME%}%CONTINUE%
 ItemDisplay[(UNI) cqv3 (STAT141>0 FRES>0 STAT62>0 STAT362>0) ID ALLSK>0]:%NAME%{%RIN_SYMBOL_L%    %PURPLE%%TEAL%Ul%ORANGE%ti%YELLOW%ma%GOLD%te %WHITE%Op%RED%ti%GREEN%on    %RIN_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 ItemDisplay[(UNI) (zvb OR uvc) ID (IAS=10 OR IAS=30)]:%NAME%{%RIN_SYMBOL_L%    %PURPLE%%TEAL%Ul%ORANGE%ti%YELLOW%ma%GOLD%te %WHITE%Op%RED%ti%GREEN%on    %RIN_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 ItemDisplay[(UNI) (xth OR uth) ID (ALLSK=2) FCR>29 FHR>29 DEX>14 MFIND>10]:%NAME%{%RIN_SYMBOL_L%    %PURPLE%%TEAL%Ul%ORANGE%ti%YELLOW%ma%GOLD%te %WHITE%Op%RED%ti%GREEN%on    %RIN_SYMBOL_R%%NL%%NAME%}%CONTINUE%
@@ -8641,8 +8641,8 @@ ItemDisplay[(UNI) (uhg) ID STAT360=2]:%NAME%{%RIN_SYMBOL_L%    %PURPLE%%TEAL%Ul%
 ItemDisplay[(UNI) (utg) ID FCR=30]:%NAME%{%RIN_SYMBOL_L%    %PURPLE%%TEAL%Ul%ORANGE%ti%YELLOW%ma%GOLD%te %WHITE%Op%RED%ti%GREEN%on    %RIN_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 ItemDisplay[(UNI) (amf) ID IAS>50]:%NAME%{%RIN_SYMBOL_L%    %PURPLE%%TEAL%High Speed Option    %RIN_SYMBOL_R%%NL%%NAME%}%CONTINUE%
 ItemDisplay[(MAG) (am1) ID]:%NAME%{%LIGHT_GRAY% Over 5Skill with IAS %NL%%GOLD%Caster Craft base for %RED%fire amazon%NL%%NAME%}%CONTINUE%
-ItemDisplay[(MAG OR RARE OR CRAFT) (am1 OR am2 OR am6 OR am7 OR amb OR amc) ((CLSK0>1 AND TABSK0>3) OR (CLSK0=1 AND TABSK0>4) OR (TABSK0>5) OR (TABSK0=5)) ID]:%NAME%{%CORAL%••%WHITE%••%TEAL%••%BLUE%••  %CORAL%H%SAGE%i%WHITE%g%GRAY%h %GOLD%Skill %WHITE%Option  %BLUE%••%TEAL%••%WHITE%••%CORAL%••%NL%%NAME%}%CONTINUE%
-ItemDisplay[(MAG OR RARE OR CRAFT) (CL5) ((CLSK6>1 AND TABSK48>2) OR (TABSK48>2 AND SK257>2) OR (CLSK6>1 AND SK257>2)) ID]:%NAME%{%CORAL%••%WHITE%••%TEAL%••%BLUE%••  %CORAL%Blade Sentinel  %BLUE%••%TEAL%••%WHITE%••%CORAL%••%NL%%NAME%}%CONTINUE%
+ItemDisplay[(MAG OR RARE OR CRAFT) (am1 OR am2 OR am6 OR am7 OR amb OR amc) ((CLSK0>1 AND TABSK0>3) OR (CLSK0=1 AND TABSK0>4) OR (TABSK0>5) OR (TABSK0=5)) ID]:%NAME%{%CORAL%â€¢â€¢%WHITE%â€¢â€¢%TEAL%â€¢â€¢%BLUE%â€¢â€¢  %CORAL%H%SAGE%i%WHITE%g%GRAY%h %GOLD%Skill %WHITE%Option  %BLUE%â€¢â€¢%TEAL%â€¢â€¢%WHITE%â€¢â€¢%CORAL%â€¢â€¢%NL%%NAME%}%CONTINUE%
+ItemDisplay[(MAG OR RARE OR CRAFT) (CL5) ((CLSK6>1 AND TABSK48>2) OR (TABSK48>2 AND SK257>2) OR (CLSK6>1 AND SK257>2)) ID]:%NAME%{%CORAL%â€¢â€¢%WHITE%â€¢â€¢%TEAL%â€¢â€¢%BLUE%â€¢â€¢  %CORAL%Blade Sentinel  %BLUE%â€¢â€¢%TEAL%â€¢â€¢%WHITE%â€¢â€¢%CORAL%â€¢â€¢%NL%%NAME%}%CONTINUE%
 
 ItemDisplay[(RARE OR CRAFT) ID ETH EQ4 STAT60>0 STAT62>0 STAT141>0 RES>0 REPAIR>0]:%NAME%{%R10_SYMBOL%  %PURPLE%Purgatory Item  %R11_SYMBOL%%NL%%NAME%}%CONTINUE%
 ItemDisplay[(RARE OR CRAFT) ID ETH EQ5 FRW>0 (STAT0>0 OR STAT2>0) RES>0 REPAIR>0]:%NAME%{%R10_SYMBOL%  %PURPLE%Purgatory Item  %R11_SYMBOL%%NL%%NAME%}%CONTINUE%
