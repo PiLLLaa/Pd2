@@ -1987,6 +1987,9 @@ ItemDisplay[t13 !ID]: %MAP-62%%PURPLE%@%WHITE%@   %NAME% %GREEN%Tier2   %WHITE%@
 
 //Tier3
 ItemDisplay[t3a !ID]: %MAP-62%%PURPLE%@%WHITE%@   %NAME% %RED%Tier3   %WHITE%@%PURPLE%@
+//s13
+ItemDisplay[t3b !ID]: %MAP-62%%PURPLE%@%WHITE%@   %NAME% %RED%Tier3   %WHITE%@%PURPLE%@
+
 ItemDisplay[t35 !ID]: %MAP-62%%PURPLE%@%WHITE%@   %NAME% %RED%Tier3   %WHITE%@%PURPLE%@
 ItemDisplay[t38 !ID]: %MAP-62%%PURPLE%@%WHITE%@   %NAME% %RED%Tier3   %WHITE%@%PURPLE%@
 ItemDisplay[t39 !ID]: %MAP-62%%PURPLE%@%WHITE%@   %NAME% %RED%Tier3   %WHITE%@%PURPLE%@
@@ -2029,6 +2032,10 @@ ItemDisplay[t53 !ID]: %SOUNDID-2678%%MAP-62%%PURPLE%@%WHITE%@   %NAME% %PURPLE%T
 //S11
 ItemDisplay[t55 !ID]: %SOUNDID-2678%%MAP-62%%PURPLE%@%WHITE%@   %NAME% %PURPLE%Tier3   %WHITE%@%PURPLE%@
 ItemDisplay[t54 !ID]: %SOUNDID-2678%%MAP-62%%PURPLE%@%WHITE%@   %NAME% %PURPLE%Tier3   %WHITE%@%PURPLE%@
+//s13
+ItemDisplay[t57 !ID]: %SOUNDID-2678%%MAP-62%%PURPLE%@%WHITE%@   %NAME% %PURPLE%Tier3   %WHITE%@%PURPLE%@
+ItemDisplay[t58 !ID]: %SOUNDID-2678%%MAP-62%%PURPLE%@%WHITE%@   %NAME% %PURPLE%Tier2   %WHITE%@%PURPLE%@
+
 ItemDisplay[t17 !ID]: %MAP-62%%PURPLE%@%WHITE%@   %NAME% %SAGE%Tier1   %WHITE%@%PURPLE%@
 
 //s12
