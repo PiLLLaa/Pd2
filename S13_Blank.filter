@@ -6046,7 +6046,7 @@ ItemDisplay[t55 !ID]: %SOUNDID-2678%%MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %
 ItemDisplay[t54 !ID]: %SOUNDID-2678%%MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
 //s13
 ItemDisplay[t57 !ID]: %SOUNDID-2678%%MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
-ItemDisplay[t58 !ID]: %SOUNDID-2678%%MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %RED%Tier2   %PURPLE%++%WHITE%++
+ItemDisplay[t58 !ID]: %SOUNDID-2678%%MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
 
 ItemDisplay[t17 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GRAY%%NAME% %DARK_GREEN%Tier1   %PURPLE%++%WHITE%++
 //s12
