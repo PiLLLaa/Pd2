@@ -5721,79 +5721,31 @@ ItemDisplay[std]:%MAP-0B%%PURPLE%++ %DARK_GREEN%%SAGE%St%GREEN%an%WHITE%da%GREEN
 //                                      PD2 Maps                                               //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 //tier1
-ItemDisplay[t23 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GRAY%%NAME% %DARK_GREEN%Tier1   %PURPLE%++%WHITE%++
-ItemDisplay[t15 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GRAY%%NAME% %DARK_GREEN%Tier1   %PURPLE%++%WHITE%++
-ItemDisplay[t12 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GRAY%%NAME% %DARK_GREEN%Tier1   %PURPLE%++%WHITE%++
-ItemDisplay[t26 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GRAY%%NAME% %DARK_GREEN%Tier1   %PURPLE%++%WHITE%++
-ItemDisplay[t25 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GRAY%%NAME% %DARK_GREEN%Tier1   %PURPLE%++%WHITE%++
-ItemDisplay[t22 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GRAY%%NAME% %DARK_GREEN%Tier1   %PURPLE%++%WHITE%++
-ItemDisplay[t36 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GRAY%%NAME% %DARK_GREEN%Tier1   %PURPLE%++%WHITE%++
+ItemDisplay[MAPTIER=1 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GRAY%%NAME% %DARK_GREEN%Tier1   %PURPLE%++%WHITE%++
 
 //Tier2
-ItemDisplay[t34 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %DARK_GREEN%%NAME% %GREEN%Tier2   %PURPLE%++%WHITE%++
-ItemDisplay[t31 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %DARK_GREEN%%NAME% %GREEN%Tier2   %PURPLE%++%WHITE%++
-ItemDisplay[t24 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %DARK_GREEN%%NAME% %GREEN%Tier2   %PURPLE%++%WHITE%++
-ItemDisplay[t11 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %DARK_GREEN%%NAME% %GREEN%Tier2   %PURPLE%++%WHITE%++
-ItemDisplay[t33 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %DARK_GREEN%%NAME% %GREEN%Tier2   %PURPLE%++%WHITE%++
-ItemDisplay[t13 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %DARK_GREEN%%NAME% %GREEN%Tier2   %PURPLE%++%WHITE%++
+ItemDisplay[MAPTIER=2 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %DARK_GREEN%%NAME% %GREEN%Tier2   %PURPLE%++%WHITE%++
 
 //Tier3
-ItemDisplay[t3a !ID]: %MAP-62%%WHITE%++%PURPLE%++   %RED%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
-//s13
-ItemDisplay[t3b !ID]: %MAP-62%%WHITE%++%PURPLE%++   %RED%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
-
-ItemDisplay[t35 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %RED%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
-ItemDisplay[t38 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %RED%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
-ItemDisplay[t39 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %RED%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
-ItemDisplay[t37 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %RED%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
-ItemDisplay[t14 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %RED%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
-ItemDisplay[t21 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %RED%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
-ItemDisplay[t32 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %RED%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
-//s13
-ItemDisplay[t16 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %NAME% %GREEN%Tier2   %PURPLE%++%WHITE%++
-//S10
-ItemDisplay[t27 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %NAME% %GREEN%Tier2   %PURPLE%++%WHITE%++
-ItemDisplay[t28 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %NAME% %GREEN%Tier2   %PURPLE%++%WHITE%++
-
-//deletion
-ItemDisplay[t10 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GRAY%%NAME% %DARK_GREEN%Tier1   %PURPLE%++%WHITE%++
-//ItemDisplay[t17 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GRAY%%NAME% %DARK_GREEN%Tier1   %PURPLE%++%WHITE%++
-ItemDisplay[t18 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GRAY%%NAME% %DARK_GREEN%Tier1   %PURPLE%++%WHITE%++
-ItemDisplay[t19 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GRAY%%NAME% %DARK_GREEN%Tier1   %PURPLE%++%WHITE%++
-ItemDisplay[t20 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %DARK_GREEN%%NAME% %GREEN%Tier2   %PURPLE%++%WHITE%++
-ItemDisplay[t29 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %DARK_GREEN%%NAME% %GREEN%Tier2   %PURPLE%++%WHITE%++
-ItemDisplay[t30 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %RED%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
+ItemDisplay[MAPTIER=3 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %RED%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
 
 //Tier4
-ItemDisplay[t41 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %PURPLE%Tier4   %PURPLE%++%WHITE%++
-ItemDisplay[t42 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %PURPLE%Tier4   %PURPLE%++%WHITE%++
-ItemDisplay[t43 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %PURPLE%Tier4   %PURPLE%++%WHITE%++
-
-ItemDisplay[t40 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %PURPLE%Tier4   %PURPLE%++%WHITE%++
-ItemDisplay[t44 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %PURPLE%Tier4   %PURPLE%++%WHITE%++
-ItemDisplay[t45 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %PURPLE%Tier4   %PURPLE%++%WHITE%++
-ItemDisplay[t46 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %PURPLE%Tier4   %PURPLE%++%WHITE%++
-ItemDisplay[t47 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %PURPLE%Tier4   %PURPLE%++%WHITE%++
-ItemDisplay[t48 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %PURPLE%Tier4   %PURPLE%++%WHITE%++
-ItemDisplay[t49 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %PURPLE%Tier4   %PURPLE%++%WHITE%++
+ItemDisplay[MAPTIER=4 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %PURPLE%Tier4   %PURPLE%++%WHITE%++
 
 //Tier5
 //S11
-ItemDisplay[t51 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %DARK_GREEN%%NAME% %GREEN%Tier2   %PURPLE%++%WHITE%++
-
-ItemDisplay[t52 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
+ItemDisplay[t51 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %DARK_GREEN%%NAME% %DARK_GREEN%Tier1   %PURPLE%++%WHITE%++
+ItemDisplay[t52 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %GREEN%Tier2   %PURPLE%++%WHITE%++
 ItemDisplay[t53 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
-
 //S11
-ItemDisplay[t55 !ID]: %SOUNDID-2678%%MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
 ItemDisplay[t54 !ID]: %SOUNDID-2678%%MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
+ItemDisplay[t55 !ID]: %SOUNDID-2678%%MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
+//s12
+ItemDisplay[t56 !ID]: %SOUNDID-2678%%MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
 //s13
 ItemDisplay[t57 !ID]: %SOUNDID-2678%%MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
 ItemDisplay[t58 !ID]: %SOUNDID-2678%%MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
 
-ItemDisplay[t17 !ID]: %MAP-62%%WHITE%++%PURPLE%++   %GRAY%%NAME% %DARK_GREEN%Tier1   %PURPLE%++%WHITE%++
-//s12
-ItemDisplay[t56 !ID]: %SOUNDID-2678%%MAP-62%%WHITE%++%PURPLE%++   %GOLD%%NAME% %RED%Tier3   %PURPLE%++%WHITE%++
 
 
 ///////////////////////////////////////////////////////////////
@@ -5813,12 +5765,14 @@ ItemDisplay[MAPTIER=3 ID RARE]:%MAP-62%%YELLOW%%NAME% %RED%Tier3%CONTINUE%
 ItemDisplay[MAPTIER=4 ID NMAG]:%MAP-62%%WHITE%%NAME% %PURPLE%Tier4%WHITE%* %GREEN%%CORAL%%QTY%%CONTINUE%
 ItemDisplay[MAPTIER=4 ID MAG]:%MAP-62%%BLUE%%NAME% %PURPLE%Tier4%CONTINUE%
 ItemDisplay[MAPTIER=4 ID RARE]:%MAP-62%%YELLOW%%NAME% %PURPLE%Tier4%CONTINUE%
-ItemDisplay[(t51 OR t52 OR t53 OR t54 OR t55) UNI]:%NAME% %PURPLE%(U%CORAL%ni%YELLOW%qu%SAGE%e)%CONTINUE%
+ItemDisplay[(t51 OR t52 OR t53 OR t54 OR t55 OR t57 OR t58) UNI]:%NAME% %PURPLE%(U%CORAL%ni%YELLOW%qu%SAGE%e)%CONTINUE%
 
-//s11
-ItemDisplay[(t51) ID]:%MAP-62%%GOLD%%NAME% %GREEN%Tier2%CONTINUE%
-//s12
-ItemDisplay[(t52 OR t53 OR t54 OR t55 OR t56 OR t57 OR t58) ID]:%MAP-62%%GOLD%%NAME% %RED%Tier3%CONTINUE%
+//s11 s13
+ItemDisplay[(t51) ID]:%MAP-62%%GOLD%%NAME% %DARK_GREEN%Tier1%CONTINUE%
+//s13
+ItemDisplay[(t52) ID]:%MAP-62%%GOLD%%NAME% %GREEN%Tier2%CONTINUE%
+//s12 s13
+ItemDisplay[(t53 OR t54 OR t55 OR t56 OR t57 OR t58) ID]:%MAP-62%%GOLD%%NAME% %RED%Tier3%CONTINUE%
 //s11
 //s12
 ItemDisplay[MAPS_ALL2 ID STAT360>0]:%NAME% %RED%C %CONTINUE%
