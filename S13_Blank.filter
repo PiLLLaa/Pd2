@@ -4155,6 +4155,22 @@ ItemDisplay[UNI !ID uhc ETH]:%SOUNDID-2664%%MAP-0C%%ORANGE%++%CORAL%++%SAGE%++  
 ItemDisplay[UNI !ID neg !ETH]:%MAP-0C%%ORANGE%++%CORAL%++%SAGE%++    %RED%Sacred Totem%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID neg ETH]:%MAP-0C%%ORANGE%++%CORAL%++%SAGE%++    %WHITE%(e) %RED%Sacred Totem%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
 
+//s13
+ItemDisplay[UNI !ID obd !ETH]:%MAP-0C%%ORANGE%++%CORAL%++%SAGE%++     %RED%Embersworn%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID obd ETH]:%MAP-0C%%ORANGE%++%CORAL%++%SAGE%++     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Embersworn%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%++%CORAL%++%SAGE%++
+
+ItemDisplay[UNI !ID 7vo !ETH]:%MAP-0C%%ORANGE%++%CORAL%++%SAGE%++     %RED%Giant Maimer%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID 7vo ETH]:%MAP-0C%%ORANGE%++%CORAL%++%SAGE%++     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Giant Maimer%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%++%CORAL%++%SAGE%++
+
+ItemDisplay[UNI !ID pab !ETH]:%MAP-0C%%ORANGE%++%CORAL%++%SAGE%++     %RED%Ephemeral%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID pab ETH]:%MAP-0C%%ORANGE%++%CORAL%++%SAGE%++     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Ephemeral%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%++%CORAL%++%SAGE%++
+
+ItemDisplay[UNI !ID obe !ETH]:%MAP-0C%%ORANGE%++%CORAL%++%SAGE%++     %RED%Skyfall%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID obe ETH]:%MAP-0C%%ORANGE%++%CORAL%++%SAGE%++     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Skyfall%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%++%CORAL%++%SAGE%++
+
+ItemDisplay[UNI !ID 7yw !ETH]:%MAP-0C%%ORANGE%++%CORAL%++%SAGE%++     %RED%Nethercrux%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%++%CORAL%++%SAGE%++
+ItemDisplay[UNI !ID 7yw ETH]:%MAP-0C%%ORANGE%++%CORAL%++%SAGE%++     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Nethercrux%GOLD%[%BASENAME%]%WHITE%(New)     %ORANGE%++%CORAL%++%SAGE%++
+
 //s12
 ItemDisplay[UNI !ID 6hb]:%SOUNDID-2664%%MAP-0C% %ORANGE%++%CORAL%++%SAGE%++    %RED%Crackleshot%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New)     %SAGE%++%CORAL%++%ORANGE%++
 ItemDisplay[UNI !ID (aqv)]:%GOLD%+%PURPLE%+ %TAN%Balefire%PURPLE%[%GRAY%%NAME%%PURPLE%]%WHITE%(New) %PURPLE%+%GOLD%+
