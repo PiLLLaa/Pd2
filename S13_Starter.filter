@@ -3517,6 +3517,22 @@ ItemDisplay[RW MULTI151,100=1]:%NAME% %RED%+1 FAura%CONTINUE%
 //                                           UNIQUE                                            //
 /////////////////////////////////////////////////////////////////////////////////////////////////
 
+//s13
+ItemDisplay[UNI !ID obd !ETH]:%MAP-0C%%GOLD%@@@@     %RED%Embersworn%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID obd ETH]:%MAP-0C%%GOLD%@@@@     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Embersworn%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+
+ItemDisplay[UNI !ID 7vo !ETH]:%MAP-0C%%GOLD%@@@@     %RED%Giant Maimer%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID 7vo ETH]:%MAP-0C%%GOLD%@@@@     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Giant Maimer%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+
+ItemDisplay[UNI !ID pab !ETH]:%MAP-0C%%GOLD%@@@@     %RED%Ephemeral%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID pab ETH]:%MAP-0C%%GOLD%@@@@     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Ephemeral%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+
+ItemDisplay[UNI !ID obe !ETH]:%MAP-0C%%GOLD%@@@@     %RED%Skyfall%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID obe ETH]:%MAP-0C%%GOLD%@@@@     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Skyfall%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+
+ItemDisplay[UNI !ID 7yw !ETH]:%MAP-0C%%GOLD%@@@@     %RED%Nethercrux%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+ItemDisplay[UNI !ID 7yw ETH]:%MAP-0C%%GOLD%@@@@     %WHITE%[%PURPLE%E%WHITE%t%BLUE%h%WHITE%] %RED%Nethercrux%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
+
 //s12
 ItemDisplay[UNI !ID 6hb]:%MAP-0C% %GOLD%@@@@     %RED%Crackleshot%GOLD%[%BASENAME%]%WHITE%(New)     %GOLD%@@@@
 ItemDisplay[UNI !ID (aqv)]:%ORANGE%@@  %TAN%Balefire%GRAY%[%BASENAME%]%WHITE%(New) %ORANGE%@@
