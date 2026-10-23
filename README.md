@@ -29,7 +29,8 @@
  #### S10 updated 25.Oct,2024
  #### S11 updated 17.May,2025
  #### S12 updated 29.Nov,2025
- ### S13 updated 27.Apr,2026
+ #### S13 updated 27.Apr,2026
+ ### S14 updated 23.Oct,2026
 
  ### Explanation for Each Filter 
     1. Hype : Various colour table
@@ -47,7 +48,7 @@
     2. The normal item which has 6 soc is able (cristal sword, halberd, and so on)
     4. 4soc spears and polearm(normal type) is activated till level 79 (Only Starter filter)
     5. Fitler have differential for Symbol&Colour system. 
-    6. All fitler(excepted stricter filter) have Filter level to active hp5/mp5/anti potion.
+    6. All fitler(excepted stricter filter) have Filter level to active anti potion. (S14: hide hp5/mp5 with the in-game loot filter setting)
     7. Corruption and runeword marking
     8. Item Option marking (belt/glove/arrow(bolt)/circlet/amulet)
     9. All uniq item have his name when they drop. for example hydrabow to be shown as windforce.
@@ -88,6 +89,20 @@
 ----------------------------------------------------------------------------------------------------------------------
      2. 18.May
       1) Modified Map recipe
+      
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+     3. 23.Oct (S14)
+      1) Renamed all filters to S14
+      2) Runes/Gems : single runes and gems are stackable now, so they get the stack tooltip (socket stats + quantity)
+      3) Maps : added Poisoned Well(t18), Fortress of Aranoch(t29), Descent from Mount Arreat(t2a) names and resistances
+               Sanatorium moved to Tier1 density, Kyovoshad and Ashen Plains resistances updated
+      4) New uniques : Spectral Plate(Great Hauberk), Warriv's Warder(Heater)
+      5) New runewords : Madness, Finesse, Deception, Jealousy base tooltips
+      6) Max sockets : Armet, Giant Conch, Splint/Plate/Field Plate, Ghost/Serpentskin/Demonhide/Trellised, Matriarchal Javelin now 3
+      7) HP/MP potions no longer hidden by filter level (use the in-game setting)
+      8) Unidentified rare helm/chest/shield shows item level from ilvl 87 (+2 class skill affixes)
       
 ----------------------------------------------------------------------------------------------------------------------
 
