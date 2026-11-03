@@ -52,53 +52,53 @@ ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) (!ETH OR ETH) MAG !I
 ItemDisplay[(dr8 OR dra OR drf OR drd OR drb) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
 ItemDisplay[(CL5 OR am5 OR ama OR amf) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
 //ok
-ItemDisplay[!ALLDISCOVERED (SET !ID (rng OR sbr) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (rng OR sbr) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (rng OR sbr) FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID (skp OR ltp OR wst) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (skp OR ltp OR wst) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (skp OR ltp OR wst) FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID (qui OR vbl OR tgl OR swb) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (qui OR vbl OR tgl OR swb) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (qui OR vbl OR tgl OR swb) FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID (hlm OR spl OR 2ax) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (hlm OR spl OR 2ax) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (hlm OR spl OR 2ax) FILTLVL>4]: 
-ItemDisplay[!ALLDISCOVERED (SET !ID (msk OR chn OR bst) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (msk OR chn OR bst) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (msk OR chn OR bst) FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID (gsc OR lrg) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (gsc OR lrg) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (gsc OR lrg) FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID (lsd OR mgl OR sml) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (lsd OR mgl OR sml) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (lsd OR mgl OR sml) FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID (wsd OR lgl OR lbl) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (wsd OR lgl OR lbl) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (wsd OR lgl OR lbl) FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID (buc OR mbt) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (buc OR mbt) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (buc OR mbt) FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID mbl FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID mbl FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID mbl FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID cap FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID cap FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID cap FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID tbl FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID tbl FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID tbl FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID gwn FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID gwn FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID gwn FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID (bsd OR fhl OR brs OR gts) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (bsd OR fhl OR brs OR gts) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (bsd OR fhl OR brs OR gts) FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID crn FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID crn FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID crn FILTLVL>4]: 
-ItemDisplay[!ALLDISCOVERED (SET !ID (aar OR kit OR wsp) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (aar OR kit OR wsp) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (aar OR kit OR wsp) FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID (ghm OR gth OR hbt OR tow OR hbl OR hgl) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (ghm OR gth OR hbt OR tow OR hbl OR hgl) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (ghm OR gth OR hbt OR tow OR hbl OR hgl) FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID (bhm OR ful OR lbt OR mpi) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (bhm OR ful OR lbt OR mpi) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (bhm OR ful OR lbt OR mpi) FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID (lbb OR lea OR tbt) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (lbb OR lea OR tbt) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (lbb OR lea OR tbt) FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID (xap OR stu) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (xap OR stu) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (xap OR stu) FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID vbt FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID vbt FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID vbt FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID (xrs OR 7ma OR uts OR uhm) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (xrs OR 7ma OR uts OR uhm) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (xrs OR 7ma OR uts OR uhm) FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID (bwn OR vgl) FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (bwn OR vgl) FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (bwn OR vgl) FILTLVL>4]:
-ItemDisplay[!ALLDISCOVERED (SET !ID dgr  FILTLVL>4)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID dgr  FILTLVL>4)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID dgr  FILTLVL>4]:
 //ok
 ItemDisplay[(CL4 OR WP12) MAG !ID FILTLVL>5]:
@@ -133,7 +133,7 @@ ItemDisplay[(oba OR obf) !ETH MAG !ID FILTLVL>10]:
 ItemDisplay[(6ws) !ETH MAG !ID FILTLVL>10]:
 ItemDisplay[(9ga OR 7ga) !ETH MAG !ID FILTLVL>10]:
 //ok
-ItemDisplay[!ALLDISCOVERED (SET !ID (rin OR amu OR WEAPON OR ARMOR) FILTLVL>11)]: %ORANGE%GRAIL %NAME%
+ItemDisplay[!ALLDISCOVERED (SET !ID (rin OR amu OR WEAPON OR ARMOR) FILTLVL>11)]: %DOT-D3%%ORANGE%GRAIL %NAME%
 ItemDisplay[SET !ID (rin OR amu OR WEAPON OR ARMOR) FILTLVL>11]:
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
