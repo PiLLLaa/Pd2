@@ -4,10 +4,6 @@
  ## INTRODUCE
    Hello, Maybe someone knows me in POD game because I had been spent a lot of time to develope the filter for diablo2 POD system. Unfortunately, POD is under rest time to upgrade system. This chance gave me joining the PD2 Game. When I'm were doing game, I felt that it's necessary to make new filter by me. During this time, I felt and am feeling very fantastic experience to learn the new system and architecture of PD2 filtering. I have been tring to understand this everyday by seeing the wiki and by asking the others. So, I did fanally launch the filter which is specialized for PD2 system based on experiencing filter design which came from POD. I'm not sure that this filter meet the your favorite. Now, It may be not to fufill the 100% score for you, however it would be getting perfection from hearing your personally opinion and voice, . Once again, I sincerely need to hear your voice and am glad to wait for your feedback always. Thanks for enjoyning and using my filter.
  
- ## Donation 
-
- ## [Donation Button](https://github.com/sponsors/PiLLLaa)
-
  ## Sponsor List & Thanks to ..
     GLOCKRIVERS
     KhronoGit
